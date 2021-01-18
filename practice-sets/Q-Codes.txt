@@ -1,0 +1,600 @@
+QSO\? [Q S O \?|QSO\?]^
+QRM\? [Q R M \?|QRM\?]^
+QSG\? [Q S G \?|QSG\?]^
+QTC [Q T C|QTC]^
+QRG\? [Q R G \?|QRG\?]^
+QSX\? [Q S X \?|QSX\?]^
+QTX [Q T X|QTX]^
+QSS [Q S S|QSS]^
+QRI [Q R I|QRI]^
+QSA [Q S A|QSA]^
+QRY [Q R Y|QRY]^
+QSM\? [Q S M \?|QSM\?]^
+QRH\? [Q R H \?|QRH\?]^
+QTA [Q T A|QTA]^
+QTC [Q T C|QTC]^
+QRX\? [Q R X \?|QRX\?]^
+QRS\? [Q R S \?|QRS\?]^
+QSG\? [Q S G \?|QSG\?]^
+QRK\? [Q R K \?|QRK\?]^
+QRA [Q R A|QRA]^
+QSW [Q S W|QSW]^
+QSM\? [Q S M \?|QSM\?]^
+QSB [Q S B|QSB]^
+QUA [Q U A|QUA]^
+QRO [Q R O|QRO]^
+QTX [Q T X|QTX]^
+QSX\? [Q S X \?|QSX\?]^
+QSD\? [Q S D \?|QSD\?]^
+QRX\? [Q R X \?|QRX\?]^
+QSN\? [Q S N \?|QSN\?]^
+QSM [Q S M|QSM]^
+QSU\? [Q S U \?|QSU\?]^
+QRK [Q R K|QRK]^
+QTC\? [Q T C \?|QTC\?]^
+QRL [Q R L|QRL]^
+QRX [Q R X|QRX]^
+QSA\? [Q S A \?|QSA\?]^
+QRS [Q R S|QRS]^
+QRM [Q R M|QRM]^
+QSN\? [Q S N \?|QSN\?]^
+QRH [Q R H|QRH]^
+QRQ [Q R Q|QRQ]^
+QTA\? [Q T A \?|QTA\?]^
+QRH\? [Q R H \?|QRH\?]^
+QTA [Q T A|QTA]^
+QRP\? [Q R P \?|QRP\?]^
+QRN\? [Q R N \?|QRN\?]^
+QRX\? [Q R X \?|QRX\?]^
+QSX\? [Q S X \?|QSX\?]^
+QRS\? [Q R S \?|QRS\?]^
+QSV [Q S V|QSV]^
+QTH [Q T H|QTH]^
+QRX\? [Q R X \?|QRX\?]^
+QRH [Q R H|QRH]^
+QRN\? [Q R N \?|QRN\?]^
+QSY [Q S Y|QSY]^
+QSA [Q S A|QSA]^
+QRN [Q R N|QRN]^
+QRA [Q R A|QRA]^
+QRG\? [Q R G \?|QRG\?]^
+QSK [Q S K|QSK]^
+QSL\? [Q S L \?|QSL\?]^
+QRP [Q R P|QRP]^
+QSW\? [Q S W \?|QSW\?]^
+QSX\? [Q S X \?|QSX\?]^
+QTB [Q T B|QTB]^
+QRY\? [Q R Y \?|QRY\?]^
+QTR [Q T R|QTR]^
+QSX\? [Q S X \?|QSX\?]^
+QSU\? [Q S U \?|QSU\?]^
+QRI [Q R I|QRI]^
+QRJ [Q R J|QRJ]^
+QRV [Q R V|QRV]^
+QTH [Q T H|QTH]^
+QTR [Q T R|QTR]^
+QSD\? [Q S D \?|QSD\?]^
+QRP [Q R P|QRP]^
+QRN\? [Q R N \?|QRN\?]^
+QSP [Q S P|QSP]^
+QRI\? [Q R I \?|QRI\?]^
+QTH [Q T H|QTH]^
+QRH [Q R H|QRH]^
+QTX [Q T X|QTX]^
+QSP\? [Q S P \?|QSP\?]^
+QSX [Q S X|QSX]^
+QRP\? [Q R P \?|QRP\?]^
+QRZ [Q R Z|QRZ]^
+QRG\? [Q R G \?|QRG\?]^
+QTC\? [Q T C \?|QTC\?]^
+QSM\? [Q S M \?|QSM\?]^
+QRT\? [Q R T \?|QRT\?]^
+QRO\? [Q R O \?|QRO\?]^
+QSP [Q S P|QSP]^
+QRT [Q R T|QRT]^
+QRO [Q R O|QRO]^
+QTC\? [Q T C \?|QTC\?]^
+QSD\? [Q S D \?|QSD\?]^
+QRY [Q R Y|QRY]^
+QRI [Q R I|QRI]^
+QUA\? [Q U A \?|QUA\?]^
+QSX\? [Q S X \?|QSX\?]^
+QSS\? [Q S S \?|QSS\?]^
+QRK [Q R K|QRK]^
+QSB\? [Q S B \?|QSB\?]^
+QTH\? [Q T H \?|QTH\?]^
+QSZ\? [Q S Z \?|QSZ\?]^
+QSU\? [Q S U \?|QSU\?]^
+QSZ [Q S Z|QSZ]^
+QRV\? [Q R V \?|QRV\?]^
+QRI [Q R I|QRI]^
+QUA [Q U A|QUA]^
+QTB\? [Q T B \?|QTB\?]^
+QRY\? [Q R Y \?|QRY\?]^
+QSL\? [Q S L \?|QSL\?]^
+QSP [Q S P|QSP]^
+QRO\? [Q R O \?|QRO\?]^
+QSD [Q S D|QSD]^
+QTR [Q T R|QTR]^
+QSD [Q S D|QSD]^
+QRI [Q R I|QRI]^
+QRT\? [Q R T \?|QRT\?]^
+QRX [Q R X|QRX]^
+QRS [Q R S|QRS]^
+QTC [Q T C|QTC]^
+QTH\? [Q T H \?|QTH\?]^
+QSS [Q S S|QSS]^
+QRG\? [Q R G \?|QRG\?]^
+QSD [Q S D|QSD]^
+QSN [Q S N|QSN]^
+QRV [Q R V|QRV]^
+QRG\? [Q R G \?|QRG\?]^
+QRK [Q R K|QRK]^
+QSS\? [Q S S \?|QSS\?]^
+QRU [Q R U|QRU]^
+QTC [Q T C|QTC]^
+QUA\? [Q U A \?|QUA\?]^
+QSX\? [Q S X \?|QSX\?]^
+QSZ [Q S Z|QSZ]^
+QSU\? [Q S U \?|QSU\?]^
+QRN [Q R N|QRN]^
+QSP\? [Q S P \?|QSP\?]^
+QRS\? [Q R S \?|QRS\?]^
+QRX [Q R X|QRX]^
+QSV [Q S V|QSV]^
+QRU [Q R U|QRU]^
+QUA\? [Q U A \?|QUA\?]^
+QTX [Q T X|QTX]^
+QRQ\? [Q R Q \?|QRQ\?]^
+QSU\? [Q S U \?|QSU\?]^
+QSY\? [Q S Y \?|QSY\?]^
+QRI [Q R I|QRI]^
+QSW\? [Q S W \?|QSW\?]^
+QSY [Q S Y|QSY]^
+QTR\? [Q T R \?|QTR\?]^
+QRZ\? [Q R Z \?|QRZ\?]^
+QSU [Q S U|QSU]^
+QTX [Q T X|QTX]^
+QSD\? [Q S D \?|QSD\?]^
+QSL [Q S L|QSL]^
+QRA [Q R A|QRA]^
+QSS [Q S S|QSS]^
+QUA\? [Q U A \?|QUA\?]^
+QSO [Q S O|QSO]^
+QRN\? [Q R N \?|QRN\?]^
+QSS\? [Q S S \?|QSS\?]^
+QSP [Q S P|QSP]^
+QRQ [Q R Q|QRQ]^
+QSL\? [Q S L \?|QSL\?]^
+QRX [Q R X|QRX]^
+QTR\? [Q T R \?|QTR\?]^
+QRL [Q R L|QRL]^
+QTR [Q T R|QTR]^
+QRT [Q R T|QRT]^
+QTH [Q T H|QTH]^
+QSK [Q S K|QSK]^
+QTX [Q T X|QTX]^
+QRA [Q R A|QRA]^
+QTR [Q T R|QTR]^
+QSM [Q S M|QSM]^
+QTB\? [Q T B \?|QTB\?]^
+QRU [Q R U|QRU]^
+QRQ [Q R Q|QRQ]^
+QSA\? [Q S A \?|QSA\?]^
+QRK\? [Q R K \?|QRK\?]^
+QRP\? [Q R P \?|QRP\?]^
+QSG\? [Q S G \?|QSG\?]^
+QSZ [Q S Z|QSZ]^
+QTX [Q T X|QTX]^
+QTA [Q T A|QTA]^
+QRZ\? [Q R Z \?|QRZ\?]^
+QRW [Q R W|QRW]^
+QRP\? [Q R P \?|QRP\?]^
+QSM\? [Q S M \?|QSM\?]^
+QRW [Q R W|QRW]^
+QRG [Q R G|QRG]^
+QSY [Q S Y|QSY]^
+QRG\? [Q R G \?|QRG\?]^
+QRO [Q R O|QRO]^
+QSO\? [Q S O \?|QSO\?]^
+QSN\? [Q S N \?|QSN\?]^
+QRQ\? [Q R Q \?|QRQ\?]^
+QSS [Q S S|QSS]^
+QRI [Q R I|QRI]^
+QSK [Q S K|QSK]^
+QSN\? [Q S N \?|QSN\?]^
+QRO\? [Q R O \?|QRO\?]^
+QSZ\? [Q S Z \?|QSZ\?]^
+QSU\? [Q S U \?|QSU\?]^
+QRS [Q R S|QRS]^
+QSB [Q S B|QSB]^
+QRH [Q R H|QRH]^
+QSZ [Q S Z|QSZ]^
+QRX [Q R X|QRX]^
+QRT\? [Q R T \?|QRT\?]^
+QRP\? [Q R P \?|QRP\?]^
+QRL [Q R L|QRL]^
+QTR [Q T R|QTR]^
+QSV\? [Q S V \?|QSV\?]^
+QRO [Q R O|QRO]^
+QSD\? [Q S D \?|QSD\?]^
+QRO\? [Q R O \?|QRO\?]^
+QRL\? [Q R L \?|QRL\?]^
+QTA [Q T A|QTA]^
+QRS\? [Q R S \?|QRS\?]^
+QSY\? [Q S Y \?|QSY\?]^
+QRW [Q R W|QRW]^
+QSZ [Q S Z|QSZ]^
+QRZ\? [Q R Z \?|QRZ\?]^
+QRM [Q R M|QRM]^
+QTA\? [Q T A \?|QTA\?]^
+QSG [Q S G|QSG]^
+QRI\? [Q R I \?|QRI\?]^
+QSY\? [Q S Y \?|QSY\?]^
+QRN [Q R N|QRN]^
+QRU [Q R U|QRU]^
+QRV\? [Q R V \?|QRV\?]^
+QSB [Q S B|QSB]^
+QSX\? [Q S X \?|QSX\?]^
+QSW [Q S W|QSW]^
+QRW [Q R W|QRW]^
+QSW [Q S W|QSW]^
+QRV [Q R V|QRV]^
+QRK\? [Q R K \?|QRK\?]^
+QRV [Q R V|QRV]^
+QSZ\? [Q S Z \?|QSZ\?]^
+QSL [Q S L|QSL]^
+QSP\? [Q S P \?|QSP\?]^
+QSU\? [Q S U \?|QSU\?]^
+QRK [Q R K|QRK]^
+QRA [Q R A|QRA]^
+QSA\? [Q S A \?|QSA\?]^
+QRA\? [Q R A \?|QRA\?]^
+QSW\? [Q S W \?|QSW\?]^
+QRA [Q R A|QRA]^
+QTX\? [Q T X \?|QTX\?]^
+QRX\? [Q R X \?|QRX\?]^
+QRN [Q R N|QRN]^
+QSD [Q S D|QSD]^
+QRM\? [Q R M \?|QRM\?]^
+QSO [Q S O|QSO]^
+QRG [Q R G|QRG]^
+QSW\? [Q S W \?|QSW\?]^
+QTB\? [Q T B \?|QTB\?]^
+QRN [Q R N|QRN]^
+QRL [Q R L|QRL]^
+QSW\? [Q S W \?|QSW\?]^
+QSZ\? [Q S Z \?|QSZ\?]^
+QRY [Q R Y|QRY]^
+QTB [Q T B|QTB]^
+QRL\? [Q R L \?|QRL\?]^
+QRA\? [Q R A \?|QRA\?]^
+QSY [Q S Y|QSY]^
+QRY [Q R Y|QRY]^
+QTR\? [Q T R \?|QTR\?]^
+QRP\? [Q R P \?|QRP\?]^
+QRW\? [Q R W \?|QRW\?]^
+QRY [Q R Y|QRY]^
+QSP\? [Q S P \?|QSP\?]^
+QRA\? [Q R A \?|QRA\?]^
+QRG [Q R G|QRG]^
+QRS\? [Q R S \?|QRS\?]^
+QRY [Q R Y|QRY]^
+QSP [Q S P|QSP]^
+QRX [Q R X|QRX]^
+QRW\? [Q R W \?|QRW\?]^
+QSU\? [Q S U \?|QSU\?]^
+QSV [Q S V|QSV]^
+QSL\? [Q S L \?|QSL\?]^
+QSG\? [Q S G \?|QSG\?]^
+QRP\? [Q R P \?|QRP\?]^
+QSK [Q S K|QSK]^
+QSA [Q S A|QSA]^
+QRH\? [Q R H \?|QRH\?]^
+QSX [Q S X|QSX]^
+QRI [Q R I|QRI]^
+QRS [Q R S|QRS]^
+QRP\? [Q R P \?|QRP\?]^
+QUA\? [Q U A \?|QUA\?]^
+QSB\? [Q S B \?|QSB\?]^
+QTC [Q T C|QTC]^
+QRS [Q R S|QRS]^
+QRN [Q R N|QRN]^
+QSW [Q S W|QSW]^
+QSO [Q S O|QSO]^
+QRA [Q R A|QRA]^
+QTR\? [Q T R \?|QTR\?]^
+QRH [Q R H|QRH]^
+QRK [Q R K|QRK]^
+QRH\? [Q R H \?|QRH\?]^
+QRW\? [Q R W \?|QRW\?]^
+QSV\? [Q S V \?|QSV\?]^
+QSK\? [Q S K \?|QSK\?]^
+QRT\? [Q R T \?|QRT\?]^
+QRK\? [Q R K \?|QRK\?]^
+QTA [Q T A|QTA]^
+QSN [Q S N|QSN]^
+QRO\? [Q R O \?|QRO\?]^
+QRL\? [Q R L \?|QRL\?]^
+QSB [Q S B|QSB]^
+QRO [Q R O|QRO]^
+QRT [Q R T|QRT]^
+QTR\? [Q T R \?|QTR\?]^
+QSK\? [Q S K \?|QSK\?]^
+QRS [Q R S|QRS]^
+QRQ [Q R Q|QRQ]^
+QSK\? [Q S K \?|QSK\?]^
+QSW [Q S W|QSW]^
+QTR [Q T R|QTR]^
+QSP [Q S P|QSP]^
+QRL [Q R L|QRL]^
+QRP\? [Q R P \?|QRP\?]^
+QRW\? [Q R W \?|QRW\?]^
+QSL\? [Q S L \?|QSL\?]^
+QRK\? [Q R K \?|QRK\?]^
+QSL\? [Q S L \?|QSL\?]^
+QRP\? [Q R P \?|QRP\?]^
+QRM [Q R M|QRM]^
+QTX [Q T X|QTX]^
+QSX [Q S X|QSX]^
+QSW [Q S W|QSW]^
+QRM\? [Q R M \?|QRM\?]^
+QRJ\? [Q R J \?|QRJ\?]^
+QSM\? [Q S M \?|QSM\?]^
+QRA [Q R A|QRA]^
+QSA [Q S A|QSA]^
+QRY [Q R Y|QRY]^
+QRG\? [Q R G \?|QRG\?]^
+QSM\? [Q S M \?|QSM\?]^
+QRM [Q R M|QRM]^
+QSA [Q S A|QSA]^
+QRA\? [Q R A \?|QRA\?]^
+QSB\? [Q S B \?|QSB\?]^
+QSK [Q S K|QSK]^
+QSA\? [Q S A \?|QSA\?]^
+QTC [Q T C|QTC]^
+QRH\? [Q R H \?|QRH\?]^
+QSD\? [Q S D \?|QSD\?]^
+QSA\? [Q S A \?|QSA\?]^
+QRL [Q R L|QRL]^
+QTB [Q T B|QTB]^
+QRW [Q R W|QRW]^
+QSA [Q S A|QSA]^
+QTR\? [Q T R \?|QTR\?]^
+QTB [Q T B|QTB]^
+QSU\? [Q S U \?|QSU\?]^
+QRP [Q R P|QRP]^
+QRS\? [Q R S \?|QRS\?]^
+QSV\? [Q S V \?|QSV\?]^
+QRU\? [Q R U \?|QRU\?]^
+QRJ [Q R J|QRJ]^
+QSB\? [Q S B \?|QSB\?]^
+QRW [Q R W|QRW]^
+QRP\? [Q R P \?|QRP\?]^
+QSO [Q S O|QSO]^
+QSA [Q S A|QSA]^
+QRJ\? [Q R J \?|QRJ\?]^
+QRA\? [Q R A \?|QRA\?]^
+QRX\? [Q R X \?|QRX\?]^
+QRM\? [Q R M \?|QRM\?]^
+QSX [Q S X|QSX]^
+QRS [Q R S|QRS]^
+QRZ\? [Q R Z \?|QRZ\?]^
+QRT [Q R T|QRT]^
+QRW\? [Q R W \?|QRW\?]^
+QRO [Q R O|QRO]^
+QSN\? [Q S N \?|QSN\?]^
+QTR [Q T R|QTR]^
+QTX\? [Q T X \?|QTX\?]^
+QSV\? [Q S V \?|QSV\?]^
+QRW\? [Q R W \?|QRW\?]^
+QRL\? [Q R L \?|QRL\?]^
+QRV [Q R V|QRV]^
+QRG [Q R G|QRG]^
+QSB [Q S B|QSB]^
+QTH\? [Q T H \?|QTH\?]^
+QRV\? [Q R V \?|QRV\?]^
+QSY\? [Q S Y \?|QSY\?]^
+QSX [Q S X|QSX]^
+QRG\? [Q R G \?|QRG\?]^
+QSU\? [Q S U \?|QSU\?]^
+QSO\? [Q S O \?|QSO\?]^
+QSL [Q S L|QSL]^
+QTA\? [Q T A \?|QTA\?]^
+QRI [Q R I|QRI]^
+QRZ\? [Q R Z \?|QRZ\?]^
+QUA\? [Q U A \?|QUA\?]^
+QRM\? [Q R M \?|QRM\?]^
+QRL\? [Q R L \?|QRL\?]^
+QRO [Q R O|QRO]^
+QRI [Q R I|QRI]^
+QTH\? [Q T H \?|QTH\?]^
+QRK\? [Q R K \?|QRK\?]^
+QSG [Q S G|QSG]^
+QRX [Q R X|QRX]^
+QRH [Q R H|QRH]^
+QSX\? [Q S X \?|QSX\?]^
+QTB\? [Q T B \?|QTB\?]^
+QRK [Q R K|QRK]^
+QRT [Q R T|QRT]^
+QSX [Q S X|QSX]^
+QSN [Q S N|QSN]^
+QTB [Q T B|QTB]^
+QSD\? [Q S D \?|QSD\?]^
+QRY\? [Q R Y \?|QRY\?]^
+QSB [Q S B|QSB]^
+QSD\? [Q S D \?|QSD\?]^
+QSA [Q S A|QSA]^
+QSD [Q S D|QSD]^
+QSO\? [Q S O \?|QSO\?]^
+QRW\? [Q R W \?|QRW\?]^
+QUA [Q U A|QUA]^
+QRK\? [Q R K \?|QRK\?]^
+QRP [Q R P|QRP]^
+QSO\? [Q S O \?|QSO\?]^
+QRP [Q R P|QRP]^
+QSA\? [Q S A \?|QSA\?]^
+QSO [Q S O|QSO]^
+QSB [Q S B|QSB]^
+QRN [Q R N|QRN]^
+QTR\? [Q T R \?|QTR\?]^
+QSZ [Q S Z|QSZ]^
+QSD [Q S D|QSD]^
+QRW\? [Q R W \?|QRW\?]^
+QTC\? [Q T C \?|QTC\?]^
+QTA\? [Q T A \?|QTA\?]^
+QRQ\? [Q R Q \?|QRQ\?]^
+QSU [Q S U|QSU]^
+QSX\? [Q S X \?|QSX\?]^
+QSW\? [Q S W \?|QSW\?]^
+QSG [Q S G|QSG]^
+QSW [Q S W|QSW]^
+QRS\? [Q R S \?|QRS\?]^
+QRT [Q R T|QRT]^
+QTH\? [Q T H \?|QTH\?]^
+QRO [Q R O|QRO]^
+QSS [Q S S|QSS]^
+QRN\? [Q R N \?|QRN\?]^
+QSB [Q S B|QSB]^
+QSL [Q S L|QSL]^
+QRI\? [Q R I \?|QRI\?]^
+QRH [Q R H|QRH]^
+QRA [Q R A|QRA]^
+QSK\? [Q S K \?|QSK\?]^
+QRU [Q R U|QRU]^
+QSG [Q S G|QSG]^
+QSS\? [Q S S \?|QSS\?]^
+QRX [Q R X|QRX]^
+QRL [Q R L|QRL]^
+QSP [Q S P|QSP]^
+QRK [Q R K|QRK]^
+QSS [Q S S|QSS]^
+QRI [Q R I|QRI]^
+QRQ [Q R Q|QRQ]^
+QRS [Q R S|QRS]^
+QSD [Q S D|QSD]^
+QRZ [Q R Z|QRZ]^
+QRK\? [Q R K \?|QRK\?]^
+QRT [Q R T|QRT]^
+QRQ [Q R Q|QRQ]^
+QRO\? [Q R O \?|QRO\?]^
+QSZ\? [Q S Z \?|QSZ\?]^
+QRK [Q R K|QRK]^
+QSA\? [Q S A \?|QSA\?]^
+QSN [Q S N|QSN]^
+QRJ\? [Q R J \?|QRJ\?]^
+QSP [Q S P|QSP]^
+QRM [Q R M|QRM]^
+QRJ\? [Q R J \?|QRJ\?]^
+QSP\? [Q S P \?|QSP\?]^
+QSN [Q S N|QSN]^
+QSB [Q S B|QSB]^
+QSO\? [Q S O \?|QSO\?]^
+QRA [Q R A|QRA]^
+QRZ\? [Q R Z \?|QRZ\?]^
+QUA [Q U A|QUA]^
+QSV\? [Q S V \?|QSV\?]^
+QSK\? [Q S K \?|QSK\?]^
+QTH [Q T H|QTH]^
+QRY\? [Q R Y \?|QRY\?]^
+QSZ\? [Q S Z \?|QSZ\?]^
+QRZ [Q R Z|QRZ]^
+QTX\? [Q T X \?|QTX\?]^
+QSV [Q S V|QSV]^
+QSU\? [Q S U \?|QSU\?]^
+QTR [Q T R|QTR]^
+QSP\? [Q S P \?|QSP\?]^
+QTC [Q T C|QTC]^
+QRW\? [Q R W \?|QRW\?]^
+QTR\? [Q T R \?|QTR\?]^
+QUA [Q U A|QUA]^
+QRO\? [Q R O \?|QRO\?]^
+QRU\? [Q R U \?|QRU\?]^
+QRV\? [Q R V \?|QRV\?]^
+QTB\? [Q T B \?|QTB\?]^
+QRX\? [Q R X \?|QRX\?]^
+QRZ\? [Q R Z \?|QRZ\?]^
+QSA\? [Q S A \?|QSA\?]^
+QSD [Q S D|QSD]^
+QRS\? [Q R S \?|QRS\?]^
+QSA\? [Q S A \?|QSA\?]^
+QRQ [Q R Q|QRQ]^
+QTX [Q T X|QTX]^
+QSL\? [Q S L \?|QSL\?]^
+QSO\? [Q S O \?|QSO\?]^
+QRZ [Q R Z|QRZ]^
+QSV [Q S V|QSV]^
+QRP [Q R P|QRP]^
+QRK\? [Q R K \?|QRK\?]^
+QRP\? [Q R P \?|QRP\?]^
+QSA\? [Q S A \?|QSA\?]^
+QRL\? [Q R L \?|QRL\?]^
+QSD [Q S D|QSD]^
+QSM [Q S M|QSM]^
+QSB\? [Q S B \?|QSB\?]^
+QTB [Q T B|QTB]^
+QSG [Q S G|QSG]^
+QRH\? [Q R H \?|QRH\?]^
+QTH\? [Q T H \?|QTH\?]^
+QRX [Q R X|QRX]^
+QRY\? [Q R Y \?|QRY\?]^
+QRT\? [Q R T \?|QRT\?]^
+QSK [Q S K|QSK]^
+QRU [Q R U|QRU]^
+QRP\? [Q R P \?|QRP\?]^
+QUA [Q U A|QUA]^
+QSB [Q S B|QSB]^
+QTX [Q T X|QTX]^
+QRP\? [Q R P \?|QRP\?]^
+QSD [Q S D|QSD]^
+QRZ [Q R Z|QRZ]^
+QSG [Q S G|QSG]^
+QRI\? [Q R I \?|QRI\?]^
+QRL\? [Q R L \?|QRL\?]^
+QRV\? [Q R V \?|QRV\?]^
+QRM\? [Q R M \?|QRM\?]^
+QSB\? [Q S B \?|QSB\?]^
+QRU\? [Q R U \?|QRU\?]^
+QTH [Q T H|QTH]^
+QRQ\? [Q R Q \?|QRQ\?]^
+QSL [Q S L|QSL]^
+QRN\? [Q R N \?|QRN\?]^
+QRZ\? [Q R Z \?|QRZ\?]^
+QSO\? [Q S O \?|QSO\?]^
+QTB\? [Q T B \?|QTB\?]^
+QRI\? [Q R I \?|QRI\?]^
+QRK\? [Q R K \?|QRK\?]^
+QTR\? [Q T R \?|QTR\?]^
+QSX\? [Q S X \?|QSX\?]^
+QTB [Q T B|QTB]^
+QSG\? [Q S G \?|QSG\?]^
+QRU [Q R U|QRU]^
+QRA\? [Q R A \?|QRA\?]^
+QRY\? [Q R Y \?|QRY\?]^
+QRN [Q R N|QRN]^
+QRQ\? [Q R Q \?|QRQ\?]^
+QSM\? [Q S M \?|QSM\?]^
+QRZ [Q R Z|QRZ]^
+QTA\? [Q T A \?|QTA\?]^
+QSK\? [Q S K \?|QSK\?]^
+QRH [Q R H|QRH]^
+QRZ\? [Q R Z \?|QRZ\?]^
+QTX\? [Q T X \?|QTX\?]^
+QSM\? [Q S M \?|QSM\?]^
+QRG\? [Q R G \?|QRG\?]^
+QRN\? [Q R N \?|QRN\?]^
+QRO [Q R O|QRO]^
+QSY [Q S Y|QSY]^
+QSM [Q S M|QSM]^
+QSZ [Q S Z|QSZ]^
+QTA [Q T A|QTA]^
+QRQ\? [Q R Q \?|QRQ\?]^
+QSL [Q S L|QSL]^
+QSA [Q S A|QSA]^
+QSX\? [Q S X \?|QSX\?]^
+QRP [Q R P|QRP]^
+QTC\? [Q T C \?|QTC\?]^
+QRK\? [Q R K \?|QRK\?]^
+QRG [Q R G|QRG]^
+QSK [Q S K|QSK]^
+QRW\? [Q R W \?|QRW\?]^

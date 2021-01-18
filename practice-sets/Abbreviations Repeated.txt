@@ -1,0 +1,500 @@
+NR NR NR  [Number|NR]^
+TEMP TEMP TEMP  [Temperature|TEMP]^
+FB FB FB  [Fine business|FB]^
+GM GM GM  [Good morning|GM]^
+U U U  [You|U]^
+WKD WKD WKD  [Worked|WKD]^
+TNX TNX TNX  [Thanks|TNX]^
+XYL XYL XYL  [Wife|XYL]^
+RST RST RST  [R\.S\.T\.|RST]^
+CX CX CX  [Conditions|CX]^
+GE GE GE  [Good evening|GE]^
+RX RX RX  [Receive|RX]^
+SEZ SEZ SEZ  [Says|SEZ]^
+DE DE DE  [From|DE]^
+SKED SKED SKED  [Schedule|SKED]^
+UR UR UR  [Your|UR]^
+SAE SAE SAE  [Self-addressed envelope|SAE]^
+WX WX WX  [Weather|WX]^
+OC OC OC  [Old chap|OC]^
+URS URS URS  [Yours|URS]^
+ABT ABT ABT  [About|ABT]^
+CQ CQ CQ  [C\.Q\.|CQ]^
+OB OB OB  [Old boy|OB]^
+FREQ FREQ FREQ  [Frequency|FREQ]^
+SN SN SN  [Soon|SN]^
+CLG CLG CLG  [Calling|CLG]^
+CUAGN CUAGN CUAGN  [See you again|CUAGN]^
+WUD WUD WUD  [Would|WUD]^
+YL YL YL  [Young lady|YL]^
+OT OT OT  [Old timer|OT]^
+XMTR XMTR XMTR  [Transmitter|XMTR]^
+LID LID LID  [Poor operator|LID]^
+CW CW CW  [C\.W\.|CW]^
+GA GA GA  [Good afternoon|GA]^
+RTTY RTTY RTTY  [Radioteletype|RTTY]^
+RIG RIG RIG  [Radio|RIG]^
+RPT RPT RPT  [Report|RPT]^
+FER FER FER  [For|FER]^
+RCVR RCVR RCVR  [Receiver|RCVR]^
+C C C  [Confirm|C]^
+SASE SASE SASE  [Self-addressed, stamped envelope|SASE]^
+HIHI HIHI HIHI  [Laughing|HIHI]^
+TMW TMW TMW  [Tomorrow|TMW]^
+VY VY VY  [Very|VY]^
+SIG SIG SIG  [Signal|SIG]^
+SIGS SIGS SIGS  [Signals|SIGS]^
+R R R  [Roger|R]^
+WL WL WL  [Will|WL]^
+OM OM OM  [Old man|OM]^
+DX DX DX  [D\.X\.|DX]^
+HV HV HV  [Have|HV]^
+CUZ CUZ CUZ  [Because|CUZ]^
+BK BK BK  [Break|BK]^
+PWR PWR PWR  [Power|PWR]^
+73 73 73  [Best regards|73]^
+CS CS CS  [Callsign|CS]^
+DSW DSW DSW  [Goodbye|DSW]^
+ANT ANT ANT  [Antenna|ANT]^
+GND GND GND  [Ground|GND]^
+ES ES ES  [And|ES]^
+OO OO OO  [Official Observer|OO]^
+HR HR HR  [Here|HR]^
+AGN AGN AGN  [Again|AGN]^
+CUL CUL CUL  [See you later|CUL]^
+CBA CBA CBA  [Callbook address|CBA]^
+NIL NIL NIL  [Nothing Heard|NIL]^
+SED SED SED  [Said|SED]^
+STN STN STN  [Station|STN]^
+SRI SRI SRI  [Sorry|SRI]^
+OP OP OP  [Operator|OP]^
+TU TU TU  [Thank you|TU]^
+88 88 88  [Love and Kisses|88]^
+TX TX TX  [Transmit|TX]^
+CFM CFM CFM  [Confirm|CFM]^
+ADS ADS ADS  [Address|ADS]^
+GUD GUD GUD  [Good|GUD]^
+RPRT RPRT RPRT  [Report|RPRT]^
+PSE PSE PSE  [Please|PSE]^
+WDS WDS WDS  [Words|WDS]^
+FM FM FM  [From|FM]^
+CFM CFM CFM  [Confirm|CFM]^
+YL YL YL  [Young lady|YL]^
+SASE SASE SASE  [Self-addressed, stamped envelope|SASE]^
+WX WX WX  [Weather|WX]^
+R R R  [Roger|R]^
+OP OP OP  [Operator|OP]^
+SIGS SIGS SIGS  [Signals|SIGS]^
+URS URS URS  [Yours|URS]^
+RX RX RX  [Receive|RX]^
+CQ CQ CQ  [C\.Q\.|CQ]^
+OO OO OO  [Official Observer|OO]^
+88 88 88  [Love and Kisses|88]^
+RPRT RPRT RPRT  [Report|RPRT]^
+CW CW CW  [C\.W\.|CW]^
+HV HV HV  [Have|HV]^
+OB OB OB  [Old boy|OB]^
+CLG CLG CLG  [Calling|CLG]^
+NR NR NR  [Number|NR]^
+PSE PSE PSE  [Please|PSE]^
+73 73 73  [Best regards|73]^
+CS CS CS  [Callsign|CS]^
+TMW TMW TMW  [Tomorrow|TMW]^
+SAE SAE SAE  [Self-addressed envelope|SAE]^
+RCVR RCVR RCVR  [Receiver|RCVR]^
+CBA CBA CBA  [Callbook address|CBA]^
+STN STN STN  [Station|STN]^
+FER FER FER  [For|FER]^
+ANT ANT ANT  [Antenna|ANT]^
+NIL NIL NIL  [Nothing Heard|NIL]^
+TX TX TX  [Transmit|TX]^
+ADS ADS ADS  [Address|ADS]^
+CUAGN CUAGN CUAGN  [See you again|CUAGN]^
+RTTY RTTY RTTY  [Radioteletype|RTTY]^
+ES ES ES  [And|ES]^
+PWR PWR PWR  [Power|PWR]^
+GA GA GA  [Good afternoon|GA]^
+TU TU TU  [Thank you|TU]^
+SEZ SEZ SEZ  [Says|SEZ]^
+WKD WKD WKD  [Worked|WKD]^
+GE GE GE  [Good evening|GE]^
+SN SN SN  [Soon|SN]^
+DX DX DX  [D\.X\.|DX]^
+RST RST RST  [R\.S\.T\.|RST]^
+CUZ CUZ CUZ  [Because|CUZ]^
+FB FB FB  [Fine business|FB]^
+SED SED SED  [Said|SED]^
+XYL XYL XYL  [Wife|XYL]^
+DSW DSW DSW  [Goodbye|DSW]^
+C C C  [Confirm|C]^
+GUD GUD GUD  [Good|GUD]^
+FREQ FREQ FREQ  [Frequency|FREQ]^
+GND GND GND  [Ground|GND]^
+OT OT OT  [Old timer|OT]^
+WUD WUD WUD  [Would|WUD]^
+OC OC OC  [Old chap|OC]^
+WL WL WL  [Will|WL]^
+GM GM GM  [Good morning|GM]^
+XMTR XMTR XMTR  [Transmitter|XMTR]^
+HIHI HIHI HIHI  [Laughing|HIHI]^
+AGN AGN AGN  [Again|AGN]^
+BK BK BK  [Break|BK]^
+TNX TNX TNX  [Thanks|TNX]^
+UR UR UR  [Your|UR]^
+DE DE DE  [From|DE]^
+CX CX CX  [Conditions|CX]^
+RPT RPT RPT  [Report|RPT]^
+TEMP TEMP TEMP  [Temperature|TEMP]^
+SIG SIG SIG  [Signal|SIG]^
+RIG RIG RIG  [Radio|RIG]^
+SKED SKED SKED  [Schedule|SKED]^
+FM FM FM  [From|FM]^
+SRI SRI SRI  [Sorry|SRI]^
+CUL CUL CUL  [See you later|CUL]^
+U U U  [You|U]^
+OM OM OM  [Old man|OM]^
+HR HR HR  [Here|HR]^
+ABT ABT ABT  [About|ABT]^
+LID LID LID  [Poor operator|LID]^
+VY VY VY  [Very|VY]^
+WDS WDS WDS  [Words|WDS]^
+PWR PWR PWR  [Power|PWR]^
+OP OP OP  [Operator|OP]^
+AGN AGN AGN  [Again|AGN]^
+NR NR NR  [Number|NR]^
+SED SED SED  [Said|SED]^
+YL YL YL  [Young lady|YL]^
+RTTY RTTY RTTY  [Radioteletype|RTTY]^
+TU TU TU  [Thank you|TU]^
+GM GM GM  [Good morning|GM]^
+R R R  [Roger|R]^
+OM OM OM  [Old man|OM]^
+CBA CBA CBA  [Callbook address|CBA]^
+FREQ FREQ FREQ  [Frequency|FREQ]^
+RST RST RST  [R\.S\.T\.|RST]^
+FB FB FB  [Fine business|FB]^
+GND GND GND  [Ground|GND]^
+OC OC OC  [Old chap|OC]^
+FM FM FM  [From|FM]^
+ANT ANT ANT  [Antenna|ANT]^
+C C C  [Confirm|C]^
+WX WX WX  [Weather|WX]^
+WKD WKD WKD  [Worked|WKD]^
+XMTR XMTR XMTR  [Transmitter|XMTR]^
+SN SN SN  [Soon|SN]^
+GUD GUD GUD  [Good|GUD]^
+STN STN STN  [Station|STN]^
+BK BK BK  [Break|BK]^
+SRI SRI SRI  [Sorry|SRI]^
+GE GE GE  [Good evening|GE]^
+CUL CUL CUL  [See you later|CUL]^
+TEMP TEMP TEMP  [Temperature|TEMP]^
+ABT ABT ABT  [About|ABT]^
+DE DE DE  [From|DE]^
+CFM CFM CFM  [Confirm|CFM]^
+SASE SASE SASE  [Self-addressed, stamped envelope|SASE]^
+OT OT OT  [Old timer|OT]^
+URS URS URS  [Yours|URS]^
+SEZ SEZ SEZ  [Says|SEZ]^
+FER FER FER  [For|FER]^
+RIG RIG RIG  [Radio|RIG]^
+88 88 88  [Love and Kisses|88]^
+73 73 73  [Best regards|73]^
+PSE PSE PSE  [Please|PSE]^
+CX CX CX  [Conditions|CX]^
+OO OO OO  [Official Observer|OO]^
+DSW DSW DSW  [Goodbye|DSW]^
+CW CW CW  [C\.W\.|CW]^
+HIHI HIHI HIHI  [Laughing|HIHI]^
+WL WL WL  [Will|WL]^
+XYL XYL XYL  [Wife|XYL]^
+LID LID LID  [Poor operator|LID]^
+NIL NIL NIL  [Nothing Heard|NIL]^
+SIG SIG SIG  [Signal|SIG]^
+RCVR RCVR RCVR  [Receiver|RCVR]^
+RPT RPT RPT  [Report|RPT]^
+ADS ADS ADS  [Address|ADS]^
+HV HV HV  [Have|HV]^
+CUAGN CUAGN CUAGN  [See you again|CUAGN]^
+OB OB OB  [Old boy|OB]^
+SAE SAE SAE  [Self-addressed envelope|SAE]^
+TNX TNX TNX  [Thanks|TNX]^
+CS CS CS  [Callsign|CS]^
+ES ES ES  [And|ES]^
+DX DX DX  [D\.X\.|DX]^
+GA GA GA  [Good afternoon|GA]^
+TX TX TX  [Transmit|TX]^
+WDS WDS WDS  [Words|WDS]^
+TMW TMW TMW  [Tomorrow|TMW]^
+CUZ CUZ CUZ  [Because|CUZ]^
+RX RX RX  [Receive|RX]^
+HR HR HR  [Here|HR]^
+SKED SKED SKED  [Schedule|SKED]^
+U U U  [You|U]^
+VY VY VY  [Very|VY]^
+SIGS SIGS SIGS  [Signals|SIGS]^
+CQ CQ CQ  [C\.Q\.|CQ]^
+RPRT RPRT RPRT  [Report|RPRT]^
+UR UR UR  [Your|UR]^
+WUD WUD WUD  [Would|WUD]^
+CLG CLG CLG  [Calling|CLG]^
+XYL XYL XYL  [Wife|XYL]^
+FREQ FREQ FREQ  [Frequency|FREQ]^
+NR NR NR  [Number|NR]^
+AGN AGN AGN  [Again|AGN]^
+WKD WKD WKD  [Worked|WKD]^
+OB OB OB  [Old boy|OB]^
+GA GA GA  [Good afternoon|GA]^
+CLG CLG CLG  [Calling|CLG]^
+TNX TNX TNX  [Thanks|TNX]^
+GE GE GE  [Good evening|GE]^
+OM OM OM  [Old man|OM]^
+WX WX WX  [Weather|WX]^
+GM GM GM  [Good morning|GM]^
+R R R  [Roger|R]^
+CW CW CW  [C\.W\.|CW]^
+WL WL WL  [Will|WL]^
+CS CS CS  [Callsign|CS]^
+CFM CFM CFM  [Confirm|CFM]^
+SIGS SIGS SIGS  [Signals|SIGS]^
+FB FB FB  [Fine business|FB]^
+URS URS URS  [Yours|URS]^
+HV HV HV  [Have|HV]^
+GND GND GND  [Ground|GND]^
+TMW TMW TMW  [Tomorrow|TMW]^
+UR UR UR  [Your|UR]^
+RST RST RST  [R\.S\.T\.|RST]^
+CUZ CUZ CUZ  [Because|CUZ]^
+NIL NIL NIL  [Nothing Heard|NIL]^
+PSE PSE PSE  [Please|PSE]^
+HR HR HR  [Here|HR]^
+VY VY VY  [Very|VY]^
+CQ CQ CQ  [C\.Q\.|CQ]^
+DE DE DE  [From|DE]^
+WUD WUD WUD  [Would|WUD]^
+SASE SASE SASE  [Self-addressed, stamped envelope|SASE]^
+U U U  [You|U]^
+CX CX CX  [Conditions|CX]^
+WDS WDS WDS  [Words|WDS]^
+XMTR XMTR XMTR  [Transmitter|XMTR]^
+SRI SRI SRI  [Sorry|SRI]^
+YL YL YL  [Young lady|YL]^
+STN STN STN  [Station|STN]^
+OC OC OC  [Old chap|OC]^
+88 88 88  [Love and Kisses|88]^
+RPRT RPRT RPRT  [Report|RPRT]^
+SIG SIG SIG  [Signal|SIG]^
+DSW DSW DSW  [Goodbye|DSW]^
+SEZ SEZ SEZ  [Says|SEZ]^
+TX TX TX  [Transmit|TX]^
+ANT ANT ANT  [Antenna|ANT]^
+SKED SKED SKED  [Schedule|SKED]^
+RPT RPT RPT  [Report|RPT]^
+RIG RIG RIG  [Radio|RIG]^
+TEMP TEMP TEMP  [Temperature|TEMP]^
+LID LID LID  [Poor operator|LID]^
+ES ES ES  [And|ES]^
+FM FM FM  [From|FM]^
+BK BK BK  [Break|BK]^
+PWR PWR PWR  [Power|PWR]^
+SAE SAE SAE  [Self-addressed envelope|SAE]^
+OO OO OO  [Official Observer|OO]^
+ADS ADS ADS  [Address|ADS]^
+RCVR RCVR RCVR  [Receiver|RCVR]^
+DX DX DX  [D\.X\.|DX]^
+OP OP OP  [Operator|OP]^
+OT OT OT  [Old timer|OT]^
+RTTY RTTY RTTY  [Radioteletype|RTTY]^
+73 73 73  [Best regards|73]^
+ABT ABT ABT  [About|ABT]^
+C C C  [Confirm|C]^
+SED SED SED  [Said|SED]^
+SN SN SN  [Soon|SN]^
+FER FER FER  [For|FER]^
+CUL CUL CUL  [See you later|CUL]^
+GUD GUD GUD  [Good|GUD]^
+HIHI HIHI HIHI  [Laughing|HIHI]^
+CBA CBA CBA  [Callbook address|CBA]^
+RX RX RX  [Receive|RX]^
+TU TU TU  [Thank you|TU]^
+CUAGN CUAGN CUAGN  [See you again|CUAGN]^
+FREQ FREQ FREQ  [Frequency|FREQ]^
+NIL NIL NIL  [Nothing Heard|NIL]^
+WKD WKD WKD  [Worked|WKD]^
+CUAGN CUAGN CUAGN  [See you again|CUAGN]^
+TU TU TU  [Thank you|TU]^
+WL WL WL  [Will|WL]^
+ABT ABT ABT  [About|ABT]^
+PWR PWR PWR  [Power|PWR]^
+C C C  [Confirm|C]^
+WUD WUD WUD  [Would|WUD]^
+OM OM OM  [Old man|OM]^
+XYL XYL XYL  [Wife|XYL]^
+LID LID LID  [Poor operator|LID]^
+TMW TMW TMW  [Tomorrow|TMW]^
+RCVR RCVR RCVR  [Receiver|RCVR]^
+GND GND GND  [Ground|GND]^
+SEZ SEZ SEZ  [Says|SEZ]^
+SED SED SED  [Said|SED]^
+NR NR NR  [Number|NR]^
+GE GE GE  [Good evening|GE]^
+RIG RIG RIG  [Radio|RIG]^
+DX DX DX  [D\.X\.|DX]^
+OP OP OP  [Operator|OP]^
+PSE PSE PSE  [Please|PSE]^
+XMTR XMTR XMTR  [Transmitter|XMTR]^
+UR UR UR  [Your|UR]^
+CUZ CUZ CUZ  [Because|CUZ]^
+FB FB FB  [Fine business|FB]^
+CQ CQ CQ  [C\.Q\.|CQ]^
+R R R  [Roger|R]^
+GUD GUD GUD  [Good|GUD]^
+CLG CLG CLG  [Calling|CLG]^
+CBA CBA CBA  [Callbook address|CBA]^
+TNX TNX TNX  [Thanks|TNX]^
+FM FM FM  [From|FM]^
+OT OT OT  [Old timer|OT]^
+CW CW CW  [C\.W\.|CW]^
+RPRT RPRT RPRT  [Report|RPRT]^
+ADS ADS ADS  [Address|ADS]^
+FER FER FER  [For|FER]^
+RX RX RX  [Receive|RX]^
+OB OB OB  [Old boy|OB]^
+SKED SKED SKED  [Schedule|SKED]^
+CS CS CS  [Callsign|CS]^
+GA GA GA  [Good afternoon|GA]^
+ES ES ES  [And|ES]^
+RTTY RTTY RTTY  [Radioteletype|RTTY]^
+RPT RPT RPT  [Report|RPT]^
+OC OC OC  [Old chap|OC]^
+OO OO OO  [Official Observer|OO]^
+HIHI HIHI HIHI  [Laughing|HIHI]^
+STN STN STN  [Station|STN]^
+U U U  [You|U]^
+GM GM GM  [Good morning|GM]^
+AGN AGN AGN  [Again|AGN]^
+URS URS URS  [Yours|URS]^
+DE DE DE  [From|DE]^
+CFM CFM CFM  [Confirm|CFM]^
+HV HV HV  [Have|HV]^
+WDS WDS WDS  [Words|WDS]^
+88 88 88  [Love and Kisses|88]^
+SN SN SN  [Soon|SN]^
+SRI SRI SRI  [Sorry|SRI]^
+SASE SASE SASE  [Self-addressed, stamped envelope|SASE]^
+CX CX CX  [Conditions|CX]^
+TEMP TEMP TEMP  [Temperature|TEMP]^
+WX WX WX  [Weather|WX]^
+DSW DSW DSW  [Goodbye|DSW]^
+73 73 73  [Best regards|73]^
+HR HR HR  [Here|HR]^
+BK BK BK  [Break|BK]^
+SAE SAE SAE  [Self-addressed envelope|SAE]^
+SIG SIG SIG  [Signal|SIG]^
+YL YL YL  [Young lady|YL]^
+SIGS SIGS SIGS  [Signals|SIGS]^
+RST RST RST  [R\.S\.T\.|RST]^
+TX TX TX  [Transmit|TX]^
+ANT ANT ANT  [Antenna|ANT]^
+CUL CUL CUL  [See you later|CUL]^
+VY VY VY  [Very|VY]^
+CS CS CS  [Callsign|CS]^
+GE GE GE  [Good evening|GE]^
+PSE PSE PSE  [Please|PSE]^
+HIHI HIHI HIHI  [Laughing|HIHI]^
+OM OM OM  [Old man|OM]^
+WKD WKD WKD  [Worked|WKD]^
+RX RX RX  [Receive|RX]^
+LID LID LID  [Poor operator|LID]^
+RTTY RTTY RTTY  [Radioteletype|RTTY]^
+CUL CUL CUL  [See you later|CUL]^
+RPRT RPRT RPRT  [Report|RPRT]^
+FREQ FREQ FREQ  [Frequency|FREQ]^
+UR UR UR  [Your|UR]^
+SKED SKED SKED  [Schedule|SKED]^
+GA GA GA  [Good afternoon|GA]^
+SN SN SN  [Soon|SN]^
+HR HR HR  [Here|HR]^
+CBA CBA CBA  [Callbook address|CBA]^
+CX CX CX  [Conditions|CX]^
+WL WL WL  [Will|WL]^
+CLG CLG CLG  [Calling|CLG]^
+CQ CQ CQ  [C\.Q\.|CQ]^
+PWR PWR PWR  [Power|PWR]^
+VY VY VY  [Very|VY]^
+XMTR XMTR XMTR  [Transmitter|XMTR]^
+R R R  [Roger|R]^
+NIL NIL NIL  [Nothing Heard|NIL]^
+RIG RIG RIG  [Radio|RIG]^
+ABT ABT ABT  [About|ABT]^
+URS URS URS  [Yours|URS]^
+WUD WUD WUD  [Would|WUD]^
+SIGS SIGS SIGS  [Signals|SIGS]^
+SAE SAE SAE  [Self-addressed envelope|SAE]^
+FB FB FB  [Fine business|FB]^
+CUAGN CUAGN CUAGN  [See you again|CUAGN]^
+CFM CFM CFM  [Confirm|CFM]^
+WX WX WX  [Weather|WX]^
+SED SED SED  [Said|SED]^
+ADS ADS ADS  [Address|ADS]^
+RST RST RST  [R\.S\.T\.|RST]^
+U U U  [You|U]^
+C C C  [Confirm|C]^
+GM GM GM  [Good morning|GM]^
+WDS WDS WDS  [Words|WDS]^
+DX DX DX  [D\.X\.|DX]^
+GUD GUD GUD  [Good|GUD]^
+RCVR RCVR RCVR  [Receiver|RCVR]^
+TNX TNX TNX  [Thanks|TNX]^
+SIG SIG SIG  [Signal|SIG]^
+YL YL YL  [Young lady|YL]^
+TMW TMW TMW  [Tomorrow|TMW]^
+SEZ SEZ SEZ  [Says|SEZ]^
+TU TU TU  [Thank you|TU]^
+TEMP TEMP TEMP  [Temperature|TEMP]^
+HV HV HV  [Have|HV]^
+GND GND GND  [Ground|GND]^
+AGN AGN AGN  [Again|AGN]^
+XYL XYL XYL  [Wife|XYL]^
+OT OT OT  [Old timer|OT]^
+STN STN STN  [Station|STN]^
+DE DE DE  [From|DE]^
+OC OC OC  [Old chap|OC]^
+CW CW CW  [C\.W\.|CW]^
+SRI SRI SRI  [Sorry|SRI]^
+SASE SASE SASE  [Self-addressed, stamped envelope|SASE]^
+TX TX TX  [Transmit|TX]^
+ES ES ES  [And|ES]^
+NR NR NR  [Number|NR]^
+CUZ CUZ CUZ  [Because|CUZ]^
+OP OP OP  [Operator|OP]^
+BK BK BK  [Break|BK]^
+DSW DSW DSW  [Goodbye|DSW]^
+ANT ANT ANT  [Antenna|ANT]^
+FER FER FER  [For|FER]^
+OB OB OB  [Old boy|OB]^
+RPT RPT RPT  [Report|RPT]^
+OO OO OO  [Official Observer|OO]^
+FM FM FM  [From|FM]^
+88 88 88  [Love and Kisses|88]^
+73 73 73  [Best regards|73]^
+ABT ABT ABT  [About|ABT]^
+CQ CQ CQ  [C\.Q\.|CQ]^
+ANT ANT ANT  [Antenna|ANT]^
+FER FER FER  [For|FER]^
+HIHI HIHI HIHI  [Laughing|HIHI]^
+BK BK BK  [Break|BK]^
+DSW DSW DSW  [Goodbye|DSW]^
+TEMP TEMP TEMP  [Temperature|TEMP]^
+WL WL WL  [Will|WL]^
+WKD WKD WKD  [Worked|WKD]^
+73 73 73  [Best regards|73]^
+SRI SRI SRI  [Sorry|SRI]^
+SKED SKED SKED  [Schedule|SKED]^
+RCVR RCVR RCVR  [Receiver|RCVR]^
+GND GND GND  [Ground|GND]^
+CW CW CW  [C\.W\.|CW]^
+TU TU TU  [Thank you|TU]^
+TX TX TX  [Transmit|TX]^
+PSE PSE PSE  [Please|PSE]^
+RX RX RX  [Receive|RX]^

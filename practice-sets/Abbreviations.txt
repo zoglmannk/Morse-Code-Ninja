@@ -1,0 +1,500 @@
+GM [Good morning]^
+WX [Weather]^
+TNX [Thanks]^
+FB [Fine business]^
+TX [Transmit]^
+FM [From]^
+CS [Callsign]^
+HR [Here]^
+GE [Good evening]^
+DE [From]^
+SAE [Self-addressed envelope]^
+RCVR [Receiver]^
+CUZ [Because]^
+RX [Receive]^
+RTTY [Radioteletype]^
+CQ [C\.Q\.]^
+WKD [Worked]^
+R [Roger]^
+CLG [Calling]^
+OO [Official Observer]^
+BK [Break]^
+CX [Conditions]^
+TMW [Tomorrow]^
+UR [Your]^
+GA [Good afternoon]^
+OP [Operator]^
+WL [Will]^
+73 [Best regards]^
+SED [Said]^
+CBA [Callbook address]^
+ADS [Address]^
+88 [Love and Kisses]^
+TEMP [Temperature]^
+CFM [Confirm]^
+SIG [Signal]^
+WDS [Words]^
+RPRT [Report]^
+SN [Soon]^
+RST [R\.S\.T\.]^
+OC [Old chap]^
+ES [And]^
+SIGS [Signals]^
+URS [Yours]^
+NIL [Nothing Heard]^
+SEZ [Says]^
+FREQ [Frequency]^
+VY [Very]^
+PSE [Please]^
+U [You]^
+ABT [About]^
+OM [Old man]^
+OB [Old boy]^
+XMTR [Transmitter]^
+STN [Station]^
+WUD [Would]^
+LID [Poor operator]^
+FER [For]^
+CW [C\.W\.]^
+SKED [Schedule]^
+RIG [Radio]^
+XYL [Wife]^
+PWR [Power]^
+CUL [See you later]^
+HV [Have]^
+RPT [Report]^
+CUAGN [See you again]^
+NR [Number]^
+TU [Thank you]^
+ANT [Antenna]^
+C [Confirm]^
+AGN [Again]^
+SASE [Self-addressed, stamped envelope]^
+GUD [Good]^
+SRI [Sorry]^
+GND [Ground]^
+HIHI [Laughing]^
+DX [D\.X\.]^
+YL [Young lady]^
+DSW [Goodbye]^
+OT [Old timer]^
+SIGS [Signals]^
+88 [Love and Kisses]^
+OO [Official Observer]^
+ES [And]^
+RST [R\.S\.T\.]^
+SIG [Signal]^
+ANT [Antenna]^
+CUZ [Because]^
+RPT [Report]^
+FREQ [Frequency]^
+BK [Break]^
+OB [Old boy]^
+NIL [Nothing Heard]^
+SKED [Schedule]^
+VY [Very]^
+PWR [Power]^
+CQ [C\.Q\.]^
+CLG [Calling]^
+RX [Receive]^
+CFM [Confirm]^
+WKD [Worked]^
+CW [C\.W\.]^
+NR [Number]^
+R [Roger]^
+RTTY [Radioteletype]^
+OT [Old timer]^
+SEZ [Says]^
+WDS [Words]^
+OM [Old man]^
+FM [From]^
+ABT [About]^
+GE [Good evening]^
+WX [Weather]^
+DX [D\.X\.]^
+ADS [Address]^
+CUAGN [See you again]^
+PSE [Please]^
+STN [Station]^
+TEMP [Temperature]^
+GND [Ground]^
+URS [Yours]^
+HR [Here]^
+SAE [Self-addressed envelope]^
+TX [Transmit]^
+HV [Have]^
+DE [From]^
+FER [For]^
+OP [Operator]^
+HIHI [Laughing]^
+RIG [Radio]^
+AGN [Again]^
+U [You]^
+73 [Best regards]^
+OC [Old chap]^
+SN [Soon]^
+XMTR [Transmitter]^
+UR [Your]^
+CS [Callsign]^
+SASE [Self-addressed, stamped envelope]^
+CX [Conditions]^
+CUL [See you later]^
+GA [Good afternoon]^
+TNX [Thanks]^
+SED [Said]^
+WUD [Would]^
+WL [Will]^
+YL [Young lady]^
+GUD [Good]^
+GM [Good morning]^
+RPRT [Report]^
+C [Confirm]^
+TU [Thank you]^
+TMW [Tomorrow]^
+CBA [Callbook address]^
+LID [Poor operator]^
+RCVR [Receiver]^
+FB [Fine business]^
+XYL [Wife]^
+DSW [Goodbye]^
+SRI [Sorry]^
+PWR [Power]^
+YL [Young lady]^
+ABT [About]^
+CX [Conditions]^
+RPT [Report]^
+OO [Official Observer]^
+WDS [Words]^
+DSW [Goodbye]^
+OM [Old man]^
+CBA [Callbook address]^
+WKD [Worked]^
+LID [Poor operator]^
+CFM [Confirm]^
+RX [Receive]^
+CUAGN [See you again]^
+STN [Station]^
+ES [And]^
+U [You]^
+CQ [C\.Q\.]^
+FREQ [Frequency]^
+HIHI [Laughing]^
+CLG [Calling]^
+VY [Very]^
+URS [Yours]^
+GM [Good morning]^
+ANT [Antenna]^
+DE [From]^
+SEZ [Says]^
+WL [Will]^
+C [Confirm]^
+HR [Here]^
+GUD [Good]^
+XMTR [Transmitter]^
+TX [Transmit]^
+SIGS [Signals]^
+RTTY [Radioteletype]^
+FB [Fine business]^
+OC [Old chap]^
+ADS [Address]^
+RCVR [Receiver]^
+WX [Weather]^
+NIL [Nothing Heard]^
+UR [Your]^
+RIG [Radio]^
+SASE [Self-addressed, stamped envelope]^
+88 [Love and Kisses]^
+SN [Soon]^
+SED [Said]^
+DX [D\.X\.]^
+BK [Break]^
+73 [Best regards]^
+GA [Good afternoon]^
+GND [Ground]^
+XYL [Wife]^
+TEMP [Temperature]^
+OT [Old timer]^
+SRI [Sorry]^
+TMW [Tomorrow]^
+CUZ [Because]^
+R [Roger]^
+AGN [Again]^
+OB [Old boy]^
+RST [R\.S\.T\.]^
+SIG [Signal]^
+PSE [Please]^
+CUL [See you later]^
+GE [Good evening]^
+CW [C\.W\.]^
+TNX [Thanks]^
+NR [Number]^
+SAE [Self-addressed envelope]^
+SKED [Schedule]^
+FM [From]^
+TU [Thank you]^
+HV [Have]^
+FER [For]^
+OP [Operator]^
+WUD [Would]^
+CS [Callsign]^
+RPRT [Report]^
+CS [Callsign]^
+WUD [Would]^
+HIHI [Laughing]^
+PSE [Please]^
+SED [Said]^
+WL [Will]^
+FER [For]^
+C [Confirm]^
+TU [Thank you]^
+RX [Receive]^
+ADS [Address]^
+UR [Your]^
+TX [Transmit]^
+URS [Yours]^
+HR [Here]^
+DE [From]^
+CX [Conditions]^
+RIG [Radio]^
+SIG [Signal]^
+CUZ [Because]^
+LID [Poor operator]^
+TMW [Tomorrow]^
+SIGS [Signals]^
+OC [Old chap]^
+GM [Good morning]^
+DSW [Goodbye]^
+XMTR [Transmitter]^
+SN [Soon]^
+GUD [Good]^
+TNX [Thanks]^
+ABT [About]^
+HV [Have]^
+FREQ [Frequency]^
+CBA [Callbook address]^
+YL [Young lady]^
+DX [D\.X\.]^
+AGN [Again]^
+CUAGN [See you again]^
+BK [Break]^
+SEZ [Says]^
+OO [Official Observer]^
+GE [Good evening]^
+73 [Best regards]^
+WDS [Words]^
+GA [Good afternoon]^
+CLG [Calling]^
+CW [C\.W\.]^
+RPRT [Report]^
+RST [R\.S\.T\.]^
+RCVR [Receiver]^
+WKD [Worked]^
+GND [Ground]^
+CFM [Confirm]^
+FB [Fine business]^
+NR [Number]^
+OP [Operator]^
+WX [Weather]^
+OM [Old man]^
+SASE [Self-addressed, stamped envelope]^
+88 [Love and Kisses]^
+SRI [Sorry]^
+CUL [See you later]^
+NIL [Nothing Heard]^
+ES [And]^
+CQ [C\.Q\.]^
+PWR [Power]^
+FM [From]^
+RPT [Report]^
+OT [Old timer]^
+OB [Old boy]^
+STN [Station]^
+U [You]^
+R [Roger]^
+TEMP [Temperature]^
+XYL [Wife]^
+SKED [Schedule]^
+RTTY [Radioteletype]^
+ANT [Antenna]^
+SAE [Self-addressed envelope]^
+VY [Very]^
+ADS [Address]^
+WDS [Words]^
+SED [Said]^
+NIL [Nothing Heard]^
+TX [Transmit]^
+UR [Your]^
+CX [Conditions]^
+U [You]^
+FM [From]^
+SN [Soon]^
+RST [R\.S\.T\.]^
+CUZ [Because]^
+HV [Have]^
+OC [Old chap]^
+LID [Poor operator]^
+NR [Number]^
+RIG [Radio]^
+YL [Young lady]^
+RCVR [Receiver]^
+C [Confirm]^
+BK [Break]^
+GND [Ground]^
+STN [Station]^
+ANT [Antenna]^
+RPT [Report]^
+DSW [Goodbye]^
+CS [Callsign]^
+HR [Here]^
+R [Roger]^
+TMW [Tomorrow]^
+FER [For]^
+DE [From]^
+SASE [Self-addressed, stamped envelope]^
+ABT [About]^
+OB [Old boy]^
+TNX [Thanks]^
+FB [Fine business]^
+WL [Will]^
+TU [Thank you]^
+HIHI [Laughing]^
+SIGS [Signals]^
+WKD [Worked]^
+SEZ [Says]^
+CBA [Callbook address]^
+GM [Good morning]^
+SRI [Sorry]^
+88 [Love and Kisses]^
+XMTR [Transmitter]^
+PSE [Please]^
+CLG [Calling]^
+AGN [Again]^
+FREQ [Frequency]^
+OP [Operator]^
+SIG [Signal]^
+GE [Good evening]^
+XYL [Wife]^
+TEMP [Temperature]^
+ES [And]^
+WX [Weather]^
+SKED [Schedule]^
+DX [D\.X\.]^
+RX [Receive]^
+RPRT [Report]^
+VY [Very]^
+CUL [See you later]^
+CW [C\.W\.]^
+OM [Old man]^
+OO [Official Observer]^
+73 [Best regards]^
+OT [Old timer]^
+RTTY [Radioteletype]^
+CQ [C\.Q\.]^
+PWR [Power]^
+CUAGN [See you again]^
+GUD [Good]^
+GA [Good afternoon]^
+SAE [Self-addressed envelope]^
+URS [Yours]^
+CFM [Confirm]^
+WUD [Would]^
+RCVR [Receiver]^
+SKED [Schedule]^
+OO [Official Observer]^
+WDS [Words]^
+NR [Number]^
+GUD [Good]^
+WKD [Worked]^
+73 [Best regards]^
+OB [Old boy]^
+WUD [Would]^
+GE [Good evening]^
+CUZ [Because]^
+SEZ [Says]^
+CUAGN [See you again]^
+OT [Old timer]^
+ADS [Address]^
+SN [Soon]^
+HR [Here]^
+SRI [Sorry]^
+DSW [Goodbye]^
+ANT [Antenna]^
+SED [Said]^
+FM [From]^
+LID [Poor operator]^
+OP [Operator]^
+UR [Your]^
+GM [Good morning]^
+CUL [See you later]^
+WX [Weather]^
+HV [Have]^
+TNX [Thanks]^
+VY [Very]^
+NIL [Nothing Heard]^
+GND [Ground]^
+YL [Young lady]^
+SASE [Self-addressed, stamped envelope]^
+STN [Station]^
+ABT [About]^
+AGN [Again]^
+FREQ [Frequency]^
+CW [C\.W\.]^
+RST [R\.S\.T\.]^
+FB [Fine business]^
+C [Confirm]^
+RPRT [Report]^
+XMTR [Transmitter]^
+CLG [Calling]^
+RTTY [Radioteletype]^
+GA [Good afternoon]^
+ES [And]^
+FER [For]^
+CFM [Confirm]^
+CQ [C\.Q\.]^
+DX [D\.X\.]^
+BK [Break]^
+TX [Transmit]^
+OC [Old chap]^
+88 [Love and Kisses]^
+CS [Callsign]^
+CBA [Callbook address]^
+RX [Receive]^
+TMW [Tomorrow]^
+RIG [Radio]^
+R [Roger]^
+PSE [Please]^
+XYL [Wife]^
+CX [Conditions]^
+WL [Will]^
+SAE [Self-addressed envelope]^
+OM [Old man]^
+SIGS [Signals]^
+HIHI [Laughing]^
+TEMP [Temperature]^
+RPT [Report]^
+DE [From]^
+U [You]^
+URS [Yours]^
+TU [Thank you]^
+SIG [Signal]^
+PWR [Power]^
+CUZ [Because]^
+XMTR [Transmitter]^
+FB [Fine business]^
+PSE [Please]^
+YL [Young lady]^
+SN [Soon]^
+GUD [Good]^
+UR [Your]^
+RCVR [Receiver]^
+NR [Number]^
+RX [Receive]^
+NIL [Nothing Heard]^
+SED [Said]^
+RTTY [Radioteletype]^
+C [Confirm]^
+OO [Official Observer]^
+OB [Old boy]^
+OT [Old timer]^
+88 [Love and Kisses]^
+ES [And]^

@@ -1,0 +1,800 @@
+4O EMA [4 O, Eastern  Massachusetts]^
+2O NLI [2 O, Long Island]^
+1H NNY [1 H, Northern New York]^
+1H OR [1 H, Oregon]^
+1H MN [1 H, Minnesota]^
+1H NM [1 H, New Mexico]^
+1O NNY [1 O, Northern New York]^
+1I AL [1 I, Alabama]^
+3I KS [3 I, Kansas]^
+1O ORG [1 O, Orange]^
+2O MDC [2 O, Maryland DC]^
+1H IL [1 H, Illinois]^
+1H WPA [1 H, Western Pennsylvania]^
+2O NH [2 O, New Hampshire]^
+1H ME [1 H, Maine]^
+1H SFL [1 H, Southern Florida]^
+1O QC [1 O, Quebec]^
+1H NC [1 H, North Carolina]^
+5O NLI [5 O, Long Island]^
+1H LAX [1 H, Los Angeles]^
+1O NFL [1 O, Northern Florida]^
+1O QC [1 O, Quebec]^
+1H AL [1 H, Alabama]^
+3O ONN [3 O, Ontario North]^
+2O CT [2 O, Connecticut]^
+1H KS [1 H, Kansas]^
+3O EPA [3 O, Eastern Pennsylvania]^
+3H SK [3 H, Saskatchewan]^
+3I WI [3 I, Wisconsin]^
+2H EPA [2 H, Eastern Pennsylvania]^
+1H AR [1 H, Arkansas]^
+1O NFL [1 O, Northern Florida]^
+1I NTX [1 I, North Texas]^
+1H ONS [1 H, Ontario South]^
+1O CT [1 O, Connecticut]^
+2I WCF [2 I, West Central Florida]^
+1O NC [1 O, North Carolina]^
+1H CO [1 H, Colorado]^
+1O DX [1 O, DX]^
+3I AL [3 I, Alabama]^
+3O IL [3 O, Illinois]^
+2O SDG [2 O, San Diego]^
+4I WI [4 I, Wisconsin]^
+1H GA [1 H, Georgia]^
+1H WI [1 H, Wisconsin]^
+1O AL [1 O, Alabama]^
+3O WV [3 O, West Virginia]^
+1O DX [1 O, DX]^
+1O MI [1 O, Michigan]^
+4I SB [4 I, Santa Barbara]^
+1O AL [1 O, Alabama]^
+1O AL [1 O, Alabama]^
+1H NH [1 H, New Hampshire]^
+3I SFL [3 I, Southern Florida]^
+1O NTX [1 O, North Texas]^
+1H WNY [1 H, Western New York]^
+4O WWA [4 O, Western Washington]^
+1H MO [1 H, Missouri]^
+1H SV [1 H, Sacramento Valley]^
+1O SFL [1 O, Southern Florida]^
+1O OH [1 O, Ohio]^
+2O IA [2 O, Iowa]^
+1H WWA [1 H, Western Washington]^
+2O NC [2 O, North Carolina]^
+2I WI [2 I, Wisconsin]^
+1H WV [1 H, West Virginia]^
+3H DX [3 H, DX]^
+1O QC [1 O, Quebec]^
+2O SFL [2 O, Southern Florida]^
+2O SVG [2 O, ]^
+1H STX [1 H, South Texas]^
+1O MN [1 O, Minnesota]^
+1H VA [1 H, Virginia]^
+1O EMA [1 O, Eastern  Massachusetts]^
+1H SV [1 H, Sacramento Valley]^
+5O UT [5 O, Utah]^
+1H AR [1 H, Arkansas]^
+1I SD [1 I, South Dakota]^
+1H ORG [1 H, Orange]^
+1H AZ [1 H, Arizona]^
+1O MN [1 O, Minnesota]^
+1H SFL [1 H, Southern Florida]^
+1H ORG [1 H, Orange]^
+1O MI [1 O, Michigan]^
+1O CT [1 O, Connecticut]^
+1O CO [1 O, Colorado]^
+1H IL [1 H, Illinois]^
+1O NA [1 O, ]^
+3O ONS [3 O, Ontario South]^
+1H MDC [1 H, Maryland DC]^
+1O MO [1 O, Missouri]^
+1O IL [1 O, Illinois]^
+1H IL [1 H, Illinois]^
+3H CO [3 H, Colorado]^
+1O STX [1 O, South Texas]^
+4O SCV [4 O, Santa Clara Valley]^
+1H NTX [1 H, North Texas]^
+2I MO [2 I, Missouri]^
+1H IA [1 H, Iowa]^
+1I ME [1 I, Maine]^
+1H QC [1 H, Quebec]^
+1H KY [1 H, Kentucky]^
+1I ME [1 I, Maine]^
+1H IL [1 H, Illinois]^
+3I NL [3 I, Newfoundland Labrador]^
+2O ORG [2 O, Orange]^
+1H QC [1 H, Quebec]^
+1H SFL [1 H, Southern Florida]^
+1H NLI [1 H, Long Island]^
+1H WPA [1 H, Western Pennsylvania]^
+2O SB [2 O, Santa Barbara]^
+2I EPA [2 I, Eastern Pennsylvania]^
+1O FL [1 O, ]^
+1H SFL [1 H, Southern Florida]^
+3O STX [3 O, South Texas]^
+1O EB [1 O, East Bay]^
+2O LA [2 O, Louisiana]^
+2I AL [2 I, Alabama]^
+1H NC [1 H, North Carolina]^
+2O NC [2 O, North Carolina]^
+1H CT [1 H, Connecticut]^
+1O EPA [1 O, Eastern Pennsylvania]^
+2O ENY [2 O, Eastern New York]^
+1I SB [1 I, Santa Barbara]^
+1H SF [1 H, San Francisco]^
+2H ID [2 H, Idaho]^
+1O MO [1 O, Missouri]^
+1O NFL [1 O, Northern Florida]^
+2O RI [2 O, Rhode Island]^
+6I KS [6 I, Kansas]^
+1H NFL [1 H, Northern Florida]^
+3I IN [3 I, Indiana]^
+1H WCF [1 H, West Central Florida]^
+1O NC [1 O, North Carolina]^
+1O WWA [1 O, Western Washington]^
+2O NTX [2 O, North Texas]^
+1H MN [1 H, Minnesota]^
+1H MS [1 H, Mississippi]^
+1H QC [1 H, Quebec]^
+4I ENY [4 I, Eastern New York]^
+1H ONE [1 H, Ontario East]^
+2O OK [2 O, Oklahoma]^
+1H UT [1 H, Utah]^
+1H KY [1 H, Kentucky]^
+2O EMA [2 O, Eastern  Massachusetts]^
+1H NC [1 H, North Carolina]^
+1O WI [1 O, Wisconsin]^
+1H NTX [1 H, North Texas]^
+1O NFL [1 O, Northern Florida]^
+1H EMA [1 H, Eastern  Massachusetts]^
+1H ID [1 H, Idaho]^
+1H WNY [1 H, Western New York]^
+4I NFL [4 I, Northern Florida]^
+1H VA [1 H, Virginia]^
+3O ID [3 O, Idaho]^
+1H KS [1 H, Kansas]^
+1H AL [1 H, Alabama]^
+2H QC [2 H, Quebec]^
+1O WV [1 O, West Virginia]^
+1H AZ [1 H, Arizona]^
+3H STX [3 H, South Texas]^
+1H CO [1 H, Colorado]^
+1H NFL [1 H, Northern Florida]^
+1H QC [1 H, Quebec]^
+1O WNY [1 O, Western New York]^
+3O OH [3 O, Ohio]^
+1H VA [1 H, Virginia]^
+4I WI [4 I, Wisconsin]^
+3O MI [3 O, Michigan]^
+1H MDC [1 H, Maryland DC]^
+1H EPA [1 H, Eastern Pennsylvania]^
+2O SC [2 O, South Carolina]^
+1H CO [1 H, Colorado]^
+2I KY [2 I, Kentucky]^
+1I MDC [1 I, Maryland DC]^
+1H EMA [1 H, Eastern  Massachusetts]^
+4I NFL [4 I, Northern Florida]^
+3O UT [3 O, Utah]^
+1H AZ [1 H, Arizona]^
+1O NNJ [1 O, Northern New Jersey]^
+2I VT [2 I, Vermont]^
+1H WI [1 H, Wisconsin]^
+1H WMA [1 H, Western Massachusetts]^
+1H EPA [1 H, Eastern Pennsylvania]^
+3H WPA [3 H, Western Pennsylvania]^
+1H NC [1 H, North Carolina]^
+3I KY [3 I, Kentucky]^
+3I STX [3 I, South Texas]^
+1H QC [1 H, Quebec]^
+2H AZ [2 H, Arizona]^
+1O SV [1 O, Sacramento Valley]^
+1H SB [1 H, Santa Barbara]^
+1H NC [1 H, North Carolina]^
+4O WI [4 O, Wisconsin]^
+1H WWA [1 H, Western Washington]^
+1O EPA [1 O, Eastern Pennsylvania]^
+1O WWA [1 O, Western Washington]^
+1H MI [1 H, Michigan]^
+2O AL [2 O, Alabama]^
+2I NFL [2 I, Northern Florida]^
+1H NC [1 H, North Carolina]^
+1O ENY [1 O, Eastern New York]^
+3I GA [3 I, Georgia]^
+5O AL [5 O, Alabama]^
+1H EMA [1 H, Eastern  Massachusetts]^
+1H DX [1 H, DX]^
+1H CT [1 H, Connecticut]^
+1O NE [1 O, Nebraska]^
+2O ENY [2 O, Eastern New York]^
+1H LAX [1 H, Los Angeles]^
+4I UT [4 I, Utah]^
+1H WV [1 H, West Virginia]^
+Class NFL [ , Northern Florida]^
+1H WI [1 H, Wisconsin]^
+1H ND [1 H, ]^
+3I NLI [3 I, Long Island]^
+1H SF [1 H, San Francisco]^
+1H NL [1 H, Newfoundland Labrador]^
+1H AR [1 H, Arkansas]^
+2H NLI [2 H, Long Island]^
+1O KS [1 O, Kansas]^
+1H VT [1 H, Vermont]^
+1H IL [1 H, Illinois]^
+1O MDC [1 O, Maryland DC]^
+1O KS [1 O, Kansas]^
+10 UT [10 , Utah]^
+2I WCF [2 I, West Central Florida]^
+1H OH [1 H, Ohio]^
+1H LAX [1 H, Los Angeles]^
+3I IN [3 I, Indiana]^
+1O STX [1 O, South Texas]^
+1H NFL [1 H, Northern Florida]^
+1H NNJ [1 H, Northern New Jersey]^
+1H NFL [1 H, Northern Florida]^
+1H NLI [1 H, Long Island]^
+1H IL [1 H, Illinois]^
+3H KS [3 H, Kansas]^
+1H LAX [1 H, Los Angeles]^
+3O IL [3 O, Illinois]^
+1H MI [1 H, Michigan]^
+1O GA [1 O, Georgia]^
+1H EMA [1 H, Eastern  Massachusetts]^
+1H NNY [1 H, Northern New York]^
+2O KY [2 O, Kentucky]^
+1O ENY [1 O, Eastern New York]^
+4I TN [4 I, Tennessee]^
+1H LA [1 H, Louisiana]^
+2H EMA [2 H, Eastern  Massachusetts]^
+4I NC [4 I, North Carolina]^
+2H WPA [2 H, Western Pennsylvania]^
+1H EMA [1 H, Eastern  Massachusetts]^
+1H NV [1 H, Nevada]^
+1H STX [1 H, South Texas]^
+3O KS [3 O, Kansas]^
+1H WI [1 H, Wisconsin]^
+3I MN [3 I, Minnesota]^
+1I CT [1 I, Connecticut]^
+1H AR [1 H, Arkansas]^
+1H NNY [1 H, Northern New York]^
+1O AL [1 O, Alabama]^
+1O NNY [1 O, Northern New York]^
+10 OH [10 , Ohio]^
+1H NV [1 H, Nevada]^
+1H EB [1 H, East Bay]^
+1H ME [1 H, Maine]^
+1H WI [1 H, Wisconsin]^
+1H EPA [1 H, Eastern Pennsylvania]^
+5O SFL [5 O, Southern Florida]^
+1O IA [1 O, Iowa]^
+1H SB [1 H, Santa Barbara]^
+1H SFL [1 H, Southern Florida]^
+2O IN [2 O, Indiana]^
+6O NC [6 O, North Carolina]^
+2O WPA [2 O, Western Pennsylvania]^
+1O AZ [1 O, Arizona]^
+2I IL [2 I, Illinois]^
+1H SC [1 H, South Carolina]^
+1O VA [1 O, Virginia]^
+1H MO [1 H, Missouri]^
+1H NNJ [1 H, Northern New Jersey]^
+1H ME [1 H, Maine]^
+1H CO [1 H, Colorado]^
+1O EB [1 O, East Bay]^
+1H OH [1 H, Ohio]^
+3I MO [3 I, Missouri]^
+1H MI [1 H, Michigan]^
+2I OH [2 I, Ohio]^
+1H IN [1 H, Indiana]^
+1H NFL [1 H, Northern Florida]^
+2I WI [2 I, Wisconsin]^
+1H WI [1 H, Wisconsin]^
+1H IL [1 H, Illinois]^
+1H SFL [1 H, Southern Florida]^
+1O TN [1 O, Tennessee]^
+1O AL [1 O, Alabama]^
+1O NC [1 O, North Carolina]^
+1O ND [1 O, ]^
+3O EPA [3 O, Eastern Pennsylvania]^
+1H CT [1 H, Connecticut]^
+1O MI [1 O, Michigan]^
+1H NNJ [1 H, Northern New Jersey]^
+2O ENY [2 O, Eastern New York]^
+1I SDG [1 I, San Diego]^
+4I ID [4 I, Idaho]^
+1O WI [1 O, Wisconsin]^
+1I SC [1 I, South Carolina]^
+1O ONE [1 O, Ontario East]^
+1H VA [1 H, Virginia]^
+2O KY [2 O, Kentucky]^
+1H IL [1 H, Illinois]^
+1H EMA [1 H, Eastern  Massachusetts]^
+1H WI [1 H, Wisconsin]^
+1O EPA [1 O, Eastern Pennsylvania]^
+1H ME [1 H, Maine]^
+2O NA [2 O, ]^
+2I AL [2 I, Alabama]^
+1H AL [1 H, Alabama]^
+1H SJV [1 H, San Joaquin Valley]^
+4H EPA [4 H, Eastern Pennsylvania]^
+3I NNJ [3 I, Northern New Jersey]^
+3O NC [3 O, North Carolina]^
+1H OH [1 H, Ohio]^
+2H GA [2 H, Georgia]^
+1O NC [1 O, North Carolina]^
+1O KY [1 O, Kentucky]^
+4O ONS [4 O, Ontario South]^
+3H NC [3 H, North Carolina]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1O AZ [1 O, Arizona]^
+3O IL [3 O, Illinois]^
+1H GA [1 H, Georgia]^
+1O SCV [1 O, Santa Clara Valley]^
+1O AL [1 O, Alabama]^
+1H WMA [1 H, Western Massachusetts]^
+2H WWA [2 H, Western Washington]^
+Class STX [ , South Texas]^
+3I MO [3 I, Missouri]^
+1O EPA [1 O, Eastern Pennsylvania]^
+2H MN [2 H, Minnesota]^
+1H WWA [1 H, Western Washington]^
+1H RI [1 H, Rhode Island]^
+1H STX [1 H, South Texas]^
+4O GA [4 O, Georgia]^
+1O EPA [1 O, Eastern Pennsylvania]^
+1H ORG [1 H, Orange]^
+1H EB [1 H, East Bay]^
+5O NC [5 O, North Carolina]^
+1O CO [1 O, Colorado]^
+1H WI [1 H, Wisconsin]^
+1O NNJ [1 O, Northern New Jersey]^
+1H GA [1 H, Georgia]^
+1O AL [1 O, Alabama]^
+1H WCF [1 H, West Central Florida]^
+1H IL [1 H, Illinois]^
+1I NL [1 I, Newfoundland Labrador]^
+3O KY [3 O, Kentucky]^
+4I IN [4 I, Indiana]^
+1H SDG [1 H, San Diego]^
+2H MI [2 H, Michigan]^
+4O NC [4 O, North Carolina]^
+1H IN [1 H, Indiana]^
+2I QC [2 I, Quebec]^
+1H DX [1 H, DX]^
+1I NC [1 I, North Carolina]^
+2O NC [2 O, North Carolina]^
+1O MN [1 O, Minnesota]^
+1H TN [1 H, Tennessee]^
+1O NC [1 O, North Carolina]^
+6I NTX [6 I, North Texas]^
+1H WNY [1 H, Western New York]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1O NNJ [1 O, Northern New Jersey]^
+1H TN [1 H, Tennessee]^
+1H MI [1 H, Michigan]^
+1H NFL [1 H, Northern Florida]^
+1H ORG [1 H, Orange]^
+1H LAX [1 H, Los Angeles]^
+1H LAX [1 H, Los Angeles]^
+1H WI [1 H, Wisconsin]^
+1H EMA [1 H, Eastern  Massachusetts]^
+1I CT [1 I, Connecticut]^
+2I GA [2 I, Georgia]^
+1O ONE [1 O, Ontario East]^
+4I EPA [4 I, Eastern Pennsylvania]^
+1O SCV [1 O, Santa Clara Valley]^
+1H NTX [1 H, North Texas]^
+1O IL [1 O, Illinois]^
+2O SC [2 O, South Carolina]^
+1O WMA [1 O, Western Massachusetts]^
+3O WI [3 O, Wisconsin]^
+1H KS [1 H, Kansas]^
+1O NTX [1 O, North Texas]^
+2O ID [2 O, Idaho]^
+3I EPA [3 I, Eastern Pennsylvania]^
+2I WNY [2 I, Western New York]^
+2O MS [2 O, Mississippi]^
+1O AZ [1 O, Arizona]^
+1H VA [1 H, Virginia]^
+1O IL [1 O, Illinois]^
+1H ONN [1 H, Ontario North]^
+1O CT [1 O, Connecticut]^
+1H KS [1 H, Kansas]^
+2O NH [2 O, New Hampshire]^
+1H ID [1 H, Idaho]^
+2O NNY [2 O, Northern New York]^
+1H SK [1 H, Saskatchewan]^
+2I DX [2 I, DX]^
+1H WV [1 H, West Virginia]^
+2I AZ [2 I, Arizona]^
+1O TN [1 O, Tennessee]^
+2O STX [2 O, South Texas]^
+1H TN [1 H, Tennessee]^
+2I EPA [2 I, Eastern Pennsylvania]^
+1H IL [1 H, Illinois]^
+1H VT [1 H, Vermont]^
+1H QC [1 H, Quebec]^
+1H GA [1 H, Georgia]^
+2O QC [2 O, Quebec]^
+10 DX [10 , DX]^
+1O TN [1 O, Tennessee]^
+1O NC [1 O, North Carolina]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1H TN [1 H, Tennessee]^
+1O QC [1 O, Quebec]^
+1I KY [1 I, Kentucky]^
+4O SV [4 O, Sacramento Valley]^
+1H MO [1 H, Missouri]^
+Class NC [ , North Carolina]^
+1O MN [1 O, Minnesota]^
+1H ME [1 H, Maine]^
+3I WNY [3 I, Western New York]^
+1H IN [1 H, Indiana]^
+4O ONS [4 O, Ontario South]^
+1H NH [1 H, New Hampshire]^
+2O NM [2 O, New Mexico]^
+1H RI [1 H, Rhode Island]^
+1H IL [1 H, Illinois]^
+4O WPA [4 O, Western Pennsylvania]^
+1H WI [1 H, Wisconsin]^
+3O NFL [3 O, Northern Florida]^
+2H SD [2 H, South Dakota]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1H ONS [1 H, Ontario South]^
+1I MDC [1 I, Maryland DC]^
+1H SFL [1 H, Southern Florida]^
+1H ND [1 H, ]^
+1H CO [1 H, Colorado]^
+1H NC [1 H, North Carolina]^
+1H OH [1 H, Ohio]^
+1O GA [1 O, Georgia]^
+1O STX [1 O, South Texas]^
+3I SC [3 I, South Carolina]^
+1H CT [1 H, Connecticut]^
+1H NNJ [1 H, Northern New Jersey]^
+1H MI [1 H, Michigan]^
+1H AZ [1 H, Arizona]^
+3O IA [3 O, Iowa]^
+1O DE [1 O, Delaware]^
+2I NC [2 I, North Carolina]^
+6I KY [6 I, Kentucky]^
+1O QC [1 O, Quebec]^
+1O GA [1 O, Georgia]^
+1H MI [1 H, Michigan]^
+1O IL [1 O, Illinois]^
+1H ONS [1 H, Ontario South]^
+1H IN [1 H, Indiana]^
+1H NC [1 H, North Carolina]^
+2O MDC [2 O, Maryland DC]^
+2O LAX [2 O, Los Angeles]^
+1H AZ [1 H, Arizona]^
+1H KY [1 H, Kentucky]^
+2I WPA [2 I, Western Pennsylvania]^
+1H WMA [1 H, Western Massachusetts]^
+1H MO [1 H, Missouri]^
+1H IA [1 H, Iowa]^
+3O OK [3 O, Oklahoma]^
+1O KY [1 O, Kentucky]^
+1H MO [1 H, Missouri]^
+1H WV [1 H, West Virginia]^
+1H MI [1 H, Michigan]^
+1H NFL [1 H, Northern Florida]^
+2I UT [2 I, Utah]^
+4O IL [4 O, Illinois]^
+1H CT [1 H, Connecticut]^
+3I ID [3 I, Idaho]^
+1O RI [1 O, Rhode Island]^
+3I NNY [3 I, Northern New York]^
+1H WWA [1 H, Western Washington]^
+1H IN [1 H, Indiana]^
+1H OK [1 H, Oklahoma]^
+1O NLI [1 O, Long Island]^
+1H ENY [1 H, Eastern New York]^
+1H GA [1 H, Georgia]^
+1H TN [1 H, Tennessee]^
+2I NC [2 I, North Carolina]^
+3O SC [3 O, South Carolina]^
+1H TN [1 H, Tennessee]^
+1H TN [1 H, Tennessee]^
+1H ONS [1 H, Ontario South]^
+3I WMA [3 I, Western Massachusetts]^
+1H MI [1 H, Michigan]^
+1H MI [1 H, Michigan]^
+3H VA [3 H, Virginia]^
+1H UT [1 H, Utah]^
+1H OH [1 H, Ohio]^
+1H IA [1 H, Iowa]^
+1H AL [1 H, Alabama]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1H NC [1 H, North Carolina]^
+1H AL [1 H, Alabama]^
+2I OH [2 I, Ohio]^
+1H NTX [1 H, North Texas]^
+1O GA [1 O, Georgia]^
+1H AZ [1 H, Arizona]^
+1O EPA [1 O, Eastern Pennsylvania]^
+4O NTX [4 O, North Texas]^
+1H NH [1 H, New Hampshire]^
+3O VA [3 O, Virginia]^
+1H IN [1 H, Indiana]^
+1O WI [1 O, Wisconsin]^
+1H OH [1 H, Ohio]^
+1H NNY [1 H, Northern New York]^
+1H OH [1 H, Ohio]^
+2H MS [2 H, Mississippi]^
+3I WNY [3 I, Western New York]^
+1H IL [1 H, Illinois]^
+1H NTX [1 H, North Texas]^
+1H SK [1 H, Saskatchewan]^
+1O VA [1 O, Virginia]^
+3O WCF [3 O, West Central Florida]^
+1H VA [1 H, Virginia]^
+1H CT [1 H, Connecticut]^
+4I NNJ [4 I, Northern New Jersey]^
+1O OH [1 O, Ohio]^
+1H GTA [1 H, Greater Toronto Area]^
+1O MI [1 O, Michigan]^
+1O CO [1 O, Colorado]^
+2O WI [2 O, Wisconsin]^
+6I KY [6 I, Kentucky]^
+1H AZ [1 H, Arizona]^
+3O SFL [3 O, Southern Florida]^
+1O WMA [1 O, Western Massachusetts]^
+1O ME [1 O, Maine]^
+1O ONS [1 O, Ontario South]^
+3H QC [3 H, Quebec]^
+1H WI [1 H, Wisconsin]^
+1O TN [1 O, Tennessee]^
+1O ENY [1 O, Eastern New York]^
+1O OH [1 O, Ohio]^
+1H NTX [1 H, North Texas]^
+1H MO [1 H, Missouri]^
+4O NC [4 O, North Carolina]^
+1H QC [1 H, Quebec]^
+1H NC [1 H, North Carolina]^
+2O EMA [2 O, Eastern  Massachusetts]^
+2I NLI [2 I, Long Island]^
+1O EMA [1 O, Eastern  Massachusetts]^
+1H QC [1 H, Quebec]^
+1H CT [1 H, Connecticut]^
+1H SC [1 H, South Carolina]^
+1O ONE [1 O, Ontario East]^
+4O NTX [4 O, North Texas]^
+2H MI [2 H, Michigan]^
+1H KY [1 H, Kentucky]^
+1H EPA [1 H, Eastern Pennsylvania]^
+2H EPA [2 H, Eastern Pennsylvania]^
+1H IL [1 H, Illinois]^
+1I STX [1 I, South Texas]^
+1O OK [1 O, Oklahoma]^
+1H SFL [1 H, Southern Florida]^
+3O OH [3 O, Ohio]^
+2I NFL [2 I, Northern Florida]^
+2O SFL [2 O, Southern Florida]^
+1O LAX [1 O, Los Angeles]^
+1H NTX [1 H, North Texas]^
+1O SC [1 O, South Carolina]^
+1H GTA [1 H, Greater Toronto Area]^
+1H CO [1 H, Colorado]^
+1H OH [1 H, Ohio]^
+1H UT [1 H, Utah]^
+1O WMA [1 O, Western Massachusetts]^
+3O WCF [3 O, West Central Florida]^
+1H NFL [1 H, Northern Florida]^
+1H AZ [1 H, Arizona]^
+1H STX [1 H, South Texas]^
+1O MO [1 O, Missouri]^
+1O GTA [1 O, Greater Toronto Area]^
+1H SF [1 H, San Francisco]^
+1H GA [1 H, Georgia]^
+1H STX [1 H, South Texas]^
+2O OH [2 O, Ohio]^
+2I GA [2 I, Georgia]^
+1H AR [1 H, Arkansas]^
+1H EMA [1 H, Eastern  Massachusetts]^
+1H KY [1 H, Kentucky]^
+2O VA [2 O, Virginia]^
+1H SC [1 H, South Carolina]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1H WWA [1 H, Western Washington]^
+1H AZ [1 H, Arizona]^
+1H WI [1 H, Wisconsin]^
+1I AZ [1 I, Arizona]^
+2O NTX [2 O, North Texas]^
+1H BC [1 H, British Columbia]^
+1H MI [1 H, Michigan]^
+2I UT [2 I, Utah]^
+1H WCF [1 H, West Central Florida]^
+1I LAX [1 I, Los Angeles]^
+3O MDC [3 O, Maryland DC]^
+1H WPA [1 H, Western Pennsylvania]^
+1H ORG [1 H, Orange]^
+1H MN [1 H, Minnesota]^
+1O NTX [1 O, North Texas]^
+1H WI [1 H, Wisconsin]^
+1H GA [1 H, Georgia]^
+1O AB [1 O, Alberta]^
+4I VA [4 I, Virginia]^
+1O GA [1 O, Georgia]^
+1H KS [1 H, Kansas]^
+1O CO [1 O, Colorado]^
+4I SC [4 I, South Carolina]^
+3I ME [3 I, Maine]^
+10 NV [10 , Nevada]^
+1H SV [1 H, Sacramento Valley]^
+2H AL [2 H, Alabama]^
+1O KS [1 O, Kansas]^
+3O WV [3 O, West Virginia]^
+4O EPA [4 O, Eastern Pennsylvania]^
+1O AL [1 O, Alabama]^
+2H SC [2 H, South Carolina]^
+1H ID [1 H, Idaho]^
+1H NNJ [1 H, Northern New Jersey]^
+2I CT [2 I, Connecticut]^
+2O ORG [2 O, Orange]^
+1O WCF [1 O, West Central Florida]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1H OH [1 H, Ohio]^
+3O SD [3 O, South Dakota]^
+4I MO [4 I, Missouri]^
+1H STX [1 H, South Texas]^
+1H MDC [1 H, Maryland DC]^
+1H WCF [1 H, West Central Florida]^
+1H VA [1 H, Virginia]^
+1O NM [1 O, New Mexico]^
+1H NFL [1 H, Northern Florida]^
+1O OH [1 O, Ohio]^
+1H BC [1 H, British Columbia]^
+5O WMA [5 O, Western Massachusetts]^
+1H EPA [1 H, Eastern Pennsylvania]^
+4I MO [4 I, Missouri]^
+3O IL [3 O, Illinois]^
+1H MI [1 H, Michigan]^
+1O EPA [1 O, Eastern Pennsylvania]^
+1H GA [1 H, Georgia]^
+8I WI [8 I, Wisconsin]^
+1H CO [1 H, Colorado]^
+1H IL [1 H, Illinois]^
+3O STX [3 O, South Texas]^
+1H SD [1 H, South Dakota]^
+1O NFL [1 O, Northern Florida]^
+1H NE [1 H, Nebraska]^
+1O WWA [1 O, Western Washington]^
+1O WNY [1 O, Western New York]^
+1H QC [1 H, Quebec]^
+2H EMA [2 H, Eastern  Massachusetts]^
+1I KY [1 I, Kentucky]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1H NTX [1 H, North Texas]^
+3O EMA [3 O, Eastern  Massachusetts]^
+2O IA [2 O, Iowa]^
+1I VA [1 I, Virginia]^
+1H AL [1 H, Alabama]^
+3O AL [3 O, Alabama]^
+2O NC [2 O, North Carolina]^
+1H IL [1 H, Illinois]^
+3O CT [3 O, Connecticut]^
+3I CT [3 I, Connecticut]^
+1H NFL [1 H, Northern Florida]^
+1O WCF [1 O, West Central Florida]^
+1I ORG [1 I, Orange]^
+1H IL [1 H, Illinois]^
+1O NTX [1 O, North Texas]^
+2I STX [2 I, South Texas]^
+1H NTX [1 H, North Texas]^
+3H QC [3 H, Quebec]^
+2O ME [2 O, Maine]^
+1I TN [1 I, Tennessee]^
+1O WCF [1 O, West Central Florida]^
+1O SCV [1 O, Santa Clara Valley]^
+5O STX [5 O, South Texas]^
+1O SFL [1 O, Southern Florida]^
+2O AZ [2 O, Arizona]^
+1H OK [1 H, Oklahoma]^
+3I TN [3 I, Tennessee]^
+1O MS [1 O, Mississippi]^
+3O IL [3 O, Illinois]^
+2O NV [2 O, Nevada]^
+1H IL [1 H, Illinois]^
+1H TN [1 H, Tennessee]^
+1O MI [1 O, Michigan]^
+1H OH [1 H, Ohio]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1H WI [1 H, Wisconsin]^
+2I WI [2 I, Wisconsin]^
+1H SC [1 H, South Carolina]^
+1H ORG [1 H, Orange]^
+1O AZ [1 O, Arizona]^
+1H NTX [1 H, North Texas]^
+3O IA [3 O, Iowa]^
+1H NC [1 H, North Carolina]^
+3H LAX [3 H, Los Angeles]^
+1H STX [1 H, South Texas]^
+2O CT [2 O, Connecticut]^
+2O AL [2 O, Alabama]^
+2I WI [2 I, Wisconsin]^
+1H OH [1 H, Ohio]^
+1H IN [1 H, Indiana]^
+1H NLI [1 H, Long Island]^
+1H ONE [1 H, Ontario East]^
+2O OH [2 O, Ohio]^
+1H MO [1 H, Missouri]^
+4O NC [4 O, North Carolina]^
+1H EPA [1 H, Eastern Pennsylvania]^
+1O NM [1 O, New Mexico]^
+1H NLI [1 H, Long Island]^
+2O IL [2 O, Illinois]^
+1H STX [1 H, South Texas]^
+2O STX [2 O, South Texas]^
+2I IL [2 I, Illinois]^
+1H OH [1 H, Ohio]^
+1H LAX [1 H, Los Angeles]^
+3O NFL [3 O, Northern Florida]^
+3H VA [3 H, Virginia]^
+1O GA [1 O, Georgia]^
+1H WI [1 H, Wisconsin]^
+4I NFL [4 I, Northern Florida]^
+1H NC [1 H, North Carolina]^
+1H TN [1 H, Tennessee]^
+3O AZ [3 O, Arizona]^
+4O GTA [4 O, Greater Toronto Area]^
+1H OR [1 H, Oregon]^
+1I SB [1 I, Santa Barbara]^
+1H MO [1 H, Missouri]^
+1H NFL [1 H, Northern Florida]^
+2O QC [2 O, Quebec]^
+1H ORG [1 H, Orange]^
+3I NTX [3 I, North Texas]^
+3O NFL [3 O, Northern Florida]^
+3O VA [3 O, Virginia]^
+1H ONS [1 H, Ontario South]^
+3O VA [3 O, Virginia]^
+4O SB [4 O, Santa Barbara]^
+3I NFL [3 I, Northern Florida]^
+3O MI [3 O, Michigan]^
+3I ID [3 I, Idaho]^
+1O STX [1 O, South Texas]^
+1H KY [1 H, Kentucky]^
+2H VT [2 H, Vermont]^
+1O NTX [1 O, North Texas]^
+2I AZ [2 I, Arizona]^
+1O WWA [1 O, Western Washington]^
+1H SK [1 H, Saskatchewan]^
+1H STX [1 H, South Texas]^
+1H GA [1 H, Georgia]^
+6O NFL [6 O, Northern Florida]^
+1O SC [1 O, South Carolina]^
+1H IN [1 H, Indiana]^
+1O AL [1 O, Alabama]^
+2O TN [2 O, Tennessee]^
+2O QC [2 O, Quebec]^
+1H NC [1 H, North Carolina]^
+1O WPA [1 O, Western Pennsylvania]^
+1H NNJ [1 H, Northern New Jersey]^
+1O ORG [1 O, Orange]^
+1O NC [1 O, North Carolina]^
+3I SF [3 I, San Francisco]^
+1H ORG [1 H, Orange]^
+1O WCF [1 O, West Central Florida]^
+1H OK [1 H, Oklahoma]^
+6I SFL [6 I, Southern Florida]^
+2O AZ [2 O, Arizona]^
+1I IA [1 I, Iowa]^
+1O CT [1 O, Connecticut]^
+1H OH [1 H, Ohio]^
+1O KY [1 O, Kentucky]^
+1H IN [1 H, Indiana]^
+1O EB [1 O, East Bay]^
+1H WCF [1 H, West Central Florida]^
+1I QC [1 I, Quebec]^
+3O SFL [3 O, Southern Florida]^
+1I OH [1 I, Ohio]^
+3H SC [3 H, South Carolina]^
+1O WNY [1 O, Western New York]^
+2O KY [2 O, Kentucky]^
+2H QC [2 H, Quebec]^
+1H ONE [1 H, Ontario East]^
+1H AR [1 H, Arkansas]^
+1O NNJ [1 O, Northern New Jersey]^
+1H OR [1 H, Oregon]^

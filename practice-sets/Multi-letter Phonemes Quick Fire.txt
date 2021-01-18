@@ -1,0 +1,1500 @@
+tt [t, t|tt]^
+ar [a, r|ar]^
+kn [k, n|kn]^
+sp [s, p|sp]^
+fy [f, y|fy]^
+tch [t, c, h|tch]^
+ere [e, r, e|ere]^
+ough [o, u, g, h|ough]^
+oll [o, l, l|oll]^
+dd [d, d|dd]^
+er [e, r|er]^
+dr [d, r|dr]^
+eigh [e, i, g, h|eigh]^
+ky [k, y|ky]^
+wa [w, a|wa]^
+ou [o, u|ou]^
+sm [s, m|sm]^
+br [b, r|br]^
+cl [c, l|cl]^
+ci [c, i|ci]^
+ui [u, i|ui]^
+br [b, r|br]^
+oll [o, l, l|oll]^
+ey [e, y|ey]^
+ei [e, i|ei]^
+spl [s, p, l|spl]^
+ff [f, f|ff]^
+ze [z, e|ze]^
+ph [p, h|ph]^
+zz [z, z|zz]^
+mb [m, b|mb]^
+tt [t, t|tt]^
+ea [e, a|ea]^
+ss [s, s|ss]^
+or [o, r|or]^
+th [t, h|th]^
+ff [f, f|ff]^
+graphy [g, r, a, p, h, y|graphy]^
+logy [l, o, g, y|logy]^
+spl [s, p, l|spl]^
+wa [w, a|wa]^
+ou [o, u|ou]^
+logy [l, o, g, y|logy]^
+ir [i, r|ir]^
+ign [i, g, n|ign]^
+ie [i, e|ie]^
+squ [s, q, u|squ]^
+wh [w, h|wh]^
+olt [o, l, t|olt]^
+old [o, l, d|old]^
+ng [n, g|ng]^
+ow [o, w|ow]^
+sl [s, l|sl]^
+ng [n, g|ng]^
+ei [e, i|ei]^
+ea [e, a|ea]^
+ei [e, i|ei]^
+ea [e, a|ea]^
+rr [r, r|rr]^
+ity [i, t, y|ity]^
+ie [i, e|ie]^
+se [s, e|se]^
+ai [a, i|ai]^
+ng [n, g|ng]^
+oll [o, l, l|oll]^
+ear [e, a, r|ear]^
+ea [e, a|ea]^
+graphy [g, r, a, p, h, y|graphy]^
+oll [o, l, l|oll]^
+ey [e, y|ey]^
+olk [o, l, k|olk]^
+gn [g, n|gn]^
+qu [q, u|qu]^
+gg [g, g|gg]^
+ie [i, e|ie]^
+ey [e, y|ey]^
+spr [s, p, r|spr]^
+ar [a, r|ar]^
+bl [b, l|bl]^
+eer [e, e, r|eer]^
+olk [o, l, k|olk]^
+oll [o, l, l|oll]^
+ey [e, y|ey]^
+ign [i, g, n|ign]^
+ost [o, s, t|ost]^
+dd [d, d|dd]^
+zz [z, z|zz]^
+st [s, t|st]^
+oul [o, u, l|oul]^
+er [e, r|er]^
+oor [o, o, r|oor]^
+mm [m, m|mm]^
+br [b, r|br]^
+ng [n, g|ng]^
+st [s, t|st]^
+mb [m, b|mb]^
+sp [s, p|sp]^
+al [a, l|al]^
+ss [s, s|ss]^
+se [s, e|se]^
+pl [p, l|pl]^
+oul [o, u, l|oul]^
+ky [k, y|ky]^
+fy [f, y|fy]^
+ff [f, f|ff]^
+fl [f, l|fl]^
+irr [i, r, r|irr]^
+oll [o, l, l|oll]^
+ng [n, g|ng]^
+irr [i, r, r|irr]^
+wr [w, r|wr]^
+spl [s, p, l|spl]^
+pp [p, p|pp]^
+aw [a, w|aw]^
+ng [n, g|ng]^
+sl [s, l|sl]^
+sm [s, m|sm]^
+ui [u, i|ui]^
+gh [g, h|gh]^
+sl [s, l|sl]^
+ear [e, a, r|ear]^
+ge [g, e|ge]^
+oi [o, i|oi]^
+fr [f, r|fr]^
+ity [i, t, y|ity]^
+ei [e, i|ei]^
+eer [e, e, r|eer]^
+ore [o, r, e|ore]^
+qu [q, u|qu]^
+rr [r, r|rr]^
+ua [u, a|ua]^
+ir [i, r|ir]^
+oo [o, o|oo]^
+que [q, u, e|que]^
+spr [s, p, r|spr]^
+ear [e, a, r|ear]^
+augh [a, u, g, h|augh]^
+ng [n, g|ng]^
+fl [f, l|fl]^
+igh [i, g, h|igh]^
+olt [o, l, t|olt]^
+squ [s, q, u|squ]^
+nk [n, k|nk]^
+ei [e, i|ei]^
+ea [e, a|ea]^
+wh [w, h|wh]^
+ff [f, f|ff]^
+eigh [e, i, g, h|eigh]^
+ch [c, h|ch]^
+fr [f, r|fr]^
+ir [i, r|ir]^
+sh [s, h|sh]^
+ei [e, i|ei]^
+ity [i, t, y|ity]^
+oy [o, y|oy]^
+ng [n, g|ng]^
+oo [o, o|oo]^
+ll [l, l|ll]^
+cr [c, r|cr]^
+nd [n, d|nd]^
+ore [o, r, e|ore]^
+ci [c, i|ci]^
+cy [c, y|cy]^
+are [a, r, e|are]^
+bb [b, b|bb]^
+wa [w, a|wa]^
+ph [p, h|ph]^
+sc [s, c|sc]^
+oo [o, o|oo]^
+ear [e, a, r|ear]^
+spr [s, p, r|spr]^
+wh [w, h|wh]^
+er [e, r|er]^
+gr [g, r|gr]^
+wh [w, h|wh]^
+ee [e \. e|ee]^
+oe [o, e|oe]^
+augh [a, u, g, h|augh]^
+dge [d, g, e|dge]^
+ss [s, s|ss]^
+ch [c, h|ch]^
+ey [e, y|ey]^
+ea [e, a|ea]^
+au [a, u|au]^
+shr [s, h, r|shr]^
+oe [o, e|oe]^
+ve [v, e|ve]^
+augh [a, u, g, h|augh]^
+fr [f, r|fr]^
+ough [o, u, g, h|ough]^
+shr [s, h, r|shr]^
+air [a, i, r|air]^
+igh [i, g, h|igh]^
+aw [a, w|aw]^
+tch [t, c, h|tch]^
+irr [i, r, r|irr]^
+ey [e, y|ey]^
+ity [i, t, y|ity]^
+ed [e, d|ed]^
+squ [s, q, u|squ]^
+gg [g, g|gg]^
+ye [y, e|ye]^
+ea [e, a|ea]^
+gg [g, g|gg]^
+augh [a, u, g, h|augh]^
+ey [e, y|ey]^
+augh [a, u, g, h|augh]^
+oy [o, y|oy]^
+eer [e, e, r|eer]^
+str [s, t, r|str]^
+nn [n, n|nn]^
+ou [o, u|ou]^
+gl [g, l|gl]^
+sm [s, m|sm]^
+aw [a, w|aw]^
+eu [e, u|eu]^
+br [b, r|br]^
+ie [i, e|ie]^
+gg [g, g|gg]^
+olt [o, l, t|olt]^
+wh [w, h|wh]^
+oll [o, l, l|oll]^
+lm [l, m|lm]^
+nk [n, k|nk]^
+igh [i, g, h|igh]^
+gl [g, l|gl]^
+ou [o, u|ou]^
+dge [d, g, e|dge]^
+ie [i, e|ie]^
+ity [i, t, y|ity]^
+ci [c, i|ci]^
+ss [s, s|ss]^
+au [a, u|au]^
+ou [o, u|ou]^
+lm [l, m|lm]^
+shr [s, h, r|shr]^
+gn [g, n|gn]^
+squ [s, q, u|squ]^
+zz [z, z|zz]^
+old [o, l, d|old]^
+ge [g, e|ge]^
+ze [z, e|ze]^
+eu [e, u|eu]^
+air [a, i, r|air]^
+oll [o, l, l|oll]^
+lm [l, m|lm]^
+ss [s, s|ss]^
+sh [s, h|sh]^
+ye [y, e|ye]^
+se [s, e|se]^
+gg [g, g|gg]^
+oi [o, i|oi]^
+zz [z, z|zz]^
+ll [l, l|ll]^
+eer [e, e, r|eer]^
+are [a, r, e|are]^
+lm [l, m|lm]^
+ey [e, y|ey]^
+au [a, u|au]^
+bb [b, b|bb]^
+ed [e, d|ed]^
+oy [o, y|oy]^
+oo [o, o|oo]^
+oul [o, u, l|oul]^
+ze [z, e|ze]^
+ei [e, i|ei]^
+oi [o, i|oi]^
+igh [i, g, h|igh]^
+eer [e, e, r|eer]^
+ey [e, y|ey]^
+oi [o, i|oi]^
+ui [u, i|ui]^
+lm [l, m|lm]^
+ere [e, r, e|ere]^
+ity [i, t, y|ity]^
+augh [a, u, g, h|augh]^
+eer [e, e, r|eer]^
+ei [e, i|ei]^
+cc [c, c|cc]^
+are [a, r, e|are]^
+wa [w, a|wa]^
+oo [o, o|oo]^
+sm [s, m|sm]^
+bb [b, b|bb]^
+sn [s, n|sn]^
+olk [o, l, k|olk]^
+shr [s, h, r|shr]^
+str [s, t, r|str]^
+sl [s, l|sl]^
+ur [u, r|ur]^
+gh [g, h|gh]^
+spr [s, p, r|spr]^
+oy [o, y|oy]^
+spr [s, p, r|spr]^
+ll [l, l|ll]^
+spl [s, p, l|spl]^
+ost [o, s, t|ost]^
+spr [s, p, r|spr]^
+mm [m, m|mm]^
+zz [z, z|zz]^
+ey [e, y|ey]^
+se [s, e|se]^
+ll [l, l|ll]^
+wh [w, h|wh]^
+ow [o, w|ow]^
+ui [u, i|ui]^
+ph [p, h|ph]^
+ti [t, i|ti]^
+ze [z, e|ze]^
+kn [k, n|kn]^
+ind [i, n, d|ind]^
+fl [f, l|fl]^
+eer [e, e, r|eer]^
+rr [r, r|rr]^
+ey [e, y|ey]^
+fl [f, l|fl]^
+oll [o, l, l|oll]^
+augh [a, u, g, h|augh]^
+sh [s, h|sh]^
+ff [f, f|ff]^
+mb [m, b|mb]^
+cr [c, r|cr]^
+ed [e, d|ed]^
+oa [o, a|oa]^
+que [q, u, e|que]^
+nk [n, k|nk]^
+fr [f, r|fr]^
+wh [w, h|wh]^
+olt [o, l, t|olt]^
+th [t, h|th]^
+ck [c, k|ck]^
+cl [c, l|cl]^
+ff [f, f|ff]^
+ue [u, e|ue]^
+ere [e, r, e|ere]^
+sh [s, h|sh]^
+ll [l, l|ll]^
+bl [b, l|bl]^
+graphy [g, r, a, p, h, y|graphy]^
+sp [s, p|sp]^
+or [o, r|or]^
+oa [o, a|oa]^
+ere [e, r, e|ere]^
+ou [o, u|ou]^
+dr [d, r|dr]^
+dge [d, g, e|dge]^
+ey [e, y|ey]^
+ow [o, w|ow]^
+gh [g, h|gh]^
+logy [l, o, g, y|logy]^
+tt [t, t|tt]^
+bl [b, l|bl]^
+ng [n, g|ng]^
+str [s, t, r|str]^
+st [s, t|st]^
+gr [g, r|gr]^
+igh [i, g, h|igh]^
+oa [o, a|oa]^
+irr [i, r, r|irr]^
+ff [f, f|ff]^
+ng [n, g|ng]^
+rr [r, r|rr]^
+sc [s, c|sc]^
+ere [e, r, e|ere]^
+ge [g, e|ge]^
+ge [g, e|ge]^
+ea [e, a|ea]^
+ye [y, e|ye]^
+ei [e, i|ei]^
+zz [z, z|zz]^
+spl [s, p, l|spl]^
+fr [f, r|fr]^
+bl [b, l|bl]^
+aw [a, w|aw]^
+sc [s, c|sc]^
+zz [z, z|zz]^
+st [s, t|st]^
+olt [o, l, t|olt]^
+ed [e, d|ed]^
+ce [c, e|ce]^
+que [q, u, e|que]^
+ey [e, y|ey]^
+chr [c, h, r|chr]^
+pl [p, l|pl]^
+st [s, t|st]^
+sn [s, n|sn]^
+oor [o, o, r|oor]^
+ei [e, i|ei]^
+are [a, r, e|are]^
+ye [y, e|ye]^
+rr [r, r|rr]^
+ore [o, r, e|ore]^
+tch [t, c, h|tch]^
+ss [s, s|ss]^
+cy [c, y|cy]^
+oa [o, a|oa]^
+fy [f, y|fy]^
+oo [o, o|oo]^
+ng [n, g|ng]^
+spl [s, p, l|spl]^
+nn [n, n|nn]^
+lm [l, m|lm]^
+cy [c, y|cy]^
+wr [w, r|wr]^
+sm [s, m|sm]^
+bb [b, b|bb]^
+tch [t, c, h|tch]^
+ei [e, i|ei]^
+ough [o, u, g, h|ough]^
+ui [u, i|ui]^
+sn [s, n|sn]^
+shr [s, h, r|shr]^
+gr [g, r|gr]^
+sp [s, p|sp]^
+ow [o, w|ow]^
+ph [p, h|ph]^
+ur [u, r|ur]^
+chr [c, h, r|chr]^
+ity [i, t, y|ity]^
+ere [e, r, e|ere]^
+rr [r, r|rr]^
+zz [z, z|zz]^
+nd [n, d|nd]^
+kn [k, n|kn]^
+ign [i, g, n|ign]^
+cr [c, r|cr]^
+gg [g, g|gg]^
+ew [e, w|ew]^
+al [a, l|al]^
+nd [n, d|nd]^
+zz [z, z|zz]^
+ir [i, r|ir]^
+zz [z, z|zz]^
+zz [z, z|zz]^
+ck [c, k|ck]^
+ua [u, a|ua]^
+fl [f, l|fl]^
+logy [l, o, g, y|logy]^
+ei [e, i|ei]^
+rr [r, r|rr]^
+ow [o, w|ow]^
+olk [o, l, k|olk]^
+ea [e, a|ea]^
+tch [t, c, h|tch]^
+dd [d, d|dd]^
+oll [o, l, l|oll]^
+ve [v, e|ve]^
+ti [t, i|ti]^
+oul [o, u, l|oul]^
+spl [s, p, l|spl]^
+dr [d, r|dr]^
+graphy [g, r, a, p, h, y|graphy]^
+ough [o, u, g, h|ough]^
+ow [o, w|ow]^
+dge [d, g, e|dge]^
+eu [e, u|eu]^
+dge [d, g, e|dge]^
+wa [w, a|wa]^
+th [t, h|th]^
+or [o, r|or]^
+eo [e, o|eo]^
+cr [c, r|cr]^
+dd [d, d|dd]^
+ch [c, h|ch]^
+igh [i, g, h|igh]^
+ind [i, n, d|ind]^
+ey [e, y|ey]^
+ce [c, e|ce]^
+oy [o, y|oy]^
+fr [f, r|fr]^
+nk [n, k|nk]^
+eu [e, u|eu]^
+wh [w, h|wh]^
+ss [s, s|ss]^
+er [e, r|er]^
+nd [n, d|nd]^
+spl [s, p, l|spl]^
+fl [f, l|fl]^
+ye [y, e|ye]^
+se [s, e|se]^
+ea [e, a|ea]^
+ow [o, w|ow]^
+pp [p, p|pp]^
+dd [d, d|dd]^
+ere [e, r, e|ere]^
+ea [e, a|ea]^
+wa [w, a|wa]^
+gr [g, r|gr]^
+olt [o, l, t|olt]^
+cy [c, y|cy]^
+shr [s, h, r|shr]^
+ui [u, i|ui]^
+bb [b, b|bb]^
+al [a, l|al]^
+ost [o, s, t|ost]^
+ge [g, e|ge]^
+ir [i, r|ir]^
+ue [u, e|ue]^
+oo [o, o|oo]^
+bb [b, b|bb]^
+ea [e, a|ea]^
+br [b, r|br]^
+spr [s, p, r|spr]^
+oo [o, o|oo]^
+sl [s, l|sl]^
+spl [s, p, l|spl]^
+ti [t, i|ti]^
+ss [s, s|ss]^
+ow [o, w|ow]^
+ti [t, i|ti]^
+ost [o, s, t|ost]^
+que [q, u, e|que]^
+th [t, h|th]^
+pp [p, p|pp]^
+ea [e, a|ea]^
+irr [i, r, r|irr]^
+tch [t, c, h|tch]^
+ye [y, e|ye]^
+ei [e, i|ei]^
+eer [e, e, r|eer]^
+th [t, h|th]^
+pp [p, p|pp]^
+nd [n, d|nd]^
+ie [i, e|ie]^
+ow [o, w|ow]^
+tt [t, t|tt]^
+logy [l, o, g, y|logy]^
+wa [w, a|wa]^
+olk [o, l, k|olk]^
+ign [i, g, n|ign]^
+ff [f, f|ff]^
+dr [d, r|dr]^
+wh [w, h|wh]^
+ie [i, e|ie]^
+irr [i, r, r|irr]^
+squ [s, q, u|squ]^
+ch [c, h|ch]^
+oll [o, l, l|oll]^
+er [e, r|er]^
+dr [d, r|dr]^
+ow [o, w|ow]^
+pr [p, r|pr]^
+cy [c, y|cy]^
+ou [o, u|ou]^
+ear [e, a, r|ear]^
+nd [n, d|nd]^
+ve [v, e|ve]^
+ough [o, u, g, h|ough]^
+nk [n, k|nk]^
+qu [q, u|qu]^
+gn [g, n|gn]^
+nk [n, k|nk]^
+air [a, i, r|air]^
+ough [o, u, g, h|ough]^
+ea [e, a|ea]^
+wa [w, a|wa]^
+or [o, r|or]^
+dr [d, r|dr]^
+str [s, t, r|str]^
+oo [o, o|oo]^
+eo [e, o|eo]^
+ti [t, i|ti]^
+old [o, l, d|old]^
+au [a, u|au]^
+ind [i, n, d|ind]^
+graphy [g, r, a, p, h, y|graphy]^
+fy [f, y|fy]^
+se [s, e|se]^
+nk [n, k|nk]^
+eu [e, u|eu]^
+ll [l, l|ll]^
+ere [e, r, e|ere]^
+ou [o, u|ou]^
+mm [m, m|mm]^
+ue [u, e|ue]^
+ai [a, i|ai]^
+ve [v, e|ve]^
+ch [c, h|ch]^
+ss [s, s|ss]^
+ye [y, e|ye]^
+au [a, u|au]^
+pp [p, p|pp]^
+ee [e \. e|ee]^
+olt [o, l, t|olt]^
+eer [e, e, r|eer]^
+ie [i, e|ie]^
+logy [l, o, g, y|logy]^
+ea [e, a|ea]^
+ye [y, e|ye]^
+nd [n, d|nd]^
+str [s, t, r|str]^
+ui [u, i|ui]^
+or [o, r|or]^
+dge [d, g, e|dge]^
+gh [g, h|gh]^
+th [t, h|th]^
+ign [i, g, n|ign]^
+tch [t, c, h|tch]^
+sc [s, c|sc]^
+nk [n, k|nk]^
+nd [n, d|nd]^
+sn [s, n|sn]^
+gg [g, g|gg]^
+ur [u, r|ur]^
+dge [d, g, e|dge]^
+graphy [g, r, a, p, h, y|graphy]^
+se [s, e|se]^
+ey [e, y|ey]^
+ere [e, r, e|ere]^
+wa [w, a|wa]^
+gr [g, r|gr]^
+ost [o, s, t|ost]^
+ge [g, e|ge]^
+ost [o, s, t|ost]^
+al [a, l|al]^
+gh [g, h|gh]^
+pp [p, p|pp]^
+sl [s, l|sl]^
+ei [e, i|ei]^
+oor [o, o, r|oor]^
+ua [u, a|ua]^
+fl [f, l|fl]^
+se [s, e|se]^
+ou [o, u|ou]^
+wa [w, a|wa]^
+ve [v, e|ve]^
+tch [t, c, h|tch]^
+st [s, t|st]^
+ur [u, r|ur]^
+wa [w, a|wa]^
+ei [e, i|ei]^
+ie [i, e|ie]^
+old [o, l, d|old]^
+sc [s, c|sc]^
+ow [o, w|ow]^
+gr [g, r|gr]^
+spl [s, p, l|spl]^
+ky [k, y|ky]^
+oul [o, u, l|oul]^
+tch [t, c, h|tch]^
+ll [l, l|ll]^
+ign [i, g, n|ign]^
+eo [e, o|eo]^
+pp [p, p|pp]^
+st [s, t|st]^
+dge [d, g, e|dge]^
+ew [e, w|ew]^
+zz [z, z|zz]^
+ou [o, u|ou]^
+ge [g, e|ge]^
+ey [e, y|ey]^
+augh [a, u, g, h|augh]^
+ost [o, s, t|ost]^
+olk [o, l, k|olk]^
+oll [o, l, l|oll]^
+ai [a, i|ai]^
+nk [n, k|nk]^
+sl [s, l|sl]^
+bb [b, b|bb]^
+ei [e, i|ei]^
+nd [n, d|nd]^
+pl [p, l|pl]^
+oy [o, y|oy]^
+ci [c, i|ci]^
+dd [d, d|dd]^
+igh [i, g, h|igh]^
+sp [s, p|sp]^
+oa [o, a|oa]^
+ff [f, f|ff]^
+dd [d, d|dd]^
+ee [e \. e|ee]^
+or [o, r|or]^
+ei [e, i|ei]^
+spl [s, p, l|spl]^
+th [t, h|th]^
+nk [n, k|nk]^
+nn [n, n|nn]^
+fr [f, r|fr]^
+eo [e, o|eo]^
+dd [d, d|dd]^
+kn [k, n|kn]^
+ph [p, h|ph]^
+kn [k, n|kn]^
+pl [p, l|pl]^
+au [a, u|au]^
+lm [l, m|lm]^
+ci [c, i|ci]^
+ind [i, n, d|ind]^
+tt [t, t|tt]^
+irr [i, r, r|irr]^
+cr [c, r|cr]^
+graphy [g, r, a, p, h, y|graphy]^
+logy [l, o, g, y|logy]^
+se [s, e|se]^
+br [b, r|br]^
+ei [e, i|ei]^
+tt [t, t|tt]^
+ee [e \. e|ee]^
+ost [o, s, t|ost]^
+ss [s, s|ss]^
+sh [s, h|sh]^
+ph [p, h|ph]^
+ea [e, a|ea]^
+fr [f, r|fr]^
+wr [w, r|wr]^
+ign [i, g, n|ign]^
+ss [s, s|ss]^
+spr [s, p, r|spr]^
+tch [t, c, h|tch]^
+str [s, t, r|str]^
+ff [f, f|ff]^
+ck [c, k|ck]^
+fl [f, l|fl]^
+augh [a, u, g, h|augh]^
+ity [i, t, y|ity]^
+kn [k, n|kn]^
+thr [t, h, r|thr]^
+ey [e, y|ey]^
+aw [a, w|aw]^
+ity [i, t, y|ity]^
+kn [k, n|kn]^
+ar [a, r|ar]^
+lm [l, m|lm]^
+st [s, t|st]^
+ear [e, a, r|ear]^
+ost [o, s, t|ost]^
+ind [i, n, d|ind]^
+oul [o, u, l|oul]^
+ew [e, w|ew]^
+sc [s, c|sc]^
+gh [g, h|gh]^
+ei [e, i|ei]^
+al [a, l|al]^
+ce [c, e|ce]^
+shr [s, h, r|shr]^
+ore [o, r, e|ore]^
+se [s, e|se]^
+sl [s, l|sl]^
+thr [t, h, r|thr]^
+old [o, l, d|old]^
+ee [e \. e|ee]^
+ed [e, d|ed]^
+ou [o, u|ou]^
+igh [i, g, h|igh]^
+ue [u, e|ue]^
+graphy [g, r, a, p, h, y|graphy]^
+oll [o, l, l|oll]^
+ity [i, t, y|ity]^
+ost [o, s, t|ost]^
+ey [e, y|ey]^
+ng [n, g|ng]^
+bb [b, b|bb]^
+ch [c, h|ch]^
+wr [w, r|wr]^
+fl [f, l|fl]^
+ey [e, y|ey]^
+ng [n, g|ng]^
+spl [s, p, l|spl]^
+oll [o, l, l|oll]^
+eu [e, u|eu]^
+nk [n, k|nk]^
+ss [s, s|ss]^
+nk [n, k|nk]^
+kn [k, n|kn]^
+cc [c, c|cc]^
+graphy [g, r, a, p, h, y|graphy]^
+logy [l, o, g, y|logy]^
+ce [c, e|ce]^
+er [e, r|er]^
+dr [d, r|dr]^
+qu [q, u|qu]^
+oa [o, a|oa]^
+ge [g, e|ge]^
+qu [q, u|qu]^
+bl [b, l|bl]^
+ng [n, g|ng]^
+ea [e, a|ea]^
+ce [c, e|ce]^
+ge [g, e|ge]^
+ar [a, r|ar]^
+th [t, h|th]^
+ay [a, y|ay]^
+que [q, u, e|que]^
+igh [i, g, h|igh]^
+ss [s, s|ss]^
+ey [e, y|ey]^
+air [a, i, r|air]^
+ea [e, a|ea]^
+ign [i, g, n|ign]^
+ff [f, f|ff]^
+ng [n, g|ng]^
+sm [s, m|sm]^
+ea [e, a|ea]^
+pp [p, p|pp]^
+ie [i, e|ie]^
+pl [p, l|pl]^
+ua [u, a|ua]^
+irr [i, r, r|irr]^
+ou [o, u|ou]^
+cr [c, r|cr]^
+ng [n, g|ng]^
+ind [i, n, d|ind]^
+ie [i, e|ie]^
+ee [e \. e|ee]^
+rr [r, r|rr]^
+ai [a, i|ai]^
+ff [f, f|ff]^
+nd [n, d|nd]^
+olt [o, l, t|olt]^
+wr [w, r|wr]^
+sp [s, p|sp]^
+oul [o, u, l|oul]^
+ur [u, r|ur]^
+ore [o, r, e|ore]^
+ough [o, u, g, h|ough]^
+ur [u, r|ur]^
+ti [t, i|ti]^
+th [t, h|th]^
+que [q, u, e|que]^
+ou [o, u|ou]^
+ei [e, i|ei]^
+ve [v, e|ve]^
+gg [g, g|gg]^
+ci [c, i|ci]^
+ge [g, e|ge]^
+oll [o, l, l|oll]^
+sp [s, p|sp]^
+ss [s, s|ss]^
+sn [s, n|sn]^
+ui [u, i|ui]^
+ue [u, e|ue]^
+wr [w, r|wr]^
+olt [o, l, t|olt]^
+ay [a, y|ay]^
+ign [i, g, n|ign]^
+ee [e \. e|ee]^
+ind [i, n, d|ind]^
+squ [s, q, u|squ]^
+ear [e, a, r|ear]^
+er [e, r|er]^
+ey [e, y|ey]^
+qu [q, u|qu]^
+ay [a, y|ay]^
+aw [a, w|aw]^
+ie [i, e|ie]^
+ear [e, a, r|ear]^
+gg [g, g|gg]^
+ze [z, e|ze]^
+dr [d, r|dr]^
+tch [t, c, h|tch]^
+ie [i, e|ie]^
+ai [a, i|ai]^
+ew [e, w|ew]^
+fl [f, l|fl]^
+ind [i, n, d|ind]^
+ou [o, u|ou]^
+ng [n, g|ng]^
+cy [c, y|cy]^
+qu [q, u|qu]^
+cc [c, c|cc]^
+eer [e, e, r|eer]^
+cr [c, r|cr]^
+ey [e, y|ey]^
+ey [e, y|ey]^
+olt [o, l, t|olt]^
+pl [p, l|pl]^
+ough [o, u, g, h|ough]^
+oe [o, e|oe]^
+fr [f, r|fr]^
+str [s, t, r|str]^
+oll [o, l, l|oll]^
+ign [i, g, n|ign]^
+er [e, r|er]^
+sh [s, h|sh]^
+dr [d, r|dr]^
+ost [o, s, t|ost]^
+ost [o, s, t|ost]^
+bb [b, b|bb]^
+ost [o, s, t|ost]^
+gr [g, r|gr]^
+squ [s, q, u|squ]^
+st [s, t|st]^
+au [a, u|au]^
+oy [o, y|oy]^
+ie [i, e|ie]^
+ll [l, l|ll]^
+thr [t, h, r|thr]^
+ea [e, a|ea]^
+ir [i, r|ir]^
+gh [g, h|gh]^
+lm [l, m|lm]^
+aw [a, w|aw]^
+ue [u, e|ue]^
+ce [c, e|ce]^
+ind [i, n, d|ind]^
+th [t, h|th]^
+rr [r, r|rr]^
+ur [u, r|ur]^
+ost [o, s, t|ost]^
+ky [k, y|ky]^
+wa [w, a|wa]^
+th [t, h|th]^
+wa [w, a|wa]^
+ng [n, g|ng]^
+oo [o, o|oo]^
+fy [f, y|fy]^
+sn [s, n|sn]^
+cr [c, r|cr]^
+mm [m, m|mm]^
+dr [d, r|dr]^
+au [a, u|au]^
+ey [e, y|ey]^
+oy [o, y|oy]^
+ve [v, e|ve]^
+air [a, i, r|air]^
+ua [u, a|ua]^
+zz [z, z|zz]^
+ity [i, t, y|ity]^
+fy [f, y|fy]^
+ie [i, e|ie]^
+que [q, u, e|que]^
+wh [w, h|wh]^
+pr [p, r|pr]^
+ey [e, y|ey]^
+eu [e, u|eu]^
+ck [c, k|ck]^
+dr [d, r|dr]^
+cy [c, y|cy]^
+wa [w, a|wa]^
+oll [o, l, l|oll]^
+ign [i, g, n|ign]^
+zz [z, z|zz]^
+oy [o, y|oy]^
+eu [e, u|eu]^
+eigh [e, i, g, h|eigh]^
+wa [w, a|wa]^
+ere [e, r, e|ere]^
+fr [f, r|fr]^
+ei [e, i|ei]^
+pl [p, l|pl]^
+wa [w, a|wa]^
+ind [i, n, d|ind]^
+ve [v, e|ve]^
+wh [w, h|wh]^
+sp [s, p|sp]^
+pp [p, p|pp]^
+wa [w, a|wa]^
+nd [n, d|nd]^
+oa [o, a|oa]^
+sc [s, c|sc]^
+str [s, t, r|str]^
+ign [i, g, n|ign]^
+ost [o, s, t|ost]^
+nd [n, d|nd]^
+ui [u, i|ui]^
+aw [a, w|aw]^
+spr [s, p, r|spr]^
+ei [e, i|ei]^
+ough [o, u, g, h|ough]^
+th [t, h|th]^
+bb [b, b|bb]^
+oor [o, o, r|oor]^
+logy [l, o, g, y|logy]^
+dr [d, r|dr]^
+graphy [g, r, a, p, h, y|graphy]^
+eu [e, u|eu]^
+au [a, u|au]^
+qu [q, u|qu]^
+zz [z, z|zz]^
+ui [u, i|ui]^
+pp [p, p|pp]^
+thr [t, h, r|thr]^
+oo [o, o|oo]^
+ity [i, t, y|ity]^
+ue [u, e|ue]^
+squ [s, q, u|squ]^
+br [b, r|br]^
+nn [n, n|nn]^
+ey [e, y|ey]^
+ss [s, s|ss]^
+kn [k, n|kn]^
+ey [e, y|ey]^
+sn [s, n|sn]^
+cl [c, l|cl]^
+ss [s, s|ss]^
+ll [l, l|ll]^
+wr [w, r|wr]^
+aw [a, w|aw]^
+tt [t, t|tt]^
+air [a, i, r|air]^
+dr [d, r|dr]^
+olk [o, l, k|olk]^
+oi [o, i|oi]^
+ur [u, r|ur]^
+gr [g, r|gr]^
+str [s, t, r|str]^
+eu [e, u|eu]^
+kn [k, n|kn]^
+air [a, i, r|air]^
+ue [u, e|ue]^
+ti [t, i|ti]^
+ei [e, i|ei]^
+ky [k, y|ky]^
+ck [c, k|ck]^
+sn [s, n|sn]^
+ou [o, u|ou]^
+cr [c, r|cr]^
+rr [r, r|rr]^
+ou [o, u|ou]^
+ou [o, u|ou]^
+or [o, r|or]^
+ou [o, u|ou]^
+sn [s, n|sn]^
+st [s, t|st]^
+sn [s, n|sn]^
+qu [q, u|qu]^
+thr [t, h, r|thr]^
+cr [c, r|cr]^
+ey [e, y|ey]^
+ll [l, l|ll]^
+sn [s, n|sn]^
+sh [s, h|sh]^
+ed [e, d|ed]^
+ity [i, t, y|ity]^
+ph [p, h|ph]^
+ere [e, r, e|ere]^
+eer [e, e, r|eer]^
+br [b, r|br]^
+ea [e, a|ea]^
+ff [f, f|ff]^
+or [o, r|or]^
+gg [g, g|gg]^
+kn [k, n|kn]^
+shr [s, h, r|shr]^
+cc [c, c|cc]^
+ff [f, f|ff]^
+ze [z, e|ze]^
+gg [g, g|gg]^
+oe [o, e|oe]^
+fl [f, l|fl]^
+eo [e, o|eo]^
+ea [e, a|ea]^
+sc [s, c|sc]^
+ci [c, i|ci]^
+oa [o, a|oa]^
+graphy [g, r, a, p, h, y|graphy]^
+pl [p, l|pl]^
+ir [i, r|ir]^
+bl [b, l|bl]^
+eer [e, e, r|eer]^
+ng [n, g|ng]^
+oo [o, o|oo]^
+ir [i, r|ir]^
+ind [i, n, d|ind]^
+gn [g, n|gn]^
+th [t, h|th]^
+ea [e, a|ea]^
+logy [l, o, g, y|logy]^
+ity [i, t, y|ity]^
+kn [k, n|kn]^
+zz [z, z|zz]^
+ea [e, a|ea]^
+wh [w, h|wh]^
+ai [a, i|ai]^
+oul [o, u, l|oul]^
+sh [s, h|sh]^
+fr [f, r|fr]^
+sp [s, p|sp]^
+are [a, r, e|are]^
+ch [c, h|ch]^
+ey [e, y|ey]^
+br [b, r|br]^
+oll [o, l, l|oll]^
+ti [t, i|ti]^
+rr [r, r|rr]^
+olk [o, l, k|olk]^
+bb [b, b|bb]^
+ey [e, y|ey]^
+oe [o, e|oe]^
+ore [o, r, e|ore]^
+cl [c, l|cl]^
+ir [i, r|ir]^
+spr [s, p, r|spr]^
+squ [s, q, u|squ]^
+tch [t, c, h|tch]^
+nd [n, d|nd]^
+thr [t, h, r|thr]^
+fl [f, l|fl]^
+gl [g, l|gl]^
+th [t, h|th]^
+gg [g, g|gg]^
+ch [c, h|ch]^
+ue [u, e|ue]^
+eer [e, e, r|eer]^
+zz [z, z|zz]^
+str [s, t, r|str]^
+ky [k, y|ky]^
+ore [o, r, e|ore]^
+sh [s, h|sh]^
+gg [g, g|gg]^
+ou [o, u|ou]^
+or [o, r|or]^
+fy [f, y|fy]^
+gn [g, n|gn]^
+ir [i, r|ir]^
+se [s, e|se]^
+irr [i, r, r|irr]^
+ge [g, e|ge]^
+ur [u, r|ur]^
+pr [p, r|pr]^
+ci [c, i|ci]^
+ey [e, y|ey]^
+chr [c, h, r|chr]^
+br [b, r|br]^
+chr [c, h, r|chr]^
+al [a, l|al]^
+ti [t, i|ti]^
+wr [w, r|wr]^
+ear [e, a, r|ear]^
+sm [s, m|sm]^
+wr [w, r|wr]^
+ei [e, i|ei]^
+ei [e, i|ei]^
+spl [s, p, l|spl]^
+ie [i, e|ie]^
+ity [i, t, y|ity]^
+irr [i, r, r|irr]^
+ar [a, r|ar]^
+ie [i, e|ie]^
+ge [g, e|ge]^
+ed [e, d|ed]^
+oo [o, o|oo]^
+ve [v, e|ve]^
+ow [o, w|ow]^
+ei [e, i|ei]^
+gg [g, g|gg]^
+mm [m, m|mm]^
+ea [e, a|ea]^
+lm [l, m|lm]^
+br [b, r|br]^
+ou [o, u|ou]^
+fr [f, r|fr]^
+th [t, h|th]^
+nn [n, n|nn]^
+ph [p, h|ph]^
+spl [s, p, l|spl]^
+tt [t, t|tt]^
+ge [g, e|ge]^
+sl [s, l|sl]^
+graphy [g, r, a, p, h, y|graphy]^
+ou [o, u|ou]^
+squ [s, q, u|squ]^
+tt [t, t|tt]^
+ere [e, r, e|ere]^
+ei [e, i|ei]^
+or [o, r|or]^
+zz [z, z|zz]^
+ou [o, u|ou]^
+olk [o, l, k|olk]^
+gh [g, h|gh]^
+cr [c, r|cr]^
+ur [u, r|ur]^
+ey [e, y|ey]^
+cy [c, y|cy]^
+ei [e, i|ei]^
+gr [g, r|gr]^
+ye [y, e|ye]^
+nk [n, k|nk]^
+ey [e, y|ey]^
+oo [o, o|oo]^
+igh [i, g, h|igh]^
+oi [o, i|oi]^
+ign [i, g, n|ign]^
+gr [g, r|gr]^
+cl [c, l|cl]^
+ci [c, i|ci]^
+ky [k, y|ky]^
+ost [o, s, t|ost]^
+rr [r, r|rr]^
+ey [e, y|ey]^
+ky [k, y|ky]^
+ed [e, d|ed]^
+eigh [e, i, g, h|eigh]^
+ge [g, e|ge]^
+dd [d, d|dd]^
+nk [n, k|nk]^
+br [b, r|br]^
+ed [e, d|ed]^
+ee [e \. e|ee]^
+ye [y, e|ye]^
+ge [g, e|ge]^
+ou [o, u|ou]^
+ti [t, i|ti]^
+al [a, l|al]^
+ce [c, e|ce]^
+cy [c, y|cy]^
+olt [o, l, t|olt]^
+fr [f, r|fr]^
+ng [n, g|ng]^
+shr [s, h, r|shr]^
+nk [n, k|nk]^
+ky [k, y|ky]^
+eigh [e, i, g, h|eigh]^
+ey [e, y|ey]^
+oa [o, a|oa]^
+igh [i, g, h|igh]^
+ce [c, e|ce]^
+eer [e, e, r|eer]^
+oa [o, a|oa]^
+cl [c, l|cl]^
+gr [g, r|gr]^
+th [t, h|th]^
+oo [o, o|oo]^
+ei [e, i|ei]^
+ea [e, a|ea]^
+dge [d, g, e|dge]^
+ew [e, w|ew]^
+ky [k, y|ky]^
+ge [g, e|ge]^
+lm [l, m|lm]^
+br [b, r|br]^
+ng [n, g|ng]^
+ge [g, e|ge]^
+ye [y, e|ye]^
+eer [e, e, r|eer]^
+ff [f, f|ff]^
+ee [e \. e|ee]^
+eigh [e, i, g, h|eigh]^
+pp [p, p|pp]^
+pl [p, l|pl]^
+ost [o, s, t|ost]^
+wh [w, h|wh]^
+nd [n, d|nd]^
+ew [e, w|ew]^
+or [o, r|or]^
+olt [o, l, t|olt]^
+ur [u, r|ur]^
+olt [o, l, t|olt]^
+ai [a, i|ai]^
+fy [f, y|fy]^
+ei [e, i|ei]^
+ee [e \. e|ee]^
+wr [w, r|wr]^
+or [o, r|or]^
+oll [o, l, l|oll]^
+ity [i, t, y|ity]^
+oul [o, u, l|oul]^
+ce [c, e|ce]^
+ity [i, t, y|ity]^
+ei [e, i|ei]^
+ur [u, r|ur]^
+ky [k, y|ky]^
+ey [e, y|ey]^
+ti [t, i|ti]^
+kn [k, n|kn]^
+ea [e, a|ea]^
+ed [e, d|ed]^
+mb [m, b|mb]^
+eer [e, e, r|eer]^
+ay [a, y|ay]^
+pp [p, p|pp]^
+nd [n, d|nd]^
+cl [c, l|cl]^
+augh [a, u, g, h|augh]^
+ere [e, r, e|ere]^
+br [b, r|br]^
+wa [w, a|wa]^
+shr [s, h, r|shr]^
+squ [s, q, u|squ]^
+ei [e, i|ei]^
+gh [g, h|gh]^
+ore [o, r, e|ore]^
+st [s, t|st]^
+sn [s, n|sn]^
+ur [u, r|ur]^
+squ [s, q, u|squ]^
+dr [d, r|dr]^
+chr [c, h, r|chr]^
+ir [i, r|ir]^
+mb [m, b|mb]^
+ea [e, a|ea]^
+kn [k, n|kn]^
+ss [s, s|ss]^
+ua [u, a|ua]^
+logy [l, o, g, y|logy]^
+ea [e, a|ea]^
+oo [o, o|oo]^
+rr [r, r|rr]^
+are [a, r, e|are]^
+sh [s, h|sh]^
+lm [l, m|lm]^
+ou [o, u|ou]^
+ei [e, i|ei]^
+ey [e, y|ey]^
+ie [i, e|ie]^
+tt [t, t|tt]^
+ue [u, e|ue]^
+ity [i, t, y|ity]^
+ear [e, a, r|ear]^
+gn [g, n|gn]^
+ch [c, h|ch]^
+tch [t, c, h|tch]^
+nk [n, k|nk]^
+old [o, l, d|old]^
+th [t, h|th]^
+bb [b, b|bb]^
+ff [f, f|ff]^
+wa [w, a|wa]^
+spl [s, p, l|spl]^
+oll [o, l, l|oll]^
+spr [s, p, r|spr]^
+spl [s, p, l|spl]^
+ou [o, u|ou]^
+rr [r, r|rr]^
+aw [a, w|aw]^
+gr [g, r|gr]^
+ir [i, r|ir]^
+oll [o, l, l|oll]^
+ie [i, e|ie]^
+ge [g, e|ge]^
+thr [t, h, r|thr]^
+olk [o, l, k|olk]^
+oo [o, o|oo]^
+pp [p, p|pp]^
+ge [g, e|ge]^
+olk [o, l, k|olk]^
+ey [e, y|ey]^
+nk [n, k|nk]^
+ck [c, k|ck]^
+er [e, r|er]^
+olt [o, l, t|olt]^
+eer [e, e, r|eer]^
+bl [b, l|bl]^
+ea [e, a|ea]^
+are [a, r, e|are]^
+zz [z, z|zz]^
+ity [i, t, y|ity]^
+igh [i, g, h|igh]^
+tch [t, c, h|tch]^
+ng [n, g|ng]^
+gr [g, r|gr]^
+wh [w, h|wh]^
+fy [f, y|fy]^
+ff [f, f|ff]^
+zz [z, z|zz]^
+oll [o, l, l|oll]^
+ear [e, a, r|ear]^
+air [a, i, r|air]^
+ow [o, w|ow]^
+ss [s, s|ss]^
+ore [o, r, e|ore]^
+oe [o, e|oe]^
+ea [e, a|ea]^
+gn [g, n|gn]^
+gh [g, h|gh]^
+ch [c, h|ch]^
+gr [g, r|gr]^
+ity [i, t, y|ity]^
+oll [o, l, l|oll]^
+cc [c, c|cc]^
+tt [t, t|tt]^
+chr [c, h, r|chr]^
+oll [o, l, l|oll]^
+ph [p, h|ph]^
+bb [b, b|bb]^
+lm [l, m|lm]^
+ea [e, a|ea]^
+ea [e, a|ea]^
+pr [p, r|pr]^
+ua [u, a|ua]^
+ou [o, u|ou]^
+ear [e, a, r|ear]^
+wh [w, h|wh]^
+bb [b, b|bb]^
+au [a, u|au]^
+kn [k, n|kn]^
+oor [o, o, r|oor]^
+mm [m, m|mm]^
+ye [y, e|ye]^
+ss [s, s|ss]^
+logy [l, o, g, y|logy]^
+oo [o, o|oo]^
+ar [a, r|ar]^
+gr [g, r|gr]^
+are [a, r, e|are]^
+sn [s, n|sn]^
+ar [a, r|ar]^
+br [b, r|br]^
+gh [g, h|gh]^
+kn [k, n|kn]^
+ey [e, y|ey]^
+qu [q, u|qu]^
+fy [f, y|fy]^
+gg [g, g|gg]^
+eer [e, e, r|eer]^
+nn [n, n|nn]^
+zz [z, z|zz]^
+cy [c, y|cy]^
+ff [f, f|ff]^
+au [a, u|au]^
+al [a, l|al]^
+ff [f, f|ff]^
+oa [o, a|oa]^
+ign [i, g, n|ign]^
+lm [l, m|lm]^
+bb [b, b|bb]^
+air [a, i, r|air]^
+ore [o, r, e|ore]^
+ng [n, g|ng]^
+oa [o, a|oa]^
+oor [o, o, r|oor]^
+ou [o, u|ou]^
+dge [d, g, e|dge]^
+wr [w, r|wr]^
+ua [u, a|ua]^
+logy [l, o, g, y|logy]^
+al [a, l|al]^
+ea [e, a|ea]^
+eo [e, o|eo]^
+dr [d, r|dr]^
+sp [s, p|sp]^
+aw [a, w|aw]^
+oul [o, u, l|oul]^
+chr [c, h, r|chr]^
+ie [i, e|ie]^
+ss [s, s|ss]^
+se [s, e|se]^
+nk [n, k|nk]^
+cc [c, c|cc]^
+ng [n, g|ng]^
+oul [o, u, l|oul]^
+cl [c, l|cl]^
+pr [p, r|pr]^
+graphy [g, r, a, p, h, y|graphy]^
+wr [w, r|wr]^
+ge [g, e|ge]^
+ough [o, u, g, h|ough]^
+th [t, h|th]^
+se [s, e|se]^
+ge [g, e|ge]^
+cr [c, r|cr]^
+ie [i, e|ie]^
+ost [o, s, t|ost]^
+zz [z, z|zz]^
+graphy [g, r, a, p, h, y|graphy]^
+pp [p, p|pp]^
+zz [z, z|zz]^
+pl [p, l|pl]^
+fl [f, l|fl]^
+mm [m, m|mm]^
+ss [s, s|ss]^
+se [s, e|se]^
+oul [o, u, l|oul]^
+graphy [g, r, a, p, h, y|graphy]^
+wh [w, h|wh]^
+wr [w, r|wr]^
+igh [i, g, h|igh]^
+ie [i, e|ie]^
+th [t, h|th]^
+pl [p, l|pl]^
+ou [o, u|ou]^
+dd [d, d|dd]^
+irr [i, r, r|irr]^
+ay [a, y|ay]^
+se [s, e|se]^
+spr [s, p, r|spr]^
+wa [w, a|wa]^
+ough [o, u, g, h|ough]^
+igh [i, g, h|igh]^
+ew [e, w|ew]^
+bl [b, l|bl]^
+wa [w, a|wa]^
+ie [i, e|ie]^
+ze [z, e|ze]^
+pp [p, p|pp]^
+ti [t, i|ti]^
+lm [l, m|lm]^
+st [s, t|st]^
+dge [d, g, e|dge]^
+eigh [e, i, g, h|eigh]^
+ei [e, i|ei]^
+oo [o, o|oo]^
+dd [d, d|dd]^
+wh [w, h|wh]^
+chr [c, h, r|chr]^
+ss [s, s|ss]^
+igh [i, g, h|igh]^
+ee [e \. e|ee]^
+sp [s, p|sp]^
+oll [o, l, l|oll]^
+ph [p, h|ph]^
+dr [d, r|dr]^
+ue [u, e|ue]^
+wa [w, a|wa]^
+old [o, l, d|old]^
+sh [s, h|sh]^
+sp [s, p|sp]^
+oi [o, i|oi]^
+olk [o, l, k|olk]^
+sl [s, l|sl]^
