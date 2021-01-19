@@ -25,7 +25,10 @@ During the creation, attach the **AmazonPollyFullAccess** policy to the user.
 
 
 # Usage
-Execute within the checkout directory.
+
+1. Review and change as necessary the hardcoded configuration options at the top of the render.pl script.
+
+2. Execute within the checkout directory.
 ```
 ./render example.txt
 ```

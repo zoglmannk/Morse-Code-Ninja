@@ -2,8 +2,10 @@
 use strict;
 use Cwd;
 
-#my @speeds = ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
-my @speeds = ("30");
+######################################################
+#### Review and set these variables as appropriate ###
+######################################################
+my @speeds = ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
 my $max_processes = 10;
 my $test = 0; # 1 = don't render audio -- just show what will be rendered -- useful when encoding text
 my $word_limit = -1; # 14 works great... 15 word limit for long sentences; -1 disables it
@@ -15,6 +17,9 @@ my $silence_between_sets = "1"; # typically "1" sec
 my $silence_between_voice_and_repeat = "1"; # $silence_between_sets; # typically 1 second
 my $extra_word_spacing = 0; # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
 my $lang = "ENGLISH"; # ENGLISH | SWEDISH
+######################################################
+######################################################
+######################################################
 
 my $lower_lang_chars_regex = "a-z";
 my $upper_lang_chars_regex = "A-Z";
