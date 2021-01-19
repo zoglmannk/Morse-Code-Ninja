@@ -1,0 +1,10 @@
+#Mac OS
+.DS_Store
+
+# Ignore IntelliJ project files
+.idea/
+Morse-Code-Ninja.iml
+
+
+# Cache
+cache/
