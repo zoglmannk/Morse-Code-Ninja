@@ -45,5 +45,5 @@ difficult to isolate and correct the problem.
 
 Be aware that the script can create a huge number of temporary files, which is proportional to the input file. Some types of filesystems will deal with this better than others.
 
-This set of scripts _should_ work on Windows, Linux, and macOS, but it has only 
+This set of scripts _should_ work on Linux and macOS, but it has only 
 been used on macOS.
