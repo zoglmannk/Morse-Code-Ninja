@@ -8,3 +8,6 @@ Morse-Code-Ninja.iml
 
 # Cache
 cache/
+
+# Don't accidently check in credentials
+aws.properties*
