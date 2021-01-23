@@ -7,7 +7,7 @@ The software used to generate Morse Code Ninja practice sets as found on
 These must be installed and available in your Shell's PATH.
 * [ebook2cw](https://fkurz.net/ham/ebook2cw.html)
 * [ffmpeg](https://ffmpeg.org)
-* [lame](https://ffmpeg.org)
+* [lame](https://lame.sourceforge.io/)
 * [Perl 5](https://www.perl.org)
 * [Python 3](https://www.python.org)
 * [Boto3](https://aws.amazon.com/sdk-for-python/)
