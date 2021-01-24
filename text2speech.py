@@ -4,7 +4,7 @@ import sys
 import re
 import hashlib
 import os.path
-import os.environ
+from os import environ
 import shutil
 
 sentence_filename = sys.argv[1]
@@ -16,8 +16,8 @@ print("Processing sentence filename: " + sentence_filename + ".txt")
 
 separator = "="
 aws_properties = {}
-aws_properties['aws_access_key_id'] = os.environ['AWS_KEY_ID']
-aws_properties['aws_secret_access_key'] = os.environ['AWS_SECRET_KEY']
+aws_properties['aws_access_key_id'] = environ['AWS_KEY_ID']
+aws_properties['aws_secret_access_key'] = environ['AWS_SECRET_KEY']
 
 sha256_hash = hashlib.sha256()
 
