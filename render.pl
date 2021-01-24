@@ -10,8 +10,8 @@ use File::Spec;
 ######################################################
 #### Review and set these variables as appropriate ###
 ######################################################
-# my @speeds = ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
-my @speeds = ("15/5", "20/10", "25/15");   # Farnsworth 
+my @speeds = ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
+# my @speeds = ("15/5", "20/10", "25/15");   # Farnsworth 
 my $max_processes = 10;
 # my $max_processes = 1;
 my $test = 0; # 1 = don't render audio -- just show what will be rendered -- useful when encoding text
