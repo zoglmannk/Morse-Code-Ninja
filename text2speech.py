@@ -1,9 +1,9 @@
-#!/Users/kaz/anaconda3/bin/python
 import boto3
 import sys
 import re
 import hashlib
 import os.path
+import os.environ
 import shutil
 
 sentence_filename = sys.argv[1]
@@ -15,14 +15,8 @@ print("Processing sentence filename: " + sentence_filename + ".txt")
 
 separator = "="
 aws_properties = {}
-
-with open('aws.properties') as property_file:
-
-    for line in property_file:
-        if separator in line:
-            name, value = line.split(separator, 1)
-            aws_properties[name.strip()] = value.strip()
-
+aws_properties['aws_access_key_id'] = os.environ['AWS_KEY_ID']
+aws_properties['aws_secret_access_key'] = os.environ['AWS_SECRET_KEY']
 
 sha256_hash = hashlib.sha256()
 
