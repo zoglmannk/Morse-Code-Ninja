@@ -1,4 +1,4 @@
-#!/Users/kaz/anaconda3/bin/python
+#!/usr/bin/env python
 import boto3
 import sys
 import re
