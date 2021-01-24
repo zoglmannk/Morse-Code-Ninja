@@ -11,3 +11,9 @@ cache/
 
 # Don't accidently check in credentials
 aws.properties*
+
+# python venv
+venv/
+
+*.log
+
