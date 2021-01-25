@@ -1,12 +1,19 @@
 #!/usr/bin/perl
 use strict;
 use Cwd;
+use File::Basename;
+use File::Copy;
+use File::Path;
+use File::Spec;
+
 
 ######################################################
 #### Review and set these variables as appropriate ###
 ######################################################
 my @speeds = ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
+# my @speeds = ("15/5", "20/10", "25/15");   # Farnsworth 
 my $max_processes = 10;
+# my $max_processes = 1;
 my $test = 0; # 1 = don't render audio -- just show what will be rendered -- useful when encoding text
 my $word_limit = -1; # 14 works great... 15 word limit for long sentences; -1 disables it
 my $repeat_morse = 1;
@@ -28,12 +35,21 @@ if($lang eq "SWEDISH") {
   $upper_lang_chars_regex = "A-ZÄÅÖ";
 }
 
-my $filename = $ARGV[0];
+my $cmd;
+my @cmdLst;
+
+# text2speech.py error codes (coordinate with text2speech.py error return codes)
+my $t2sIOError = 2;
+
+my $filename = File::Spec->rel2abs($ARGV[0]);
+
 print "processing file $filename\n";
 
-$filename =~ m/^(.*?)(\..+)?$/;
-my $filename_base = $1;
-#print "filename base: $filename_base\n";
+my ($file, $dirs, $suffix) = fileparse($filename, qr/\.[^.]*/);
+print "dirs: $dirs, file: $file, suffix: $suffix\n";
+
+my $filename_base = File::Spec->catpath("", $dirs, $file);
+print "filename base: $filename_base\n";
 
 open my $fh, '<', $filename or die "Can't open file $!";
 my $file_content = do { local $/; <$fh> };
@@ -48,28 +64,47 @@ $safe_content =~ s/!|;/./g; #convert semi-colon and exclamation point to a perio
 $safe_content =~ s/\.\s+(?=\.)/./g; # turn . . . into ...
 
 if(!$test) {
+  print "---- Generating silence and sound effect mp3 files...\n";
   #create silence
-  system('rm -f silence.mp3');
-  system("ffmpeg -f lavfi -i anullsrc=channel_layout=5.1:sample_rate=22050 -t $silence_between_sets -codec:a libmp3lame -b:a 256k silence.mp3");
+  unlink "silence.mp3" if (-f "silence.mp3");
+  @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050", "-t",
+             "$silence_between_sets", "-codec:a", "libmp3lame", "-b:a", "256k", "silence.mp3");
+  # print("cmd-1: @cmdLst\n");
+  system(@cmdLst) == 0 or die "ERROR 1: @cmdLst failed, $!\n";
 
   # This is the silence between the Morse code and the spoken voice
-  system('rm -f silence1.mp3');
-  system("ffmpeg -f lavfi -i anullsrc=channel_layout=5.1:sample_rate=22050 -t $silence_between_morse_code_and_spoken_voice -codec:a libmp3lame -b:a 256k silence1.mp3");
+  unlink "silence1.mp3" if (-f "silence1.mp3");
+  @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
+             "-t", "$silence_between_morse_code_and_spoken_voice", "-codec:a", "libmp3lame",
+             "-b:a", "256k", "silence1.mp3");
+  # print "cmd-2: @cmdLst\n";
+  system(@cmdLst) == 0 or die "ERROR 2: @cmdLst failed, $!\n";
 
   # This is the silence between the Morse code and the spoken voice
-  system('rm -f silence2.mp3');
-  system("ffmpeg -f lavfi -i anullsrc=channel_layout=5.1:sample_rate=22050 -t $silence_between_voice_and_repeat -codec:a libmp3lame -b:a 256k silence2.mp3");
+  unlink 'silence2.mp3' if (-f 'silence2.mp3');
+  @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
+             "-t", "$silence_between_voice_and_repeat", "-codec:a", "libmp3lame",
+             "-b:a", "256k", "silence2.mp3");
+  # print "cmd-3: @cmdLst\n";
+  system(@cmdLst) == 0 or die "ERROR 3: @cmdLst failed, $!\n";
 
   #create quieter tone
-  system('rm -f plink-softer.mp3');
-  system('ffmpeg -i sounds/plink.mp3 -filter:a "volume=0.5" plink-softer.mp3');
+  unlink 'plink-softer.mp3' if (-f 'plink-softer.mp3');
+  $cmd = 'ffmpeg -i sounds/plink.mp3 -filter:a "volume=0.5" plink-softer.mp3';
+  # print "cmd-4: $cmd\n";
+  system($cmd) == 0 or die "ERROR 4: $cmd failed, $!\n";
 
   #create quieter tone
-  system('rm -f pluck-softer.mp3');
-  system('ffmpeg -i sounds/pluck.mp3 -filter:a "volume=0.5" pluck-softer.mp3');
+  unlink 'pluck-softer.mp3' if (-f 'pluck-softer.mp3');
+  $cmd = 'ffmpeg -i sounds/pluck.mp3 -filter:a "volume=0.5" pluck-softer.mp3';
+  # print "cmd-5: $cmd\n";
+  system($cmd) == 0 or die "ERROR 5: $cmd failed, $!\n";
 
-  # make sure the cache directory exists
-  system('mkdir cache >& /dev/null');
+  if (-d "cache") {
+      print("directory cache exists, removing\n");
+      rmtree "cache";
+  }
+  mkdir "cache";
 }
 
 # Simple string trim function
@@ -228,9 +263,10 @@ my $is_sentence = 1;
 my $sentence;
 open(my $fh_all, '>', "$filename_base-sentences.txt");
 open(my $fh_structure, '>', "$filename_base-structure.txt");
+
+my $ebookCmd;
+
 foreach(@sentences) {
-
-
   my $skip;
   if($is_sentence) {
     $sentence = $_;
@@ -274,6 +310,9 @@ foreach(@sentences) {
       @partial_sentence = split_long_sentence($sentence);
     }
     foreach(@partial_sentence) {
+      print "---- loop 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n";
+      print "---- debug: partial sentence: $_\n";
+            
       my $num_chunks++;
       my $sentence_chunk = $_;
 
@@ -292,23 +331,23 @@ foreach(@sentences) {
           my $counter = sprintf("%05d",$count);
           my $fork_count = 0;
           foreach(@speeds) {
-
             my $speed = $_;
             my $farnsworth = 0;
 
-            if($fork_count >= $max_processes) {
-              print("XXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXX");
-              print("XXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXX");
+            if ($fork_count >= $max_processes) {
+              print("XXXXXX Fork 1 xXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXX");
+              print("XXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXX");
               print("waiting on forks: fork_count: $fork_count     max_processes: $max_processes\n");
               wait();
               $fork_count--;
             }
 
-            my $pid = fork;
-                        die if not defined $pid;
+            my $pid = fork();
+            die if not defined $pid;
             if($pid) {
               # parent
               $fork_count++;
+              print "fork() -- pid: $pid\n";  
 
             } else {
               #child process
@@ -337,18 +376,23 @@ foreach(@sentences) {
                 $extra_word_spacing_option = "-W " . $extra_word_spacing;
               }
 
-
-              if($farnsworth == 0) {
-                system("ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time $extra_word_spacing_option -f 700 -w $speed -s 44100 -o sentence-${speed} sentence.txt");
-              } else {
-                system("ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time $extra_word_spacing_option -f 700 -w $speed -e $farnsworth -s 44100 -o sentence-${speed} sentence.txt");
+              $ebookCmd = "ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time " .
+                  "$extra_word_spacing_option -f 700 -w $speed -s 44100 ";
+              if ($farnsworth != 0) {
+                  $ebookCmd = $ebookCmd . "-e $farnsworth ";
               }
+              $ebookCmd = $ebookCmd . "-o sentence-${speed} sentence.txt";
+              # print "cmd-6: $ebookCmd\n";
+              system($ebookCmd) == 0 or die "ERROR 6: $ebookCmd failed, $!\n";
 
+              unlink 'sentence-lower-volume-$speed.mp3' if (-f 'sentence-lower-volume-$speed.mp3');
 
-              system("rm sentence-lower-volume-${speed}.mp3");
-              system("ffmpeg -i sentence-${speed}0000.mp3 -filter:a \"volume=0.5\" sentence-lower-volume-${speed}.mp3");
-              system("mv sentence-lower-volume-${speed}.mp3 $filename_base-$counter-morse-$speed.mp3");
-
+              $cmd = "ffmpeg -i sentence-${speed}0000.mp3 -filter:a \"volume=0.5\" sentence-lower-volume-${speed}.mp3\n";
+              # print "cmd-7: $cmd\n";
+              system($cmd) == 0 or die "ERROR 7: $cmd failed, $!\n";
+              
+              print "---- rename(sentence-lower-volume-${speed}.mp3, $filename_base-$counter-morse-$speed.mp3)\n";
+              rename("sentence-lower-volume-$speed.mp3", "$filename_base-$counter-morse-$speed.mp3");
 
               # generate repeat section if it is different than the sentence
               if($repeat_morse != 0 && $word_limit == -1 && $repeat_part ne $sentence_part) {
@@ -356,24 +400,44 @@ foreach(@sentences) {
                 print $fh_repeat "$repeat_part\n";
                 close $fh_repeat;
 
-                if ($farnsworth == 0) {
-                  system("ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time $extra_word_spacing_option -f 700 -w $speed -s 44100 -o sentence-repeat-${speed} sentence-repeat.txt");
+                $cmd = "ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time $extra_word_spacing_option -f 700 -w $speed -s 44100 -o sentence-repeat-${speed} ";
+                if ($farnsworth > 0) {
+                  $cmd = $cmd . "-e $farnsworth ";
+                }
+                $cmd = $cmd . "sentence-repeat.txt";
+                # print "cmd-8: $cmd\n";
+                system($cmd) == 0 or die "ERROR 8: $cmd failed, $!\n";
+
+                unlink 'sentence-repeat-lower-volume-$speed.mp3' if (-f 'sentence-repeat-lower-volume-$speed.mp3');
+
+                $cmd = sprintf('ffmpeg -i sentence-repeat-%d0000.mp3 -filter:a "volume=0.5" sentence-repeat-lower-volume-%d.mp3', $speed, $speed);
+                # print "cmd-9: $cmd\n";
+                system($cmd);
+                if ($? == -1) {
+                    print "ERROR: cmd: $cmd failed to execute: $!\n";
+                    exit 9;
+                }
+                elsif ($? & 127) {
+                    printf "cmd: $cmd died with signal %d, %s coredump\n",
+                        ($? & 127), ($? & 128) ? 'with' : 'without';
+                    exit 9;
                 }
                 else {
-                  system("ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time $extra_word_spacing_option -f 700 -w $speed -e $farnsworth -s 44100 -o sentence-repeat-${speed} sentence-repeat.txt");
+                    my $ecode = $? >> 8;
+                    if ($ecode != 0) {
+                        printf "ERROR cmd: $cmd unsuccessful: $!\n";
+                        exit 9;
+                    }
                 }
-                system("rm sentence-repeat-lower-volume-${speed}.mp3");
-                system("ffmpeg -i sentence-repeat-${speed}0000.mp3 -filter:a \"volume=0.5\" sentence-repeat-lower-volume-${speed}.mp3");
-                system("mv sentence-repeat-lower-volume-${speed}.mp3 $filename_base-$counter-repeat-morse-$speed.mp3");
+                
+                move("sentence-repeat-lower-volume-${speed}.mp3", "$filename_base-$counter-repeat-morse-$speed.mp3");
 
-
-              }
+              }   # repeat morse if clause
 
               exit;
 
-            }
-
-          }
+            }   # child process
+          }  # foreach(@speeds)
 
           for (1 .. $fork_count) {
             wait();
@@ -381,21 +445,47 @@ foreach(@sentences) {
 
           # Generate spoken section
           if($word_limit != -1) {
-            system('mv sentence.txt '."$filename_base-${counter}.txt");
+              rename('sentence.txt', '$filename_base-$counter.txt');
           } else {
-            open(my $fh_spoken, '>', "$filename_base-${counter}.txt");
+            open(my $fh_spoken, '>', "$filename_base-$counter.txt");
             print $fh_spoken "$spoken_directive\n";
             close $fh_spoken;
           }
 
           my $exit_code = -1;
           while($exit_code != 0) {
-            $exit_code = system('./text2speech.py '."$filename_base-${counter} $text_to_speech_engine $lang");
+            my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
+              
+            print "execute text2speech.py: \"$textFile\" $text_to_speech_engine $lang\n";
+              
+            $exit_code = system("./text2speech.py \"$textFile\" $text_to_speech_engine $lang");
+            if ($? == -1) {
+                print "ERROR: text2speech.py failed to execute: $!\n";
+                exit 1;
+            }
+            elsif ($? & 127) {
+                printf "text2speech.py died with signal %d, %s coredump\n",
+                    ($? & 127), ($? & 128) ? 'with' : 'without';
+                exit 1;
+            }
+            else {
+                my $ecode = $? >> 8;
+                printf "text2speech.py exited with value %d\n", $ecode;
+
+                if ($ecode == 1) {
+                    print "text2speech.py exit_code: $exit_code\n";
+                    exit 1;
+                }
+                elsif ($ecode == $t2sIOError) {
+                    print "ERROR: text2speech.py error reading aws.properties file\n";
+                    exit 1;
+                }
+            }
           }
         }
         $count++;
       }
-    }
+    }    # foreach(@partial_sentence)
 
     if(scalar(@partial_sentence) > 1) {
       print "saying the whole sentence: $sentence\n";
@@ -405,7 +495,7 @@ foreach(@sentences) {
         print $fh "$sentence\n";
 
         my $counter = sprintf("%05d",$count);
-        system('mv sentence.txt '."$filename_base-${counter}-full.txt");
+        rename('sentence.txt ', '$filename_base-$counter-full.txt');
         my $exit_code = -1;
         while($exit_code != 0) {
           $exit_code = system('./text2speech.py '."$filename_base-${counter}-full $text_to_speech_engine $lang");
@@ -418,7 +508,7 @@ foreach(@sentences) {
     }
 
   }
-}
+}      # foreach(@sentences)
 ################
 ###############
 close $fh_all;
@@ -430,30 +520,30 @@ if(!$test) {
   my $cwd = getcwd();
 
   #lame documentation -- https://svn.code.sf.net/p/lame/svn/trunk/lame/USAGE
-  system("rm -rf $cwd/silence-resampled.mp3");
+  unlink "$cwd/silence-resampled.mp3";
   my $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence.mp3 $cwd/silence-resampled.mp3";
-  print "$cmd\n";
-  system($cmd);
+  # print "cmd-10: $cmd\n";
+  system($cmd) == 0 or die "ERROR 10: $cmd failed, $!\n";
 
-  system("rm -rf $cwd/silence-resampled1.mp3");
-  my $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence1.mp3 $cwd/silence-resampled1.mp3";
-  print "$cmd\n";
-  system($cmd);
+  unlink "$cwd/silence-resampled1.mp3";
+  $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence1.mp3 $cwd/silence-resampled1.mp3";
+  # print "cmd-11: $cmd\n";
+  system($cmd) == 0 or die "ERROR 11: $cmd failed, $!\n";;
 
-  system("rm -rf $cwd/silence-resampled2.mp3");
-  my $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence2.mp3 $cwd/silence-resampled2.mp3";
-  print "$cmd\n";
-  system($cmd);
+  unlink "$cwd/silence-resampled2.mp3";
+  $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence2.mp3 $cwd/silence-resampled2.mp3";
+  # print "cmd-12: $cmd\n";
+  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";;
 
-  system("rm -rf $cwd/pluck-softer-resampled.mp3");
+  unlink "$cwd/pluck-softer-resampled.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/pluck-softer.mp3 $cwd/pluck-softer-resampled.mp3";
-  print "$cmd\n";
-  system($cmd);
+  # print "cmd-13: $cmd\n";
+  system($cmd) == 0 or die "ERROR 13: $cmd failed, $!\n";;
 
-  system("rm -rf $cwd/plink-softer-resampled.mp3");
+  unlink "$cwd/plink-softer-resampled.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/plink-softer.mp3 $cwd/plink-softer-resampled.mp3";
-  print "$cmd\n";
-  system($cmd);
+  # print "cmd-14: $cmd\n";
+  system($cmd) == 0 or die "ERROR 14: $cmd failed, $!\n";;
 
   my $fork_count = 0;
   foreach(@speeds) {
@@ -468,21 +558,21 @@ if(!$test) {
     }
 
     if($fork_count >= $max_processes) {
-      print("XXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXX");
-      print("XXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXX");
+      print("XXXXXX Fork 2 xXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXX\n");
+      print("XXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXX\n");
       print("waiting on forks: fork_count: $fork_count     max_processes: $max_processes\n");
       wait();
       $fork_count--;
     }
 
-    my $pid = fork;
+    my $pid = fork();
     die if not defined $pid;
     if($pid) {
       # parent
       $fork_count++;
 
     } else {
-      system("rm -rf $cwd/$filename_base-${speed}wpm.mp3");
+      unlink "$filename_base-${speed}wpm.mp3";
 
       open(my $fh_list, '>', "$filename_base-list-${speed}wpm.txt");
       for (my $i=1; $i <= $count; $i++) {
@@ -490,45 +580,54 @@ if(!$test) {
 
         #if full sentence
         if(-e "$filename_base-$counter-full-voice.mp3") {
-          print $fh_list "file '$cwd/pluck-softer-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\nfile '$cwd/$filename_base-$counter-full-voice-resampled-$speed.mp3'\nfile '$cwd/silence-resampled.mp3'\n";
+          print $fh_list "file '$cwd/pluck-softer-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\nfile '$filename_base-$counter-full-voice-resampled-$speed.mp3'\nfile '$cwd/silence-resampled.mp3'\n";
 
-          $cmd = "lame --resample 44.1 -a -b 256 $cwd/$filename_base-$counter-full-voice.mp3 $cwd/$filename_base-$counter-full-voice-resampled-$speed.mp3";
-          print "$cmd\n";
-          system($cmd);
+          @cmdLst = ('lame', '--resample', '44.1', '-a', '-b', '256', "$filename_base-$counter-full-voice.mp3", "$filename_base-$counter-full-voice-resampled-$speed.mp3");
+          # print "cmdLst-15:\n";
+          foreach (@cmdLst) {
+              print "-- $_\n";
+          }
+          # print "cmd-16: @cmdLst\n";
+          system(@cmdLst) == 0 or die "ERROR 16: @cmdLst failed, $!\n";
 
         } else {
-
-          #don't start with Plink sound
+          # Not full sentence\n";
           if($first_for_given_speed == 1) {
             $first_for_given_speed = 0;
           } elsif ($courtesy_tone != 0) {
             print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
           }
 
-          $cmd = "lame --resample 44.1 -a -b 256 $cwd/$filename_base-$counter-morse-$speed.mp3 $cwd/$filename_base-$counter-morse-$speed-resampled.mp3";
-          print "$cmd\n";
-          system($cmd);
+          @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
+                     "$filename_base-$counter-morse-$speed.mp3",
+                     "$filename_base-$counter-morse-$speed-resampled.mp3");
+          # print "cmdLst-16: @cmdLst\n";
+          system(@cmdLst) == 0 or die "ERROR: @cmdLst failed, $!\n";
 
-          $cmd = "lame --resample 44.1 -a -b 256 $cwd/$filename_base-$counter-voice.mp3 $cwd/$filename_base-$counter-voice-resampled-$speed.mp3";
-          print "$cmd\n";
-          system($cmd);
+          @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
+                     "$filename_base-$counter-voice.mp3",
+                     "$filename_base-$counter-voice-resampled-$speed.mp3");
+          # print "cmd-17: @cmdLst\n";
+          system(@cmdLst) == 0 or die "ERROR 17: @cmdLst failed, $!\n";
 
-          print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cwd/$filename_base-$counter-morse-$speed-resampled.mp3'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cwd/$filename_base-$counter-voice-resampled-$speed.mp3'\n";
+          print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$filename_base-$counter-morse-$speed-resampled.mp3'\nfile '$cwd/silence-resampled1.mp3'\nfile '$filename_base-$counter-voice-resampled-$speed.mp3'\n";
 
           if($repeat_morse == 0) {
             print $fh_list "file '$cwd/silence-resampled.mp3'\n";
           } else {
             print $fh_list "file '$cwd/silence-resampled2.mp3'\n";
-            if (-e "$cwd/$filename_base-$counter-repeat-morse-$speed.mp3") {
-              $cmd = "lame --resample 44.1 -a -b 256 $cwd/$filename_base-$counter-repeat-morse-$speed.mp3 $cwd/$filename_base-$counter-repeat-morse-$speed-resampled.mp3";
-              print "$cmd\n";
-              system($cmd);
+            if (-e "$filename_base-$counter-repeat-morse-$speed.mp3") {
+              @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
+                         "$filename_base-$counter-repeat-morse-$speed.mp3",
+                         "$filename_base-$counter-repeat-morse-$speed-resampled.mp3");
+              # print "cmd-18: @cmdLst\n";
+              system(@cmdLst) == 0 or die "ERROR 18: @cmdLst failed, $!\n";
 
-              print $fh_list "file '$cwd/$filename_base-$counter-repeat-morse-$speed-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\n";
+              print $fh_list "file '$filename_base-$counter-repeat-morse-$speed-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\n";
 
             } else {
 
-              print $fh_list "file '$cwd/$filename_base-$counter-morse-$speed-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\n";
+              print $fh_list "file '$filename_base-$counter-morse-$speed-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\n";
             }
           }
 
@@ -537,34 +636,46 @@ if(!$test) {
       }
       close $fh_list;
       #see -- https://superuser.com/questions/314239/how-to-join-merge-many-mp3-files  or   https://trac.ffmpeg.org/wiki/Concatenate
-      $cmd = "ffmpeg -f concat -safe 0 -i $filename_base-list-${speed}wpm.txt -codec:a libmp3lame -metadata title=\"$filename_base $speed"."wpm\" -c copy $filename_base-$speed"."wpm.mp3";
+      @cmdLst = ("ffmpeg", "-f", "concat", "-safe", "0", "-i", 
+                 "$filename_base-list-${speed}wpm.txt", "-codec:a", "libmp3lame", "-metadata",
+                 "title=\"$filename_base $speed"."wpm\"", "-c", "copy",
+                 "$filename_base-$speed"."wpm.mp3");
+      # print "cmd-19: @cmdLst\n";
+      system(@cmdLst) == 0 or die "ERROR 19: @cmdLst failed, $!\n";
 
-      print "$cmd\n";
-      system($cmd);
       exit;
     }
     # end of fork
 
-  }
+  }     # foreach(@speeds)
 
   for (1 .. $fork_count) {
     wait();
   }
 
-
   #remove temporary files
+  print "Clean up temporary files...\n";
+  
   for (my $i=1; $i <= $count; $i++) {
     my $counter = sprintf("%05d",$i);
-    system("rm $filename_base-$counter-*.mp3 $filename_base-${counter}*.txt");
+    unlink glob("'$filename_base-$counter-*.mp3'");
+    unlink glob("'$filename_base-$counter.txt'");
   }
+
+  my $speed;
   foreach(@speeds) {
-    my $speed = $_;
-    system("rm -f sentence-${speed}0000.mp3 sentence-repeat-${speed}0000.mp3 $filename_base-list-${speed}wpm.txt silence.mp3");
+    if ($_ =~ m/(\d+)\//) {
+        $speed = $1;
+    }
+    else {
+        $speed = $_;
+    }
+    unlink "sentence-${speed}0000.mp3", "sentence-repeat-${speed}0000.mp3",  "$filename_base-list-${speed}wpm.txt", "silence.mp3";
   }
-  system("rm -f $filename_base-structure.txt $filename_base-sentences.txt");
-  system("rm -f silence*.mp3");
-  system("rm -f pluck*.mp3");
-  system("rm plink*.mp3");
-  system("rm sentence.txt");
-  system("rm sentence-repeat.txt");
+  unlink "$filename_base-structure.txt", "$filename_base-sentences.txt";
+  unlink glob("silence*.mp3");
+  unlink glob("pluck*.mp3");
+  unlink glob("plink*.mp3");
+  unlink "sentence.txt";
+  unlink "sentence-repeat.txt";
 }
