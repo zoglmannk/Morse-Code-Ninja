@@ -12,3 +12,9 @@ cache/
 # Don't accidently check in credentials
 aws.properties*
 .vscode/settings.json
+
+# python venv
+venv/
+
+*.log
+
