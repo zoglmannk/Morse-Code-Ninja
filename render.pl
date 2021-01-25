@@ -5,31 +5,37 @@ use Cwd;
 ######################################################
 #### Review and set these variables as appropriate ###
 ######################################################
-my @speeds = ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
-my $max_processes = 10;
-my $test = 0; # 1 = don't render audio -- just show what will be rendered -- useful when encoding text
-my $word_limit = -1; # 14 works great... 15 word limit for long sentences; -1 disables it
-my $repeat_morse = 1;
-my $courtesy_tone = 1;
-my $text_to_speech_engine = "neural"; # neural | standard
-my $silence_between_morse_code_and_spoken_voice = "1";
-my $silence_between_sets = "1"; # typically "1" sec
-my $silence_between_voice_and_repeat = "1"; # $silence_between_sets; # typically 1 second
-my $extra_word_spacing = 0; # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
-my $lang = "ENGLISH"; # ENGLISH | SWEDISH
+my %options = {};
+$options{'speeds'} = ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
+$options{'max_processes'} = 10;
+$options{'test'} = 0; # 1 = don't render audio -- just show what will be rendered -- useful when encoding text
+$options{'word_limit'} = -1; # 14 works great... 15 word limit for long sentences; -1 disables it
+$options{'repeat_morse'} = 1;
+$options{'courtesy_tone'} = 1;
+$options{'text_to_speech_engine'} = "neural"; # neural | standard
+$options{'silence_between_morse_code_and_spoken_voice'} = "1";
+$options{'silence_between_sets'} = "1"; # typically "1" sec
+$options{'silence_between_voice_and_repeat'} = "1"; # $silence_between_sets; # typically 1 second
+$options{'extra_word_spacing'} = 0; # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
+$options{'lang'} = "ENGLISH"; # ENGLISH | SWEDISH
 ######################################################
 ######################################################
 ######################################################
 
 my $lower_lang_chars_regex = "a-z";
 my $upper_lang_chars_regex = "A-Z";
-if($lang eq "SWEDISH") {
+if($options{'lang'} eq "SWEDISH") {
   $lower_lang_chars_regex = "a-zåäö";
   $upper_lang_chars_regex = "A-ZÄÅÖ";
 }
 
 my $filename = $ARGV[0];
 print "processing file $filename\n";
+
+print %options;
+
+exit;
+
 
 $filename =~ m/^(.*?)(\..+)?$/;
 my $filename_base = $1;
@@ -47,18 +53,18 @@ $safe_content =~ s/(mr|mrs)\./$1/gi;
 $safe_content =~ s/!|;/./g; #convert semi-colon and exclamation point to a period
 $safe_content =~ s/\.\s+(?=\.)/./g; # turn . . . into ...
 
-if(!$test) {
+if(!$options{'test'}) {
   #create silence
   system('rm -f silence.mp3');
-  system("ffmpeg -f lavfi -i anullsrc=channel_layout=5.1:sample_rate=22050 -t $silence_between_sets -codec:a libmp3lame -b:a 256k silence.mp3");
+  system("ffmpeg -f lavfi -i anullsrc=channel_layout=5.1:sample_rate=22050 -t $options{'silence_between_sets'} -codec:a libmp3lame -b:a 256k silence.mp3");
 
   # This is the silence between the Morse code and the spoken voice
   system('rm -f silence1.mp3');
-  system("ffmpeg -f lavfi -i anullsrc=channel_layout=5.1:sample_rate=22050 -t $silence_between_morse_code_and_spoken_voice -codec:a libmp3lame -b:a 256k silence1.mp3");
+  system("ffmpeg -f lavfi -i anullsrc=channel_layout=5.1:sample_rate=22050 -t $options{'silence_between_morse_code_and_spoken_voice'} -codec:a libmp3lame -b:a 256k silence1.mp3");
 
   # This is the silence between the Morse code and the spoken voice
   system('rm -f silence2.mp3');
-  system("ffmpeg -f lavfi -i anullsrc=channel_layout=5.1:sample_rate=22050 -t $silence_between_voice_and_repeat -codec:a libmp3lame -b:a 256k silence2.mp3");
+  system("ffmpeg -f lavfi -i anullsrc=channel_layout=5.1:sample_rate=22050 -t $options{'silence_between_voice_and_repeat'} -codec:a libmp3lame -b:a 256k silence2.mp3");
 
   #create quieter tone
   system('rm -f plink-softer.mp3');
@@ -93,7 +99,7 @@ sub split_sentence_by_comma {
 
     if($accumlator_size == 0) {
       $accumulator = trim($section);
-    } elsif($word_limit != -1 && ($accumlator_size + $section_size > $word_limit) && ($accumlator_size > 0)) {
+    } elsif($options{'word_limit'} != -1 && ($accumlator_size + $section_size > $options{'word_limit'}) && ($accumlator_size > 0)) {
       push @ret, $accumulator;
       $accumulator = $section;
     } elsif($section_size > 0) {
@@ -118,7 +124,7 @@ sub split_long_section {
 
     $partial_sentence = $partial_sentence . " " . $word;
     $word_count++;
-    if($word_limit != -1 && $word_count <= $word_limit) {
+    if($options{'word_limit'} != -1 && $word_count <= $options{'word_limit'}) {
 
     } else {
       push @ret, $partial_sentence;
@@ -157,7 +163,7 @@ sub split_long_sentence {
 
       if($accumulator_size == 0) {
         $accumulator = trim($partial_section);
-      } elsif($word_limit != -1 && ($accumulator_size + $partial_section_size > $word_limit) && ($accumulator_size > 0)) {
+      } elsif($options{'word_limit'} != -1 && ($accumulator_size + $partial_section_size > $options{'word_limit'}) && ($accumulator_size > 0)) {
         push @ret, $accumulator;
         $accumulator = $partial_section; 
       } elsif($partial_section_size > 0) {
@@ -257,12 +263,12 @@ foreach(@sentences) {
     print $fh_all "${sentence}\n";
 
     my($sentence_part, $spoken_directive, $repeat_part) = split_on_spoken_directive($sentence);
-    if($word_limit == -1) {
+    if($options{'word_limit'} == -1) {
       print "sentence_part: $sentence_part\n";
       print "spoken_directive: $spoken_directive\n";
       print "repeat_part: $repeat_part\n\n";
     }
-    if($word_limit != -1 && $sentence_part ne $spoken_directive) {
+    if($options{'word_limit'} != -1 && $sentence_part ne $spoken_directive) {
       print "Error: Cannot have spoken directive with word limit defined!!! Use one or the other!\n";
       print "sentence_part: $sentence_part\n";
       print "spoken_directive: $spoken_directive\n\n";
@@ -270,7 +276,7 @@ foreach(@sentences) {
     }
 
     my @partial_sentence = $sentence_part;
-    if($word_limit != -1) {
+    if($options{'word_limit'} != -1) {
       @partial_sentence = split_long_sentence($sentence);
     }
     foreach(@partial_sentence) {
@@ -279,11 +285,11 @@ foreach(@sentences) {
 
       if($_ !~ m/^\s*$/) {
         print $fh_structure "XXX $sentence_chunk\n";
-        if($word_limit != -1) {
+        if($options{'word_limit'} != -1) {
           print "sentence and spoken chunk: $sentence_chunk\n";
         }
 
-        if(!$test) {
+        if(!$options{'test'}) {
           $sentence_chunk =~ s/^\s+|\s+$//g; #extra space on the end adds new line!
           open(my $fh, '>', 'sentence.txt');
           print $fh "$sentence_chunk\n";
@@ -291,15 +297,15 @@ foreach(@sentences) {
 
           my $counter = sprintf("%05d",$count);
           my $fork_count = 0;
-          foreach(@speeds) {
+          foreach($options{'speeds'}) {
 
             my $speed = $_;
             my $farnsworth = 0;
 
-            if($fork_count >= $max_processes) {
+            if($fork_count >= $options{'max_processes'}) {
               print("XXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXX");
               print("XXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXX");
-              print("waiting on forks: fork_count: $fork_count     max_processes: $max_processes\n");
+              print("waiting on forks: fork_count: $fork_count     max_processes: $options{'max_processes'}\n");
               wait();
               $fork_count--;
             }
@@ -328,13 +334,13 @@ foreach(@sentences) {
               }
 
               my $lang_option = "";
-              if($lang ne "ENGLISH") {
+              if($options{'lang'} ne "ENGLISH") {
                 $lang_option = "-u";
               }
 
               my $extra_word_spacing_option = "";
-              if ($extra_word_spacing != 0) {
-                $extra_word_spacing_option = "-W " . $extra_word_spacing;
+              if ($options{'extra_word_spacing'} != 0) {
+                $extra_word_spacing_option = "-W " . $options{'extra_word_spacing'};
               }
 
 
@@ -351,7 +357,7 @@ foreach(@sentences) {
 
 
               # generate repeat section if it is different than the sentence
-              if($repeat_morse != 0 && $word_limit == -1 && $repeat_part ne $sentence_part) {
+              if($options{'repeat_morse'} != 0 && $options{'word_limit'} == -1 && $repeat_part ne $sentence_part) {
                 open(my $fh_repeat, '>', 'sentence-repeat.txt');
                 print $fh_repeat "$repeat_part\n";
                 close $fh_repeat;
@@ -380,7 +386,7 @@ foreach(@sentences) {
           }
 
           # Generate spoken section
-          if($word_limit != -1) {
+          if($options{'word_limit'} != -1) {
             system('mv sentence.txt '."$filename_base-${counter}.txt");
           } else {
             open(my $fh_spoken, '>', "$filename_base-${counter}.txt");
@@ -390,7 +396,7 @@ foreach(@sentences) {
 
           my $exit_code = -1;
           while($exit_code != 0) {
-            $exit_code = system('./text2speech.py '."$filename_base-${counter} $text_to_speech_engine $lang");
+            $exit_code = system('./text2speech.py '."$filename_base-${counter} $options{'text_to_speech_engine'} $options{'lang'}");
           }
         }
         $count++;
@@ -400,7 +406,7 @@ foreach(@sentences) {
     if(scalar(@partial_sentence) > 1) {
       print "saying the whole sentence: $sentence\n";
 
-      if(!$test) {
+      if(!$options{'test'}) {
         open(my $fh, '>', 'sentence.txt');
         print $fh "$sentence\n";
 
@@ -408,7 +414,7 @@ foreach(@sentences) {
         system('mv sentence.txt '."$filename_base-${counter}-full.txt");
         my $exit_code = -1;
         while($exit_code != 0) {
-          $exit_code = system('./text2speech.py '."$filename_base-${counter}-full $text_to_speech_engine $lang");
+          $exit_code = system('./text2speech.py '."$filename_base-${counter}-full $options{'text_to_speech_engine'} $options{'lang'}");
         }
 
         $count++;
@@ -426,7 +432,7 @@ close $fh_structure;
 $count--;
 
 print "\n\nTotal sentences: $sentence_count\t segments: $count\n";
-if(!$test) {
+if(!$options{'test'}) {
   my $cwd = getcwd();
 
   #lame documentation -- https://svn.code.sf.net/p/lame/svn/trunk/lame/USAGE
@@ -456,7 +462,7 @@ if(!$test) {
   system($cmd);
 
   my $fork_count = 0;
-  foreach(@speeds) {
+  foreach($options{'speeds'}) {
     my $first_for_given_speed = 1;
     my $speed_in = $_;
 
@@ -467,10 +473,10 @@ if(!$test) {
       $speed = $speed_in;
     }
 
-    if($fork_count >= $max_processes) {
+    if($fork_count >= $options{'max_processes'}) {
       print("XXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXX");
       print("XXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXXXXXXXXxXXXXXXXXXXXXXXXXX");
-      print("waiting on forks: fork_count: $fork_count     max_processes: $max_processes\n");
+      print("waiting on forks: fork_count: $fork_count     max_processes: $options{'max_processes'}\n");
       wait();
       $fork_count--;
     }
@@ -501,7 +507,7 @@ if(!$test) {
           #don't start with Plink sound
           if($first_for_given_speed == 1) {
             $first_for_given_speed = 0;
-          } elsif ($courtesy_tone != 0) {
+          } elsif ($options{'courtesy_tone'} != 0) {
             print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
           }
 
@@ -515,7 +521,7 @@ if(!$test) {
 
           print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cwd/$filename_base-$counter-morse-$speed-resampled.mp3'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cwd/$filename_base-$counter-voice-resampled-$speed.mp3'\n";
 
-          if($repeat_morse == 0) {
+          if($options{'repeat_morse'} == 0) {
             print $fh_list "file '$cwd/silence-resampled.mp3'\n";
           } else {
             print $fh_list "file '$cwd/silence-resampled2.mp3'\n";
@@ -557,7 +563,7 @@ if(!$test) {
     my $counter = sprintf("%05d",$i);
     system("rm $filename_base-$counter-*.mp3 $filename_base-${counter}*.txt");
   }
-  foreach(@speeds) {
+  foreach($options{'speeds'}) {
     my $speed = $_;
     system("rm -f sentence-${speed}0000.mp3 sentence-repeat-${speed}0000.mp3 $filename_base-list-${speed}wpm.txt silence.mp3");
   }

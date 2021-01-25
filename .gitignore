@@ -11,3 +11,4 @@ cache/
 
 # Don't accidently check in credentials
 aws.properties*
+.vscode/settings.json
