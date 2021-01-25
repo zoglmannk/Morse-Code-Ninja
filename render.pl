@@ -100,11 +100,9 @@ if(!$test) {
   # print "cmd-5: $cmd\n";
   system($cmd) == 0 or die "ERROR 5: $cmd failed, $!\n";
 
-  if (-d "cache") {
-      print("directory cache exists, removing\n");
-      rmtree "cache";
+  if (! -d "cache") {
+      mkdir "cache";
   }
-  mkdir "cache";
 }
 
 # Simple string trim function
