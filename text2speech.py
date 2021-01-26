@@ -9,6 +9,7 @@ import sys
 import re
 import hashlib
 import os.path
+from os import environ
 import shutil
 
 sentence_filename = sys.argv[1]
@@ -34,8 +35,13 @@ try:
                 aws_properties[name.strip()] = value.strip()
 except IOError as e:
     print(f"I/O error reading aws.properties: {e.errno}, {e.strerror}")
-    sys.exit(ioError)
-
+    # check environment variables
+    if "AWS_KEY_ID" in environ and "AWS_SECRET_KEY" in environ:
+        aws_properties['aws_access_key_id'] = environ['AWS_KEY_ID']
+        aws_properties['aws_secret_access_key'] = environ['AWS_SECRET_KEY']
+    else:
+        print("text2speech script does not have AWS credentials.")
+        sys.exit(ioError)
 
 sha256_hash = hashlib.sha256()
 
@@ -46,7 +52,6 @@ hex_digest = hashlib.sha256(sentence.encode('utf-8')).hexdigest()
 cache_filename = 'cache/' + hex_digest + ".mp3"
 
 if not os.path.exists(cache_filename):
-    
     polly_client = boto3.Session(aws_access_key_id=aws_properties['aws_access_key_id'],
                                  aws_secret_access_key=aws_properties['aws_secret_access_key'],
                                  region_name='us-east-1').client('polly')
@@ -59,7 +64,7 @@ if not os.path.exists(cache_filename):
             response = polly_client.synthesize_speech(Engine=engine_type, VoiceId='Matthew', OutputFormat='mp3', TextType="ssml", Text=ssml)
         else:
             print("Pronouncing normal speed: " + sentence)
-            
+
             response = polly_client.synthesize_speech(Engine=engine_type, VoiceId='Matthew', OutputFormat='mp3', Text=sentence)
             print("sentence" + sentence)
     else:
