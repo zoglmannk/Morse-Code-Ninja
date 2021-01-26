@@ -21,7 +21,8 @@ For ease, I recommend using the "console" for this. During creation, give
 the IAM user "Programmatic access." When prompted save the **key ID** and **secret access key**.
 During the creation, attach the **AmazonPollyFullAccess** policy to the user.
    
-3. Edit the aws.properties file. Set the **key ID** and **secret access key**.
+3. Edit the aws.properties file. Set the **key ID** and **secret access key**. As an alternative, 
+you may define AWS_KEY_ID and AWS_SECRET_ACCESS_KEY as environmental variables.
 
 
 # Usage
