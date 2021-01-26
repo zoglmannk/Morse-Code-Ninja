@@ -26,22 +26,28 @@ print("Processing sentence filename: " + sentence_filename + ".txt")
 separator = "="
 aws_properties = {}
 
-try:
-    with open('aws.properties') as property_file:
+if "AWS_KEY_ID" in environ and "AWS_SECRET_ACCESS_KEY" in environ:
+    aws_properties['aws_access_key_id'] = environ['AWS_KEY_ID']
+    aws_properties['aws_secret_access_key'] = environ['AWS_SECRET_ACCESS_KEY']
+else:
+    try:
+        with open('aws.properties') as property_file:
 
-        for line in property_file:
-            if separator in line:
-                name, value = line.split(separator, 1)
-                aws_properties[name.strip()] = value.strip()
-except IOError as e:
-    print(f"I/O error reading aws.properties: {e.errno}, {e.strerror}")
-    # check environment variables
-    if "AWS_KEY_ID" in environ and "AWS_SECRET_KEY" in environ:
-        aws_properties['aws_access_key_id'] = environ['AWS_KEY_ID']
-        aws_properties['aws_secret_access_key'] = environ['AWS_SECRET_KEY']
-    else:
+            for line in property_file:
+                if separator in line:
+                    name, value = line.split(separator, 1)
+                    aws_properties[name.strip()] = value.strip()
+    except IOError as e:
+        print(f"I/O error reading aws.properties: {e.errno}, {e.strerror}")
+
         print("text2speech script does not have AWS credentials.")
         sys.exit(ioError)
+
+if aws_properties['aws_access_key_id'] == 'CHANGE_ME' or aws_properties['aws_secret_access_key'] == 'CHANGE ME':
+    print("**********************************************************************************")
+    print("text2speech script does NOT have AWS credentials. Set properties in aws.properties")
+    print("**********************************************************************************")
+    sys.exit(ioError)
 
 sha256_hash = hashlib.sha256()
 
