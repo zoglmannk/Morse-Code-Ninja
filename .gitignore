@@ -1,9 +1,10 @@
 #Mac OS
 .DS_Store
 
-# Ignore IntelliJ project files
+# Ignore IntelliJ and other IDE files
 .idea/
 Morse-Code-Ninja.iml
+.vscode/settings.json
 
 
 # Cache
@@ -16,4 +17,3 @@ aws.properties*
 venv/
 
 *.log
-
