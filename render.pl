@@ -28,20 +28,6 @@ GetOptions(
 my $speedSize = @speeds;
 @speeds = ($speedSize > 0) ? @speeds : ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
 
-print " --- render.pl options ---";
-print "\nspeeds: @speeds";
-# print "\nmax processes: $max_processes";
-# print "\ntest: $test";
-# print "\nword limit: $word_limit";
-# print "\nrepeat_morse: $repeat_morse";
-# print "\ncourtesy_tone: $courtesy_tone";
-# print "\nengine: $text_to_speech_engine";
-# print "\nsilence between morse and voice: $silence_between_morse_code_and_spoken_voice";
-# print "\nsilence between sets: $silence_between_sets";
-# print "\nsilence between voice and repeat: $silence_between_voice_and_repeat";
-# print "\nextra word spacing: $extra_word_spacing";
-# print "\nlanguage: $lang\n";
-
 my $lower_lang_chars_regex = "a-z";
 my $upper_lang_chars_regex = "A-Z";
 if($lang eq "SWEDISH") {
