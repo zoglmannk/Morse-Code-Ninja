@@ -652,7 +652,7 @@ if(!$test) {
                  "$filename_base-list-${speed}wpm.txt", "-codec:a", "libmp3lame", "-metadata",
                  "title=\"$filename_base $speed"."wpm\"", "-c", "copy",
                  "$filename_base-$speed"."wpm.mp3");
-      print "cmd-19: @cmdLst\n";
+      # print "cmd-19: @cmdLst\n";
       system(@cmdLst) == 0 or die "ERROR 19: @cmdLst failed, $!\n";
 
       exit;
