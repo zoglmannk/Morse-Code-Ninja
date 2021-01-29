@@ -10,21 +10,22 @@ use Getopt::Long;
 my @speeds;
 
 GetOptions(
-  'input=s'        => \(my $input_filename),
-  'speeds=s{1,}'   => \@speeds,
-  'maxprocs=i'     => \(my $max_processes = 10),
-  'test=i'         => \(my $test = 0), # 1 = don't render audio -- just show what will be rendered -- useful when encoding text
-  'limit=i'        => \(my $word_limit = -1), # 14 works great... 15 word limit for long sentences; -1 disables it
-  'repeat=i'       => \(my $repeat_morse = 1),
-  'tone=i'         => \(my $courtesy_tone = 1),
-  'engine=s'       => \(my $text_to_speech_engine = "neural"), # neural | standard
-  'silencemorse=s' => \(my $silence_between_morse_code_and_spoken_voice = "1"),
-  'silencesets=s'  => \(my $silence_between_sets = "1"), # typically "1" sec
-  'silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
-  'extraspace=i'   => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
-  'lang=s'         => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
+  'i|input=s'         => \(my $input_filename),
+  's|speeds=s{1,}'    => \@speeds,
+  'm|maxprocs=i'      => \(my $max_processes = 10),
+  'test'              => \(my $test = ''), # flag. 1 = don't render audio -- just show what will be rendered -- useful when encoding text
+  'l|limit=i'         => \(my $word_limit = -1), # 14 works great... 15 word limit for long sentences; -1 disables it
+  'r|repeat'          => \(my $repeat_morse = '1'), # flag. 0 == false
+  'tone'              => \(my $courtesy_tone = '1'), # flag. 0 == false
+  'e|engine=s'        => \(my $text_to_speech_engine = "neural"), # neural | standard
+  'sm|silencemorse=s' => \(my $silence_between_morse_code_and_spoken_voice = "1"),
+  'ss|silencesets=s'  => \(my $silence_between_sets = "1"), # typically "1" sec
+  'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
+  'x|extraspace=i'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
+  'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
 ) or die "Invalid options passed to $0\n";
 
+# set default value for speeds here as it is too complex to do it inside the GetOptions call above
 my $speedSize = @speeds;
 @speeds = ($speedSize > 0) ? @speeds : ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
 
