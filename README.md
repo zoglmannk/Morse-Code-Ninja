@@ -41,10 +41,6 @@ but it is far from user-friendly. There are many opportunities to improve it.
 Do not invoke more than one render.pl script at a time. The script would collide with itself if
 multiple copies were executing at the same time.
 
-The scripts have poor error handling. If something goes wrong, you may find it 
-difficult to isolate and correct the problem.
-
 Be aware that the script can create a huge number of temporary files, which is proportional to the input file. Some types of filesystems will deal with this better than others.
 
-This set of scripts _should_ work on Linux and macOS, but it has only 
-been used on macOS.
+This set of scripts works on Linux and macOS.
