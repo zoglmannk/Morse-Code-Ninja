@@ -5,28 +5,37 @@ use File::Basename;
 use File::Copy;
 use File::Path;
 use File::Spec;
+use Getopt::Long;
 
+my @speeds;
 
-######################################################
-#### Review and set these variables as appropriate ###
-######################################################
-my @speeds = ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
-# my @speeds = ("15/5", "20/10", "25/15");   # Farnsworth 
-my $max_processes = 10;
-# my $max_processes = 1;
-my $test = 0; # 1 = don't render audio -- just show what will be rendered -- useful when encoding text
-my $word_limit = -1; # 14 works great... 15 word limit for long sentences; -1 disables it
-my $repeat_morse = 1;
-my $courtesy_tone = 1;
-my $text_to_speech_engine = "neural"; # neural | standard
-my $silence_between_morse_code_and_spoken_voice = "1";
-my $silence_between_sets = "1"; # typically "1" sec
-my $silence_between_voice_and_repeat = "1"; # $silence_between_sets; # typically 1 second
-my $extra_word_spacing = 0; # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
-my $lang = "ENGLISH"; # ENGLISH | SWEDISH
-######################################################
-######################################################
-######################################################
+GetOptions(
+  'i|input=s'         => \(my $input_filename),
+  's|speeds=s{1,}'    => \@speeds,
+  'm|maxprocs=i'      => \(my $max_processes = 10),
+  'test'              => \(my $test = ''), # flag. 1 = don't render audio -- just show what will be rendered -- useful when encoding text
+  'l|limit=i'         => \(my $word_limit = -1), # 14 works great... 15 word limit for long sentences; -1 disables it
+  'r|repeat'          => \(my $repeat_morse = '1'), # flag. 0 == false
+  'tone'              => \(my $courtesy_tone = '1'), # flag. 0 == false
+  'e|engine=s'        => \(my $text_to_speech_engine = "neural"), # neural | standard
+  'sm|silencemorse=s' => \(my $silence_between_morse_code_and_spoken_voice = "1"),
+  'ss|silencesets=s'  => \(my $silence_between_sets = "1"), # typically "1" sec
+  'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
+  'x|extraspace=i'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
+  'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
+) or die "Invalid options passed to $0\n";
+
+if("$input_filename" eq "") {
+  print("An input text file is required.\n");
+  print("\nExample:\n");
+  print("./render.pl -i example.txt");
+  print("\n\n");
+  exit(1);
+}
+
+# set default value for speeds here as it is too complex to do it inside the GetOptions call above
+my $speedSize = @speeds;
+@speeds = ($speedSize > 0) ? @speeds : ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
 
 my $lower_lang_chars_regex = "a-z";
 my $upper_lang_chars_regex = "A-Z";
@@ -41,7 +50,7 @@ my @cmdLst;
 # text2speech.py error codes (coordinate with text2speech.py error return codes)
 my $t2sIOError = 2;
 
-my $filename = File::Spec->rel2abs($ARGV[0]);
+my $filename = File::Spec->rel2abs($input_filename);
 
 print "processing file $filename\n";
 

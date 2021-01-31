@@ -70,7 +70,6 @@ if not os.path.exists(cache_filename):
             response = polly_client.synthesize_speech(Engine=engine_type, VoiceId='Matthew', OutputFormat='mp3', TextType="ssml", Text=ssml)
         else:
             print("Pronouncing normal speed: " + sentence)
-
             response = polly_client.synthesize_speech(Engine=engine_type, VoiceId='Matthew', OutputFormat='mp3', Text=sentence)
             print("sentence" + sentence)
     else:
