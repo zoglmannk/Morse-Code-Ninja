@@ -24,6 +24,8 @@ During the creation, attach the **AmazonPollyFullAccess** policy to the user.
 3. Edit the aws.properties file. Set the **key ID** and **secret access key**. As an alternative, 
 you may define AWS_KEY_ID and AWS_SECRET_ACCESS_KEY as environmental variables.
 
+4. Run this command to make sure that you don't accidently check in your key! `git update-index --assume-unchanged aws.properties`
+
 
 # Usage
 
