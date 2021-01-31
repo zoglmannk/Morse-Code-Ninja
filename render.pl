@@ -25,6 +25,14 @@ GetOptions(
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
 ) or die "Invalid options passed to $0\n";
 
+if("$input_filename" eq "") {
+  print("An input text file is required.\n");
+  print("\nExample:\n");
+  print("./render.pl -i example.txt");
+  print("\n\n");
+  exit(1);
+}
+
 # set default value for speeds here as it is too complex to do it inside the GetOptions call above
 my $speedSize = @speeds;
 @speeds = ($speedSize > 0) ? @speeds : ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
