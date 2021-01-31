@@ -7,68 +7,27 @@ use File::Path;
 use File::Spec;
 use Getopt::Long;
 
-
-# https://perldoc.perl.org/Getopt::Long#Options-with-multiple-values
+my @speeds;
 
 GetOptions(
-  'speeds=s'       => \(my @speeds),
-  'maxprocs=i'     => \(my $max_processes = 10),
-  'test=i'         => \(my $test = 0),
-  'limit=i'        => \(my $word_limit = -1),
-  'repeat=i'       => \(my $repeat_morse = 1),
-  'tone=i'         => \(my $courtesy_tone = 1),
-  'engine=s'       => \(my $text_to_speech_engine = "neural"),
-  'silencemorse=s' => \(my $silence_between_morse_code_and_spoken_voice = "1"),
-  'silencesets=s'  => \(my $silence_between_sets = "1"),
-  'silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"),
-  'extraspace=i'   => \(my $extra_word_spacing = 0),
-  'lang=s'         => \(my $lang = "ENGLISH"),
+  'i|input=s'         => \(my $input_filename),
+  's|speeds=s{1,}'    => \@speeds,
+  'm|maxprocs=i'      => \(my $max_processes = 10),
+  'test'              => \(my $test = ''), # flag. 1 = don't render audio -- just show what will be rendered -- useful when encoding text
+  'l|limit=i'         => \(my $word_limit = -1), # 14 works great... 15 word limit for long sentences; -1 disables it
+  'r|repeat'          => \(my $repeat_morse = '1'), # flag. 0 == false
+  'tone'              => \(my $courtesy_tone = '1'), # flag. 0 == false
+  'e|engine=s'        => \(my $text_to_speech_engine = "neural"), # neural | standard
+  'sm|silencemorse=s' => \(my $silence_between_morse_code_and_spoken_voice = "1"),
+  'ss|silencesets=s'  => \(my $silence_between_sets = "1"), # typically "1" sec
+  'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
+  'x|extraspace=i'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
+  'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
 ) or die "Invalid options passed to $0\n";
-#@speeds = split(/,/,join(',',@speeds));
-print "speed array is @speeds \n";
+
+# set default value for speeds here as it is too complex to do it inside the GetOptions call above
 my $speedSize = @speeds;
-print "speedSize is $speedSize\n";
 @speeds = ($speedSize > 0) ? @speeds : ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
-######################################################
-#### Review and set these variables as appropriate ###
-######################################################
-# my @speeds = ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
-# my @speeds = ("15/5", "20/10", "25/15");   # Farnsworth 
-# my $max_processes = 10;
-# my $max_processes = 1;
-# my $test = 0; # 1 = don't render audio -- just show what will be rendered -- useful when encoding text
-# my $word_limit = -1; # 14 works great... 15 word limit for long sentences; -1 disables it
-# my $repeat_morse = 1;
-# my $courtesy_tone = 1;
-# my $text_to_speech_engine = "neural"; # neural | standard
-# my $silence_between_morse_code_and_spoken_voice = "1";
-# my $silence_between_sets = "1"; # typically "1" sec
-# my $silence_between_voice_and_repeat = "1"; # $silence_between_sets; # typically 1 second
-# my $extra_word_spacing = 0; # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
-# my $lang = "ENGLISH"; # ENGLISH | SWEDISH
-######################################################
-######################################################
-######################################################
-
-# TO DO: 
-#  store options in a hash
-#  add short options names (like single characters)
-#  use booleans/flags where appropriate
-#  other error checking (valid engine values, languages, etc.)
-
-print " --- render.pl options ---";
-print "\nspeeds: @speeds";
-print "\nmax processes: $max_processes";
-print "\ntest: $test";
-print "\nword limit: $word_limit";
-print "\nrepeat_morse: $repeat_morse";
-print "\ncourtesy_tone: $courtesy_tone";
-print "\nengine: $text_to_speech_engine";
-print "\nsilence between morse and voice: $silence_between_morse_code_and_spoken_voice";
-print "\nsilence between sets: $silence_between_sets";
-print "\nsilence between voice and repeat: $silence_between_voice_and_repeat";
-print "\nextra word spacing: $extra_word_spacing";
-print "\nlanguage: $lang\n";
 
 my $lower_lang_chars_regex = "a-z";
 my $upper_lang_chars_regex = "A-Z";
@@ -83,7 +42,7 @@ my @cmdLst;
 # text2speech.py error codes (coordinate with text2speech.py error return codes)
 my $t2sIOError = 2;
 
-my $filename = File::Spec->rel2abs($ARGV[0]);
+my $filename = File::Spec->rel2abs($input_filename);
 
 print "processing file $filename\n";
 
@@ -92,7 +51,7 @@ print "dirs: $dirs, file: $file, suffix: $suffix\n";
 
 my $filename_base = File::Spec->catpath("", $dirs, $file);
 print "filename base: $filename_base\n";
-exit 0;
+
 open my $fh, '<', $filename or die "Can't open file $!";
 my $file_content = do { local $/; <$fh> };
 close $fh;
