@@ -8,6 +8,7 @@ use File::Spec;
 use Getopt::Long;
 
 my @speeds;
+sub print_usage;
 
 GetOptions(
   'i|input=s'         => \(my $input_filename),
@@ -24,7 +25,7 @@ GetOptions(
   'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
   'x|extraspace=i'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
-) or die "Invalid options passed to $0\n";
+) or print_usage();
 
 # set default value for speeds here as it is too complex to do it inside the GetOptions call above
 my $speedSize = @speeds;
@@ -683,3 +684,28 @@ if(!$test) {
   unlink "$output_directory/sentence.txt";
   unlink "$output_directory/sentence-repeat.txt";
 }
+
+sub print_usage {
+  print "render.pl - create mp3 audio files defined by an text file. \nUses AWS Polly and requires valid credentials in the aws.properties file.\n\n";
+
+  print "usage: perl render.pl -i file [-o directory] [-s speeds] [-m max processes] [--test] [-l word limit]\n";
+  print "                      [--repeat] [--tone] [-e NEURAL | STANDARD] [--sm] [--ss] [--sv] [-x]\n";
+  print "                      [--lang ENGLISH | SWEDISH]\n\n";
+
+  print "Options:\n";
+  print "  -i, --input          name of the text file containing the script to render\n";
+  print "  -o, --output         directory to use for temporary files and output mp3 files\n";
+  print "  -s, --speeds         list of speeds in WPM. example -s 15 17 20\n";
+  print "  -m, --maxprocs       maximum number of parallel processes to run\n";
+  print "  --test               don't render audio -- just show what will be rendered -- useful when encoding text\n";
+  print "  -l, --limit          word limit. 14 works great... 15 word limit for long sentences; -1 disables it\n";
+  print "  -r, --repeat         repeat morse after speech\n";
+  print "  --tone               include the courtesy tone\n";
+  print "  -e, --engine         name of Polly speech engine to use: NEURAL or STANDARD\n";
+  print "  --sm, --silencemorse \n";
+  print "  --ss, --silencesets  \n";
+  print "  --sv, --silencevoice \n";
+  print "  -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc\n";
+  print "  -l, --lang           language: ENGLISH or SWEDISH\n";
+  die "";
+};
