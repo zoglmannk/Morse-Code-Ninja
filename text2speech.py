@@ -24,6 +24,9 @@ print("Engine:" + engine_type)
 print("Processing sentence filename: " + sentence_filename + ".txt")
 print("Working directory:" + working_directory)
 
+cache_directory = 'cache/'
+print("Cache directory: "+cache_directory)
+
 separator = "="
 aws_properties = {}
 
@@ -56,7 +59,7 @@ with open(sentence_filename + ".txt", "r") as sentence_file:
     sentence = sentence_file.readlines()[0]
 
 hex_digest = hashlib.sha256(sentence.encode('utf-8')).hexdigest()
-cache_filename = working_directory + '/cache/' + hex_digest + ".mp3"
+cache_filename = cache_directory + hex_digest + ".mp3"
 
 if not os.path.exists(cache_filename):
     polly_client = boto3.Session(aws_access_key_id=aws_properties['aws_access_key_id'],
