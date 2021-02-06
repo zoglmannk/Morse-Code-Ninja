@@ -9,7 +9,7 @@ from os import environ
 import shutil
 
 sentence_filename = sys.argv[1]
-engine_type = sys.argv[2]  # needs to be: standard | neural
+engine_type = sys.argv[2].lower()  # needs to be: standard | neural
 language = sys.argv[3]
 
 # ERROR return codes (coordinate with render.pl for intelligent error handling)
