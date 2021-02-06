@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 
-"""
-#!/Users/kaz/anaconda3/bin/python
-"""
-
 import boto3
 import sys
 import re
