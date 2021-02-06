@@ -17,3 +17,6 @@ aws.properties*
 venv/
 
 *.log
+
+# Don't check in rendered mp3 files
+*.mp3
