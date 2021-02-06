@@ -28,11 +28,14 @@ GetOptions(
 ) or print_usage();
 
 if("$input_filename" eq "") {
-  print("An input text file is required.\n");
-  print("\nExample:\n");
+  print("***************************************\n");
+  print("Error: An input text file is required!!\n");
+  print("***************************************\n\n");
+  print("Example:\n");
   print("./render.pl -i example.txt");
-  print("\n\n");
-  exit(1);
+  print("\n\n\n");
+
+  print_usage();
 }
 
 # set default value for speeds here as it is too complex to do it inside the GetOptions call above
@@ -694,26 +697,33 @@ if(!$test) {
 }
 
 sub print_usage {
-  print "render.pl - create mp3 audio files defined by an text file. \nUses AWS Polly and requires valid credentials in the aws.properties file.\n\n";
+  print "\033[1mNAME:\033[0m\n";
+  print "  render.pl -- create mp3 audio files defined by an text file. \n\n";
 
-  print "usage: perl render.pl -i file [-o directory] [-s speeds] [-m max processes] [--test] [-l word limit]\n";
-  print "                      [--repeat] [--tone] [-e NEURAL | STANDARD] [--sm] [--ss] [--sv] [-x]\n";
-  print "                      [--lang ENGLISH | SWEDISH]\n\n";
+  print "\033[1mSYNOPSIS:\033[0m\n";
+  print "  perl render.pl -i file [-o directory] [-s speeds] [-m max processes] [--test] [-l word limit]\n";
+  print "                 [--repeat] [--tone] [-e NEURAL | STANDARD] [--sm] [--ss] [--sv] [-x]\n";
+  print "                 [--lang ENGLISH | SWEDISH]\n\n";
+  print "  Uses AWS Polly and requires valid credentials in the aws.properties file.\n\n";
 
-  print "Options:\n";
-  print "  -i, --input          name of the text file containing the script to render\n";
-  print "  -o, --output         directory to use for temporary files and output mp3 files\n";
-  print "  -s, --speeds         list of speeds in WPM. example -s 15 17 20\n";
-  print "  -m, --maxprocs       maximum number of parallel processes to run\n";
-  print "  --test               don't render audio -- just show what will be rendered -- useful when encoding text\n";
-  print "  -l, --limit          word limit. 14 works great... 15 word limit for long sentences; -1 disables it\n";
-  print "  -r, --repeat         repeat morse after speech\n";
-  print "  --tone               include the courtesy tone\n";
-  print "  -e, --engine         name of Polly speech engine to use: NEURAL or STANDARD\n";
-  print "  --sm, --silencemorse \n";
-  print "  --ss, --silencesets  \n";
-  print "  --sv, --silencevoice \n";
-  print "  -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc\n";
-  print "  -l, --lang           language: ENGLISH or SWEDISH\n";
+  print "\033[1mOPTIONS:\033[0m\n";
+  print "  Required:\n";
+  print "    -i, --input          name of the text file containing the script to render\n\n";
+
+  print "  Optional:\n";
+  print "    -i, --input          name of the text file containing the script to render\n";
+  print "    -o, --output         directory to use for temporary files and output mp3 files\n";
+  print "    -s, --speeds         list of speeds in WPM. example -s 15 17 20\n";
+  print "    -m, --maxprocs       maximum number of parallel processes to run\n";
+  print "    --test               don't render audio -- just show what will be rendered -- useful when encoding text\n";
+  print "    -l, --limit          word limit. 14 works great... 15 word limit for long sentences; -1 disables it\n";
+  print "    -r, --repeat         repeat morse after speech\n";
+  print "    --tone               include the courtesy tone\n";
+  print "    -e, --engine         name of Polly speech engine to use: NEURAL or STANDARD\n";
+  print "    --sm, --silencemorse \n";
+  print "    --ss, --silencesets  \n";
+  print "    --sv, --silencevoice \n";
+  print "    -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc\n";
+  print "    -l, --lang           language: ENGLISH or SWEDISH\n\n";
   die "";
 };
