@@ -29,19 +29,44 @@ you may define AWS_KEY_ID and AWS_SECRET_ACCESS_KEY as environmental variables.
 
 # Usage
 
-1. Review and change as necessary the hardcoded configuration options at the top of the render.pl script.
+#### NAME:
+    render.pl -- create mp3 audio files defined by an text file. <br/><br/>
 
-2. Execute within the checkout directory.
-```
-./render example.txt
-```
+#### SYNOPSIS:
+    perl render.pl -i file [-o directory] [-s speeds] [-m max processes] [--test] [-l word limit] 
+                   [--repeat] [--tone] [-e NEURAL | STANDARD] [--sm] [--ss] [--sv] [-x] 
+                   [--lang ENGLISH | SWEDISH]
+
+Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><br/>
+
+#### OPTIONS:
+
+##### Required:
+    -i, --input          name of the text file containing the script to render
+
+#### Optional:
+    -i, --input          name of the text file containing the script to render
+    -o, --output         directory to use for temporary files and output mp3 files
+    -s, --speeds         list of speeds in WPM. example -s 15 17 20
+    -m, --maxprocs       maximum number of parallel processes to run
+    --test               don't render audio -- just show what will be rendered -- useful when encoding text
+    -l, --limit          word limit. 14 works great... 15 word limit for long sentences; -1 disables it
+    -r, --repeat         repeat morse after speech
+    --tone               include the courtesy tone
+    -e, --engine         name of Polly speech engine to use: NEURAL or STANDARD
+    --sm, --silencemorse
+    --ss, --silencesets
+    --sv, --silencevoice
+    -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
+    -l, --lang           language: ENGLISH or SWEDISH
+
 
 # General Notes
-The software has been used extensively to build the Morse Code Ninja Library,
-but it is far from user-friendly. There are many opportunities to improve it.
+The software has been used extensively to build the Morse Code Ninja Library.
+There are many opportunities to improve it.
 
-Do not invoke more than one render.pl script at a time. The script would collide with itself if
-multiple copies were executing at the same time.
+Do not invoke more than one render.pl script at a time without specifying unique output directories. The script will collide with itself if
+multiple copies were executing at the same time using the same output directory.
 
 Be aware that the script can create a huge number of temporary files, which is proportional to the input file. Some types of filesystems will deal with this better than others.
 
