@@ -49,6 +49,7 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
 #### Optional:
     -i, --input          name of the text file containing the script to render
     -o, --output         directory to use for temporary files and output mp3 files
+    -c, --cache          directory to use for cache specific files
     -s, --speeds         list of speeds in WPM. example -s 15 17 20
     -m, --maxprocs       maximum number of parallel processes to run
     --test               don't render audio -- just show what will be rendered -- useful when encoding text

@@ -11,6 +11,8 @@ import shutil
 sentence_filename = sys.argv[1]
 engine_type = sys.argv[2].lower()  # needs to be: standard | neural
 language = sys.argv[3]
+#cache_directory = 'cache/'
+cache_directory = sys.argv[4]
 
 # ERROR return codes (coordinate with render.pl for intelligent error handling)
 ioError = 2
@@ -19,8 +21,6 @@ working_directory = os.path.split(sentence_filename)[0]
 print("Engine:" + engine_type)
 print("Processing sentence filename: " + sentence_filename + ".txt")
 print("Working directory:" + working_directory)
-
-cache_directory = 'cache/'
 print("Cache directory: " + cache_directory)
 
 separator = "="

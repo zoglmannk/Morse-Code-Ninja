@@ -13,6 +13,7 @@ sub print_usage;
 GetOptions(
   'i|input=s'         => \(my $input_filename),
   'o|output=s'        => \(my $output_directory = '.'),
+  'c|cache=s'         => \(my $cache_directory = './cache/'),
   's|speeds=s{1,}'    => \@speeds,
   'm|maxprocs=i'      => \(my $max_processes = 10),
   'test'              => \(my $test = ''), # flag. 1 = don't render audio -- just show what will be rendered -- useful when encoding text
@@ -38,12 +39,20 @@ if("$input_filename" eq "") {
   print_usage();
 }
 
+if($cache_directory !~ m/^.*?\/$/) {
+  $cache_directory .= "/";
+}
+
 # set default value for speeds here as it is too complex to do it inside the GetOptions call above
 my $speedSize = @speeds;
 @speeds = ($speedSize > 0) ? @speeds : ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
 
 if (! -d "$output_directory") {
   mkdir "$output_directory";
+}
+
+if (! -d "$cache_directory") {
+  mkdir "$cache_directory";
 }
 
 my $lower_lang_chars_regex = "a-z";
@@ -117,10 +126,6 @@ if(!$test) {
   $cmd = 'ffmpeg -i sounds/pluck.mp3 -filter:a "volume=0.5" '.$output_directory.'/pluck-softer.mp3';
   print "cmd-5: $cmd\n";
   system($cmd) == 0 or die "ERROR 5: $cmd failed, $!\n";
-
-  if (! -d "$output_directory/cache") {
-      mkdir "$output_directory/cache";
-  }
 }
 
 # Simple string trim function
@@ -472,9 +477,9 @@ foreach(@sentences) {
           while($exit_code != 0) {
             my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
               
-            print "execute text2speech.py: \"$textFile\" $text_to_speech_engine $lang\n";
+            print "execute text2speech.py: \"$textFile\" $text_to_speech_engine $lang $cache_directory\n";
               
-            $exit_code = system("./text2speech.py \"$textFile\" $text_to_speech_engine $lang");
+            $exit_code = system("./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory");
             if ($? == -1) {
                 print "ERROR: text2speech.py failed to execute: $!\n";
                 exit 1;
@@ -514,7 +519,7 @@ foreach(@sentences) {
         rename("$output_directory/sentence.txt ", '$filename_base-$counter-full.txt');
         my $exit_code = -1;
         while($exit_code != 0) {
-          $exit_code = system('./text2speech.py '."$filename_base-${counter}-full $text_to_speech_engine $lang");
+          $exit_code = system('./text2speech.py '."$filename_base-${counter}-full $text_to_speech_engine $lang $cache_directory");
         }
 
         $count++;
@@ -713,6 +718,7 @@ sub print_usage {
   print "  Optional:\n";
   print "    -i, --input          name of the text file containing the script to render\n";
   print "    -o, --output         directory to use for temporary files and output mp3 files\n";
+  print "    -c, --cache          directory to use for cache specific files\n";
   print "    -s, --speeds         list of speeds in WPM. example -s 15 17 20\n";
   print "    -m, --maxprocs       maximum number of parallel processes to run\n";
   print "    --test               don't render audio -- just show what will be rendered -- useful when encoding text\n";
