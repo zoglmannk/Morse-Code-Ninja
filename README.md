@@ -28,9 +28,11 @@ you may define AWS_KEY_ID and AWS_SECRET_ACCESS_KEY as environmental variables.
 
 
 # Usage
-
+#### EXAMPLE:
+    perl render.pl -i example.txt
+    
 #### NAME:
-    render.pl -- create mp3 audio files defined by an text file. <br/><br/>
+    render.pl -- create mp3 audio files defined by an text file.
 
 #### SYNOPSIS:
     perl render.pl -i file [-o directory] [-s speeds] [-m max processes] [--test] [-l word limit] 
@@ -66,7 +68,7 @@ The software has been used extensively to build the Morse Code Ninja Library.
 There are many opportunities to improve it.
 
 Do not invoke more than one render.pl script at a time without specifying unique output directories. The script will collide with itself if
-multiple copies were executing at the same time using the same output directory.
+multiple copies are executing at the same time using the same output directory.
 
 Be aware that the script can create a huge number of temporary files, which is proportional to the input file. Some types of filesystems will deal with this better than others.
 
