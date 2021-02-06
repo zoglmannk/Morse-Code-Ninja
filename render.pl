@@ -8,9 +8,11 @@ use File::Spec;
 use Getopt::Long;
 
 my @speeds;
+sub print_usage;
 
 GetOptions(
   'i|input=s'         => \(my $input_filename),
+  'o|output=s'        => \(my $output_directory = '.'),
   's|speeds=s{1,}'    => \@speeds,
   'm|maxprocs=i'      => \(my $max_processes = 10),
   'test'              => \(my $test = ''), # flag. 1 = don't render audio -- just show what will be rendered -- useful when encoding text
@@ -23,19 +25,26 @@ GetOptions(
   'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
   'x|extraspace=i'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
-) or die "Invalid options passed to $0\n";
+) or print_usage();
 
 if("$input_filename" eq "") {
-  print("An input text file is required.\n");
-  print("\nExample:\n");
+  print("***************************************\n");
+  print("Error: An input text file is required!!\n");
+  print("***************************************\n\n");
+  print("Example:\n");
   print("./render.pl -i example.txt");
-  print("\n\n");
-  exit(1);
+  print("\n\n\n");
+
+  print_usage();
 }
 
 # set default value for speeds here as it is too complex to do it inside the GetOptions call above
 my $speedSize = @speeds;
 @speeds = ($speedSize > 0) ? @speeds : ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
+
+if (! -d "$output_directory") {
+  mkdir "$output_directory";
+}
 
 my $lower_lang_chars_regex = "a-z";
 my $upper_lang_chars_regex = "A-Z";
@@ -56,7 +65,7 @@ print "processing file $filename\n";
 
 my ($file, $dirs, $suffix) = fileparse($filename, qr/\.[^.]*/);
 print "dirs: $dirs, file: $file, suffix: $suffix\n";
-
+$dirs = File::Spec->catfile($dirs, $output_directory);
 my $filename_base = File::Spec->catpath("", $dirs, $file);
 print "filename base: $filename_base\n";
 
@@ -75,42 +84,42 @@ $safe_content =~ s/\.\s+(?=\.)/./g; # turn . . . into ...
 if(!$test) {
   print "---- Generating silence and sound effect mp3 files...\n";
   #create silence
-  unlink "silence.mp3" if (-f "silence.mp3");
+  unlink "$output_directory/silence.mp3" if (-f "$output_directory/silence.mp3");
   @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050", "-t",
-             "$silence_between_sets", "-codec:a", "libmp3lame", "-b:a", "256k", "silence.mp3");
+             "$silence_between_sets", "-codec:a", "libmp3lame", "-b:a", "256k", "$output_directory/silence.mp3");
   # print("cmd-1: @cmdLst\n");
   system(@cmdLst) == 0 or die "ERROR 1: @cmdLst failed, $!\n";
 
   # This is the silence between the Morse code and the spoken voice
-  unlink "silence1.mp3" if (-f "silence1.mp3");
+  unlink "$output_directory/silence1.mp3" if (-f "$output_directory/silence1.mp3");
   @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
              "-t", "$silence_between_morse_code_and_spoken_voice", "-codec:a", "libmp3lame",
-             "-b:a", "256k", "silence1.mp3");
+             "-b:a", "256k", "$output_directory/silence1.mp3");
   # print "cmd-2: @cmdLst\n";
   system(@cmdLst) == 0 or die "ERROR 2: @cmdLst failed, $!\n";
 
   # This is the silence between the Morse code and the spoken voice
-  unlink 'silence2.mp3' if (-f 'silence2.mp3');
+  unlink "$output_directory/silence2.mp3" if (-f "$output_directory/silence2.mp3");
   @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
              "-t", "$silence_between_voice_and_repeat", "-codec:a", "libmp3lame",
-             "-b:a", "256k", "silence2.mp3");
+             "-b:a", "256k", "$output_directory/silence2.mp3");
   # print "cmd-3: @cmdLst\n";
   system(@cmdLst) == 0 or die "ERROR 3: @cmdLst failed, $!\n";
 
   #create quieter tone
-  unlink 'plink-softer.mp3' if (-f 'plink-softer.mp3');
-  $cmd = 'ffmpeg -i sounds/plink.mp3 -filter:a "volume=0.5" plink-softer.mp3';
-  # print "cmd-4: $cmd\n";
+  unlink "$output_directory/plink-softer.mp3" if (-f "$output_directory/plink-softer.mp3");
+  $cmd = 'ffmpeg -i sounds/plink.mp3 -filter:a "volume=0.5" '.$output_directory.'/plink-softer.mp3';
+  print "cmd-4: $cmd\n";
   system($cmd) == 0 or die "ERROR 4: $cmd failed, $!\n";
 
   #create quieter tone
-  unlink 'pluck-softer.mp3' if (-f 'pluck-softer.mp3');
-  $cmd = 'ffmpeg -i sounds/pluck.mp3 -filter:a "volume=0.5" pluck-softer.mp3';
-  # print "cmd-5: $cmd\n";
+  unlink "$output_directory/pluck-softer.mp3" if (-f "$output_directory/pluck-softer.mp3");
+  $cmd = 'ffmpeg -i sounds/pluck.mp3 -filter:a "volume=0.5" '.$output_directory.'/pluck-softer.mp3';
+  print "cmd-5: $cmd\n";
   system($cmd) == 0 or die "ERROR 5: $cmd failed, $!\n";
 
-  if (! -d "cache") {
-      mkdir "cache";
+  if (! -d "$output_directory/cache") {
+      mkdir "$output_directory/cache";
   }
 }
 
@@ -331,7 +340,7 @@ foreach(@sentences) {
 
         if(!$test) {
           $sentence_chunk =~ s/^\s+|\s+$//g; #extra space on the end adds new line!
-          open(my $fh, '>', 'sentence.txt');
+          open(my $fh, '>', "$output_directory/sentence.txt");
           print $fh "$sentence_chunk\n";
           close $fh;
 
@@ -388,36 +397,36 @@ foreach(@sentences) {
               if ($farnsworth != 0) {
                   $ebookCmd = $ebookCmd . "-e $farnsworth ";
               }
-              $ebookCmd = $ebookCmd . "-o sentence-${speed} sentence.txt";
+              $ebookCmd = $ebookCmd . "-o $output_directory/sentence-${speed} $output_directory/sentence.txt";
               # print "cmd-6: $ebookCmd\n";
               system($ebookCmd) == 0 or die "ERROR 6: $ebookCmd failed, $!\n";
 
-              unlink 'sentence-lower-volume-$speed.mp3' if (-f 'sentence-lower-volume-$speed.mp3');
+              unlink "$output_directory/sentence-lower-volume-$speed.mp3" if (-f "$output_directory/sentence-lower-volume-$speed.mp3");
 
-              $cmd = "ffmpeg -i sentence-${speed}0000.mp3 -filter:a \"volume=0.5\" sentence-lower-volume-${speed}.mp3\n";
+              $cmd = "ffmpeg -i $output_directory/sentence-${speed}0000.mp3 -filter:a \"volume=0.5\" $output_directory/sentence-lower-volume-${speed}.mp3\n";
               # print "cmd-7: $cmd\n";
               system($cmd) == 0 or die "ERROR 7: $cmd failed, $!\n";
               
               print "---- rename(sentence-lower-volume-${speed}.mp3, $filename_base-$counter-morse-$speed.mp3)\n";
-              rename("sentence-lower-volume-$speed.mp3", "$filename_base-$counter-morse-$speed.mp3");
+              rename("$output_directory/sentence-lower-volume-$speed.mp3", "$filename_base-$counter-morse-$speed.mp3");
 
               # generate repeat section if it is different than the sentence
               if($repeat_morse != 0 && $word_limit == -1 && $repeat_part ne $sentence_part) {
-                open(my $fh_repeat, '>', 'sentence-repeat.txt');
+                open(my $fh_repeat, '>', "$output_directory/sentence-repeat.txt");
                 print $fh_repeat "$repeat_part\n";
                 close $fh_repeat;
 
-                $cmd = "ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time $extra_word_spacing_option -f 700 -w $speed -s 44100 -o sentence-repeat-${speed} ";
+                $cmd = "ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time $extra_word_spacing_option -f 700 -w $speed -s 44100 -o $output_directory/sentence-repeat-${speed} ";
                 if ($farnsworth > 0) {
                   $cmd = $cmd . "-e $farnsworth ";
                 }
-                $cmd = $cmd . "sentence-repeat.txt";
+                $cmd = $cmd . "$output_directory/sentence-repeat.txt";
                 # print "cmd-8: $cmd\n";
                 system($cmd) == 0 or die "ERROR 8: $cmd failed, $!\n";
 
-                unlink 'sentence-repeat-lower-volume-$speed.mp3' if (-f 'sentence-repeat-lower-volume-$speed.mp3');
+                unlink "$output_directory/sentence-repeat-lower-volume-$speed.mp3" if (-f "$output_directory.sentence-repeat-lower-volume-$speed.mp3");
 
-                $cmd = sprintf('ffmpeg -i sentence-repeat-%d0000.mp3 -filter:a "volume=0.5" sentence-repeat-lower-volume-%d.mp3', $speed, $speed);
+                $cmd = sprintf('ffmpeg -i '.$output_directory.'/sentence-repeat-%d0000.mp3 -filter:a "volume=0.5" '.$output_directory.'/sentence-repeat-lower-volume-%d.mp3', $speed, $speed);
                 # print "cmd-9: $cmd\n";
                 system($cmd);
                 if ($? == -1) {
@@ -437,7 +446,7 @@ foreach(@sentences) {
                     }
                 }
                 
-                move("sentence-repeat-lower-volume-${speed}.mp3", "$filename_base-$counter-repeat-morse-$speed.mp3");
+                move("$output_directory/sentence-repeat-lower-volume-${speed}.mp3", "$filename_base-$counter-repeat-morse-$speed.mp3");
 
               }   # repeat morse if clause
 
@@ -452,7 +461,7 @@ foreach(@sentences) {
 
           # Generate spoken section
           if($word_limit != -1) {
-              rename('sentence.txt', '$filename_base-$counter.txt');
+              rename("$output_directory/sentence.txt", '$filename_base-$counter.txt');
           } else {
             open(my $fh_spoken, '>', "$filename_base-$counter.txt");
             print $fh_spoken "$spoken_directive\n";
@@ -498,11 +507,11 @@ foreach(@sentences) {
       print "saying the whole sentence: $sentence\n";
 
       if(!$test) {
-        open(my $fh, '>', 'sentence.txt');
+        open(my $fh, '>', $output_directory.'/sentence.txt');
         print $fh "$sentence\n";
 
         my $counter = sprintf("%05d",$count);
-        rename('sentence.txt ', '$filename_base-$counter-full.txt');
+        rename("$output_directory/sentence.txt ", '$filename_base-$counter-full.txt');
         my $exit_code = -1;
         while($exit_code != 0) {
           $exit_code = system('./text2speech.py '."$filename_base-${counter}-full $text_to_speech_engine $lang");
@@ -524,7 +533,7 @@ $count--;
 
 print "\n\nTotal sentences: $sentence_count\t segments: $count\n";
 if(!$test) {
-  my $cwd = getcwd();
+  my $cwd = getcwd()."/$output_directory";
 
   #lame documentation -- https://svn.code.sf.net/p/lame/svn/trunk/lame/USAGE
   unlink "$cwd/silence-resampled.mp3";
@@ -677,12 +686,44 @@ if(!$test) {
     else {
         $speed = $_;
     }
-    unlink "sentence-${speed}0000.mp3", "sentence-repeat-${speed}0000.mp3",  "$filename_base-list-${speed}wpm.txt", "silence.mp3";
+    unlink "$output_directory/sentence-${speed}0000.mp3", "$output_directory/sentence-repeat-${speed}0000.mp3",  "$filename_base-list-${speed}wpm.txt", "$output_directory/silence.mp3";
   }
   unlink "$filename_base-structure.txt", "$filename_base-sentences.txt";
-  unlink glob("silence*.mp3");
-  unlink glob("pluck*.mp3");
-  unlink glob("plink*.mp3");
-  unlink "sentence.txt";
-  unlink "sentence-repeat.txt";
+  unlink glob("$output_directory/silence*.mp3");
+  unlink glob("$output_directory/pluck*.mp3");
+  unlink glob("$output_directory/plink*.mp3");
+  unlink "$output_directory/sentence.txt";
+  unlink "$output_directory/sentence-repeat.txt";
 }
+
+sub print_usage {
+  print "\033[1mNAME:\033[0m\n";
+  print "  render.pl -- create mp3 audio files defined by an text file. \n\n";
+
+  print "\033[1mSYNOPSIS:\033[0m\n";
+  print "  perl render.pl -i file [-o directory] [-s speeds] [-m max processes] [--test] [-l word limit]\n";
+  print "                 [--repeat] [--tone] [-e NEURAL | STANDARD] [--sm] [--ss] [--sv] [-x]\n";
+  print "                 [--lang ENGLISH | SWEDISH]\n\n";
+  print "  Uses AWS Polly and requires valid credentials in the aws.properties file.\n\n";
+
+  print "\033[1mOPTIONS:\033[0m\n";
+  print "  Required:\n";
+  print "    -i, --input          name of the text file containing the script to render\n\n";
+
+  print "  Optional:\n";
+  print "    -i, --input          name of the text file containing the script to render\n";
+  print "    -o, --output         directory to use for temporary files and output mp3 files\n";
+  print "    -s, --speeds         list of speeds in WPM. example -s 15 17 20\n";
+  print "    -m, --maxprocs       maximum number of parallel processes to run\n";
+  print "    --test               don't render audio -- just show what will be rendered -- useful when encoding text\n";
+  print "    -l, --limit          word limit. 14 works great... 15 word limit for long sentences; -1 disables it\n";
+  print "    -r, --repeat         repeat morse after speech\n";
+  print "    --tone               include the courtesy tone\n";
+  print "    -e, --engine         name of Polly speech engine to use: NEURAL or STANDARD\n";
+  print "    --sm, --silencemorse \n";
+  print "    --ss, --silencesets  \n";
+  print "    --sv, --silencevoice \n";
+  print "    -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc\n";
+  print "    -l, --lang           language: ENGLISH or SWEDISH\n\n";
+  die "";
+};
