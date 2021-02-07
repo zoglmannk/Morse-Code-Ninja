@@ -1,11 +1,15 @@
 #!/usr/bin/perl
+
 use strict;
+use warnings;
+
 use Cwd;
 use File::Basename;
 use File::Copy;
 use File::Path;
 use File::Spec;
 use Getopt::Long;
+use Digest::SHA qw(sha256_base64);
 
 my @speeds;
 sub print_usage;
@@ -39,10 +43,6 @@ if("$input_filename" eq "") {
   print_usage();
 }
 
-if($cache_directory !~ m/^.*?\/$/) {
-  $cache_directory .= "/";
-}
-
 # set default value for speeds here as it is too complex to do it inside the GetOptions call above
 my $speedSize = @speeds;
 @speeds = ($speedSize > 0) ? @speeds : ("15", "17", "20", "22", "25", "28", "30", "35", "40", "45", "50");
@@ -51,6 +51,7 @@ if (! -d "$output_directory") {
   mkdir "$output_directory";
 }
 
+$cache_directory = File::Spec->rel2abs( $cache_directory ) . "/" ;
 if (! -d "$cache_directory") {
   mkdir "$cache_directory";
 }
@@ -282,6 +283,7 @@ my $sentence_count = 1;
 my $count = 1;
 my $is_sentence = 1;
 my $sentence;
+my %filename_map;
 open(my $fh_all, '>', "$filename_base-sentences.txt");
 open(my $fh_structure, '>', "$filename_base-structure.txt");
 
@@ -363,6 +365,66 @@ foreach(@sentences) {
               $fork_count--;
             }
 
+            if($speed =~ m/(\d+)\/(\d+)/) {
+              $speed = $1;
+              $farnsworth = $2;
+            }
+
+            my $rise_and_fall_time;
+            my $speed_as_num = int($speed);
+            if($speed_as_num < 35) {
+              $rise_and_fall_time = 100;
+            } elsif($speed_as_num >= 35 && $speed_as_num <= 40) {
+              $rise_and_fall_time = 150;
+            } else {
+              $rise_and_fall_time = 200;
+            }
+
+            my $lang_option = "";
+            if($lang ne "ENGLISH") {
+              $lang_option = "-u";
+            }
+
+            my $extra_word_spacing_option = "";
+            if ($extra_word_spacing != 0) {
+              $extra_word_spacing_option = "-W " . $extra_word_spacing;
+            }
+
+            my $ebookCmdBase = "ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time " .
+                "$extra_word_spacing_option -f 700 -w $speed -s 44100 ";
+            if ($farnsworth != 0) {
+              $ebookCmdBase = $ebookCmdBase . "-e $farnsworth ";
+            }
+
+            sub get_cached_filename {
+              my ($ebookCmdBase, $morse_text) = @_;
+
+              my $cached_file_hash = sha256_base64($ebookCmdBase . $morse_text);
+              $cached_file_hash =~ s/\///g;
+              my $cached_file = $cached_file_hash . ".mp3";
+
+              if (! -d "${cache_directory}ebook2cw") {
+                mkdir "${cache_directory}ebook2cw";
+              }
+
+              my $cached_filepath = $cache_directory . "ebook2cw/" . substr($cached_file_hash, 0, 2) . "/";
+
+              if (! -d "$cached_filepath") {
+                mkdir "$cached_filepath";
+              }
+
+              my $cached_file_with_path = $cached_filepath . $cached_file;
+              return $cached_file_with_path;
+            }
+
+            my $cached_filename = get_cached_filename($ebookCmdBase, $sentence_chunk);
+            $filename_map{"$counter-$speed"} = $cached_filename;
+
+            my $cached_repeat_filename = get_cached_filename($ebookCmdBase, $repeat_part);
+            if($repeat_morse != 0 && $word_limit == -1 && $repeat_part ne $sentence_part) {
+              $filename_map{"$counter-repeat-$speed"} = $cached_repeat_filename;
+            }
+
             my $pid = fork();
             die if not defined $pid;
             if($pid) {
@@ -371,63 +433,39 @@ foreach(@sentences) {
               print "fork() -- pid: $pid\n";  
 
             } else {
-              #child process
-              if($speed =~ m/(\d+)\/(\d+)/) {
-                $speed = $1;
-                $farnsworth = $2;
+
+              if(! -f $cached_filename) {
+                $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-${speed} $output_directory/sentence.txt";
+                #print "cmd-6: $ebookCmd\n";
+
+                system($ebookCmd) == 0 or die "ERROR 6: $ebookCmd failed, $!\n";
+
+                unlink "$output_directory/sentence-lower-volume-$speed.mp3" if (-f "$output_directory/sentence-lower-volume-$speed.mp3");
+
+                $cmd = "ffmpeg -i $output_directory/sentence-${speed}0000.mp3 -filter:a \"volume=0.5\" $output_directory/sentence-lower-volume-${speed}.mp3\n";
+                # print "cmd-7: $cmd\n";
+                system($cmd) == 0 or die "ERROR 7: $cmd failed, $!\n";
+
+                @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
+                    "$output_directory/sentence-lower-volume-$speed.mp3",
+                    "$output_directory/sentence-lower-volume-$speed-resampled.mp3");
+                # print "cmdLst-16: @cmdLst\n";
+                system(@cmdLst) == 0 or die "ERROR: @cmdLst failed, $!\n";
+
+                unlink "$output_directory/sentence-lower-volume-$speed.mp3" if (-f "$output_directory/sentence-lower-volume-$speed.mp3");
+                print "---- move($output_directory/sentence-lower-volume-$speed-resampled.mp3, $cached_filename)\n";
+                move("$output_directory/sentence-lower-volume-$speed-resampled.mp3", $cached_filename);
               }
-
-              my $rise_and_fall_time;
-              my $speed_as_num = int($speed);
-              if($speed_as_num < 35) {
-                $rise_and_fall_time = 100;
-              } elsif($speed_as_num >= 35 && $speed_as_num <= 40) {
-                $rise_and_fall_time = 150;
-              } else {
-                $rise_and_fall_time = 200;
-              }
-
-              my $lang_option = "";
-              if($lang ne "ENGLISH") {
-                $lang_option = "-u";
-              }
-
-              my $extra_word_spacing_option = "";
-              if ($extra_word_spacing != 0) {
-                $extra_word_spacing_option = "-W " . $extra_word_spacing;
-              }
-
-              $ebookCmd = "ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time " .
-                  "$extra_word_spacing_option -f 700 -w $speed -s 44100 ";
-              if ($farnsworth != 0) {
-                  $ebookCmd = $ebookCmd . "-e $farnsworth ";
-              }
-              $ebookCmd = $ebookCmd . "-o $output_directory/sentence-${speed} $output_directory/sentence.txt";
-              # print "cmd-6: $ebookCmd\n";
-              system($ebookCmd) == 0 or die "ERROR 6: $ebookCmd failed, $!\n";
-
-              unlink "$output_directory/sentence-lower-volume-$speed.mp3" if (-f "$output_directory/sentence-lower-volume-$speed.mp3");
-
-              $cmd = "ffmpeg -i $output_directory/sentence-${speed}0000.mp3 -filter:a \"volume=0.5\" $output_directory/sentence-lower-volume-${speed}.mp3\n";
-              # print "cmd-7: $cmd\n";
-              system($cmd) == 0 or die "ERROR 7: $cmd failed, $!\n";
-              
-              print "---- rename(sentence-lower-volume-${speed}.mp3, $filename_base-$counter-morse-$speed.mp3)\n";
-              rename("$output_directory/sentence-lower-volume-$speed.mp3", "$filename_base-$counter-morse-$speed.mp3");
 
               # generate repeat section if it is different than the sentence
-              if($repeat_morse != 0 && $word_limit == -1 && $repeat_part ne $sentence_part) {
+              if($repeat_morse != 0 && $word_limit == -1 && $repeat_part ne $sentence_part && (! -f $cached_repeat_filename)) {
                 open(my $fh_repeat, '>', "$output_directory/sentence-repeat.txt");
                 print $fh_repeat "$repeat_part\n";
                 close $fh_repeat;
 
-                $cmd = "ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time $extra_word_spacing_option -f 700 -w $speed -s 44100 -o $output_directory/sentence-repeat-${speed} ";
-                if ($farnsworth > 0) {
-                  $cmd = $cmd . "-e $farnsworth ";
-                }
-                $cmd = $cmd . "$output_directory/sentence-repeat.txt";
-                # print "cmd-8: $cmd\n";
-                system($cmd) == 0 or die "ERROR 8: $cmd failed, $!\n";
+                $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-repeat-${speed} $output_directory/sentence-repeat.txt";
+                # print "cmd-8: $ebookCmd\n";
+                system($ebookCmd) == 0 or die "ERROR 8: $cmd failed, $!\n";
 
                 unlink "$output_directory/sentence-repeat-lower-volume-$speed.mp3" if (-f "$output_directory.sentence-repeat-lower-volume-$speed.mp3");
 
@@ -450,9 +488,15 @@ foreach(@sentences) {
                         exit 9;
                     }
                 }
-                
-                move("$output_directory/sentence-repeat-lower-volume-${speed}.mp3", "$filename_base-$counter-repeat-morse-$speed.mp3");
+                unlink "${output_directory}/sentence-repeat-${speed}0000.mp3";
 
+                @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
+                    "$output_directory/sentence-repeat-lower-volume-${speed}.mp3",
+                    "$output_directory/sentence-repeat-lower-volume-${speed}-resampled.mp3");
+                # print "cmd-18: @cmdLst\n";
+                system(@cmdLst) == 0 or die "ERROR 18: @cmdLst failed, $!\n";
+
+                move("$output_directory/sentence-repeat-lower-volume-${speed}-resampled.mp3", $cached_repeat_filename);
               }   # repeat morse if clause
 
               exit;
@@ -620,35 +664,26 @@ if(!$test) {
           }
 
           @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
-                     "$filename_base-$counter-morse-$speed.mp3",
-                     "$filename_base-$counter-morse-$speed-resampled.mp3");
-          # print "cmdLst-16: @cmdLst\n";
-          system(@cmdLst) == 0 or die "ERROR: @cmdLst failed, $!\n";
-
-          @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
                      "$filename_base-$counter-voice.mp3",
                      "$filename_base-$counter-voice-resampled-$speed.mp3");
           # print "cmd-17: @cmdLst\n";
           system(@cmdLst) == 0 or die "ERROR 17: @cmdLst failed, $!\n";
 
-          print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$filename_base-$counter-morse-$speed-resampled.mp3'\nfile '$cwd/silence-resampled1.mp3'\nfile '$filename_base-$counter-voice-resampled-$speed.mp3'\n";
+          my $cached_filename = $filename_map{"$counter-$speed"};
+          my $cached_repeat_filename = $filename_map{"$counter-repeat-$speed"};
+          #print "cached_filename: $cached_filename\n";
+          #print "cached_repeat_filename: $cached_repeat_filename\n";
+          print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$filename_base-$counter-voice-resampled-$speed.mp3'\n";
 
           if($repeat_morse == 0) {
             print $fh_list "file '$cwd/silence-resampled.mp3'\n";
           } else {
             print $fh_list "file '$cwd/silence-resampled2.mp3'\n";
-            if (-e "$filename_base-$counter-repeat-morse-$speed.mp3") {
-              @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
-                         "$filename_base-$counter-repeat-morse-$speed.mp3",
-                         "$filename_base-$counter-repeat-morse-$speed-resampled.mp3");
-              # print "cmd-18: @cmdLst\n";
-              system(@cmdLst) == 0 or die "ERROR 18: @cmdLst failed, $!\n";
 
-              print $fh_list "file '$filename_base-$counter-repeat-morse-$speed-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\n";
-
+            if (-e "$cached_repeat_filename") {
+              print $fh_list "file '$cached_repeat_filename'\nfile '$cwd/silence-resampled.mp3'\n";
             } else {
-
-              print $fh_list "file '$filename_base-$counter-morse-$speed-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\n";
+              print $fh_list "file '$cached_filename'\nfile '$cwd/silence-resampled.mp3'\n";
             }
           }
 
@@ -732,4 +767,4 @@ sub print_usage {
   print "    -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc\n";
   print "    -l, --lang           language: ENGLISH or SWEDISH\n\n";
   die "";
-};
+}
