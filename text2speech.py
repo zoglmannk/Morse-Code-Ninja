@@ -60,18 +60,19 @@ cache_filename = cache_directory + hex_digest + ".mp3"
 
 
 def render(cache_filename, voice_id, text_type, text):
-    polly_client = boto3.Session(aws_access_key_id=aws_properties['aws_access_key_id'],
-                                 aws_secret_access_key=aws_properties['aws_secret_access_key'],
-                                 region_name='us-east-1').client('polly')
-    if text_type is None:
-        response = polly_client.synthesize_speech(Engine=engine_type, VoiceId=voice_id, OutputFormat='mp3', Text=text)
-    else:
-        response = polly_client.synthesize_speech(Engine=engine_type, VoiceId=voice_id, OutputFormat='mp3',
-                                                  TextType=text_type, Text=text)
+    if not os.path.exists(cache_filename):
+        polly_client = boto3.Session(aws_access_key_id=aws_properties['aws_access_key_id'],
+                                     aws_secret_access_key=aws_properties['aws_secret_access_key'],
+                                     region_name='us-east-1').client('polly')
+        if text_type is None:
+            response = polly_client.synthesize_speech(Engine=engine_type, VoiceId=voice_id, OutputFormat='mp3', Text=text)
+        else:
+            response = polly_client.synthesize_speech(Engine=engine_type, VoiceId=voice_id, OutputFormat='mp3',
+                                                      TextType=text_type, Text=text)
 
-    file = open(cache_filename, 'wb')
-    file.write(response['AudioStream'].read())
-    file.close()
+        file = open(cache_filename, 'wb')
+        file.write(response['AudioStream'].read())
+        file.close()
 
 
 if language == "ENGLISH":
