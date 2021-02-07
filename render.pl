@@ -521,21 +521,28 @@ foreach(@sentences) {
           my $exit_code = -1;
           while($exit_code != 0) {
             my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
-              
-            print "execute text2speech.py: \"$textFile\" $text_to_speech_engine $lang $cache_directory\n";
-              
-            $exit_code = system("./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory");
-            if ($? == -1) {
+
+            my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
+            print "execute $cmd\n";
+
+            my $output = `$cmd`;
+            print "$output";
+            $exit_code = $?;
+            $output =~ m/Cached filename:(.*)\n/;
+            my $voiced_filename = $1;
+            print "voiced_filename: $voiced_filename\n";
+            $filename_map{"$counter-voiced"} = $voiced_filename;
+            if ($exit_code == -1) {
                 print "ERROR: text2speech.py failed to execute: $!\n";
                 exit 1;
             }
-            elsif ($? & 127) {
+            elsif ($exit_code & 127) {
                 printf "text2speech.py died with signal %d, %s coredump\n",
-                    ($? & 127), ($? & 128) ? 'with' : 'without';
+                    ($exit_code & 127), ($exit_code & 128) ? 'with' : 'without';
                 exit 1;
             }
             else {
-                my $ecode = $? >> 8;
+                my $ecode = $exit_code >> 8;
                 printf "text2speech.py exited with value %d\n", $ecode;
 
                 if ($ecode == 1) {
@@ -564,7 +571,13 @@ foreach(@sentences) {
         rename("$output_directory/sentence.txt ", '$filename_base-$counter-full.txt');
         my $exit_code = -1;
         while($exit_code != 0) {
-          $exit_code = system('./text2speech.py '."$filename_base-${counter}-full $text_to_speech_engine $lang $cache_directory");
+          my $cmd = './text2speech.py '."$filename_base-${counter}-full $text_to_speech_engine $lang $cache_directory";
+          my $output = `$cmd`;
+          $output =~ m/^Cached filename:(.*)\n/;
+          my $full_voiced_filename = $1;
+          print "full voiced_filename: $full_voiced_filename\n";
+          $filename_map{"$counter-full-voiced"} = $full_voiced_filename;
+          $exit_code = $?;
         }
 
         $count++;
@@ -646,15 +659,8 @@ if(!$test) {
 
         #if full sentence
         if(-e "$filename_base-$counter-full-voice.mp3") {
-          print $fh_list "file '$cwd/pluck-softer-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\nfile '$filename_base-$counter-full-voice-resampled-$speed.mp3'\nfile '$cwd/silence-resampled.mp3'\n";
-
-          @cmdLst = ('lame', '--resample', '44.1', '-a', '-b', '256', "$filename_base-$counter-full-voice.mp3", "$filename_base-$counter-full-voice-resampled-$speed.mp3");
-          # print "cmdLst-15:\n";
-          foreach (@cmdLst) {
-              print "-- $_\n";
-          }
-          # print "cmd-16: @cmdLst\n";
-          system(@cmdLst) == 0 or die "ERROR 16: @cmdLst failed, $!\n";
+          my $cached_full_voiced_filename = $filename_map{"$counter-full-voiced"};
+          print $fh_list "file '$cwd/pluck-softer-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\nfile '$cached_full_voiced_filename'\nfile '$cwd/silence-resampled.mp3'\n";
 
         } else {
           # Not full sentence\n";
@@ -664,17 +670,13 @@ if(!$test) {
             print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
           }
 
-          @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
-                     "$filename_base-$counter-voice.mp3",
-                     "$filename_base-$counter-voice-resampled-$speed.mp3");
-          # print "cmd-17: @cmdLst\n";
-          system(@cmdLst) == 0 or die "ERROR 17: @cmdLst failed, $!\n";
-
           my $cached_filename = $filename_map{"$counter-$speed"};
           my $cached_repeat_filename = $filename_map{"$counter-repeat-$speed"};
+          my $cached_voiced_filename = $filename_map{"$counter-voiced"};
           #print "cached_filename: $cached_filename\n";
           #print "cached_repeat_filename: $cached_repeat_filename\n";
-          print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$filename_base-$counter-voice-resampled-$speed.mp3'\n";
+          print "cached_voiced_filename: $cached_voiced_filename\n";
+          print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
 
           if($repeat_morse == 0) {
             print $fh_list "file '$cwd/silence-resampled.mp3'\n";
@@ -687,7 +689,6 @@ if(!$test) {
               print $fh_list "file '$cached_filename'\nfile '$cwd/silence-resampled.mp3'\n";
             }
           }
-
 
         }
       }
