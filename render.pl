@@ -78,6 +78,7 @@ print "dirs: $dirs, file: $file, suffix: $suffix\n";
 $dirs = File::Spec->catfile($dirs, $output_directory);
 my $filename_base = File::Spec->catpath("", $dirs, $file);
 print "filename base: $filename_base\n";
+my $filename_base_without_path = $file;
 
 open my $fh, '<', $filename or die "Can't open file $!";
 my $file_content = do { local $/; <$fh> };
@@ -694,7 +695,7 @@ if(!$test) {
       #see -- https://superuser.com/questions/314239/how-to-join-merge-many-mp3-files  or   https://trac.ffmpeg.org/wiki/Concatenate
       @cmdLst = ("ffmpeg", "-f", "concat", "-safe", "0", "-i", 
                  "$filename_base-list-${speed}wpm.txt", "-codec:a", "libmp3lame", "-metadata",
-                 "title=\"$filename_base $speed"."wpm\"", "-c", "copy",
+                 "title=$filename_base_without_path ${speed}wpm", "-c", "copy",
                  "$filename_base-$speed"."wpm.mp3");
       # print "cmd-19: @cmdLst\n";
       system(@cmdLst) == 0 or die "ERROR 19: @cmdLst failed, $!\n";
