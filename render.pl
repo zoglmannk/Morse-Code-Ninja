@@ -763,9 +763,9 @@ sub print_usage {
   print "    -r, --repeat         repeat morse after speech\n";
   print "    --tone               include the courtesy tone\n";
   print "    -e, --engine         name of Polly speech engine to use: NEURAL or STANDARD\n";
-  print "    --sm, --silencemorse \n";
-  print "    --ss, --silencesets  \n";
-  print "    --sv, --silencevoice \n";
+  print "    --sm, --silencemorse length of silence between Morse code and spoken voice. Default 1 second.\n";
+  print "    --ss, --silencesets  length of silence between courtesy tone and next practice set. Default 1 second.\n";
+  print "    --sv, --silencevoice length of silence between spoken voice and repeated morse code. Default 1 second.\n";
   print "    -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc\n";
   print "    -l, --lang           language: ENGLISH or SWEDISH\n\n";
   die "";

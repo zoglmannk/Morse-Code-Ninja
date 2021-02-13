@@ -44,25 +44,24 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
 #### OPTIONS:
 
 ##### Required:
-    -i, --input          name of the text file containing the script to render
+    -i, --input           name of the text file containing the script to render
 
 #### Optional:
-    -i, --input          name of the text file containing the script to render
-    -o, --output         directory to use for temporary files and output mp3 files
-    -c, --cache          directory to use for cache specific files
-    -s, --speeds         list of speeds in WPM. example -s 15 17 20
-    -m, --maxprocs       maximum number of parallel processes to run
-    --test               don't render audio -- just show what will be rendered -- useful when encoding text
-    -l, --limit          word limit. 14 works great... 15 word limit for long sentences; -1 disables it
-    -r, --repeat         repeat morse after speech
-    --tone               include the courtesy tone
-    -e, --engine         name of Polly speech engine to use: NEURAL or STANDARD
-    --sm, --silencemorse
-    --ss, --silencesets
-    --sv, --silencevoice
-    -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
-    -l, --lang           language: ENGLISH or SWEDISH
-
+    -i, --input           name of the text file containing the script to render
+    -o, --output          directory to use for temporary files and output mp3 files
+    -c, --cache           directory to use for cache specific files
+    -s, --speeds          list of speeds in WPM. example -s 15 17 20
+    -m, --maxprocs        maximum number of parallel processes to run
+    --test                don't render audio -- just show what will be rendered -- useful when encoding text
+    -l, --limit           word limit. 14 works great... 15 word limit for long sentences; -1 disables it
+    -r, --repeat          repeat morse after speech
+    --tone                include the courtesy tone
+    -e, --engine          name of Polly speech engine to use: NEURAL or STANDARD
+    --sm, --silencemorse  length of silence between Morse code and spoken voice. Default 1 second.
+    --ss, --silencesets   length of silence between courtesy tone and next practice set. Default 1 second.
+    --sv, --silencevoice  length of silence between spoken voice and repeated morse code. Default 1 second.
+    -x, --extraspace      0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
+    -l, --lang            language: ENGLISH or SWEDISH
 
 # General Notes
 The software has been used extensively to build the Morse Code Ninja Library.
