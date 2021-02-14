@@ -725,7 +725,7 @@ if(!$test) {
             } else {
 
               if($speed_racing == 1) {
-                my $max_speed = $speed * $speed_racing_multiplier;
+                my $max_speed = ceil($speed * $speed_racing_multiplier);
                 my $cached_filename = $filename_map{"$counter-$max_speed"};
                 print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_filename'\n";
                 print $fh_list "file '$cwd/silence-resampled.mp3'\n";
