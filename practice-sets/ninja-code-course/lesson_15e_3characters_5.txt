@@ -1,0 +1,400 @@
+t l i [t,l,i]^
+h 1 5 [h,1, 5]^
+1 5 e [1, 5,e]^
+5 d n [5,d,n]^
+d 5 r [d,5,r]^
+5 o s [5,o,s]^
+e r a [e,r,a]^
+n t i [n,t,i]^
+h d a [h,d,a]^
+5 e 5 [5,e,5]^
+n 2 5 [n,2, 5]^
+i d l [i,d,l]^
+r 5 n [r,5,n]^
+i e d [i,e,d]^
+2 h l [2,h,l]^
+a 1 o [a,1,o]^
+l s 5 [l,s,5]^
+i l n [i,l,n]^
+l 5 l [l,5,l]^
+s e 5 [s,e,5]^
+t a 2 [t,a,2]^
+a 5 l [a,5,l]^
+d 5 l [d,5,l]^
+i o r [i,o,r]^
+4 t h [4,t,h]^
+t h 1 [t,h,1]^
+5 1 e [5, 1,e]^
+t d 5 [t,d,5]^
+i s 5 [i,s,5]^
+e i t [e,i,t]^
+d o d [d,o,d]^
+a i r [a,i,r]^
+4 l 5 [4,l,5]^
+2 a o [2,a,o]^
+2 e 5 [2,e,5]^
+s l d [s,l,d]^
+s d n [s,d,n]^
+5 2 s [5, 2,s]^
+l r s [l,r,s]^
+h n r [h,n,r]^
+d 5 1 [d,5, 1]^
+i 4 d [i,4,d]^
+5 1 e [5, 1,e]^
+n 5 a [n,5,a]^
+o 5 i [o,5,i]^
+4 e a [4,e,a]^
+5 a 5 [5,a,5]^
+h 1 a [h,1,a]^
+2 i 2 [2,i,2]^
+r h o [r,h,o]^
+h s 5 [h,s,5]^
+n 5 l [n,5,l]^
+5 1 4 [5, 1, 4]^
+r t r [r,t,r]^
+h t e [h,t,e]^
+1 5 h [1, 5,h]^
+n 5 i [n,5,i]^
+2 e 5 [2,e,5]^
+r d 5 [r,d,5]^
+e 5 s [e,5,s]^
+e 5 t [e,5,t]^
+4 s 5 [4,s,5]^
+i e t [i,e,t]^
+2 n d [2,n,d]^
+2 1 d [2, 1,d]^
+o 1 s [o,1,s]^
+n r e [n,r,e]^
+d l 4 [d,l,4]^
+2 1 i [2, 1,i]^
+e 1 5 [e,1, 5]^
+a t i [a,t,i]^
+t 4 e [t,4,e]^
+i 5 1 [i,5, 1]^
+t i t [t,i,t]^
+4 e 5 [4,e,5]^
+1 o t [1,o,t]^
+1 n t [1,n,t]^
+1 4 5 [1, 4, 5]^
+l 5 1 [l,5, 1]^
+s n a [s,n,a]^
+4 t e [4,t,e]^
+i 5 4 [i,5, 4]^
+s r o [s,r,o]^
+r l n [r,l,n]^
+h 1 l [h,1,l]^
+s 5 d [s,5,d]^
+4 e s [4,e,s]^
+d e 5 [d,e,5]^
+d 4 o [d,4,o]^
+d t 4 [d,t,4]^
+i d 1 [i,d,1]^
+n 4 5 [n,4, 5]^
+l e 5 [l,e,5]^
+s o 5 [s,o,5]^
+1 t d [1,t,d]^
+s n 2 [s,n,2]^
+e d h [e,d,h]^
+4 l 5 [4,l,5]^
+s 5 d [s,5,d]^
+s t 5 [s,t,5]^
+e n 5 [e,n,5]^
+s d o [s,d,o]^
+r d 4 [r,d,4]^
+5 s i [5,s,i]^
+t l r [t,l,r]^
+n t r [n,t,r]^
+2 n 5 [2,n,5]^
+l r 2 [l,r,2]^
+a h o [a,h,o]^
+l 5 1 [l,5, 1]^
+d i 4 [d,i,4]^
+h a r [h,a,r]^
+s 2 5 [s,2, 5]^
+4 n 5 [4,n,5]^
+o 5 e [o,5,e]^
+4 h r [4,h,r]^
+i d 4 [i,d,4]^
+s o h [s,o,h]^
+i n 2 [i,n,2]^
+s 4 l [s,4,l]^
+s a l [s,a,l]^
+5 d 1 [5,d,1]^
+o 5 i [o,5,i]^
+5 l r [5,l,r]^
+o i 1 [o,i,1]^
+n i r [n,i,r]^
+a s n [a,s,n]^
+1 s o [1,s,o]^
+l r o [l,r,o]^
+i l 2 [i,l,2]^
+e d h [e,d,h]^
+5 r n [5,r,n]^
+e a 5 [e,a,5]^
+n i d [n,i,d]^
+h s a [h,s,a]^
+o n e [o,n,e]^
+i 4 i [i,4,i]^
+4 l 5 [4,l,5]^
+l 5 4 [l,5, 4]^
+5 2 i [5, 2,i]^
+o a 5 [o,a,5]^
+l n 1 [l,n,1]^
+o d 2 [o,d,2]^
+a d 1 [a,d,1]^
+l i 1 [l,i,1]^
+2 5 n [2, 5,n]^
+5 e 5 [5,e,5]^
+a h e [a,h,e]^
+t l 5 [t,l,5]^
+a o e [a,o,e]^
+5 i 1 [5,i,1]^
+n o t [n,o,t]^
+l n a [l,n,a]^
+l d 5 [l,d,5]^
+a l d [a,l,d]^
+1 4 s [1, 4,s]^
+5 d 4 [5,d,4]^
+e a 5 [e,a,5]^
+d h d [d,h,d]^
+1 5 4 [1, 5, 4]^
+o d 4 [o,d,4]^
+2 4 n [2, 4,n]^
+o n 5 [o,n,5]^
+1 s a [1,s,a]^
+h 5 l [h,5,l]^
+5 d a [5,d,a]^
+r 5 o [r,5,o]^
+l s 1 [l,s,1]^
+4 h 1 [4,h,1]^
+l 5 4 [l,5, 4]^
+5 n r [5,n,r]^
+a t n [a,t,n]^
+5 h i [5,h,i]^
+d s 5 [d,s,5]^
+l o h [l,o,h]^
+o s d [o,s,d]^
+n d n [n,d,n]^
+1 r o [1,r,o]^
+2 1 2 [2, 1, 2]^
+n i 5 [n,i,5]^
+n t a [n,t,a]^
+r o s [r,o,s]^
+5 2 e [5, 2,e]^
+5 t i [5,t,i]^
+4 t 2 [4,t,2]^
+e 5 2 [e,5, 2]^
+1 2 i [1, 2,i]^
+h e a [h,e,a]^
+n i 5 [n,i,5]^
+r d n [r,d,n]^
+l a 5 [l,a,5]^
+d 1 5 [d,1, 5]^
+2 s o [2,s,o]^
+r 1 o [r,1,o]^
+5 t 1 [5,t,1]^
+e 5 r [e,5,r]^
+5 e 5 [5,e,5]^
+2 e n [2,e,n]^
+r 2 o [r,2,o]^
+5 4 s [5, 4,s]^
+5 r 4 [5,r,4]^
+a 5 l [a,5,l]^
+5 1 5 [5, 1, 5]^
+4 n e [4,n,e]^
+n i o [n,i,o]^
+4 d l [4,d,l]^
+a r 2 [a,r,2]^
+e s r [e,s,r]^
+o 5 l [o,5,l]^
+5 4 t [5, 4,t]^
+s 5 r [s,5,r]^
+d h 5 [d,h,5]^
+i 1 s [i,1,s]^
+l r 5 [l,r,5]^
+e 2 o [e,2,o]^
+r 4 n [r,4,n]^
+a 5 h [a,5,h]^
+5 o 4 [5,o,4]^
+r i n [r,i,n]^
+1 d r [1,d,r]^
+o t d [o,t,d]^
+a 5 h [a,5,h]^
+s e h [s,e,h]^
+i e s [i,e,s]^
+5 1 l [5, 1,l]^
+a 2 a [a,2,a]^
+s 5 s [s,5,s]^
+5 4 r [5, 4,r]^
+1 l 5 [1,l,5]^
+2 s a [2,s,a]^
+e d 2 [e,d,2]^
+5 n i [5,n,i]^
+s 5 i [s,5,i]^
+n 4 5 [n,4, 5]^
+r s o [r,s,o]^
+n l s [n,l,s]^
+e 5 i [e,5,i]^
+5 r a [5,r,a]^
+n l n [n,l,n]^
+s 5 o [s,5,o]^
+4 d h [4,d,h]^
+5 t d [5,t,d]^
+a s e [a,s,e]^
+i a 4 [i,a,4]^
+i a 4 [i,a,4]^
+n s i [n,s,i]^
+s d 5 [s,d,5]^
+d o l [d,o,l]^
+e 5 n [e,5,n]^
+d 2 s [d,2,s]^
+a i 5 [a,i,5]^
+l 1 r [l,1,r]^
+5 r o [5,r,o]^
+5 2 4 [5, 2, 4]^
+r d 5 [r,d,5]^
+r a 2 [r,a,2]^
+i a i [i,a,i]^
+5 r t [5,r,t]^
+r 5 1 [r,5, 1]^
+r e n [r,e,n]^
+o d i [o,d,i]^
+4 5 4 [4, 5, 4]^
+5 i d [5,i,d]^
+5 a 5 [5,a,5]^
+a e 5 [a,e,5]^
+h 1 4 [h,1, 4]^
+5 r n [5,r,n]^
+a 5 1 [a,5, 1]^
+5 n 5 [5,n,5]^
+l r 5 [l,r,5]^
+2 l r [2,l,r]^
+t 5 a [t,5,a]^
+o 5 d [o,5,d]^
+4 r 1 [4,r,1]^
+e o 5 [e,o,5]^
+h a i [h,a,i]^
+r n 1 [r,n,1]^
+2 a s [2,a,s]^
+5 o l [5,o,l]^
+e 1 n [e,1,n]^
+5 1 5 [5, 1, 5]^
+n h 5 [n,h,5]^
+d 5 d [d,5,d]^
+n 2 i [n,2,i]^
+l 5 r [l,5,r]^
+1 o i [1,o,i]^
+2 5 i [2, 5,i]^
+t s 1 [t,s,1]^
+o 5 d [o,5,d]^
+l n t [l,n,t]^
+e d 5 [e,d,5]^
+n 5 l [n,5,l]^
+5 a r [5,a,r]^
+5 1 h [5, 1,h]^
+d r 5 [d,r,5]^
+d i l [d,i,l]^
+5 t d [5,t,d]^
+t 4 l [t,4,l]^
+d o r [d,o,r]^
+n o n [n,o,n]^
+l 2 d [l,2,d]^
+5 2 1 [5, 2, 1]^
+5 r i [5,r,i]^
+5 e 1 [5,e,1]^
+t 5 d [t,5,d]^
+4 r d [4,r,d]^
+e 2 1 [e,2, 1]^
+e 4 r [e,4,r]^
+s 5 l [s,5,l]^
+e a r [e,a,r]^
+t 2 1 [t,2, 1]^
+h n s [h,n,s]^
+1 e i [1,e,i]^
+5 2 5 [5, 2, 5]^
+i d o [i,d,o]^
+5 r t [5,r,t]^
+d n t [d,n,t]^
+i r s [i,r,s]^
+5 4 o [5, 4,o]^
+d o d [d,o,d]^
+l d 1 [l,d,1]^
+2 r n [2,r,n]^
+5 e o [5,e,o]^
+s n 5 [s,n,5]^
+s 5 e [s,5,e]^
+l s l [l,s,l]^
+o l d [o,l,d]^
+5 1 n [5, 1,n]^
+5 h e [5,h,e]^
+i d 5 [i,d,5]^
+o 5 a [o,5,a]^
+r 5 n [r,5,n]^
+h e 5 [h,e,5]^
+e 5 s [e,5,s]^
+i o 2 [i,o,2]^
+t o 4 [t,o,4]^
+1 4 5 [1, 4, 5]^
+d r 5 [d,r,5]^
+t 2 l [t,2,l]^
+1 2 5 [1, 2, 5]^
+s r 2 [s,r,2]^
+o n 5 [o,n,5]^
+n h n [n,h,n]^
+5 4 2 [5, 4, 2]^
+1 s t [1,s,t]^
+n 2 5 [n,2, 5]^
+4 r 2 [4,r,2]^
+e 5 i [e,5,i]^
+d a r [d,a,r]^
+s e 5 [s,e,5]^
+r 5 4 [r,5, 4]^
+r 5 a [r,5,a]^
+d h d [d,h,d]^
+h e d [h,e,d]^
+o t 4 [o,t,4]^
+1 5 i [1, 5,i]^
+e 1 a [e,1,a]^
+5 r i [5,r,i]^
+h 5 1 [h,5, 1]^
+s 5 r [s,5,r]^
+t l 1 [t,l,1]^
+a t h [a,t,h]^
+4 a 2 [4,a,2]^
+d e d [d,e,d]^
+2 h e [2,h,e]^
+o d 5 [o,d,5]^
+2 t e [2,t,e]^
+2 5 n [2, 5,n]^
+1 2 r [1, 2,r]^
+5 o 5 [5,o,5]^
+e 5 4 [e,5, 4]^
+o e r [o,e,r]^
+o h 5 [o,h,5]^
+o n d [o,n,d]^
+2 r n [2,r,n]^
+4 5 h [4, 5,h]^
+5 h 2 [5,h,2]^
+1 t 4 [1,t,4]^
+i 5 h [i,5,h]^
+a n l [a,n,l]^
+5 s n [5,s,n]^
+o d r [o,d,r]^
+5 a r [5,a,r]^
+d 5 1 [d,5, 1]^
+5 4 h [5, 4,h]^
+r s 4 [r,s,4]^
+r 1 5 [r,1, 5]^
+a 4 n [a,4,n]^
+4 o r [4,o,r]^
+a l 4 [a,l,4]^
+a s e [a,s,e]^
+d s 5 [d,s,5]^
+1 n r [1,n,r]^
+h 5 l [h,5,l]^
+2 5 1 [2, 5, 1]^
+o d 5 [o,d,5]^
+4 o d [4,o,d]^
+l o r [l,o,r]^
+5 d a [5,d,a]^
+t a 2 [t,a,2]^

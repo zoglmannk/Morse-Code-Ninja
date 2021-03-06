@@ -1,0 +1,400 @@
+d 5 e [d,5,e]^
+2 w 2 [2,w,2]^
+t e 3 [t,e,3]^
+5 1 \? [5, 1, question mark]^
+d \? o [d, question mark ,o]^
+3 u 1 [3,u,1]^
+o u e [o,u,e]^
+\? r c [ question mark ,r,c]^
+l 3 \? [l,3, question mark]^
+i a c [i,a,c]^
+2 n w [2,n,w]^
+m w s [m,w,s]^
+e \? 4 [e, question mark ,4]^
+2 e d [2,e,d]^
+h \? d [h, question mark ,d]^
+e 4 \? [e,4, question mark]^
+4 \? 2 [4, question mark ,2]^
+\? n d [ question mark ,n,d]^
+h \? h [h, question mark ,h]^
+\? d c [ question mark ,d,c]^
+\? r i [ question mark ,r,i]^
+t a u [t,a,u]^
+e 4 o [e,4,o]^
+l i r [l,i,r]^
+1 e w [1,e,w]^
+t 4 a [t,4,a]^
+h \? n [h, question mark ,n]^
+6 d 2 [6,d,2]^
+\? c r [ question mark ,c,r]^
+n m \? [n,m, question mark]^
+c u 1 [c,u,1]^
+r t w [r,t,w]^
+\? h u [ question mark ,h,u]^
+o \? 5 [o, question mark ,5]^
+\? h \? [ question mark ,h, question mark]^
+n 1 6 [n,1, 6]^
+2 4 o [2, 4,o]^
+2 5 a [2, 5,a]^
+\? u t [ question mark ,u,t]^
+1 u 5 [1,u,5]^
+l s 2 [l,s,2]^
+u \? m [u, question mark ,m]^
+o e c [o,e,c]^
+4 \? w [4, question mark ,w]^
+\? d \? [ question mark ,d, question mark]^
+3 l 4 [3,l,4]^
+h e w [h,e,w]^
+m 1 \? [m,1, question mark]^
+6 i 4 [6,i,4]^
+\? d s [ question mark ,d,s]^
+t l \? [t,l, question mark]^
+r \? 1 [r, question mark ,1]^
+w i 1 [w,i,1]^
+4 u a [4,u,a]^
+4 r 2 [4,r,2]^
+i m 3 [i,m,3]^
+l i r [l,i,r]^
+\? s l [ question mark ,s,l]^
+u 2 c [u,2,c]^
+a w 3 [a,w,3]^
+w i 2 [w,i,2]^
+h \? 5 [h, question mark ,5]^
+1 a 1 [1,a,1]^
+6 s 2 [6,s,2]^
+\? 3 \? [ question mark ,3, question mark]^
+h 4 d [h,4,d]^
+n 2 3 [n,2, 3]^
+4 d i [4,d,i]^
+\? 6 \? [ question mark ,6, question mark]^
+w l 3 [w,l,3]^
+\? a e [ question mark ,a,e]^
+a 6 e [a,6,e]^
+h 6 2 [h,6, 2]^
+\? t 1 [ question mark ,t,1]^
+4 i w [4,i,w]^
+\? n o [ question mark ,n,o]^
+\? e u [ question mark ,e,u]^
+o 1 5 [o,1, 5]^
+\? m o [ question mark ,m,o]^
+6 1 h [6, 1,h]^
+\? h n [ question mark ,h,n]^
+h u a [h,u,a]^
+l 5 \? [l,5, question mark]^
+h \? n [h, question mark ,n]^
+4 1 \? [4, 1, question mark]^
+e w o [e,w,o]^
+n r \? [n,r, question mark]^
+3 \? s [3, question mark ,s]^
+5 l \? [5,l, question mark]^
+h \? 5 [h, question mark ,5]^
+r \? 1 [r, question mark ,1]^
+\? c l [ question mark ,c,l]^
+6 3 i [6, 3,i]^
+a \? 1 [a, question mark ,1]^
+6 s e [6,s,e]^
+h w o [h,w,o]^
+3 a 1 [3,a,1]^
+h 1 r [h,1,r]^
+6 1 o [6, 1,o]^
+u m 2 [u,m,2]^
+a 6 i [a,6,i]^
+w t n [w,t,n]^
+5 t d [5,t,d]^
+e r l [e,r,l]^
+3 h l [3,h,l]^
+1 m u [1,m,u]^
+e 5 6 [e,5, 6]^
+w h 4 [w,h,4]^
+1 d \? [1,d, question mark]^
+1 \? m [1, question mark ,m]^
+h \? n [h, question mark ,n]^
+a \? u [a, question mark ,u]^
+h l \? [h,l, question mark]^
+i h 6 [i,h,6]^
+5 4 h [5, 4,h]^
+6 \? d [6, question mark ,d]^
+n 3 \? [n,3, question mark]^
+c 2 \? [c,2, question mark]^
+i c e [i,c,e]^
+d 6 l [d,6,l]^
+\? e d [ question mark ,e,d]^
+4 3 e [4, 3,e]^
+w m 5 [w,m,5]^
+\? c s [ question mark ,c,s]^
+r \? r [r, question mark ,r]^
+c 4 u [c,4,u]^
+n 6 2 [n,6, 2]^
+c 6 a [c,6,a]^
+3 a 3 [3,a,3]^
+t \? 6 [t, question mark ,6]^
+t e 6 [t,e,6]^
+e o d [e,o,d]^
+4 3 e [4, 3,e]^
+s 4 u [s,4,u]^
+\? 4 6 [ question mark ,4, 6]^
+r \? m [r, question mark ,m]^
+h \? n [h, question mark ,n]^
+3 1 \? [3, 1, question mark]^
+h m 1 [h,m,1]^
+m 3 u [m,3,u]^
+l 2 w [l,2,w]^
+2 4 w [2, 4,w]^
+\? 4 d [ question mark ,4,d]^
+3 r \? [3,r, question mark]^
+i u 2 [i,u,2]^
+m r \? [m,r, question mark]^
+2 c d [2,c,d]^
+n \? n [n, question mark ,n]^
+c 5 \? [c,5, question mark]^
+4 s 3 [4,s,3]^
+e 3 m [e,3,m]^
+h u d [h,u,d]^
+h w t [h,w,t]^
+1 e l [1,e,l]^
+m \? t [m, question mark ,t]^
+w d 3 [w,d,3]^
+a h t [a,h,t]^
+4 3 2 [4, 3, 2]^
+6 r \? [6,r, question mark]^
+d l c [d,l,c]^
+1 r n [1,r,n]^
+w t n [w,t,n]^
+d o 4 [d,o,4]^
+e t c [e,t,c]^
+e \? t [e, question mark ,t]^
+4 t e [4,t,e]^
+4 t h [4,t,h]^
+n a r [n,a,r]^
+t 1 2 [t,1, 2]^
+e t h [e,t,h]^
+u \? s [u, question mark ,s]^
+\? 1 w [ question mark ,1,w]^
+o t s [o,t,s]^
+l \? i [l, question mark ,i]^
+\? e u [ question mark ,e,u]^
+4 1 m [4, 1,m]^
+l u i [l,u,i]^
+\? m h [ question mark ,m,h]^
+d 6 s [d,6,s]^
+\? h i [ question mark ,h,i]^
+w n \? [w,n, question mark]^
+r w i [r,w,i]^
+w \? s [w, question mark ,s]^
+c l 4 [c,l,4]^
+2 6 h [2, 6,h]^
+d o d [d,o,d]^
+c w 3 [c,w,3]^
+\? 4 e [ question mark ,4,e]^
+\? 1 \? [ question mark ,1, question mark]^
+i 4 \? [i,4, question mark]^
+1 a t [1,a,t]^
+c 6 \? [c,6, question mark]^
+h 4 r [h,4,r]^
+m 6 \? [m,6, question mark]^
+3 c w [3,c,w]^
+c h l [c,h,l]^
+e l 4 [e,l,4]^
+\? 5 e [ question mark ,5,e]^
+a 1 n [a,1,n]^
+l e \? [l,e, question mark]^
+4 o h [4,o,h]^
+n r 2 [n,r,2]^
+e o i [e,o,i]^
+5 1 2 [5, 1, 2]^
+i \? r [i, question mark ,r]^
+\? r c [ question mark ,r,c]^
+3 d 4 [3,d,4]^
+m \? i [m, question mark ,i]^
+2 n 2 [2,n,2]^
+1 c l [1,c,l]^
+\? 6 4 [ question mark ,6, 4]^
+3 \? 2 [3, question mark ,2]^
+5 l o [5,l,o]^
+m \? c [m, question mark ,c]^
+r c w [r,c,w]^
+l 3 e [l,3,e]^
+l i 2 [l,i,2]^
+\? a 4 [ question mark ,a,4]^
+h r h [h,r,h]^
+w d 2 [w,d,2]^
+e h 2 [e,h,2]^
+r c \? [r,c, question mark]^
+m 2 a [m,2,a]^
+c \? t [c, question mark ,t]^
+u t a [u,t,a]^
+\? m 5 [ question mark ,m,5]^
+w r d [w,r,d]^
+w s a [w,s,a]^
+m c h [m,c,h]^
+6 m t [6,m,t]^
+o w \? [o,w, question mark]^
+4 \? 1 [4, question mark ,1]^
+\? a m [ question mark ,a,m]^
+o r \? [o,r, question mark]^
+c s d [c,s,d]^
+c h \? [c,h, question mark]^
+u \? w [u, question mark ,w]^
+6 1 3 [6, 1, 3]^
+\? n 4 [ question mark ,n,4]^
+e a 2 [e,a,2]^
+c l 6 [c,l,6]^
+e w 1 [e,w,1]^
+n 5 o [n,5,o]^
+2 l c [2,l,c]^
+t r w [t,r,w]^
+1 n \? [1,n, question mark]^
+w \? w [w, question mark ,w]^
+u \? o [u, question mark ,o]^
+d \? 4 [d, question mark ,4]^
+h s \? [h,s, question mark]^
+h w c [h,w,c]^
+o c r [o,c,r]^
+e \? s [e, question mark ,s]^
+5 c 5 [5,c,5]^
+1 l 4 [1,l,4]^
+l a m [l,a,m]^
+n \? n [n, question mark ,n]^
+d i w [d,i,w]^
+u n h [u,n,h]^
+2 r w [2,r,w]^
+\? r w [ question mark ,r,w]^
+4 u \? [4,u, question mark]^
+4 \? r [4, question mark ,r]^
+\? u t [ question mark ,u,t]^
+4 w s [4,w,s]^
+l e w [l,e,w]^
+\? u n [ question mark ,u,n]^
+a w c [a,w,c]^
+d c 3 [d,c,3]^
+\? r 6 [ question mark ,r,6]^
+r n c [r,n,c]^
+a h n [a,h,n]^
+\? d l [ question mark ,d,l]^
+5 1 4 [5, 1, 4]^
+\? 1 \? [ question mark ,1, question mark]^
+6 t 2 [6,t,2]^
+\? i 1 [ question mark ,i,1]^
+3 u \? [3,u, question mark]^
+e 2 d [e,2,d]^
+c i 6 [c,i,6]^
+\? 5 1 [ question mark ,5, 1]^
+d o a [d,o,a]^
+n o r [n,o,r]^
+d i a [d,i,a]^
+5 o \? [5,o, question mark]^
+i t 1 [i,t,1]^
+i a 4 [i,a,4]^
+h 4 2 [h,4, 2]^
+\? n e [ question mark ,n,e]^
+r 5 o [r,5,o]^
+h 1 5 [h,1, 5]^
+h o 2 [h,o,2]^
+n \? 4 [n, question mark ,4]^
+d 2 6 [d,2, 6]^
+e t r [e,t,r]^
+n 5 a [n,5,a]^
+d m e [d,m,e]^
+\? 3 u [ question mark ,3,u]^
+d a \? [d,a, question mark]^
+n 3 1 [n,3, 1]^
+a \? d [a, question mark ,d]^
+r d n [r,d,n]^
+u c l [u,c,l]^
+e 4 t [e,4,t]^
+e 6 i [e,6,i]^
+r 4 a [r,4,a]^
+5 o 2 [5,o,2]^
+\? d 2 [ question mark ,d,2]^
+4 5 t [4, 5,t]^
+5 1 l [5, 1,l]^
+s a o [s,a,o]^
+m d s [m,d,s]^
+5 h 6 [5,h,6]^
+4 r w [4,r,w]^
+u t o [u,t,o]^
+m 1 m [m,1,m]^
+e 3 w [e,3,w]^
+u 6 n [u,6,n]^
+\? h n [ question mark ,h,n]^
+t 4 d [t,4,d]^
+t 2 e [t,2,e]^
+\? t 4 [ question mark ,t,4]^
+w \? h [w, question mark ,h]^
+d 4 s [d,4,s]^
+3 n 6 [3,n,6]^
+h 3 2 [h,3, 2]^
+4 a m [4,a,m]^
+t c i [t,c,i]^
+u i 5 [u,i,5]^
+s \? m [s, question mark ,m]^
+n l r [n,l,r]^
+\? i 6 [ question mark ,i,6]^
+\? 5 \? [ question mark ,5, question mark]^
+1 i s [1,i,s]^
+5 l w [5,l,w]^
+c 6 \? [c,6, question mark]^
+6 \? e [6, question mark ,e]^
+4 u w [4,u,w]^
+t 1 o [t,1,o]^
+m 2 6 [m,2, 6]^
+o r 3 [o,r,3]^
+\? d m [ question mark ,d,m]^
+s 1 m [s,1,m]^
+\? t c [ question mark ,t,c]^
+m o 1 [m,o,1]^
+6 u l [6,u,l]^
+i \? r [i, question mark ,r]^
+l n u [l,n,u]^
+4 1 n [4, 1,n]^
+6 d \? [6,d, question mark]^
+o i c [o,i,c]^
+3 l 6 [3,l,6]^
+w \? 6 [w, question mark ,6]^
+r h i [r,h,i]^
+a 2 m [a,2,m]^
+i d \? [i,d, question mark]^
+i 3 d [i,3,d]^
+4 \? s [4, question mark ,s]^
+m n l [m,n,l]^
+w s 6 [w,s,6]^
+c a o [c,a,o]^
+4 d \? [4,d, question mark]^
+a i w [a,i,w]^
+l t \? [l,t, question mark]^
+5 h i [5,h,i]^
+5 \? m [5, question mark ,m]^
+4 h u [4,h,u]^
+2 3 \? [2, 3, question mark]^
+u w h [u,w,h]^
+\? t 1 [ question mark ,t,1]^
+\? n d [ question mark ,n,d]^
+u h 4 [u,h,4]^
+d 3 w [d,3,w]^
+t 4 l [t,4,l]^
+4 \? 4 [4, question mark ,4]^
+h 5 r [h,5,r]^
+a r \? [a,r, question mark]^
+s \? h [s, question mark ,h]^
+2 \? 6 [2, question mark ,6]^
+d s a [d,s,a]^
+n \? t [n, question mark ,t]^
+l i 4 [l,i,4]^
+e a 3 [e,a,3]^
+o t l [o,t,l]^
+6 3 h [6, 3,h]^
+3 m r [3,m,r]^
+\? o h [ question mark ,o,h]^
+\? t 6 [ question mark ,t,6]^
+4 t s [4,t,s]^
+3 s c [3,s,c]^
+e u t [e,u,t]^
+m 4 i [m,4,i]^
+r w \? [r,w, question mark]^
+i \? c [i, question mark ,c]^
+a \? d [a, question mark ,d]^
+c \? s [c, question mark ,s]^
+h t \? [h,t, question mark]^
+r 1 n [r,1,n]^
+4 o s [4,o,s]^
+d o e [d,o,e]^

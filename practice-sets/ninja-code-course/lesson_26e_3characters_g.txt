@@ -1,0 +1,400 @@
+r i w [r,i,w]^
+m i c [m,i,c]^
+r d s [r,d,s]^
+u h p [u,h,p]^
+t d r [t,d,r]^
+2 f y [2,f,y]^
+l 2 i [l,2,i]^
+f y n [f,y,n]^
+3 w 5 [3,w,5]^
+g 5 h [g,5,h]^
+t g e [t,g,e]^
+y 6 3 [y,6, 3]^
+w a n [w,a,n]^
+g d g [g,d,g]^
+2 d g [2,d,g]^
+o u r [o,u,r]^
+5 i a [5,i,a]^
+e g n [e,g,n]^
+f 2 g [f,2,g]^
+i r w [i,r,w]^
+h 3 p [h,3,p]^
+u w 6 [u,w,6]^
+1 g s [1,g,s]^
+n c s [n,c,s]^
+g i d [g,i,d]^
+\? h 2 [ question mark ,h,2]^
+g y f [g,y,f]^
+i g w [i,g,w]^
+d e g [d,e,g]^
+6 g 3 [6,g,3]^
+l g \? [l,g, question mark]^
+g c 2 [g,c,2]^
+o g r [o,g,r]^
+s t a [s,t,a]^
+e 2 g [e,2,g]^
+h g w [h,g,w]^
+e l 1 [e,l,1]^
+4 u c [4,u,c]^
+a f w [a,f,w]^
+g u c [g,u,c]^
+w 4 g [w,4,g]^
+f 4 3 [f,4, 3]^
+t g 5 [t,g,5]^
+g t h [g,t,h]^
+t h \? [t,h, question mark]^
+l n 1 [l,n,1]^
+l h 6 [l,h,6]^
+c r g [c,r,g]^
+6 f u [6,f,u]^
+w g 5 [w,g,5]^
+s g c [s,g,c]^
+3 g y [3,g,y]^
+g t d [g,t,d]^
+h n h [h,n,h]^
+3 l c [3,l,c]^
+l r \? [l,r, question mark]^
+4 i \? [4,i, question mark]^
+m w m [m,w,m]^
+y d g [y,d,g]^
+2 m w [2,m,w]^
+o 4 5 [o,4, 5]^
+n e l [n,e,l]^
+\? y a [ question mark ,y,a]^
+e 1 t [e,1,t]^
+a 2 f [a,2,f]^
+o u 1 [o,u,1]^
+r i a [r,i,a]^
+y t 4 [y,t,4]^
+s l g [s,l,g]^
+u 2 n [u,2,n]^
+p m g [p,m,g]^
+6 g d [6,g,d]^
+n \? t [n, question mark ,t]^
+5 f y [5,f,y]^
+g u g [g,u,g]^
+m r 6 [m,r,6]^
+n 3 5 [n,3, 5]^
+u c m [u,c,m]^
+g 6 t [g,6,t]^
+i 4 y [i,4,y]^
+n 3 g [n,3,g]^
+5 1 i [5, 1,i]^
+g i n [g,i,n]^
+l f 2 [l,f,2]^
+e f h [e,f,h]^
+o \? s [o, question mark ,s]^
+g 4 p [g,4,p]^
+3 l 6 [3,l,6]^
+e f o [e,f,o]^
+m a s [m,a,s]^
+c m p [c,m,p]^
+t l s [t,l,s]^
+5 g 6 [5,g,6]^
+g p y [g,p,y]^
+h 4 y [h,4,y]^
+5 g \? [5,g, question mark]^
+s u p [s,u,p]^
+\? u a [ question mark ,u,a]^
+r i h [r,i,h]^
+f y i [f,y,i]^
+5 4 r [5, 4,r]^
+l g s [l,g,s]^
+m l r [m,l,r]^
+5 g w [5,g,w]^
+p d 2 [p,d,2]^
+r c d [r,c,d]^
+r 4 g [r,4,g]^
+a t 1 [a,t,1]^
+c g 5 [c,g,5]^
+g n r [g,n,r]^
+h m g [h,m,g]^
+h n s [h,n,s]^
+e 1 h [e,1,h]^
+d f a [d,f,a]^
+2 n r [2,n,r]^
+2 a l [2,a,l]^
+c g 5 [c,g,5]^
+d g n [d,g,n]^
+l r p [l,r,p]^
+h w 4 [h,w,4]^
+p l 3 [p,l,3]^
+g f 6 [g,f,6]^
+s 2 f [s,2,f]^
+l \? o [l, question mark ,o]^
+e w 5 [e,w,5]^
+u n d [u,n,d]^
+u l p [u,l,p]^
+4 r 2 [4,r,2]^
+o a g [o,a,g]^
+o f a [o,f,a]^
+i s e [i,s,e]^
+d a g [d,a,g]^
+2 h n [2,h,n]^
+c u 1 [c,u,1]^
+l f r [l,f,r]^
+h g 3 [h,g,3]^
+f h 3 [f,h,3]^
+\? g i [ question mark ,g,i]^
+w g y [w,g,y]^
+d f d [d,f,d]^
+g 4 3 [g,4, 3]^
+o y 1 [o,y,1]^
+g 2 6 [g,2, 6]^
+p 3 g [p,3,g]^
+r n y [r,n,y]^
+f n t [f,n,t]^
+e 6 o [e,6,o]^
+e w 5 [e,w,5]^
+3 o g [3,o,g]^
+h 3 i [h,3,i]^
+g a m [g,a,m]^
+5 u y [5,u,y]^
+r 3 1 [r,3, 1]^
+i n f [i,n,f]^
+2 s 3 [2,s,3]^
+1 a y [1,a,y]^
+u a s [u,a,s]^
+1 \? l [1, question mark ,l]^
+g m d [g,m,d]^
+p 5 i [p,5,i]^
+g p g [g,p,g]^
+d o i [d,o,i]^
+s r s [s,r,s]^
+i n g [i,n,g]^
+p 4 2 [p,4, 2]^
+4 n l [4,n,l]^
+s t r [s,t,r]^
+f w 5 [f,w,5]^
+h u c [h,u,c]^
+e o g [e,o,g]^
+u g p [u,g,p]^
+n 4 6 [n,4, 6]^
+t p g [t,p,g]^
+a 6 g [a,6,g]^
+f m e [f,m,e]^
+g r 1 [g,r,1]^
+n d 4 [n,d,4]^
+d 6 \? [d,6, question mark]^
+p g o [p,g,o]^
+5 4 f [5, 4,f]^
+\? h s [ question mark ,h,s]^
+w 1 h [w,1,h]^
+g h s [g,h,s]^
+6 r g [6,r,g]^
+h g 3 [h,g,3]^
+m i c [m,i,c]^
+u 2 3 [u,2, 3]^
+o a n [o,a,n]^
+2 p 5 [2,p,5]^
+e s h [e,s,h]^
+2 w 3 [2,w,3]^
+m 3 d [m,3,d]^
+g s y [g,s,y]^
+w g h [w,g,h]^
+g f 5 [g,f,5]^
+r s d [r,s,d]^
+4 h y [4,h,y]^
+t y l [t,y,l]^
+1 5 3 [1, 5, 3]^
+n a 6 [n,a,6]^
+5 g p [5,g,p]^
+l p l [l,p,l]^
+g l o [g,l,o]^
+d 2 p [d,2,p]^
+g w r [g,w,r]^
+g h 1 [g,h,1]^
+g h u [g,h,u]^
+g o \? [g,o, question mark]^
+s g t [s,g,t]^
+d e s [d,e,s]^
+r 5 1 [r,5, 1]^
+g 2 h [g,2,h]^
+2 m o [2,m,o]^
+4 a c [4,a,c]^
+m l p [m,l,p]^
+n g a [n,g,a]^
+2 c n [2,c,n]^
+r w 3 [r,w,3]^
+a w u [a,w,u]^
+c f n [c,f,n]^
+2 s 4 [2,s,4]^
+5 f g [5,f,g]^
+6 l o [6,l,o]^
+g y 5 [g,y,5]^
+n y o [n,y,o]^
+\? l g [ question mark ,l,g]^
+i w g [i,w,g]^
+s c a [s,c,a]^
+\? n s [ question mark ,n,s]^
+g m u [g,m,u]^
+a t c [a,t,c]^
+s m f [s,m,f]^
+r t 1 [r,t,1]^
+c 5 d [c,5,d]^
+f o 1 [f,o,1]^
+f s m [f,s,m]^
+d g f [d,g,f]^
+r y o [r,y,o]^
+5 l r [5,l,r]^
+o c p [o,c,p]^
+w p i [w,p,i]^
+g r g [g,r,g]^
+n w g [n,w,g]^
+f m s [f,m,s]^
+5 i o [5,i,o]^
+e r w [e,r,w]^
+f 1 g [f,1,g]^
+r t m [r,t,m]^
+3 y 4 [3,y,4]^
+m r g [m,r,g]^
+n c 5 [n,c,5]^
+4 i f [4,i,f]^
+1 h 5 [1,h,5]^
+g n \? [g,n, question mark]^
+d 1 y [d,1,y]^
+c o t [c,o,t]^
+g 5 4 [g,5, 4]^
+o p 2 [o,p,2]^
+g s 2 [g,s,2]^
+5 o 3 [5,o,3]^
+2 p 2 [2,p,2]^
+o \? u [o, question mark ,u]^
+h 2 g [h,2,g]^
+p 3 l [p,3,l]^
+n g 4 [n,g,4]^
+m o e [m,o,e]^
+g w a [g,w,a]^
+g n i [g,n,i]^
+y g 1 [y,g,1]^
+n g \? [n,g, question mark]^
+5 n p [5,n,p]^
+t g i [t,g,i]^
+g 6 g [g,6,g]^
+2 o h [2,o,h]^
+\? 6 g [ question mark ,6,g]^
+4 d \? [4,d, question mark]^
+g p y [g,p,y]^
+a n h [a,n,h]^
+g o g [g,o,g]^
+1 n g [1,n,g]^
+2 u w [2,u,w]^
+4 e p [4,e,p]^
+\? w i [ question mark ,w,i]^
+t i o [t,i,o]^
+w p 6 [w,p,6]^
+s c h [s,c,h]^
+e t 6 [e,t,6]^
+p 3 m [p,3,m]^
+1 6 g [1, 6,g]^
+d o g [d,o,g]^
+t 5 g [t,5,g]^
+l g w [l,g,w]^
+h g o [h,g,o]^
+r o y [r,o,y]^
+g s y [g,s,y]^
+d g l [d,g,l]^
+p 2 d [p,2,d]^
+g o h [g,o,h]^
+n w 6 [n,w,6]^
+\? t 6 [ question mark ,t,6]^
+\? w r [ question mark ,w,r]^
+c a y [c,a,y]^
+g a g [g,a,g]^
+6 w f [6,w,f]^
+6 3 e [6, 3,e]^
+5 o u [5,o,u]^
+\? n t [ question mark ,n,t]^
+y 6 c [y,6,c]^
+\? 2 5 [ question mark ,2, 5]^
+4 o m [4,o,m]^
+e o u [e,o,u]^
+g s 5 [g,s,5]^
+y l t [y,l,t]^
+p e 5 [p,e,5]^
+l u a [l,u,a]^
+l w u [l,w,u]^
+i a u [i,a,u]^
+t m g [t,m,g]^
+e t g [e,t,g]^
+t 4 p [t,4,p]^
+g m 5 [g,m,5]^
+4 u n [4,u,n]^
+y r m [y,r,m]^
+g r 5 [g,r,5]^
+l d a [l,d,a]^
+f 5 4 [f,5, 4]^
+g 3 a [g,3,a]^
+\? 1 s [ question mark ,1,s]^
+y a t [y,a,t]^
+f g d [f,g,d]^
+y w 2 [y,w,2]^
+t o g [t,o,g]^
+c t s [c,t,s]^
+t u n [t,u,n]^
+g d 5 [g,d,5]^
+u a r [u,a,r]^
+e l r [e,l,r]^
+1 n g [1,n,g]^
+o i h [o,i,h]^
+o f w [o,f,w]^
+2 m 6 [2,m,6]^
+g l 4 [g,l,4]^
+2 \? 1 [2, question mark ,1]^
+o m g [o,m,g]^
+s 4 o [s,4,o]^
+e h 2 [e,h,2]^
+a 4 o [a,4,o]^
+t r t [t,r,t]^
+w g p [w,g,p]^
+a 1 2 [a,1, 2]^
+s n g [s,n,g]^
+e 5 g [e,5,g]^
+1 f g [1,f,g]^
+h n g [h,n,g]^
+e i g [e,i,g]^
+r 3 p [r,3,p]^
+5 p l [5,p,l]^
+g c h [g,c,h]^
+2 r \? [2,r, question mark]^
+s 5 2 [s,5, 2]^
+5 y 1 [5,y,1]^
+f h 3 [f,h,3]^
+\? s 5 [ question mark ,s,5]^
+p a p [p,a,p]^
+g 4 1 [g,4, 1]^
+u g l [u,g,l]^
+h s p [h,s,p]^
+w 3 d [w,3,d]^
+u \? h [u, question mark ,h]^
+m o f [m,o,f]^
+g y l [g,y,l]^
+e g r [e,g,r]^
+i \? 3 [i, question mark ,3]^
+i 2 g [i,2,g]^
+f y s [f,y,s]^
+g 3 g [g,3,g]^
+u i y [u,i,y]^
+3 w 4 [3,w,4]^
+t g t [t,g,t]^
+w 4 r [w,4,r]^
+1 g 1 [1,g,1]^
+f g e [f,g,e]^
+g o m [g,o,m]^
+6 y 4 [6,y,4]^
+5 u n [5,u,n]^
+w 1 4 [w,1, 4]^
+g i g [g,i,g]^
+o p n [o,p,n]^
+g p g [g,p,g]^
+1 \? 6 [1, question mark ,6]^
+r m g [r,m,g]^
+t n 5 [t,n,5]^
+s g 3 [s,g,3]^
+f i t [f,i,t]^
+6 5 d [6, 5,d]^
+4 g p [4,g,p]^
+g 1 t [g,1,t]^
+w p n [w,p,n]^
+d l h [d,l,h]^
+3 1 e [3, 1,e]^
