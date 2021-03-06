@@ -317,7 +317,7 @@ sub generate_lesson_e {
 sub load_dictionary {
     my @dictionary;
 
-    open my $fh, "<", "/Users/kaz/git/morse-camp/src/Words.js" or die "Can't open dictionary $!";
+    open my $fh, "<", "/Users/kaz/git/morse-camp/src/words-js.txt" or die "Can't open dictionary $!";
     while(my $line = <$fh>) {
         #  ["the", "a", 22038615, "Word"],
 
