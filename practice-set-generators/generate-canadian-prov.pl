@@ -3,7 +3,7 @@ use strict;
 use Cwd;
 
 # Usage:
-# ./generate_canadian_prov.pl > canadian_province.txt
+# ./generate-canadian-prov.pl > canadian_province.txt
 #
 # Set $repeat as desired
 

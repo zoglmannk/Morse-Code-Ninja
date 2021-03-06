@@ -3,7 +3,7 @@ use strict;
 use Cwd;
 
 # Usage:
-# ./generate_phonemes.pl > multi-letter-phonemes.txt
+# ./generate-phonemes.pl > multi-letter-phonemes.txt
 #
 # Set $repeat, $num_random_phonemes, and $quick_run as appropriate
 # Rendered with: Pause 1 second except 0.7 for both pauses on fast rendition

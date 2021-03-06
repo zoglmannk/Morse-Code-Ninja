@@ -2,7 +2,7 @@
 use strict;
 use Cwd;
 
-# Usage: ./generate_qcodes.pl  > qcodes-repeated.txt
+# Usage: ./generate-qcodes.pl  > qcodes-repeated.txt
 #
 # Morse Code Ninja sets:
 #
