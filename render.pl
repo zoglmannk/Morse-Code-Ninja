@@ -22,6 +22,7 @@ GetOptions(
   's|speeds=s{1,}'    => \@speeds,
   'm|maxprocs=i'      => \(my $max_processes = 10),
   'z|racing=i'        => \(my $speed_racing = 0), #flag. 0 == false; 1 == true
+  'rr|racingrepeat=i'  => \(my $speed_racing_repeat = 0), #flag. 0 == false; 1 == true
   'test'              => \(my $test = ''), # flag. 1 = don't render audio -- just show what will be rendered -- useful when encoding text
   'l|limit=i'         => \(my $word_limit = -1), # 14 works great... 15 word limit for long sentences; -1 disables it
   'r|repeat'          => \(my $repeat_morse = '1'), # flag. 0 == false
@@ -727,6 +728,9 @@ if(!$test) {
               if($speed_racing == 1) {
                 my $max_speed = ceil($speed * $speed_racing_multiplier);
                 my $cached_filename = $filename_map{"$counter-$max_speed"};
+                if($speed_racing_repeat == 1) {
+                  print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_filename'\n";
+                }
                 print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_filename'\n";
                 print $fh_list "file '$cwd/silence-resampled.mp3'\n";
 
@@ -821,6 +825,8 @@ sub print_usage {
   print "    -c, --cache          directory to use for cache specific files\n";
   print "    -s, --speeds         list of speeds in WPM. example -s 15 17 20\n";
   print "    -m, --maxprocs       maximum number of parallel processes to run\n";
+  print "    -z, --racing         speed racing format\n";
+  print "    -rr, --racingrepeat  repeat final repeat. Use with -z (Speed Racing format).\n";
   print "    --test               don't render audio -- just show what will be rendered -- useful when encoding text\n";
   print "    -l, --limit          word limit. 14 works great... 15 word limit for long sentences; -1 disables it\n";
   print "    -r, --repeat         repeat morse after speech\n";

@@ -52,6 +52,8 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
     -c, --cache           directory to use for cache specific files
     -s, --speeds          list of speeds in WPM. example -s 15 17 20
     -m, --maxprocs        maximum number of parallel processes to run
+    -z, --racing          speed racing format
+    -rr, --racingrepeat   repeat final repeat. Use with -z (Speed Racing format).
     --test                don't render audio -- just show what will be rendered -- useful when encoding text
     -l, --limit           word limit. 14 works great... 15 word limit for long sentences; -1 disables it
     -r, --repeat          repeat morse after speech
