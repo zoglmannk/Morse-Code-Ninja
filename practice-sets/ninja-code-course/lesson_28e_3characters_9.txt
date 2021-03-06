@@ -1,0 +1,400 @@
+d 7 w [d,7,w]^
+\? 2 3 [ question mark ,2, 3]^
+d 5 a [d,5,a]^
+9 1 7 [9, 1, 7]^
+\? d 6 [ question mark ,d,6]^
+9 h 9 [9,h,9]^
+i u c [i,u,c]^
+i 6 l [i,6,l]^
+s d r [s,d,r]^
+h 9 r [h,9,r]^
+h 1 9 [h,1, 9]^
+4 e 1 [4,e,1]^
+o h a [o,h,a]^
+t \? o [t, question mark ,o]^
+y 9 5 [y,9, 5]^
+9 u n [9,u,n]^
+7 u 9 [7,u,9]^
+5 a o [5,a,o]^
+h p y [h,p,y]^
+5 w n [5,w,n]^
+r e 6 [r,e,6]^
+o p 6 [o,p,6]^
+1 3 w [1, 3,w]^
+d n 7 [d,n,7]^
+o \? 1 [o, question mark ,1]^
+n c 5 [n,c,5]^
+m e 9 [m,e,9]^
+1 n l [1,n,l]^
+9 m t [9,m,t]^
+l w r [l,w,r]^
+9 3 w [9, 3,w]^
+3 g 9 [3,g,9]^
+y 6 f [y,6,f]^
+t i g [t,i,g]^
+9 3 p [9, 3,p]^
+r g h [r,g,h]^
+t 9 2 [t,9, 2]^
+5 9 5 [5, 9, 5]^
+t a 5 [t,a,5]^
+9 r 9 [9,r,9]^
+6 \? a [6, question mark ,a]^
+5 7 i [5, 7,i]^
+n d n [n,d,n]^
+4 5 9 [4, 5, 9]^
+w s 6 [w,s,6]^
+h 9 4 [h,9, 4]^
+h f r [h,f,r]^
+9 g 6 [9,g,6]^
+o y 4 [o,y,4]^
+w 9 g [w,9,g]^
+9 4 9 [9, 4, 9]^
+y 1 g [y,1,g]^
+s 3 i [s,3,i]^
+9 o e [9,o,e]^
+i 9 4 [i,9, 4]^
+f y u [f,y,u]^
+i a 3 [i,a,3]^
+i 1 l [i,1,l]^
+9 s d [9,s,d]^
+f 9 c [f,9,c]^
+1 \? r [1, question mark ,r]^
+t a 7 [t,a,7]^
+3 5 d [3, 5,d]^
+5 p a [5,p,a]^
+6 9 6 [6, 9, 6]^
+9 c l [9,c,l]^
+c 2 m [c,2,m]^
+h g 6 [h,g,6]^
+y p 9 [y,p,9]^
+e m h [e,m,h]^
+9 5 1 [9, 5, 1]^
+l m 7 [l,m,7]^
+u \? a [u, question mark ,a]^
+i l f [i,l,f]^
+a y 9 [a,y,9]^
+\? y 2 [ question mark ,y,2]^
+m 9 i [m,9,i]^
+y 9 t [y,9,t]^
+9 6 3 [9, 6, 3]^
+\? a 9 [ question mark ,a,9]^
+o r 9 [o,r,9]^
+\? h f [ question mark ,h,f]^
+9 t 4 [9,t,4]^
+s i m [s,i,m]^
+\? h g [ question mark ,h,g]^
+u y s [u,y,s]^
+p 9 h [p,9,h]^
+l 6 p [l,6,p]^
+c o c [c,o,c]^
+h i t [h,i,t]^
+h y \? [h,y, question mark]^
+d 2 7 [d,2, 7]^
+s 2 s [s,2,s]^
+3 n 5 [3,n,5]^
+9 4 9 [9, 4, 9]^
+a s w [a,s,w]^
+9 5 2 [9, 5, 2]^
+9 n a [9,n,a]^
+\? 1 7 [ question mark ,1, 7]^
+4 p i [4,p,i]^
+u i a [u,i,a]^
+y f 2 [y,f,2]^
+i 6 p [i,6,p]^
+3 9 p [3, 9,p]^
+7 n h [7,n,h]^
+9 2 6 [9, 2, 6]^
+m 9 6 [m,9, 6]^
+4 g m [4,g,m]^
+6 r t [6,r,t]^
+s 6 5 [s,6, 5]^
+3 c f [3,c,f]^
+9 h r [9,h,r]^
+w l 3 [w,l,3]^
+9 \? y [9, question mark ,y]^
+t 9 r [t,9,r]^
+s i n [s,i,n]^
+t o h [t,o,h]^
+7 g 9 [7,g,9]^
+3 p 2 [3,p,2]^
+7 s 3 [7,s,3]^
+a \? 4 [a, question mark ,4]^
+u d a [u,d,a]^
+\? 7 m [ question mark ,7,m]^
+o 9 a [o,9,a]^
+9 \? r [9, question mark ,r]^
+a l r [a,l,r]^
+g y 9 [g,y,9]^
+1 e p [1,e,p]^
+u t m [u,t,m]^
+p u h [p,u,h]^
+7 n 1 [7,n,1]^
+6 f w [6,f,w]^
+u i e [u,i,e]^
+a 9 4 [a,9, 4]^
+n f 1 [n,f,1]^
+d a n [d,a,n]^
+g h 9 [g,h,9]^
+y f 9 [y,f,9]^
+7 h p [7,h,p]^
+l 9 p [l,9,p]^
+n 2 r [n,2,r]^
+i 9 s [i,9,s]^
+i e s [i,e,s]^
+i 9 p [i,9,p]^
+d c e [d,c,e]^
+9 d f [9,d,f]^
+d o 1 [d,o,1]^
+5 c o [5,c,o]^
+5 o h [5,o,h]^
+9 1 9 [9, 1, 9]^
+6 f i [6,f,i]^
+g y 5 [g,y,5]^
+g y \? [g,y, question mark]^
+s 3 t [s,3,t]^
+o \? r [o, question mark ,r]^
+h n w [h,n,w]^
+3 o 2 [3,o,2]^
+w f l [w,f,l]^
+\? p t [ question mark ,p,t]^
+o 9 y [o,9,y]^
+p 2 7 [p,2, 7]^
+p s c [p,s,c]^
+9 3 g [9, 3,g]^
+9 n o [9,n,o]^
+l s w [l,s,w]^
+t a w [t,a,w]^
+6 \? w [6, question mark ,w]^
+f y t [f,y,t]^
+e t \? [e,t, question mark]^
+7 l w [7,l,w]^
+o g r [o,g,r]^
+9 w m [9,w,m]^
+d 4 e [d,4,e]^
+i s \? [i,s, question mark]^
+9 g 7 [9,g,7]^
+c l e [c,l,e]^
+2 n l [2,n,l]^
+9 r s [9,r,s]^
+y 9 y [y,9,y]^
+1 n 4 [1,n,4]^
+e d c [e,d,c]^
+9 f d [9,f,d]^
+r 6 1 [r,6, 1]^
+y a 9 [y,a,9]^
+7 e 4 [7,e,4]^
+5 9 a [5, 9,a]^
+e w 9 [e,w,9]^
+f a r [f,a,r]^
+u 5 2 [u,5, 2]^
+l g l [l,g,l]^
+7 r 6 [7,r,6]^
+7 9 o [7, 9,o]^
+l 5 6 [l,5, 6]^
+5 m s [5,m,s]^
+7 a 3 [7,a,3]^
+4 6 t [4, 6,t]^
+5 d 5 [5,d,5]^
+9 i 9 [9,i,9]^
+w l 9 [w,l,9]^
+l 6 o [l,6,o]^
+p a 9 [p,a,9]^
+h 9 e [h,9,e]^
+9 a 5 [9,a,5]^
+9 h d [9,h,d]^
+4 3 9 [4, 3, 9]^
+r 9 r [r,9,r]^
+e w 9 [e,w,9]^
+i t \? [i,t, question mark]^
+5 i g [5,i,g]^
+9 1 r [9, 1,r]^
+9 g f [9,g,f]^
+9 6 h [9, 6,h]^
+7 5 m [7, 5,m]^
+5 3 5 [5, 3, 5]^
+m 5 3 [m,5, 3]^
+m 9 h [m,9,h]^
+7 d a [7,d,a]^
+w 7 i [w,7,i]^
+\? 1 7 [ question mark ,1, 7]^
+9 y d [9,y,d]^
+2 9 f [2, 9,f]^
+4 g t [4,g,t]^
+h \? 3 [h, question mark ,3]^
+7 n f [7,n,f]^
+9 6 9 [9, 6, 9]^
+s l s [s,l,s]^
+9 o i [9,o,i]^
+r n \? [r,n, question mark]^
+n 9 m [n,9,m]^
+r 5 m [r,5,m]^
+y m u [y,m,u]^
+g n i [g,n,i]^
+9 m \? [9,m, question mark]^
+e a h [e,a,h]^
+9 y 9 [9,y,9]^
+s g \? [s,g, question mark]^
+g 6 u [g,6,u]^
+r y t [r,y,t]^
+h 9 6 [h,9, 6]^
+m 9 g [m,9,g]^
+u c y [u,c,y]^
+e 4 9 [e,4, 9]^
+e a e [e,a,e]^
+u 9 g [u,9,g]^
+9 g 9 [9,g,9]^
+7 9 i [7, 9,i]^
+u g a [u,g,a]^
+9 i 1 [9,i,1]^
+w g f [w,g,f]^
+9 t 9 [9,t,9]^
+o h 9 [o,h,9]^
+1 d t [1,d,t]^
+\? n 6 [ question mark ,n,6]^
+w 9 7 [w,9, 7]^
+9 t m [9,t,m]^
+2 \? 5 [2, question mark ,5]^
+i 9 e [i,9,e]^
+t 9 h [t,9,h]^
+m 2 \? [m,2, question mark]^
+5 h y [5,h,y]^
+w 9 f [w,9,f]^
+m p w [m,p,w]^
+c r t [c,r,t]^
+3 4 w [3, 4,w]^
+3 l d [3,l,d]^
+s 9 s [s,9,s]^
+9 g t [9,g,t]^
+e g s [e,g,s]^
+6 r h [6,r,h]^
+4 9 f [4, 9,f]^
+7 9 u [7, 9,u]^
+e t r [e,t,r]^
+1 2 4 [1, 2, 4]^
+w \? 6 [w, question mark ,6]^
+9 \? 2 [9, question mark ,2]^
+w e s [w,e,s]^
+6 5 l [6, 5,l]^
+t r i [t,r,i]^
+w 6 o [w,6,o]^
+s m g [s,m,g]^
+y 9 u [y,9,u]^
+c r y [c,r,y]^
+n 1 \? [n,1, question mark]^
+i 3 c [i,3,c]^
+s y 7 [s,y,7]^
+5 d 9 [5,d,9]^
+y n 1 [y,n,1]^
+w 5 s [w,5,s]^
+6 u 6 [6,u,6]^
+w o 4 [w,o,4]^
+a o w [a,o,w]^
+3 g p [3,g,p]^
+5 9 3 [5, 9, 3]^
+d 7 h [d,7,h]^
+6 o m [6,o,m]^
+\? d h [ question mark ,d,h]^
+5 d m [5,d,m]^
+9 7 5 [9, 7, 5]^
+f a t [f,a,t]^
+1 h n [1,h,n]^
+p 6 a [p,6,a]^
+g 9 w [g,9,w]^
+s t 4 [s,t,4]^
+o i 9 [o,i,9]^
+w 5 r [w,5,r]^
+w o n [w,o,n]^
+f 3 d [f,3,d]^
+6 o 9 [6,o,9]^
+3 9 n [3, 9,n]^
+o e 5 [o,e,5]^
+1 y s [1,y,s]^
+4 i 9 [4,i,9]^
+h 7 t [h,7,t]^
+9 1 r [9, 1,r]^
+l d y [l,d,y]^
+n c m [n,c,m]^
+1 7 9 [1, 7, 9]^
+3 9 m [3, 9,m]^
+h 4 5 [h,4, 5]^
+t g n [t,g,n]^
+t w p [t,w,p]^
+4 y h [4,y,h]^
+g n \? [g,n, question mark]^
+u \? e [u, question mark ,e]^
+4 f a [4,f,a]^
+7 w p [7,w,p]^
+o w 5 [o,w,5]^
+6 \? 9 [6, question mark ,9]^
+1 w 9 [1,w,9]^
+r e 6 [r,e,6]^
+w h 9 [w,h,9]^
+6 9 d [6, 9,d]^
+9 c p [9,c,p]^
+l 3 2 [l,3, 2]^
+9 1 9 [9, 1, 9]^
+y 9 \? [y,9, question mark]^
+9 p n [9,p,n]^
+a 9 y [a,9,y]^
+6 7 s [6, 7,s]^
+9 p s [9,p,s]^
+w s 1 [w,s,1]^
+n r d [n,r,d]^
+c 7 n [c,7,n]^
+5 \? 3 [5, question mark ,3]^
+s o 9 [s,o,9]^
+h 9 \? [h,9, question mark]^
+d w h [d,w,h]^
+c 5 9 [c,5, 9]^
+l 9 7 [l,9, 7]^
+2 9 i [2, 9,i]^
+s f n [s,f,n]^
+c 4 d [c,4,d]^
+m y l [m,y,l]^
+m 5 i [m,5,i]^
+\? t 7 [ question mark ,t,7]^
+u 9 f [u,9,f]^
+1 f r [1,f,r]^
+p 3 t [p,3,t]^
+y r p [y,r,p]^
+g 3 t [g,3,t]^
+g 9 a [g,9,a]^
+9 c 1 [9,c,1]^
+r h 9 [r,h,9]^
+f o e [f,o,e]^
+r 1 u [r,1,u]^
+5 2 a [5, 2,a]^
+o 9 h [o,9,h]^
+s 9 e [s,9,e]^
+4 1 p [4, 1,p]^
+w e l [w,e,l]^
+9 4 w [9, 4,w]^
+y m 5 [y,m,5]^
+9 2 5 [9, 2, 5]^
+i 1 \? [i,1, question mark]^
+1 m 9 [1,m,9]^
+h 1 3 [h,1, 3]^
+7 s g [7,s,g]^
+9 p \? [9,p, question mark]^
+9 a w [9,a,w]^
+f d 9 [f,d,9]^
+s 9 \? [s,9, question mark]^
+w 4 c [w,4,c]^
+9 \? p [9, question mark ,p]^
+o 4 n [o,4,n]^
+y c 9 [y,c,9]^
+2 p \? [2,p, question mark]^
+5 1 i [5, 1,i]^
+a n a [a,n,a]^
+d 9 r [d,9,r]^
+g m 1 [g,m,1]^
+c 2 m [c,2,m]^
+p l o [p,l,o]^
+a s u [a,s,u]^
+9 \? f [9, question mark ,f]^
+e r e [e,r,e]^
+h 2 r [h,2,r]^
+7 u 9 [7,u,9]^
+n i n [n,i,n]^
+5 7 d [5, 7,d]^
+9 h 5 [9,h,5]^
