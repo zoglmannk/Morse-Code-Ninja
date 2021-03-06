@@ -10,6 +10,7 @@ use File::Path;
 use File::Spec;
 use Getopt::Long;
 use Digest::SHA qw(sha256_base64);
+use POSIX;
 
 my @speeds;
 sub print_usage;
@@ -20,6 +21,8 @@ GetOptions(
   'c|cache=s'         => \(my $cache_directory = './cache/'),
   's|speeds=s{1,}'    => \@speeds,
   'm|maxprocs=i'      => \(my $max_processes = 10),
+  'z|racing=i'        => \(my $speed_racing = 0), #flag. 0 == false; 1 == true
+  'rr|racingrepeat=i'  => \(my $speed_racing_repeat = 0), #flag. 0 == false; 1 == true
   'test'              => \(my $test = ''), # flag. 1 = don't render audio -- just show what will be rendered -- useful when encoding text
   'l|limit=i'         => \(my $word_limit = -1), # 14 works great... 15 word limit for long sentences; -1 disables it
   'r|repeat'          => \(my $repeat_morse = '1'), # flag. 0 == false
@@ -42,6 +45,9 @@ if("$input_filename" eq "") {
 
   print_usage();
 }
+
+my $speed_racing_multiplier = 1.5;
+my $speed_racing_iterations = 3;
 
 # set default value for speeds here as it is too complex to do it inside the GetOptions call above
 my $speedSize = @speeds;
@@ -354,7 +360,29 @@ foreach(@sentences) {
 
           my $counter = sprintf("%05d",$count);
           my $fork_count = 0;
-          foreach(@speeds) {
+
+          sub uniq { keys { map { $_ => 1 } @_ } };
+
+          my @render_speeds = @speeds;
+          if($speed_racing == 1) {
+            @render_speeds = ();
+            foreach(@speeds) {
+              my $speed = $_;
+              push(@render_speeds, $speed);
+
+              for(my $i=1; $i<=$speed_racing_iterations; $i++) {
+                my $max_speed = $speed * $speed_racing_multiplier;
+                my $iteration_speed = ceil(($max_speed-$speed)/$speed_racing_iterations*$i + $speed);
+                push(@render_speeds, $iteration_speed);
+                print("speed:$speed  max_speed:$max_speed  iteration:$i  iteration_speed:$iteration_speed\n");
+              }
+
+            }
+          }
+
+          @render_speeds = uniq(@render_speeds);
+
+          foreach(@render_speeds) {
             my $speed = $_;
             my $farnsworth = 0;
 
@@ -456,6 +484,7 @@ foreach(@sentences) {
                 unlink "$output_directory/sentence-lower-volume-$speed.mp3" if (-f "$output_directory/sentence-lower-volume-$speed.mp3");
                 print "---- move($output_directory/sentence-lower-volume-$speed-resampled.mp3, $cached_filename)\n";
                 move("$output_directory/sentence-lower-volume-$speed-resampled.mp3", $cached_filename);
+                unlink "$output_directory/sentence-${speed}0000.mp3";
               }
 
               # generate repeat section if it is different than the sentence
@@ -670,23 +699,47 @@ if(!$test) {
             print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
           }
 
-          my $cached_filename = $filename_map{"$counter-$speed"};
-          my $cached_repeat_filename = $filename_map{"$counter-repeat-$speed"};
           my $cached_voiced_filename = $filename_map{"$counter-voiced"};
-          #print "cached_filename: $cached_filename\n";
-          #print "cached_repeat_filename: $cached_repeat_filename\n";
-          print "cached_voiced_filename: $cached_voiced_filename\n";
-          print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
+          if($speed_racing == 1) {
+            for(my $i=$speed_racing_iterations; $i>=0; $i--) {
+              my $max_speed = $speed * $speed_racing_multiplier;
+              my $iteration_speed = ceil(($max_speed-$speed)/$speed_racing_iterations*$i + $speed);
+
+              my $cached_filename = $filename_map{"$counter-$iteration_speed"};
+              print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_filename'\n";
+            }
+            print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
+          } else {
+            my $cached_filename = $filename_map{"$counter-$speed"};
+            print "cached_voiced_filename: $cached_voiced_filename\n";
+            print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
+          }
 
           if($repeat_morse == 0) {
             print $fh_list "file '$cwd/silence-resampled.mp3'\n";
           } else {
             print $fh_list "file '$cwd/silence-resampled2.mp3'\n";
 
+            my $cached_repeat_filename = $filename_map{"$counter-repeat-$speed"};
             if (-e "$cached_repeat_filename") {
               print $fh_list "file '$cached_repeat_filename'\nfile '$cwd/silence-resampled.mp3'\n";
             } else {
-              print $fh_list "file '$cached_filename'\nfile '$cwd/silence-resampled.mp3'\n";
+
+              if($speed_racing == 1) {
+                my $max_speed = ceil($speed * $speed_racing_multiplier);
+                my $cached_filename = $filename_map{"$counter-$max_speed"};
+                if($speed_racing_repeat == 1) {
+                  print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_filename'\n";
+                }
+                print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_filename'\n";
+                print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+
+              } else {
+                my $cached_filename = $filename_map{"$counter-$speed"};
+                print $fh_list "file '$cached_filename'\nfile '$cwd/silence-resampled.mp3'\n";
+              }
+
+
             }
           }
 
@@ -700,6 +753,19 @@ if(!$test) {
                  "$filename_base-$speed"."wpm.mp3");
       # print "cmd-19: @cmdLst\n";
       system(@cmdLst) == 0 or die "ERROR 19: @cmdLst failed, $!\n";
+
+      if($speed_racing == 1) {
+        my $filename_speeds = "";
+        for(my $i=$speed_racing_iterations; $i>=0; $i--) {
+          my $max_speed = $speed * $speed_racing_multiplier;
+          my $iteration_speed = ceil(($max_speed - $speed) / $speed_racing_iterations * $i + $speed);
+          if($i != $speed_racing_iterations) {
+            $filename_speeds .= "-";
+          }
+          $filename_speeds .= "$iteration_speed";
+        }
+        move("$filename_base-${speed}wpm.mp3", "$filename_base-$filename_speeds.wpm.mp3");
+      }
 
       exit;
     }
@@ -716,6 +782,7 @@ if(!$test) {
   
   for (my $i=1; $i <= $count; $i++) {
     my $counter = sprintf("%05d",$i);
+
     unlink glob("'$filename_base-$counter-*.mp3'");
     unlink glob("'$filename_base-$counter.txt'");
   }
@@ -758,6 +825,8 @@ sub print_usage {
   print "    -c, --cache          directory to use for cache specific files\n";
   print "    -s, --speeds         list of speeds in WPM. example -s 15 17 20\n";
   print "    -m, --maxprocs       maximum number of parallel processes to run\n";
+  print "    -z, --racing         speed racing format\n";
+  print "    -rr, --racingrepeat  repeat final repeat. Use with -z (Speed Racing format).\n";
   print "    --test               don't render audio -- just show what will be rendered -- useful when encoding text\n";
   print "    -l, --limit          word limit. 14 works great... 15 word limit for long sentences; -1 disables it\n";
   print "    -r, --repeat         repeat morse after speech\n";
