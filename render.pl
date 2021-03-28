@@ -22,7 +22,7 @@ GetOptions(
   's|speeds=s{1,}'    => \@speeds,
   'm|maxprocs=i'      => \(my $max_processes = 10),
   'z|racing=i'        => \(my $speed_racing = 0), #flag. 0 == false; 1 == true
-  'rr|racingrepeat=i'  => \(my $speed_racing_repeat = 0), #flag. 0 == false; 1 == true
+  'rr|racingrepeat=i' => \(my $speed_racing_repeat = 0), #flag. 0 == false; 1 == true
   'test'              => \(my $test = ''), # flag. 1 = don't render audio -- just show what will be rendered -- useful when encoding text
   'l|limit=i'         => \(my $word_limit = -1), # 14 works great... 15 word limit for long sentences; -1 disables it
   'r|repeat'          => \(my $repeat_morse = '1'), # flag. 0 == false
@@ -33,6 +33,8 @@ GetOptions(
   'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
   'x|extraspace=i'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
+  'p|pitchtone=i'     => \(my $pitch_tone = 700), # tone in Hz for pitch
+  'pitchrandom'       => \(my $pitch_tone_random = '0'), # flag. 0 == false, random pitch tone
 ) or print_usage();
 
 if("$input_filename" eq "") {
@@ -48,6 +50,8 @@ if("$input_filename" eq "") {
 
 my $speed_racing_multiplier = 1.5;
 my $speed_racing_iterations = 3;
+
+my @random_tones = (500, 550, 600, 650, 700, 750, 800, 850, 900);
 
 # set default value for speeds here as it is too complex to do it inside the GetOptions call above
 my $speedSize = @speeds;
@@ -419,8 +423,12 @@ foreach(@sentences) {
               $extra_word_spacing_option = "-W " . $extra_word_spacing;
             }
 
+            if ($pitch_tone_random != 0) {
+              $pitch_tone = $random_tones[ rand @random_tones ];
+            }
+
             my $ebookCmdBase = "ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time " .
-                "$extra_word_spacing_option -f 700 -w $speed -s 44100 ";
+                "$extra_word_spacing_option -f $pitch_tone -w $speed -s 44100 ";
             if ($farnsworth != 0) {
               $ebookCmdBase = $ebookCmdBase . "-e $farnsworth ";
             }
