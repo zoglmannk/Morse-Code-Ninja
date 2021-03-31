@@ -1,0 +1,720 @@
+UP [Up]^
+PSE [Please]^
+NAME [Name]^
+CQ [C Q]^
+DIPOLE [Dipole]^
+HR [Hear]^
+THE [The]^
+QRM [Interference]^
+OF [Of]^
+DR [Dear]^
+CAN [Can]^
+GB [Goodbye]^
+KNOW [Know]^
+QRO [High power]^
+WHAT [What]^
+VY [Very]^
+HI HI [laughing]^
+AS [As]^
+489 [4 8 9]^
+<BT> [B T]^
+WIRE [Wire]^
+EL [Element]^
+SSB [Single Side Band]^
+BE [Be]^
+WHEN [When]^
+WERE [Were]^
+QSO [Q S O]^
+SIG [Signal]^
+A [A]^
+OK [Okay]^
+QSY [Change frequency]^
+HAD [had]^
+DO [Do]^
+CFM [Confirm]^
+GM [Good morning]^
+UR [Your]^
+IT [It]^
+DID [Did]^
+HPE [Hope]^
+PWR [Power]^
+YOUR [Your]^
+ARE [Are]^
+WITH [With]^
+AND [And]^
+/ [Stroke]^
+NR [Number]^
+WELL [Well]^
+HAS [has]^
+559 [5 5 9]^
+QRP [Low power]^
+WE [We]^
+FER [For]^
+LIKE [Like]^
+SWR [S W R]^
+QRQ [High speed]^
+73 [73]^
+OUT [Out]^
+FROM [From]^
+88 [88]^
+LONG [Long]^
+<AR> [A R]^
+YAGI [Yagi]^
+BEEN [Been]^
+599 [5 9 9]^
+DE [From]^
+<SK> [S K]^
+CW [C W]^
+MY [My]^
+FB [Fine business]^
+IF [If]^
+GA [Good afternoon]^
+OCF [Off-center fed dipole]^
+DX [D X]^
+OP [Operator]^
+ANT [Antenna]^
+KEY [Key]^
+ONE [One]^
+HW\? [How copy\?]^
+GL [Good luck]^
+YOU [You]^
+BTU [Back to you]^
+HIS [His]^
+INFO [Information]^
+HE [He]^
+AGN [Again]^
+579 [5 7 9]^
+QRL\? [Are you busy\?]^
+BK [Break]^
+HV [Have]^
+SRI [Sorry]^
+BEAM [Beam]^
+THEY [They]^
+THIS [This]^
+R [Roger]^
+TU [Thank you]^
+ITS [It's]^
+HW [How]^
+589 [5 8 9]^
+CUL [See you later]^
+SO [So]^
+IN [In]^
+IS [Is]^
+ABT [About]^
+QTH [Location]^
+TKS [Thanks]^
+GD [Good]^
+DONT [Don't]^
+QSL [Confirm]^
+SHE [She]^
+QRX [Standby]^
+<KN> [K N]^
+BURO [bureau]^
+RST [R S T]^
+GN [Good night]^
+\? [Question Mark]^
+WUD [Would]^
+RPRT [Report]^
+THERE [There]^
+479 [4 7 9]^
+\. [Period]^
+RX [Receive]^
+AGE [Age]^
+5NN [5 N N]^
+BUT [But]^
+WAS [Was]^
+QRZ\? [Who is calling\?]^
+RIG [Rig]^
+K [K]^
+CPY [Copy]^
+GE [Good evening]^
+RPT [Report]^
+OR [Or]^
+FT [Feet]^
+GUD [Good]^
+NOT [Not]^
+SOME [Some]^
+NW [Now]^
+ON [On]^
+WX [Weather]^
+ALL [All]^
+QSB [Fading]^
+CPI [Copy]^
+BCNU [Be seeing you]^
+MANY [Many]^
+CU [See you]^
+QRS [Slow speed]^
+NO [No]^
+ES [And]^
+QRU [Q R U]^
+WATT [Watt]^
+AT [At]^
+MNI [Many]^
+EFHW [End fed, half-wave]^
+BY [By]^
+HOT [Hot]^
+MORE [More]^
+359 [3 5 9]^
+QRZ [Q R Zed]^
+WILL [Will]^
+QRL [Busy]^
+XYL [Wife]^
+QRT [Stop sending]^
+OM [Old man]^
+PLS [Please]^
+TO [To]^
+RR [Roger Roger]^
+YL [Young lady]^
+QRN [Noise]^
+THEIR [Their]^
+VERT [Vertical]^
+TEST [Contest]^
+TX [Transmit]^
+COLD [Cold]^
+THEM [Them]^
+TNX [Thanks]^
+HOUR [Hour]^
+LOOP [Loop]^
+HAVE [Have]^
+THAT [That]^
+TEMP [Temperature]^
+ARE [Are]^
+WIRE [Wire]^
+LIKE [Like]^
+73 [73]^
+AGE [Age]^
+QSO [Q S O]^
+HPE [Hope]^
+<BT> [B T]^
+GM [Good morning]^
+WE [We]^
+HOUR [Hour]^
+HI HI [laughing]^
+RX [Receive]^
+IS [Is]^
+<AR> [A R]^
+UR [Your]^
+489 [4 8 9]^
+ITS [It's]^
+QRU [Q R U]^
+BEEN [Been]^
+MY [My]^
+QSY [Change frequency]^
+GB [Goodbye]^
+QSB [Fading]^
+QRX [Standby]^
+PWR [Power]^
+ALL [All]^
+TEST [Contest]^
+GA [Good afternoon]^
+FER [For]^
+IN [In]^
+KEY [Key]^
+YAGI [Yagi]^
+QRM [Interference]^
+GN [Good night]^
+\. [Period]^
+589 [5 8 9]^
+VY [Very]^
+YOUR [Your]^
+QRL\? [Are you busy\?]^
+AT [At]^
+TO [To]^
+RR [Roger Roger]^
+NO [No]^
+CUL [See you later]^
+GE [Good evening]^
+QRS [Slow speed]^
+DE [From]^
+COLD [Cold]^
+THEM [Them]^
+QRZ [Q R Zed]^
+QRN [Noise]^
+OUT [Out]^
+CQ [C Q]^
+FT [Feet]^
+DID [Did]^
+599 [5 9 9]^
+HAS [has]^
+SO [So]^
+WELL [Well]^
+HV [Have]^
+BEAM [Beam]^
+AND [And]^
+579 [5 7 9]^
+HAD [had]^
+\? [Question Mark]^
+NAME [Name]^
+RPT [Report]^
+AGN [Again]^
+SRI [Sorry]^
+CFM [Confirm]^
+TU [Thank you]^
+THEIR [Their]^
+KNOW [Know]^
+WITH [With]^
+MANY [Many]^
+WATT [Watt]^
+QRZ\? [Who is calling\?]^
+HW [How]^
+<SK> [S K]^
+UP [Up]^
+ON [On]^
+SIG [Signal]^
+EL [Element]^
+BK [Break]^
+YL [Young lady]^
+QSL [Confirm]^
+DR [Dear]^
+YOU [You]^
+CW [C W]^
+GUD [Good]^
+CU [See you]^
+THEY [They]^
+THE [The]^
+INFO [Information]^
+HOT [Hot]^
+R [Roger]^
+ANT [Antenna]^
+CPY [Copy]^
+IT [It]^
+THAT [That]^
+WHAT [What]^
+DO [Do]^
+TEMP [Temperature]^
+DX [D X]^
+MNI [Many]^
+DONT [Don't]^
+HW\? [How copy\?]^
+BURO [bureau]^
+FB [Fine business]^
+THERE [There]^
+ONE [One]^
+CPI [Copy]^
+THIS [This]^
+SOME [Some]^
+OR [Or]^
+/ [Stroke]^
+TKS [Thanks]^
+LONG [Long]^
+WAS [Was]^
+HAVE [Have]^
+SHE [She]^
+QTH [Location]^
+RIG [Rig]^
+BTU [Back to you]^
+WUD [Would]^
+WERE [Were]^
+FROM [From]^
+EFHW [End fed, half-wave]^
+A [A]^
+5NN [5 N N]^
+DIPOLE [Dipole]^
+QRO [High power]^
+IF [If]^
+OK [Okay]^
+GD [Good]^
+OP [Operator]^
+ES [And]^
+NOT [Not]^
+LOOP [Loop]^
+K [K]^
+BE [Be]^
+OM [Old man]^
+CAN [Can]^
+RST [R S T]^
+HIS [His]^
+GL [Good luck]^
+ABT [About]^
+HE [He]^
+SSB [Single Side Band]^
+MORE [More]^
+VERT [Vertical]^
+QRT [Stop sending]^
+QRP [Low power]^
+QRL [Busy]^
+RPRT [Report]^
+<KN> [K N]^
+BUT [But]^
+BCNU [Be seeing you]^
+TX [Transmit]^
+WX [Weather]^
+BY [By]^
+PLS [Please]^
+479 [4 7 9]^
+359 [3 5 9]^
+88 [88]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+PSE [Please]^
+559 [5 5 9]^
+OF [Of]^
+AS [As]^
+WILL [Will]^
+TNX [Thanks]^
+NR [Number]^
+SWR [S W R]^
+WHEN [When]^
+XYL [Wife]^
+QRQ [High speed]^
+HR [Hear]^
+SOME [Some]^
+DONT [Don't]^
+ON [On]^
+QRU [Q R U]^
+QRM [Interference]^
+QSY [Change frequency]^
+QRL\? [Are you busy\?]^
+BTU [Back to you]^
+BUT [But]^
+ARE [Are]^
+579 [5 7 9]^
+HAVE [Have]^
+BE [Be]^
+AND [And]^
+73 [73]^
+EL [Element]^
+XYL [Wife]^
+DR [Dear]^
+\? [Question Mark]^
+CPY [Copy]^
+K [K]^
+DO [Do]^
+QRQ [High speed]^
+QSL [Confirm]^
+BEEN [Been]^
+IN [In]^
+WE [We]^
+HW [How]^
+CUL [See you later]^
+OR [Or]^
+TKS [Thanks]^
+HV [Have]^
+HAS [has]^
+NR [Number]^
+YOUR [Your]^
+489 [4 8 9]^
+IF [If]^
+PSE [Please]^
+WHEN [When]^
+WUD [Would]^
+QSB [Fading]^
+DE [From]^
+LOOP [Loop]^
+AGN [Again]^
+GN [Good night]^
+RST [R S T]^
+/ [Stroke]^
+CPI [Copy]^
+DID [Did]^
+UR [Your]^
+TNX [Thanks]^
+\. [Period]^
+HPE [Hope]^
+YL [Young lady]^
+OK [Okay]^
+DIPOLE [Dipole]^
+THE [The]^
+FB [Fine business]^
+OF [Of]^
+88 [88]^
+QRT [Stop sending]^
+GB [Goodbye]^
+CW [C W]^
+HI HI [laughing]^
+AT [At]^
+WELL [Well]^
+NAME [Name]^
+INFO [Information]^
+GUD [Good]^
+THIS [This]^
+<SK> [S K]^
+<BT> [B T]^
+RIG [Rig]^
+ITS [It's]^
+FROM [From]^
+CFM [Confirm]^
+589 [5 8 9]^
+HOT [Hot]^
+A [A]^
+BY [By]^
+RPT [Report]^
+HAD [had]^
+FT [Feet]^
+NO [No]^
+HE [He]^
+BEAM [Beam]^
+WILL [Will]^
+AGE [Age]^
+EFHW [End fed, half-wave]^
+COLD [Cold]^
+SWR [S W R]^
+AS [As]^
+GE [Good evening]^
+TO [To]^
+THAT [That]^
+QRX [Standby]^
+VY [Very]^
+OUT [Out]^
+HIS [His]^
+WERE [Were]^
+QRN [Noise]^
+HR [Hear]^
+CQ [C Q]^
+IT [It]^
+RR [Roger Roger]^
+ABT [About]^
+CU [See you]^
+RPRT [Report]^
+FER [For]^
+WAS [Was]^
+UP [Up]^
+YAGI [Yagi]^
+KEY [Key]^
+WX [Weather]^
+KNOW [Know]^
+QRZ [Q R Zed]^
+PWR [Power]^
+OCF [Off-center fed dipole]^
+WIRE [Wire]^
+BK [Break]^
+HW\? [How copy\?]^
+SSB [Single Side Band]^
+MY [My]^
+<AR> [A R]^
+THEIR [Their]^
+TEST [Contest]^
+GL [Good luck]^
+BCNU [Be seeing you]^
+SRI [Sorry]^
+LONG [Long]^
+QSO [Q S O]^
+QRP [Low power]^
+NW [Now]^
+359 [3 5 9]^
+QRO [High power]^
+RX [Receive]^
+BURO [bureau]^
+VERT [Vertical]^
+LIKE [Like]^
+WHAT [What]^
+NOT [Not]^
+SIG [Signal]^
+OP [Operator]^
+QRL [Busy]^
+479 [4 7 9]^
+ALL [All]^
+GM [Good morning]^
+MORE [More]^
+R [Roger]^
+GA [Good afternoon]^
+ONE [One]^
+MANY [Many]^
+ES [And]^
+TEMP [Temperature]^
+THERE [There]^
+QRZ\? [Who is calling\?]^
+SO [So]^
+CAN [Can]^
+QTH [Location]^
+WITH [With]^
+DX [D X]^
+PLS [Please]^
+599 [5 9 9]^
+OM [Old man]^
+<KN> [K N]^
+ANT [Antenna]^
+TU [Thank you]^
+IS [Is]^
+THEY [They]^
+MNI [Many]^
+QRS [Slow speed]^
+GD [Good]^
+THEM [Them]^
+SHE [She]^
+WATT [Watt]^
+559 [5 5 9]^
+TX [Transmit]^
+HOUR [Hour]^
+5NN [5 N N]^
+YOU [You]^
+OK [Okay]^
+THEIR [Their]^
+DID [Did]^
+SSB [Single Side Band]^
+CPY [Copy]^
+AGN [Again]^
+CUL [See you later]^
+AS [As]^
+XYL [Wife]^
+489 [4 8 9]^
+HIS [His]^
+SHE [She]^
+<SK> [S K]^
+QRL\? [Are you busy\?]^
+QRL [Busy]^
+<AR> [A R]^
+FROM [From]^
+QSO [Q S O]^
+<KN> [K N]^
+DO [Do]^
+R [Roger]^
+OF [Of]^
+BEAM [Beam]^
+DX [D X]^
+CPI [Copy]^
+OM [Old man]^
+SO [So]^
+YL [Young lady]^
+HAD [had]^
+HOUR [Hour]^
+LONG [Long]^
+KNOW [Know]^
+NR [Number]^
+TKS [Thanks]^
+ABT [About]^
+SRI [Sorry]^
+GA [Good afternoon]^
+HW [How]^
+LOOP [Loop]^
+WX [Weather]^
+CW [C W]^
+WE [We]^
+BEEN [Been]^
+WITH [With]^
+QRT [Stop sending]^
+YOUR [Your]^
+CU [See you]^
+WATT [Watt]^
+SIG [Signal]^
+HOT [Hot]^
+QSL [Confirm]^
+UP [Up]^
+WHEN [When]^
+THEY [They]^
+RPT [Report]^
+QTH [Location]^
+WELL [Well]^
+HAVE [Have]^
+CFM [Confirm]^
+559 [5 5 9]^
+QRP [Low power]^
+OCF [Off-center fed dipole]^
+BTU [Back to you]^
+GD [Good]^
+IS [Is]^
+QRU [Q R U]^
+73 [73]^
+FB [Fine business]^
+FT [Feet]^
+THE [The]^
+THAT [That]^
+PWR [Power]^
+NO [No]^
+ES [And]^
+\. [Period]^
+RIG [Rig]^
+LIKE [Like]^
+BURO [bureau]^
+BK [Break]^
+QRN [Noise]^
+NW [Now]^
+NOT [Not]^
+CAN [Can]^
+QRM [Interference]^
+SWR [S W R]^
+BCNU [Be seeing you]^
+BUT [But]^
+QRZ [Q R Zed]^
+THEM [Them]^
+QSB [Fading]^
+MY [My]^
+TNX [Thanks]^
+DIPOLE [Dipole]^
+/ [Stroke]^
+QRQ [High speed]^
+RR [Roger Roger]^
+THERE [There]^
+RPRT [Report]^
+FER [For]^
+GN [Good night]^
+TEMP [Temperature]^
+<BT> [B T]^
+MORE [More]^
+BY [By]^
+HW\? [How copy\?]^
+GL [Good luck]^
+UR [Your]^
+RST [R S T]^
+TU [Thank you]^
+TEST [Contest]^
+ITS [It's]^
+MANY [Many]^
+THIS [This]^
+AGE [Age]^
+ONE [One]^
+RX [Receive]^
+NAME [Name]^
+599 [5 9 9]^
+589 [5 8 9]^
+DE [From]^
+IT [It]^
+HI HI [laughing]^
+88 [88]^
+QRO [High power]^
+K [K]^
+WAS [Was]^
+479 [4 7 9]^
+HAS [has]^
+HPE [Hope]^
+MNI [Many]^
+DR [Dear]^
+SOME [Some]^
+QRX [Standby]^
+CQ [C Q]^
+ANT [Antenna]^
+OR [Or]^
+WILL [Will]^
+HE [He]^
+WHAT [What]^
+OP [Operator]^
+GUD [Good]^
+QSY [Change frequency]^
+AND [And]^
+HR [Hear]^
+ON [On]^
+GM [Good morning]^
+579 [5 7 9]^
+\? [Question Mark]^
+IN [In]^
+KEY [Key]^
+OUT [Out]^
+TO [To]^
+ARE [Are]^
+WERE [Were]^
+TX [Transmit]^
+PLS [Please]^
+HV [Have]^
+GE [Good evening]^
+359 [3 5 9]^
+VERT [Vertical]^
+YAGI [Yagi]^
+VY [Very]^
+INFO [Information]^
+BE [Be]^
+GB [Goodbye]^
+DONT [Don't]^
+WUD [Would]^
+A [A]^
+EL [Element]^
+COLD [Cold]^
+ALL [All]^
+WIRE [Wire]^
+IF [If]^
+EFHW [End fed, half-wave]^
+QRS [Slow speed]^
+5NN [5 N N]^
+QRZ\? [Who is calling\?]^
+YOU [You]^
+PSE [Please]^
+AT [At]^
