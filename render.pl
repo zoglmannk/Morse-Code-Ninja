@@ -34,7 +34,7 @@ GetOptions(
   'x|extraspace=i'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
   'p|pitchtone=i'     => \(my $pitch_tone = 700), # tone in Hz for pitch
-  'pitchrandom'       => \(my $pitch_tone_random = '0'), # flag. 0 == false, random pitch tone
+  'pr|pitchrandom'    => \(my $pitch_tone_random = '0'), # flag. 0 == false, random pitch tone
 ) or print_usage();
 
 if("$input_filename" eq "") {
@@ -818,9 +818,9 @@ sub print_usage {
   print "  render.pl -- create mp3 audio files defined by an text file. \n\n";
 
   print "\033[1mSYNOPSIS:\033[0m\n";
-  print "  perl render.pl -i file [-o directory] [-s speeds] [-m max processes] [--test] [-l word limit]\n";
-  print "                 [--repeat] [--tone] [-e NEURAL | STANDARD] [--sm] [--ss] [--sv] [-x]\n";
-  print "                 [--lang ENGLISH | SWEDISH]\n\n";
+  print "  perl render.pl -i file [-o directory] [-c directory] [-s speeds] [-p pitch] [-m max processes]\n";
+  print "                 [-z 1] [-rr 1] [--test] [-l word limit] [--repeat] [--tone] [-e NEURAL | STANDARD]\n"; 
+  print "                 [--sm] [--ss] [--sv] [-x] [--lang ENGLISH | SWEDISH]\n\n";
   print "  Uses AWS Polly and requires valid credentials in the aws.properties file.\n\n";
 
   print "\033[1mOPTIONS:\033[0m\n";
@@ -832,6 +832,8 @@ sub print_usage {
   print "    -o, --output         directory to use for temporary files and output mp3 files\n";
   print "    -c, --cache          directory to use for cache specific files\n";
   print "    -s, --speeds         list of speeds in WPM. example -s 15 17 20\n";
+  print "    -p, --pitchtone      pitch. Default 700\n";
+  print "    -pr, --pitchrandom   random pitch on every practice trial.\n";
   print "    -m, --maxprocs       maximum number of parallel processes to run\n";
   print "    -z, --racing         speed racing format\n";
   print "    -rr, --racingrepeat  repeat final repeat. Use with -z (Speed Racing format).\n";
