@@ -365,7 +365,10 @@ foreach(@sentences) {
           my $counter = sprintf("%05d",$count);
           my $fork_count = 0;
 
-          sub uniq { keys { map { $_ => 1 } @_ } };
+          sub uniq {
+            my %seen;
+            return grep { !$seen{$_}++ } @_;
+          }
 
           my @render_speeds = @speeds;
           if($speed_racing == 1) {
