@@ -52,7 +52,7 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
     -c, --cache           directory to use for cache specific files
     -s, --speeds          list of speeds in WPM. example -s 15 17 20
     -p, --pitchtone       tone in Hz for pitch. Default 700
-    -pr, --pitchrandom    random pitch tone from range [500-900] Hz with step 50 Hz for every trial
+    -pr, --pitchrandom    random pitch tone from range [500-900] Hz with step 50 Hz for every practice trial
     -m, --maxprocs        maximum number of parallel processes to run
     -z, --racing          speed racing format
     -rr, --racingrepeat   repeat final repeat. Use with -z (Speed Racing format).
