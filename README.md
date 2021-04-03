@@ -35,8 +35,8 @@ you may define AWS_KEY_ID and AWS_SECRET_ACCESS_KEY as environmental variables.
     render.pl -- create mp3 audio files defined by an text file.
 
 #### SYNOPSIS:
-    perl render.pl -i file [-o directory] [-s speeds] [-m max processes] [--test]
-                   [-l word limit] [--repeat] [--tone] [-e NEURAL | STANDARD] 
+    perl render.pl -i file [-o directory] [-c directory] [-s speeds] [-p pitch] [-pr] [-m max processes]\n";
+                   [-z 1] [-rr 1] [--test] [-l word limit] [--repeat] [--tone] [-e NEURAL | STANDARD]\n";
                    [--sm] [--ss] [--sv] [-x] [--lang ENGLISH | SWEDISH]
 
 Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><br/>
@@ -51,6 +51,8 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
     -o, --output          directory to use for temporary files and output mp3 files
     -c, --cache           directory to use for cache specific files
     -s, --speeds          list of speeds in WPM. example -s 15 17 20
+    -p, --pitchtone       tone in Hz for pitch. Default 700
+    -pr, --pitchrandom    random pitch tone from range [500-900] Hz with step 50 Hz for every trial
     -m, --maxprocs        maximum number of parallel processes to run
     -z, --racing          speed racing format
     -rr, --racingrepeat   repeat final repeat. Use with -z (Speed Racing format).
@@ -64,8 +66,6 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
     --sv, --silencevoice  length of silence between spoken voice and repeated morse code. Default 1 second.
     -x, --extraspace      0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
     -l, --lang            language: ENGLISH or SWEDISH
-    -p, --pitchtone       tone in Hz for pitch
-    --pitchrandom         random pitch tone from range [500-900] Hz with step 50 Hz
 
 # General Notes
 The software has been used extensively to build the [Morse Code Ninja Library](https://morsecode.ninja/practice/index.html).
