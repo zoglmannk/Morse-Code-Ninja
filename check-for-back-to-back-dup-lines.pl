@@ -7,13 +7,15 @@ use warnings;
 use strict;
 
 my $prev_line = "";
+my $num = 1;
 
 while(<>) {
     my $line = $_;
 
     if($line eq $prev_line) {
-        print "Duplicate line: $line";
+        print "Duplicate line $num: $line";
     }
 
+    $num++;
     $prev_line = $line;
 }

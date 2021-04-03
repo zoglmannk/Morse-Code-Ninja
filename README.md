@@ -64,6 +64,8 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
     --sv, --silencevoice  length of silence between spoken voice and repeated morse code. Default 1 second.
     -x, --extraspace      0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
     -l, --lang            language: ENGLISH or SWEDISH
+    -p, --pitchtone       tone in Hz for pitch
+    --pitchrandom         random pitch tone from range [500-900] Hz with step 50 Hz
 
 # General Notes
 The software has been used extensively to build the [Morse Code Ninja Library](https://morsecode.ninja/practice/index.html).
