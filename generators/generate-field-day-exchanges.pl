@@ -357,7 +357,8 @@ for(my $i=0; $i<$num_of_rand_selections; $i++) {
 
     my $next_exchange = "";
     while(1==1) {
-        $next_exchange = $transmitter_count_by_class_distribution[$next_class_index] . " " .
+        $transmitter_count_by_class_distribution[$next_class_index] =~ m/^(\d+)(\w)/;
+        $next_exchange = $1 . $2 . " " .
             $entries_by_arrl_section_prefix_distribution[$next_section_index];
         if($next_exchange ne $last_exchange) {
             last;
@@ -365,23 +366,10 @@ for(my $i=0; $i<$num_of_rand_selections; $i++) {
     }
 
     my $spoken_location = $section_pronunciation{$entries_by_arrl_section_prefix_distribution[$next_section_index]};
-    if($transmitter_count_by_class_distribution[$next_class_index] =~ m/^(\d+\w)(\d+\w)$/) {
-        my $class1 = $1;
-        my $class2 = $2;
+    $transmitter_count_by_class_distribution[$next_class_index] =~ m/^(\d+)(\w)/;
+    my $num_operators = $1;
+    my $station_type = $2;
 
-        print "$next_exchange [$class1, $class2, $spoken_location]^\n";
-    } elsif ($transmitter_count_by_class_distribution[$next_class_index] =~ m/^(\d+)(\w)(\w+)$/) {
-        my $num_operators = $1;
-        my $type_part1 = $2;
-        my $type_part2 = $3;
-
-        print "$next_exchange [$num_operators $type_part1 $type_part2, $spoken_location]^\n";
-    } else {
-        $transmitter_count_by_class_distribution[$next_class_index] =~ m/^(\d+)(.*)$/;
-        my $num_operators = $1;
-        my $station_type = $2;
-
-        print "$next_exchange [$num_operators $station_type, $spoken_location]^\n";
-    }
+    print "$next_exchange [$num_operators $station_type, $spoken_location]^\n";
 
 }
