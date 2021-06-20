@@ -51,7 +51,7 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
     -i, --input           name of the text file containing the script to render
     -o, --output          directory to use for temporary files and output mp3 files
     -c, --cache           directory to use for cache specific files
-    -s, --speeds          list of speeds in WPM. example -s 15 17 20
+    -s, --speeds          list of speeds in WPM. example -s 15 17 20 25/10 (Farnsworth specified as character_speed/overall_speed)
     -p, --pitchtone       tone in Hz for pitch. Default 700
     -pr, --pitchrandom    random pitch tone from range [500-900] Hz with step 50 Hz for every practice trial
     -m, --maxprocs        maximum number of parallel processes to run
