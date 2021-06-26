@@ -16,7 +16,7 @@ while(my $phrase = <$fh>) {
 }
 
 my $top_x_phrases = scalar @phrases;
-my $num_random_phrases = $top_x_phrases * 3;
+my $num_random_phrases = $top_x_phrases * 2;
 
 my %prev_picked;
 
@@ -41,11 +41,7 @@ sub pick_uniq_phrase_index {
 for (my $i=0; $i < $num_random_phrases; $i++) {
     my $random_call_index = pick_uniq_phrase_index();
 
-    if($phrases[$random_call_index] =~ m/\?/) {
-        print "$phrases[$random_call_index]\n";
-    } else {
-        print "$phrases[$random_call_index] ^\n";
-    }
+    print "$phrases[$random_call_index] \n";
 
 }
 
