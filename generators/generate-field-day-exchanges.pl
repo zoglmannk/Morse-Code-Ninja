@@ -219,6 +219,7 @@ $section_pronunciation{'MN'} = 'Minnesota';
 $section_pronunciation{'MO'} = 'Missouri';
 $section_pronunciation{'NE'} = 'Nebraska';
 $section_pronunciation{'SD'} = 'South Dakota';
+$section_pronunciation{'ND'} = 'North Dakota';
 
 # Canadian Area Call Sign
 $section_pronunciation{'MAR'} = 'Maritime';
@@ -352,15 +353,19 @@ foreach my $section_prefix (keys %entries_by_arrl_section_prefix) {
 
 my $last_exchange = "";
 for(my $i=0; $i<$num_of_rand_selections; $i++) {
-    my $next_class_index = int(rand(scalar(@transmitter_count_by_class_distribution)));
-    my $next_section_index = int(rand(scalar(@entries_by_arrl_section_prefix_distribution)));
+    my $next_class_index;
+    my $next_section_index;
 
     my $next_exchange = "";
     while(1==1) {
+        $next_class_index = int(rand(scalar(@transmitter_count_by_class_distribution)));
+        $next_section_index = int(rand(scalar(@entries_by_arrl_section_prefix_distribution)));
+
         $transmitter_count_by_class_distribution[$next_class_index] =~ m/^(\d+)(\w)/;
         $next_exchange = $1 . $2 . " " .
             $entries_by_arrl_section_prefix_distribution[$next_section_index];
         if($next_exchange ne $last_exchange) {
+            $last_exchange = $next_exchange;
             last;
         }
     }
@@ -370,6 +375,12 @@ for(my $i=0; $i<$num_of_rand_selections; $i++) {
     my $num_operators = $1;
     my $station_type = $2;
 
-    print "$next_exchange [$num_operators $station_type, $spoken_location]^\n";
+    #overcome mispronunciation
+    if($spoken_location =~ m/Virgin Islands/ && $station_type eq 'A') {
+        print "$next_exchange [$num_operators, $station_type, $spoken_location]^\n";
+    } else {
+        print "$next_exchange [$num_operators $station_type, $spoken_location]^\n";
+    }
+
 
 }
