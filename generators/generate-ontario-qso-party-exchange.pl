@@ -57,5 +57,6 @@ for (my $i=0; $i < $num_random_words; $i++) {
     my $pronounce_abbrev = join(" ", split(//, $abbrev));
 
     my $pronunciation = $ontario_qth_pronunciation{$abbrev};
-    print "5NN $abbrev [5 N N, $pronounce_abbrev, $pronunciation]^\n";
+    $pronounce_abbrev =~ s/N I A/N, I, A/g;
+    print "5NN $abbrev [$pronounce_abbrev, $pronunciation]^\n";
 }
