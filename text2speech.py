@@ -90,7 +90,12 @@ def render(cache_filename, voice_id, text_type, text):
 
 if language == "ENGLISH":
     # short individual words are easier to understand spoken more slowly
-    if re.match(r"^\s*([A-Za-z]{1,4})\s*$", sentence):
+    if re.match(r"<speak>.*?</speak>", sentence):
+        print("Pronouncing exactly as specified")
+        ssml = sentence
+        cache_filename = cache_directory + "Mathew-exact-" + base_filename
+        render(cache_filename, 'Matthew', 'ssml', ssml)
+    elif re.match(r"^\s*([A-Za-z]{1,4})\s*$", sentence):
         print("Pronouncing slowly: " + sentence)
         ssml = "<speak><prosody rate=\"x-slow\">" + sentence + "</prosody></speak>"
         cache_filename = cache_directory + "Mathew-slowly-" + base_filename

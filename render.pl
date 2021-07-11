@@ -256,12 +256,16 @@ sub split_on_spoken_directive {
     $repeat_part =~ s/\^//g;
 
     #temporarily change word speed directive so we can filter invalid characters
-    $sentence_part =~ s/\|(?=w\d+)/XXXWORDSPEEDXXX/g;
+    if($raw !~ m/<speak>.*?<\/speak>/) {
+      $sentence_part =~ s/\|(?=w\d+)/XXXWORDSPEEDXXX/g;
+    }
     $repeat_part =~ s/\|(?=w\d+)/XXXWORDSPEEDXXX/g;
 
     #this should be moved up to safe part.. remember to add ^ and \
     $sentence_part =~ s/[^${upper_lang_chars_regex}${lower_lang_chars_regex}0-9\.\?<>\/,'\s]//g;
-    $spoken_directive =~ s/[^${upper_lang_chars_regex}${lower_lang_chars_regex}0-9\.\?<>,'\s]//g;
+    if($raw !~ m/<speak>.*?<\/speak>/) {
+      $spoken_directive =~ s/[^${upper_lang_chars_regex}${lower_lang_chars_regex}0-9\.\?<>,'\s]//g;
+    }
     $repeat_part =~ s/[^${upper_lang_chars_regex}${lower_lang_chars_regex}0-9\.\?<>\/,'\s]//g;
 
     #temporarily change word speed directive so we can filter invalid characters
