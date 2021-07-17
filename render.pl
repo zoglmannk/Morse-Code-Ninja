@@ -99,7 +99,7 @@ $safe_content =~ s/\s—\s/, /g;
 $safe_content =~ s/’/'/g; # replace non-standard single quote with standard one
 $safe_content =~ s/\h+/ /g; #extra white space
 $safe_content =~ s/(mr|mrs)\./$1/gi;
-$safe_content =~ s/!|;/./g; #convert semi-colon and exclamation point to a period
+$safe_content =~ s/!|(?<!\\);/./g; #convert semi-colon and exclamation point to a period
 $safe_content =~ s/\.\s+(?=\.)/./g; # turn . . . into ...
 
 if(!$test) {
@@ -248,11 +248,11 @@ sub split_on_spoken_directive {
     my $spoken_directive = $2.$5;
     my $repeat_part = $4.$5;
 
-
     $sentence_part =~ s/\^//g;
     $spoken_directive =~ s/\^//g;
     $spoken_directive =~ s/\\\././g; #Unescape period
     $spoken_directive =~ s/\\\?/?/g; #Unescape question mark
+    $spoken_directive =~ s/\\\;/;/g; #Unescape semicolon
     $repeat_part =~ s/\^//g;
 
     #temporarily change word speed directive so we can filter invalid characters
