@@ -5,8 +5,11 @@ use Cwd;
 
 # Usage: ./generate-single-letter.pl > single-letters.txt
 # Delay 0.6 seconds
+#
+# Rapid-Fire
+# ./render.pl -i single-letters-rapid-fire.txt -s 15 17 20 22 25 28 30 35 40 45 50 --sm 0.2 -sv 0.3 -ss 0.3
 
-my $number_of_runs = 1600;
+my $number_of_runs = 2500;
 
 my @letters = ('A'..'Z');
 
