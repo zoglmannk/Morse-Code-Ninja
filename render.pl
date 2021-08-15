@@ -9,7 +9,7 @@ use File::Copy;
 use File::Path;
 use File::Spec;
 use Getopt::Long;
-use Digest::SHA qw(sha256_base64);
+use Digest::SHA qw(sha256_hex sha256_base64);
 use POSIX;
 
 my @speeds;
@@ -470,84 +470,112 @@ foreach(@sentences) {
               $filename_map{"$counter-repeat-$speed"} = $cached_repeat_filename;
             }
 
-            my $pid = fork();
-            die if not defined $pid;
-            if($pid) {
-              # parent
-              $fork_count++;
-              print "fork() -- pid: $pid\n";  
+            # Warning this logic must stay in sync with tex2speech.py
+            sub get_text2speech_cached_filename {
+              my ($lang, $sentence, $cache_directory) = @_;
 
-            } else {
-
-              if(! -f $cached_filename) {
-                $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-${speed} $output_directory/sentence.txt";
-                #print "cmd-6: $ebookCmd\n";
-
-                system($ebookCmd) == 0 or die "ERROR 6: $ebookCmd failed, $!\n";
-
-                unlink "$output_directory/sentence-lower-volume-$speed.mp3" if (-f "$output_directory/sentence-lower-volume-$speed.mp3");
-
-                $cmd = "ffmpeg -i $output_directory/sentence-${speed}0000.mp3 -filter:a \"volume=0.5\" $output_directory/sentence-lower-volume-${speed}.mp3\n";
-                # print "cmd-7: $cmd\n";
-                system($cmd) == 0 or die "ERROR 7: $cmd failed, $!\n";
-
-                @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
-                    "$output_directory/sentence-lower-volume-$speed.mp3",
-                    "$output_directory/sentence-lower-volume-$speed-resampled.mp3");
-                # print "cmdLst-16: @cmdLst\n";
-                system(@cmdLst) == 0 or die "ERROR: @cmdLst failed, $!\n";
-
-                unlink "$output_directory/sentence-lower-volume-$speed.mp3" if (-f "$output_directory/sentence-lower-volume-$speed.mp3");
-                print "---- move($output_directory/sentence-lower-volume-$speed-resampled.mp3, $cached_filename)\n";
-                move("$output_directory/sentence-lower-volume-$speed-resampled.mp3", $cached_filename);
-                unlink "$output_directory/sentence-${speed}0000.mp3";
+              my $cached_filename = "";
+              if($lang eq 'ENGLISH') {
+                if ($sentence =~ m/<speak>.*?<\/speak>/) {
+                  $cached_filename = "Mathew-exact-";
+                } elsif ($sentence =~ m/^\s*([A-Za-z]{1,4})\s*$/) {
+                  $cached_filename = "Mathew-slowly-";
+                } else {
+                  $cached_filename = "Mathew-standard-";
+                }
+              } else {
+                $cached_filename = "${lang}-standard-";
               }
 
-              # generate repeat section if it is different than the sentence
-              if(!$no_repeat_morse && $word_limit == -1 && $repeat_part ne $sentence_part && (! -f $cached_repeat_filename)) {
-                open(my $fh_repeat, '>', "$output_directory/sentence-repeat.txt");
-                print $fh_repeat "$repeat_part\n";
-                close $fh_repeat;
+              $cached_filename .= $text_to_speech_engine . "-" . sha256_hex($sentence) . ".mp3";
+              $cached_filename = $cache_directory . $cached_filename;
 
-                $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-repeat-${speed} $output_directory/sentence-repeat.txt";
-                # print "cmd-8: $ebookCmd\n";
-                system($ebookCmd) == 0 or die "ERROR 8: $cmd failed, $!\n";
+              return $cached_filename;
+            }
 
-                unlink "$output_directory/sentence-repeat-lower-volume-$speed.mp3" if (-f "$output_directory.sentence-repeat-lower-volume-$speed.mp3");
+            # Only fork if there is work to do
+            if((! -f $cached_filename) || (!$no_repeat_morse && $word_limit == -1 && $repeat_part ne $sentence_part && (! -f $cached_repeat_filename))) {
+              my $pid = fork();
+              die if not defined $pid;
+              if ($pid) {
+                # parent
+                $fork_count++;
+                print "fork() -- pid: $pid\n";
 
-                $cmd = sprintf('ffmpeg -i '.$output_directory.'/sentence-repeat-%d0000.mp3 -filter:a "volume=0.5" '.$output_directory.'/sentence-repeat-lower-volume-%d.mp3', $speed, $speed);
-                # print "cmd-9: $cmd\n";
-                system($cmd);
-                if ($? == -1) {
+              } else {
+
+                if (!-f $cached_filename) {
+                  $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-${speed} $output_directory/sentence.txt";
+                  #print "cmd-6: $ebookCmd\n";
+
+                  system($ebookCmd) == 0 or die "ERROR 6: $ebookCmd failed, $!\n";
+
+                  unlink "$output_directory/sentence-lower-volume-$speed.mp3" if (-f "$output_directory/sentence-lower-volume-$speed.mp3");
+
+                  $cmd = "ffmpeg -i $output_directory/sentence-${speed}0000.mp3 -filter:a \"volume=0.5\" $output_directory/sentence-lower-volume-${speed}.mp3\n";
+                  # print "cmd-7: $cmd\n";
+                  system($cmd) == 0 or die "ERROR 7: $cmd failed, $!\n";
+
+                  @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
+                      "$output_directory/sentence-lower-volume-$speed.mp3",
+                      "$output_directory/sentence-lower-volume-$speed-resampled.mp3");
+                  # print "cmdLst-16: @cmdLst\n";
+                  system(@cmdLst) == 0 or die "ERROR: @cmdLst failed, $!\n";
+
+                  unlink "$output_directory/sentence-lower-volume-$speed.mp3" if (-f "$output_directory/sentence-lower-volume-$speed.mp3");
+                  print "---- move($output_directory/sentence-lower-volume-$speed-resampled.mp3, $cached_filename)\n";
+                  move("$output_directory/sentence-lower-volume-$speed-resampled.mp3", $cached_filename);
+                  unlink "$output_directory/sentence-${speed}0000.mp3";
+                }
+
+                # generate repeat section if it is different than the sentence
+                if (!$no_repeat_morse && $word_limit == -1 && $repeat_part ne $sentence_part && (!-f $cached_repeat_filename)) {
+                  open(my $fh_repeat, '>', "$output_directory/sentence-repeat.txt");
+                  print $fh_repeat "$repeat_part\n";
+                  close $fh_repeat;
+
+                  $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-repeat-${speed} $output_directory/sentence-repeat.txt";
+                  # print "cmd-8: $ebookCmd\n";
+                  system($ebookCmd) == 0 or die "ERROR 8: $cmd failed, $!\n";
+
+                  unlink "$output_directory/sentence-repeat-lower-volume-$speed.mp3" if (-f "$output_directory.sentence-repeat-lower-volume-$speed.mp3");
+
+                  $cmd = sprintf('ffmpeg -i ' . $output_directory . '/sentence-repeat-%d0000.mp3 -filter:a "volume=0.5" ' . $output_directory . '/sentence-repeat-lower-volume-%d.mp3', $speed, $speed);
+                  # print "cmd-9: $cmd\n";
+                  system($cmd);
+                  if ($? == -1) {
                     print "ERROR: cmd: $cmd failed to execute: $!\n";
                     exit 9;
-                }
-                elsif ($? & 127) {
+                  }
+                  elsif ($? & 127) {
                     printf "cmd: $cmd died with signal %d, %s coredump\n",
                         ($? & 127), ($? & 128) ? 'with' : 'without';
                     exit 9;
-                }
-                else {
+                  }
+                  else {
                     my $ecode = $? >> 8;
                     if ($ecode != 0) {
-                        printf "ERROR cmd: $cmd unsuccessful: $!\n";
-                        exit 9;
+                      printf "ERROR cmd: $cmd unsuccessful: $!\n";
+                      exit 9;
                     }
-                }
-                unlink "${output_directory}/sentence-repeat-${speed}0000.mp3";
+                  }
+                  unlink "${output_directory}/sentence-repeat-${speed}0000.mp3";
 
-                @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
-                    "$output_directory/sentence-repeat-lower-volume-${speed}.mp3",
-                    "$output_directory/sentence-repeat-lower-volume-${speed}-resampled.mp3");
-                # print "cmd-18: @cmdLst\n";
-                system(@cmdLst) == 0 or die "ERROR 18: @cmdLst failed, $!\n";
+                  @cmdLst = ("lame", "--resample", "44.1", "-a", "-b", "256",
+                      "$output_directory/sentence-repeat-lower-volume-${speed}.mp3",
+                      "$output_directory/sentence-repeat-lower-volume-${speed}-resampled.mp3");
+                  # print "cmd-18: @cmdLst\n";
+                  system(@cmdLst) == 0 or die "ERROR 18: @cmdLst failed, $!\n";
 
-                move("$output_directory/sentence-repeat-lower-volume-${speed}-resampled.mp3", $cached_repeat_filename);
-              }   # repeat morse if clause
+                  move("$output_directory/sentence-repeat-lower-volume-${speed}-resampled.mp3", $cached_repeat_filename);
+                } # repeat morse if clause
 
-              exit;
+                exit;
 
-            }   # child process
+              } # child process
+
+            }
+
           }  # foreach(@speeds)
 
           for (1 .. $fork_count) {
@@ -564,40 +592,45 @@ foreach(@sentences) {
           }
 
           my $exit_code = -1;
-          while($exit_code != 0 && !$no_spoken) {
-            my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
-
-            my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
-            print "execute $cmd\n";
-
-            my $output = `$cmd`;
-            print "$output";
-            $exit_code = $?;
-            $output =~ m/Cached filename:(.*)\n/;
-            my $voiced_filename = $1;
-            print "voiced_filename: $voiced_filename\n";
+          my $voiced_filename = get_text2speech_cached_filename($lang, "$sentence_chunk\n", $cache_directory);
+          if(-e $voiced_filename) {
             $filename_map{"$counter-voiced"} = $voiced_filename;
-            if ($exit_code == -1) {
+          } else {
+            while ($exit_code != 0 && !$no_spoken) {
+              my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
+
+              my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
+              print "execute $cmd\n";
+
+              my $output = `$cmd`;
+              print "$output";
+              $exit_code = $?;
+              $output =~ m/Cached filename:(.*)\n/;
+              my $voiced_filename = $1;
+              print "voiced_filename: $voiced_filename\n";
+              $filename_map{"$counter-voiced"} = $voiced_filename;
+              if ($exit_code == -1) {
                 print "ERROR: text2speech.py failed to execute: $!\n";
                 exit 1;
-            }
-            elsif ($exit_code & 127) {
+              }
+              elsif ($exit_code & 127) {
                 printf "text2speech.py died with signal %d, %s coredump\n",
                     ($exit_code & 127), ($exit_code & 128) ? 'with' : 'without';
                 exit 1;
-            }
-            else {
+              }
+              else {
                 my $ecode = $exit_code >> 8;
                 printf "text2speech.py exited with value %d\n", $ecode;
 
                 if ($ecode == 1) {
-                    print "text2speech.py exit_code: $exit_code\n";
-                    exit 1;
+                  print "text2speech.py exit_code: $exit_code\n";
+                  exit 1;
                 }
                 elsif ($ecode == $t2sIOError) {
-                    print "ERROR: text2speech.py error reading aws.properties file\n";
-                    exit 1;
+                  print "ERROR: text2speech.py error reading aws.properties file\n";
+                  exit 1;
                 }
+              }
             }
           }
         }

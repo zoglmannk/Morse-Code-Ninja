@@ -87,7 +87,8 @@ def render(cache_filename, voice_id, text_type, text):
     print("Cached filename:" + cache_filename)
 
 
-
+# Warning: if you update this logic, you must update get_text2speech_cached_filename in
+#          render.pl
 if language == "ENGLISH":
     # short individual words are easier to understand spoken more slowly
     if re.match(r"<speak>.*?</speak>", sentence):
