@@ -25,8 +25,9 @@ GetOptions(
   'rr|racingrepeat=i' => \(my $speed_racing_repeat = 0), #flag. 0 == false; 1 == true
   'test'              => \(my $test = ''), # flag. 1 = don't render audio -- just show what will be rendered -- useful when encoding text
   'l|limit=i'         => \(my $word_limit = -1), # 14 works great... 15 word limit for long sentences; -1 disables it
-  'r|repeat'          => \(my $repeat_morse = '1'), # flag. 0 == false
-  'tone'              => \(my $courtesy_tone = '1'), # flag. 0 == false
+  'norepeat'          => \(my $no_repeat_morse), # flag
+  'nospoken'          => \(my $no_spoken), # flag
+  'nocourtesytone'    => \(my $no_courtesy_tone), # flag
   'e|engine=s'        => \(my $text_to_speech_engine = "neural"), # neural | standard
   'sm|silencemorse=s' => \(my $silence_between_morse_code_and_spoken_voice = "1"),
   'ss|silencesets=s'  => \(my $silence_between_sets = "1"), # typically "1" sec
@@ -465,7 +466,7 @@ foreach(@sentences) {
             $filename_map{"$counter-$speed"} = $cached_filename;
 
             my $cached_repeat_filename = get_cached_filename($ebookCmdBase, $repeat_part);
-            if($repeat_morse != 0 && $word_limit == -1 && $repeat_part ne $sentence_part) {
+            if(!$no_repeat_morse && $word_limit == -1 && $repeat_part ne $sentence_part) {
               $filename_map{"$counter-repeat-$speed"} = $cached_repeat_filename;
             }
 
@@ -503,7 +504,7 @@ foreach(@sentences) {
               }
 
               # generate repeat section if it is different than the sentence
-              if($repeat_morse != 0 && $word_limit == -1 && $repeat_part ne $sentence_part && (! -f $cached_repeat_filename)) {
+              if(!$no_repeat_morse && $word_limit == -1 && $repeat_part ne $sentence_part && (! -f $cached_repeat_filename)) {
                 open(my $fh_repeat, '>', "$output_directory/sentence-repeat.txt");
                 print $fh_repeat "$repeat_part\n";
                 close $fh_repeat;
@@ -563,7 +564,7 @@ foreach(@sentences) {
           }
 
           my $exit_code = -1;
-          while($exit_code != 0) {
+          while($exit_code != 0 && !$no_spoken) {
             my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
 
             my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
@@ -614,7 +615,7 @@ foreach(@sentences) {
         my $counter = sprintf("%05d",$count);
         rename("$output_directory/sentence.txt ", '$filename_base-$counter-full.txt');
         my $exit_code = -1;
-        while($exit_code != 0) {
+        while($exit_code != 0 && $no_spoken != 0) {
           my $cmd = './text2speech.py '."$filename_base-${counter}-full $text_to_speech_engine $lang $cache_directory";
           my $output = `$cmd`;
           $output =~ m/^Cached filename:(.*)\n/;
@@ -710,7 +711,7 @@ if(!$test) {
           # Not full sentence\n";
           if($first_for_given_speed == 1) {
             $first_for_given_speed = 0;
-          } elsif ($courtesy_tone != 0) {
+          } elsif (!$no_courtesy_tone) {
             print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
           }
 
@@ -723,14 +724,20 @@ if(!$test) {
               my $cached_filename = $filename_map{"$counter-$iteration_speed"};
               print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_filename'\n";
             }
-            print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
+            if(!$no_spoken) {
+              print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
+            }
           } else {
             my $cached_filename = $filename_map{"$counter-$speed"};
-            print "cached_voiced_filename: $cached_voiced_filename\n";
-            print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
+            if($no_spoken) {
+              print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\n";
+            } else {
+              print "cached_voiced_filename: $cached_voiced_filename\n";
+              print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
+            }
           }
 
-          if($repeat_morse == 0) {
+          if($no_repeat_morse) {
             print $fh_list "file '$cwd/silence-resampled.mp3'\n";
           } else {
             print $fh_list "file '$cwd/silence-resampled2.mp3'\n";
@@ -826,7 +833,7 @@ sub print_usage {
 
   print "\033[1mSYNOPSIS:\033[0m\n";
   print "  perl render.pl -i file [-o directory] [-c directory] [-s speeds] [-p pitch] [-pr] [-m max processes]\n";
-  print "                 [-z 1] [-rr 1] [--test] [-l word limit] [--repeat] [--tone] [-e NEURAL | STANDARD]\n"; 
+  print "                 [-z 1] [-rr 1] [--test] [-l word limit] [--norepeat] [--nocourtesytone] [-e NEURAL | STANDARD]\n";
   print "                 [--sm] [--ss] [--sv] [-x] [--lang ENGLISH | SWEDISH]\n\n";
   print "  Uses AWS Polly and requires valid credentials in the aws.properties file.\n\n";
 
@@ -846,8 +853,9 @@ sub print_usage {
   print "    -rr, --racingrepeat  repeat final repeat. Use with -z (Speed Racing format).\n";
   print "    --test               don't render audio -- just show what will be rendered -- useful when encoding text\n";
   print "    -l, --limit          word limit. 14 works great... 15 word limit for long sentences; -1 disables it\n";
-  print "    -r, --repeat         repeat morse after speech\n";
-  print "    --tone               include the courtesy tone\n";
+  print "    --norepeat           exclude repeat morse after speech.\n";
+  print "    --nospoken           exclude spoken\n";
+  print "    --nocourtesytone     exclude the courtesy tone\n";
   print "    -e, --engine         name of Polly speech engine to use: NEURAL or STANDARD\n";
   print "    --sm, --silencemorse length of silence between Morse code and spoken voice. Default 1 second.\n";
   print "    --ss, --silencesets  length of silence between courtesy tone and next practice set. Default 1 second.\n";
