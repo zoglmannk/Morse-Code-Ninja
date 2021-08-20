@@ -8,11 +8,14 @@ use Cwd;
 #
 # Rapid-Fire
 # ./render.pl -i single-letter-number-rapid-fire.txt -s 15 17 20 22 25 28 30 35 40 45 50 --sm 0.2 -sv 0.3 -ss 0.3
+#
+# Mind Melt
+# ./render.pl -i single-letter-number-mind-melt.txt -s 15 17 20 22 25 28 30 35 40 45 50 --norepeat --nocourtesytone -ss 0.2 -sm 0.2 -sv 0.2
 
 # Check distribution ./generate-single-letter-number.pl | sort | uniq -c
 
-my $number_of_runs = 2500;
-my $equal_propability_between_sets = 0;
+my $number_of_runs = 5000;
+my $equal_propability_between_sets = 1;
 
 my @letters = ('A'..'Z');
 my @numbers = (0 .. 9);
