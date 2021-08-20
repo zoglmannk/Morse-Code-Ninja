@@ -37,8 +37,8 @@ you may define AWS_KEY_ID and AWS_SECRET_ACCESS_KEY as environmental variables.
 #### SYNOPSIS:
     perl render.pl -i file [-o directory] [-c directory] [-s speeds] [-p pitch] [-pr]
                    [-m max processes] [-z 1] [-rr 1] [--test] [-l word limit]
-                   [--repeat] [--tone] [-e NEURAL | STANDARD] [--sm] [--ss] [--sv] 
-                   [-x] [--lang ENGLISH | SWEDISH]
+                   [--norepeat] [--nospoken] [--nocourtesytone] [-e NEURAL | STANDARD] 
+                   [--sm] [--ss] [--sv] [-x] [--lang ENGLISH | SWEDISH]
 
 Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><br/>
 
@@ -59,7 +59,9 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
     -rr, --racingrepeat   repeat final repeat. Use with -z (Speed Racing format).
     --test                don't render audio -- just show what will be rendered -- useful when encoding text
     -l, --limit           word limit. 14 works great... 15 word limit for long sentences; -1 disables it
-    -r, --repeat          repeat morse after speech
+    --norepeat            exclude repeat morse after speech
+    --nospoken            exclude spoken
+    --nocourtesytone      exclude the courtesy tone
     --tone                include the courtesy tone
     -e, --engine          name of Polly speech engine to use: NEURAL or STANDARD
     --sm, --silencemorse  length of silence between Morse code and spoken voice. Default 1 second.
