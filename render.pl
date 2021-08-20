@@ -866,8 +866,8 @@ sub print_usage {
 
   print "\033[1mSYNOPSIS:\033[0m\n";
   print "  perl render.pl -i file [-o directory] [-c directory] [-s speeds] [-p pitch] [-pr] [-m max processes]\n";
-  print "                 [-z 1] [-rr 1] [--test] [-l word limit] [--norepeat] [--nocourtesytone] [-e NEURAL | STANDARD]\n";
-  print "                 [--sm] [--ss] [--sv] [-x] [--lang ENGLISH | SWEDISH]\n\n";
+  print "                 [-z 1] [-rr 1] [--test] [-l word limit] [--norepeat] [--nospoken] [--nocourtesytone]\n";
+  print "                 [-e NEURAL | STANDARD] [--sm] [--ss] [--sv] [-x] [--lang ENGLISH | SWEDISH]\n\n";
   print "  Uses AWS Polly and requires valid credentials in the aws.properties file.\n\n";
 
   print "\033[1mOPTIONS:\033[0m\n";
