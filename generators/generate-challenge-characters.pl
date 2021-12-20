@@ -8,11 +8,20 @@ use Cwd;
 # ./generate-challenge-characters.pl > two-challenging-characters.txt
 # neural, 0.7 spacing between voice and 1 for next trial
 
-my $letter_group_size = 3;
+#my $letter_group_size = 3;
 # Usage:
 # ./generate-challenge-characters.pl > three-challenging-characters.txt
 # neural, 0.8 spacing between voice and 1 for next trial
 
+#my $letter_group_size = 4;
+# Usage:
+# ./generate-challenge-characters.pl > four-challenging-characters.txt
+# neural, 1 spacing between voice and 1 for next trial
+
+my $letter_group_size = 5;
+# Usage:
+# ./generate-challenge-characters.pl > five-challenging-characters.txt
+# neural, 1 spacing between voice and 1.2 for next trial
 
 my $num_random_letter_groups = 1600;
 
