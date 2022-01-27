@@ -11,6 +11,8 @@ use File::Spec;
 use Getopt::Long;
 use Digest::SHA qw(sha256_hex sha256_base64);
 use POSIX;
+use List::Util qw(shuffle);
+use List::MoreUtils qw(uniq);
 
 my @speeds;
 sub print_usage;
@@ -22,6 +24,7 @@ GetOptions(
   's|speeds=s{1,}'    => \@speeds,
   'm|maxprocs=i'      => \(my $max_processes = 10),
   'z|racing=i'        => \(my $speed_racing = 0), #flag. 0 == false; 1 == true
+  'w|wordscramble=i' => \(my $word_scramble = 0), #flag. 0 == false; 1 == true
   'rr|racingrepeat=i' => \(my $speed_racing_repeat = 0), #flag. 0 == false; 1 == true
   'test'              => \(my $test = ''), # flag. 1 = don't render audio -- just show what will be rendered -- useful when encoding text
   'l|limit=i'         => \(my $word_limit = -1), # 14 works great... 15 word limit for long sentences; -1 disables it
@@ -37,6 +40,24 @@ GetOptions(
   'p|pitchtone=i'     => \(my $pitch_tone = 700), # tone in Hz for pitch
   'pr|pitchrandom'    => \(my $pitch_tone_random = '0'), # flag. 0 == false, random pitch tone
 ) or print_usage();
+
+if($speed_racing_repeat == 1 && $word_scramble == 1) {
+  print("*****************************************************\n");
+  print("Error: Cannot specify Speed Racing AND Word scramble!!\n");
+  print("*****************************************************\n\n");
+  print_usage();
+}
+
+if($word_scramble == 1 && $word_limit != -1) {
+  print("*****************************************************\n");
+  print("Error: Cannot specify word scramble AND word limit!!\n");
+  print("*****************************************************\n\n");
+  print_usage();
+}
+
+if($word_scramble == 1) {
+  $no_repeat_morse = 1;
+}
 
 if("$input_filename" eq "") {
   print("***************************************\n");
@@ -582,22 +603,12 @@ foreach(@sentences) {
             wait();
           }
 
-          # Generate spoken section
-          if($word_limit != -1) {
-              rename("$output_directory/sentence.txt", '$filename_base-$counter.txt');
-          } else {
-            open(my $fh_spoken, '>', "$filename_base-$counter.txt");
-            print $fh_spoken "$spoken_directive\n";
-            close $fh_spoken;
-          }
+          sub render_speech {
+            my $textFile = $_[0];
 
-          my $exit_code = -1;
-          my $voiced_filename = get_text2speech_cached_filename($lang, "$sentence_chunk\n", $cache_directory);
-          if(-e $voiced_filename) {
-            $filename_map{"$counter-voiced"} = $voiced_filename;
-          } else {
+            my $exit_code = -1;
+            my $voiced_filename = "";
             while ($exit_code != 0 && !$no_spoken) {
-              my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
 
               my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
               print "execute $cmd\n";
@@ -606,9 +617,9 @@ foreach(@sentences) {
               print "$output";
               $exit_code = $?;
               $output =~ m/Cached filename:(.*)\n/;
-              my $voiced_filename = $1;
+              $voiced_filename = $1;
               print "voiced_filename: $voiced_filename\n";
-              $filename_map{"$counter-voiced"} = $voiced_filename;
+
               if ($exit_code == -1) {
                 print "ERROR: text2speech.py failed to execute: $!\n";
                 exit 1;
@@ -632,7 +643,50 @@ foreach(@sentences) {
                 }
               }
             }
+
+            return $voiced_filename;
           }
+
+          # Generate spoken section
+          if($word_limit != -1) {
+              rename("$output_directory/sentence.txt", '$filename_base-$counter.txt');
+          } else {
+            open(my $fh_spoken, '>', "$filename_base-$counter.txt");
+            print $fh_spoken "$spoken_directive\n";
+            close $fh_spoken;
+          }
+
+          my $voiced_filename = get_text2speech_cached_filename($lang, "$sentence_chunk\n", $cache_directory);
+          if(-e $voiced_filename) {
+            $filename_map{"$counter-voiced"} = $voiced_filename;
+          } else {
+            my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
+            my $voiced_filename = render_speech($textFile);
+            $filename_map{"$counter-voiced"} = $voiced_filename;
+          }
+
+          if($word_scramble == 1) {
+            my $scramble_safe = lc($sentence_chunk);
+            $scramble_safe =~ s/[^A-Za-z\s]//g;
+            $scramble_safe = join(', ', shuffle(uniq(split /\s/, $scramble_safe)));
+
+            print ("***********************: $scramble_safe\n");
+
+            my $voiced_filename = get_text2speech_cached_filename($lang, "$scramble_safe\n", $cache_directory);
+            if(-e $voiced_filename) {
+              $filename_map{"$counter-voiced-scrambled"} = $voiced_filename;
+            } else {
+              open(my $fh_spoken, '>', "$filename_base-$counter-scrambled.txt");
+              print $fh_spoken "$scramble_safe\n";
+              close $fh_spoken;
+
+              my $textFile = File::Spec->rel2abs("$filename_base-${counter}-scrambled");
+              my $voiced_filename = render_speech($textFile);
+              $filename_map{"$counter-voiced-scrambled"} = $voiced_filename;
+            }
+          }
+
+
         }
         $count++;
       }
@@ -746,6 +800,11 @@ if(!$test) {
             $first_for_given_speed = 0;
           } elsif (!$no_courtesy_tone) {
             print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
+          }
+
+          if($word_scramble == 1) {
+            my $cached_voiced_filename = $filename_map{"$counter-voiced-scrambled"};
+            print $fh_list "file '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
           }
 
           my $cached_voiced_filename = $filename_map{"$counter-voiced"};
@@ -884,6 +943,7 @@ sub print_usage {
   print "    -m, --maxprocs       maximum number of parallel processes to run\n";
   print "    -z, --racing         speed racing format\n";
   print "    -rr, --racingrepeat  repeat final repeat. Use with -z (Speed Racing format).\n";
+  print "    -w, --wordscramble   word scamble format\n";
   print "    --test               don't render audio -- just show what will be rendered -- useful when encoding text\n";
   print "    -l, --limit          word limit. 14 works great... 15 word limit for long sentences; -1 disables it\n";
   print "    --norepeat           exclude repeat morse after speech.\n";
