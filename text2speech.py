@@ -39,7 +39,7 @@ else:
                     name, value = line.split(separator, 1)
                     aws_properties[name.strip()] = value.strip()
     except IOError as e:
-        print(f"I/O error reading aws.properties: {e.errno}, {e.strerror}")
+        printf("I/O error reading aws.properties: {e.errno}, {e.strerror}")
 
         print("text2speech script does not have AWS credentials.")
         sys.exit(ioError)
