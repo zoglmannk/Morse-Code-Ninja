@@ -6,7 +6,7 @@ use Cwd;
 # Usage: ./generate-pangrams.pl > pangram-challenge.txt
 # process settings: 2 second pause, neural
 
-my $num_random_pangrams = 126*3;
+my $num_random_pangrams = 130*5;
 
 my @pangrams;
 open my $fh, '<', 'data/pangrams.txt';
@@ -46,7 +46,7 @@ for (my $i=0; $i < $num_random_pangrams; $i++) {
 
     my $morse_safe_pangram = $pangram;
     $morse_safe_pangram =~ s/--/, /g;
-    $morse_safe_pangram =~ s/[^A-Za-z0-9,\.\?\\ ]//g;
+    $morse_safe_pangram =~ s/[^A-Za-z0-9,-\.\?\\ ]//g;
 
     print "$morse_safe_pangram [$pangram]^\n";
 }
