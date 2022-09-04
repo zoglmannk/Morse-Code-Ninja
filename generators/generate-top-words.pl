@@ -8,9 +8,9 @@ use Cwd;
 #
 # Set $repeat, $top_x_words, and $num_random_words as appropriate
 
-my $repeat = 3;
-my $top_x_words = 300;  # Maximum value is 500 - There are only 500 words available
-my $num_random_words = 300;
+my $repeat = 1;
+my $top_x_words = 500;  # Maximum value is 500 - There are only 500 words available
+my $num_random_words = 1600;
 
 
 #in order of most common
