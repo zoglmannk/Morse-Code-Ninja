@@ -20,6 +20,7 @@ GetOptions(
   'o|output=s'        => \(my $output_directory = '.'),
   'c|cache=s'         => \(my $cache_directory = './cache/'),
   's|speeds=s{1,}'    => \@speeds,
+  'charactermultiplier=s' => \(my $character_multiplier = "1"),
   'm|maxprocs=i'      => \(my $max_processes = 10),
   'z|racing=i'        => \(my $speed_racing = 0), #flag. 0 == false; 1 == true
   'rr|racingrepeat=i' => \(my $speed_racing_repeat = 0), #flag. 0 == false; 1 == true
@@ -263,7 +264,7 @@ sub split_on_spoken_directive {
     $repeat_part =~ s/\|(?=w\d+)/XXXWORDSPEEDXXX/g;
 
     #this should be moved up to safe part.. remember to add ^ and \
-    $sentence_part =~ s/[^${upper_lang_chars_regex}${lower_lang_chars_regex}0-9\.\?<>\/,'\s]//g;
+    $sentence_part =~ s/[^${upper_lang_chars_regex}${lower_lang_chars_regex}0-9\.\?<>\/,'\s\|]//g;
     if($raw !~ m/<speak>.*?<\/speak>/) {
       $spoken_directive =~ s/[^${upper_lang_chars_regex}${lower_lang_chars_regex}0-9\.\?<>,'\s]//g;
     }
@@ -439,6 +440,9 @@ foreach(@sentences) {
                 "$extra_word_spacing_option -f $pitch_tone -w $speed -s 44100 ";
             if ($farnsworth != 0) {
               $ebookCmdBase = $ebookCmdBase . "-e $farnsworth ";
+            }
+            if ($character_multiplier ne "1") {
+              $ebookCmdBase = $ebookCmdBase . "-m $character_multiplier ";
             }
 
             sub get_cached_filename {
@@ -879,6 +883,7 @@ sub print_usage {
   print "    -o, --output         directory to use for temporary files and output mp3 files\n";
   print "    -c, --cache          directory to use for cache specific files\n";
   print "    -s, --speeds         list of speeds in WPM. example -s 15 17 20 25/10 (Farnsworth specified as character_speed/overall_speed)\n";
+  print "    --charactermultiplier Special character spacing multiplier\n";
   print "    -p, --pitchtone      tone in Hz for pitch. Default 700\n";
   print "    -pr, --pitchrandom   random pitch tone from range [500-900] Hz with step 50 Hz for every practice trial.\n";
   print "    -m, --maxprocs       maximum number of parallel processes to run\n";
