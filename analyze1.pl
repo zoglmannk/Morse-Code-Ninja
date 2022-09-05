@@ -4,8 +4,17 @@ use strict;
 use warnings;
 use POSIX "fmod";
 
-my $min_length = 0.5; #have been using 0.3 (0.3 to 1.0 is often needed)
+my $min_length = 0.8; #have been using 0.3 (0.3 to 1.0 is often needed)
 my $secondary_length = 0.3; # typically 0.1
+
+### Needed for speciality practice sets
+my $enable_intercharacter_space_less_than = 0;
+my $morse_code_intercharacter_space_less_than = 2.0; #2.0 generally works okay for 2 thur 6x on slower wpm speeds
+
+my $enable_spoken_space_less_than = 0;
+my $spoken_space_less_than = 0.7;
+### End speciality
+
 
 my $current_position = 0;
 my @positions = (
@@ -77,6 +86,17 @@ sub get_position {
     }
 }
 
+sub peek_position {
+    my $type = $_[0];
+
+    if($type eq 'QUIET') {
+        return "Quiet";
+    } else {
+        my $index = $current_position % scalar(@positions2);
+        return $positions2[$index];
+    }
+}
+
 sub format_time {
     my $time = $_[0];
 
@@ -114,12 +134,17 @@ while(<STDIN>) {
         my $next_time_index = $4;
         my $previous_length = $current_time_index - $previous_time_index;
         my $current_length = $next_time_index - $current_time_index;
-        #print "   $previous_type  $previous_time_index len:$previous_length  .. incoming: $next_type $next_time_index .. current: $type  len:$current_length => collapsing:$collapsing\n";
 
-        if($previous_type eq 'NOISY' && ($previous_length < $min_length || $current_length < $secondary_length) && $collapsing == 0) {
+        my $peek_position = peek_position("NOISY");
+        #print "  $peek_position  $previous_type  $previous_time_index len:$previous_length  .. incoming: $next_type $next_time_index .. current: $type  len:$current_length => collapsing:$collapsing\n";
+
+
+        if( ($previous_type eq 'NOISY' && ($previous_length < $min_length || $current_length < $secondary_length) && $collapsing == 0) ||
+            ($enable_spoken_space_less_than && $peek_position eq 'Voice' && $current_length < $spoken_space_less_than && $collapsing == 0) ) {
             $collapsing = 1;
             $collapsing_start_index = $previous_time_index;
-        } elsif($previous_type eq 'QUIET' && $previous_length > $min_length && $collapsing == 1) {
+        } elsif($previous_type eq 'QUIET' && ( $previous_length > $min_length && $collapsing == 1) &&
+            (!$enable_intercharacter_space_less_than || !(($peek_position eq 'Morse' || $peek_position eq 'MorseRepeat' ) && $previous_length < $morse_code_intercharacter_space_less_than)) ) {
             $collapsing = 0;
             $previous_length = $previous_time_index - $collapsing_start_index;
             my $position = get_position("NOISY");
