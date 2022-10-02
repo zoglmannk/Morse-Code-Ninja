@@ -1,0 +1,800 @@
+,N, [Comma, N, Comma]^
+W5, [W, 5, Comma]^
+H5B [H, 5, B]^
+F9E [F, 9, E]^
+CRF [C, R, F]^
+,5P [<speak>Comma, 5, <prosody rate="x-slow">P</prosody></speak>]^
+9IP [<speak>9, I, <prosody rate="x-slow">P</prosody></speak>]^
+O,D [O, Comma, D]^
+FC, [F, C, Comma]^
+B5, [B, 5, Comma]^
+C9, [C, 9, Comma]^
+59, [5, 9, Comma]^
+I59 [I, 5, 9]^
+,9R [Comma, 9, R]^
+O5, [O, 5, Comma]^
+5TE [5, T, E]^
+,HO [Comma, H, O]^
+,5L [Comma, 5, L]^
+UE, [<speak><prosody rate="x-slow">U</prosody>, E, Comma</speak>]^
+59S [5, 9, S]^
+9GS [9, G, S]^
+O,5 [O, Comma, 5]^
+B5P [<speak>B, 5, <prosody rate="x-slow">P</prosody></speak>]^
+59T [5, 9, T]^
+9,5 [9, Comma, 5]^
+9,9 [9, Comma, 9]^
+,SH [Comma, S, H]^
+A95 [A, 9, 5]^
+,9, [Comma, 9, Comma]^
+9,L [9, Comma, L]^
+T5, [T, 5, Comma]^
+9U9 [<speak>9, <prosody rate="x-slow">U</prosody>, 9</speak>]^
+5,5 [5, Comma, 5]^
+G9B [G, 9, B]^
+5BA [5, B, A]^
+,9E [Comma, 9, E]^
+OW, [O, W, Comma]^
+5NI [5, N, I]^
+5SP [<speak>5, S, <prosody rate="x-slow">P</prosody></speak>]^
+LN9 [L, N, 9]^
+FU, [<speak>F, <prosody rate="x-slow">U</prosody>, Comma</speak>]^
+HP, [<speak>H, <prosody rate="x-slow">P</prosody>, Comma</speak>]^
+9,L [9, Comma, L]^
+GWF [G, W, F]^
+,W5 [Comma, W, 5]^
+,9B [Comma, 9, B]^
+U59 [<speak><prosody rate="x-slow">U</prosody>, 5, 9</speak>]^
+ESH [E, S, H]^
+,L, [Comma, L, Comma]^
+OS9 [O, S, 9]^
+5,9 [5, Comma, 9]^
+E,9 [E, Comma, 9]^
+D,5 [D, Comma, 5]^
+959 [9, 5, 9]^
+5EU [<speak>5, E, <prosody rate="x-slow">U</prosody></speak>]^
+I59 [I, 5, 9]^
+5,F [5, Comma, F]^
+RW9 [R, W, 9]^
+HRP [<speak>H, R, <prosody rate="x-slow">P</prosody></speak>]^
+OPI [<speak>O, <prosody rate="x-slow">P</prosody>, I</speak>]^
+,95 [Comma, 9, 5]^
+TR9 [T, R, 9]^
+A5, [A, 5, Comma]^
+N95 [N, 9, 5]^
+9B9 [9, B, 9]^
+RCL [R, C, L]^
+R95 [R, 9, 5]^
+W5A [W, 5, A]^
+,9T [Comma, 9, T]^
+,TR [Comma, T, R]^
+G,E [G, Comma, E]^
+9HI [9, H, I]^
+O5H [O, 5, H]^
+B9O [B, 9, O]^
+TO9 [T, O, 9]^
+,ST [Comma, S, T]^
+5,5 [5, Comma, 5]^
+D5, [D, 5, Comma]^
+D59 [D, 5, 9]^
+R,9 [R, Comma, 9]^
+S5C [S, 5, C]^
+BH, [B, H, Comma]^
+9,5 [9, Comma, 5]^
+9LN [9, L, N]^
+,9B [Comma, 9, B]^
+P9N [<speak><prosody rate="x-slow">P</prosody>, 9, N</speak>]^
+B5O [B, 5, O]^
+A5A [A, 5, A]^
+F,9 [F, Comma, 9]^
+LDC [L, D, C]^
+PE5 [<speak><prosody rate="x-slow">P</prosody>, E, 5</speak>]^
+,5, [Comma, 5, Comma]^
+59A [5, 9, A]^
+,NO [Comma, N, O]^
+A59 [A, 5, 9]^
+59F [5, 9, F]^
+,F5 [Comma, F, 5]^
+U9P [<speak><prosody rate="x-slow">U</prosody>, 9, <prosody rate="x-slow">P</prosody></speak>]^
+5,C [5, Comma, C]^
+SHT [S, H, T]^
+,W5 [Comma, W, 5]^
+,95 [Comma, 9, 5]^
+E5B [E, 5, B]^
+T5H [T, 5, H]^
+,IG [Comma, I, G]^
+TSR [T, S, R]^
+IUH [<speak>I, <prosody rate="x-slow">U</prosody>, H</speak>]^
+5TS [5, T, S]^
+PED [<speak><prosody rate="x-slow">P</prosody>, E, D</speak>]^
+CPI [<speak>C, <prosody rate="x-slow">P</prosody>, I</speak>]^
+9DI [9, D, I]^
+95S [9, 5, S]^
+B9, [B, 9, Comma]^
+95, [9, 5, Comma]^
+59, [5, 9, Comma]^
+RN, [R, N, Comma]^
+5,F [5, Comma, F]^
+,9F [Comma, 9, F]^
+,O5 [Comma, O, 5]^
+,9B [Comma, 9, B]^
+959 [9, 5, 9]^
+,G5 [Comma, G, 5]^
+EHA [E, H, A]^
+OW, [O, W, Comma]^
+59B [5, 9, B]^
+GF5 [G, F, 5]^
+95P [<speak>9, 5, <prosody rate="x-slow">P</prosody></speak>]^
+5FA [5, F, A]^
+5,9 [5, Comma, 9]^
+FT, [F, T, Comma]^
+9,L [9, Comma, L]^
+9CS [9, C, S]^
+C5H [C, 5, H]^
+L,U [<speak>L, Comma, <prosody rate="x-slow">U</prosody></speak>]^
+59, [5, 9, Comma]^
+9F, [9, F, Comma]^
+5,9 [5, Comma, 9]^
+TNL [T, N, L]^
+AFI [A, F, I]^
+CUG [<speak>C, <prosody rate="x-slow">U</prosody>, G</speak>]^
+,D, [Comma, D, Comma]^
+95G [9, 5, G]^
+T,5 [T, Comma, 5]^
+,S9 [Comma, S, 9]^
+S,U [<speak>S, Comma, <prosody rate="x-slow">U</prosody></speak>]^
+B59 [B, 5, 9]^
+5NW [5, N, W]^
+5GO [5, G, O]^
+FGT [F, G, T]^
+WH, [W, H, Comma]^
+9,5 [9, Comma, 5]^
+,59 [Comma, 5, 9]^
+CW9 [C, W, 9]^
+ON9 [O, N, 9]^
+A9E [A, 9, E]^
+5,9 [5, Comma, 9]^
+F59 [F, 5, 9]^
+APA [<speak>A, <prosody rate="x-slow">P</prosody>, A</speak>]^
+W,5 [W, Comma, 5]^
+95C [9, 5, C]^
+9NH [9, N, H]^
+9,T [9, Comma, T]^
+BP5 [<speak>B, <prosody rate="x-slow">P</prosody>, 5</speak>]^
+N9W [N, 9, W]^
+5R5 [5, R, 5]^
+PIW [<speak><prosody rate="x-slow">P</prosody>, I, W</speak>]^
+,LO [Comma, L, O]^
+CBU [<speak>C, B, <prosody rate="x-slow">U</prosody></speak>]^
+,N, [Comma, N, Comma]^
+59H [5, 9, H]^
+,D5 [Comma, D, 5]^
+W9L [W, 9, L]^
+S9B [S, 9, B]^
+IN9 [I, N, 9]^
+DCL [D, C, L]^
+AI9 [A, I, 9]^
+5TS [5, T, S]^
+5DL [5, D, L]^
+,5U [<speak>Comma, 5, <prosody rate="x-slow">U</prosody></speak>]^
+AHO [A, H, O]^
+,R, [Comma, R, Comma]^
+9E, [9, E, Comma]^
+SFU [<speak>S, F, <prosody rate="x-slow">U</prosody></speak>]^
+SI, [S, I, Comma]^
+ADF [A, D, F]^
+LU, [<speak>L, <prosody rate="x-slow">U</prosody>, Comma</speak>]^
+U5C [<speak><prosody rate="x-slow">U</prosody>, 5, C</speak>]^
+5F9 [5, F, 9]^
+L,5 [L, Comma, 5]^
+AIR [A, I, R]^
+C,D [C, Comma, D]^
+595 [5, 9, 5]^
+9TU [<speak>9, T, <prosody rate="x-slow">U</prosody></speak>]^
+,5G [Comma, 5, G]^
+5,9 [5, Comma, 9]^
+W5E [W, 5, E]^
+9HE [9, H, E]^
+NPO [<speak>N, <prosody rate="x-slow">P</prosody>, O</speak>]^
+,9E [Comma, 9, E]^
+W,5 [W, Comma, 5]^
+RCE [R, C, E]^
+,N9 [Comma, N, 9]^
+I9R [I, 9, R]^
+A5, [A, 5, Comma]^
+95O [9, 5, O]^
+SR, [S, R, Comma]^
+L5, [L, 5, Comma]^
+9,5 [9, Comma, 5]^
+LI, [L, I, Comma]^
+SE5 [S, E, 5]^
+,9F [Comma, 9, F]^
+GT5 [G, T, 5]^
+NP, [<speak>N, <prosody rate="x-slow">P</prosody>, Comma</speak>]^
+5A9 [5, A, 9]^
+HBA [H, B, A]^
+5,9 [5, Comma, 9]^
+,59 [Comma, 5, 9]^
+,9, [Comma, 9, Comma]^
+595 [5, 9, 5]^
+N59 [N, 5, 9]^
+W5A [W, 5, A]^
+C59 [C, 5, 9]^
+E5U [<speak>E, 5, <prosody rate="x-slow">U</prosody></speak>]^
+95O [9, 5, O]^
+S,5 [S, Comma, 5]^
+CIP [<speak>C, I, <prosody rate="x-slow">P</prosody></speak>]^
+OCB [O, C, B]^
+D5D [D, 5, D]^
+5D9 [5, D, 9]^
+R5I [R, 5, I]^
+P9S [<speak><prosody rate="x-slow">P</prosody>, 9, S</speak>]^
+59G [5, 9, G]^
+LAT [L, A, T]^
+5GU [<speak>5, G, <prosody rate="x-slow">U</prosody></speak>]^
+AFU [<speak>A, F, <prosody rate="x-slow">U</prosody></speak>]^
+9W9 [9, W, 9]^
+N9S [N, 9, S]^
+9,5 [9, Comma, 5]^
+GIE [G, I, E]^
+9W9 [9, W, 9]^
+5N5 [5, N, 5]^
+95, [9, 5, Comma]^
+5,P [<speak>5, Comma, <prosody rate="x-slow">P</prosody></speak>]^
+,9, [Comma, 9, Comma]^
+T9, [T, 9, Comma]^
+959 [9, 5, 9]^
+L,9 [L, Comma, 9]^
+5S9 [5, S, 9]^
+59, [5, 9, Comma]^
+BU5 [<speak>B, <prosody rate="x-slow">U</prosody>, 5</speak>]^
+,5A [Comma, 5, A]^
+LRF [L, R, F]^
+5TU [<speak>5, T, <prosody rate="x-slow">U</prosody></speak>]^
+59, [5, 9, Comma]^
+BH9 [B, H, 9]^
+,9, [Comma, 9, Comma]^
+5,5 [5, Comma, 5]^
+N9E [N, 9, E]^
+9A, [9, A, Comma]^
+NDP [<speak>N, D, <prosody rate="x-slow">P</prosody></speak>]^
+,P, [<speak>Comma, <prosody rate="x-slow">P</prosody>, Comma</speak>]^
+95, [9, 5, Comma]^
+5,5 [5, Comma, 5]^
+,IA [Comma, I, A]^
+GDN [G, D, N]^
+,59 [Comma, 5, 9]^
+,95 [Comma, 9, 5]^
+EDO [E, D, O]^
+TP, [<speak>T, <prosody rate="x-slow">P</prosody>, Comma</speak>]^
+UB, [<speak><prosody rate="x-slow">U</prosody>, B, Comma</speak>]^
+9N5 [9, N, 5]^
+IC5 [I, C, 5]^
+GA5 [G, A, 5]^
+HWB [H, W, B]^
+5F5 [5, F, 5]^
+959 [9, 5, 9]^
+U5, [<speak><prosody rate="x-slow">U</prosody>, 5, Comma</speak>]^
+5DA [5, D, A]^
+LEC [L, E, C]^
+,59 [Comma, 5, 9]^
+ARF [A, R, F]^
+9SA [9, S, A]^
+5,W [5, Comma, W]^
+DIB [D, I, B]^
+RDB [R, D, B]^
+59W [5, 9, W]^
+OWO [O, W, O]^
+,LF [Comma, L, F]^
+5LW [5, L, W]^
+5I5 [5, I, 5]^
+NS5 [N, S, 5]^
+,NG [Comma, N, G]^
+,BN [Comma, B, N]^
+L9T [L, 9, T]^
+R,L [R, Comma, L]^
+GNO [G, N, O]^
+FCB [F, C, B]^
+5,9 [5, Comma, 9]^
+S9, [S, 9, Comma]^
+FOW [F, O, W]^
+BUP [<speak>B, <prosody rate="x-slow">U</prosody>, <prosody rate="x-slow">P</prosody></speak>]^
+9O9 [9, O, 9]^
+,F9 [Comma, F, 9]^
+,5I [Comma, 5, I]^
+5H5 [5, H, 5]^
+,9, [Comma, 9, Comma]^
+BTB [B, T, B]^
+L5B [L, 5, B]^
+RFB [R, F, B]^
+9GF [9, G, F]^
+WNE [W, N, E]^
+9,F [9, Comma, F]^
+NHA [N, H, A]^
+5AD [5, A, D]^
+GA9 [G, A, 9]^
+,9C [Comma, 9, C]^
+,5I [Comma, 5, I]^
+5N5 [5, N, 5]^
+,9N [Comma, 9, N]^
+D5C [D, 5, C]^
+L5, [L, 5, Comma]^
+D,9 [D, Comma, 9]^
+5,5 [5, Comma, 5]^
+,5B [Comma, 5, B]^
+GCR [G, C, R]^
+,9R [Comma, 9, R]^
+5S9 [5, S, 9]^
+5,9 [5, Comma, 9]^
+59S [5, 9, S]^
+U5P [<speak><prosody rate="x-slow">U</prosody>, 5, <prosody rate="x-slow">P</prosody></speak>]^
+5PA [<speak>5, <prosody rate="x-slow">P</prosody>, A</speak>]^
+5IF [5, I, F]^
+IGB [I, G, B]^
+5T9 [5, T, 9]^
+AL, [A, L, Comma]^
+OWF [O, W, F]^
+IA, [I, A, Comma]^
+DB9 [D, B, 9]^
+L5S [L, 5, S]^
+T,5 [T, Comma, 5]^
+,I, [Comma, I, Comma]^
+U5U [<speak><prosody rate="x-slow">U</prosody>, 5, <prosody rate="x-slow">U</prosody></speak>]^
+5SP [<speak>5, S, <prosody rate="x-slow">P</prosody></speak>]^
+W5, [W, 5, Comma]^
+9,D [9, Comma, D]^
+L,5 [L, Comma, 5]^
+,S9 [Comma, S, 9]^
+5E9 [5, E, 9]^
+S5L [S, 5, L]^
+A,N [A, Comma, N]^
+GR5 [G, R, 5]^
+9P5 [<speak>9, <prosody rate="x-slow">P</prosody>, 5</speak>]^
+GR9 [G, R, 9]^
+,T, [Comma, T, Comma]^
+DU, [<speak>D, <prosody rate="x-slow">U</prosody>, Comma</speak>]^
+5AF [5, A, F]^
+O9, [O, 9, Comma]^
+9IT [9, I, T]^
+,G, [Comma, G, Comma]^
+T9O [T, 9, O]^
+9EP [<speak>9, E, <prosody rate="x-slow">P</prosody></speak>]^
+,US [<speak>Comma, <prosody rate="x-slow">U</prosody>, S</speak>]^
+R5C [R, 5, C]^
+9,U [<speak>9, Comma, <prosody rate="x-slow">U</prosody></speak>]^
+,U9 [<speak>Comma, <prosody rate="x-slow">U</prosody>, 9</speak>]^
+,95 [Comma, 9, 5]^
+,S, [Comma, S, Comma]^
+959 [9, 5, 9]^
+5,E [5, Comma, E]^
+H,9 [H, Comma, 9]^
+N9E [N, 9, E]^
+BDR [B, D, R]^
+9,9 [9, Comma, 9]^
+G5, [G, 5, Comma]^
+FBD [F, B, D]^
+P9R [<speak><prosody rate="x-slow">P</prosody>, 9, R</speak>]^
+,C, [Comma, C, Comma]^
+B,F [B, Comma, F]^
+,R9 [Comma, R, 9]^
+B9H [B, 9, H]^
+5H5 [5, H, 5]^
+DU, [<speak>D, <prosody rate="x-slow">U</prosody>, Comma</speak>]^
+9L9 [9, L, 9]^
+5,9 [5, Comma, 9]^
+FL, [F, L, Comma]^
+D,O [D, Comma, O]^
+B95 [B, 9, 5]^
+UWC [<speak><prosody rate="x-slow">U</prosody>, W, C</speak>]^
+,95 [Comma, 9, 5]^
+C5, [C, 5, Comma]^
+GIH [G, I, H]^
+9DA [9, D, A]^
+9I5 [9, I, 5]^
+PH5 [<speak><prosody rate="x-slow">P</prosody>, H, 5</speak>]^
+TS5 [T, S, 5]^
+,9A [Comma, 9, A]^
+9P, [<speak>9, <prosody rate="x-slow">P</prosody>, Comma</speak>]^
+UN, [<speak><prosody rate="x-slow">U</prosody>, N, Comma</speak>]^
+9,H [9, Comma, H]^
+N,N [N, Comma, N]^
+5I5 [5, I, 5]^
+IRB [I, R, B]^
+9UN [<speak>9, <prosody rate="x-slow">U</prosody>, N</speak>]^
+D9, [D, 9, Comma]^
+N95 [N, 9, 5]^
+B9, [B, 9, Comma]^
+95E [9, 5, E]^
+9P9 [<speak>9, <prosody rate="x-slow">P</prosody>, 9</speak>]^
+5T9 [5, T, 9]^
+B,S [B, Comma, S]^
+9NF [9, N, F]^
+59N [5, 9, N]^
+C,U [<speak>C, Comma, <prosody rate="x-slow">U</prosody></speak>]^
+595 [5, 9, 5]^
+,S9 [Comma, S, 9]^
+,F9 [Comma, F, 9]^
+H5D [H, 5, D]^
+,9T [Comma, 9, T]^
+9,D [9, Comma, D]^
+9O5 [9, O, 5]^
+GNC [G, N, C]^
+DET [D, E, T]^
+U,A [<speak><prosody rate="x-slow">U</prosody>, Comma, A</speak>]^
+,5G [Comma, 5, G]^
+,5P [<speak>Comma, 5, <prosody rate="x-slow">P</prosody></speak>]^
+5G9 [5, G, 9]^
+I5G [I, 5, G]^
+9D9 [9, D, 9]^
+,H9 [Comma, H, 9]^
+CPH [<speak>C, <prosody rate="x-slow">P</prosody>, H</speak>]^
+59, [5, 9, Comma]^
+N9R [N, 9, R]^
+S5R [S, 5, R]^
+95F [9, 5, F]^
+,59 [Comma, 5, 9]^
+W95 [W, 9, 5]^
+9N5 [9, N, 5]^
+,9, [Comma, 9, Comma]^
+5NT [5, N, T]^
+EG5 [E, G, 5]^
+W95 [W, 9, 5]^
+PSG [<speak><prosody rate="x-slow">P</prosody>, S, G</speak>]^
+IP5 [<speak>I, <prosody rate="x-slow">P</prosody>, 5</speak>]^
+,5B [Comma, 5, B]^
+9TS [9, T, S]^
+9LE [9, L, E]^
+,9U [<speak>Comma, 9, <prosody rate="x-slow">U</prosody></speak>]^
+P,O [<speak><prosody rate="x-slow">P</prosody>, Comma, O</speak>]^
+5C5 [5, C, 5]^
+,U5 [<speak>Comma, <prosody rate="x-slow">U</prosody>, 5</speak>]^
+G95 [G, 9, 5]^
+IG9 [I, G, 9]^
+59R [5, 9, R]^
+,CB [Comma, C, B]^
+S,9 [S, Comma, 9]^
+FR, [F, R, Comma]^
+59U [<speak>5, 9, <prosody rate="x-slow">U</prosody></speak>]^
+,5H [Comma, 5, H]^
+W5O [W, 5, O]^
+LP5 [<speak>L, <prosody rate="x-slow">P</prosody>, 5</speak>]^
+9W5 [9, W, 5]^
+FSE [F, S, E]^
+P,9 [<speak><prosody rate="x-slow">P</prosody>, Comma, 9</speak>]^
+WT5 [W, T, 5]^
+GPR [<speak>G, <prosody rate="x-slow">P</prosody>, R</speak>]^
+IL9 [I, L, 9]^
+U95 [<speak><prosody rate="x-slow">U</prosody>, 9, 5</speak>]^
+,F5 [Comma, F, 5]^
+L,R [L, Comma, R]^
+S5, [S, 5, Comma]^
+5,5 [5, Comma, 5]^
+9RU [<speak>9, R, <prosody rate="x-slow">U</prosody></speak>]^
+9FI [9, F, I]^
+5DG [5, D, G]^
+,RT [Comma, R, T]^
+D9, [D, 9, Comma]^
+H,U [<speak>H, Comma, <prosody rate="x-slow">U</prosody></speak>]^
+,SN [Comma, S, N]^
+5CE [5, C, E]^
+59, [5, 9, Comma]^
+5W, [5, W, Comma]^
+9H, [9, H, Comma]^
+W,5 [W, Comma, 5]^
+FTF [F, T, F]^
+,HC [Comma, H, C]^
+E,C [E, Comma, C]^
+,D9 [Comma, D, 9]^
+I59 [I, 5, 9]^
+P95 [<speak><prosody rate="x-slow">P</prosody>, 9, 5</speak>]^
+N5, [N, 5, Comma]^
+BRW [B, R, W]^
+UG5 [<speak><prosody rate="x-slow">U</prosody>, G, 5</speak>]^
+P9G [<speak><prosody rate="x-slow">P</prosody>, 9, G</speak>]^
+,B9 [Comma, B, 9]^
+U5D [<speak><prosody rate="x-slow">U</prosody>, 5, D</speak>]^
+CH, [C, H, Comma]^
+A,5 [A, Comma, 5]^
+95, [9, 5, Comma]^
+CB5 [C, B, 5]^
+R5G [R, 5, G]^
+,9S [Comma, 9, S]^
+PG5 [<speak><prosody rate="x-slow">P</prosody>, G, 5</speak>]^
+9WN [9, W, N]^
+9LG [9, L, G]^
+,N, [Comma, N, Comma]^
+CEB [C, E, B]^
+,G5 [Comma, G, 5]^
+F59 [F, 5, 9]^
+5,U [<speak>5, Comma, <prosody rate="x-slow">U</prosody></speak>]^
+DH, [D, H, Comma]^
+9DE [9, D, E]^
+CB9 [C, B, 9]^
+DO5 [D, O, 5]^
+BDU [<speak>B, D, <prosody rate="x-slow">U</prosody></speak>]^
+,5U [<speak>Comma, 5, <prosody rate="x-slow">U</prosody></speak>]^
+AH9 [A, H, 9]^
+UTP [<speak><prosody rate="x-slow">U</prosody>, T, <prosody rate="x-slow">P</prosody></speak>]^
+,59 [Comma, 5, 9]^
+D,H [D, Comma, H]^
+5,9 [5, Comma, 9]^
+N,I [N, Comma, I]^
+N9, [N, 9, Comma]^
+F,5 [F, Comma, 5]^
+,RD [Comma, R, D]^
+PIN [<speak><prosody rate="x-slow">P</prosody>, I, N</speak>]^
+9,N [9, Comma, N]^
+ILB [I, L, B]^
+95O [9, 5, O]^
+WT9 [W, T, 9]^
+BEN [B, E, N]^
+9PC [<speak>9, <prosody rate="x-slow">P</prosody>, C</speak>]^
+,D9 [Comma, D, 9]^
+R9G [R, 9, G]^
+I9I [I, 9, I]^
+E,F [E, Comma, F]^
+5H, [5, H, Comma]^
+5,9 [5, Comma, 9]^
+A5H [A, 5, H]^
+,5, [Comma, 5, Comma]^
+5,D [5, Comma, D]^
+EO, [E, O, Comma]^
+O9, [O, 9, Comma]^
+5S9 [5, S, 9]^
+,5R [Comma, 5, R]^
+,OC [Comma, O, C]^
+GEG [G, E, G]^
+,95 [Comma, 9, 5]^
+9LW [9, L, W]^
+GP, [<speak>G, <prosody rate="x-slow">P</prosody>, Comma</speak>]^
+ON, [O, N, Comma]^
+5IW [5, I, W]^
+9N, [9, N, Comma]^
+9TN [9, T, N]^
+LD5 [L, D, 5]^
+AUN [<speak>A, <prosody rate="x-slow">U</prosody>, N</speak>]^
+5CA [5, C, A]^
+,SI [Comma, S, I]^
+9UI [<speak>9, <prosody rate="x-slow">U</prosody>, I</speak>]^
+9,5 [9, Comma, 5]^
+9HB [9, H, B]^
+95A [9, 5, A]^
+,9G [Comma, 9, G]^
+U59 [<speak><prosody rate="x-slow">U</prosody>, 5, 9</speak>]^
+,R5 [Comma, R, 5]^
+BDR [B, D, R]^
+N59 [N, 5, 9]^
+ON, [O, N, Comma]^
+95W [9, 5, W]^
+B5P [<speak>B, 5, <prosody rate="x-slow">P</prosody></speak>]^
+,9C [Comma, 9, C]^
+59, [5, 9, Comma]^
+D,5 [D, Comma, 5]^
+,NP [<speak>Comma, N, <prosody rate="x-slow">P</prosody></speak>]^
+U9, [<speak><prosody rate="x-slow">U</prosody>, 9, Comma</speak>]^
+5A, [5, A, Comma]^
+F9P [<speak>F, 9, <prosody rate="x-slow">P</prosody></speak>]^
+,9G [Comma, 9, G]^
+9,5 [9, Comma, 5]^
+IU9 [<speak>I, <prosody rate="x-slow">U</prosody>, 9</speak>]^
+CI5 [C, I, 5]^
+,5S [Comma, 5, S]^
+9,5 [9, Comma, 5]^
+RNL [R, N, L]^
+STS [S, T, S]^
+IA5 [I, A, 5]^
+A,9 [A, Comma, 9]^
+T59 [T, 5, 9]^
+B,F [B, Comma, F]^
+9S9 [9, S, 9]^
+D9, [D, 9, Comma]^
+A,A [A, Comma, A]^
+FAB [F, A, B]^
+WB9 [W, B, 9]^
+59L [5, 9, L]^
+GWU [<speak>G, W, <prosody rate="x-slow">U</prosody></speak>]^
+95B [9, 5, B]^
+DT5 [D, T, 5]^
+95T [9, 5, T]^
+SHD [S, H, D]^
+59U [<speak>5, 9, <prosody rate="x-slow">U</prosody></speak>]^
+T,W [T, Comma, W]^
+USB [<speak><prosody rate="x-slow">U</prosody>, S, B</speak>]^
+,I, [Comma, I, Comma]^
+I9, [I, 9, Comma]^
+95B [9, 5, B]^
+CSL [C, S, L]^
+IC9 [I, C, 9]^
+N,N [N, Comma, N]^
+ROL [R, O, L]^
+9B9 [9, B, 9]^
+OS5 [O, S, 5]^
+9AH [9, A, H]^
+5,5 [5, Comma, 5]^
+,PB [<speak>Comma, <prosody rate="x-slow">P</prosody>, B</speak>]^
+F,9 [F, Comma, 9]^
+,9S [Comma, 9, S]^
+9WN [9, W, N]^
+B5C [B, 5, C]^
+IB5 [I, B, 5]^
+,59 [Comma, 5, 9]^
+SEH [S, E, H]^
+R,5 [R, Comma, 5]^
+,5H [Comma, 5, H]^
+,9, [Comma, 9, Comma]^
+HUI [<speak>H, <prosody rate="x-slow">U</prosody>, I</speak>]^
+,H9 [Comma, H, 9]^
+5GU [<speak>5, G, <prosody rate="x-slow">U</prosody></speak>]^
+5,O [5, Comma, O]^
+,RB [Comma, R, B]^
+,BD [Comma, B, D]^
+5G9 [5, G, 9]^
+HLT [H, L, T]^
+,5, [Comma, 5, Comma]^
+A9L [A, 9, L]^
+U9S [<speak><prosody rate="x-slow">U</prosody>, 9, S</speak>]^
+5,A [5, Comma, A]^
+,5G [Comma, 5, G]^
+WT, [W, T, Comma]^
+SF9 [S, F, 9]^
+,RN [Comma, R, N]^
+9O5 [9, O, 5]^
+,5O [Comma, 5, O]^
+COD [C, O, D]^
+G9P [<speak>G, 9, <prosody rate="x-slow">P</prosody></speak>]^
+5,5 [5, Comma, 5]^
+E,5 [E, Comma, 5]^
+9R5 [9, R, 5]^
+,L, [Comma, L, Comma]^
+CWN [C, W, N]^
+,UR [<speak>Comma, <prosody rate="x-slow">U</prosody>, R</speak>]^
+,U, [<speak>Comma, <prosody rate="x-slow">U</prosody>, Comma</speak>]^
+5S9 [5, S, 9]^
+,95 [Comma, 9, 5]^
+NAF [N, A, F]^
+,95 [Comma, 9, 5]^
+9SF [9, S, F]^
+RU9 [<speak>R, <prosody rate="x-slow">U</prosody>, 9</speak>]^
+D9T [D, 9, T]^
+LU5 [<speak>L, <prosody rate="x-slow">U</prosody>, 5</speak>]^
+F5, [F, 5, Comma]^
+9,L [9, Comma, L]^
+5BT [5, B, T]^
+959 [9, 5, 9]^
+BT5 [B, T, 5]^
+,59 [Comma, 5, 9]^
+GO9 [G, O, 9]^
+,5A [Comma, 5, A]^
+,C5 [Comma, C, 5]^
+AR5 [A, R, 5]^
+R,5 [R, Comma, 5]^
+G9G [G, 9, G]^
+PA9 [<speak><prosody rate="x-slow">P</prosody>, A, 9</speak>]^
+B9, [B, 9, Comma]^
+95T [9, 5, T]^
+5,9 [5, Comma, 9]^
+TFB [T, F, B]^
+WBR [W, B, R]^
+T9, [T, 9, Comma]^
+95, [9, 5, Comma]^
+95I [9, 5, I]^
+U,9 [<speak><prosody rate="x-slow">U</prosody>, Comma, 9</speak>]^
+FND [F, N, D]^
+G9S [G, 9, S]^
+,9, [Comma, 9, Comma]^
+5,5 [5, Comma, 5]^
+,5R [Comma, 5, R]^
+5O, [5, O, Comma]^
+5,9 [5, Comma, 9]^
+GF, [G, F, Comma]^
+B9, [B, 9, Comma]^
+E9, [E, 9, Comma]^
+C,5 [C, Comma, 5]^
+,FE [Comma, F, E]^
+9T9 [9, T, 9]^
+F9, [F, 9, Comma]^
+EL, [E, L, Comma]^
+GI, [G, I, Comma]^
+5E, [5, E, Comma]^
+9P, [<speak>9, <prosody rate="x-slow">P</prosody>, Comma</speak>]^
+5TC [5, T, C]^
+,9N [Comma, 9, N]^
+5BI [5, B, I]^
+TH, [T, H, Comma]^
+9T5 [9, T, 5]^
+R5S [R, 5, S]^
+A59 [A, 5, 9]^
+A59 [A, 5, 9]^
+H9A [H, 9, A]^
+F5, [F, 5, Comma]^
+PTA [<speak><prosody rate="x-slow">P</prosody>, T, A</speak>]^
+9,F [9, Comma, F]^
+5BI [5, B, I]^
+G59 [G, 5, 9]^
+,9W [Comma, 9, W]^
+FG, [F, G, Comma]^
+9D9 [9, D, 9]^
+59R [5, 9, R]^
+W,9 [W, Comma, 9]^
+W5, [W, 5, Comma]^
+5C, [5, C, Comma]^
+DHC [D, H, C]^
+,FI [Comma, F, I]^
+5P, [<speak>5, <prosody rate="x-slow">P</prosody>, Comma</speak>]^
+RU, [<speak>R, <prosody rate="x-slow">U</prosody>, Comma</speak>]^
+GPD [<speak>G, <prosody rate="x-slow">P</prosody>, D</speak>]^
+P9C [<speak><prosody rate="x-slow">P</prosody>, 9, C</speak>]^
+R5R [R, 5, R]^
+,A9 [Comma, A, 9]^
+,TG [Comma, T, G]^
+W,9 [W, Comma, 9]^
+59, [5, 9, Comma]^
+95D [9, 5, D]^
+,A5 [Comma, A, 5]^
+APO [<speak>A, <prosody rate="x-slow">P</prosody>, O</speak>]^
+9,5 [9, Comma, 5]^
+,NC [Comma, N, C]^
+,D5 [Comma, D, 5]^
+FW, [F, W, Comma]^
+I95 [I, 9, 5]^
+95R [9, 5, R]^
+,R5 [Comma, R, 5]^
+,I, [Comma, I, Comma]^
+G5, [G, 5, Comma]^
+5GI [5, G, I]^
+H5, [H, 5, Comma]^
+S5H [S, 5, H]^
+5D, [5, D, Comma]^
+5,L [5, Comma, L]^
+R95 [R, 9, 5]^
+P95 [<speak><prosody rate="x-slow">P</prosody>, 9, 5</speak>]^
+,5, [Comma, 5, Comma]^
+RPE [<speak>R, <prosody rate="x-slow">P</prosody>, E</speak>]^
+SO5 [S, O, 5]^
+OD9 [O, D, 9]^
+,5P [<speak>Comma, 5, <prosody rate="x-slow">P</prosody></speak>]^
+,PH [<speak>Comma, <prosody rate="x-slow">P</prosody>, H</speak>]^
+5,F [5, Comma, F]^
+L9I [L, 9, I]^
+9,P [<speak>9, Comma, <prosody rate="x-slow">P</prosody></speak>]^
+5DF [5, D, F]^
+9FU [<speak>9, F, <prosody rate="x-slow">U</prosody></speak>]^
+9LI [9, L, I]^
+,C5 [Comma, C, 5]^
+9HS [9, H, S]^
+5NW [5, N, W]^
+G9T [G, 9, T]^
+9EW [9, E, W]^
+S9I [S, 9, I]^
+9WA [9, W, A]^
+DL9 [D, L, 9]^
+OIU [<speak>O, I, <prosody rate="x-slow">U</prosody></speak>]^
+WU5 [<speak>W, <prosody rate="x-slow">U</prosody>, 5</speak>]^
+,U, [<speak>Comma, <prosody rate="x-slow">U</prosody>, Comma</speak>]^
+5,9 [5, Comma, 9]^
+GRF [G, R, F]^
+UD5 [<speak><prosody rate="x-slow">U</prosody>, D, 5</speak>]^
+I95 [I, 9, 5]^
+P95 [<speak><prosody rate="x-slow">P</prosody>, 9, 5</speak>]^
+HC9 [H, C, 9]^
+C,9 [C, Comma, 9]^
+5LW [5, L, W]^
+9TE [9, T, E]^
+SFU [<speak>S, F, <prosody rate="x-slow">U</prosody></speak>]^
+9HI [9, H, I]^
+R9D [R, 9, D]^
+NCD [N, C, D]^
+E5A [E, 5, A]^
+PUH [<speak><prosody rate="x-slow">P</prosody>, <prosody rate="x-slow">U</prosody>, H</speak>]^
+9,D [9, Comma, D]^
+U5A [<speak><prosody rate="x-slow">U</prosody>, 5, A</speak>]^
+95, [9, 5, Comma]^
+F9, [F, 9, Comma]^
+5UP [<speak>5, <prosody rate="x-slow">U</prosody>, <prosody rate="x-slow">P</prosody></speak>]^
+G,I [G, Comma, I]^
+U,W [<speak><prosody rate="x-slow">U</prosody>, Comma, W</speak>]^
+595 [5, 9, 5]^
+GTR [G, T, R]^
+959 [9, 5, 9]^
+O9E [O, 9, E]^
+9H, [9, H, Comma]^

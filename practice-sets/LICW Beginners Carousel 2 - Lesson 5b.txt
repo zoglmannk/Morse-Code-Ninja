@@ -1,0 +1,800 @@
+TS [T,S]^
+<BT>W [B T,W]^
+<SK>I [S K,I]^
+T<AR> [T, A R]^
+<SK><AR> [S K, A R]^
+I<SK> [I,S K]^
+<AR><SK> [A R,S K]^
+FW [F,W]^
+<BT><AR> [B T, A R]^
+D<SK> [D,S K]^
+U<AR> [<speak><prosody rate="x-slow">U</prosody>, A R</speak>]^
+H<BT> [H,B T]^
+T<SK> [T,S K]^
+<AR><SK> [A R,S K]^
+RS [R,S]^
+AC [A,C]^
+FC [F,C]^
+FA [F,A]^
+LG [L,G]^
+<SK>N [S K,N]^
+<BT>S [B T,S]^
+<SK><AR> [S K, A R]^
+<BT><SK> [B T,S K]^
+W<SK> [W,S K]^
+D<AR> [D, A R]^
+<SK><BT> [S K,B T]^
+<SK><AR> [S K, A R]^
+<BT><AR> [B T, A R]^
+H<SK> [H,S K]^
+<BT><AR> [B T, A R]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+O<BT> [O,B T]^
+<SK>E [S K,E]^
+S<BT> [S,B T]^
+A<AR> [A, A R]^
+U<SK> [<speak><prosody rate="x-slow">U</prosody>,S K</speak>]^
+<BT>T [B T,T]^
+R<SK> [R,S K]^
+DG [D,G]^
+<BT><SK> [B T,S K]^
+<AR>P [<speak>A R,<prosody rate="x-slow">P</prosody></speak>]^
+O<BT> [O,B T]^
+G<SK> [G,S K]^
+<AR>B [A R,B]^
+WB [W,B]^
+R<BT> [R,B T]^
+<AR><BT> [A R,B T]^
+<AR><BT> [A R,B T]^
+<AR><BT> [A R,B T]^
+<AR>L [A R,L]^
+<AR>H [A R,H]^
+<SK><BT> [S K,B T]^
+<SK><BT> [S K,B T]^
+<SK>O [S K,O]^
+AD [A,D]^
+<AR>P [<speak>A R,<prosody rate="x-slow">P</prosody></speak>]^
+<SK>W [S K,W]^
+<AR>N [A R,N]^
+<BT>T [B T,T]^
+OC [O,C]^
+B<AR> [B, A R]^
+F<BT> [F,B T]^
+GP [<speak>G,<prosody rate="x-slow">P</prosody></speak>]^
+<AR>I [A R,I]^
+<BT><AR> [B T, A R]^
+<BT>L [B T,L]^
+<AR>F [A R,F]^
+<SK><AR> [S K, A R]^
+<SK>S [S K,S]^
+<BT><SK> [B T,S K]^
+AR [A,R]^
+<BT><SK> [B T,S K]^
+F<AR> [F, A R]^
+<SK>R [S K,R]^
+<SK>I [S K,I]^
+HN [H,N]^
+<SK>C [S K,C]^
+<BT>I [B T,I]^
+A<AR> [A, A R]^
+<SK><BT> [S K,B T]^
+C<BT> [C,B T]^
+L<BT> [L,B T]^
+<AR><SK> [A R,S K]^
+<AR><SK> [A R,S K]^
+<AR><SK> [A R,S K]^
+<BT><AR> [B T, A R]^
+<BT><SK> [B T,S K]^
+<AR>L [A R,L]^
+PU [<speak><prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody></speak>]^
+DB [D,B]^
+R<AR> [R, A R]^
+<SK>P [<speak>S K,<prosody rate="x-slow">P</prosody></speak>]^
+<BT><SK> [B T,S K]^
+<AR><BT> [A R,B T]^
+<AR>U [<speak>A R,<prosody rate="x-slow">U</prosody></speak>]^
+<BT>C [B T,C]^
+<SK><BT> [S K,B T]^
+DT [D,T]^
+<SK>G [S K,G]^
+<AR>A [A R,A]^
+<SK><AR> [S K, A R]^
+<SK>A [S K,A]^
+<AR>U [<speak>A R,<prosody rate="x-slow">U</prosody></speak>]^
+<AR>N [A R,N]^
+<AR>P [<speak>A R,<prosody rate="x-slow">P</prosody></speak>]^
+S<SK> [S,S K]^
+<AR><BT> [A R,B T]^
+<AR><BT> [A R,B T]^
+<AR>L [A R,L]^
+<AR><BT> [A R,B T]^
+I<BT> [I,B T]^
+L<BT> [L,B T]^
+DN [D,N]^
+HF [H,F]^
+NL [N,L]^
+<AR><SK> [A R,S K]^
+<BT><AR> [B T, A R]^
+<SK><AR> [S K, A R]^
+N<SK> [N,S K]^
+BS [B,S]^
+<AR><BT> [A R,B T]^
+P<SK> [<speak><prosody rate="x-slow">P</prosody>,S K</speak>]^
+NU [<speak>N,<prosody rate="x-slow">U</prosody></speak>]^
+RT [R,T]^
+OG [O,G]^
+<SK><BT> [S K,B T]^
+WP [<speak>W,<prosody rate="x-slow">P</prosody></speak>]^
+TB [T,B]^
+W<BT> [W,B T]^
+<AR>G [A R,G]^
+A<SK> [A,S K]^
+<AR>R [A R,R]^
+<AR>N [A R,N]^
+<SK>E [S K,E]^
+<BT><SK> [B T,S K]^
+<AR><SK> [A R,S K]^
+<AR>L [A R,L]^
+<AR><SK> [A R,S K]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+<AR>R [A R,R]^
+<SK><AR> [S K, A R]^
+<BT><SK> [B T,S K]^
+C<BT> [C,B T]^
+<SK>I [S K,I]^
+<AR><BT> [A R,B T]^
+LH [L,H]^
+<BT>S [B T,S]^
+<SK>L [S K,L]^
+I<SK> [I,S K]^
+<BT><SK> [B T,S K]^
+BL [B,L]^
+<AR><SK> [A R,S K]^
+<AR><BT> [A R,B T]^
+H<AR> [H, A R]^
+<BT>O [B T,O]^
+<AR>E [A R,E]^
+<SK>A [S K,A]^
+<SK>U [<speak>S K,<prosody rate="x-slow">U</prosody></speak>]^
+<SK>D [S K,D]^
+<AR><SK> [A R,S K]^
+<BT>R [B T,R]^
+<AR><BT> [A R,B T]^
+BG [B,G]^
+TR [T,R]^
+<AR><SK> [A R,S K]^
+<AR><SK> [A R,S K]^
+<BT>G [B T,G]^
+<SK>N [S K,N]^
+I<BT> [I,B T]^
+<AR>N [A R,N]^
+G<SK> [G,S K]^
+<BT>A [B T,A]^
+<BT>T [B T,T]^
+RL [R,L]^
+<AR>B [A R,B]^
+<BT><SK> [B T,S K]^
+EG [E,G]^
+<SK><BT> [S K,B T]^
+<SK><AR> [S K, A R]^
+F<AR> [F, A R]^
+<SK>R [S K,R]^
+<BT>A [B T,A]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+<BT><SK> [B T,S K]^
+BI [B,I]^
+<AR><BT> [A R,B T]^
+PI [<speak><prosody rate="x-slow">P</prosody>,I</speak>]^
+<AR><SK> [A R,S K]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+<SK>A [S K,A]^
+L<AR> [L, A R]^
+DH [D,H]^
+A<AR> [A, A R]^
+DC [D,C]^
+IE [I,E]^
+<AR><BT> [A R,B T]^
+WT [W,T]^
+<BT>P [<speak>B T,<prosody rate="x-slow">P</prosody></speak>]^
+AT [A,T]^
+<SK>N [S K,N]^
+<BT>O [B T,O]^
+<SK><AR> [S K, A R]^
+A<BT> [A,B T]^
+D<SK> [D,S K]^
+FC [F,C]^
+<AR>D [A R,D]^
+ON [O,N]^
+PE [<speak><prosody rate="x-slow">P</prosody>,E</speak>]^
+<BT><SK> [B T,S K]^
+UP [<speak><prosody rate="x-slow">U</prosody>,<prosody rate="x-slow">P</prosody></speak>]^
+<AR>B [A R,B]^
+<BT><SK> [B T,S K]^
+<AR>N [A R,N]^
+WF [W,F]^
+<SK>P [<speak>S K,<prosody rate="x-slow">P</prosody></speak>]^
+G<AR> [G, A R]^
+<BT><AR> [B T, A R]^
+UG [<speak><prosody rate="x-slow">U</prosody>,G</speak>]^
+FL [F,L]^
+P<AR> [<speak><prosody rate="x-slow">P</prosody>, A R</speak>]^
+<SK><BT> [S K,B T]^
+<AR><SK> [A R,S K]^
+<AR>E [A R,E]^
+P<AR> [<speak><prosody rate="x-slow">P</prosody>, A R</speak>]^
+<BT>L [B T,L]^
+<AR><SK> [A R,S K]^
+HO [H,O]^
+<AR>G [A R,G]^
+<AR><BT> [A R,B T]^
+<SK><AR> [S K, A R]^
+<BT><AR> [B T, A R]^
+<BT><AR> [B T, A R]^
+R<BT> [R,B T]^
+FR [F,R]^
+<AR>W [A R,W]^
+<AR><BT> [A R,B T]^
+AO [A,O]^
+<SK>C [S K,C]^
+N<SK> [N,S K]^
+<BT>C [B T,C]^
+BS [B,S]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+R<BT> [R,B T]^
+NW [N,W]^
+T<AR> [T, A R]^
+H<SK> [H,S K]^
+D<BT> [D,B T]^
+I<BT> [I,B T]^
+T<BT> [T,B T]^
+I<BT> [I,B T]^
+IT [I,T]^
+P<BT> [<speak><prosody rate="x-slow">P</prosody>,B T</speak>]^
+<AR><SK> [A R,S K]^
+<AR>O [A R,O]^
+I<AR> [I, A R]^
+C<BT> [C,B T]^
+<SK>C [S K,C]^
+WN [W,N]^
+<BT><SK> [B T,S K]^
+<AR><BT> [A R,B T]^
+H<BT> [H,B T]^
+<SK>O [S K,O]^
+A<AR> [A, A R]^
+OE [O,E]^
+<SK><BT> [S K,B T]^
+N<AR> [N, A R]^
+S<AR> [S, A R]^
+<SK><BT> [S K,B T]^
+<AR>S [A R,S]^
+<BT><AR> [B T, A R]^
+<BT>G [B T,G]^
+RS [R,S]^
+<AR>G [A R,G]^
+W<SK> [W,S K]^
+O<SK> [O,S K]^
+<BT><SK> [B T,S K]^
+NI [N,I]^
+WA [W,A]^
+<AR>R [A R,R]^
+TN [T,N]^
+PN [<speak><prosody rate="x-slow">P</prosody>,N</speak>]^
+D<SK> [D,S K]^
+<AR>I [A R,I]^
+<SK>H [S K,H]^
+<SK><BT> [S K,B T]^
+<SK><BT> [S K,B T]^
+<SK>C [S K,C]^
+<SK><BT> [S K,B T]^
+WB [W,B]^
+DH [D,H]^
+ND [N,D]^
+NP [<speak>N,<prosody rate="x-slow">P</prosody></speak>]^
+D<AR> [D, A R]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+O<BT> [O,B T]^
+OF [O,F]^
+<SK>O [S K,O]^
+<BT><AR> [B T, A R]^
+IB [I,B]^
+R<AR> [R, A R]^
+<SK><BT> [S K,B T]^
+HT [H,T]^
+<BT>P [<speak>B T,<prosody rate="x-slow">P</prosody></speak>]^
+<SK><AR> [S K, A R]^
+P<SK> [<speak><prosody rate="x-slow">P</prosody>,S K</speak>]^
+NB [N,B]^
+<AR>C [A R,C]^
+AW [A,W]^
+P<AR> [<speak><prosody rate="x-slow">P</prosody>, A R</speak>]^
+C<BT> [C,B T]^
+E<BT> [E,B T]^
+O<AR> [O, A R]^
+F<BT> [F,B T]^
+<SK><BT> [S K,B T]^
+<AR>S [A R,S]^
+D<BT> [D,B T]^
+H<SK> [H,S K]^
+AS [A,S]^
+D<SK> [D,S K]^
+R<BT> [R,B T]^
+I<SK> [I,S K]^
+<AR><SK> [A R,S K]^
+<BT><SK> [B T,S K]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+<SK>F [S K,F]^
+<AR><BT> [A R,B T]^
+P<BT> [<speak><prosody rate="x-slow">P</prosody>,B T</speak>]^
+<AR>U [<speak>A R,<prosody rate="x-slow">U</prosody></speak>]^
+<AR>R [A R,R]^
+<SK>I [S K,I]^
+G<BT> [G,B T]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+<AR>D [A R,D]^
+<SK><AR> [S K, A R]^
+W<SK> [W,S K]^
+WB [W,B]^
+D<BT> [D,B T]^
+FI [F,I]^
+<SK>P [<speak>S K,<prosody rate="x-slow">P</prosody></speak>]^
+<SK><BT> [S K,B T]^
+<SK>S [S K,S]^
+RP [<speak>R,<prosody rate="x-slow">P</prosody></speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+EF [E,F]^
+A<BT> [A,B T]^
+<SK><BT> [S K,B T]^
+<SK><AR> [S K, A R]^
+WI [W,I]^
+<BT>T [B T,T]^
+<BT>P [<speak>B T,<prosody rate="x-slow">P</prosody></speak>]^
+AG [A,G]^
+<SK><BT> [S K,B T]^
+BO [B,O]^
+<SK><BT> [S K,B T]^
+<AR>E [A R,E]^
+N<BT> [N,B T]^
+<SK>D [S K,D]^
+OH [O,H]^
+FD [F,D]^
+G<SK> [G,S K]^
+L<BT> [L,B T]^
+AF [A,F]^
+<SK><BT> [S K,B T]^
+U<SK> [<speak><prosody rate="x-slow">U</prosody>,S K</speak>]^
+<BT><AR> [B T, A R]^
+DS [D,S]^
+<AR>W [A R,W]^
+<AR>N [A R,N]^
+G<BT> [G,B T]^
+<SK><BT> [S K,B T]^
+<AR><SK> [A R,S K]^
+I<AR> [I, A R]^
+<SK>H [S K,H]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+<AR>L [A R,L]^
+B<AR> [B, A R]^
+<BT><AR> [B T, A R]^
+B<AR> [B, A R]^
+RW [R,W]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+DA [D,A]^
+<SK>O [S K,O]^
+<SK><AR> [S K, A R]^
+R<SK> [R,S K]^
+S<AR> [S, A R]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+<AR><BT> [A R,B T]^
+IL [I,L]^
+<SK><AR> [S K, A R]^
+IW [I,W]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+<SK><AR> [S K, A R]^
+<BT>E [B T,E]^
+UN [<speak><prosody rate="x-slow">U</prosody>,N</speak>]^
+<BT>H [B T,H]^
+<SK>R [S K,R]^
+CG [C,G]^
+<BT>T [B T,T]^
+<SK>A [S K,A]^
+<BT><SK> [B T,S K]^
+T<BT> [T,B T]^
+<AR>O [A R,O]^
+EW [E,W]^
+<AR><BT> [A R,B T]^
+<SK>A [S K,A]^
+<BT><AR> [B T, A R]^
+<SK>G [S K,G]^
+<AR>B [A R,B]^
+NW [N,W]^
+<BT><AR> [B T, A R]^
+TW [T,W]^
+<SK><AR> [S K, A R]^
+EU [<speak>E,<prosody rate="x-slow">U</prosody></speak>]^
+OH [O,H]^
+B<SK> [B,S K]^
+BS [B,S]^
+B<AR> [B, A R]^
+<SK>H [S K,H]^
+F<AR> [F, A R]^
+<BT><AR> [B T, A R]^
+<BT><AR> [B T, A R]^
+I<BT> [I,B T]^
+<AR><SK> [A R,S K]^
+G<SK> [G,S K]^
+<AR>S [A R,S]^
+B<SK> [B,S K]^
+PR [<speak><prosody rate="x-slow">P</prosody>,R</speak>]^
+<SK>F [S K,F]^
+<SK><AR> [S K, A R]^
+C<SK> [C,S K]^
+U<SK> [<speak><prosody rate="x-slow">U</prosody>,S K</speak>]^
+U<BT> [<speak><prosody rate="x-slow">U</prosody>,B T</speak>]^
+NG [N,G]^
+O<BT> [O,B T]^
+A<AR> [A, A R]^
+<SK><AR> [S K, A R]^
+<SK><AR> [S K, A R]^
+RH [R,H]^
+<AR>C [A R,C]^
+<AR><BT> [A R,B T]^
+AI [A,I]^
+<SK>E [S K,E]^
+<SK>D [S K,D]^
+<SK><AR> [S K, A R]^
+B<BT> [B,B T]^
+AC [A,C]^
+<SK><BT> [S K,B T]^
+<SK>H [S K,H]^
+<BT><SK> [B T,S K]^
+<AR><SK> [A R,S K]^
+<AR><BT> [A R,B T]^
+<SK>D [S K,D]^
+S<BT> [S,B T]^
+I<SK> [I,S K]^
+<BT><AR> [B T, A R]^
+<BT>H [B T,H]^
+T<AR> [T, A R]^
+<BT>L [B T,L]^
+O<BT> [O,B T]^
+DR [D,R]^
+<SK><AR> [S K, A R]^
+<BT>O [B T,O]^
+D<AR> [D, A R]^
+<BT><AR> [B T, A R]^
+<BT>F [B T,F]^
+LG [L,G]^
+<SK>C [S K,C]^
+<AR>H [A R,H]^
+F<SK> [F,S K]^
+<AR>C [A R,C]^
+<BT><SK> [B T,S K]^
+U<BT> [<speak><prosody rate="x-slow">U</prosody>,B T</speak>]^
+<AR>N [A R,N]^
+<SK><AR> [S K, A R]^
+C<SK> [C,S K]^
+<BT>F [B T,F]^
+<SK>O [S K,O]^
+S<AR> [S, A R]^
+<BT><AR> [B T, A R]^
+C<SK> [C,S K]^
+AD [A,D]^
+<SK>S [S K,S]^
+<SK>W [S K,W]^
+O<AR> [O, A R]^
+RP [<speak>R,<prosody rate="x-slow">P</prosody></speak>]^
+<SK><AR> [S K, A R]^
+O<SK> [O,S K]^
+GD [G,D]^
+UT [<speak><prosody rate="x-slow">U</prosody>,T</speak>]^
+W<SK> [W,S K]^
+LH [L,H]^
+<BT>L [B T,L]^
+CH [C,H]^
+BW [B,W]^
+GC [G,C]^
+<BT>F [B T,F]^
+<SK><AR> [S K, A R]^
+DS [D,S]^
+<AR>D [A R,D]^
+W<BT> [W,B T]^
+<AR><SK> [A R,S K]^
+I<BT> [I,B T]^
+G<AR> [G, A R]^
+UT [<speak><prosody rate="x-slow">U</prosody>,T</speak>]^
+<SK>T [S K,T]^
+OW [O,W]^
+<BT><AR> [B T, A R]^
+<SK>P [<speak>S K,<prosody rate="x-slow">P</prosody></speak>]^
+W<AR> [W, A R]^
+P<AR> [<speak><prosody rate="x-slow">P</prosody>, A R</speak>]^
+HB [H,B]^
+<AR>T [A R,T]^
+<SK><BT> [S K,B T]^
+<SK><BT> [S K,B T]^
+<AR>T [A R,T]^
+D<BT> [D,B T]^
+CH [C,H]^
+<BT>L [B T,L]^
+<SK>U [<speak>S K,<prosody rate="x-slow">U</prosody></speak>]^
+<SK>W [S K,W]^
+B<AR> [B, A R]^
+<BT>L [B T,L]^
+<BT>C [B T,C]^
+A<SK> [A,S K]^
+A<SK> [A,S K]^
+A<BT> [A,B T]^
+<AR><BT> [A R,B T]^
+B<SK> [B,S K]^
+WL [W,L]^
+S<AR> [S, A R]^
+<BT>U [<speak>B T,<prosody rate="x-slow">U</prosody></speak>]^
+<AR><SK> [A R,S K]^
+B<BT> [B,B T]^
+<SK>N [S K,N]^
+<SK><BT> [S K,B T]^
+<AR><SK> [A R,S K]^
+<BT><SK> [B T,S K]^
+NE [N,E]^
+<SK><BT> [S K,B T]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+HC [H,C]^
+<BT><AR> [B T, A R]^
+<SK><AR> [S K, A R]^
+O<AR> [O, A R]^
+<SK>A [S K,A]^
+<AR><BT> [A R,B T]^
+<SK><BT> [S K,B T]^
+CT [C,T]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+P<BT> [<speak><prosody rate="x-slow">P</prosody>,B T</speak>]^
+N<BT> [N,B T]^
+<SK><BT> [S K,B T]^
+S<BT> [S,B T]^
+CG [C,G]^
+E<AR> [E, A R]^
+W<SK> [W,S K]^
+RA [R,A]^
+<AR><SK> [A R,S K]^
+R<SK> [R,S K]^
+NI [N,I]^
+H<BT> [H,B T]^
+<SK><BT> [S K,B T]^
+<SK><AR> [S K, A R]^
+LH [L,H]^
+<SK>S [S K,S]^
+<AR>R [A R,R]^
+<BT><AR> [B T, A R]^
+<BT>C [B T,C]^
+TC [T,C]^
+<SK>I [S K,I]^
+<BT>E [B T,E]^
+RH [R,H]^
+<AR>G [A R,G]^
+BF [B,F]^
+<BT><SK> [B T,S K]^
+<AR><BT> [A R,B T]^
+<SK><BT> [S K,B T]^
+B<AR> [B, A R]^
+<BT>F [B T,F]^
+D<AR> [D, A R]^
+AB [A,B]^
+<AR><BT> [A R,B T]^
+PW [<speak><prosody rate="x-slow">P</prosody>,W</speak>]^
+<SK>S [S K,S]^
+<SK>A [S K,A]^
+<AR>E [A R,E]^
+<BT>R [B T,R]^
+UI [<speak><prosody rate="x-slow">U</prosody>,I</speak>]^
+<SK>U [<speak>S K,<prosody rate="x-slow">U</prosody></speak>]^
+N<SK> [N,S K]^
+RF [R,F]^
+<SK>T [S K,T]^
+B<SK> [B,S K]^
+<AR><BT> [A R,B T]^
+<SK><AR> [S K, A R]^
+<BT>B [B T,B]^
+ID [I,D]^
+<BT>I [B T,I]^
+<BT><SK> [B T,S K]^
+B<SK> [B,S K]^
+<AR><SK> [A R,S K]^
+BW [B,W]^
+<SK>G [S K,G]^
+<SK><BT> [S K,B T]^
+G<SK> [G,S K]^
+<AR>G [A R,G]^
+EL [E,L]^
+<SK><AR> [S K, A R]^
+<SK><BT> [S K,B T]^
+<SK>I [S K,I]^
+C<AR> [C, A R]^
+O<AR> [O, A R]^
+<BT><SK> [B T,S K]^
+IB [I,B]^
+<BT>T [B T,T]^
+N<AR> [N, A R]^
+<BT><SK> [B T,S K]^
+NG [N,G]^
+OL [O,L]^
+IC [I,C]^
+B<BT> [B,B T]^
+<AR>U [<speak>A R,<prosody rate="x-slow">U</prosody></speak>]^
+R<BT> [R,B T]^
+<AR><BT> [A R,B T]^
+E<BT> [E,B T]^
+<SK><AR> [S K, A R]^
+<SK><BT> [S K,B T]^
+<AR><BT> [A R,B T]^
+B<BT> [B,B T]^
+<SK><AR> [S K, A R]^
+T<SK> [T,S K]^
+OL [O,L]^
+ER [E,R]^
+<SK>A [S K,A]^
+N<SK> [N,S K]^
+W<BT> [W,B T]^
+NR [N,R]^
+BL [B,L]^
+BN [B,N]^
+<BT>P [<speak>B T,<prosody rate="x-slow">P</prosody></speak>]^
+<AR>L [A R,L]^
+P<SK> [<speak><prosody rate="x-slow">P</prosody>,S K</speak>]^
+BO [B,O]^
+R<BT> [R,B T]^
+<SK><BT> [S K,B T]^
+N<SK> [N,S K]^
+P<AR> [<speak><prosody rate="x-slow">P</prosody>, A R</speak>]^
+B<SK> [B,S K]^
+B<SK> [B,S K]^
+<AR><SK> [A R,S K]^
+P<SK> [<speak><prosody rate="x-slow">P</prosody>,S K</speak>]^
+AL [A,L]^
+RS [R,S]^
+<AR><BT> [A R,B T]^
+NG [N,G]^
+<AR>P [<speak>A R,<prosody rate="x-slow">P</prosody></speak>]^
+<SK><AR> [S K, A R]^
+H<AR> [H, A R]^
+<SK>H [S K,H]^
+<BT>C [B T,C]^
+<SK><BT> [S K,B T]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+AR [A,R]^
+<AR><BT> [A R,B T]^
+TF [T,F]^
+DB [D,B]^
+<SK><AR> [S K, A R]^
+<BT>I [B T,I]^
+R<SK> [R,S K]^
+TE [T,E]^
+<SK><AR> [S K, A R]^
+<BT><SK> [B T,S K]^
+<BT><AR> [B T, A R]^
+<BT>T [B T,T]^
+<BT>U [<speak>B T,<prosody rate="x-slow">U</prosody></speak>]^
+NB [N,B]^
+SA [S,A]^
+U<BT> [<speak><prosody rate="x-slow">U</prosody>,B T</speak>]^
+<AR><BT> [A R,B T]^
+<AR>I [A R,I]^
+<AR><BT> [A R,B T]^
+G<SK> [G,S K]^
+G<BT> [G,B T]^
+F<SK> [F,S K]^
+<AR><BT> [A R,B T]^
+RC [R,C]^
+<BT>H [B T,H]^
+O<SK> [O,S K]^
+O<BT> [O,B T]^
+<AR><SK> [A R,S K]^
+A<AR> [A, A R]^
+CU [<speak>C,<prosody rate="x-slow">U</prosody></speak>]^
+<BT><AR> [B T, A R]^
+G<BT> [G,B T]^
+<SK><AR> [S K, A R]^
+P<BT> [<speak><prosody rate="x-slow">P</prosody>,B T</speak>]^
+<SK><AR> [S K, A R]^
+<SK><AR> [S K, A R]^
+I<BT> [I,B T]^
+L<BT> [L,B T]^
+LT [L,T]^
+<SK>A [S K,A]^
+<SK><BT> [S K,B T]^
+<SK>I [S K,I]^
+<AR><BT> [A R,B T]^
+<AR>E [A R,E]^
+<SK><BT> [S K,B T]^
+<AR><BT> [A R,B T]^
+G<BT> [G,B T]^
+<AR>D [A R,D]^
+F<AR> [F, A R]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+GU [<speak>G,<prosody rate="x-slow">U</prosody></speak>]^
+<AR>P [<speak>A R,<prosody rate="x-slow">P</prosody></speak>]^
+<BT>O [B T,O]^
+H<AR> [H, A R]^
+H<BT> [H,B T]^
+<AR><BT> [A R,B T]^
+<SK>C [S K,C]^
+<BT>O [B T,O]^
+A<BT> [A,B T]^
+U<BT> [<speak><prosody rate="x-slow">U</prosody>,B T</speak>]^
+<AR><SK> [A R,S K]^
+R<AR> [R, A R]^
+P<SK> [<speak><prosody rate="x-slow">P</prosody>,S K</speak>]^
+L<BT> [L,B T]^
+<SK><BT> [S K,B T]^
+T<AR> [T, A R]^
+BG [B,G]^
+<AR><BT> [A R,B T]^
+DS [D,S]^
+<BT><SK> [B T,S K]^
+L<BT> [L,B T]^
+<AR>G [A R,G]^
+CW [C,W]^
+T<BT> [T,B T]^
+G<SK> [G,S K]^
+<BT>H [B T,H]^
+DI [D,I]^
+W<AR> [W, A R]^
+PT [<speak><prosody rate="x-slow">P</prosody>,T</speak>]^
+PR [<speak><prosody rate="x-slow">P</prosody>,R</speak>]^
+E<SK> [E,S K]^
+S<BT> [S,B T]^
+GN [G,N]^
+<BT><SK> [B T,S K]^
+EN [E,N]^
+<SK>F [S K,F]^
+U<SK> [<speak><prosody rate="x-slow">U</prosody>,S K</speak>]^
+P<SK> [<speak><prosody rate="x-slow">P</prosody>,S K</speak>]^
+WF [W,F]^
+<AR>U [<speak>A R,<prosody rate="x-slow">U</prosody></speak>]^
+<AR><BT> [A R,B T]^
+<SK>T [S K,T]^
+<AR><SK> [A R,S K]^
+NG [N,G]^
+<SK>R [S K,R]^
+<AR>A [A R,A]^
+HW [H,W]^
+AC [A,C]^
+NS [N,S]^
+ID [I,D]^
+PT [<speak><prosody rate="x-slow">P</prosody>,T</speak>]^
+F<AR> [F, A R]^
+<SK>T [S K,T]^
+<AR><SK> [A R,S K]^
+<BT><SK> [B T,S K]^
+<AR><BT> [A R,B T]^
+<SK><BT> [S K,B T]^
+C<BT> [C,B T]^
+L<AR> [L, A R]^
+N<SK> [N,S K]^
+S<BT> [S,B T]^
+AR [A,R]^
+<BT><AR> [B T, A R]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+<AR><SK> [A R,S K]^
+<AR><SK> [A R,S K]^
+<BT><AR> [B T, A R]^
+AT [A,T]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+<BT>A [B T,A]^
+<BT>W [B T,W]^
+<AR>I [A R,I]^
+<SK><AR> [S K, A R]^
+UG [<speak><prosody rate="x-slow">U</prosody>,G</speak>]^
+CT [C,T]^
+L<SK> [L,S K]^
+TW [T,W]^
+LD [L,D]^
+B<AR> [B, A R]^
+WA [W,A]^
+T<SK> [T,S K]^
+<AR>S [A R,S]^
+<BT>I [B T,I]^
+GD [G,D]^
+<BT><AR> [B T, A R]^
+TU [<speak>T,<prosody rate="x-slow">U</prosody></speak>]^
+<BT>D [B T,D]^
+SA [S,A]^

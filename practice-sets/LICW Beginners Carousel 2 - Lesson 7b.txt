@@ -1,0 +1,800 @@
+/Z [Slash,Z]^
+JF [J,F]^
+ZJ [Z,J]^
+GA [G,A]^
+TD [T,D]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+C/ [C,Slash]^
+DG [D,G]^
+ZJ [Z,J]^
+Z/ [Z,Slash]^
+Z/ [Z,Slash]^
+ZJ [Z,J]^
+PJ [<speak><prosody rate="x-slow">P</prosody>,J</speak>]^
+/P [<speak>Slash,<prosody rate="x-slow">P</prosody></speak>]^
+ZI [Z,I]^
+/Z [Slash,Z]^
+JZ [J,Z]^
+R/ [R,Slash]^
+ZL [Z,L]^
+JZ [J,Z]^
+PZ [<speak><prosody rate="x-slow">P</prosody>,Z</speak>]^
+/Z [Slash,Z]^
+JG [J,G]^
+HS [H,S]^
+HB [H,B]^
+/N [Slash,N]^
+DJ [D,J]^
+UJ [<speak><prosody rate="x-slow">U</prosody>,J</speak>]^
+/W [Slash,W]^
+OW [O,W]^
+PZ [<speak><prosody rate="x-slow">P</prosody>,Z</speak>]^
+GJ [G,J]^
+/J [Slash,J]^
+Z/ [Z,Slash]^
+ZW [Z,W]^
+HZ [H,Z]^
+/G [Slash,G]^
+/E [Slash,E]^
+/W [Slash,W]^
+NR [N,R]^
+FJ [F,J]^
+/J [Slash,J]^
+FN [F,N]^
+J/ [J,Slash]^
+DJ [D,J]^
+ZJ [Z,J]^
+WD [W,D]^
+PE [<speak><prosody rate="x-slow">P</prosody>,E</speak>]^
+CZ [C,Z]^
+IZ [I,Z]^
+ED [E,D]^
+/I [Slash,I]^
+A/ [A,Slash]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+TN [T,N]^
+/S [Slash,S]^
+OJ [O,J]^
+ZG [Z,G]^
+ZO [Z,O]^
+UJ [<speak><prosody rate="x-slow">U</prosody>,J</speak>]^
+ZU [<speak>Z,<prosody rate="x-slow">U</prosody></speak>]^
+DH [D,H]^
+/B [Slash,B]^
+/J [Slash,J]^
+/J [Slash,J]^
+Z/ [Z,Slash]^
+ZJ [Z,J]^
+Z/ [Z,Slash]^
+GB [G,B]^
+NZ [N,Z]^
+/D [Slash,D]^
+ZP [<speak>Z,<prosody rate="x-slow">P</prosody></speak>]^
+/J [Slash,J]^
+WI [W,I]^
+AG [A,G]^
+BJ [B,J]^
+/J [Slash,J]^
+/Z [Slash,Z]^
+OC [O,C]^
+/J [Slash,J]^
+Z/ [Z,Slash]^
+JP [<speak>J,<prosody rate="x-slow">P</prosody></speak>]^
+BN [B,N]^
+D/ [D,Slash]^
+TS [T,S]^
+LS [L,S]^
+J/ [J,Slash]^
+J/ [J,Slash]^
+ZP [<speak>Z,<prosody rate="x-slow">P</prosody></speak>]^
+ZJ [Z,J]^
+Z/ [Z,Slash]^
+GA [G,A]^
+ZJ [Z,J]^
+/H [Slash,H]^
+IG [I,G]^
+DZ [D,Z]^
+I/ [I,Slash]^
+S/ [S,Slash]^
+ZB [Z,B]^
+J/ [J,Slash]^
+FZ [F,Z]^
+JZ [J,Z]^
+SZ [S,Z]^
+/Z [Slash,Z]^
+J/ [J,Slash]^
+ZD [Z,D]^
+LO [L,O]^
+RC [R,C]^
+RZ [R,Z]^
+AZ [A,Z]^
+DE [D,E]^
+CZ [C,Z]^
+G/ [G,Slash]^
+GJ [G,J]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+/E [Slash,E]^
+IJ [I,J]^
+OR [O,R]^
+LJ [L,J]^
+EJ [E,J]^
+ZT [Z,T]^
+NJ [N,J]^
+LW [L,W]^
+/Z [Slash,Z]^
+U/ [<speak><prosody rate="x-slow">U</prosody>,Slash</speak>]^
+NC [N,C]^
+JS [J,S]^
+AC [A,C]^
+JA [J,A]^
+/H [Slash,H]^
+/J [Slash,J]^
+OE [O,E]^
+ZU [<speak>Z,<prosody rate="x-slow">U</prosody></speak>]^
+D/ [D,Slash]^
+NZ [N,Z]^
+SG [S,G]^
+/Z [Slash,Z]^
+NJ [N,J]^
+ND [N,D]^
+ZJ [Z,J]^
+ZJ [Z,J]^
+/J [Slash,J]^
+GJ [G,J]^
+F/ [F,Slash]^
+JC [J,C]^
+ZT [Z,T]^
+JD [J,D]^
+JI [J,I]^
+ZJ [Z,J]^
+ZJ [Z,J]^
+/R [Slash,R]^
+/L [Slash,L]^
+UZ [<speak><prosody rate="x-slow">U</prosody>,Z</speak>]^
+/J [Slash,J]^
+Z/ [Z,Slash]^
+DF [D,F]^
+BF [B,F]^
+JZ [J,Z]^
+J/ [J,Slash]^
+DO [D,O]^
+Z/ [Z,Slash]^
+J/ [J,Slash]^
+JI [J,I]^
+RJ [R,J]^
+/J [Slash,J]^
+ON [O,N]^
+SG [S,G]^
+/J [Slash,J]^
+ZL [Z,L]^
+TS [T,S]^
+J/ [J,Slash]^
+NP [<speak>N,<prosody rate="x-slow">P</prosody></speak>]^
+JS [J,S]^
+JG [J,G]^
+ES [E,S]^
+ZJ [Z,J]^
+ZJ [Z,J]^
+ZJ [Z,J]^
+BS [B,S]^
+WJ [W,J]^
+WR [W,R]^
+ZU [<speak>Z,<prosody rate="x-slow">U</prosody></speak>]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+JI [J,I]^
+GO [G,O]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+Z/ [Z,Slash]^
+LJ [L,J]^
+R/ [R,Slash]^
+T/ [T,Slash]^
+JA [J,A]^
+E/ [E,Slash]^
+ZS [Z,S]^
+O/ [O,Slash]^
+ZE [Z,E]^
+ZJ [Z,J]^
+BL [B,L]^
+CZ [C,Z]^
+GB [G,B]^
+Z/ [Z,Slash]^
+ZE [Z,E]^
+JZ [J,Z]^
+BZ [B,Z]^
+IZ [I,Z]^
+WE [W,E]^
+LG [L,G]^
+UZ [<speak><prosody rate="x-slow">U</prosody>,Z</speak>]^
+JZ [J,Z]^
+JL [J,L]^
+/G [Slash,G]^
+ZJ [Z,J]^
+UL [<speak><prosody rate="x-slow">U</prosody>,L</speak>]^
+/S [Slash,S]^
+/J [Slash,J]^
+N/ [N,Slash]^
+J/ [J,Slash]^
+DN [D,N]^
+ZJ [Z,J]^
+/P [<speak>Slash,<prosody rate="x-slow">P</prosody></speak>]^
+T/ [T,Slash]^
+C/ [C,Slash]^
+JZ [J,Z]^
+J/ [J,Slash]^
+J/ [J,Slash]^
+JL [J,L]^
+FB [F,B]^
+JZ [J,Z]^
+JC [J,C]^
+IT [I,T]^
+Z/ [Z,Slash]^
+JZ [J,Z]^
+JZ [J,Z]^
+/Z [Slash,Z]^
+/Z [Slash,Z]^
+/Z [Slash,Z]^
+/Z [Slash,Z]^
+NZ [N,Z]^
+NO [N,O]^
+H/ [H,Slash]^
+A/ [A,Slash]^
+IN [I,N]^
+ZH [Z,H]^
+UT [<speak><prosody rate="x-slow">U</prosody>,T</speak>]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+E/ [E,Slash]^
+P/ [<speak><prosody rate="x-slow">P</prosody>,Slash</speak>]^
+BI [B,I]^
+FI [F,I]^
+LC [L,C]^
+PJ [<speak><prosody rate="x-slow">P</prosody>,J</speak>]^
+/R [Slash,R]^
+ZJ [Z,J]^
+CF [C,F]^
+/U [<speak>Slash,<prosody rate="x-slow">U</prosody></speak>]^
+TZ [T,Z]^
+JL [J,L]^
+NG [N,G]^
+/Z [Slash,Z]^
+OU [<speak>O,<prosody rate="x-slow">U</prosody></speak>]^
+JD [J,D]^
+L/ [L,Slash]^
+JR [J,R]^
+ZW [Z,W]^
+EH [E,H]^
+A/ [A,Slash]^
+PU [<speak><prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody></speak>]^
+SW [S,W]^
+J/ [J,Slash]^
+T/ [T,Slash]^
+Z/ [Z,Slash]^
+WZ [W,Z]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+/J [Slash,J]^
+/U [<speak>Slash,<prosody rate="x-slow">U</prosody></speak>]^
+RJ [R,J]^
+PA [<speak><prosody rate="x-slow">P</prosody>,A</speak>]^
+ZC [Z,C]^
+H/ [H,Slash]^
+Z/ [Z,Slash]^
+JB [J,B]^
+Z/ [Z,Slash]^
+E/ [E,Slash]^
+Z/ [Z,Slash]^
+ZL [Z,L]^
+Z/ [Z,Slash]^
+ZJ [Z,J]^
+/J [Slash,J]^
+ZG [Z,G]^
+I/ [I,Slash]^
+J/ [J,Slash]^
+NJ [N,J]^
+OG [O,G]^
+WJ [W,J]^
+ZJ [Z,J]^
+/D [Slash,D]^
+/T [Slash,T]^
+/E [Slash,E]^
+/A [Slash,A]^
+DJ [D,J]^
+LD [L,D]^
+JE [J,E]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+IJ [I,J]^
+O/ [O,Slash]^
+GJ [G,J]^
+/J [Slash,J]^
+UJ [<speak><prosody rate="x-slow">U</prosody>,J</speak>]^
+TR [T,R]^
+D/ [D,Slash]^
+LT [L,T]^
+Z/ [Z,Slash]^
+PA [<speak><prosody rate="x-slow">P</prosody>,A</speak>]^
+TZ [T,Z]^
+/J [Slash,J]^
+/B [Slash,B]^
+LJ [L,J]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+JE [J,E]^
+ZU [<speak>Z,<prosody rate="x-slow">U</prosody></speak>]^
+JI [J,I]^
+ZJ [Z,J]^
+/L [Slash,L]^
+/F [Slash,F]^
+IP [<speak>I,<prosody rate="x-slow">P</prosody></speak>]^
+J/ [J,Slash]^
+EJ [E,J]^
+OL [O,L]^
+JT [J,T]^
+/N [Slash,N]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+LI [L,I]^
+/L [Slash,L]^
+Z/ [Z,Slash]^
+JL [J,L]^
+/Z [Slash,Z]^
+/U [<speak>Slash,<prosody rate="x-slow">U</prosody></speak>]^
+/Z [Slash,Z]^
+/J [Slash,J]^
+TU [<speak>T,<prosody rate="x-slow">U</prosody></speak>]^
+L/ [L,Slash]^
+GJ [G,J]^
+UJ [<speak><prosody rate="x-slow">U</prosody>,J</speak>]^
+ZJ [Z,J]^
+/Z [Slash,Z]^
+JZ [J,Z]^
+OG [O,G]^
+/O [Slash,O]^
+JF [J,F]^
+EJ [E,J]^
+/G [Slash,G]^
+JN [J,N]^
+GJ [G,J]^
+TN [T,N]^
+HN [H,N]^
+IZ [I,Z]^
+/B [Slash,B]^
+J/ [J,Slash]^
+HO [H,O]^
+Z/ [Z,Slash]^
+ZE [Z,E]^
+JZ [J,Z]^
+AO [A,O]^
+/L [Slash,L]^
+DJ [D,J]^
+RH [R,H]^
+RN [R,N]^
+ZO [Z,O]^
+Z/ [Z,Slash]^
+JA [J,A]^
+RZ [R,Z]^
+JZ [J,Z]^
+JH [J,H]^
+GZ [G,Z]^
+IW [I,W]^
+JN [J,N]^
+FZ [F,Z]^
+NF [N,F]^
+LF [L,F]^
+AE [A,E]^
+RW [R,W]^
+/L [Slash,L]^
+DC [D,C]^
+WZ [W,Z]^
+ET [E,T]^
+LT [L,T]^
+FJ [F,J]^
+CZ [C,Z]^
+/G [Slash,G]^
+/J [Slash,J]^
+/O [Slash,O]^
+CN [C,N]^
+EJ [E,J]^
+ZA [Z,A]^
+J/ [J,Slash]^
+FZ [F,Z]^
+JS [J,S]^
+ZC [Z,C]^
+TA [T,A]^
+TI [T,I]^
+ZT [Z,T]^
+EI [E,I]^
+/J [Slash,J]^
+ZE [Z,E]^
+BZ [B,Z]^
+R/ [R,Slash]^
+B/ [B,Slash]^
+W/ [W,Slash]^
+ZJ [Z,J]^
+LZ [L,Z]^
+JN [J,N]^
+GJ [G,J]^
+G/ [G,Slash]^
+OI [O,I]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+J/ [J,Slash]^
+PI [<speak><prosody rate="x-slow">P</prosody>,I</speak>]^
+JO [J,O]^
+ZR [Z,R]^
+/C [Slash,C]^
+/J [Slash,J]^
+/J [Slash,J]^
+WL [W,L]^
+JI [J,I]^
+WJ [W,J]^
+ZW [Z,W]^
+/R [Slash,R]^
+FZ [F,Z]^
+/J [Slash,J]^
+F/ [F,Slash]^
+JF [J,F]^
+ZS [Z,S]^
+IR [I,R]^
+WT [W,T]^
+JZ [J,Z]^
+WJ [W,J]^
+ZH [Z,H]^
+WZ [W,Z]^
+/J [Slash,J]^
+D/ [D,Slash]^
+J/ [J,Slash]^
+RI [R,I]^
+JZ [J,Z]^
+WP [<speak>W,<prosody rate="x-slow">P</prosody></speak>]^
+LC [L,C]^
+JZ [J,Z]^
+/Z [Slash,Z]^
+TI [T,I]^
+Z/ [Z,Slash]^
+UL [<speak><prosody rate="x-slow">U</prosody>,L</speak>]^
+/J [Slash,J]^
+PJ [<speak><prosody rate="x-slow">P</prosody>,J</speak>]^
+/P [<speak>Slash,<prosody rate="x-slow">P</prosody></speak>]^
+OZ [O,Z]^
+CI [C,I]^
+RB [R,B]^
+L/ [L,Slash]^
+JZ [J,Z]^
+/E [Slash,E]^
+C/ [C,Slash]^
+OG [O,G]^
+H/ [H,Slash]^
+JG [J,G]^
+/B [Slash,B]^
+Z/ [Z,Slash]^
+ZJ [Z,J]^
+Z/ [Z,Slash]^
+BC [B,C]^
+/Z [Slash,Z]^
+/N [Slash,N]^
+EJ [E,J]^
+/T [Slash,T]^
+ZJ [Z,J]^
+NR [N,R]^
+OI [O,I]^
+WD [W,D]^
+J/ [J,Slash]^
+ZW [Z,W]^
+JW [J,W]^
+/B [Slash,B]^
+JZ [J,Z]^
+E/ [E,Slash]^
+JZ [J,Z]^
+BZ [B,Z]^
+TA [T,A]^
+B/ [B,Slash]^
+JZ [J,Z]^
+JU [<speak>J,<prosody rate="x-slow">U</prosody></speak>]^
+/H [Slash,H]^
+/J [Slash,J]^
+AI [A,I]^
+C/ [C,Slash]^
+JU [<speak>J,<prosody rate="x-slow">U</prosody></speak>]^
+DC [D,C]^
+ZP [<speak>Z,<prosody rate="x-slow">P</prosody></speak>]^
+Z/ [Z,Slash]^
+ZB [Z,B]^
+J/ [J,Slash]^
+J/ [J,Slash]^
+JP [<speak>J,<prosody rate="x-slow">P</prosody></speak>]^
+GZ [G,Z]^
+W/ [W,Slash]^
+WC [W,C]^
+BE [B,E]^
+/Z [Slash,Z]^
+LZ [L,Z]^
+O/ [O,Slash]^
+HR [H,R]^
+TJ [T,J]^
+LC [L,C]^
+LJ [L,J]^
+P/ [<speak><prosody rate="x-slow">P</prosody>,Slash</speak>]^
+DE [D,E]^
+/G [Slash,G]^
+JC [J,C]^
+/R [Slash,R]^
+Z/ [Z,Slash]^
+RS [R,S]^
+CZ [C,Z]^
+BZ [B,Z]^
+JD [J,D]^
+SH [S,H]^
+/Z [Slash,Z]^
+J/ [J,Slash]^
+JA [J,A]^
+Z/ [Z,Slash]^
+RZ [R,Z]^
+AS [A,S]^
+DH [D,H]^
+JS [J,S]^
+/B [Slash,B]^
+/Z [Slash,Z]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+US [<speak><prosody rate="x-slow">U</prosody>,S</speak>]^
+/N [Slash,N]^
+JZ [J,Z]^
+/J [Slash,J]^
+ZS [Z,S]^
+AW [A,W]^
+/G [Slash,G]^
+/J [Slash,J]^
+NS [N,S]^
+JG [J,G]^
+W/ [W,Slash]^
+UN [<speak><prosody rate="x-slow">U</prosody>,N</speak>]^
+JU [<speak>J,<prosody rate="x-slow">U</prosody></speak>]^
+/N [Slash,N]^
+BJ [B,J]^
+ZP [<speak>Z,<prosody rate="x-slow">P</prosody></speak>]^
+R/ [R,Slash]^
+ZN [Z,N]^
+WP [<speak>W,<prosody rate="x-slow">P</prosody></speak>]^
+CZ [C,Z]^
+O/ [O,Slash]^
+TA [T,A]^
+EJ [E,J]^
+ZL [Z,L]^
+Z/ [Z,Slash]^
+CZ [C,Z]^
+GJ [G,J]^
+/J [Slash,J]^
+RW [R,W]^
+/J [Slash,J]^
+RZ [R,Z]^
+AO [A,O]^
+PN [<speak><prosody rate="x-slow">P</prosody>,N</speak>]^
+Z/ [Z,Slash]^
+NJ [N,J]^
+/J [Slash,J]^
+H/ [H,Slash]^
+NZ [N,Z]^
+A/ [A,Slash]^
+LZ [L,Z]^
+/I [Slash,I]^
+C/ [C,Slash]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+AN [A,N]^
+DH [D,H]^
+OZ [O,Z]^
+IO [I,O]^
+ZU [<speak>Z,<prosody rate="x-slow">U</prosody></speak>]^
+ZJ [Z,J]^
+/S [Slash,S]^
+/I [Slash,I]^
+ZL [Z,L]^
+ZC [Z,C]^
+LJ [L,J]^
+SW [S,W]^
+HR [H,R]^
+Z/ [Z,Slash]^
+JZ [J,Z]^
+/B [Slash,B]^
+/Z [Slash,Z]^
+JZ [J,Z]^
+JB [J,B]^
+JH [J,H]^
+RZ [R,Z]^
+CJ [C,J]^
+ZR [Z,R]^
+Z/ [Z,Slash]^
+R/ [R,Slash]^
+J/ [J,Slash]^
+J/ [J,Slash]^
+J/ [J,Slash]^
+JI [J,I]^
+HE [H,E]^
+JF [J,F]^
+JH [J,H]^
+DB [D,B]^
+PZ [<speak><prosody rate="x-slow">P</prosody>,Z</speak>]^
+D/ [D,Slash]^
+A/ [A,Slash]^
+F/ [F,Slash]^
+JN [J,N]^
+TR [T,R]^
+LA [L,A]^
+WZ [W,Z]^
+CA [C,A]^
+EF [E,F]^
+Z/ [Z,Slash]^
+Z/ [Z,Slash]^
+TZ [T,Z]^
+/Z [Slash,Z]^
+BT [B,T]^
+ZG [Z,G]^
+EJ [E,J]^
+O/ [O,Slash]^
+AT [A,T]^
+DA [D,A]^
+ZJ [Z,J]^
+PU [<speak><prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody></speak>]^
+/F [Slash,F]^
+HI [H,I]^
+JZ [J,Z]^
+RO [R,O]^
+HZ [H,Z]^
+A/ [A,Slash]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+LC [L,C]^
+ZW [Z,W]^
+NG [N,G]^
+TD [T,D]^
+JN [J,N]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+TJ [T,J]^
+PZ [<speak><prosody rate="x-slow">P</prosody>,Z</speak>]^
+SI [S,I]^
+/Z [Slash,Z]^
+JI [J,I]^
+ZJ [Z,J]^
+ZW [Z,W]^
+J/ [J,Slash]^
+JZ [J,Z]^
+RZ [R,Z]^
+I/ [I,Slash]^
+SZ [S,Z]^
+/L [Slash,L]^
+JZ [J,Z]^
+E/ [E,Slash]^
+ZJ [Z,J]^
+ZB [Z,B]^
+AG [A,G]^
+NW [N,W]^
+N/ [N,Slash]^
+CZ [C,Z]^
+/J [Slash,J]^
+T/ [T,Slash]^
+GJ [G,J]^
+NZ [N,Z]^
+IW [I,W]^
+NC [N,C]^
+OJ [O,J]^
+WF [W,F]^
+ST [S,T]^
+JZ [J,Z]^
+/J [Slash,J]^
+ZH [Z,H]^
+JP [<speak>J,<prosody rate="x-slow">P</prosody></speak>]^
+ZJ [Z,J]^
+Z/ [Z,Slash]^
+Z/ [Z,Slash]^
+LJ [L,J]^
+RZ [R,Z]^
+CZ [C,Z]^
+B/ [B,Slash]^
+ND [N,D]^
+HJ [H,J]^
+GW [G,W]^
+JN [J,N]^
+SU [<speak>S,<prosody rate="x-slow">U</prosody></speak>]^
+DJ [D,J]^
+ZD [Z,D]^
+G/ [G,Slash]^
+BZ [B,Z]^
+SU [<speak>S,<prosody rate="x-slow">U</prosody></speak>]^
+ZA [Z,A]^
+/W [Slash,W]^
+Z/ [Z,Slash]^
+J/ [J,Slash]^
+OZ [O,Z]^
+SH [S,H]^
+/J [Slash,J]^
+O/ [O,Slash]^
+J/ [J,Slash]^
+AJ [A,J]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+JR [J,R]^
+NR [N,R]^
+CZ [C,Z]^
+AP [<speak>A,<prosody rate="x-slow">P</prosody></speak>]^
+ZG [Z,G]^
+ZU [<speak>Z,<prosody rate="x-slow">U</prosody></speak>]^
+SZ [S,Z]^
+PU [<speak><prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody></speak>]^
+JD [J,D]^
+/J [Slash,J]^
+CJ [C,J]^
+/G [Slash,G]^
+ZP [<speak>Z,<prosody rate="x-slow">P</prosody></speak>]^
+LH [L,H]^
+/R [Slash,R]^
+BJ [B,J]^
+ZT [Z,T]^
+UJ [<speak><prosody rate="x-slow">U</prosody>,J</speak>]^
+/B [Slash,B]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+H/ [H,Slash]^
+TU [<speak>T,<prosody rate="x-slow">U</prosody></speak>]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+CW [C,W]^
+/J [Slash,J]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+GN [G,N]^
+LJ [L,J]^
+ZL [Z,L]^
+ZJ [Z,J]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+DJ [D,J]^
+NZ [N,Z]^
+GF [G,F]^
+ZN [Z,N]^
+AZ [A,Z]^
+JZ [J,Z]^
+JN [J,N]^
+SH [S,H]^
+Z/ [Z,Slash]^
+ZJ [Z,J]^
+ZB [Z,B]^
+EW [E,W]^
+B/ [B,Slash]^
+SZ [S,Z]^
+JD [J,D]^
+AW [A,W]^
+/Z [Slash,Z]^
+J/ [J,Slash]^
+J/ [J,Slash]^
+DZ [D,Z]^
+UT [<speak><prosody rate="x-slow">U</prosody>,T</speak>]^
+ZG [Z,G]^
+J/ [J,Slash]^
+JZ [J,Z]^
+RA [R,A]^
+ZJ [Z,J]^
+EZ [E,Z]^
+JU [<speak>J,<prosody rate="x-slow">U</prosody></speak>]^
+JZ [J,Z]^
+TW [T,W]^
+JL [J,L]^
+JI [J,I]^
+BH [B,H]^
+ZW [Z,W]^
+ZC [Z,C]^
+S/ [S,Slash]^
+WJ [W,J]^
+BJ [B,J]^
+GC [G,C]^
+ZJ [Z,J]^
+/P [<speak>Slash,<prosody rate="x-slow">P</prosody></speak>]^
+G/ [G,Slash]^
+WJ [W,J]^
+/J [Slash,J]^
+ZH [Z,H]^
+AZ [A,Z]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+BC [B,C]^
+NZ [N,Z]^
+C/ [C,Slash]^
+P/ [<speak><prosody rate="x-slow">P</prosody>,Slash</speak>]^
+JZ [J,Z]^
+LJ [L,J]^
+DJ [D,J]^
+ZJ [Z,J]^
+AS [A,S]^
+ZH [Z,H]^
+FT [F,T]^
+/E [Slash,E]^
+SC [S,C]^
+ZJ [Z,J]^
+IL [I,L]^
+ZL [Z,L]^
+ZJ [Z,J]^
