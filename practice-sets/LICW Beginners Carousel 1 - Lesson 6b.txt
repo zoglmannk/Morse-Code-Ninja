@@ -1,0 +1,800 @@
+BW [B,W]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BW [B,W]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BW [B,W]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BW [B,W]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+WB [W,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+WB [W,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+WB [W,B]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+BW [B,W]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
