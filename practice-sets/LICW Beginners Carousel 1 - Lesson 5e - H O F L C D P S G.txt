@@ -1,0 +1,800 @@
+GC [G,C]^
+FD [F,D]^
+FS [F,S]^
+OC [O,C]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+CF [C,F]^
+SG [S,G]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+FL [F,L]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+DS [D,S]^
+OF [O,F]^
+GP [<speak>G,<prosody rate="x-slow">P</prosody></speak>]^
+CD [C,D]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+OH [O,H]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+CL [C,L]^
+CS [C,S]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+PD [<speak><prosody rate="x-slow">P</prosody>,D</speak>]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+OC [O,C]^
+HF [H,F]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+GH [G,H]^
+FO [F,O]^
+CF [C,F]^
+DG [D,G]^
+SH [S,H]^
+DF [D,F]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+GH [G,H]^
+LH [L,H]^
+CL [C,L]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+FG [F,G]^
+SO [S,O]^
+DL [D,L]^
+GF [G,F]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+HC [H,C]^
+HC [H,C]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+GP [<speak>G,<prosody rate="x-slow">P</prosody></speak>]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+OG [O,G]^
+FD [F,D]^
+OH [O,H]^
+FS [F,S]^
+GD [G,D]^
+FO [F,O]^
+HF [H,F]^
+SO [S,O]^
+FS [F,S]^
+OG [O,G]^
+DF [D,F]^
+OC [O,C]^
+SO [S,O]^
+HL [H,L]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+CO [C,O]^
+LH [L,H]^
+CL [C,L]^
+FD [F,D]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+SL [S,L]^
+FC [F,C]^
+FO [F,O]^
+DH [D,H]^
+CF [C,F]^
+SO [S,O]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+OD [O,D]^
+GC [G,C]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+SD [S,D]^
+GH [G,H]^
+LF [L,F]^
+DH [D,H]^
+SO [S,O]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+LH [L,H]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+DG [D,G]^
+LS [L,S]^
+CF [C,F]^
+PD [<speak><prosody rate="x-slow">P</prosody>,D</speak>]^
+OG [O,G]^
+FD [F,D]^
+OS [O,S]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+GD [G,D]^
+CD [C,D]^
+OD [O,D]^
+CG [C,G]^
+SF [S,F]^
+SD [S,D]^
+FG [F,G]^
+OL [O,L]^
+DS [D,S]^
+GH [G,H]^
+FO [F,O]^
+HC [H,C]^
+DF [D,F]^
+SO [S,O]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+CF [C,F]^
+SF [S,F]^
+DS [D,S]^
+FH [F,H]^
+FG [F,G]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+DH [D,H]^
+DH [D,H]^
+DG [D,G]^
+OG [O,G]^
+OC [O,C]^
+HD [H,D]^
+LO [L,O]^
+LH [L,H]^
+SD [S,D]^
+HO [H,O]^
+GD [G,D]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+FH [F,H]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+LG [L,G]^
+OS [O,S]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+HF [H,F]^
+HS [H,S]^
+GC [G,C]^
+LD [L,D]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+FH [F,H]^
+DC [D,C]^
+DS [D,S]^
+OD [O,D]^
+OD [O,D]^
+CD [C,D]^
+CF [C,F]^
+DL [D,L]^
+HF [H,F]^
+DC [D,C]^
+FC [F,C]^
+SG [S,G]^
+HC [H,C]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+DG [D,G]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+GF [G,F]^
+SO [S,O]^
+GF [G,F]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+HD [H,D]^
+PD [<speak><prosody rate="x-slow">P</prosody>,D</speak>]^
+LF [L,F]^
+CH [C,H]^
+DO [D,O]^
+HO [H,O]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+CS [C,S]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+HC [H,C]^
+LD [L,D]^
+LH [L,H]^
+SF [S,F]^
+DH [D,H]^
+LG [L,G]^
+OD [O,D]^
+LG [L,G]^
+HS [H,S]^
+OC [O,C]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+DH [D,H]^
+PD [<speak><prosody rate="x-slow">P</prosody>,D</speak>]^
+GF [G,F]^
+DG [D,G]^
+SG [S,G]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+DO [D,O]^
+CH [C,H]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+HF [H,F]^
+SO [S,O]^
+DS [D,S]^
+HO [H,O]^
+CL [C,L]^
+OH [O,H]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+LD [L,D]^
+CF [C,F]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+DG [D,G]^
+LC [L,C]^
+OD [O,D]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+DG [D,G]^
+CG [C,G]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+FC [F,C]^
+HG [H,G]^
+HC [H,C]^
+OF [O,F]^
+HC [H,C]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+HO [H,O]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+LS [L,S]^
+GS [G,S]^
+CD [C,D]^
+CD [C,D]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+OD [O,D]^
+SC [S,C]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+GH [G,H]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+DF [D,F]^
+CF [C,F]^
+SG [S,G]^
+CD [C,D]^
+SH [S,H]^
+CL [C,L]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+CL [C,L]^
+HO [H,O]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+DL [D,L]^
+GP [<speak>G,<prosody rate="x-slow">P</prosody></speak>]^
+HF [H,F]^
+DL [D,L]^
+CH [C,H]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+HC [H,C]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+OF [O,F]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+FC [F,C]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+SL [S,L]^
+OC [O,C]^
+PD [<speak><prosody rate="x-slow">P</prosody>,D</speak>]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+DF [D,F]^
+LD [L,D]^
+CH [C,H]^
+FO [F,O]^
+HD [H,D]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+HF [H,F]^
+OF [O,F]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+SF [S,F]^
+CD [C,D]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+FL [F,L]^
+GH [G,H]^
+GD [G,D]^
+FH [F,H]^
+SL [S,L]^
+SD [S,D]^
+GD [G,D]^
+HG [H,G]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+GC [G,C]^
+OF [O,F]^
+CD [C,D]^
+GL [G,L]^
+GD [G,D]^
+HL [H,L]^
+DH [D,H]^
+SH [S,H]^
+OS [O,S]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+FO [F,O]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+LC [L,C]^
+FC [F,C]^
+GO [G,O]^
+HC [H,C]^
+LD [L,D]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+CO [C,O]^
+LD [L,D]^
+SG [S,G]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+LS [L,S]^
+CS [C,S]^
+GS [G,S]^
+FO [F,O]^
+DG [D,G]^
+LF [L,F]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+HG [H,G]^
+CS [C,S]^
+HC [H,C]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+HS [H,S]^
+DC [D,C]^
+HO [H,O]^
+LS [L,S]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+DC [D,C]^
+FD [F,D]^
+OF [O,F]^
+GH [G,H]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+FS [F,S]^
+OD [O,D]^
+CS [C,S]^
+HG [H,G]^
+DL [D,L]^
+GS [G,S]^
+DS [D,S]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+LF [L,F]^
+CG [C,G]^
+CH [C,H]^
+CL [C,L]^
+CD [C,D]^
+LC [L,C]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+GP [<speak>G,<prosody rate="x-slow">P</prosody></speak>]^
+SD [S,D]^
+OC [O,C]^
+OL [O,L]^
+HS [H,S]^
+OG [O,G]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+HG [H,G]^
+LH [L,H]^
+OH [O,H]^
+DS [D,S]^
+DF [D,F]^
+CL [C,L]^
+OS [O,S]^
+OD [O,D]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+CS [C,S]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+DG [D,G]^
+FC [F,C]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+GP [<speak>G,<prosody rate="x-slow">P</prosody></speak>]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+DF [D,F]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+GS [G,S]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+FD [F,D]^
+HC [H,C]^
+OC [O,C]^
+OG [O,G]^
+DS [D,S]^
+DG [D,G]^
+FC [F,C]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+DO [D,O]^
+SH [S,H]^
+SF [S,F]^
+GD [G,D]^
+OF [O,F]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+OD [O,D]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+CH [C,H]^
+FG [F,G]^
+LO [L,O]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+LD [L,D]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+OD [O,D]^
+LD [L,D]^
+CF [C,F]^
+CF [C,F]^
+GD [G,D]^
+LD [L,D]^
+HO [H,O]^
+FG [F,G]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+DH [D,H]^
+SD [S,D]^
+HO [H,O]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+DS [D,S]^
+GS [G,S]^
+HS [H,S]^
+GP [<speak>G,<prosody rate="x-slow">P</prosody></speak>]^
+HC [H,C]^
+LH [L,H]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+PD [<speak><prosody rate="x-slow">P</prosody>,D</speak>]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+CO [C,O]^
+HL [H,L]^
+OF [O,F]^
+OD [O,D]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+CD [C,D]^
+FC [F,C]^
+HF [H,F]^
+HS [H,S]^
+FD [F,D]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+SH [S,H]^
+DL [D,L]^
+OD [O,D]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+HG [H,G]^
+SD [S,D]^
+LH [L,H]^
+LF [L,F]^
+OF [O,F]^
+OH [O,H]^
+SF [S,F]^
+HD [H,D]^
+CF [C,F]^
+GO [G,O]^
+GF [G,F]^
+CO [C,O]^
+GO [G,O]^
+SC [S,C]^
+OS [O,S]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+HO [H,O]^
+SD [S,D]^
+GF [G,F]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+GH [G,H]^
+OL [O,L]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+LS [L,S]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+HO [H,O]^
+CS [C,S]^
+CF [C,F]^
+GD [G,D]^
+OS [O,S]^
+GO [G,O]^
+HG [H,G]^
+OS [O,S]^
+HL [H,L]^
+SD [S,D]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+OF [O,F]^
+LC [L,C]^
+DC [D,C]^
+HC [H,C]^
+LF [L,F]^
+OL [O,L]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+FL [F,L]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+LD [L,D]^
+SL [S,L]^
+DH [D,H]^
+DC [D,C]^
+HG [H,G]^
+CG [C,G]^
+FL [F,L]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+GH [G,H]^
+DF [D,F]^
+LC [L,C]^
+DH [D,H]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+FC [F,C]^
+HG [H,G]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+SC [S,C]^
+FH [F,H]^
+GH [G,H]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+OG [O,G]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+LC [L,C]^
+FH [F,H]^
+GL [G,L]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+HG [H,G]^
+HO [H,O]^
+LC [L,C]^
+LO [L,O]^
+FD [F,D]^
+SL [S,L]^
+GH [G,H]^
+SO [S,O]^
+LO [L,O]^
+GS [G,S]^
+CG [C,G]^
+LO [L,O]^
+FC [F,C]^
+SD [S,D]^
+CF [C,F]^
+OL [O,L]^
+DG [D,G]^
+HD [H,D]^
+CH [C,H]^
+GL [G,L]^
+HG [H,G]^
+LC [L,C]^
+SF [S,F]^
+SD [S,D]^
+CF [C,F]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+FD [F,D]^
+GC [G,C]^
+FS [F,S]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+CH [C,H]^
+DF [D,F]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+HF [H,F]^
+LC [L,C]^
+GL [G,L]^
+SG [S,G]^
+FS [F,S]^
+LO [L,O]^
+DS [D,S]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+OG [O,G]^
+OF [O,F]^
+SF [S,F]^
+GC [G,C]^
+DO [D,O]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+FG [F,G]^
+LS [L,S]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+OH [O,H]^
+GF [G,F]^
+OL [O,L]^
+DF [D,F]^
+PD [<speak><prosody rate="x-slow">P</prosody>,D</speak>]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+CS [C,S]^
+LG [L,G]^
+CD [C,D]^
+LF [L,F]^
+GC [G,C]^
+GP [<speak>G,<prosody rate="x-slow">P</prosody></speak>]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+HL [H,L]^
+SF [S,F]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+PC [<speak><prosody rate="x-slow">P</prosody>,C</speak>]^
+LD [L,D]^
+OL [O,L]^
+HD [H,D]^
+FC [F,C]^
+HD [H,D]^
+GC [G,C]^
+HS [H,S]^
+HS [H,S]^
+HC [H,C]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+SO [S,O]^
+GC [G,C]^
+LG [L,G]^
+CL [C,L]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+FS [F,S]^
+HF [H,F]^
+DL [D,L]^
+CD [C,D]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+OS [O,S]^
+CL [C,L]^
+OS [O,S]^
+CO [C,O]^
+LC [L,C]^
+FC [F,C]^
+OS [O,S]^
+CG [C,G]^
+FL [F,L]^
+CD [C,D]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+DL [D,L]^
+FS [F,S]^
+DF [D,F]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+OS [O,S]^
+FH [F,H]^
+GP [<speak>G,<prosody rate="x-slow">P</prosody></speak>]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+SF [S,F]^
+GO [G,O]^
+HL [H,L]^
+PD [<speak><prosody rate="x-slow">P</prosody>,D</speak>]^
+GO [G,O]^
+GL [G,L]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+DH [D,H]^
+SO [S,O]^
+GF [G,F]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+DO [D,O]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+FL [F,L]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+LO [L,O]^
+DG [D,G]^
+DF [D,F]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+OF [O,F]^
+DO [D,O]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+LS [L,S]^
+CF [C,F]^
+SH [S,H]^
+LS [L,S]^
+GD [G,D]^
+OD [O,D]^
+LC [L,C]^
+DH [D,H]^
+GF [G,F]^
+OD [O,D]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+DL [D,L]^
+OF [O,F]^
+GS [G,S]^
+GS [G,S]^
+LD [L,D]^
+SL [S,L]^
+OC [O,C]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+DC [D,C]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+FO [F,O]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+GD [G,D]^
+GH [G,H]^
+SL [S,L]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+PL [<speak><prosody rate="x-slow">P</prosody>,L</speak>]^
+DS [D,S]^
+HF [H,F]^
+PD [<speak><prosody rate="x-slow">P</prosody>,D</speak>]^
+HO [H,O]^
+CS [C,S]^
+OL [O,L]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+DC [D,C]^
+SO [S,O]^
+SD [S,D]^
+FS [F,S]^
+LF [L,F]^
+SC [S,C]^
+SD [S,D]^
+OD [O,D]^
+GD [G,D]^
+CF [C,F]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+DF [D,F]^
+CD [C,D]^
+CF [C,F]^
+LS [L,S]^
+DG [D,G]^
+SO [S,O]^
+HG [H,G]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+HF [H,F]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+SD [S,D]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+SO [S,O]^
+CD [C,D]^
+FC [F,C]^
+FC [F,C]^
+DH [D,H]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+GF [G,F]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+DS [D,S]^
+GS [G,S]^
+FD [F,D]^
+OG [O,G]^
+OS [O,S]^
+LH [L,H]^
+FS [F,S]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+OH [O,H]^
+CL [C,L]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+OD [O,D]^
+OD [O,D]^
+GD [G,D]^
+CP [<speak>C,<prosody rate="x-slow">P</prosody></speak>]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+LF [L,F]^
+LG [L,G]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+OD [O,D]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+GC [G,C]^
+DO [D,O]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+OL [O,L]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+HC [H,C]^
+SF [S,F]^
+HF [H,F]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+SL [S,L]^
+GF [G,F]^
+CS [C,S]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+DP [<speak>D,<prosody rate="x-slow">P</prosody></speak>]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+CL [C,L]^
+PD [<speak><prosody rate="x-slow">P</prosody>,D</speak>]^
+OF [O,F]^
+DH [D,H]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+FL [F,L]^
+GS [G,S]^
+HC [H,C]^
+GF [G,F]^
+GP [<speak>G,<prosody rate="x-slow">P</prosody></speak>]^
+LC [L,C]^
+HL [H,L]^
+GC [G,C]^
+LS [L,S]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+GF [G,F]^
+OH [O,H]^
+OD [O,D]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+GH [G,H]^
+CG [C,G]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+SL [S,L]^
+OL [O,L]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+HP [<speak>H,<prosody rate="x-slow">P</prosody></speak>]^
+GS [G,S]^
+GF [G,F]^
+HO [H,O]^
+DC [D,C]^
+SG [S,G]^
+FD [F,D]^
+OL [O,L]^
+DC [D,C]^
+GF [G,F]^
+DC [D,C]^
+HS [H,S]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+GD [G,D]^
+SH [S,H]^
+FG [F,G]^
+LD [L,D]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+DO [D,O]^
+FC [F,C]^
+SC [S,C]^
+PS [<speak><prosody rate="x-slow">P</prosody>,S</speak>]^
+LS [L,S]^
+CS [C,S]^
+HD [H,D]^
+FP [<speak>F,<prosody rate="x-slow">P</prosody></speak>]^
+LO [L,O]^
+LF [L,F]^

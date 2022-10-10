@@ -1,0 +1,800 @@
+GU [<speak>G,<prosody rate="x-slow">U</prosody></speak>]^
+R\. [R,Period]^
+N\. [N,Period]^
+WA [W,A]^
+6\. [6,Period]^
+NP [<speak>N,<prosody rate="x-slow">P</prosody></speak>]^
+NT [N,T]^
+SI [S,I]^
+H1 [H,1]^
+\.P [<speak>Period,<prosody rate="x-slow">P</prosody></speak>]^
+L6 [L,6]^
+\.P [<speak>Period,<prosody rate="x-slow">P</prosody></speak>]^
+R6 [R,6]^
+SW [S,W]^
+61 [6, 1]^
+6R [6,R]^
+IG [I,G]^
+LE [L,E]^
+\.H [Period,H]^
+6R [6,R]^
+16 [1, 6]^
+WC [W,C]^
+TE [T,E]^
+6U [<speak>6,<prosody rate="x-slow">U</prosody></speak>]^
+\.O [Period,O]^
+6P [<speak>6,<prosody rate="x-slow">P</prosody></speak>]^
+1S [1,S]^
+E6 [E,6]^
+LI [L,I]^
+TF [T,F]^
+16 [1, 6]^
+\.6 [Period,6]^
+16 [1, 6]^
+1F [1,F]^
+BH [B,H]^
+\.U [<speak>Period,<prosody rate="x-slow">U</prosody></speak>]^
+6L [6,L]^
+\.P [<speak>Period,<prosody rate="x-slow">P</prosody></speak>]^
+6U [<speak>6,<prosody rate="x-slow">U</prosody></speak>]^
+1\. [1,Period]^
+1G [1,G]^
+1S [1,S]^
+AC [A,C]^
+B\. [B,Period]^
+P1 [<speak><prosody rate="x-slow">P</prosody>,1</speak>]^
+\.F [Period,F]^
+AT [A,T]^
+\.H [Period,H]^
+B\. [B,Period]^
+6\. [6,Period]^
+CF [C,F]^
+G1 [G,1]^
+\.O [Period,O]^
+AI [A,I]^
+H1 [H,1]^
+\.W [Period,W]^
+N1 [N,1]^
+OD [O,D]^
+O1 [O,1]^
+\.I [Period,I]^
+S\. [S,Period]^
+6\. [6,Period]^
+6L [6,L]^
+1I [1,I]^
+1L [1,L]^
+\.T [Period,T]^
+1O [1,O]^
+SI [S,I]^
+\.1 [Period,1]^
+S1 [S,1]^
+GL [G,L]^
+1\. [1,Period]^
+B6 [B,6]^
+16 [1, 6]^
+NC [N,C]^
+\.E [Period,E]^
+T\. [T,Period]^
+1A [1,A]^
+CB [C,B]^
+ER [E,R]^
+P1 [<speak><prosody rate="x-slow">P</prosody>,1</speak>]^
+DF [D,F]^
+EI [E,I]^
+DS [D,S]^
+C\. [C,Period]^
+N6 [N,6]^
+GN [G,N]^
+\.6 [Period,6]^
+1I [1,I]^
+\.1 [Period,1]^
+B1 [B,1]^
+C6 [C,6]^
+\.A [Period,A]^
+E1 [E,1]^
+6H [6,H]^
+\.R [Period,R]^
+1G [1,G]^
+F6 [F,6]^
+\.E [Period,E]^
+6\. [6,Period]^
+1R [1,R]^
+H\. [H,Period]^
+TU [<speak>T,<prosody rate="x-slow">U</prosody></speak>]^
+\.H [Period,H]^
+O\. [O,Period]^
+6L [6,L]^
+1S [1,S]^
+\.O [Period,O]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+L\. [L,Period]^
+1\. [1,Period]^
+GF [G,F]^
+6\. [6,Period]^
+6\. [6,Period]^
+WS [W,S]^
+GD [G,D]^
+\.1 [Period,1]^
+\.1 [Period,1]^
+6S [6,S]^
+CH [C,H]^
+DH [D,H]^
+TH [T,H]^
+\.6 [Period,6]^
+WE [W,E]^
+61 [6, 1]^
+6A [6,A]^
+1\. [1,Period]^
+GR [G,R]^
+E6 [E,6]^
+\.1 [Period,1]^
+\.U [<speak>Period,<prosody rate="x-slow">U</prosody></speak>]^
+D6 [D,6]^
+\.N [Period,N]^
+1I [1,I]^
+OT [O,T]^
+H\. [H,Period]^
+EP [<speak>E,<prosody rate="x-slow">P</prosody></speak>]^
+S1 [S,1]^
+61 [6, 1]^
+61 [6, 1]^
+SG [S,G]^
+P\. [<speak><prosody rate="x-slow">P</prosody>,Period</speak>]^
+6\. [6,Period]^
+61 [6, 1]^
+\.6 [Period,6]^
+F1 [F,1]^
+\.1 [Period,1]^
+6\. [6,Period]^
+S6 [S,6]^
+\.G [Period,G]^
+1\. [1,Period]^
+6B [6,B]^
+\.E [Period,E]^
+BT [B,T]^
+AG [A,G]^
+TF [T,F]^
+61 [6, 1]^
+\.G [Period,G]^
+N6 [N,6]^
+G\. [G,Period]^
+CN [C,N]^
+\.W [Period,W]^
+FW [F,W]^
+NC [N,C]^
+O6 [O,6]^
+R6 [R,6]^
+1\. [1,Period]^
+16 [1, 6]^
+1E [1,E]^
+16 [1, 6]^
+R6 [R,6]^
+\.1 [Period,1]^
+6B [6,B]^
+1\. [1,Period]^
+WN [W,N]^
+W\. [W,Period]^
+1\. [1,Period]^
+D6 [D,6]^
+W6 [W,6]^
+LP [<speak>L,<prosody rate="x-slow">P</prosody></speak>]^
+O1 [O,1]^
+GT [G,T]^
+\.C [Period,C]^
+TA [T,A]^
+6P [<speak>6,<prosody rate="x-slow">P</prosody></speak>]^
+ES [E,S]^
+16 [1, 6]^
+\.1 [Period,1]^
+6O [6,O]^
+6\. [6,Period]^
+6L [6,L]^
+N1 [N,1]^
+\.W [Period,W]^
+BH [B,H]^
+16 [1, 6]^
+\.6 [Period,6]^
+TU [<speak>T,<prosody rate="x-slow">U</prosody></speak>]^
+N\. [N,Period]^
+16 [1, 6]^
+\.6 [Period,6]^
+PA [<speak><prosody rate="x-slow">P</prosody>,A</speak>]^
+6\. [6,Period]^
+61 [6, 1]^
+\.6 [Period,6]^
+1P [<speak>1,<prosody rate="x-slow">P</prosody></speak>]^
+61 [6, 1]^
+\.N [Period,N]^
+ET [E,T]^
+H\. [H,Period]^
+CN [C,N]^
+6F [6,F]^
+1R [1,R]^
+B6 [B,6]^
+\.O [Period,O]^
+1H [1,H]^
+DG [D,G]^
+1\. [1,Period]^
+6\. [6,Period]^
+1\. [1,Period]^
+R\. [R,Period]^
+FG [F,G]^
+R6 [R,6]^
+\.1 [Period,1]^
+T\. [T,Period]^
+6\. [6,Period]^
+L1 [L,1]^
+ID [I,D]^
+\.P [<speak>Period,<prosody rate="x-slow">P</prosody></speak>]^
+HW [H,W]^
+\.1 [Period,1]^
+T1 [T,1]^
+H1 [H,1]^
+\.1 [Period,1]^
+\.R [Period,R]^
+E1 [E,1]^
+C\. [C,Period]^
+OP [<speak>O,<prosody rate="x-slow">P</prosody></speak>]^
+CD [C,D]^
+16 [1, 6]^
+1G [1,G]^
+61 [6, 1]^
+\.6 [Period,6]^
+1A [1,A]^
+\.6 [Period,6]^
+\.B [Period,B]^
+DW [D,W]^
+\.6 [Period,6]^
+I6 [I,6]^
+GU [<speak>G,<prosody rate="x-slow">U</prosody></speak>]^
+P\. [<speak><prosody rate="x-slow">P</prosody>,Period</speak>]^
+PE [<speak><prosody rate="x-slow">P</prosody>,E</speak>]^
+I1 [I,1]^
+O1 [O,1]^
+LR [L,R]^
+H1 [H,1]^
+N1 [N,1]^
+6E [6,E]^
+U1 [<speak><prosody rate="x-slow">U</prosody>,1</speak>]^
+HW [H,W]^
+\.6 [Period,6]^
+\.O [Period,O]^
+61 [6, 1]^
+\.B [Period,B]^
+G\. [G,Period]^
+61 [6, 1]^
+\.6 [Period,6]^
+D6 [D,6]^
+1D [1,D]^
+T\. [T,Period]^
+A1 [A,1]^
+BT [B,T]^
+1\. [1,Period]^
+CW [C,W]^
+\.R [Period,R]^
+6E [6,E]^
+\.1 [Period,1]^
+LN [L,N]^
+B\. [B,Period]^
+61 [6, 1]^
+6E [6,E]^
+\.H [Period,H]^
+61 [6, 1]^
+6B [6,B]^
+G1 [G,1]^
+D1 [D,1]^
+C6 [C,6]^
+AL [A,L]^
+N1 [N,1]^
+6\. [6,Period]^
+16 [1, 6]^
+1G [1,G]^
+16 [1, 6]^
+CN [C,N]^
+PB [<speak><prosody rate="x-slow">P</prosody>,B</speak>]^
+1\. [1,Period]^
+CT [C,T]^
+61 [6, 1]^
+61 [6, 1]^
+6\. [6,Period]^
+6\. [6,Period]^
+61 [6, 1]^
+G6 [G,6]^
+1S [1,S]^
+R\. [R,Period]^
+U1 [<speak><prosody rate="x-slow">U</prosody>,1</speak>]^
+\.H [Period,H]^
+6\. [6,Period]^
+1\. [1,Period]^
+W\. [W,Period]^
+6I [6,I]^
+6\. [6,Period]^
+G\. [G,Period]^
+F\. [F,Period]^
+U6 [<speak><prosody rate="x-slow">U</prosody>,6</speak>]^
+RG [R,G]^
+CD [C,D]^
+6\. [6,Period]^
+S6 [S,6]^
+16 [1, 6]^
+\.B [Period,B]^
+1P [<speak>1,<prosody rate="x-slow">P</prosody></speak>]^
+U6 [<speak><prosody rate="x-slow">U</prosody>,6</speak>]^
+\.T [Period,T]^
+WD [W,D]^
+6O [6,O]^
+1S [1,S]^
+HA [H,A]^
+6\. [6,Period]^
+1O [1,O]^
+AL [A,L]^
+T6 [T,6]^
+\.6 [Period,6]^
+1E [1,E]^
+16 [1, 6]^
+\.1 [Period,1]^
+S1 [S,1]^
+\.H [Period,H]^
+\.1 [Period,1]^
+\.U [<speak>Period,<prosody rate="x-slow">U</prosody></speak>]^
+IH [I,H]^
+SF [S,F]^
+I1 [I,1]^
+SG [S,G]^
+P1 [<speak><prosody rate="x-slow">P</prosody>,1</speak>]^
+N1 [N,1]^
+61 [6, 1]^
+PO [<speak><prosody rate="x-slow">P</prosody>,O</speak>]^
+W\. [W,Period]^
+C\. [C,Period]^
+61 [6, 1]^
+61 [6, 1]^
+IF [I,F]^
+61 [6, 1]^
+6\. [6,Period]^
+I\. [I,Period]^
+HN [H,N]^
+WR [W,R]^
+1\. [1,Period]^
+PN [<speak><prosody rate="x-slow">P</prosody>,N</speak>]^
+GF [G,F]^
+6\. [6,Period]^
+61 [6, 1]^
+A6 [A,6]^
+1F [1,F]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+DI [D,I]^
+\.1 [Period,1]^
+G\. [G,Period]^
+F6 [F,6]^
+1G [1,G]^
+16 [1, 6]^
+BG [B,G]^
+\.6 [Period,6]^
+RN [R,N]^
+BG [B,G]^
+SW [S,W]^
+\.E [Period,E]^
+6N [6,N]^
+\.A [Period,A]^
+G\. [G,Period]^
+6\. [6,Period]^
+16 [1, 6]^
+16 [1, 6]^
+1R [1,R]^
+1\. [1,Period]^
+61 [6, 1]^
+6\. [6,Period]^
+O1 [O,1]^
+\.6 [Period,6]^
+O1 [O,1]^
+DN [D,N]^
+H1 [H,1]^
+GE [G,E]^
+6E [6,E]^
+AN [A,N]^
+IO [I,O]^
+1\. [1,Period]^
+16 [1, 6]^
+DF [D,F]^
+6O [6,O]^
+SC [S,C]^
+\.6 [Period,6]^
+W1 [W,1]^
+\.F [Period,F]^
+1N [1,N]^
+\.D [Period,D]^
+6\. [6,Period]^
+61 [6, 1]^
+D1 [D,1]^
+\.6 [Period,6]^
+D1 [D,1]^
+I\. [I,Period]^
+6F [6,F]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+D6 [D,6]^
+I6 [I,6]^
+\.1 [Period,1]^
+6W [6,W]^
+\.6 [Period,6]^
+1\. [1,Period]^
+EP [<speak>E,<prosody rate="x-slow">P</prosody></speak>]^
+U6 [<speak><prosody rate="x-slow">U</prosody>,6</speak>]^
+1P [<speak>1,<prosody rate="x-slow">P</prosody></speak>]^
+F\. [F,Period]^
+G6 [G,6]^
+C\. [C,Period]^
+1F [1,F]^
+\.6 [Period,6]^
+\.6 [Period,6]^
+WR [W,R]^
+\.6 [Period,6]^
+1W [1,W]^
+\.6 [Period,6]^
+P6 [<speak><prosody rate="x-slow">P</prosody>,6</speak>]^
+1E [1,E]^
+G\. [G,Period]^
+16 [1, 6]^
+H\. [H,Period]^
+IU [<speak>I,<prosody rate="x-slow">U</prosody></speak>]^
+\.6 [Period,6]^
+1R [1,R]^
+\.P [<speak>Period,<prosody rate="x-slow">P</prosody></speak>]^
+TN [T,N]^
+AH [A,H]^
+PF [<speak><prosody rate="x-slow">P</prosody>,F</speak>]^
+16 [1, 6]^
+S1 [S,1]^
+\.E [Period,E]^
+B6 [B,6]^
+\.B [Period,B]^
+G\. [G,Period]^
+61 [6, 1]^
+\.L [Period,L]^
+6F [6,F]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+6O [6,O]^
+6\. [6,Period]^
+1U [<speak>1,<prosody rate="x-slow">U</prosody></speak>]^
+DH [D,H]^
+DS [D,S]^
+6R [6,R]^
+1H [1,H]^
+\.U [<speak>Period,<prosody rate="x-slow">U</prosody></speak>]^
+\.E [Period,E]^
+P6 [<speak><prosody rate="x-slow">P</prosody>,6</speak>]^
+D1 [D,1]^
+6N [6,N]^
+GI [G,I]^
+CH [C,H]^
+O\. [O,Period]^
+1\. [1,Period]^
+OE [O,E]^
+6S [6,S]^
+H6 [H,6]^
+H1 [H,1]^
+6R [6,R]^
+\.D [Period,D]^
+U1 [<speak><prosody rate="x-slow">U</prosody>,1</speak>]^
+6G [6,G]^
+6C [6,C]^
+\.6 [Period,6]^
+16 [1, 6]^
+\.W [Period,W]^
+16 [1, 6]^
+O\. [O,Period]^
+1\. [1,Period]^
+1N [1,N]^
+T6 [T,6]^
+\.C [Period,C]^
+ED [E,D]^
+T1 [T,1]^
+N\. [N,Period]^
+1U [<speak>1,<prosody rate="x-slow">U</prosody></speak>]^
+EF [E,F]^
+G\. [G,Period]^
+1\. [1,Period]^
+6I [6,I]^
+RS [R,S]^
+E1 [E,1]^
+\.L [Period,L]^
+6F [6,F]^
+BL [B,L]^
+1F [1,F]^
+16 [1, 6]^
+RF [R,F]^
+1O [1,O]^
+1T [1,T]^
+FE [F,E]^
+AF [A,F]^
+PG [<speak><prosody rate="x-slow">P</prosody>,G</speak>]^
+6D [6,D]^
+N6 [N,6]^
+1A [1,A]^
+\.1 [Period,1]^
+T6 [T,6]^
+GF [G,F]^
+NH [N,H]^
+WO [W,O]^
+E6 [E,6]^
+H1 [H,1]^
+BA [B,A]^
+16 [1, 6]^
+16 [1, 6]^
+LI [L,I]^
+\.E [Period,E]^
+\.1 [Period,1]^
+\.N [Period,N]^
+A6 [A,6]^
+PA [<speak><prosody rate="x-slow">P</prosody>,A</speak>]^
+6\. [6,Period]^
+SR [S,R]^
+IW [I,W]^
+6O [6,O]^
+B1 [B,1]^
+AI [A,I]^
+61 [6, 1]^
+\.D [Period,D]^
+\.1 [Period,1]^
+\.H [Period,H]^
+\.6 [Period,6]^
+\.6 [Period,6]^
+1\. [1,Period]^
+6\. [6,Period]^
+1\. [1,Period]^
+W\. [W,Period]^
+I6 [I,6]^
+TE [T,E]^
+6I [6,I]^
+R1 [R,1]^
+\.I [Period,I]^
+16 [1, 6]^
+\.1 [Period,1]^
+\.1 [Period,1]^
+IE [I,E]^
+6\. [6,Period]^
+6\. [6,Period]^
+R\. [R,Period]^
+S6 [S,6]^
+TE [T,E]^
+\.6 [Period,6]^
+1\. [1,Period]^
+6S [6,S]^
+6B [6,B]^
+6\. [6,Period]^
+61 [6, 1]^
+T6 [T,6]^
+BO [B,O]^
+6P [<speak>6,<prosody rate="x-slow">P</prosody></speak>]^
+1U [<speak>1,<prosody rate="x-slow">U</prosody></speak>]^
+D1 [D,1]^
+6\. [6,Period]^
+1U [<speak>1,<prosody rate="x-slow">U</prosody></speak>]^
+6I [6,I]^
+\.6 [Period,6]^
+\.6 [Period,6]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+IB [I,B]^
+1D [1,D]^
+U6 [<speak><prosody rate="x-slow">U</prosody>,6</speak>]^
+T1 [T,1]^
+6H [6,H]^
+W6 [W,6]^
+BR [B,R]^
+OD [O,D]^
+1U [<speak>1,<prosody rate="x-slow">U</prosody></speak>]^
+E1 [E,1]^
+\.6 [Period,6]^
+E\. [E,Period]^
+61 [6, 1]^
+\.F [Period,F]^
+\.1 [Period,1]^
+O6 [O,6]^
+1\. [1,Period]^
+IP [<speak>I,<prosody rate="x-slow">P</prosody></speak>]^
+NB [N,B]^
+\.1 [Period,1]^
+TE [T,E]^
+6T [6,T]^
+RH [R,H]^
+6\. [6,Period]^
+6P [<speak>6,<prosody rate="x-slow">P</prosody></speak>]^
+1U [<speak>1,<prosody rate="x-slow">U</prosody></speak>]^
+O6 [O,6]^
+D6 [D,6]^
+1R [1,R]^
+\.S [Period,S]^
+C\. [C,Period]^
+DG [D,G]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+\.1 [Period,1]^
+T6 [T,6]^
+N1 [N,1]^
+6R [6,R]^
+SP [<speak>S,<prosody rate="x-slow">P</prosody></speak>]^
+F1 [F,1]^
+UD [<speak><prosody rate="x-slow">U</prosody>,D</speak>]^
+P\. [<speak><prosody rate="x-slow">P</prosody>,Period</speak>]^
+FS [F,S]^
+A1 [A,1]^
+\.6 [Period,6]^
+\.U [<speak>Period,<prosody rate="x-slow">U</prosody></speak>]^
+6O [6,O]^
+\.S [Period,S]^
+6\. [6,Period]^
+1C [1,C]^
+D6 [D,6]^
+US [<speak><prosody rate="x-slow">U</prosody>,S</speak>]^
+E6 [E,6]^
+N6 [N,6]^
+G6 [G,6]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+16 [1, 6]^
+\.A [Period,A]^
+T\. [T,Period]^
+RL [R,L]^
+6U [<speak>6,<prosody rate="x-slow">U</prosody></speak>]^
+1H [1,H]^
+61 [6, 1]^
+\.L [Period,L]^
+\.N [Period,N]^
+CR [C,R]^
+61 [6, 1]^
+6\. [6,Period]^
+E\. [E,Period]^
+D6 [D,6]^
+AR [A,R]^
+\.U [<speak>Period,<prosody rate="x-slow">U</prosody></speak>]^
+6R [6,R]^
+\.U [<speak>Period,<prosody rate="x-slow">U</prosody></speak>]^
+6\. [6,Period]^
+6S [6,S]^
+IW [I,W]^
+\.P [<speak>Period,<prosody rate="x-slow">P</prosody></speak>]^
+NT [N,T]^
+\.D [Period,D]^
+FU [<speak>F,<prosody rate="x-slow">U</prosody></speak>]^
+P6 [<speak><prosody rate="x-slow">P</prosody>,6</speak>]^
+BH [B,H]^
+1S [1,S]^
+GA [G,A]^
+6\. [6,Period]^
+6B [6,B]^
+H6 [H,6]^
+PH [<speak><prosody rate="x-slow">P</prosody>,H</speak>]^
+6\. [6,Period]^
+1U [<speak>1,<prosody rate="x-slow">U</prosody></speak>]^
+L\. [L,Period]^
+FO [F,O]^
+16 [1, 6]^
+CR [C,R]^
+A1 [A,1]^
+6I [6,I]^
+6U [<speak>6,<prosody rate="x-slow">U</prosody></speak>]^
+FL [F,L]^
+FT [F,T]^
+GA [G,A]^
+T6 [T,6]^
+FE [F,E]^
+16 [1, 6]^
+1E [1,E]^
+SG [S,G]^
+1\. [1,Period]^
+SF [S,F]^
+\.1 [Period,1]^
+\.E [Period,E]^
+\.1 [Period,1]^
+\.F [Period,F]^
+\.U [<speak>Period,<prosody rate="x-slow">U</prosody></speak>]^
+BS [B,S]^
+6\. [6,Period]^
+NU [<speak>N,<prosody rate="x-slow">U</prosody></speak>]^
+A1 [A,1]^
+\.6 [Period,6]^
+16 [1, 6]^
+\.S [Period,S]^
+61 [6, 1]^
+T\. [T,Period]^
+1R [1,R]^
+N\. [N,Period]^
+16 [1, 6]^
+N6 [N,6]^
+R1 [R,1]^
+\.G [Period,G]^
+C1 [C,1]^
+6\. [6,Period]^
+6L [6,L]^
+N6 [N,6]^
+A1 [A,1]^
+\.F [Period,F]^
+\.1 [Period,1]^
+IR [I,R]^
+\.1 [Period,1]^
+\.1 [Period,1]^
+\.D [Period,D]^
+E1 [E,1]^
+EW [E,W]^
+A\. [A,Period]^
+6P [<speak>6,<prosody rate="x-slow">P</prosody></speak>]^
+6B [6,B]^
+RC [R,C]^
+WH [W,H]^
+I1 [I,1]^
+\.P [<speak>Period,<prosody rate="x-slow">P</prosody></speak>]^
+1O [1,O]^
+1\. [1,Period]^
+O\. [O,Period]^
+1E [1,E]^
+BE [B,E]^
+6F [6,F]^
+C1 [C,1]^
+6\. [6,Period]^
+G\. [G,Period]^
+P6 [<speak><prosody rate="x-slow">P</prosody>,6</speak>]^
+GA [G,A]^
+\.6 [Period,6]^
+\.6 [Period,6]^
+IC [I,C]^
+\.6 [Period,6]^
+CA [C,A]^
+S\. [S,Period]^
+6R [6,R]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+1R [1,R]^
+O1 [O,1]^
+SB [S,B]^
+\.1 [Period,1]^
+\.1 [Period,1]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+DL [D,L]^
+16 [1, 6]^
+\.6 [Period,6]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+P\. [<speak><prosody rate="x-slow">P</prosody>,Period</speak>]^
+1\. [1,Period]^
+U6 [<speak><prosody rate="x-slow">U</prosody>,6</speak>]^
+1T [1,T]^
+61 [6, 1]^
+H\. [H,Period]^
+61 [6, 1]^
+\.1 [Period,1]^
+\.1 [Period,1]^
+LW [L,W]^
+S1 [S,1]^
+\.T [Period,T]^
+16 [1, 6]^
+RD [R,D]^
+6\. [6,Period]^
+6H [6,H]^
+S1 [S,1]^
+\.6 [Period,6]^
+B1 [B,1]^
+6I [6,I]^
+6B [6,B]^
+DH [D,H]^
+16 [1, 6]^
+\.1 [Period,1]^
+\.1 [Period,1]^
+P6 [<speak><prosody rate="x-slow">P</prosody>,6</speak>]^
+WR [W,R]^
+6N [6,N]^
+\.P [<speak>Period,<prosody rate="x-slow">P</prosody></speak>]^
+WG [W,G]^
+P6 [<speak><prosody rate="x-slow">P</prosody>,6</speak>]^
+1I [1,I]^
+6\. [6,Period]^
+HG [H,G]^
+E\. [E,Period]^
+T6 [T,6]^
+\.6 [Period,6]^
+RF [R,F]^
+L\. [L,Period]^
+6\. [6,Period]^
+OW [O,W]^
+6H [6,H]^
+1\. [1,Period]^
+1W [1,W]^
+61 [6, 1]^
+LD [L,D]^
+L\. [L,Period]^
+CB [C,B]^

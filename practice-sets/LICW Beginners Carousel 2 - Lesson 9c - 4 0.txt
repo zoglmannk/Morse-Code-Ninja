@@ -1,0 +1,800 @@
+40L [4, 0,L]^
+404 [4, 0, 4]^
+EP0 [<speak>E,<prosody rate="x-slow">P</prosody>,0</speak>]^
+40E [4, 0,E]^
+TC4 [T,C,4]^
+TPT [<speak>T,<prosody rate="x-slow">P</prosody>,T</speak>]^
+IA4 [I,A,4]^
+N40 [N,4, 0]^
+40D [4, 0,D]^
+404 [4, 0, 4]^
+ON4 [O,N,4]^
+F4O [F,4,O]^
+04B [0, 4,B]^
+040 [0, 4, 0]^
+40C [4, 0,C]^
+FNW [F,N,W]^
+BFO [B,F,O]^
+S04 [S,0, 4]^
+NC4 [N,C,4]^
+G40 [G,4, 0]^
+I04 [I,0, 4]^
+0TH [0,T,H]^
+N04 [N,0, 4]^
+0D0 [0,D,0]^
+TI4 [T,I,4]^
+0RH [0,R,H]^
+RAO [R,A,O]^
+U40 [<speak><prosody rate="x-slow">U</prosody>,4, 0</speak>]^
+404 [4, 0, 4]^
+040 [0, 4, 0]^
+4OF [4,O,F]^
+P04 [<speak><prosody rate="x-slow">P</prosody>,0, 4</speak>]^
+04P [<speak>0, 4,<prosody rate="x-slow">P</prosody></speak>]^
+S40 [S,4, 0]^
+SLU [<speak>S,L,<prosody rate="x-slow">U</prosody></speak>]^
+F0C [F,0,C]^
+L40 [L,4, 0]^
+404 [4, 0, 4]^
+C0H [C,0,H]^
+40I [4, 0,I]^
+PR4 [<speak><prosody rate="x-slow">P</prosody>,R,4</speak>]^
+0G0 [0,G,0]^
+HP0 [<speak>H,<prosody rate="x-slow">P</prosody>,0</speak>]^
+O40 [O,4, 0]^
+U4L [<speak><prosody rate="x-slow">U</prosody>,4,L</speak>]^
+04U [<speak>0, 4,<prosody rate="x-slow">U</prosody></speak>]^
+4G0 [4,G,0]^
+TW4 [T,W,4]^
+040 [0, 4, 0]^
+4E4 [4,E,4]^
+040 [0, 4, 0]^
+G4C [G,4,C]^
+A40 [A,4, 0]^
+T04 [T,0, 4]^
+0IE [0,I,E]^
+S0R [S,0,R]^
+4TH [4,T,H]^
+W40 [W,4, 0]^
+404 [4, 0, 4]^
+E40 [E,4, 0]^
+EDP [<speak>E,D,<prosody rate="x-slow">P</prosody></speak>]^
+0W4 [0,W,4]^
+0OS [0,O,S]^
+F0W [F,0,W]^
+EBD [E,B,D]^
+040 [0, 4, 0]^
+4LB [4,L,B]^
+40R [4, 0,R]^
+PCN [<speak><prosody rate="x-slow">P</prosody>,C,N</speak>]^
+T0D [T,0,D]^
+A04 [A,0, 4]^
+WD4 [W,D,4]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+4E4 [4,E,4]^
+F40 [F,4, 0]^
+C4O [C,4,O]^
+U0F [<speak><prosody rate="x-slow">U</prosody>,0,F</speak>]^
+BS4 [B,S,4]^
+R0D [R,0,D]^
+4HA [4,H,A]^
+BAD [B,A,D]^
+040 [0, 4, 0]^
+A04 [A,0, 4]^
+IED [I,E,D]^
+U40 [<speak><prosody rate="x-slow">U</prosody>,4, 0</speak>]^
+4R4 [4,R,4]^
+040 [0, 4, 0]^
+404 [4, 0, 4]^
+040 [0, 4, 0]^
+40G [4, 0,G]^
+N4R [N,4,R]^
+040 [0, 4, 0]^
+R04 [R,0, 4]^
+040 [0, 4, 0]^
+O40 [O,4, 0]^
+404 [4, 0, 4]^
+040 [0, 4, 0]^
+N40 [N,4, 0]^
+E4G [E,4,G]^
+C4I [C,4,I]^
+404 [4, 0, 4]^
+FB4 [F,B,4]^
+OIB [O,I,B]^
+0O4 [0,O,4]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+4U4 [<speak>4,<prosody rate="x-slow">U</prosody>,4</speak>]^
+040 [0, 4, 0]^
+OF0 [O,F,0]^
+4N0 [4,N,0]^
+BHF [B,H,F]^
+40U [<speak>4, 0,<prosody rate="x-slow">U</prosody></speak>]^
+R4U [<speak>R,4,<prosody rate="x-slow">U</prosody></speak>]^
+0S4 [0,S,4]^
+0WA [0,W,A]^
+R4F [R,4,F]^
+DOE [D,O,E]^
+DL0 [D,L,0]^
+HLT [H,L,T]^
+UH0 [<speak><prosody rate="x-slow">U</prosody>,H,0</speak>]^
+U0S [<speak><prosody rate="x-slow">U</prosody>,0,S</speak>]^
+04R [0, 4,R]^
+I40 [I,4, 0]^
+E4A [E,4,A]^
+404 [4, 0, 4]^
+040 [0, 4, 0]^
+404 [4, 0, 4]^
+L04 [L,0, 4]^
+CT4 [C,T,4]^
+WTF [W,T,F]^
+ND0 [N,D,0]^
+40E [4, 0,E]^
+SWE [S,W,E]^
+I04 [I,0, 4]^
+0OC [0,O,C]^
+0OF [0,O,F]^
+GEP [<speak>G,E,<prosody rate="x-slow">P</prosody></speak>]^
+H4E [H,4,E]^
+404 [4, 0, 4]^
+040 [0, 4, 0]^
+RN4 [R,N,4]^
+0D0 [0,D,0]^
+4BU [<speak>4,B,<prosody rate="x-slow">U</prosody></speak>]^
+4S4 [4,S,4]^
+R40 [R,4, 0]^
+4L0 [4,L,0]^
+EBN [E,B,N]^
+I0P [<speak>I,0,<prosody rate="x-slow">P</prosody></speak>]^
+404 [4, 0, 4]^
+ESG [E,S,G]^
+TWE [T,W,E]^
+FP4 [<speak>F,<prosody rate="x-slow">P</prosody>,4</speak>]^
+S04 [S,0, 4]^
+0I0 [0,I,0]^
+404 [4, 0, 4]^
+0E0 [0,E,0]^
+URP [<speak><prosody rate="x-slow">U</prosody>,R,<prosody rate="x-slow">P</prosody></speak>]^
+FCT [F,C,T]^
+04W [0, 4,W]^
+PUP [<speak><prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody>,<prosody rate="x-slow">P</prosody></speak>]^
+040 [0, 4, 0]^
+4IP [<speak>4,I,<prosody rate="x-slow">P</prosody></speak>]^
+404 [4, 0, 4]^
+DHT [D,H,T]^
+04H [0, 4,H]^
+T04 [T,0, 4]^
+S0O [S,0,O]^
+404 [4, 0, 4]^
+P40 [<speak><prosody rate="x-slow">P</prosody>,4, 0</speak>]^
+40T [4, 0,T]^
+L40 [L,4, 0]^
+NWT [N,W,T]^
+040 [0, 4, 0]^
+4R4 [4,R,4]^
+L40 [L,4, 0]^
+404 [4, 0, 4]^
+040 [0, 4, 0]^
+404 [4, 0, 4]^
+I0S [I,0,S]^
+0GO [0,G,O]^
+R40 [R,4, 0]^
+O0T [O,0,T]^
+404 [4, 0, 4]^
+PU0 [<speak><prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody>,0</speak>]^
+404 [4, 0, 4]^
+0FU [<speak>0,F,<prosody rate="x-slow">U</prosody></speak>]^
+0IO [0,I,O]^
+GT0 [G,T,0]^
+4W4 [4,W,4]^
+0AL [0,A,L]^
+SU4 [<speak>S,<prosody rate="x-slow">U</prosody>,4</speak>]^
+IC4 [I,C,4]^
+RG4 [R,G,4]^
+0W0 [0,W,0]^
+NFB [N,F,B]^
+DB4 [D,B,4]^
+040 [0, 4, 0]^
+D0S [D,0,S]^
+4BE [4,B,E]^
+O40 [O,4, 0]^
+4S4 [4,S,4]^
+0S4 [0,S,4]^
+04C [0, 4,C]^
+404 [4, 0, 4]^
+HC4 [H,C,4]^
+040 [0, 4, 0]^
+AR0 [A,R,0]^
+4A0 [4,A,0]^
+404 [4, 0, 4]^
+BF0 [B,F,0]^
+40I [4, 0,I]^
+DLC [D,L,C]^
+L40 [L,4, 0]^
+P04 [<speak><prosody rate="x-slow">P</prosody>,0, 4</speak>]^
+G40 [G,4, 0]^
+4WS [4,W,S]^
+40P [<speak>4, 0,<prosody rate="x-slow">P</prosody></speak>]^
+404 [4, 0, 4]^
+DT4 [D,T,4]^
+040 [0, 4, 0]^
+CR4 [C,R,4]^
+04H [0, 4,H]^
+LE0 [L,E,0]^
+FNB [F,N,B]^
+040 [0, 4, 0]^
+404 [4, 0, 4]^
+WR0 [W,R,0]^
+W0D [W,0,D]^
+RA0 [R,A,0]^
+404 [4, 0, 4]^
+0UD [<speak>0,<prosody rate="x-slow">U</prosody>,D</speak>]^
+H4R [H,4,R]^
+40R [4, 0,R]^
+4LN [4,L,N]^
+0OB [0,O,B]^
+404 [4, 0, 4]^
+I0G [I,0,G]^
+0I0 [0,I,0]^
+40P [<speak>4, 0,<prosody rate="x-slow">P</prosody></speak>]^
+I04 [I,0, 4]^
+COB [C,O,B]^
+4CG [4,C,G]^
+0S0 [0,S,0]^
+IBH [I,B,H]^
+D04 [D,0, 4]^
+NF4 [N,F,4]^
+HDO [H,D,O]^
+040 [0, 4, 0]^
+TB0 [T,B,0]^
+4F0 [4,F,0]^
+404 [4, 0, 4]^
+0HE [0,H,E]^
+04P [<speak>0, 4,<prosody rate="x-slow">P</prosody></speak>]^
+404 [4, 0, 4]^
+B04 [B,0, 4]^
+P40 [<speak><prosody rate="x-slow">P</prosody>,4, 0</speak>]^
+4HL [4,H,L]^
+S0S [S,0,S]^
+0DF [0,D,F]^
+HLI [H,L,I]^
+AI4 [A,I,4]^
+0CW [0,C,W]^
+40F [4, 0,F]^
+04U [<speak>0, 4,<prosody rate="x-slow">U</prosody></speak>]^
+ODO [O,D,O]^
+40C [4, 0,C]^
+G4N [G,4,N]^
+04I [0, 4,I]^
+S04 [S,0, 4]^
+0T4 [0,T,4]^
+P40 [<speak><prosody rate="x-slow">P</prosody>,4, 0</speak>]^
+T4D [T,4,D]^
+4L0 [4,L,0]^
+404 [4, 0, 4]^
+0TU [<speak>0,T,<prosody rate="x-slow">U</prosody></speak>]^
+04G [0, 4,G]^
+T4I [T,4,I]^
+4IU [<speak>4,I,<prosody rate="x-slow">U</prosody></speak>]^
+04E [0, 4,E]^
+F04 [F,0, 4]^
+OI4 [O,I,4]^
+0EP [<speak>0,E,<prosody rate="x-slow">P</prosody></speak>]^
+4EN [4,E,N]^
+40S [4, 0,S]^
+4P0 [<speak>4,<prosody rate="x-slow">P</prosody>,0</speak>]^
+4I4 [4,I,4]^
+R04 [R,0, 4]^
+P0I [<speak><prosody rate="x-slow">P</prosody>,0,I</speak>]^
+40A [4, 0,A]^
+0B4 [0,B,4]^
+0FH [0,F,H]^
+0RH [0,R,H]^
+0H0 [0,H,0]^
+EOU [<speak>E,O,<prosody rate="x-slow">U</prosody></speak>]^
+04P [<speak>0, 4,<prosody rate="x-slow">P</prosody></speak>]^
+4CF [4,C,F]^
+040 [0, 4, 0]^
+4D4 [4,D,4]^
+0A4 [0,A,4]^
+04W [0, 4,W]^
+PN0 [<speak><prosody rate="x-slow">P</prosody>,N,0</speak>]^
+U40 [<speak><prosody rate="x-slow">U</prosody>,4, 0</speak>]^
+4P4 [<speak>4,<prosody rate="x-slow">P</prosody>,4</speak>]^
+04A [0, 4,A]^
+4T4 [4,T,4]^
+0U4 [<speak>0,<prosody rate="x-slow">U</prosody>,4</speak>]^
+PUT [<speak><prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody>,T</speak>]^
+UG4 [<speak><prosody rate="x-slow">U</prosody>,G,4</speak>]^
+04B [0, 4,B]^
+0F4 [0,F,4]^
+0LE [0,L,E]^
+T40 [T,4, 0]^
+404 [4, 0, 4]^
+O4S [O,4,S]^
+D4W [D,4,W]^
+B40 [B,4, 0]^
+4DB [4,D,B]^
+4CA [4,C,A]^
+4E0 [4,E,0]^
+R0H [R,0,H]^
+404 [4, 0, 4]^
+04U [<speak>0, 4,<prosody rate="x-slow">U</prosody></speak>]^
+40H [4, 0,H]^
+0G4 [0,G,4]^
+N4N [N,4,N]^
+ADP [<speak>A,D,<prosody rate="x-slow">P</prosody></speak>]^
+4DC [4,D,C]^
+W04 [W,0, 4]^
+EPL [<speak>E,<prosody rate="x-slow">P</prosody>,L</speak>]^
+40T [4, 0,T]^
+PUO [<speak><prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody>,O</speak>]^
+404 [4, 0, 4]^
+O40 [O,4, 0]^
+ES0 [E,S,0]^
+40I [4, 0,I]^
+WBF [W,B,F]^
+4EH [4,E,H]^
+G4T [G,4,T]^
+4AG [4,A,G]^
+040 [0, 4, 0]^
+4TN [4,T,N]^
+40L [4, 0,L]^
+4W0 [4,W,0]^
+BTU [<speak>B,T,<prosody rate="x-slow">U</prosody></speak>]^
+N0I [N,0,I]^
+D0B [D,0,B]^
+4P4 [<speak>4,<prosody rate="x-slow">P</prosody>,4</speak>]^
+040 [0, 4, 0]^
+40P [<speak>4, 0,<prosody rate="x-slow">P</prosody></speak>]^
+IL4 [I,L,4]^
+GW0 [G,W,0]^
+H04 [H,0, 4]^
+T4C [T,4,C]^
+AN4 [A,N,4]^
+0A0 [0,A,0]^
+4W0 [4,W,0]^
+HAG [H,A,G]^
+L0O [L,0,O]^
+40W [4, 0,W]^
+4E4 [4,E,4]^
+04N [0, 4,N]^
+40H [4, 0,H]^
+040 [0, 4, 0]^
+4R0 [4,R,0]^
+RLC [R,L,C]^
+0D0 [0,D,0]^
+404 [4, 0, 4]^
+04B [0, 4,B]^
+0N4 [0,N,4]^
+FRG [F,R,G]^
+PR0 [<speak><prosody rate="x-slow">P</prosody>,R,0</speak>]^
+4I0 [4,I,0]^
+FWO [F,W,O]^
+4GL [4,G,L]^
+0I4 [0,I,4]^
+04N [0, 4,N]^
+0W4 [0,W,4]^
+04S [0, 4,S]^
+4SW [4,S,W]^
+40L [4, 0,L]^
+04G [0, 4,G]^
+0HN [0,H,N]^
+FCS [F,C,S]^
+E4G [E,4,G]^
+4P0 [<speak>4,<prosody rate="x-slow">P</prosody>,0</speak>]^
+40P [<speak>4, 0,<prosody rate="x-slow">P</prosody></speak>]^
+F40 [F,4, 0]^
+CGP [<speak>C,G,<prosody rate="x-slow">P</prosody></speak>]^
+I40 [I,4, 0]^
+BC0 [B,C,0]^
+R04 [R,0, 4]^
+DWE [D,W,E]^
+4TR [4,T,R]^
+A04 [A,0, 4]^
+C4S [C,4,S]^
+04L [0, 4,L]^
+0B4 [0,B,4]^
+H0N [H,0,N]^
+IN4 [I,N,4]^
+UCP [<speak><prosody rate="x-slow">U</prosody>,C,<prosody rate="x-slow">P</prosody></speak>]^
+404 [4, 0, 4]^
+NW0 [N,W,0]^
+T0N [T,0,N]^
+DEI [D,E,I]^
+E04 [E,0, 4]^
+HBO [H,B,O]^
+BFH [B,F,H]^
+040 [0, 4, 0]^
+404 [4, 0, 4]^
+G0O [G,0,O]^
+EG4 [E,G,4]^
+0N4 [0,N,4]^
+S0L [S,0,L]^
+G40 [G,4, 0]^
+I40 [I,4, 0]^
+OH4 [O,H,4]^
+040 [0, 4, 0]^
+404 [4, 0, 4]^
+040 [0, 4, 0]^
+4B4 [4,B,4]^
+04E [0, 4,E]^
+SD4 [S,D,4]^
+LOL [L,O,L]^
+40L [4, 0,L]^
+404 [4, 0, 4]^
+W4I [W,4,I]^
+4S4 [4,S,4]^
+PIH [<speak><prosody rate="x-slow">P</prosody>,I,H</speak>]^
+OTN [O,T,N]^
+D40 [D,4, 0]^
+4SI [4,S,I]^
+LB4 [L,B,4]^
+04P [<speak>0, 4,<prosody rate="x-slow">P</prosody></speak>]^
+AFB [A,F,B]^
+C4N [C,4,N]^
+IA4 [I,A,4]^
+CNA [C,N,A]^
+0A4 [0,A,4]^
+R40 [R,4, 0]^
+4AP [<speak>4,A,<prosody rate="x-slow">P</prosody></speak>]^
+N04 [N,0, 4]^
+BRB [B,R,B]^
+0I4 [0,I,4]^
+CIE [C,I,E]^
+D40 [D,4, 0]^
+40N [4, 0,N]^
+4TA [4,T,A]^
+4L4 [4,L,4]^
+AW4 [A,W,4]^
+L40 [L,4, 0]^
+W04 [W,0, 4]^
+040 [0, 4, 0]^
+WO4 [W,O,4]^
+0O0 [0,O,0]^
+4IR [4,I,R]^
+04S [0, 4,S]^
+LF4 [L,F,4]^
+0G4 [0,G,4]^
+CFI [C,F,I]^
+UFA [<speak><prosody rate="x-slow">U</prosody>,F,A</speak>]^
+H4T [H,4,T]^
+404 [4, 0, 4]^
+04G [0, 4,G]^
+4C0 [4,C,0]^
+P0I [<speak><prosody rate="x-slow">P</prosody>,0,I</speak>]^
+4P0 [<speak>4,<prosody rate="x-slow">P</prosody>,0</speak>]^
+AT4 [A,T,4]^
+O4L [O,4,L]^
+T40 [T,4, 0]^
+404 [4, 0, 4]^
+O0B [O,0,B]^
+40N [4, 0,N]^
+4B4 [4,B,4]^
+0O0 [0,O,0]^
+L04 [L,0, 4]^
+C4L [C,4,L]^
+0G4 [0,G,4]^
+0H0 [0,H,0]^
+4R4 [4,R,4]^
+0GF [0,G,F]^
+0UI [<speak>0,<prosody rate="x-slow">U</prosody>,I</speak>]^
+040 [0, 4, 0]^
+S40 [S,4, 0]^
+404 [4, 0, 4]^
+ETS [E,T,S]^
+BAL [B,A,L]^
+T4E [T,4,E]^
+TS0 [T,S,0]^
+CUT [<speak>C,<prosody rate="x-slow">U</prosody>,T</speak>]^
+SC0 [S,C,0]^
+40B [4, 0,B]^
+ULH [<speak><prosody rate="x-slow">U</prosody>,L,H</speak>]^
+404 [4, 0, 4]^
+04F [0, 4,F]^
+0TG [0,T,G]^
+O0H [O,0,H]^
+0T4 [0,T,4]^
+040 [0, 4, 0]^
+N4F [N,4,F]^
+P40 [<speak><prosody rate="x-slow">P</prosody>,4, 0</speak>]^
+4G4 [4,G,4]^
+040 [0, 4, 0]^
+404 [4, 0, 4]^
+0UP [<speak>0,<prosody rate="x-slow">U</prosody>,<prosody rate="x-slow">P</prosody></speak>]^
+R0H [R,0,H]^
+0FT [0,F,T]^
+O4U [<speak>O,4,<prosody rate="x-slow">U</prosody></speak>]^
+4A0 [4,A,0]^
+40I [4, 0,I]^
+40C [4, 0,C]^
+404 [4, 0, 4]^
+040 [0, 4, 0]^
+GIW [G,I,W]^
+LWL [L,W,L]^
+PWD [<speak><prosody rate="x-slow">P</prosody>,W,D</speak>]^
+404 [4, 0, 4]^
+EBT [E,B,T]^
+HF0 [H,F,0]^
+40G [4, 0,G]^
+H04 [H,0, 4]^
+TUN [<speak>T,<prosody rate="x-slow">U</prosody>,N</speak>]^
+4IN [4,I,N]^
+B04 [B,0, 4]^
+0O0 [0,O,0]^
+4IT [4,I,T]^
+UP0 [<speak><prosody rate="x-slow">U</prosody>,<prosody rate="x-slow">P</prosody>,0</speak>]^
+40T [4, 0,T]^
+0HC [0,H,C]^
+U04 [<speak><prosody rate="x-slow">U</prosody>,0, 4</speak>]^
+GO0 [G,O,0]^
+404 [4, 0, 4]^
+0I0 [0,I,0]^
+CSI [C,S,I]^
+TA4 [T,A,4]^
+RB0 [R,B,0]^
+BPH [<speak>B,<prosody rate="x-slow">P</prosody>,H</speak>]^
+0ER [0,E,R]^
+IN4 [I,N,4]^
+G40 [G,4, 0]^
+4I0 [4,I,0]^
+404 [4, 0, 4]^
+G04 [G,0, 4]^
+0U0 [<speak>0,<prosody rate="x-slow">U</prosody>,0</speak>]^
+F40 [F,4, 0]^
+A40 [A,4, 0]^
+ERL [E,R,L]^
+HBT [H,B,T]^
+REH [R,E,H]^
+OC0 [O,C,0]^
+40D [4, 0,D]^
+04R [0, 4,R]^
+0UE [<speak>0,<prosody rate="x-slow">U</prosody>,E</speak>]^
+T0H [T,0,H]^
+40S [4, 0,S]^
+E0B [E,0,B]^
+R4H [R,4,H]^
+BP4 [<speak>B,<prosody rate="x-slow">P</prosody>,4</speak>]^
+040 [0, 4, 0]^
+W0U [<speak>W,0,<prosody rate="x-slow">U</prosody></speak>]^
+E4U [<speak>E,4,<prosody rate="x-slow">U</prosody></speak>]^
+4O0 [4,O,0]^
+40E [4, 0,E]^
+G0N [G,0,N]^
+0B4 [0,B,4]^
+0B4 [0,B,4]^
+IA4 [I,A,4]^
+U04 [<speak><prosody rate="x-slow">U</prosody>,0, 4</speak>]^
+0CB [0,C,B]^
+404 [4, 0, 4]^
+0OG [0,O,G]^
+DFR [D,F,R]^
+UL0 [<speak><prosody rate="x-slow">U</prosody>,L,0</speak>]^
+G4G [G,4,G]^
+R04 [R,0, 4]^
+PH4 [<speak><prosody rate="x-slow">P</prosody>,H,4</speak>]^
+0R4 [0,R,4]^
+C04 [C,0, 4]^
+0EB [0,E,B]^
+40B [4, 0,B]^
+0PS [<speak>0,<prosody rate="x-slow">P</prosody>,S</speak>]^
+4UG [<speak>4,<prosody rate="x-slow">U</prosody>,G</speak>]^
+B04 [B,0, 4]^
+NPT [<speak>N,<prosody rate="x-slow">P</prosody>,T</speak>]^
+40R [4, 0,R]^
+BR4 [B,R,4]^
+S0L [S,0,L]^
+N04 [N,0, 4]^
+GSC [G,S,C]^
+0B0 [0,B,0]^
+404 [4, 0, 4]^
+0TO [0,T,O]^
+NGO [N,G,O]^
+404 [4, 0, 4]^
+FRO [F,R,O]^
+404 [4, 0, 4]^
+0CO [0,C,O]^
+40H [4, 0,H]^
+0DN [0,D,N]^
+4B4 [4,B,4]^
+04W [0, 4,W]^
+4T4 [4,T,4]^
+C40 [C,4, 0]^
+D04 [D,0, 4]^
+040 [0, 4, 0]^
+L4F [L,4,F]^
+HAT [H,A,T]^
+WUS [<speak>W,<prosody rate="x-slow">U</prosody>,S</speak>]^
+040 [0, 4, 0]^
+G0D [G,0,D]^
+04B [0, 4,B]^
+TD4 [T,D,4]^
+0AL [0,A,L]^
+U4L [<speak><prosody rate="x-slow">U</prosody>,4,L</speak>]^
+D40 [D,4, 0]^
+A0P [<speak>A,0,<prosody rate="x-slow">P</prosody></speak>]^
+EW4 [E,W,4]^
+04R [0, 4,R]^
+4T4 [4,T,4]^
+UPN [<speak><prosody rate="x-slow">U</prosody>,<prosody rate="x-slow">P</prosody>,N</speak>]^
+4UB [<speak>4,<prosody rate="x-slow">U</prosody>,B</speak>]^
+G4O [G,4,O]^
+040 [0, 4, 0]^
+GB4 [G,B,4]^
+RFS [R,F,S]^
+EDC [E,D,C]^
+GR0 [G,R,0]^
+4PD [<speak>4,<prosody rate="x-slow">P</prosody>,D</speak>]^
+O40 [O,4, 0]^
+W40 [W,4, 0]^
+404 [4, 0, 4]^
+04L [0, 4,L]^
+NL0 [N,L,0]^
+404 [4, 0, 4]^
+DNH [D,N,H]^
+A40 [A,4, 0]^
+E04 [E,0, 4]^
+04P [<speak>0, 4,<prosody rate="x-slow">P</prosody></speak>]^
+4I0 [4,I,0]^
+R40 [R,4, 0]^
+404 [4, 0, 4]^
+0PU [<speak>0,<prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody></speak>]^
+I4A [I,4,A]^
+0O0 [0,O,0]^
+404 [4, 0, 4]^
+B40 [B,4, 0]^
+4EF [4,E,F]^
+ORD [O,R,D]^
+C04 [C,0, 4]^
+U04 [<speak><prosody rate="x-slow">U</prosody>,0, 4</speak>]^
+A40 [A,4, 0]^
+A40 [A,4, 0]^
+EH0 [E,H,0]^
+404 [4, 0, 4]^
+E04 [E,0, 4]^
+WPN [<speak>W,<prosody rate="x-slow">P</prosody>,N</speak>]^
+0I4 [0,I,4]^
+G40 [G,4, 0]^
+A0S [A,0,S]^
+GT0 [G,T,0]^
+404 [4, 0, 4]^
+0B0 [0,B,0]^
+4B4 [4,B,4]^
+0W0 [0,W,0]^
+O04 [O,0, 4]^
+T0G [T,0,G]^
+P0S [<speak><prosody rate="x-slow">P</prosody>,0,S</speak>]^
+040 [0, 4, 0]^
+4FS [4,F,S]^
+UN4 [<speak><prosody rate="x-slow">U</prosody>,N,4</speak>]^
+0WT [0,W,T]^
+40I [4, 0,I]^
+0R0 [0,R,0]^
+404 [4, 0, 4]^
+0NU [<speak>0,N,<prosody rate="x-slow">U</prosody></speak>]^
+40W [4, 0,W]^
+OT0 [O,T,0]^
+WTO [W,T,O]^
+GE0 [G,E,0]^
+4TP [<speak>4,T,<prosody rate="x-slow">P</prosody></speak>]^
+OSP [<speak>O,S,<prosody rate="x-slow">P</prosody></speak>]^
+04N [0, 4,N]^
+4NH [4,N,H]^
+4D0 [4,D,0]^
+W0D [W,0,D]^
+HR0 [H,R,0]^
+404 [4, 0, 4]^
+GSN [G,S,N]^
+040 [0, 4, 0]^
+40B [4, 0,B]^
+IAW [I,A,W]^
+D04 [D,0, 4]^
+040 [0, 4, 0]^
+BD4 [B,D,4]^
+RB0 [R,B,0]^
+40B [4, 0,B]^
+4GI [4,G,I]^
+P40 [<speak><prosody rate="x-slow">P</prosody>,4, 0</speak>]^
+L4E [L,4,E]^
+F40 [F,4, 0]^
+R04 [R,0, 4]^
+04O [0, 4,O]^
+GTI [G,T,I]^
+H4C [H,4,C]^
+G4L [G,4,L]^
+F4L [F,4,L]^
+04F [0, 4,F]^
+C0E [C,0,E]^
+LUP [<speak>L,<prosody rate="x-slow">U</prosody>,<prosody rate="x-slow">P</prosody></speak>]^
+F04 [F,0, 4]^
+0BI [0,B,I]^
+0A0 [0,A,0]^
+TFO [T,F,O]^
+UAP [<speak><prosody rate="x-slow">U</prosody>,A,<prosody rate="x-slow">P</prosody></speak>]^
+4WN [4,W,N]^
+B04 [B,0, 4]^
+H4H [H,4,H]^
+RL0 [R,L,0]^
+AN0 [A,N,0]^
+ASE [A,S,E]^
+0L0 [0,L,0]^
+W0P [<speak>W,0,<prosody rate="x-slow">P</prosody></speak>]^
+APW [<speak>A,<prosody rate="x-slow">P</prosody>,W</speak>]^
+SH0 [S,H,0]^
+40W [4, 0,W]^
+B40 [B,4, 0]^
+404 [4, 0, 4]^
+040 [0, 4, 0]^
+4B0 [4,B,0]^
+40P [<speak>4, 0,<prosody rate="x-slow">P</prosody></speak>]^
+WH4 [W,H,4]^
+GF0 [G,F,0]^
+404 [4, 0, 4]^
+H0P [<speak>H,0,<prosody rate="x-slow">P</prosody></speak>]^
+0CP [<speak>0,C,<prosody rate="x-slow">P</prosody></speak>]^
+I40 [I,4, 0]^
+4SR [4,S,R]^
+B40 [B,4, 0]^
+4F0 [4,F,0]^
+P4C [<speak><prosody rate="x-slow">P</prosody>,4,C</speak>]^
+A0C [A,0,C]^
+ALI [A,L,I]^
+AST [A,S,T]^
+GEB [G,E,B]^
+04I [0, 4,I]^
+H04 [H,0, 4]^
+04U [<speak>0, 4,<prosody rate="x-slow">U</prosody></speak>]^
+0I0 [0,I,0]^
+4H4 [4,H,4]^
+0C4 [0,C,4]^
+0G0 [0,G,0]^
+4AG [4,A,G]^
+4NP [<speak>4,N,<prosody rate="x-slow">P</prosody></speak>]^
+40B [4, 0,B]^
+OFS [O,F,S]^
+40H [4, 0,H]^
+404 [4, 0, 4]^
+0G4 [0,G,4]^
+S04 [S,0, 4]^
+H0D [H,0,D]^
+P04 [<speak><prosody rate="x-slow">P</prosody>,0, 4</speak>]^
+0PN [<speak>0,<prosody rate="x-slow">P</prosody>,N</speak>]^
+R40 [R,4, 0]^
+40N [4, 0,N]^
+404 [4, 0, 4]^
+0T4 [0,T,4]^
+R4N [R,4,N]^
+TL4 [T,L,4]^
+04S [0, 4,S]^
+040 [0, 4, 0]^
+4FH [4,F,H]^
+ES0 [E,S,0]^
+4W4 [4,W,4]^
+0OA [0,O,A]^
+CS0 [C,S,0]^
+404 [4, 0, 4]^
+B40 [B,4, 0]^
+404 [4, 0, 4]^
+0F4 [0,F,4]^
+U40 [<speak><prosody rate="x-slow">U</prosody>,4, 0</speak>]^
+404 [4, 0, 4]^
+R04 [R,0, 4]^
+04A [0, 4,A]^
+0O0 [0,O,0]^
+NI0 [N,I,0]^
+4H0 [4,H,0]^
+4R0 [4,R,0]^
+GUN [<speak>G,<prosody rate="x-slow">U</prosody>,N</speak>]^
+C04 [C,0, 4]^
+0C0 [0,C,0]^
+C40 [C,4, 0]^
+40P [<speak>4, 0,<prosody rate="x-slow">P</prosody></speak>]^
+4I0 [4,I,0]^
+TN0 [T,N,0]^
+404 [4, 0, 4]^
+SI0 [S,I,0]^
+40A [4, 0,A]^
+RSG [R,S,G]^
+0FC [0,F,C]^
+4NE [4,N,E]^
+SO4 [S,O,4]^
+040 [0, 4, 0]^

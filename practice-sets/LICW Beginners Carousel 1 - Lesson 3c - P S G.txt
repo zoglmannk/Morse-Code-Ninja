@@ -1,0 +1,800 @@
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSG [G,S,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGS [S,G,S]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGS [S,G,S]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SGS [S,G,S]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SGS [S,G,S]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSG [G,S,G]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSG [G,S,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSG [G,S,G]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSG [G,S,G]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SGS [S,G,S]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSG [G,S,G]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSG [G,S,G]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SGS [S,G,S]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+SGP [<speak>S,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+GSG [G,S,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGS [S,G,S]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+PSG [<speak><prosody rate="x-slow">P</prosody>,S,G</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^

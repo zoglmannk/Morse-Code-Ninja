@@ -1,0 +1,800 @@
+ST2 [S,T,2]^
+NC2 [N,C,2]^
+82T [8, 2,T]^
+L<BK>8 [L,B K,8]^
+2<BK>T [2,B K,T]^
+8GR [8,G,R]^
+GAB [G,A,B]^
+2D8 [2,D,8]^
+F82 [F,8, 2]^
+F2<BK> [F,2,B K]^
+SRG [S,R,G]^
+8<BK>8 [8,B K,8]^
+2D<BK> [2,D,B K]^
+L8<BK> [L,8,B K]^
+N2U [<speak>N,2,<prosody rate="x-slow">U</prosody></speak>]^
+<BK>P8 [<speak>B K,<prosody rate="x-slow">P</prosody>,8</speak>]^
+D8P [<speak>D,8,<prosody rate="x-slow">P</prosody></speak>]^
+E8<BK> [E,8,B K]^
+EH<BK> [E,H,B K]^
+2<BK>E [2,B K,E]^
+UR8 [<speak><prosody rate="x-slow">U</prosody>,R,8</speak>]^
+<BK>O2 [B K,O,2]^
+<BK>D<BK> [B K,D,B K]^
+F2O [F,2,O]^
+T28 [T,2, 8]^
+T28 [T,2, 8]^
+A2G [A,2,G]^
+AL8 [A,L,8]^
+EU8 [<speak>E,<prosody rate="x-slow">U</prosody>,8</speak>]^
+2<BK>2 [2,B K,2]^
+B82 [B,8, 2]^
+SN8 [S,N,8]^
+U82 [<speak><prosody rate="x-slow">U</prosody>,8, 2</speak>]^
+8<BK>E [8,B K,E]^
+<BK>BW [B K,B,W]^
+<BK>IW [B K,I,W]^
+<BK>L2 [B K,L,2]^
+P<BK>F [<speak><prosody rate="x-slow">P</prosody>,B K,F</speak>]^
+2GR [2,G,R]^
+2F8 [2,F,8]^
+<BK>28 [B K,2, 8]^
+T8G [T,8,G]^
+82G [8, 2,G]^
+<BK>8<BK> [B K,8,B K]^
+8F8 [8,F,8]^
+2<BK>8 [2,B K,8]^
+GFP [<speak>G,F,<prosody rate="x-slow">P</prosody></speak>]^
+8UC [<speak>8,<prosody rate="x-slow">U</prosody>,C</speak>]^
+<BK>28 [B K,2, 8]^
+DE<BK> [D,E,B K]^
+8<BK>2 [8,B K,2]^
+R28 [R,2, 8]^
+2<BK>8 [2,B K,8]^
+<BK>HW [B K,H,W]^
+H8D [H,8,D]^
+NA8 [N,A,8]^
+N<BK>2 [N,B K,2]^
+E<BK>R [E,B K,R]^
+O2<BK> [O,2,B K]^
+GD8 [G,D,8]^
+CTP [<speak>C,T,<prosody rate="x-slow">P</prosody></speak>]^
+C2<BK> [C,2,B K]^
+8<BK>2 [8,B K,2]^
+<BK>8N [B K,8,N]^
+2E8 [2,E,8]^
+FO8 [F,O,8]^
+NA2 [N,A,2]^
+<BK>WD [B K,W,D]^
+C8R [C,8,R]^
+O<BK>S [O,B K,S]^
+A2A [A,2,A]^
+B8I [B,8,I]^
+OH2 [O,H,2]^
+8TD [8,T,D]^
+8TD [8,T,D]^
+<BK>82 [B K,8, 2]^
+FS2 [F,S,2]^
+8LN [8,L,N]^
+2E8 [2,E,8]^
+L<BK>E [L,B K,E]^
+N<BK>2 [N,B K,2]^
+<BK>N8 [B K,N,8]^
+H<BK>F [H,B K,F]^
+T28 [T,2, 8]^
+28F [2, 8,F]^
+8<BK>2 [8,B K,2]^
+<BK>2<BK> [B K,2,B K]^
+2AF [2,A,F]^
+2P8 [<speak>2,<prosody rate="x-slow">P</prosody>,8</speak>]^
+2NC [2,N,C]^
+BDT [B,D,T]^
+<BK>N<BK> [B K,N,B K]^
+CI2 [C,I,2]^
+<BK>N8 [B K,N,8]^
+<BK>L2 [B K,L,2]^
+FBT [F,B,T]^
+<BK>GA [B K,G,A]^
+2OB [2,O,B]^
+SR2 [S,R,2]^
+8BA [8,B,A]^
+28F [2, 8,F]^
+P82 [<speak><prosody rate="x-slow">P</prosody>,8, 2</speak>]^
+8U<BK> [<speak>8,<prosody rate="x-slow">U</prosody>,B K</speak>]^
+ER8 [E,R,8]^
+<BK>82 [B K,8, 2]^
+<BK>28 [B K,2, 8]^
+UB<BK> [<speak><prosody rate="x-slow">U</prosody>,B,B K</speak>]^
+HB8 [H,B,8]^
+WS<BK> [W,S,B K]^
+2CW [2,C,W]^
+8AD [8,A,D]^
+2<BK>2 [2,B K,2]^
+82R [8, 2,R]^
+F<BK>2 [F,B K,2]^
+FDW [F,D,W]^
+T<BK>8 [T,B K,8]^
+PHU [<speak><prosody rate="x-slow">P</prosody>,H,<prosody rate="x-slow">U</prosody></speak>]^
+<BK>8<BK> [B K,8,B K]^
+O2<BK> [O,2,B K]^
+2O8 [2,O,8]^
+RI2 [R,I,2]^
+UFU [<speak><prosody rate="x-slow">U</prosody>,F,<prosody rate="x-slow">U</prosody></speak>]^
+RCE [R,C,E]^
+<BK>28 [B K,2, 8]^
+<BK>82 [B K,8, 2]^
+8O8 [8,O,8]^
+2HF [2,H,F]^
+2EB [2,E,B]^
+L8B [L,8,B]^
+H<BK>2 [H,B K,2]^
+8S8 [8,S,8]^
+<BK>8U [<speak>B K,8,<prosody rate="x-slow">U</prosody></speak>]^
+8S2 [8,S,2]^
+T8H [T,8,H]^
+I<BK>2 [I,B K,2]^
+LU2 [<speak>L,<prosody rate="x-slow">U</prosody>,2</speak>]^
+8DO [8,D,O]^
+2BC [2,B,C]^
+828 [8, 2, 8]^
+<BK>8<BK> [B K,8,B K]^
+AHC [A,H,C]^
+2<BK>I [2,B K,I]^
+<BK>FO [B K,F,O]^
+H2T [H,2,T]^
+C<BK>2 [C,B K,2]^
+8<BK>L [8,B K,L]^
+C2<BK> [C,2,B K]^
+2L8 [2,L,8]^
+I8I [I,8,I]^
+UT<BK> [<speak><prosody rate="x-slow">U</prosody>,T,B K</speak>]^
+P28 [<speak><prosody rate="x-slow">P</prosody>,2, 8</speak>]^
+PHG [<speak><prosody rate="x-slow">P</prosody>,H,G</speak>]^
+8<BK>2 [8,B K,2]^
+<BK>G8 [B K,G,8]^
+SG8 [S,G,8]^
+CF2 [C,F,2]^
+8SO [8,S,O]^
+2CN [2,C,N]^
+W8<BK> [W,8,B K]^
+O<BK>8 [O,B K,8]^
+AW2 [A,W,2]^
+LTE [L,T,E]^
+<BK>SU [<speak>B K,S,<prosody rate="x-slow">U</prosody></speak>]^
+OTW [O,T,W]^
+<BK>8P [<speak>B K,8,<prosody rate="x-slow">P</prosody></speak>]^
+A8B [A,8,B]^
+C2B [C,2,B]^
+8P8 [<speak>8,<prosody rate="x-slow">P</prosody>,8</speak>]^
+2B2 [2,B,2]^
+SU8 [<speak>S,<prosody rate="x-slow">U</prosody>,8</speak>]^
+S8L [S,8,L]^
+2DU [<speak>2,D,<prosody rate="x-slow">U</prosody></speak>]^
+82P [<speak>8, 2,<prosody rate="x-slow">P</prosody></speak>]^
+BEW [B,E,W]^
+<BK>82 [B K,8, 2]^
+TH2 [T,H,2]^
+ICT [I,C,T]^
+S<BK>W [S,B K,W]^
+<BK>E8 [B K,E,8]^
+<BK>LN [B K,L,N]^
+OU<BK> [<speak>O,<prosody rate="x-slow">U</prosody>,B K</speak>]^
+28L [2, 8,L]^
+A<BK>D [A,B K,D]^
+R28 [R,2, 8]^
+WBL [W,B,L]^
+2B2 [2,B,2]^
+SI<BK> [S,I,B K]^
+NPG [<speak>N,<prosody rate="x-slow">P</prosody>,G</speak>]^
+LEB [L,E,B]^
+<BK>82 [B K,8, 2]^
+<BK>N8 [B K,N,8]^
+<BK>2F [B K,2,F]^
+T<BK>8 [T,B K,8]^
+2<BK>H [2,B K,H]^
+2<BK>2 [2,B K,2]^
+TO<BK> [T,O,B K]^
+828 [8, 2, 8]^
+I2<BK> [I,2,B K]^
+HU2 [<speak>H,<prosody rate="x-slow">U</prosody>,2</speak>]^
+<BK>T<BK> [B K,T,B K]^
+U8R [<speak><prosody rate="x-slow">U</prosody>,8,R</speak>]^
+82T [8, 2,T]^
+82A [8, 2,A]^
+HP8 [<speak>H,<prosody rate="x-slow">P</prosody>,8</speak>]^
+28G [2, 8,G]^
+2GB [2,G,B]^
+TA<BK> [T,A,B K]^
+2C<BK> [2,C,B K]^
+2BF [2,B,F]^
+OW<BK> [O,W,B K]^
+8<BK>2 [8,B K,2]^
+FB<BK> [F,B,B K]^
+2U2 [<speak>2,<prosody rate="x-slow">U</prosody>,2</speak>]^
+DNA [D,N,A]^
+<BK>S<BK> [B K,S,B K]^
+82<BK> [8, 2,B K]^
+E8<BK> [E,8,B K]^
+WH2 [W,H,2]^
+URG [<speak><prosody rate="x-slow">U</prosody>,R,G</speak>]^
+82E [8, 2,E]^
+28<BK> [2, 8,B K]^
+BF2 [B,F,2]^
+<BK>SA [B K,S,A]^
+8O2 [8,O,2]^
+<BK>F2 [B K,F,2]^
+T28 [T,2, 8]^
+<BK>2U [<speak>B K,2,<prosody rate="x-slow">U</prosody></speak>]^
+<BK>2<BK> [B K,2,B K]^
+8N<BK> [8,N,B K]^
+2<BK>O [2,B K,O]^
+82I [8, 2,I]^
+PT<BK> [<speak><prosody rate="x-slow">P</prosody>,T,B K</speak>]^
+8O<BK> [8,O,B K]^
+8P8 [<speak>8,<prosody rate="x-slow">P</prosody>,8</speak>]^
+<BK>HL [B K,H,L]^
+2S2 [2,S,2]^
+L28 [L,2, 8]^
+PU2 [<speak><prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody>,2</speak>]^
+IL2 [I,L,2]^
+CP2 [<speak>C,<prosody rate="x-slow">P</prosody>,2</speak>]^
+8PU [<speak>8,<prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody></speak>]^
+28E [2, 8,E]^
+2G2 [2,G,2]^
+WP<BK> [<speak>W,<prosody rate="x-slow">P</prosody>,B K</speak>]^
+E8P [<speak>E,8,<prosody rate="x-slow">P</prosody></speak>]^
+<BK>UG [<speak>B K,<prosody rate="x-slow">U</prosody>,G</speak>]^
+<BK>8<BK> [B K,8,B K]^
+2<BK>2 [2,B K,2]^
+U8U [<speak><prosody rate="x-slow">U</prosody>,8,<prosody rate="x-slow">U</prosody></speak>]^
+R8<BK> [R,8,B K]^
+EPR [<speak>E,<prosody rate="x-slow">P</prosody>,R</speak>]^
+TG8 [T,G,8]^
+28<BK> [2, 8,B K]^
+2<BK>2 [2,B K,2]^
+8H<BK> [8,H,B K]^
+2OB [2,O,B]^
+8<BK>W [8,B K,W]^
+2PU [<speak>2,<prosody rate="x-slow">P</prosody>,<prosody rate="x-slow">U</prosody></speak>]^
+I<BK>8 [I,B K,8]^
+N8U [<speak>N,8,<prosody rate="x-slow">U</prosody></speak>]^
+2<BK>2 [2,B K,2]^
+U8G [<speak><prosody rate="x-slow">U</prosody>,8,G</speak>]^
+OI2 [O,I,2]^
+P<BK>2 [<speak><prosody rate="x-slow">P</prosody>,B K,2</speak>]^
+8<BK>2 [8,B K,2]^
+E82 [E,8, 2]^
+8<BK>A [8,B K,A]^
+H2E [H,2,E]^
+IA2 [I,A,2]^
+8BL [8,B,L]^
+<BK>P8 [<speak>B K,<prosody rate="x-slow">P</prosody>,8</speak>]^
+<BK>CG [B K,C,G]^
+2<BK>U [<speak>2,B K,<prosody rate="x-slow">U</prosody></speak>]^
+<BK>82 [B K,8, 2]^
+<BK>P8 [<speak>B K,<prosody rate="x-slow">P</prosody>,8</speak>]^
+O<BK>2 [O,B K,2]^
+8S8 [8,S,8]^
+LPB [<speak>L,<prosody rate="x-slow">P</prosody>,B</speak>]^
+I8C [I,8,C]^
+IHA [I,H,A]^
+2<BK>2 [2,B K,2]^
+8UB [<speak>8,<prosody rate="x-slow">U</prosody>,B</speak>]^
+<BK>8B [B K,8,B]^
+<BK>8<BK> [B K,8,B K]^
+TBG [T,B,G]^
+DTE [D,T,E]^
+COS [C,O,S]^
+8<BK>2 [8,B K,2]^
+PGR [<speak><prosody rate="x-slow">P</prosody>,G,R</speak>]^
+<BK>IP [<speak>B K,I,<prosody rate="x-slow">P</prosody></speak>]^
+WI<BK> [W,I,B K]^
+NO2 [N,O,2]^
+R28 [R,2, 8]^
+CN<BK> [C,N,B K]^
+EF2 [E,F,2]^
+<BK>RA [B K,R,A]^
+2S8 [2,S,8]^
+GO2 [G,O,2]^
+AUT [<speak>A,<prosody rate="x-slow">U</prosody>,T</speak>]^
+I82 [I,8, 2]^
+S28 [S,2, 8]^
+A2G [A,2,G]^
+8<BK>8 [8,B K,8]^
+28T [2, 8,T]^
+P<BK>2 [<speak><prosody rate="x-slow">P</prosody>,B K,2</speak>]^
+<BK>RG [B K,R,G]^
+A<BK>U [<speak>A,B K,<prosody rate="x-slow">U</prosody></speak>]^
+<BK>82 [B K,8, 2]^
+B2T [B,2,T]^
+D<BK>U [<speak>D,B K,<prosody rate="x-slow">U</prosody></speak>]^
+WLB [W,L,B]^
+2IR [2,I,R]^
+N<BK>2 [N,B K,2]^
+<BK>R2 [B K,R,2]^
+S<BK>N [S,B K,N]^
+<BK>28 [B K,2, 8]^
+<BK>E2 [B K,E,2]^
+T28 [T,2, 8]^
+2<BK>O [2,B K,O]^
+<BK>8D [B K,8,D]^
+<BK>LB [B K,L,B]^
+TR<BK> [T,R,B K]^
+NG2 [N,G,2]^
+NHA [N,H,A]^
+2LN [2,L,N]^
+82E [8, 2,E]^
+TBA [T,B,A]^
+FGI [F,G,I]^
+C<BK>2 [C,B K,2]^
+<BK>2<BK> [B K,2,B K]^
+S8D [S,8,D]^
+L<BK>8 [L,B K,8]^
+I8D [I,8,D]^
+282 [2, 8, 2]^
+H8<BK> [H,8,B K]^
+D28 [D,2, 8]^
+I28 [I,2, 8]^
+<BK>UH [<speak>B K,<prosody rate="x-slow">U</prosody>,H</speak>]^
+B8P [<speak>B,8,<prosody rate="x-slow">P</prosody></speak>]^
+828 [8, 2, 8]^
+H82 [H,8, 2]^
+8OD [8,O,D]^
+2<BK>W [2,B K,W]^
+2E<BK> [2,E,B K]^
+DSD [D,S,D]^
+UPD [<speak><prosody rate="x-slow">U</prosody>,<prosody rate="x-slow">P</prosody>,D</speak>]^
+8PR [<speak>8,<prosody rate="x-slow">P</prosody>,R</speak>]^
+P<BK>H [<speak><prosody rate="x-slow">P</prosody>,B K,H</speak>]^
+8E2 [8,E,2]^
+<BK>I<BK> [B K,I,B K]^
+LU8 [<speak>L,<prosody rate="x-slow">U</prosody>,8</speak>]^
+TI<BK> [T,I,B K]^
+N8U [<speak>N,8,<prosody rate="x-slow">U</prosody></speak>]^
+<BK>8<BK> [B K,8,B K]^
+8UL [<speak>8,<prosody rate="x-slow">U</prosody>,L</speak>]^
+8FG [8,F,G]^
+B8P [<speak>B,8,<prosody rate="x-slow">P</prosody></speak>]^
+B28 [B,2, 8]^
+USF [<speak><prosody rate="x-slow">U</prosody>,S,F</speak>]^
+8<BK>O [8,B K,O]^
+8LG [8,L,G]^
+2L<BK> [2,L,B K]^
+WC<BK> [W,C,B K]^
+IC8 [I,C,8]^
+2NP [<speak>2,N,<prosody rate="x-slow">P</prosody></speak>]^
+8<BK>A [8,B K,A]^
+S2U [<speak>S,2,<prosody rate="x-slow">U</prosody></speak>]^
+2P<BK> [<speak>2,<prosody rate="x-slow">P</prosody>,B K</speak>]^
+GNO [G,N,O]^
+82P [<speak>8, 2,<prosody rate="x-slow">P</prosody></speak>]^
+A8<BK> [A,8,B K]^
+CI8 [C,I,8]^
+2H2 [2,H,2]^
+<BK>G8 [B K,G,8]^
+2RL [2,R,L]^
+G8T [G,8,T]^
+2<BK>8 [2,B K,8]^
+2IO [2,I,O]^
+8SP [<speak>8,S,<prosody rate="x-slow">P</prosody></speak>]^
+<BK>2P [<speak>B K,2,<prosody rate="x-slow">P</prosody></speak>]^
+FW2 [F,W,2]^
+D82 [D,8, 2]^
+82R [8, 2,R]^
+28G [2, 8,G]^
+C<BK>2 [C,B K,2]^
+8<BK>S [8,B K,S]^
+<BK>EB [B K,E,B]^
+<BK>2<BK> [B K,2,B K]^
+WH2 [W,H,2]^
+<BK>8<BK> [B K,8,B K]^
+28<BK> [2, 8,B K]^
+28L [2, 8,L]^
+<BK>HT [B K,H,T]^
+82E [8, 2,E]^
+282 [2, 8, 2]^
+<BK>82 [B K,8, 2]^
+<BK>I2 [B K,I,2]^
+<BK>2H [B K,2,H]^
+<BK>WC [B K,W,C]^
+U<BK>2 [<speak><prosody rate="x-slow">U</prosody>,B K,2</speak>]^
+O2<BK> [O,2,B K]^
+IF<BK> [I,F,B K]^
+NC<BK> [N,C,B K]^
+2<BK>2 [2,B K,2]^
+S<BK>8 [S,B K,8]^
+T2F [T,2,F]^
+A2A [A,2,A]^
+TEF [T,E,F]^
+82N [8, 2,N]^
+828 [8, 2, 8]^
+2<BK>8 [2,B K,8]^
+I<BK>I [I,B K,I]^
+<BK>8C [B K,8,C]^
+ARL [A,R,L]^
+AW<BK> [A,W,B K]^
+82G [8, 2,G]^
+ITN [I,T,N]^
+ST8 [S,T,8]^
+H82 [H,8, 2]^
+828 [8, 2, 8]^
+2<BK>8 [2,B K,8]^
+<BK>F<BK> [B K,F,B K]^
+F<BK>W [F,B K,W]^
+F2I [F,2,I]^
+BW8 [B,W,8]^
+OT2 [O,T,2]^
+<BK>28 [B K,2, 8]^
+2I8 [2,I,8]^
+RAT [R,A,T]^
+<BK>8R [B K,8,R]^
+82<BK> [8, 2,B K]^
+8BE [8,B,E]^
+WH8 [W,H,8]^
+D82 [D,8, 2]^
+<BK>DF [B K,D,F]^
+O8<BK> [O,8,B K]^
+8<BK>G [8,B K,G]^
+O82 [O,8, 2]^
+TE8 [T,E,8]^
+B<BK>8 [B,B K,8]^
+28L [2, 8,L]^
+STG [S,T,G]^
+8L8 [8,L,8]^
+2B<BK> [2,B,B K]^
+2WC [2,W,C]^
+B28 [B,2, 8]^
+SD<BK> [S,D,B K]^
+2F8 [2,F,8]^
+<BK>8D [B K,8,D]^
+NL8 [N,L,8]^
+<BK>2O [B K,2,O]^
+8S2 [8,S,2]^
+T8H [T,8,H]^
+2<BK>A [2,B K,A]^
+2O8 [2,O,8]^
+I2<BK> [I,2,B K]^
+8C8 [8,C,8]^
+B<BK>O [B,B K,O]^
+<BK>82 [B K,8, 2]^
+<BK>O2 [B K,O,2]^
+CR8 [C,R,8]^
+2OR [2,O,R]^
+UW2 [<speak><prosody rate="x-slow">U</prosody>,W,2</speak>]^
+<BK>8G [B K,8,G]^
+<BK>PB [<speak>B K,<prosody rate="x-slow">P</prosody>,B</speak>]^
+<BK>T8 [B K,T,8]^
+2TF [2,T,F]^
+<BK>8G [B K,8,G]^
+ODS [O,D,S]^
+8R<BK> [8,R,B K]^
+E82 [E,8, 2]^
+82N [8, 2,N]^
+A<BK>8 [A,B K,8]^
+A82 [A,8, 2]^
+<BK>FC [B K,F,C]^
+8<BK>R [8,B K,R]^
+<BK>2O [B K,2,O]^
+2LI [2,L,I]^
+2<BK>P [<speak>2,B K,<prosody rate="x-slow">P</prosody></speak>]^
+2<BK>8 [2,B K,8]^
+<BK>2<BK> [B K,2,B K]^
+O82 [O,8, 2]^
+<BK>LN [B K,L,N]^
+F<BK>8 [F,B K,8]^
+<BK>2E [B K,2,E]^
+2P8 [<speak>2,<prosody rate="x-slow">P</prosody>,8</speak>]^
+<BK>C8 [B K,C,8]^
+OEW [O,E,W]^
+BW8 [B,W,8]^
+U2<BK> [<speak><prosody rate="x-slow">U</prosody>,2,B K</speak>]^
+2<BK>2 [2,B K,2]^
+8BS [8,B,S]^
+282 [2, 8, 2]^
+<BK>AI [B K,A,I]^
+82A [8, 2,A]^
+FTI [F,T,I]^
+8BS [8,B,S]^
+<BK>8<BK> [B K,8,B K]^
+2NL [2,N,L]^
+<BK>8E [B K,8,E]^
+APC [<speak>A,<prosody rate="x-slow">P</prosody>,C</speak>]^
+A2<BK> [A,2,B K]^
+2<BK>O [2,B K,O]^
+<BK>H<BK> [B K,H,B K]^
+8D<BK> [8,D,B K]^
+GH<BK> [G,H,B K]^
+28L [2, 8,L]^
+<BK>HG [B K,H,G]^
+8<BK>T [8,B K,T]^
+UP2 [<speak><prosody rate="x-slow">U</prosody>,<prosody rate="x-slow">P</prosody>,2</speak>]^
+OA<BK> [O,A,B K]^
+TFS [T,F,S]^
+B82 [B,8, 2]^
+A82 [A,8, 2]^
+8<BK>R [8,B K,R]^
+28<BK> [2, 8,B K]^
+F8A [F,8,A]^
+E82 [E,8, 2]^
+<BK>F2 [B K,F,2]^
+8<BK>F [8,B K,F]^
+2H8 [2,H,8]^
+2<BK>T [2,B K,T]^
+8<BK>8 [8,B K,8]^
+SCB [S,C,B]^
+82N [8, 2,N]^
+BAB [B,A,B]^
+2DA [2,D,A]^
+CAW [C,A,W]^
+THB [T,H,B]^
+AE2 [A,E,2]^
+<BK>F2 [B K,F,2]^
+D<BK>2 [D,B K,2]^
+FDO [F,D,O]^
+UBG [<speak><prosody rate="x-slow">U</prosody>,B,G</speak>]^
+AS2 [A,S,2]^
+8SI [8,S,I]^
+NON [N,O,N]^
+DU8 [<speak>D,<prosody rate="x-slow">U</prosody>,8</speak>]^
+A2<BK> [A,2,B K]^
+8O8 [8,O,8]^
+2U8 [<speak>2,<prosody rate="x-slow">U</prosody>,8</speak>]^
+<BK>P<BK> [<speak>B K,<prosody rate="x-slow">P</prosody>,B K</speak>]^
+8N<BK> [8,N,B K]^
+A<BK>U [<speak>A,B K,<prosody rate="x-slow">U</prosody></speak>]^
+8L2 [8,L,2]^
+<BK>WS [B K,W,S]^
+<BK>S<BK> [B K,S,B K]^
+ELF [E,L,F]^
+SDR [S,D,R]^
+2GR [2,G,R]^
+2<BK>D [2,B K,D]^
+EC8 [E,C,8]^
+28<BK> [2, 8,B K]^
+2<BK>2 [2,B K,2]^
+<BK>P8 [<speak>B K,<prosody rate="x-slow">P</prosody>,8</speak>]^
+28L [2, 8,L]^
+2UA [<speak>2,<prosody rate="x-slow">U</prosody>,A</speak>]^
+8N8 [8,N,8]^
+2B<BK> [2,B,B K]^
+2A<BK> [2,A,B K]^
+828 [8, 2, 8]^
+WH8 [W,H,8]^
+RI<BK> [R,I,B K]^
+2BF [2,B,F]^
+O82 [O,8, 2]^
+82I [8, 2,I]^
+2E2 [2,E,2]^
+8H8 [8,H,8]^
+<BK>LI [B K,L,I]^
+<BK>A<BK> [B K,A,B K]^
+W28 [W,2, 8]^
+<BK>D2 [B K,D,2]^
+R2F [R,2,F]^
+LG<BK> [L,G,B K]^
+IPE [<speak>I,<prosody rate="x-slow">P</prosody>,E</speak>]^
+B82 [B,8, 2]^
+EUN [<speak>E,<prosody rate="x-slow">U</prosody>,N</speak>]^
+CEA [C,E,A]^
+CFS [C,F,S]^
+H<BK>I [H,B K,I]^
+<BK>PE [<speak>B K,<prosody rate="x-slow">P</prosody>,E</speak>]^
+8L8 [8,L,8]^
+WD8 [W,D,8]^
+2W2 [2,W,2]^
+C2W [C,2,W]^
+<BK>SB [B K,S,B]^
+28<BK> [2, 8,B K]^
+N8<BK> [N,8,B K]^
+H28 [H,2, 8]^
+2HS [2,H,S]^
+282 [2, 8, 2]^
+SET [S,E,T]^
+A<BK>2 [A,B K,2]^
+NRA [N,R,A]^
+<BK>R8 [B K,R,8]^
+F28 [F,2, 8]^
+D<BK>B [D,B K,B]^
+D<BK>8 [D,B K,8]^
+28U [<speak>2, 8,<prosody rate="x-slow">U</prosody></speak>]^
+DG<BK> [D,G,B K]^
+828 [8, 2, 8]^
+S8N [S,8,N]^
+DS8 [D,S,8]^
+<BK>2E [B K,2,E]^
+8O<BK> [8,O,B K]^
+282 [2, 8, 2]^
+OWS [O,W,S]^
+OT<BK> [O,T,B K]^
+8<BK>I [8,B K,I]^
+28<BK> [2, 8,B K]^
+2AF [2,A,F]^
+HR8 [H,R,8]^
+P8I [<speak><prosody rate="x-slow">P</prosody>,8,I</speak>]^
+2N2 [2,N,2]^
+EI2 [E,I,2]^
+E<BK>G [E,B K,G]^
+<BK>28 [B K,2, 8]^
+<BK>2<BK> [B K,2,B K]^
+E82 [E,8, 2]^
+8<BK>8 [8,B K,8]^
+<BK>8<BK> [B K,8,B K]^
+8IA [8,I,A]^
+2<BK>8 [2,B K,8]^
+28I [2, 8,I]^
+2P8 [<speak>2,<prosody rate="x-slow">P</prosody>,8</speak>]^
+L8R [L,8,R]^
+O<BK>8 [O,B K,8]^
+U2B [<speak><prosody rate="x-slow">U</prosody>,2,B</speak>]^
+<BK>8<BK> [B K,8,B K]^
+TFR [T,F,R]^
+BLD [B,L,D]^
+T8O [T,8,O]^
+2<BK>2 [2,B K,2]^
+<BK>2O [B K,2,O]^
+<BK>28 [B K,2, 8]^
+T2W [T,2,W]^
+D2<BK> [D,2,B K]^
+AL2 [A,L,2]^
+SP<BK> [<speak>S,<prosody rate="x-slow">P</prosody>,B K</speak>]^
+2<BK>2 [2,B K,2]^
+8O8 [8,O,8]^
+2<BK>2 [2,B K,2]^
+H<BK>E [H,B K,E]^
+828 [8, 2, 8]^
+HCS [H,C,S]^
+RU2 [<speak>R,<prosody rate="x-slow">U</prosody>,2</speak>]^
+A8L [A,8,L]^
+2<BK>W [2,B K,W]^
+N8N [N,8,N]^
+<BK>8F [B K,8,F]^
+<BK>82 [B K,8, 2]^
+8<BK>8 [8,B K,8]^
+RGF [R,G,F]^
+H<BK>L [H,B K,L]^
+EWF [E,W,F]^
+SUW [<speak>S,<prosody rate="x-slow">U</prosody>,W</speak>]^
+US8 [<speak><prosody rate="x-slow">U</prosody>,S,8</speak>]^
+FOD [F,O,D]^
+<BK>O2 [B K,O,2]^
+8<BK>O [8,B K,O]^
+2AU [<speak>2,A,<prosody rate="x-slow">U</prosody></speak>]^
+EOH [E,O,H]^
+OH2 [O,H,2]^
+8DT [8,D,T]^
+DU8 [<speak>D,<prosody rate="x-slow">U</prosody>,8</speak>]^
+28<BK> [2, 8,B K]^
+8B8 [8,B,8]^
+RF<BK> [R,F,B K]^
+L2G [L,2,G]^
+<BK>F8 [B K,F,8]^
+U2C [<speak><prosody rate="x-slow">U</prosody>,2,C</speak>]^
+2EB [2,E,B]^
+82L [8, 2,L]^
+AC8 [A,C,8]^
+O<BK>2 [O,B K,2]^
+I<BK>R [I,B K,R]^
+2S2 [2,S,2]^
+82<BK> [8, 2,B K]^
+82<BK> [8, 2,B K]^
+82A [8, 2,A]^
+TWN [T,W,N]^
+<BK>LB [B K,L,B]^
+R<BK>2 [R,B K,2]^
+8<BK>8 [8,B K,8]^
+NUP [<speak>N,<prosody rate="x-slow">U</prosody>,<prosody rate="x-slow">P</prosody></speak>]^
+O28 [O,2, 8]^
+<BK>N2 [B K,N,2]^
+ERD [E,R,D]^
+8<BK>T [8,B K,T]^
+8<BK>2 [8,B K,2]^
+8RE [8,R,E]^
+W8<BK> [W,8,B K]^
+I8T [I,8,T]^
+2W2 [2,W,2]^
+C8S [C,8,S]^
+<BK>W<BK> [B K,W,B K]^
+8<BK>B [8,B K,B]^
+8<BK>F [8,B K,F]^
+2<BK>8 [2,B K,8]^
+PCS [<speak><prosody rate="x-slow">P</prosody>,C,S</speak>]^
+28T [2, 8,T]^
+2<BK>8 [2,B K,8]^
+<BK>2P [<speak>B K,2,<prosody rate="x-slow">P</prosody></speak>]^
+8G<BK> [8,G,B K]^
+8S<BK> [8,S,B K]^
+L8F [L,8,F]^
+GWP [<speak>G,W,<prosody rate="x-slow">P</prosody></speak>]^
+28<BK> [2, 8,B K]^
+L2<BK> [L,2,B K]^
+8OE [8,O,E]^
+<BK>28 [B K,2, 8]^
+GA<BK> [G,A,B K]^
+8L8 [8,L,8]^
+DE2 [D,E,2]^
+8<BK>T [8,B K,T]^
+8<BK>8 [8,B K,8]^
+282 [2, 8, 2]^
+<BK>2D [B K,2,D]^
+2S8 [2,S,8]^
+TL<BK> [T,L,B K]^
+DTU [<speak>D,T,<prosody rate="x-slow">U</prosody></speak>]^
+A<BK>8 [A,B K,8]^
+<BK>WI [B K,W,I]^
+H8<BK> [H,8,B K]^
+8G2 [8,G,2]^
+<BK>N<BK> [B K,N,B K]^
+DR2 [D,R,2]^
+<BK>EG [B K,E,G]^
+2<BK>2 [2,B K,2]^
+<BK>8<BK> [B K,8,B K]^
+F<BK>8 [F,B K,8]^
+2<BK>A [2,B K,A]^
+IPH [<speak>I,<prosody rate="x-slow">P</prosody>,H</speak>]^
+2<BK>U [<speak>2,B K,<prosody rate="x-slow">U</prosody></speak>]^
+<BK>N<BK> [B K,N,B K]^
+T<BK>8 [T,B K,8]^
+<BK>82 [B K,8, 2]^
+8G<BK> [8,G,B K]^
+U8O [<speak><prosody rate="x-slow">U</prosody>,8,O</speak>]^
+<BK>UF [<speak>B K,<prosody rate="x-slow">U</prosody>,F</speak>]^
+TC2 [T,C,2]^
+828 [8, 2, 8]^
+<BK>8G [B K,8,G]^
+R8D [R,8,D]^
+<BK>8<BK> [B K,8,B K]^
+N8<BK> [N,8,B K]^
+T8P [<speak>T,8,<prosody rate="x-slow">P</prosody></speak>]^
+<BK>2P [<speak>B K,2,<prosody rate="x-slow">P</prosody></speak>]^
+8U8 [<speak>8,<prosody rate="x-slow">U</prosody>,8</speak>]^
+T8<BK> [T,8,B K]^
+8<BK>2 [8,B K,2]^
+F8G [F,8,G]^
+<BK>8S [B K,8,S]^
+A8<BK> [A,8,B K]^
+G2P [<speak>G,2,<prosody rate="x-slow">P</prosody></speak>]^
+WLF [W,L,F]^
+E<BK>P [<speak>E,B K,<prosody rate="x-slow">P</prosody></speak>]^
+W<BK>N [W,B K,N]^
+8L<BK> [8,L,B K]^
+HS8 [H,S,8]^
+T<BK>8 [T,B K,8]^
+2B2 [2,B,2]^
+<BK>2H [B K,2,H]^
+FH2 [F,H,2]^
+8WT [8,W,T]^
+<BK>8W [B K,8,W]^
+ROD [R,O,D]^
+IND [I,N,D]^
+I28 [I,2, 8]^
+2<BK>8 [2,B K,8]^
+2WR [2,W,R]^
+8IF [8,I,F]^
+L<BK>8 [L,B K,8]^
+<BK>28 [B K,2, 8]^
+2F<BK> [2,F,B K]^
+FOH [F,O,H]^
+W8<BK> [W,8,B K]^
+BSE [B,S,E]^
+DO8 [D,O,8]^
+AC2 [A,C,2]^
+8R8 [8,R,8]^
+2<BK>2 [2,B K,2]^
+N28 [N,2, 8]^
+<BK>8L [B K,8,L]^
+SEW [S,E,W]^
+FTG [F,T,G]^
+<BK>82 [B K,8, 2]^
+W8N [W,8,N]^
+2<BK>I [2,B K,I]^
+2AD [2,A,D]^
+<BK>OH [B K,O,H]^
+AU8 [<speak>A,<prosody rate="x-slow">U</prosody>,8</speak>]^
+W28 [W,2, 8]^
+<BK>R8 [B K,R,8]^
+UC8 [<speak><prosody rate="x-slow">U</prosody>,C,8</speak>]^
+O8S [O,8,S]^
+U8S [<speak><prosody rate="x-slow">U</prosody>,8,S</speak>]^
+2AF [2,A,F]^
+B2<BK> [B,2,B K]^
+LOW [L,O,W]^
