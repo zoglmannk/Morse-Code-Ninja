@@ -8,6 +8,9 @@ use Cwd;
 #
 # Set $repeat, $top_x_words, and $num_random_words as appropriate
 
+# For generating alternate Character 8x character spacing with standard speed repeat
+# ./render.pl -i Top-100-Words-8x-Character-Spacing.txt -s 15 17 20 22 25 28 30 35 40 45 50 --charactermultiplier 2 --standardspeedrepeat 1 --sm 0.5 --ss 0.5 --sv 0.5
+
 my $repeat = 1;
 my $top_x_words = 500;  # Maximum value is 500 - There are only 500 words available
 my $num_random_words = 1600;
@@ -65,7 +68,7 @@ for (my $i=0; $i < $num_random_words; $i++) {
     my $random_word_index = pick_uniq_pangram_index();
 
     if($repeat == 1) {
-        print "$words[$random_word_index] ^\n";
+        print "$words[$random_word_index]^\n";
     } else {
         my $repeated_word = "$words[$random_word_index] " x $repeat;
         print "$repeated_word [$words[$random_word_index]|$words[$random_word_index]]^\n";
