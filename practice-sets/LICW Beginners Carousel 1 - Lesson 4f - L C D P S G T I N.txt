@@ -1,0 +1,800 @@
+DGN [D,G,N]^
+TCI [T,C,I]^
+TGC [T,G,C]^
+DTS [D,T,S]^
+NTG [N,T,G]^
+PNI [<speak><prosody rate="x-slow">P</prosody>,N,I</speak>]^
+LIP [<speak>L,I,<prosody rate="x-slow">P</prosody></speak>]^
+NDS [N,D,S]^
+LDG [L,D,G]^
+TGC [T,G,C]^
+NLI [N,L,I]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SGT [S,G,T]^
+DCI [D,C,I]^
+CSP [<speak>C,S,<prosody rate="x-slow">P</prosody></speak>]^
+NIT [N,I,T]^
+CNT [C,N,T]^
+SCI [S,C,I]^
+LDP [<speak>L,D,<prosody rate="x-slow">P</prosody></speak>]^
+ILC [I,L,C]^
+SDG [S,D,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+CPD [<speak>C,<prosody rate="x-slow">P</prosody>,D</speak>]^
+IDP [<speak>I,D,<prosody rate="x-slow">P</prosody></speak>]^
+NCT [N,C,T]^
+LNP [<speak>L,N,<prosody rate="x-slow">P</prosody></speak>]^
+GTC [G,T,C]^
+DLS [D,L,S]^
+LIP [<speak>L,I,<prosody rate="x-slow">P</prosody></speak>]^
+SIN [S,I,N]^
+PTS [<speak><prosody rate="x-slow">P</prosody>,T,S</speak>]^
+CNT [C,N,T]^
+PCS [<speak><prosody rate="x-slow">P</prosody>,C,S</speak>]^
+CTL [C,T,L]^
+DLP [<speak>D,L,<prosody rate="x-slow">P</prosody></speak>]^
+NCG [N,C,G]^
+LDP [<speak>L,D,<prosody rate="x-slow">P</prosody></speak>]^
+IDP [<speak>I,D,<prosody rate="x-slow">P</prosody></speak>]^
+GTN [G,T,N]^
+LSC [L,S,C]^
+INC [I,N,C]^
+SNG [S,N,G]^
+CIG [C,I,G]^
+PTD [<speak><prosody rate="x-slow">P</prosody>,T,D</speak>]^
+CIS [C,I,S]^
+PDL [<speak><prosody rate="x-slow">P</prosody>,D,L</speak>]^
+GNT [G,N,T]^
+LPD [<speak>L,<prosody rate="x-slow">P</prosody>,D</speak>]^
+LNI [L,N,I]^
+NGS [N,G,S]^
+CNL [C,N,L]^
+NCI [N,C,I]^
+LSC [L,S,C]^
+DGC [D,G,C]^
+ILT [I,L,T]^
+ITD [I,T,D]^
+PDP [<speak><prosody rate="x-slow">P</prosody>,D,<prosody rate="x-slow">P</prosody></speak>]^
+GDG [G,D,G]^
+ISG [I,S,G]^
+PCG [<speak><prosody rate="x-slow">P</prosody>,C,G</speak>]^
+DCI [D,C,I]^
+CNI [C,N,I]^
+SLG [S,L,G]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+NPS [<speak>N,<prosody rate="x-slow">P</prosody>,S</speak>]^
+TIC [T,I,C]^
+IGS [I,G,S]^
+CLN [C,L,N]^
+SDI [S,D,I]^
+LDI [L,D,I]^
+SDG [S,D,G]^
+ICG [I,C,G]^
+TSI [T,S,I]^
+SGT [S,G,T]^
+NIS [N,I,S]^
+TST [T,S,T]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GDI [G,D,I]^
+NTG [N,T,G]^
+DNI [D,N,I]^
+TCT [T,C,T]^
+CSI [C,S,I]^
+DSP [<speak>D,S,<prosody rate="x-slow">P</prosody></speak>]^
+SIP [<speak>S,I,<prosody rate="x-slow">P</prosody></speak>]^
+IPN [<speak>I,<prosody rate="x-slow">P</prosody>,N</speak>]^
+SGC [S,G,C]^
+GTD [G,T,D]^
+GCP [<speak>G,C,<prosody rate="x-slow">P</prosody></speak>]^
+LST [L,S,T]^
+PIN [<speak><prosody rate="x-slow">P</prosody>,I,N</speak>]^
+STD [S,T,D]^
+CGL [C,G,L]^
+DND [D,N,D]^
+NSG [N,S,G]^
+NIP [<speak>N,I,<prosody rate="x-slow">P</prosody></speak>]^
+SNP [<speak>S,N,<prosody rate="x-slow">P</prosody></speak>]^
+TID [T,I,D]^
+PGI [<speak><prosody rate="x-slow">P</prosody>,G,I</speak>]^
+DCN [D,C,N]^
+CSL [C,S,L]^
+IPT [<speak>I,<prosody rate="x-slow">P</prosody>,T</speak>]^
+DSL [D,S,L]^
+NIG [N,I,G]^
+SND [S,N,D]^
+ICG [I,C,G]^
+IPL [<speak>I,<prosody rate="x-slow">P</prosody>,L</speak>]^
+NID [N,I,D]^
+PTN [<speak><prosody rate="x-slow">P</prosody>,T,N</speak>]^
+DIL [D,I,L]^
+NGL [N,G,L]^
+IND [I,N,D]^
+GTI [G,T,I]^
+SPN [<speak>S,<prosody rate="x-slow">P</prosody>,N</speak>]^
+GSC [G,S,C]^
+GTS [G,T,S]^
+PDN [<speak><prosody rate="x-slow">P</prosody>,D,N</speak>]^
+TGT [T,G,T]^
+LPN [<speak>L,<prosody rate="x-slow">P</prosody>,N</speak>]^
+SCG [S,C,G]^
+DPC [<speak>D,<prosody rate="x-slow">P</prosody>,C</speak>]^
+PLT [<speak><prosody rate="x-slow">P</prosody>,L,T</speak>]^
+GSD [G,S,D]^
+NIS [N,I,S]^
+PCI [<speak><prosody rate="x-slow">P</prosody>,C,I</speak>]^
+DTI [D,T,I]^
+LID [L,I,D]^
+GTC [G,T,C]^
+PCL [<speak><prosody rate="x-slow">P</prosody>,C,L</speak>]^
+ILT [I,L,T]^
+GIT [G,I,T]^
+LGC [L,G,C]^
+GPL [<speak>G,<prosody rate="x-slow">P</prosody>,L</speak>]^
+SLD [S,L,D]^
+LSD [L,S,D]^
+SNT [S,N,T]^
+ILP [<speak>I,L,<prosody rate="x-slow">P</prosody></speak>]^
+TPT [<speak>T,<prosody rate="x-slow">P</prosody>,T</speak>]^
+DPL [<speak>D,<prosody rate="x-slow">P</prosody>,L</speak>]^
+TIG [T,I,G]^
+ITS [I,T,S]^
+IGL [I,G,L]^
+NTL [N,T,L]^
+IDG [I,D,G]^
+SDS [S,D,S]^
+PCD [<speak><prosody rate="x-slow">P</prosody>,C,D</speak>]^
+GIT [G,I,T]^
+CIC [C,I,C]^
+GSP [<speak>G,S,<prosody rate="x-slow">P</prosody></speak>]^
+TNG [T,N,G]^
+SPN [<speak>S,<prosody rate="x-slow">P</prosody>,N</speak>]^
+CGI [C,G,I]^
+NGD [N,G,D]^
+CIT [C,I,T]^
+LGI [L,G,I]^
+TDT [T,D,T]^
+GSI [G,S,I]^
+LDP [<speak>L,D,<prosody rate="x-slow">P</prosody></speak>]^
+NIT [N,I,T]^
+CPN [<speak>C,<prosody rate="x-slow">P</prosody>,N</speak>]^
+GPN [<speak>G,<prosody rate="x-slow">P</prosody>,N</speak>]^
+GIP [<speak>G,I,<prosody rate="x-slow">P</prosody></speak>]^
+SNS [S,N,S]^
+GLC [G,L,C]^
+NIG [N,I,G]^
+NSL [N,S,L]^
+DPC [<speak>D,<prosody rate="x-slow">P</prosody>,C</speak>]^
+NIT [N,I,T]^
+NID [N,I,D]^
+ILC [I,L,C]^
+TCG [T,C,G]^
+SGT [S,G,T]^
+IDP [<speak>I,D,<prosody rate="x-slow">P</prosody></speak>]^
+NIC [N,I,C]^
+ISC [I,S,C]^
+NSG [N,S,G]^
+PLG [<speak><prosody rate="x-slow">P</prosody>,L,G</speak>]^
+IDG [I,D,G]^
+IGC [I,G,C]^
+NGP [<speak>N,G,<prosody rate="x-slow">P</prosody></speak>]^
+INI [I,N,I]^
+STP [<speak>S,T,<prosody rate="x-slow">P</prosody></speak>]^
+LNL [L,N,L]^
+TNI [T,N,I]^
+SIL [S,I,L]^
+GCN [G,C,N]^
+TPC [<speak>T,<prosody rate="x-slow">P</prosody>,C</speak>]^
+GTN [G,T,N]^
+SPI [<speak>S,<prosody rate="x-slow">P</prosody>,I</speak>]^
+TGN [T,G,N]^
+GSN [G,S,N]^
+SIP [<speak>S,I,<prosody rate="x-slow">P</prosody></speak>]^
+NGN [N,G,N]^
+DSL [D,S,L]^
+CID [C,I,D]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+TCL [T,C,L]^
+PCS [<speak><prosody rate="x-slow">P</prosody>,C,S</speak>]^
+PDT [<speak><prosody rate="x-slow">P</prosody>,D,T</speak>]^
+GPD [<speak>G,<prosody rate="x-slow">P</prosody>,D</speak>]^
+PDC [<speak><prosody rate="x-slow">P</prosody>,D,C</speak>]^
+TIN [T,I,N]^
+DCN [D,C,N]^
+ILI [I,L,I]^
+LGS [L,G,S]^
+TDS [T,D,S]^
+PCL [<speak><prosody rate="x-slow">P</prosody>,C,L</speak>]^
+DLT [D,L,T]^
+SNI [S,N,I]^
+LCG [L,C,G]^
+TDC [T,D,C]^
+SLP [<speak>S,L,<prosody rate="x-slow">P</prosody></speak>]^
+GND [G,N,D]^
+CPI [<speak>C,<prosody rate="x-slow">P</prosody>,I</speak>]^
+DNC [D,N,C]^
+TCG [T,C,G]^
+TLI [T,L,I]^
+NLG [N,L,G]^
+DLN [D,L,N]^
+LPD [<speak>L,<prosody rate="x-slow">P</prosody>,D</speak>]^
+SCL [S,C,L]^
+IPN [<speak>I,<prosody rate="x-slow">P</prosody>,N</speak>]^
+IDP [<speak>I,D,<prosody rate="x-slow">P</prosody></speak>]^
+TSP [<speak>T,S,<prosody rate="x-slow">P</prosody></speak>]^
+GSN [G,S,N]^
+ING [I,N,G]^
+NPI [<speak>N,<prosody rate="x-slow">P</prosody>,I</speak>]^
+TPC [<speak>T,<prosody rate="x-slow">P</prosody>,C</speak>]^
+DSI [D,S,I]^
+TLN [T,L,N]^
+GSN [G,S,N]^
+SDS [S,D,S]^
+PGN [<speak><prosody rate="x-slow">P</prosody>,G,N</speak>]^
+SPL [<speak>S,<prosody rate="x-slow">P</prosody>,L</speak>]^
+STS [S,T,S]^
+LCD [L,C,D]^
+GCI [G,C,I]^
+DLC [D,L,C]^
+LDT [L,D,T]^
+LCP [<speak>L,C,<prosody rate="x-slow">P</prosody></speak>]^
+ITN [I,T,N]^
+CGP [<speak>C,G,<prosody rate="x-slow">P</prosody></speak>]^
+SCS [S,C,S]^
+TLG [T,L,G]^
+PGP [<speak><prosody rate="x-slow">P</prosody>,G,<prosody rate="x-slow">P</prosody></speak>]^
+DID [D,I,D]^
+SPN [<speak>S,<prosody rate="x-slow">P</prosody>,N</speak>]^
+GCI [G,C,I]^
+DNL [D,N,L]^
+CNT [C,N,T]^
+DGC [D,G,C]^
+NLD [N,L,D]^
+LSC [L,S,C]^
+GIL [G,I,L]^
+SDI [S,D,I]^
+TCD [T,C,D]^
+GTD [G,T,D]^
+ICL [I,C,L]^
+NTI [N,T,I]^
+CGT [C,G,T]^
+GSG [G,S,G]^
+TDN [T,D,N]^
+GCT [G,C,T]^
+SNP [<speak>S,N,<prosody rate="x-slow">P</prosody></speak>]^
+LPD [<speak>L,<prosody rate="x-slow">P</prosody>,D</speak>]^
+LTS [L,T,S]^
+TNG [T,N,G]^
+CDC [C,D,C]^
+STI [S,T,I]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+IPI [<speak>I,<prosody rate="x-slow">P</prosody>,I</speak>]^
+GPL [<speak>G,<prosody rate="x-slow">P</prosody>,L</speak>]^
+ITC [I,T,C]^
+STD [S,T,D]^
+CLC [C,L,C]^
+GNG [G,N,G]^
+CPC [<speak>C,<prosody rate="x-slow">P</prosody>,C</speak>]^
+IDS [I,D,S]^
+CDT [C,D,T]^
+NCG [N,C,G]^
+DCT [D,C,T]^
+DPI [<speak>D,<prosody rate="x-slow">P</prosody>,I</speak>]^
+TDS [T,D,S]^
+NLS [N,L,S]^
+LPD [<speak>L,<prosody rate="x-slow">P</prosody>,D</speak>]^
+NLC [N,L,C]^
+DCI [D,C,I]^
+NDC [N,D,C]^
+GTC [G,T,C]^
+GDP [<speak>G,D,<prosody rate="x-slow">P</prosody></speak>]^
+CSC [C,S,C]^
+TSN [T,S,N]^
+LCS [L,C,S]^
+TPN [<speak>T,<prosody rate="x-slow">P</prosody>,N</speak>]^
+TGC [T,G,C]^
+NPD [<speak>N,<prosody rate="x-slow">P</prosody>,D</speak>]^
+CND [C,N,D]^
+SGL [S,G,L]^
+SIC [S,I,C]^
+DTL [D,T,L]^
+DPT [<speak>D,<prosody rate="x-slow">P</prosody>,T</speak>]^
+SIG [S,I,G]^
+IGN [I,G,N]^
+TGC [T,G,C]^
+GLI [G,L,I]^
+LIT [L,I,T]^
+DST [D,S,T]^
+LDS [L,D,S]^
+DIL [D,I,L]^
+PGL [<speak><prosody rate="x-slow">P</prosody>,G,L</speak>]^
+PTN [<speak><prosody rate="x-slow">P</prosody>,T,N</speak>]^
+LGL [L,G,L]^
+INC [I,N,C]^
+LDG [L,D,G]^
+ILD [I,L,D]^
+NGS [N,G,S]^
+DTN [D,T,N]^
+LPD [<speak>L,<prosody rate="x-slow">P</prosody>,D</speak>]^
+GSD [G,S,D]^
+NLC [N,L,C]^
+NLG [N,L,G]^
+DNC [D,N,C]^
+PTS [<speak><prosody rate="x-slow">P</prosody>,T,S</speak>]^
+CTN [C,T,N]^
+GNG [G,N,G]^
+PGT [<speak><prosody rate="x-slow">P</prosody>,G,T</speak>]^
+GTG [G,T,G]^
+DNS [D,N,S]^
+TDP [<speak>T,D,<prosody rate="x-slow">P</prosody></speak>]^
+TND [T,N,D]^
+GSG [G,S,G]^
+TST [T,S,T]^
+CTN [C,T,N]^
+DTL [D,T,L]^
+PLT [<speak><prosody rate="x-slow">P</prosody>,L,T</speak>]^
+NSP [<speak>N,S,<prosody rate="x-slow">P</prosody></speak>]^
+GCS [G,C,S]^
+CDN [C,D,N]^
+LDT [L,D,T]^
+DGL [D,G,L]^
+GPS [<speak>G,<prosody rate="x-slow">P</prosody>,S</speak>]^
+ICS [I,C,S]^
+PGC [<speak><prosody rate="x-slow">P</prosody>,G,C</speak>]^
+ILS [I,L,S]^
+CGI [C,G,I]^
+GPN [<speak>G,<prosody rate="x-slow">P</prosody>,N</speak>]^
+TNI [T,N,I]^
+NTG [N,T,G]^
+SIG [S,I,G]^
+PTS [<speak><prosody rate="x-slow">P</prosody>,T,S</speak>]^
+PST [<speak><prosody rate="x-slow">P</prosody>,S,T</speak>]^
+IDP [<speak>I,D,<prosody rate="x-slow">P</prosody></speak>]^
+TIP [<speak>T,I,<prosody rate="x-slow">P</prosody></speak>]^
+ISL [I,S,L]^
+NGN [N,G,N]^
+LTS [L,T,S]^
+LCD [L,C,D]^
+ISI [I,S,I]^
+LGS [L,G,S]^
+IDC [I,D,C]^
+PNP [<speak><prosody rate="x-slow">P</prosody>,N,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+LGS [L,G,S]^
+GCI [G,C,I]^
+PDL [<speak><prosody rate="x-slow">P</prosody>,D,L</speak>]^
+ICS [I,C,S]^
+DIS [D,I,S]^
+DTN [D,T,N]^
+STG [S,T,G]^
+STL [S,T,L]^
+IGL [I,G,L]^
+PIN [<speak><prosody rate="x-slow">P</prosody>,I,N</speak>]^
+STL [S,T,L]^
+TSI [T,S,I]^
+CNL [C,N,L]^
+DNC [D,N,C]^
+LDP [<speak>L,D,<prosody rate="x-slow">P</prosody></speak>]^
+TDL [T,D,L]^
+ICN [I,C,N]^
+CTD [C,T,D]^
+LTS [L,T,S]^
+CTL [C,T,L]^
+GTP [<speak>G,T,<prosody rate="x-slow">P</prosody></speak>]^
+ILG [I,L,G]^
+TDG [T,D,G]^
+PLI [<speak><prosody rate="x-slow">P</prosody>,L,I</speak>]^
+NIG [N,I,G]^
+LGT [L,G,T]^
+ITP [<speak>I,T,<prosody rate="x-slow">P</prosody></speak>]^
+TLT [T,L,T]^
+LPS [<speak>L,<prosody rate="x-slow">P</prosody>,S</speak>]^
+CLG [C,L,G]^
+CTL [C,T,L]^
+ILG [I,L,G]^
+NPI [<speak>N,<prosody rate="x-slow">P</prosody>,I</speak>]^
+GDG [G,D,G]^
+TCS [T,C,S]^
+NGP [<speak>N,G,<prosody rate="x-slow">P</prosody></speak>]^
+SLG [S,L,G]^
+PGS [<speak><prosody rate="x-slow">P</prosody>,G,S</speak>]^
+NGI [N,G,I]^
+CPL [<speak>C,<prosody rate="x-slow">P</prosody>,L</speak>]^
+SDN [S,D,N]^
+GLG [G,L,G]^
+IDI [I,D,I]^
+SLG [S,L,G]^
+ISG [I,S,G]^
+NSD [N,S,D]^
+NCS [N,C,S]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+TLS [T,L,S]^
+ITN [I,T,N]^
+PIS [<speak><prosody rate="x-slow">P</prosody>,I,S</speak>]^
+CDG [C,D,G]^
+PNG [<speak><prosody rate="x-slow">P</prosody>,N,G</speak>]^
+IDL [I,D,L]^
+ILP [<speak>I,L,<prosody rate="x-slow">P</prosody></speak>]^
+DTD [D,T,D]^
+NST [N,S,T]^
+PID [<speak><prosody rate="x-slow">P</prosody>,I,D</speak>]^
+GNC [G,N,C]^
+SCT [S,C,T]^
+NID [N,I,D]^
+IND [I,N,D]^
+IND [I,N,D]^
+LSG [L,S,G]^
+SNS [S,N,S]^
+LNG [L,N,G]^
+DSI [D,S,I]^
+PDS [<speak><prosody rate="x-slow">P</prosody>,D,S</speak>]^
+DPT [<speak>D,<prosody rate="x-slow">P</prosody>,T</speak>]^
+GDN [G,D,N]^
+LNS [L,N,S]^
+PIN [<speak><prosody rate="x-slow">P</prosody>,I,N</speak>]^
+SNS [S,N,S]^
+NSL [N,S,L]^
+DSD [D,S,D]^
+LPG [<speak>L,<prosody rate="x-slow">P</prosody>,G</speak>]^
+TDP [<speak>T,D,<prosody rate="x-slow">P</prosody></speak>]^
+LSG [L,S,G]^
+ITN [I,T,N]^
+DSC [D,S,C]^
+PCS [<speak><prosody rate="x-slow">P</prosody>,C,S</speak>]^
+CID [C,I,D]^
+CPI [<speak>C,<prosody rate="x-slow">P</prosody>,I</speak>]^
+GPG [<speak>G,<prosody rate="x-slow">P</prosody>,G</speak>]^
+CDP [<speak>C,D,<prosody rate="x-slow">P</prosody></speak>]^
+LGT [L,G,T]^
+PSI [<speak><prosody rate="x-slow">P</prosody>,S,I</speak>]^
+STG [S,T,G]^
+SLN [S,L,N]^
+ILP [<speak>I,L,<prosody rate="x-slow">P</prosody></speak>]^
+CDS [C,D,S]^
+CSL [C,S,L]^
+NLD [N,L,D]^
+NTP [<speak>N,T,<prosody rate="x-slow">P</prosody></speak>]^
+DTC [D,T,C]^
+LIL [L,I,L]^
+PDT [<speak><prosody rate="x-slow">P</prosody>,D,T</speak>]^
+SLP [<speak>S,L,<prosody rate="x-slow">P</prosody></speak>]^
+GST [G,S,T]^
+PGC [<speak><prosody rate="x-slow">P</prosody>,G,C</speak>]^
+NGN [N,G,N]^
+SNP [<speak>S,N,<prosody rate="x-slow">P</prosody></speak>]^
+ISL [I,S,L]^
+PNL [<speak><prosody rate="x-slow">P</prosody>,N,L</speak>]^
+NGI [N,G,I]^
+LIG [L,I,G]^
+CNP [<speak>C,N,<prosody rate="x-slow">P</prosody></speak>]^
+CLS [C,L,S]^
+TSD [T,S,D]^
+SGS [S,G,S]^
+TCN [T,C,N]^
+CDN [C,D,N]^
+GDN [G,D,N]^
+STD [S,T,D]^
+STL [S,T,L]^
+INI [I,N,I]^
+DIS [D,I,S]^
+TSI [T,S,I]^
+PND [<speak><prosody rate="x-slow">P</prosody>,N,D</speak>]^
+SCN [S,C,N]^
+SIS [S,I,S]^
+DID [D,I,D]^
+ICN [I,C,N]^
+ICS [I,C,S]^
+TSD [T,S,D]^
+LSI [L,S,I]^
+TLT [T,L,T]^
+CDC [C,D,C]^
+PLG [<speak><prosody rate="x-slow">P</prosody>,L,G</speak>]^
+NSP [<speak>N,S,<prosody rate="x-slow">P</prosody></speak>]^
+NIC [N,I,C]^
+DNC [D,N,C]^
+PCN [<speak><prosody rate="x-slow">P</prosody>,C,N</speak>]^
+LTP [<speak>L,T,<prosody rate="x-slow">P</prosody></speak>]^
+LNS [L,N,S]^
+DNI [D,N,I]^
+SNP [<speak>S,N,<prosody rate="x-slow">P</prosody></speak>]^
+SND [S,N,D]^
+PCL [<speak><prosody rate="x-slow">P</prosody>,C,L</speak>]^
+TNT [T,N,T]^
+INI [I,N,I]^
+SNT [S,N,T]^
+IDL [I,D,L]^
+TLG [T,L,G]^
+LGD [L,G,D]^
+NLT [N,L,T]^
+GSL [G,S,L]^
+SNT [S,N,T]^
+NSC [N,S,C]^
+LPG [<speak>L,<prosody rate="x-slow">P</prosody>,G</speak>]^
+LNP [<speak>L,N,<prosody rate="x-slow">P</prosody></speak>]^
+NGL [N,G,L]^
+GLD [G,L,D]^
+LCT [L,C,T]^
+GDG [G,D,G]^
+SIC [S,I,C]^
+DSG [D,S,G]^
+CNT [C,N,T]^
+PGC [<speak><prosody rate="x-slow">P</prosody>,G,C</speak>]^
+SIN [S,I,N]^
+DIT [D,I,T]^
+NGL [N,G,L]^
+TDT [T,D,T]^
+GCD [G,C,D]^
+LIT [L,I,T]^
+DCT [D,C,T]^
+DTN [D,T,N]^
+TSD [T,S,D]^
+ICI [I,C,I]^
+TDC [T,D,C]^
+SPT [<speak>S,<prosody rate="x-slow">P</prosody>,T</speak>]^
+SIP [<speak>S,I,<prosody rate="x-slow">P</prosody></speak>]^
+CTC [C,T,C]^
+LIP [<speak>L,I,<prosody rate="x-slow">P</prosody></speak>]^
+TIG [T,I,G]^
+SPT [<speak>S,<prosody rate="x-slow">P</prosody>,T</speak>]^
+CLG [C,L,G]^
+NLT [N,L,T]^
+CSL [C,S,L]^
+CTS [C,T,S]^
+CIL [C,I,L]^
+IDC [I,D,C]^
+TIS [T,I,S]^
+GNI [G,N,I]^
+TPI [<speak>T,<prosody rate="x-slow">P</prosody>,I</speak>]^
+TDL [T,D,L]^
+CPS [<speak>C,<prosody rate="x-slow">P</prosody>,S</speak>]^
+NTL [N,T,L]^
+TSG [T,S,G]^
+IPS [<speak>I,<prosody rate="x-slow">P</prosody>,S</speak>]^
+NIP [<speak>N,I,<prosody rate="x-slow">P</prosody></speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+GCD [G,C,D]^
+NTS [N,T,S]^
+CDP [<speak>C,D,<prosody rate="x-slow">P</prosody></speak>]^
+IPG [<speak>I,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SNG [S,N,G]^
+DGI [D,G,I]^
+LSC [L,S,C]^
+DLC [D,L,C]^
+STG [S,T,G]^
+TNP [<speak>T,N,<prosody rate="x-slow">P</prosody></speak>]^
+TDN [T,D,N]^
+CIP [<speak>C,I,<prosody rate="x-slow">P</prosody></speak>]^
+NPL [<speak>N,<prosody rate="x-slow">P</prosody>,L</speak>]^
+PCT [<speak><prosody rate="x-slow">P</prosody>,C,T</speak>]^
+LID [L,I,D]^
+LDT [L,D,T]^
+PTD [<speak><prosody rate="x-slow">P</prosody>,T,D</speak>]^
+TLG [T,L,G]^
+PSI [<speak><prosody rate="x-slow">P</prosody>,S,I</speak>]^
+PDP [<speak><prosody rate="x-slow">P</prosody>,D,<prosody rate="x-slow">P</prosody></speak>]^
+DGP [<speak>D,G,<prosody rate="x-slow">P</prosody></speak>]^
+LCN [L,C,N]^
+LCD [L,C,D]^
+SPC [<speak>S,<prosody rate="x-slow">P</prosody>,C</speak>]^
+ISC [I,S,C]^
+DTN [D,T,N]^
+SCL [S,C,L]^
+GCT [G,C,T]^
+NIC [N,I,C]^
+IDI [I,D,I]^
+SCI [S,C,I]^
+PSP [<speak><prosody rate="x-slow">P</prosody>,S,<prosody rate="x-slow">P</prosody></speak>]^
+NIN [N,I,N]^
+DCL [D,C,L]^
+TCI [T,C,I]^
+SDS [S,D,S]^
+IND [I,N,D]^
+NDI [N,D,I]^
+CGD [C,G,D]^
+SLS [S,L,S]^
+TNP [<speak>T,N,<prosody rate="x-slow">P</prosody></speak>]^
+NTI [N,T,I]^
+SDN [S,D,N]^
+LNC [L,N,C]^
+TSL [T,S,L]^
+CGS [C,G,S]^
+GDG [G,D,G]^
+LNL [L,N,L]^
+PNP [<speak><prosody rate="x-slow">P</prosody>,N,<prosody rate="x-slow">P</prosody></speak>]^
+ITP [<speak>I,T,<prosody rate="x-slow">P</prosody></speak>]^
+NGP [<speak>N,G,<prosody rate="x-slow">P</prosody></speak>]^
+SGI [S,G,I]^
+DLI [D,L,I]^
+SLC [S,L,C]^
+SPC [<speak>S,<prosody rate="x-slow">P</prosody>,C</speak>]^
+TSL [T,S,L]^
+CGT [C,G,T]^
+ILD [I,L,D]^
+LNG [L,N,G]^
+IPD [<speak>I,<prosody rate="x-slow">P</prosody>,D</speak>]^
+CLP [<speak>C,L,<prosody rate="x-slow">P</prosody></speak>]^
+DGP [<speak>D,G,<prosody rate="x-slow">P</prosody></speak>]^
+TLN [T,L,N]^
+TPL [<speak>T,<prosody rate="x-slow">P</prosody>,L</speak>]^
+NPL [<speak>N,<prosody rate="x-slow">P</prosody>,L</speak>]^
+CNL [C,N,L]^
+STI [S,T,I]^
+GTC [G,T,C]^
+PLI [<speak><prosody rate="x-slow">P</prosody>,L,I</speak>]^
+LTL [L,T,L]^
+TIC [T,I,C]^
+PIC [<speak><prosody rate="x-slow">P</prosody>,I,C</speak>]^
+LIP [<speak>L,I,<prosody rate="x-slow">P</prosody></speak>]^
+SGT [S,G,T]^
+CIG [C,I,G]^
+SDI [S,D,I]^
+GTN [G,T,N]^
+GNT [G,N,T]^
+DCN [D,C,N]^
+GNI [G,N,I]^
+SLI [S,L,I]^
+PTI [<speak><prosody rate="x-slow">P</prosody>,T,I</speak>]^
+DSI [D,S,I]^
+SDI [S,D,I]^
+SIS [S,I,S]^
+PGT [<speak><prosody rate="x-slow">P</prosody>,G,T</speak>]^
+CPS [<speak>C,<prosody rate="x-slow">P</prosody>,S</speak>]^
+NCD [N,C,D]^
+INT [I,N,T]^
+SDP [<speak>S,D,<prosody rate="x-slow">P</prosody></speak>]^
+ILD [I,L,D]^
+LCP [<speak>L,C,<prosody rate="x-slow">P</prosody></speak>]^
+CPI [<speak>C,<prosody rate="x-slow">P</prosody>,I</speak>]^
+LPL [<speak>L,<prosody rate="x-slow">P</prosody>,L</speak>]^
+TGC [T,G,C]^
+PNS [<speak><prosody rate="x-slow">P</prosody>,N,S</speak>]^
+NSG [N,S,G]^
+DPD [<speak>D,<prosody rate="x-slow">P</prosody>,D</speak>]^
+IDL [I,D,L]^
+CGS [C,G,S]^
+TNC [T,N,C]^
+LTD [L,T,D]^
+LPI [<speak>L,<prosody rate="x-slow">P</prosody>,I</speak>]^
+TCI [T,C,I]^
+DCI [D,C,I]^
+PGN [<speak><prosody rate="x-slow">P</prosody>,G,N</speak>]^
+LTI [L,T,I]^
+SNP [<speak>S,N,<prosody rate="x-slow">P</prosody></speak>]^
+DIC [D,I,C]^
+LCD [L,C,D]^
+CSD [C,S,D]^
+LCI [L,C,I]^
+CPS [<speak>C,<prosody rate="x-slow">P</prosody>,S</speak>]^
+ILT [I,L,T]^
+CSD [C,S,D]^
+STS [S,T,S]^
+TCD [T,C,D]^
+SNT [S,N,T]^
+SGD [S,G,D]^
+SPC [<speak>S,<prosody rate="x-slow">P</prosody>,C</speak>]^
+NTI [N,T,I]^
+DCS [D,C,S]^
+NGD [N,G,D]^
+SLC [S,L,C]^
+TSD [T,S,D]^
+CPS [<speak>C,<prosody rate="x-slow">P</prosody>,S</speak>]^
+TLI [T,L,I]^
+GPN [<speak>G,<prosody rate="x-slow">P</prosody>,N</speak>]^
+GCN [G,C,N]^
+LIP [<speak>L,I,<prosody rate="x-slow">P</prosody></speak>]^
+GSC [G,S,C]^
+LGT [L,G,T]^
+CPN [<speak>C,<prosody rate="x-slow">P</prosody>,N</speak>]^
+CIN [C,I,N]^
+SPG [<speak>S,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SDS [S,D,S]^
+LCS [L,C,S]^
+GIS [G,I,S]^
+NGP [<speak>N,G,<prosody rate="x-slow">P</prosody></speak>]^
+ILD [I,L,D]^
+GST [G,S,T]^
+ICI [I,C,I]^
+PND [<speak><prosody rate="x-slow">P</prosody>,N,D</speak>]^
+LTL [L,T,L]^
+PSN [<speak><prosody rate="x-slow">P</prosody>,S,N</speak>]^
+ITN [I,T,N]^
+DNL [D,N,L]^
+DNG [D,N,G]^
+DGT [D,G,T]^
+PDG [<speak><prosody rate="x-slow">P</prosody>,D,G</speak>]^
+CTG [C,T,G]^
+DLS [D,L,S]^
+GSD [G,S,D]^
+NSD [N,S,D]^
+PDL [<speak><prosody rate="x-slow">P</prosody>,D,L</speak>]^
+STS [S,T,S]^
+TDC [T,D,C]^
+SCG [S,C,G]^
+NST [N,S,T]^
+PDL [<speak><prosody rate="x-slow">P</prosody>,D,L</speak>]^
+NSC [N,S,C]^
+SGN [S,G,N]^
+ILN [I,L,N]^
+TST [T,S,T]^
+SGD [S,G,D]^
+LPI [<speak>L,<prosody rate="x-slow">P</prosody>,I</speak>]^
+DSN [D,S,N]^
+LNS [L,N,S]^
+LCP [<speak>L,C,<prosody rate="x-slow">P</prosody></speak>]^
+LNP [<speak>L,N,<prosody rate="x-slow">P</prosody></speak>]^
+SPL [<speak>S,<prosody rate="x-slow">P</prosody>,L</speak>]^
+NGN [N,G,N]^
+TLN [T,L,N]^
+PDG [<speak><prosody rate="x-slow">P</prosody>,D,G</speak>]^
+TNI [T,N,I]^
+CGD [C,G,D]^
+TNI [T,N,I]^
+PLD [<speak><prosody rate="x-slow">P</prosody>,L,D</speak>]^
+CIN [C,I,N]^
+PIL [<speak><prosody rate="x-slow">P</prosody>,I,L</speak>]^
+CTP [<speak>C,T,<prosody rate="x-slow">P</prosody></speak>]^
+DTI [D,T,I]^
+PIN [<speak><prosody rate="x-slow">P</prosody>,I,N</speak>]^
+ISN [I,S,N]^
+DIG [D,I,G]^
+IDP [<speak>I,D,<prosody rate="x-slow">P</prosody></speak>]^
+SCD [S,C,D]^
+CLG [C,L,G]^
+DIP [<speak>D,I,<prosody rate="x-slow">P</prosody></speak>]^
+LNT [L,N,T]^
+LND [L,N,D]^
+PDT [<speak><prosody rate="x-slow">P</prosody>,D,T</speak>]^
+DGT [D,G,T]^
+DCD [D,C,D]^
+TGL [T,G,L]^
+NCT [N,C,T]^
+ICD [I,C,D]^
+PNI [<speak><prosody rate="x-slow">P</prosody>,N,I</speak>]^
+LSI [L,S,I]^
+TGN [T,G,N]^
+LGS [L,G,S]^
+CSI [C,S,I]^
+PDG [<speak><prosody rate="x-slow">P</prosody>,D,G</speak>]^
+LNP [<speak>L,N,<prosody rate="x-slow">P</prosody></speak>]^
+DIP [<speak>D,I,<prosody rate="x-slow">P</prosody></speak>]^
+ICT [I,C,T]^
+SPD [<speak>S,<prosody rate="x-slow">P</prosody>,D</speak>]^
+INL [I,N,L]^
+INL [I,N,L]^
+DIC [D,I,C]^
+NPC [<speak>N,<prosody rate="x-slow">P</prosody>,C</speak>]^
+ILG [I,L,G]^
+TIC [T,I,C]^
+SNP [<speak>S,N,<prosody rate="x-slow">P</prosody></speak>]^
+CIT [C,I,T]^
+GNS [G,N,S]^
+CDC [C,D,C]^
+LNS [L,N,S]^
+LTP [<speak>L,T,<prosody rate="x-slow">P</prosody></speak>]^
+GLN [G,L,N]^
+SIT [S,I,T]^
+NLN [N,L,N]^
+GPN [<speak>G,<prosody rate="x-slow">P</prosody>,N</speak>]^
+LIP [<speak>L,I,<prosody rate="x-slow">P</prosody></speak>]^
+LTI [L,T,I]^
+CND [C,N,D]^
+TSI [T,S,I]^
+NGL [N,G,L]^
+PCN [<speak><prosody rate="x-slow">P</prosody>,C,N</speak>]^
+TDL [T,D,L]^
+DCP [<speak>D,C,<prosody rate="x-slow">P</prosody></speak>]^
+CGI [C,G,I]^
+GPC [<speak>G,<prosody rate="x-slow">P</prosody>,C</speak>]^
+SPS [<speak>S,<prosody rate="x-slow">P</prosody>,S</speak>]^
+CTN [C,T,N]^
+STS [S,T,S]^
+CPG [<speak>C,<prosody rate="x-slow">P</prosody>,G</speak>]^
+CLS [C,L,S]^
+NID [N,I,D]^
+LGS [L,G,S]^
+TGT [T,G,T]^
+ILS [I,L,S]^
+PDN [<speak><prosody rate="x-slow">P</prosody>,D,N</speak>]^
+PIG [<speak><prosody rate="x-slow">P</prosody>,I,G</speak>]^
+NDL [N,D,L]^
+DPG [<speak>D,<prosody rate="x-slow">P</prosody>,G</speak>]^
+SNT [S,N,T]^

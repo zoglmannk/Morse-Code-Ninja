@@ -1,0 +1,800 @@
+FH [F,H]^
+AB [A,B]^
+OR [O,R]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+HE [H,E]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+FR [F,R]^
+HA [H,A]^
+BA [B,A]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WH [W,H]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+WF [W,F]^
+EF [E,F]^
+EF [E,F]^
+EB [E,B]^
+OH [O,H]^
+FE [F,E]^
+AE [A,E]^
+AE [A,E]^
+BA [B,A]^
+WB [W,B]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+ER [E,R]^
+WA [W,A]^
+BW [B,W]^
+AB [A,B]^
+OH [O,H]^
+FH [F,H]^
+BO [B,O]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+EO [E,O]^
+WH [W,H]^
+EH [E,H]^
+BR [B,R]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+WH [W,H]^
+WR [W,R]^
+FH [F,H]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+WA [W,A]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+WE [W,E]^
+RA [R,A]^
+EU [<speak>E,<prosody rate="x-slow">U</prosody></speak>]^
+FR [F,R]^
+OB [O,B]^
+AH [A,H]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+AE [A,E]^
+RH [R,H]^
+EO [E,O]^
+RB [R,B]^
+OB [O,B]^
+OE [O,E]^
+HR [H,R]^
+FH [F,H]^
+RF [R,F]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BF [B,F]^
+WF [W,F]^
+BA [B,A]^
+RF [R,F]^
+HW [H,W]^
+RE [R,E]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+FH [F,H]^
+BR [B,R]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+RO [R,O]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+FE [F,E]^
+RF [R,F]^
+HO [H,O]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+EO [E,O]^
+FH [F,H]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+RA [R,A]^
+WO [W,O]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+RE [R,E]^
+WH [W,H]^
+EF [E,F]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+OE [O,E]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+RW [R,W]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+BR [B,R]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+FR [F,R]^
+BW [B,W]^
+HR [H,R]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+HE [H,E]^
+FH [F,H]^
+OH [O,H]^
+OH [O,H]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+WR [W,R]^
+AO [A,O]^
+EU [<speak>E,<prosody rate="x-slow">U</prosody></speak>]^
+HE [H,E]^
+AH [A,H]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+FE [F,E]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+HR [H,R]^
+OH [O,H]^
+EH [E,H]^
+EH [E,H]^
+EH [E,H]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+HA [H,A]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+HO [H,O]^
+HA [H,A]^
+EF [E,F]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BA [B,A]^
+HF [H,F]^
+EF [E,F]^
+BO [B,O]^
+RA [R,A]^
+BF [B,F]^
+OU [<speak>O,<prosody rate="x-slow">U</prosody></speak>]^
+BF [B,F]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+AO [A,O]^
+HW [H,W]^
+HF [H,F]^
+EA [E,A]^
+BO [B,O]^
+BR [B,R]^
+OW [O,W]^
+HB [H,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+EB [E,B]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+EU [<speak>E,<prosody rate="x-slow">U</prosody></speak>]^
+AE [A,E]^
+AR [A,R]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+HO [H,O]^
+EF [E,F]^
+EA [E,A]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+OB [O,B]^
+WF [W,F]^
+OR [O,R]^
+BA [B,A]^
+HB [H,B]^
+RO [R,O]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+HR [H,R]^
+WF [W,F]^
+EA [E,A]^
+BF [B,F]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+RA [R,A]^
+RE [R,E]^
+HO [H,O]^
+AB [A,B]^
+HW [H,W]^
+RB [R,B]^
+EB [E,B]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+OH [O,H]^
+AR [A,R]^
+AW [A,W]^
+OW [O,W]^
+OR [O,R]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+EF [E,F]^
+WF [W,F]^
+BH [B,H]^
+FE [F,E]^
+FW [F,W]^
+OW [O,W]^
+FE [F,E]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+AB [A,B]^
+RA [R,A]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+EF [E,F]^
+OW [O,W]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+HO [H,O]^
+BR [B,R]^
+EF [E,F]^
+OA [O,A]^
+ER [E,R]^
+WO [W,O]^
+EA [E,A]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+FB [F,B]^
+WF [W,F]^
+ER [E,R]^
+EA [E,A]^
+WA [W,A]^
+BH [B,H]^
+WE [W,E]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+FO [F,O]^
+EU [<speak>E,<prosody rate="x-slow">U</prosody></speak>]^
+HO [H,O]^
+ER [E,R]^
+HB [H,B]^
+WE [W,E]^
+OR [O,R]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+BE [B,E]^
+AW [A,W]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+HO [H,O]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+RH [R,H]^
+FU [<speak>F,<prosody rate="x-slow">U</prosody></speak>]^
+OH [O,H]^
+OH [O,H]^
+AO [A,O]^
+BA [B,A]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+EB [E,B]^
+RB [R,B]^
+OW [O,W]^
+HR [H,R]^
+EW [E,W]^
+HW [H,W]^
+RF [R,F]^
+EU [<speak>E,<prosody rate="x-slow">U</prosody></speak>]^
+OH [O,H]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+RO [R,O]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+EH [E,H]^
+RA [R,A]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+HE [H,E]^
+AO [A,O]^
+FO [F,O]^
+EW [E,W]^
+RO [R,O]^
+AF [A,F]^
+AO [A,O]^
+HA [H,A]^
+FE [F,E]^
+AF [A,F]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+FO [F,O]^
+WE [W,E]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+OB [O,B]^
+AO [A,O]^
+BA [B,A]^
+FU [<speak>F,<prosody rate="x-slow">U</prosody></speak>]^
+OR [O,R]^
+BO [B,O]^
+BF [B,F]^
+BA [B,A]^
+WH [W,H]^
+WE [W,E]^
+WB [W,B]^
+OF [O,F]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+HW [H,W]^
+HR [H,R]^
+HF [H,F]^
+AB [A,B]^
+OB [O,B]^
+OU [<speak>O,<prosody rate="x-slow">U</prosody></speak>]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+RH [R,H]^
+OA [O,A]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+OA [O,A]^
+WE [W,E]^
+FR [F,R]^
+EF [E,F]^
+BR [B,R]^
+OF [O,F]^
+EA [E,A]^
+RW [R,W]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+RE [R,E]^
+BH [B,H]^
+RH [R,H]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+RH [R,H]^
+BE [B,E]^
+RF [R,F]^
+BE [B,E]^
+BE [B,E]^
+FE [F,E]^
+BW [B,W]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+OA [O,A]^
+OH [O,H]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+RO [R,O]^
+RH [R,H]^
+FA [F,A]^
+FH [F,H]^
+WB [W,B]^
+HB [H,B]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+BA [B,A]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+BE [B,E]^
+WO [W,O]^
+BO [B,O]^
+FA [F,A]^
+OE [O,E]^
+FW [F,W]^
+OA [O,A]^
+EW [E,W]^
+BA [B,A]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+RB [R,B]^
+EW [E,W]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+WF [W,F]^
+EF [E,F]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+FR [F,R]^
+EA [E,A]^
+WH [W,H]^
+AB [A,B]^
+OE [O,E]^
+FW [F,W]^
+RE [R,E]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+RF [R,F]^
+HF [H,F]^
+HF [H,F]^
+AB [A,B]^
+HO [H,O]^
+BH [B,H]^
+OU [<speak>O,<prosody rate="x-slow">U</prosody></speak>]^
+BR [B,R]^
+WB [W,B]^
+WH [W,H]^
+RA [R,A]^
+OF [O,F]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+RH [R,H]^
+FB [F,B]^
+HB [H,B]^
+WO [W,O]^
+RW [R,W]^
+FR [F,R]^
+HO [H,O]^
+EB [E,B]^
+RA [R,A]^
+HB [H,B]^
+HW [H,W]^
+HF [H,F]^
+EW [E,W]^
+OB [O,B]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+HW [H,W]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+AO [A,O]^
+FW [F,W]^
+AE [A,E]^
+BO [B,O]^
+EA [E,A]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+OF [O,F]^
+WO [W,O]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+HF [H,F]^
+OB [O,B]^
+EB [E,B]^
+RW [R,W]^
+OW [O,W]^
+AB [A,B]^
+WO [W,O]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+FR [F,R]^
+HA [H,A]^
+OA [O,A]^
+FE [F,E]^
+BH [B,H]^
+OE [O,E]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+BF [B,F]^
+OB [O,B]^
+HR [H,R]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+HF [H,F]^
+WF [W,F]^
+AO [A,O]^
+RE [R,E]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+OU [<speak>O,<prosody rate="x-slow">U</prosody></speak>]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+BE [B,E]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+FE [F,E]^
+WO [W,O]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+EH [E,H]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+FW [F,W]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+AR [A,R]^
+OR [O,R]^
+OR [O,R]^
+FE [F,E]^
+FB [F,B]^
+OE [O,E]^
+RF [R,F]^
+WO [W,O]^
+EH [E,H]^
+AW [A,W]^
+RF [R,F]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+EW [E,W]^
+EF [E,F]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+OW [O,W]^
+RA [R,A]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+EF [E,F]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+ER [E,R]^
+AO [A,O]^
+FO [F,O]^
+BA [B,A]^
+OF [O,F]^
+ER [E,R]^
+FH [F,H]^
+OU [<speak>O,<prosody rate="x-slow">U</prosody></speak>]^
+BH [B,H]^
+RU [<speak>R,<prosody rate="x-slow">U</prosody></speak>]^
+AW [A,W]^
+AE [A,E]^
+WO [W,O]^
+AH [A,H]^
+AE [A,E]^
+OW [O,W]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+HA [H,A]^
+EB [E,B]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+RH [R,H]^
+AF [A,F]^
+EA [E,A]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+RB [R,B]^
+WF [W,F]^
+RB [R,B]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+HO [H,O]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+OR [O,R]^
+EA [E,A]^
+OB [O,B]^
+FA [F,A]^
+OB [O,B]^
+HB [H,B]^
+RE [R,E]^
+RE [R,E]^
+WA [W,A]^
+FE [F,E]^
+RH [R,H]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+EO [E,O]^
+AO [A,O]^
+FU [<speak>F,<prosody rate="x-slow">U</prosody></speak>]^
+OB [O,B]^
+HB [H,B]^
+RE [R,E]^
+OB [O,B]^
+WE [W,E]^
+OB [O,B]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+FO [F,O]^
+WB [W,B]^
+HE [H,E]^
+WE [W,E]^
+WB [W,B]^
+RO [R,O]^
+BE [B,E]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+FH [F,H]^
+EU [<speak>E,<prosody rate="x-slow">U</prosody></speak>]^
+OB [O,B]^
+OW [O,W]^
+BA [B,A]^
+BW [B,W]^
+RO [R,O]^
+BO [B,O]^
+BH [B,H]^
+AF [A,F]^
+WO [W,O]^
+HF [H,F]^
+WF [W,F]^
+BW [B,W]^
+OH [O,H]^
+FH [F,H]^
+BF [B,F]^
+RF [R,F]^
+AW [A,W]^
+BR [B,R]^
+EU [<speak>E,<prosody rate="x-slow">U</prosody></speak>]^
+OR [O,R]^
+WA [W,A]^
+WB [W,B]^
+WA [W,A]^
+BO [B,O]^
+FA [F,A]^
+WH [W,H]^
+AB [A,B]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+EH [E,H]^
+BR [B,R]^
+HW [H,W]^
+EB [E,B]^
+HE [H,E]^
+FE [F,E]^
+OF [O,F]^
+HA [H,A]^
+FW [F,W]^
+EO [E,O]^
+WF [W,F]^
+WB [W,B]^
+HO [H,O]^
+AR [A,R]^
+BR [B,R]^
+AF [A,F]^
+BH [B,H]^
+BE [B,E]^
+WB [W,B]^
+AH [A,H]^
+RH [R,H]^
+OW [O,W]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+ER [E,R]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+HE [H,E]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+WH [W,H]^
+BR [B,R]^
+AR [A,R]^
+BW [B,W]^
+BH [B,H]^
+BO [B,O]^
+AE [A,E]^
+OE [O,E]^
+BA [B,A]^
+EO [E,O]^
+RA [R,A]^
+HW [H,W]^
+EA [E,A]^
+WE [W,E]^
+BR [B,R]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+OB [O,B]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+AW [A,W]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+RB [R,B]^
+OF [O,F]^
+OU [<speak>O,<prosody rate="x-slow">U</prosody></speak>]^
+RF [R,F]^
+OH [O,H]^
+FO [F,O]^
+RF [R,F]^
+WE [W,E]^
+OB [O,B]^
+RE [R,E]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+BA [B,A]^
+BH [B,H]^
+BW [B,W]^
+AF [A,F]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BH [B,H]^
+AW [A,W]^
+BO [B,O]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+WR [W,R]^
+WR [W,R]^
+HO [H,O]^
+HW [H,W]^
+OF [O,F]^
+RA [R,A]^
+OA [O,A]^
+WE [W,E]^
+OH [O,H]^
+OR [O,R]^
+WR [W,R]^
+AB [A,B]^
+WR [W,R]^
+WB [W,B]^
+EA [E,A]^
+HW [H,W]^
+EW [E,W]^
+AO [A,O]^
+BR [B,R]^
+WE [W,E]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+BR [B,R]^
+OR [O,R]^
+EH [E,H]^
+WF [W,F]^
+BA [B,A]^
+WR [W,R]^
+AW [A,W]^
+HO [H,O]^
+EA [E,A]^
+HO [H,O]^
+HO [H,O]^
+FR [F,R]^
+FU [<speak>F,<prosody rate="x-slow">U</prosody></speak>]^
+WO [W,O]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+OF [O,F]^
+HE [H,E]^
+HO [H,O]^
+HO [H,O]^
+HW [H,W]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+OH [O,H]^
+FO [F,O]^
+AR [A,R]^
+WH [W,H]^
+EF [E,F]^
+EF [E,F]^
+EW [E,W]^
+UW [<speak><prosody rate="x-slow">U</prosody>,W</speak>]^
+AE [A,E]^
+HE [H,E]^
+HE [H,E]^
+HE [H,E]^
+RO [R,O]^
+EA [E,A]^
+FB [F,B]^
+RE [R,E]^
+RB [R,B]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+HE [H,E]^
+AW [A,W]^
+OW [O,W]^
+RW [R,W]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+AF [A,F]^
+RE [R,E]^
+FE [F,E]^
+OR [O,R]^
+EU [<speak>E,<prosody rate="x-slow">U</prosody></speak>]^
+FO [F,O]^
+AF [A,F]^
+OU [<speak>O,<prosody rate="x-slow">U</prosody></speak>]^
+HF [H,F]^
+AW [A,W]^
+FH [F,H]^
+WB [W,B]^
+RH [R,H]^
+FE [F,E]^
+BH [B,H]^
+UR [<speak><prosody rate="x-slow">U</prosody>,R</speak>]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BF [B,F]^
+ER [E,R]^
+BE [B,E]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+WA [W,A]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+OU [<speak>O,<prosody rate="x-slow">U</prosody></speak>]^
+HE [H,E]^
+RH [R,H]^
+OE [O,E]^
+RH [R,H]^
+RA [R,A]^
+EO [E,O]^
+WR [W,R]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+RO [R,O]^
+WU [<speak>W,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+RB [R,B]^
+UO [<speak><prosody rate="x-slow">U</prosody>,O</speak>]^
+HA [H,A]^
+FR [F,R]^
+HW [H,W]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+RH [R,H]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+BE [B,E]^
+BR [B,R]^
+WR [W,R]^
+AH [A,H]^
+OH [O,H]^
+WR [W,R]^
+HE [H,E]^
+BO [B,O]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+HA [H,A]^
+HR [H,R]^
+OE [O,E]^
+FB [F,B]^
+AE [A,E]^
+BA [B,A]^
+UE [<speak><prosody rate="x-slow">U</prosody>,E</speak>]^
+FH [F,H]^
+OB [O,B]^
+AE [A,E]^
+WF [W,F]^
+OB [O,B]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+BO [B,O]^
+ER [E,R]^
+UB [<speak><prosody rate="x-slow">U</prosody>,B</speak>]^
+OF [O,F]^
+HA [H,A]^
+UF [<speak><prosody rate="x-slow">U</prosody>,F</speak>]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+HF [H,F]^
+OR [O,R]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+BF [B,F]^
+WB [W,B]^
+AB [A,B]^
+WH [W,H]^
+RW [R,W]^
+FR [F,R]^
+OR [O,R]^
+EH [E,H]^
+BF [B,F]^
+EB [E,B]^
+FO [F,O]^
+AB [A,B]^
+OH [O,H]^
+OA [O,A]^
+HA [H,A]^
+HF [H,F]^
+BE [B,E]^
+WH [W,H]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+EO [E,O]^
+WE [W,E]^
+BF [B,F]^
+BF [B,F]^
+OU [<speak>O,<prosody rate="x-slow">U</prosody></speak>]^
+BU [<speak>B,<prosody rate="x-slow">U</prosody></speak>]^
+OA [O,A]^
+FR [F,R]^
+AB [A,B]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+WB [W,B]^
+RH [R,H]^
+RF [R,F]^
+WE [W,E]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+ER [E,R]^
+WB [W,B]^
+WO [W,O]^
+WA [W,A]^
+FR [F,R]^
+UA [<speak><prosody rate="x-slow">U</prosody>,A</speak>]^
+EW [E,W]^
+BF [B,F]^
+WH [W,H]^
+EF [E,F]^
+WH [W,H]^
+AU [<speak>A,<prosody rate="x-slow">U</prosody></speak>]^
+FU [<speak>F,<prosody rate="x-slow">U</prosody></speak>]^
+OA [O,A]^
+OW [O,W]^
+AO [A,O]^
+EU [<speak>E,<prosody rate="x-slow">U</prosody></speak>]^
+HU [<speak>H,<prosody rate="x-slow">U</prosody></speak>]^
+BW [B,W]^
+FR [F,R]^
+UH [<speak><prosody rate="x-slow">U</prosody>,H</speak>]^
+RB [R,B]^
