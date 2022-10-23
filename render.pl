@@ -21,6 +21,7 @@ GetOptions(
   'c|cache=s'         => \(my $cache_directory = './cache/'),
   's|speeds=s{1,}'    => \@speeds,
   'charactermultiplier=s' => \(my $character_multiplier = "1"),
+  'standardspeedrepeat=s' => \(my $standard_speed_repeat = 0), #flag. 0 == false; 1 == true
   'm|maxprocs=i'      => \(my $max_processes = 10),
   'z|racing=i'        => \(my $speed_racing = 0), #flag. 0 == false; 1 == true
   'rr|racingrepeat=i' => \(my $speed_racing_repeat = 0), #flag. 0 == false; 1 == true
@@ -470,7 +471,16 @@ foreach(@sentences) {
             $filename_map{"$counter-$speed"} = $cached_filename;
 
             my $cached_repeat_filename = get_cached_filename($ebookCmdBase, $repeat_part);
-            if(!$no_repeat_morse && $word_limit == -1 && $repeat_part ne $sentence_part) {
+            if($character_multiplier ne "1" && $standard_speed_repeat != 0) {
+              my $ebookCmdBase_for_repeat = $ebookCmdBase;
+              $ebookCmdBase_for_repeat =~ s/-m \d+//;
+              print "***************************************************\n";
+              print "***************************************************\n";
+              print "ebookCmdBase_for_repeat: $ebookCmdBase_for_repeat\n";
+              $cached_repeat_filename = get_cached_filename($ebookCmdBase_for_repeat, $repeat_part);
+            }
+
+            if(!$no_repeat_morse && $word_limit == -1 && $repeat_part ne $sentence_part || ($character_multiplier ne "1" && $standard_speed_repeat != 0)) {
               $filename_map{"$counter-repeat-$speed"} = $cached_repeat_filename;
             }
 
@@ -497,8 +507,10 @@ foreach(@sentences) {
               return $cached_filename;
             }
 
+            print "************** $ebookCmdBase \n";
             # Only fork if there is work to do
-            if((! -f $cached_filename) || (!$no_repeat_morse && $word_limit == -1 && $repeat_part ne $sentence_part && (! -f $cached_repeat_filename))) {
+            if((! -f $cached_filename) || (!$no_repeat_morse && $word_limit == -1 &&
+                ($repeat_part ne $sentence_part || ($character_multiplier ne "1" && $standard_speed_repeat != 0)) && (! -f $cached_repeat_filename))) {
               my $pid = fork();
               die if not defined $pid;
               if ($pid) {
@@ -533,16 +545,21 @@ foreach(@sentences) {
                 }
 
                 # generate repeat section if it is different than the sentence
-                if (!$no_repeat_morse && $word_limit == -1 && $repeat_part ne $sentence_part && (!-f $cached_repeat_filename)) {
+                if (!$no_repeat_morse && $word_limit == -1 && ($repeat_part ne $sentence_part || ($character_multiplier ne "1" && $standard_speed_repeat != 0))
+                    && (!-f $cached_repeat_filename)) {
                   open(my $fh_repeat, '>', "$output_directory/sentence-repeat.txt");
                   print $fh_repeat "$repeat_part\n";
                   close $fh_repeat;
 
-                  $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-repeat-${speed} $output_directory/sentence-repeat.txt";
+                  my $ebookCmdBase_for_repeat = $ebookCmdBase;
+                  if($character_multiplier ne "1" && $standard_speed_repeat != 0) {
+                    $ebookCmdBase_for_repeat =~ s/-m \d+//;
+                  }
+                  $ebookCmd = $ebookCmdBase_for_repeat . "-o $output_directory/sentence-repeat-${speed} $output_directory/sentence-repeat.txt";
                   # print "cmd-8: $ebookCmd\n";
                   system($ebookCmd) == 0 or die "ERROR 8: $cmd failed, $!\n";
 
-                  unlink "$output_directory/sentence-repeat-lower-volume-$speed.mp3" if (-f "$output_directory.sentence-repeat-lower-volume-$speed.mp3");
+                  unlink "$output_directory/sentence-repeat-lower-volume-$speed.mp3" if (-f "$output_directory/sentence-repeat-lower-volume-$speed.mp3");
 
                   $cmd = sprintf('ffmpeg -i ' . $output_directory . '/sentence-repeat-%d0000.mp3 -filter:a "volume=0.5" ' . $output_directory . '/sentence-repeat-lower-volume-%d.mp3', $speed, $speed);
                   # print "cmd-9: $cmd\n";
@@ -884,6 +901,7 @@ sub print_usage {
   print "    -c, --cache          directory to use for cache specific files\n";
   print "    -s, --speeds         list of speeds in WPM. example -s 15 17 20 25/10 (Farnsworth specified as character_speed/overall_speed)\n";
   print "    --charactermultiplier Special character spacing multiplier\n";
+  print "    --standardspeedrepeat For use only with --charactermultiplier. Uses non Farnsworth speed on the repeat.\n";
   print "    -p, --pitchtone      tone in Hz for pitch. Default 700\n";
   print "    -pr, --pitchrandom   random pitch tone from range [500-900] Hz with step 50 Hz for every practice trial.\n";
   print "    -m, --maxprocs       maximum number of parallel processes to run\n";
