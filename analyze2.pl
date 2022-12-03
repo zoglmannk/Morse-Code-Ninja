@@ -84,6 +84,7 @@ sub unencoded_speak {
     my $encoded_speak = $_[0];
     my $ret = "";
 
+    $encoded_speak =~ s/<prosody\ rate=".*?">|<\/prosody>|<break\ time=".*"\/>/ /g;
     if($encoded_speak =~ m/<speak>.*?>([A-Za-z\s]+)<.*?<\/speak>/) {
         while($encoded_speak =~ m/>([A-Za-z\s,\\\.]+)</) {
             $ret .= $1;
