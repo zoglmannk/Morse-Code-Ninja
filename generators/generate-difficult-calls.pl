@@ -7,16 +7,34 @@ use Cwd;
 # cd ../; ./render.pl -i difficult-calls.txt -s 15 17 20 22 25 28 30 35 40 45 50 --sm 2
 
 my @difficult_calls;
-my $num_random_calls = 1000;
+my $num_random_calls = 1500;
 
+# awk -F, '/^[^AWK\/]+[^\/]+$/ && $1 ~ /^[A-Z0-9]+$/ { print $1}' callsigns.txt | gshuf | gshuf | gshuf | gshuf | gshuf | gshuf | gshuf | tail -n 500 | sort > ~/git/Morse-Code-Ninja/generators/data/dx-callsigns.txt
+# awk -F, '{ print $1 }' callsigns.txt | grep '/' | gshuf | gshuf | gshuf | gshuf | gshuf | gshuf | gshuf | tail -n 1000 | sort > ~/git/Morse-Code-Ninja/generators/data/difficult-callsigns.txt
 
 open(my $READ_FH, '<', "data/difficult-callsigns.txt") or die $!;
-
 while(<$READ_FH>) {
     my $call = $_;
     chomp($call);
     push @difficult_calls, $call;
 }
+close($READ_FH);
+
+# Only read 25% of standard DX callsigns in relative to the difficult callsigns
+my $num_to_read = int(scalar(@difficult_calls) * 0.25);
+my @difficult_modifiers = ("/M", "/MM", "/QRP");
+open(my $READ_FH, '<', "data/dx-callsigns.txt") or die $!;
+while(<$READ_FH>) {
+    my $call = $_;
+    chomp($call);
+    $call .= $difficult_modifiers[int(rand(scalar(@difficult_modifiers)))];
+    push @difficult_calls, $call;
+    $num_to_read--;
+    if($num_to_read <= 0) {
+        last;
+    }
+}
+close($READ_FH);
 
 my $top_x_calls = scalar @difficult_calls;
 my %prev_picked;

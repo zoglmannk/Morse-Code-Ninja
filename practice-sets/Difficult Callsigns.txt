@@ -1,1000 +1,1498 @@
-UA6I/UA6BGB [U A 6, I, slash, U A 6, B G B] ^
-HL1/AA9MA [H L 1, slash, A A 9, M A] ^
-OA4/DL1NL [O A 4, slash, D L 1, N L] ^
-HB0/F5RAV/P [H B zero, slash, F 5, R A V, slash, P] ^
-UW33OF/P [U W 3, 3, O F, slash, P] ^
-ID9/IZ4JMA [I D 9, slash, I Z 4, J M A] ^
-GM3RCV/P [G M 3, R C V, slash, P] ^
-3W2LI/DL5MAE [3 W 2, L I, slash, D L 5, M A E] ^
-V5/OE6UVG [V 5, slash, O E 6, U V G] ^
-4W/JJ1JJJ [4 W, slash, J J 1, J J J] ^
-JT1DBS/3 [J T 1, D B S, slash, 3] ^
-OH/SQ2KLZ [O H, slash, S Q 2, K L Z] ^
-JF6YME/6 [J F 6, Y M E, slash, 6] ^
-MM0BLF/P [M M zero, B L F, slash, P] ^
-SM1/DL3KWF [S M 1, slash, D L 3, K W F] ^
-SV9/LA9GY [S V 9, slash, L A 9, G Y] ^
-5Z4/VE2FTT [5 Z 4, slash, V E 2, F T T] ^
-TK/F1BLQ/P [T K, slash, F 1, B L Q, slash, P] ^
-RW6HJV/1 [R W 6, H J V, slash, 1] ^
-5N/KT3Q [5 N, slash, K T 3, Q] ^
-IE9/IK4MED [I E 9, slash, I K 4, M E D] ^
-4X3000/4X1BD [4 X 3, zero, zero, zero, slash, 4, X 1, B D] ^
-IA5/IZ2LTW [I A 5, slash, I Z 2, L T W] ^
-N2OO/VP9 [N 2, O O, slash, V P 9] ^
-VY2/KJ6Y [V Y 2, slash, K J 6, Y] ^
-CT8/DJ7ZG [C T 8, slash, D J 7, Z G] ^
-5B/G0SGB [5 B, slash, G zero, S G B] ^
-EA6/DL5DF [E A 6, slash, D L 5, D F] ^
-OH3JR/VP9 [O H 3, J R, slash, V P 9] ^
-TI8/W5AA [T I 8, slash, W 5, A A] ^
-CT3/TF3CW [C T 3, slash, T F 3, C W] ^
-PJ2/W1SSR [P J 2, slash, W 1, S S R] ^
-RX6LMQ/0 [R X 6, L M Q, slash, zero] ^
-CT9/G0TSM [C T 9, slash, G zero, T S M] ^
-J6/WR3Y [J 6, slash, W R 3, Y] ^
-BA4DW/4 [B A 4, D W, slash, 4] ^
-OK/SP7VC [O K, slash, S P 7, V C] ^
-HK0/AA5AU [H K zero, slash, A A 5, A U] ^
-E7/SQ1KSA [E 7, slash, S Q 1, K S A] ^
-LA/DL5RMH [L A, slash, D L 5, R M H] ^
-W9VW/B [W 9, V W, slash, B] ^
+6W/F6BUM [6 W, slash, F 6, B U M] ^
+C6AGX/QRP [C 6, A G X, slash, Q R P] ^
+PJ2/K1ZN [P J 2, slash, K 1, Z N] ^
+EA9/HA3DA [E A 9, slash, H A 3, D A] ^
+3B8/F5TNI [3 B 8, slash, F 5, T N I] ^
+EA8/DG6FDV [E A 8, slash, D G 6, F D V] ^
+V4/W1USN [V 4, slash, W 1, U S N] ^
+FY/F5UOW [F Y, slash, F 5, U O W] ^
+TF/M0VFC/P [T F, slash, M zero, V F C, slash, P] ^
+PT7WA/PY0F [P T 7, W A, slash, P Y zero, F] ^
+MU/PA3BAG [M U, slash, P A 3, B A G] ^
+II4G/QRP [I I 4, G, slash, Q R P] ^
+IW3IAC/MM [I W 3, I A C, slash, M M] ^
+ID9/IT9RKR [I D 9, slash, I T 9, R K R] ^
+F/ON7PQ/P [F, slash, O N 7, P Q, slash, P] ^
+6W/DL7CM [6 W, slash, D L 7, C M] ^
+J6/W0SA [J 6, slash, W zero, S A] ^
 FR/DL1RPL [F R, slash, D L 1, R P L] ^
-OY/SP7VC [O Y, slash, S P 7, V C] ^
-I2/OZ7BQ [I 2, slash, O Z 7, B Q] ^
-OZ/DK2BR [O Z, slash, D K 2, B R] ^
-OH8UV/3 [O H 8, U V, slash, 3] ^
-HP1/LA5IIA [H P 1, slash, L A 5, I I A] ^
-OH8UV/4 [O H 8, U V, slash, 4] ^
-OH0/OK1AMM [O H zero, slash, O K 1, A M M] ^
-MJ/EA1SA [M J, slash, E A 1, S A] ^
-YO/HA5TAA [Y O, slash, H A 5, T A A] ^
-BA4RSA/4 [B A 4, R S A, slash, 4] ^
-PJ2/RW0CN [P J 2, slash, R W zero, C N] ^
-IT9HBS/P [I T 9, H B S, slash, P] ^
-VY2/N1SNB [V Y 2, slash, N 1, S N B] ^
-LU2ERA/Z [L U 2, E R A, slash, Z] ^
-8P6/EA3GUO [8 P 6, slash, E A 3, G U O] ^
-IN3/HB9LCW [I N 3, slash, H B 9, L C W] ^
-VY2/WW4GA [V Y 2, slash, W W 4, G A] ^
 PJ6/N7QT [P J 6, slash, N 7, Q T] ^
-PJ2/N4GG [P J 2, slash, N 4, G G] ^
-F/ON5SY [F, slash, O N 5, S Y] ^
-UE3YPP/P [U E 3, Y P P, slash, P] ^
-A6/YO3FRI [A 6, slash, Y O 3, F R I] ^
-VP5M/VP2EBM [V P 5, M, slash, V P 2, E B M] ^
-TI9/RA9USU [T I 9, slash, R A 9, U S U] ^
-W1USN/TI5 [W 1, U S N, slash, T I 5] ^
-IW9FRB/P [I W 9, F R B, slash, P] ^
+J8/WA2VUY [J 8, slash, W A 2, V U Y] ^
 4X/WB4FSV [4 X, slash, W B 4, F S V] ^
-WN2NSX/W2N [W N 2, N S X, slash, W 2, N] ^
-HA802VR/P [H A 8, zero, 2, V R, slash, P] ^
-VP2M/WB3FSB [V P 2, M, slash, W B 3, F S B] ^
-OZ/MM0NDX [O Z, slash, M M zero, N D X] ^
-W1AW/3 [W 1, A W, slash, 3] ^
-LX/PA3FYG/P [L X, slash, P A 3, F Y G, slash, P] ^
-ZB/DL4WK [Z B, slash, D L 4, W K] ^
-3A/AI5P [3 A, slash, A I 5, P] ^
-5B4/K3UY [5 B 4, slash, K 3, U Y] ^
-5B4/KC9UUS [5 B 4, slash, K C 9, U U S] ^
-PJ4/N2BA [P J 4, slash, N 2, B A] ^
-KH0/W2HS [K H zero, slash, W 2, H S] ^
-VP9/VE7YBH [V P 9, slash, V E 7, Y B H] ^
-ES0/OH7KA [E S zero, slash, O H 7, K A] ^
-IG9/IW9GVP [I G 9, slash, I W 9, G V P] ^
-R0/UT5IA [R zero, slash, U T 5, I A] ^
-LA3SRK/P [L A 3, S R K, slash, P] ^
+HB9/GM0GAV/P [H B 9, slash, G M zero, G A V, slash, P] ^
+LW7DMM/M [L W 7, D M M, slash, M] ^
 HI7/RO5D [H I 7, slash, R O 5, D] ^
-4L/AJ3M [4 L, slash, A J 3, M] ^
+ZL/AI5P [Z L, slash, A I 5, P] ^
+MJ/DH8SL [M J, slash, D H 8, S L] ^
+BV4IP/2 [B V 4, I P, slash, 2] ^
+PP5/DL6FBL [P P 5, slash, D L 6, F B L] ^
+IS0/OL0A [I S zero, slash, O L zero, A] ^
+4O6A/5B4 [4 O 6, A, slash, 5, B 4] ^
+I2ADN/IG9 [I 2, A D N, slash, I G 9] ^
+LU1NAT/QRP [L U 1, N A T, slash, Q R P] ^
+GW8K/P [G W 8, K, slash, P] ^
+I2JJR/6 [I 2, J J R, slash, 6] ^
+AI5P/KH8 [A I 5, P, slash, K H 8] ^
+LA5LRA/QRP [L A 5, L R A, slash, Q R P] ^
+JA6TNY/0 [J A 6, T N Y, slash, zero] ^
+IE9/I5HLK [I E 9, slash, I 5, H L K] ^
+MU/DL3GA/P [M U, slash, D L 3, G A, slash, P] ^
+CT8/ZS4TX [C T 8, slash, Z S 4, T X] ^
+DL2LDE/QRP [D L 2, L D E, slash, Q R P] ^
+KL0KB/N7UV [K L zero, K B, slash, N 7, U V] ^
+EB4CVG/MM [E B 4, C V G, slash, M M] ^
+DS17DNO/5 [D S 1, 7, D N O, slash, 5] ^
+TI5/AB2E [T I 5, slash, A B 2, E] ^
+HK3/UA4WHX [H K 3, slash, U A 4, W H X] ^
+CT8/DJ7JC [C T 8, slash, D J 7, J C] ^
+V5/ZS6EGB [V 5, slash, Z S 6, E G B] ^
+SV8/ON4BB [S V 8, slash, O N 4, B B] ^
+II8LH/7 [I I 8, L H, slash, 7] ^
+KB4CNL//N4 [K B 4, C N L, slash, slash, N 4] ^
+RP3L/P [R P 3, L, slash, P] ^
+JW/OZ7AM [J W, slash, O Z 7, A M] ^
+KR1V/KH0 [K R 1, V, slash, K H zero] ^
+JE3RXG/MM [J E 3, R X G, slash, M M] ^
+ES1RA/1 [E S 1, R A, slash, 1] ^
+S5/SP7VC [S 5, slash, S P 7, V C] ^
+EA9/HA1AG [E A 9, slash, H A 1, A G] ^
+HB9/OE6HLF/P [H B 9, slash, O E 6, H L F, slash, P] ^
 OE/LY5W [O E, slash, L Y 5, W] ^
-VY0/KC0VEU [V Y zero, slash, K C zero, V E U] ^
+DL4HH/QRP [D L 4, H H, slash, Q R P] ^
+SV5/DL6RAI [S V 5, slash, D L 6, R A I] ^
+OZ/MM0NDX [O Z, slash, M M zero, N D X] ^
+SX100SEP/5 [S X 1, zero, zero, S E P, slash, 5] ^
+HC2ANT/8 [H C 2, A N T, slash, 8] ^
+LU6FMR/MM [L U 6, F M R, slash, M M] ^
+YV8BS/6 [Y V 8, B S, slash, 6] ^
+DO4DOR/MM [D O 4, D O R, slash, M M] ^
+CT9/OK1VWK/P [C T 9, slash, O K 1, V W K, slash, P] ^
+YV5JVT/2 [Y V 5, J V T, slash, 2] ^
+OX/DC8TM/P [O X, slash, D C 8, T M, slash, P] ^
+V55V/P [V 5, 5, V, slash, P] ^
+8J1MORSE/2 [8 J 1, M O R S E, slash, 2] ^
+5Z4/EA4ATI [5 Z 4, slash, E A 4, A T I] ^
+HP1/AI5P [H P 1, slash, A I 5, P] ^
+7N4AGB/JD1 [7 N 4, A G B, slash, J D 1] ^
+5N6EAM/7 [5 N 6, E A M, slash, 7] ^
+PZ1/W6KG [P Z 1, slash, W 6, K G] ^
+SV/DH7IF/P [S V, slash, D H 7, I F, slash, P] ^
+DG4YIA/QRP [D G 4, Y I A, slash, Q R P] ^
+SV8/DK8NT [S V 8, slash, D K 8, N T] ^
+EB7BQS/MM [E B 7, B Q S, slash, M M] ^
+RH7W/UA4FDS [R H 7, W, slash, U A 4, F D S] ^
+EA7EUO/QRP [E A 7, E U O, slash, Q R P] ^
+GW4BRS/P [G W 4, B R S, slash, P] ^
+9A/IZ4BBF [9 A, slash, I Z 4, B B F] ^
+VA3DYD/HR3 [V A 3, D Y D, slash, H R 3] ^
+TK/S53F [T K, slash, S 5, 3, F] ^
+PY0F/PT7BSH [P Y zero, F, slash, P T 7, B S H] ^
+LU5CBA/MM [L U 5, C B A, slash, M M] ^
+4G1MWJ/MM [4 G 1, M W J, slash, M M] ^
+IK0REW/MM [I K zero, R E W, slash, M M] ^
+PJ2/K4BAI [P J 2, slash, K 4, B A I] ^
+TF/G3TXF [T F, slash, G 3, T X F] ^
+DK1GC/M [D K 1, G C, slash, M] ^
+JW/SE5E [J W, slash, S E 5, E] ^
+SV9/G4VXE [S V 9, slash, G 4, V X E] ^
+HL5GZ/M [H L 5, G Z, slash, M] ^
+GC4BRS/P [G C 4, B R S, slash, P] ^
+RI1ANF/P [R I 1, A N F, slash, P] ^
+EA6/DC2KF [E A 6, slash, D C 2, K F] ^
+OH0/OH1XFE [O H zero, slash, O H 1, X F E] ^
+SV9/G4LDL [S V 9, slash, G 4, L D L] ^
+EN23IX/P [E N 2, 3, I X, slash, P] ^
+5B4/G3NOM [5 B 4, slash, G 3, N O M] ^
+PA65DUIN/J [P A 6, 5, D U I N, slash, J] ^
+PJ2/DK3DM [P J 2, slash, D K 3, D M] ^
+N1ESU/M [N 1, E S U, slash, M] ^
+MU5RIC/P [M U 5, R I C, slash, P] ^
+SV9/LA9GY [S V 9, slash, L A 9, G Y] ^
+HH2/KC2YUG [H H 2, slash, K C 2, Y U G] ^
+J6/W2LNX [J 6, slash, W 2, L N X] ^
+EA8/DF4NW [E A 8, slash, D F 4, N W] ^
+PJ2/AL7BA [P J 2, slash, A L 7, B A] ^
+VK3HET/9 [V K 3, H E T, slash, 9] ^
+JR4UDE/1 [J R 4, U D E, slash, 1] ^
+JS6ROO/5 [J S 6, R O O, slash, 5] ^
+KW7MM/VY2 [K W 7, M M, slash, V Y 2] ^
+F/M0XDF/P [F, slash, M zero, X D F, slash, P] ^
+4X/R1CC [4 X, slash, R 1, C C] ^
+FO/K4UEE [F O, slash, K 4, U E E] ^
+OA4/DL9FAW [O A 4, slash, D L 9, F A W] ^
+JW/W2NAF [J W, slash, W 2, N A F] ^
+TK/DL3SCA/P [T K, slash, D L 3, S C A, slash, P] ^
+ZL/GD3OOK [Z L, slash, G D 3, O O K] ^
+UE6FFF/6 [U E 6, F F F, slash, 6] ^
+DW8AMU/MM [D W 8, A M U, slash, M M] ^
+FS/W5LAC [F S, slash, W 5, L A C] ^
+FK/JK1KSB [F K, slash, J K 1, K S B] ^
+EA6/EA5BTL [E A 6, slash, E A 5, B T L] ^
+S21/VA7DZ [S 2, 1, slash, V A 7, D Z] ^
+KH2/W2VR [K H 2, slash, W 2, V R] ^
+CX4CT/QRP [C X 4, C T, slash, Q R P] ^
+PJ5/KC8RXT [P J 5, slash, K C 8, R X T] ^
+G0IZG/MM [G zero, I Z G, slash, M M] ^
+KL7/ON7HJA [K L 7, slash, O N 7, H J A] ^
+DU1WQY/8 [D U 1, W Q Y, slash, 8] ^
+CE3/SQ1DWR [C E 3, slash, S Q 1, D W R] ^
+FR/F5TXW [F R, slash, F 5, T X W] ^
+IT9/OK1DDR [I T 9, slash, O K 1, D D R] ^
+RU4F/UM9MWB [R U 4, F, slash, U M 9, M W B] ^
+VP5/K2HYD [V P 5, slash, K 2, H Y D] ^
+G8BZT/QRP [G 8, B Z T, slash, Q R P] ^
+3W2LI/DL5MAE [3 W 2, L I, slash, D L 5, M A E] ^
+F5JNE/P [F 5, J N E, slash, P] ^
+LU4CAM/QRP [L U 4, C A M, slash, Q R P] ^
+ZL1CT/MM [Z L 1, C T, slash, M M] ^
+OK/DL8RL/P [O K, slash, D L 8, R L, slash, P] ^
+HB0/OE6ETF [H B zero, slash, O E 6, E T F] ^
+EA8/F6BED [E A 8, slash, F 6, B E D] ^
+OH9/DL2RVL/P [O H 9, slash, D L 2, R V L, slash, P] ^
+PJ4/EA1PP [P J 4, slash, E A 1, P P] ^
+9K2/SU3AM [9 K 2, slash, S U 3, A M] ^
+EA8/SM6DYK [E A 8, slash, S M 6, D Y K] ^
+6Y5/VE4XT [6 Y 5, slash, V E 4, X T] ^
+TA3/DK3KD [T A 3, slash, D K 3, K D] ^
+MD/SQ9I [M D, slash, S Q 9, I] ^
+G4PZN/M [G 4, P Z N, slash, M] ^
+EA8/8S8L [E A 8, slash, 8, S 8, L] ^
+VP5/W8ERI [V P 5, slash, W 8, E R I] ^
+VY0/AH6EZ [V Y zero, slash, A H 6, E Z] ^
+G4XBZ/MM [G 4, X B Z, slash, M M] ^
+N7ET/DU7 [N 7, E T, slash, D U 7] ^
+T9/SQ6MS [T 9, slash, S Q 6, M S] ^
+GS3PYE/P [G S 3, P Y E, slash, P] ^
+UT2VU/DU7 [U T 2, V U, slash, D U 7] ^
+SM/OZ5IPA [S M, slash, O Z 5, I P A] ^
+GW0DRS/MM [G W zero, D R S, slash, M M] ^
+OY/SP7VC [O Y, slash, S P 7, V C] ^
+EA4EAI/M [E A 4, E A I, slash, M] ^
+LZ1JI/M [L Z 1, J I, slash, M] ^
+LA/LX9EG/P [L A, slash, L X 9, E G, slash, P] ^
+OZ7MOR/P [O Z 7, M O R, slash, P] ^
+TK/OK1LX [T K, slash, O K 1, L X] ^
+CE0Y/SM0OTG [C E zero, Y, slash, S M zero, O T G] ^
+LA/DL5RMH [L A, slash, D L 5, R M H] ^
+A6/YO3FRI [A 6, slash, Y O 3, F R I] ^
+FS/W3ARS [F S, slash, W 3, A R S] ^
+IG9/IW9GVP [I G 9, slash, I W 9, G V P] ^
+M3DKD/M [M 3, D K D, slash, M] ^
+FR/W8MV [F R, slash, W 8, M V] ^
+CU2/DL3FF [C U 2, slash, D L 3, F F] ^
+FO/WB2REM [F O, slash, W B 2, R E M] ^
+9A/OE1WSA [9 A, slash, O E 1, W S A] ^
+DJ0QJ/SU [D J zero, Q J, slash, S U] ^
+PY0/PP1CZ [P Y zero, slash, P P 1, C Z] ^
+ES5/IT9RGY [E S 5, slash, I T 9, R G Y] ^
+LU4FCR/M [L U 4, F C R, slash, M] ^
+IZ4OUI/M [I Z 4, O U I, slash, M] ^
+G7GKQ/QRP [G 7, G K Q, slash, Q R P] ^
+SM/K4AZQ [S M, slash, K 4, A Z Q] ^
+OZ/IK1PMR [O Z, slash, I K 1, P M R] ^
+KP4/HB9WDF [K P 4, slash, H B 9, W D F] ^
+F/HB9RM [F, slash, H B 9, R M] ^
+HC8/UZ1HZ [H C 8, slash, U Z 1, H Z] ^
+ZB/DL4WK [Z B, slash, D L 4, W K] ^
+LU4HKW/MM [L U 4, H K W, slash, M M] ^
+YB9/AF1VL [Y B 9, slash, A F 1, V L] ^
+TK/OO4O [T K, slash, O O 4, O] ^
+4O/YO3JW/M [4 O, slash, Y O 3, J W, slash, M] ^
+CP6OU/M [C P 6, O U, slash, M] ^
+OH0HG/2 [O H zero, H G, slash, 2] ^
+EB3DQY/M [E B 3, D Q Y, slash, M] ^
+SV5/W6QL [S V 5, slash, W 6, Q L] ^
+DU3EVG/QRP [D U 3, E V G, slash, Q R P] ^
+EG90IARU/# [E G 9, zero, I A R U, slash, #] ^
+R3RU/P [R 3, R U, slash, P] ^
+G0WQS/QRP [G zero, W Q S, slash, Q R P] ^
+OA4BHY/6 [O A 4, B H Y, slash, 6] ^
+G6DZM/QRP [G 6, D Z M, slash, Q R P] ^
+BA4DW/4 [B A 4, D W, slash, 4] ^
+TF/EI9FBB [T F, slash, E I 9, F B B] ^
+LU2DKW/QRP [L U 2, D K W, slash, Q R P] ^
+SV2/SV7CUD [S V 2, slash, S V 7, C U D] ^
+AH6KY/KH0 [A H 6, K Y, slash, K H zero] ^
+N1DMU/QRP [N 1, D M U, slash, Q R P] ^
+HL2DDU/M [H L 2, D D U, slash, M] ^
+R2/DK8LV [R 2, slash, D K 8, L V] ^
+CE9/R3CA [C E 9, slash, R 3, C A] ^
+KC4/W3WKP [K C 4, slash, W 3, W K P] ^
+LU8GAW/QRP [L U 8, G A W, slash, Q R P] ^
+9A/N0MX [9 A, slash, N zero, M X] ^
+M0MNV/P [M zero, M N V, slash, P] ^
+TK/F1BLQ/P [T K, slash, F 1, B L Q, slash, P] ^
+OH7JHA/P [O H 7, J H A, slash, P] ^
+OK/SP7VC [O K, slash, S P 7, V C] ^
+M3AKH/M [M 3, A K H, slash, M] ^
+HB0/N2WB [H B zero, slash, N 2, W B] ^
+IW0HPT/M [I W zero, H P T, slash, M] ^
+KL7SB/VP9 [K L 7, S B, slash, V P 9] ^
+DG9NGO/QRP [D G 9, N G O, slash, Q R P] ^
+G1UYA/M [G 1, U Y A, slash, M] ^
+IF9/IU2HDO [I F 9, slash, I U 2, H D O] ^
+TK/DJ8QP [T K, slash, D J 8, Q P] ^
+MU/RL5D [M U, slash, R L 5, D] ^
+CT1EMR/QRP [C T 1, E M R, slash, Q R P] ^
+KH2/DK2ZF [K H 2, slash, D K 2, Z F] ^
+9M6/NR1J [9 M 6, slash, N R 1, J] ^
+2E0IOS/M [2 E zero, I O S, slash, M] ^
+VE9/KD2JA [V E 9, slash, K D 2, J A] ^
+A25/G3HCT [A 2, 5, slash, G 3, H C T] ^
+SM1/DL2GLA [S M 1, slash, D L 2, G L A] ^
+SV8/HA5RT [S V 8, slash, H A 5, R T] ^
+CT8/DJ7ZG [C T 8, slash, D J 7, Z G] ^
+SO6AD/9 [S O 6, A D, slash, 9] ^
+TI5/N3KS [T I 5, slash, N 3, K S] ^
+N1CLC/MM [N 1, C L C, slash, M M] ^
+4W/DJ2EH [4 W, slash, D J 2, E H] ^
+IM0/OE5FSM [I M zero, slash, O E 5, F S M] ^
+F/JR1PIV [F, slash, J R 1, P I V] ^
+DL8JB/M [D L 8, J B, slash, M] ^
+LA3SRK/P [L A 3, S R K, slash, P] ^
+LX/ON5QRP [L X, slash, O N 5, Q R P] ^
+J8/EA3GUO [J 8, slash, E A 3, G U O] ^
+EA5ASM/P [E A 5, A S M, slash, P] ^
+LU7EZ/MM [L U 7, E Z, slash, M M] ^
+JW/UA3IPL [J W, slash, U A 3, I P L] ^
+DL/G3VQO [D L, slash, G 3, V Q O] ^
+VK9/OH3JR [V K 9, slash, O H 3, J R] ^
+IK2XYN/EA8 [I K 2, X Y N, slash, E A 8] ^
+F/7N3CNQ [F, slash, 7, N 3, C N Q] ^
+FB1AYD/QRP [F B 1, A Y D, slash, Q R P] ^
+J6/JA7KAC [J 6, slash, J A 7, K A C] ^
+V5/OE6UVG [V 5, slash, O E 6, U V G] ^
+OD5/IW0GXY [O D 5, slash, I W zero, G X Y] ^
+I2/N4ZC [I 2, slash, N 4, Z C] ^
+EI/IW3FWT [E I, slash, I W 3, F W T] ^
+IJ7/IZ7LDC [I J 7, slash, I Z 7, L D C] ^
+3B8/RX3DD [3 B 8, slash, R X 3, D D] ^
+TA4/DK7PE [T A 4, slash, D K 7, P E] ^
+JS6RRR/KH2 [J S 6, R R R, slash, K H 2] ^
+MD/DL1RTL [M D, slash, D L 1, R T L] ^
+JG1RHF/M [J G 1, R H F, slash, M] ^
+FS/SP3IPB [F S, slash, S P 3, I P B] ^
+FR/DJ9RR [F R, slash, D J 9, R R] ^
+PJ5/K1XM [P J 5, slash, K 1, X M] ^
+EA8/DL7JTZ [E A 8, slash, D L 7, J T Z] ^
+TK/IZ2ESV [T K, slash, I Z 2, E S V] ^
+LW4EHI/QRP [L W 4, E H I, slash, Q R P] ^
+PJ4/N2NG [P J 4, slash, N 2, N G] ^
+YO/HA5TAA [Y O, slash, H A 5, T A A] ^
+IK3RET/M [I K 3, R E T, slash, M] ^
+HP/W1USN [H P, slash, W 1, U S N] ^
+J3/KO8SCA [J 3, slash, K O 8, S C A] ^
+R3RRC/0 [R 3, R R C, slash, zero] ^
+FK8DD/M [F K 8, D D, slash, M] ^
+IU5ONU/P [I U 5, O N U, slash, P] ^
+ON3VTA/MILL [O N 3, V T A, slash, M I L L] ^
+4O/OM7YC [4 O, slash, O M 7, Y C] ^
+9A/IV3PUT [9 A, slash, I V 3, P U T] ^
+DN2UK/MM [D N 2, U K, slash, M M] ^
+VK3ILH/7 [V K 3, I L H, slash, 7] ^
+EB5AYO/QRP [E B 5, A Y O, slash, Q R P] ^
+9A/PD0EMR [9 A, slash, P D zero, E M R] ^
+DL/SP1FM/P [D L, slash, S P 1, F M, slash, P] ^
+P4/VE7QC [P 4, slash, V E 7, Q C] ^
+LU3XYL/XP [L U 3, X Y L, slash, X P] ^
+5B/R7LP [5 B, slash, R 7, L P] ^
+UI7T/UA4HVV [U I 7, T, slash, U A 4, H V V] ^
+SV5/N2OO [S V 5, slash, N 2, O O] ^
+BY1TX/4 [B Y 1, T X, slash, 4] ^
+E4/IW0FQZ [E 4, slash, I W zero, F Q Z] ^
+HK3JBR/1 [H K 3, J B R, slash, 1] ^
+HC4VN/M [H C 4, V N, slash, M] ^
+FG/F5HRY [F G, slash, F 5, H R Y] ^
+YF1AR/4 [Y F 1, A R, slash, 4] ^
+PJ5/DL7VOG [P J 5, slash, D L 7, V O G] ^
+EA1/ON4LO/P [E A 1, slash, O N 4, L O, slash, P] ^
+DL3MDD/MM [D L 3, M D D, slash, M M] ^
+ES0/OH7KA [E S zero, slash, O H 7, K A] ^
+5B4/K3UY [5 B 4, slash, K 3, U Y] ^
+TA/IZ5KID [T A, slash, I Z 5, K I D] ^
+VE/TF3LJ [V E, slash, T F 3, L J] ^
+EA3BT/EA6 [E A 3, B T, slash, E A 6] ^
+GB3VHF/B [G B 3, V H F, slash, B] ^
+EA8/DL2KWW [E A 8, slash, D L 2, K W W] ^
+OE/DL8DXL/P [O E, slash, D L 8, D X L, slash, P] ^
+OZ/DK7AO [O Z, slash, D K 7, A O] ^
+IL7/IZ0CCB [I L 7, slash, I Z zero, C C B] ^
+A7/MW0BRO [A 7, slash, M W zero, B R O] ^
+J3/PA7FM [J 3, slash, P A 7, F M] ^
+5Z4/UA4WHX/A [5 Z 4, slash, U A 4, W H X, slash, A] ^
+9A/IK5WWA [9 A, slash, I K 5, W W A] ^
+R1FJ/UA0ABO [R 1, F J, slash, U A zero, A B O] ^
+HR6/N7QXQ [H R 6, slash, N 7, Q X Q] ^
+N2GHZ/C6A [N 2, G H Z, slash, C 6, A] ^
+VP2V/W5PF [V P 2, V, slash, W 5, P F] ^
+V4/KB1EHE [V 4, slash, K B 1, E H E] ^
+HH2/LA5IIA [H H 2, slash, L A 5, I I A] ^
+PJ5/K3TRM [P J 5, slash, K 3, T R M] ^
+OH0/OZ3FG [O H zero, slash, O Z 3, F G] ^
+FP/K1TOL [F P, slash, K 1, T O L] ^
+DL1EH/M [D L 1, E H, slash, M] ^
+KP2/W3AVO [K P 2, slash, W 3, A V O] ^
+2E1JHT/QRP [2 E 1, J H T, slash, Q R P] ^
+EA7FTX/M [E A 7, F T X, slash, M] ^
+IW4BFW/QRP [I W 4, B F W, slash, Q R P] ^
+HB0/ON4IPA [H B zero, slash, O N 4, I P A] ^
+YD8TYC/P [Y D 8, T Y C, slash, P] ^
+TI9/RA9USU [T I 9, slash, R A 9, U S U] ^
+PY7TDX/P [P Y 7, T D X, slash, P] ^
+SP/CT1CJJ [S P, slash, C T 1, C J J] ^
+3A/F8BBL [3 A, slash, F 8, B B L] ^
+DK2RMP/P [D K 2, R M P, slash, P] ^
+UT/OL5DIG/P [U T, slash, O L 5, D I G, slash, P] ^
+SV9/OZ7AM [S V 9, slash, O Z 7, A M] ^
+LY/4X4FC/LH [L Y, slash, 4, X 4, F C, slash, L H] ^
+4O/RL3BX [4 O, slash, R L 3, B X] ^
+FR5AI/E [F R 5, A I, slash, E] ^
+VU4AN/VU3NZC [V U 4, A N, slash, V U 3, N Z C] ^
+ID9/IZ4JMA [I D 9, slash, I Z 4, J M A] ^
+TI8/AA8HH [T I 8, slash, A A 8, H H] ^
+SV8/IW0HQU [S V 8, slash, I W zero, H Q U] ^
+EA4BOE/MM [E A 4, B O E, slash, M M] ^
+JA3GJE/6 [J A 3, G J E, slash, 6] ^
+F6CHW/QRP [F 6, C H W, slash, Q R P] ^
+PJ2/WA4PGM [P J 2, slash, W A 4, P G M] ^
+LW9DVE/MM [L W 9, D V E, slash, M M] ^
+3A/SP7VC [3 A, slash, S P 7, V C] ^
+OH0/OK1AMM [O H zero, slash, O K 1, A M M] ^
+JI1FPO/JD1 [J I 1, F P O, slash, J D 1] ^
+SV9/G3SXW [S V 9, slash, G 3, S X W] ^
+YB9/JL3TOG [Y B 9, slash, J L 3, T O G] ^
+YV5SL/3 [Y V 5, S L, slash, 3] ^
+EG4MAA/MM [E G 4, M A A, slash, M M] ^
+SV8/DJ4EL/P [S V 8, slash, D J 4, E L, slash, P] ^
+LB5PD/M [L B 5, P D, slash, M] ^
+SV8/DL1EJD [S V 8, slash, D L 1, E J D] ^
+LU7EZZ/MM [L U 7, E Z Z, slash, M M] ^
+J3/KB9AVO [J 3, slash, K B 9, A V O] ^
+EA5FOW/M [E A 5, F O W, slash, M] ^
+YV5BGH/6 [Y V 5, B G H, slash, 6] ^
+9M9/7M2VPR [9 M 9, slash, 7, M 2, V P R] ^
 5B/DG1BH [5 B, slash, D G 1, B H] ^
+YV3ETI/2 [Y V 3, E T I, slash, 2] ^
+HI9/KI7VR [H I 9, slash, K I 7, V R] ^
+4X/SP7VC [4 X, slash, S P 7, V C] ^
+JQ6GXP/6 [J Q 6, G X P, slash, 6] ^
+EI/WJ2O/M [E I, slash, W J 2, O, slash, M] ^
+EI/W2RE [E I, slash, W 2, R E] ^
+SV9/DL2HTL [S V 9, slash, D L 2, H T L] ^
+OH0/OH5O [O H zero, slash, O H 5, O] ^
+F/RA6CST [F, slash, R A 6, C S T] ^
+9V1/W4LT [9 V 1, slash, W 4, L T] ^
+I6/IZ0MQN/P [I 6, slash, I Z zero, M Q N, slash, P] ^
+YV5OW/5 [Y V 5, O W, slash, 5] ^
+5B4/T93Y [5 B 4, slash, T 9, 3, Y] ^
+TI5/KD0EWB [T I 5, slash, K D zero, E W B] ^
+ES5/SP3SLU [E S 5, slash, S P 3, S L U] ^
+IC8/IW8EVR [I C 8, slash, I W 8, E V R] ^
+EA3GJE/QRP [E A 3, G J E, slash, Q R P] ^
+TG/DL1CW [T G, slash, D L 1, C W] ^
+CE3OIW/MM [C E 3, O I W, slash, M M] ^
+SV9/DM1OS [S V 9, slash, D M 1, O S] ^
+LU3AAL/R [L U 3, A A L, slash, R] ^
+F8DYD/P [F 8, D Y D, slash, P] ^
+EB7BLC/QRP [E B 7, B L C, slash, Q R P] ^
+TK/F2YT [T K, slash, F 2, Y T] ^
+HS8AC/P [H S 8, A C, slash, P] ^
+5B/G3UCQ [5 B, slash, G 3, U C Q] ^
+DL4MAS/MM [D L 4, M A S, slash, M M] ^
+J8/JA7SGV [J 8, slash, J A 7, S G V] ^
+R3/DL5EBE [R 3, slash, D L 5, E B E] ^
+DU1/SM5ENX [D U 1, slash, S M 5, E N X] ^
+DL1NYL/QRP [D L 1, N Y L, slash, Q R P] ^
+SM7/ON4DN [S M 7, slash, O N 4, D N] ^
+J3/AA1ON [J 3, slash, A A 1, O N] ^
+V5/UX0HX [V 5, slash, U X zero, H X] ^
+HB0/NZ1C [H B zero, slash, N Z 1, C] ^
+LX/DJ6OI [L X, slash, D J 6, O I] ^
+SV5/HB9OAU [S V 5, slash, H B 9, O A U] ^
+E7/YT2ED [E 7, slash, Y T 2, E D] ^
+EA7/EA3DKN/P [E A 7, slash, E A 3, D K N, slash, P] ^
+J6/N7DWL [J 6, slash, N 7, D W L] ^
+XE3/KU4GZ [X E 3, slash, K U 4, G Z] ^
+PJ7/WW4CP [P J 7, slash, W W 4, C P] ^
+DO5YZ/QRP [D O 5, Y Z, slash, Q R P] ^
+5H3YT/MM [5 H 3, Y T, slash, M M] ^
+F/DO1KJB [F, slash, D O 1, K J B] ^
+ED3NP/P [E D 3, N P, slash, P] ^
+MU0PCB/P [M U zero, P C B, slash, P] ^
+DU1/DK3GI [D U 1, slash, D K 3, G I] ^
+LA/DJ9DZ [L A, slash, D J 9, D Z] ^
+8R10USA/MM [8 R 1, zero, U S A, slash, M M] ^
+J3/M3VCQ [J 3, slash, M 3, V C Q] ^
+EA8/DL1GCY [E A 8, slash, D L 1, G C Y] ^
+5B4/KC9UUS [5 B 4, slash, K C 9, U U S] ^
+SV2/SV1NJW [S V 2, slash, S V 1, N J W] ^
+FO/N7SOF [F O, slash, N 7, S O F] ^
+LA4TEN/MM [L A 4, T E N, slash, M M] ^
+IG9/IW2NEF [I G 9, slash, I W 2, N E F] ^
+DC3YW/M [D C 3, Y W, slash, M] ^
+J6/WT4BT [J 6, slash, W T 4, B T] ^
+A91ND/45 [A 9, 1, N D, slash, 4, 5] ^
+KC7JEF/MM [K C 7, J E F, slash, M M] ^
+5H1JCH/3 [5 H 1, J C H, slash, 3] ^
+ES7RU/QRP [E S 7, R U, slash, Q R P] ^
+JA1JQY/JD1 [J A 1, J Q Y, slash, J D 1] ^
+HG5BPL/MM [H G 5, B P L, slash, M M] ^
+2E1CMR/QRP [2 E 1, C M R, slash, Q R P] ^
+5B/AJ2O [5 B, slash, A J 2, O] ^
+EI/SP6ICW [E I, slash, S P 6, I C W] ^
+WA6QAN/WA6 [W A 6, Q A N, slash, W A 6] ^
+EA6/DJ0IF [E A 6, slash, D J zero, I F] ^
+PJ2/W1SSR [P J 2, slash, W 1, S S R] ^
+TK/OE3JAG [T K, slash, O E 3, J A G] ^
+SV8/G3IZD [S V 8, slash, G 3, I Z D] ^
+LU9EYB/M [L U 9, E Y B, slash, M] ^
+S5/SQ6MW [S 5, slash, S Q 6, M W] ^
+EC5CEU/M [E C 5, C E U, slash, M] ^
+4K2JF/P [4 K 2, J F, slash, P] ^
+EB2BXC/MM [E B 2, B X C, slash, M M] ^
+IC8/HB9BHY [I C 8, slash, H B 9, B H Y] ^
 OH0/DK2SW [O H zero, slash, D K 2, S W] ^
 KL7/K8GU [K L 7, slash, K 8, G U] ^
-RJ8S/UA6BGB [R J 8, S, slash, U A 6, B G B] ^
-CU1/SM1CJV [C U 1, slash, S M 1, C J V] ^
-OH0/OH2LZC [O H zero, slash, O H 2, L Z C] ^
-M0MNV/P [M zero, M N V, slash, P] ^
-GS3PYE/P [G S 3, P Y E, slash, P] ^
-FY/F5UOW [F Y, slash, F 5, U O W] ^
-4X/R1CC [4 X, slash, R 1, C C] ^
-YO/HA8FY [Y O, slash, H A 8, F Y] ^
-MJ/DH1DX [M J, slash, D H 1, D X] ^
-YD8TYC/P [Y D 8, T Y C, slash, P] ^
-W7HU/HC7 [W 7, H U, slash, H C 7] ^
-RP3L/P [R P 3, L, slash, P] ^
-EA9/HA1AG [E A 9, slash, H A 1, A G] ^
-5B/G3UCQ [5 B, slash, G 3, U C Q] ^
-9A/DL1JEZ/P [9 A, slash, D L 1, J E Z, slash, P] ^
-EA8/G3VTT [E A 8, slash, G 3, V T T] ^
-BY1TX/4 [B Y 1, T X, slash, 4] ^
-YV1AA/R [Y V 1, A A, slash, R] ^
-CT8/ZS4TX [C T 8, slash, Z S 4, T X] ^
-TF/DL3GCS [T F, slash, D L 3, G C S] ^
-ZS3/W6QL [Z S 3, slash, W 6, Q L] ^
-VE1WOW/P [V E 1, W O W, slash, P] ^
-4O/YT2A/P [4 O, slash, Y T 2, A, slash, P] ^
-OZ/PC2D/P [O Z, slash, P C 2, D, slash, P] ^
-TA4/DL9USA [T A 4, slash, D L 9, U S A] ^
-JW/W2NAF [J W, slash, W 2, N A F] ^
-PY7TDX/P [P Y 7, T D X, slash, P] ^
-FY/DL3LUM [F Y, slash, D L 3, L U M] ^
-HP8/AA1M [H P 8, slash, A A 1, M] ^
-SM1/DL2GLA [S M 1, slash, D L 2, G L A] ^
-6W/DL2RMC [6 W, slash, D L 2, R M C] ^
-JA6WFM/HC5 [J A 6, W F M, slash, H C 5] ^
-EI/ON4EI [E I, slash, O N 4, E I] ^
-VK9/OH3JR [V K 9, slash, O H 3, J R] ^
-KP4/HB9WDF [K P 4, slash, H B 9, W D F] ^
-J6/WT4BT [J 6, slash, W T 4, B T] ^
-FP/W8MC [F P, slash, W 8, M C] ^
-PJ4/G5IUF [P J 4, slash, G 5, I U F] ^
-FP/M0TOC [F P, slash, M zero, T O C] ^
-TA0/DL5JRM [T A zero, slash, D L 5, J R M] ^
-SM6/DL2VFR [S M 6, slash, D L 2, V F R] ^
-DL/EA8BFH [D L, slash, E A 8, B F H] ^
-OH0/OZ3FG [O H zero, slash, O Z 3, F G] ^
-J3/AA1ON [J 3, slash, A A 1, O N] ^
-PA/SP2WDW [P A, slash, S P 2, W D W] ^
-IJ7/IZ7LDC [I J 7, slash, I Z 7, L D C] ^
-DM3X/P [D M 3, X, slash, P] ^
-IS0/DL5RDP [I S zero, slash, D L 5, R D P] ^
-4W/DJ2EH [4 W, slash, D J 2, E H] ^
-GW4BRS/P [G W 4, B R S, slash, P] ^
-J6/W7ZT [J 6, slash, W 7, Z T] ^
-JW/KH0PR [J W, slash, K H zero, P R] ^
-EA8/GM0IIO [E A 8, slash, G M zero, I I O] ^
-TF/M0VFC/P [T F, slash, M zero, V F C, slash, P] ^
-MD/DL2HWA [M D, slash, D L 2, H W A] ^
-JW/DL4OCM [J W, slash, D L 4, O C M] ^
-SV9/OE3JAG [S V 9, slash, O E 3, J A G] ^
-OH0/UT7UT [O H zero, slash, U T 7, U T] ^
-PA65DUIN/J [P A 6, 5, D U I N, slash, J] ^
-FS/SP3IPB [F S, slash, S P 3, I P B] ^
-SV8/DJ4EL/P [S V 8, slash, D J 4, E L, slash, P] ^
-FR/F4EGZ [F R, slash, F 4, E G Z] ^
-TT/F4EGS [T T, slash, F 4, E G S] ^
-KH0/AI5P [K H zero, slash, A I 5, P] ^
-TA0/UA6DX [T A zero, slash, U A 6, D X] ^
-EA7/F5VEX [E A 7, slash, F 5, V E X] ^
-PJ4/DG1SGW [P J 4, slash, D G 1, S G W] ^
-HI9/KI7VR [H I 9, slash, K I 7, V R] ^
-YF1AR/4 [Y F 1, A R, slash, 4] ^
-IP1/IK4RUX [I P 1, slash, I K 4, R U X] ^
-R3/OE2VEL [R 3, slash, O E 2, V E L] ^
-EA8/DG6FDV [E A 8, slash, D G 6, F D V] ^
-P4/VE7QC [P 4, slash, V E 7, Q C] ^
-TI5/W3TB [T I 5, slash, W 3, T B] ^
-5B/IZ8CCW [5 B, slash, I Z 8, C C W] ^
-OZ1CF/LH [O Z 1, C F, slash, L H] ^
-VR10ZQZ/P [V R 1, zero, Z Q Z, slash, P] ^
-SV5/LA9QJA [S V 5, slash, L A 9, Q J A] ^
-OX/DC8TM/P [O X, slash, D C 8, T M, slash, P] ^
-SP/CT1CJJ [S P, slash, C T 1, C J J] ^
-IT9FUN/P [I T 9, F U N, slash, P] ^
-TK/OK1LX [T K, slash, O K 1, L X] ^
-SV8/IW0HQU [S V 8, slash, I W zero, H Q U] ^
-9A/IK5WWA [9 A, slash, I K 5, W W A] ^
-EA6/G0SGB [E A 6, slash, G zero, S G B] ^
-SV5/HB9OAU [S V 5, slash, H B 9, O A U] ^
-PA/DL1EKO/P [P A, slash, D L 1, E K O, slash, P] ^
-I2/N4ZC [I 2, slash, N 4, Z C] ^
-J6/W0SA [J 6, slash, W zero, S A] ^
-V4/KB1EHE [V 4, slash, K B 1, E H E] ^
-IM0/IZ0EJQ [I M zero, slash, I Z zero, E J Q] ^
-G3MRC/C9 [G 3, M R C, slash, C 9] ^
-VE2QRA/P [V E 2, Q R A, slash, P] ^
-5H1JCH/3 [5 H 1, J C H, slash, 3] ^
-J3/M3VCQ [J 3, slash, M 3, V C Q] ^
-OJ0/LA9VDA/P [O J zero, slash, L A 9, V D A, slash, P] ^
-SV5/HA0HW [S V 5, slash, H A zero, H W] ^
-IS0/OM3LA [I S zero, slash, O M 3, L A] ^
-EA8/8S8L [E A 8, slash, 8, S 8, L] ^
-TK/F5TGR [T K, slash, F 5, T G R] ^
-SV9/DL5YWM [S V 9, slash, D L 5, Y W M] ^
-EA8/F6BED [E A 8, slash, F 6, B E D] ^
-VY2/KH6ND [V Y 2, slash, K H 6, N D] ^
-DU1/DK3GI [D U 1, slash, D K 3, G I] ^
-MD/DL1RTL [M D, slash, D L 1, R T L] ^
-PJ2/K8MR [P J 2, slash, K 8, M R] ^
-HK3/UA4WHX [H K 3, slash, U A 4, W H X] ^
-YC4FIJ/P [Y C 4, F I J, slash, P] ^
-CT8/DJ7JC [C T 8, slash, D J 7, J C] ^
-IT9/IZ2ZTR [I T 9, slash, I Z 2, Z T R] ^
-DL/G8OFQ [D L, slash, G 8, O F Q] ^
-EA/G0SGB [E A, slash, G zero, S G B] ^
-LX/ON5QRP [L X, slash, O N 5, Q R P] ^
-VK3BF/VK9C [V K 3, B F, slash, V K 9, C] ^
-ZB2/W0ETT [Z B 2, slash, W zero, E T T] ^
-P4/W7GRW [P 4, slash, W 7, G R W] ^
-KR1V/KH0 [K R 1, V, slash, K H zero] ^
-F/OE5JKL [F, slash, O E 5, J K L] ^
-PJ2/K6KAL [P J 2, slash, K 6, K A L] ^
-5Z4/UA4WHX/A [5 Z 4, slash, U A 4, W H X, slash, A] ^
-SM0AGD/TA [S M zero, A G D, slash, T A] ^
-KH2/JA7AYE [K H 2, slash, J A 7, A Y E] ^
-VP5/OZ1LQO [V P 5, slash, O Z 1, L Q O] ^
-HR9/K0UU [H R 9, slash, K zero, U U] ^
-SO6AD/9 [S O 6, A D, slash, 9] ^
-SV9/OZ7AM [S V 9, slash, O Z 7, A M] ^
-D44/CT1EKF [D 4, 4, slash, C T 1, E K F] ^
-IC8/HB9BHY [I C 8, slash, H B 9, B H Y] ^
-K7XF/KH0 [K 7, X F, slash, K H zero] ^
-OH0/OF3I [O H zero, slash, O F 3, I] ^
-EA8/SM6DYK [E A 8, slash, S M 6, D Y K] ^
-FO/N7SOF [F O, slash, N 7, S O F] ^
-CT9/DL3KWF [C T 9, slash, D L 3, K W F] ^
-KD2FIQ/VP9 [K D 2, F I Q, slash, V P 9] ^
-KC8RUD/KH0 [K C 8, R U D, slash, K H zero] ^
-NA8O/VK4 [N A 8, O, slash, V K 4] ^
-SV0XAF/8 [S V zero, X A F, slash, 8] ^
-HH2/LA5IIA [H H 2, slash, L A 5, I I A] ^
-9A/HA5X [9 A, slash, H A 5, X] ^
-J3/N0WBV [J 3, slash, N zero, W B V] ^
-F/RA6CST [F, slash, R A 6, C S T] ^
-WB8BZK/VE3 [W B 8, B Z K, slash, V E 3] ^
-HK1/LU3CT [H K 1, slash, L U 3, C T] ^
-HI3/EA3GUO [H I 3, slash, E A 3, G U O] ^
-SV9/HB9OAU [S V 9, slash, H B 9, O A U] ^
-OZ/DL6DH [O Z, slash, D L 6, D H] ^
-RX3M/UZ9SWO [R X 3, M, slash, U Z 9, S W O] ^
-LA/DM2AUJ [L A, slash, D M 2, A U J] ^
-6V2R/P [6 V 2, R, slash, P] ^
-HB0/OK2WO [H B zero, slash, O K 2, W O] ^
-DL/G3VQO [D L, slash, G 3, V Q O] ^
-S21/VA7DZ [S 2, 1, slash, V A 7, D Z] ^
-FR/DJ9RR [F R, slash, D J 9, R R] ^
-3A/OH9MM [3 A, slash, O H 9, M M] ^
-ZB2/PA3EWP [Z B 2, slash, P A 3, E W P] ^
-TG9/XE1KK [T G 9, slash, X E 1, K K] ^
-VK2AWI/P [V K 2, A W I, slash, P] ^
-ZL1/PA0MIR [Z L 1, slash, P A zero, M I R] ^
-F/N6TR [F, slash, N 6, T R] ^
-OD5/HB9AMO [O D 5, slash, H B 9, A M O] ^
-J6/AA7X [J 6, slash, A A 7, X] ^
-TI5/N3KS [T I 5, slash, N 3, K S] ^
-HS8AC/P [H S 8, A C, slash, P] ^
-HL0BDU/5 [H L zero, B D U, slash, 5] ^
-OZ/DL1ANT [O Z, slash, D L 1, A N T] ^
-CE0Y/JA0JHQ [C E zero, Y, slash, J A zero, J H Q] ^
-PJ5/K3TRM [P J 5, slash, K 3, T R M] ^
-HR9/EA1APV [H R 9, slash, E A 1, A P V] ^
-3A/I1RBJ [3 A, slash, I 1, R B J] ^
-DL/JA4DND [D L, slash, J A 4, D N D] ^
-ZA/IZ5YHD/M [Z A, slash, I Z 5, Y H D, slash, M] ^
-YV8DX/6 [Y V 8, D X, slash, 6] ^
-IE9/IC8ATA [I E 9, slash, I C 8, A T A] ^
-9A/IV3PUT [9 A, slash, I V 3, P U T] ^
-FR/F4HPX [F R, slash, F 4, H P X] ^
-SV5/N2OO [S V 5, slash, N 2, O O] ^
-HB0/DL4IAL [H B zero, slash, D L 4, I A L] ^
-5B4/UA3QDX [5 B 4, slash, U A 3, Q D X] ^
-MM/F5BLC [M M, slash, F 5, B L C] ^
-P4/LY2TA [P 4, slash, L Y 2, T A] ^
-TF/DL7PS [T F, slash, D L 7, P S] ^
-ED3NP/P [E D 3, N P, slash, P] ^
-IK2XYN/EA8 [I K 2, X Y N, slash, E A 8] ^
-EG90IARU/# [E G 9, zero, I A R U, slash, #] ^
-IB0/OM3RM [I B zero, slash, O M 3, R M] ^
-PJ2/AL7BA [P J 2, slash, A L 7, B A] ^
-J6/AA4OC [J 6, slash, A A 4, O C] ^
-GW8MIA/P [G W 8, M I A, slash, P] ^
-CT8/ON5NT [C T 8, slash, O N 5, N T] ^
-FR/PA3GIO [F R, slash, P A 3, G I O] ^
-JW/EI6FR [J W, slash, E I 6, F R] ^
-OH7JHA/P [O H 7, J H A, slash, P] ^
-EA3/DJ6TK [E A 3, slash, D J 6, T K] ^
-OH0/OH5O [O H zero, slash, O H 5, O] ^
-S5/SQ6MW [S 5, slash, S Q 6, M W] ^
-EA5ASM/P [E A 5, A S M, slash, P] ^
-OZ/DK6CW/P [O Z, slash, D K 6, C W, slash, P] ^
-HH2/PY3SB [H H 2, slash, P Y 3, S B] ^
-TF/DL1VJ [T F, slash, D L 1, V J] ^
-VP5/N0TG [V P 5, slash, N zero, T G] ^
-PP5/DL6FBL [P P 5, slash, D L 6, F B L] ^
-MJ/DJ8VC [M J, slash, D J 8, V C] ^
-EA6/EA5BTL [E A 6, slash, E A 5, B T L] ^
-5B/AJ2O [5 B, slash, A J 2, O] ^
-RO4M/6 [R O 4, M, slash, 6] ^
-CT3/DF1LON [C T 3, slash, D F 1, L O N] ^
-PY0F/PT7BSH [P Y zero, F, slash, P T 7, B S H] ^
-VA3DYD/HR3 [V A 3, D Y D, slash, H R 3] ^
-R3/DL5EBE [R 3, slash, D L 5, E B E] ^
-FY/F8FUA [F Y, slash, F 8, F U A] ^
-OZ/DF1XC [O Z, slash, D F 1, X C] ^
-D80HQ/3 [D 8, zero, H Q, slash, 3] ^
-BV7/DL7IO [B V 7, slash, D L 7, I O] ^
-9A/DL1EKO [9 A, slash, D L 1, E K O] ^
-FP/G3SXW [F P, slash, G 3, S X W] ^
-IS0/WH0Q [I S zero, slash, W H zero, Q] ^
-I2ADN/IG9 [I 2, A D N, slash, I G 9] ^
-ZL/GD3OOK [Z L, slash, G D 3, O O K] ^
-TI8/W4XO [T I 8, slash, W 4, X O] ^
-SV9/OH9MDV/P [S V 9, slash, O H 9, M D V, slash, P] ^
-4O/RC5A [4 O, slash, R C 5, A] ^
-LU3XYL/XP [L U 3, X Y L, slash, X P] ^
-VP5/SM7DKF [V P 5, slash, S M 7, D K F] ^
-HC8/LX1NO [H C 8, slash, L X 1, N O] ^
-NN7A/4 [N N 7, A, slash, 4] ^
-W3OGY/VP9 [W 3, O G Y, slash, V P 9] ^
-MN0PQR/P [M N zero, P Q R, slash, P] ^
-PJ4/N5WR [P J 4, slash, N 5, W R] ^
-6Y5/VE4GV [6 Y 5, slash, V E 4, G V] ^
-WB4DNL/VP9 [W B 4, D N L, slash, V P 9] ^
-LX/ON5QRP/P [L X, slash, O N 5, Q R P, slash, P] ^
-SM7/ON4DN [S M 7, slash, O N 4, D N] ^
-J3/KO8SCA [J 3, slash, K O 8, S C A] ^
-HC2ANT/8 [H C 2, A N T, slash, 8] ^
-JE4QIG/4 [J E 4, Q I G, slash, 4] ^
-NO7F/KL7 [N O 7, F, slash, K L 7] ^
-GB3NGI/B [G B 3, N G I, slash, B] ^
-RU4F/UM9MWB [R U 4, F, slash, U M 9, M W B] ^
-T6/ZS5ADU [T 6, slash, Z S 5, A D U] ^
-TK/S53F [T K, slash, S 5, 3, F] ^
-SP3BJK/1 [S P 3, B J K, slash, 1] ^
-LU/KY0C [L U, slash, K Y zero, C] ^
-J8/JA7SGV [J 8, slash, J A 7, S G V] ^
-EA6/DJ0IF [E A 6, slash, D J zero, I F] ^
-9A/S51TA [9 A, slash, S 5, 1, T A] ^
-TF/DL2WJT [T F, slash, D L 2, W J T] ^
-3A/F8BBL [3 A, slash, F 8, B B L] ^
-CE9/R3CA [C E 9, slash, R 3, C A] ^
-J8/EA3GUO [J 8, slash, E A 3, G U O] ^
-CT8/DL2TM [C T 8, slash, D L 2, T M] ^
-SV2/SV1NJW [S V 2, slash, S V 1, N J W] ^
-YV5BGH/6 [Y V 5, B G H, slash, 6] ^
-JR4UDE/1 [J R 4, U D E, slash, 1] ^
-HC8/UZ1HZ [H C 8, slash, U Z 1, H Z] ^
-LZ2CC/P [L Z 2, C C, slash, P] ^
-3B8/RX3DD [3 B 8, slash, R X 3, D D] ^
-TK/DL1DVP [T K, slash, D L 1, D V P] ^
-FR/G/FH4ED [F R, slash, G, slash, F H 4, E D] ^
-KL7/ON7HJA [K L 7, slash, O N 7, H J A] ^
-N2GHZ/C6A [N 2, G H Z, slash, C 6, A] ^
-5Z4/IK8VRH [5 Z 4, slash, I K 8, V R H] ^
-F/DL5MO [F, slash, D L 5, M O] ^
-HI3/AD7GW [H I 3, slash, A D 7, G W] ^
-CU2/DL3FF [C U 2, slash, D L 3, F F] ^
-FK8DD/M [F K 8, D D, slash, M] ^
-GD4WSB/P [G D 4, W S B, slash, P] ^
-SV8/OK2WH [S V 8, slash, O K 2, W H] ^
-JI1FPO/JD1 [J I 1, F P O, slash, J D 1] ^
-EI/WJ2O/M [E I, slash, W J 2, O, slash, M] ^
-EA8/DF4NW [E A 8, slash, D F 4, N W] ^
-EI/VO1AU [E I, slash, V O 1, A U] ^
-PJ2/K4BAI [P J 2, slash, K 4, B A I] ^
-MS0INT/P [M S zero, I N T, slash, P] ^
-SV9/PA3GCV [S V 9, slash, P A 3, G C V] ^
-GB3VHF/B [G B 3, V H F, slash, B] ^
-IU7I/P [I U 7, I, slash, P] ^
-LX/ON7PQ/P [L X, slash, O N 7, P Q, slash, P] ^
-AH6KY/KH0 [A H 6, K Y, slash, K H zero] ^
-IM0/OE5FSM [I M zero, slash, O E 5, F S M] ^
-4L4FN/P5 [4 L 4, F N, slash, P 5] ^
-OH0/LA9VDA/P [O H zero, slash, L A 9, V D A, slash, P] ^
-OZ/OP1A [O Z, slash, O P 1, A] ^
-KH6/JR1AGC [K H 6, slash, J R 1, A G C] ^
-TK/OO4O [T K, slash, O O 4, O] ^
-OH0/JA5AQC [O H zero, slash, J A 5, A Q C] ^
-YI/AB8DY [Y I, slash, A B 8, D Y] ^
-MU5RIC/P [M U 5, R I C, slash, P] ^
-IS0/DL3OCH [I S zero, slash, D L 3, O C H] ^
-J6/KA9P [J 6, slash, K A 9, P] ^
-OZ/I2AE [O Z, slash, I 2, A E] ^
-R3RRC/0 [R 3, R R C, slash, zero] ^
-M/AB2E [M, slash, A B 2, E] ^
-FR5ZU/T [F R 5, Z U, slash, T] ^
-SV4/IZ7ATN [S V 4, slash, I Z 7, A T N] ^
-R20RRC/1 [R 2, zero, R R C, slash, 1] ^
-FG/OE6MBG [F G, slash, O E 6, M B G] ^
-VK4/NL8F [V K 4, slash, N L 8, F] ^
-CT7/OH2ME [C T 7, slash, O H 2, M E] ^
-4K2JF/P [4 K 2, J F, slash, P] ^
-DS50GOO/C [D S 5, zero, G O O, slash, C] ^
-EA8/DL1GCY [E A 8, slash, D L 1, G C Y] ^
-9M2SG/8 [9 M 2, S G, slash, 8] ^
-RH7W/UA4FDS [R H 7, W, slash, U A 4, F D S] ^
-LX/OH1HAQ [L X, slash, O H 1, H A Q] ^
-SV8/IK4RUX [S V 8, slash, I K 4, R U X] ^
-4O/YO3JW/M [4 O, slash, Y O 3, J W, slash, M] ^
-DS17DNO/5 [D S 1, 7, D N O, slash, 5] ^
-DL8AKI/HI9 [D L 8, A K I, slash, H I 9] ^
-EA8/DL7JTZ [E A 8, slash, D L 7, J T Z] ^
-SX100SEP/5 [S X 1, zero, zero, S E P, slash, 5] ^
-DL4VCG/HC8 [D L 4, V C G, slash, H C 8] ^
-CT3/HB9CQL [C T 3, slash, H B 9, C Q L] ^
-OJ0/SM0UXX [O J zero, slash, S M zero, U X X] ^
-TA4/DK7PE [T A 4, slash, D K 7, P E] ^
-CS4ODX/P [C S 4, O D X, slash, P] ^
-PJ2/W8UVZ [P J 2, slash, W 8, U V Z] ^
-ID9/IT9RKR [I D 9, slash, I T 9, R K R] ^
-II8LH/7 [I I 8, L H, slash, 7] ^
-UT2VU/DU7 [U T 2, V U, slash, D U 7] ^
-LU3AAL/R [L U 3, A A L, slash, R] ^
-K0COP/6Y5 [K zero, C O P, slash, 6, Y 5] ^
-OZ/DL9DRZ [O Z, slash, D L 9, D R Z] ^
-HB0/N2WB [H B zero, slash, N 2, W B] ^
-IL7/IZ0CCB [I L 7, slash, I Z zero, C C B] ^
-SV9/DL6ZFG [S V 9, slash, D L 6, Z F G] ^
-OM/HA6PJ [O M, slash, H A 6, P J] ^
-9A/IZ4BBF [9 A, slash, I Z 4, B B F] ^
-CT9/DJ9IE [C T 9, slash, D J 9, I E] ^
-RZ4HZW/4 [R Z 4, H Z W, slash, 4] ^
-CE0Y/SQ9BOP [C E zero, Y, slash, S Q 9, B O P] ^
-WS2M/KH0 [W S 2, M, slash, K H zero] ^
-TA3/LZ1ZF [T A 3, slash, L Z 1, Z F] ^
-MJ5AJA/P [M J 5, A J A, slash, P] ^
-EA8/DL2KWW [E A 8, slash, D L 2, K W W] ^
-SV9/G3SXW [S V 9, slash, G 3, S X W] ^
-OH0/UA1ZFG [O H zero, slash, U A 1, Z F G] ^
-TF/G3TXF [T F, slash, G 3, T X F] ^
-KH2/G3ZEM [K H 2, slash, G 3, Z E M] ^
-TA/IZ5KID [T A, slash, I Z 5, K I D] ^
-PJ9/K3EST [P J 9, slash, K 3, E S T] ^
-EB5BBM/BY7PP [E B 5, B B M, slash, B Y 7, P P] ^
-KC4/W3WKP [K C 4, slash, W 3, W K P] ^
-KP2/W3AVO [K P 2, slash, W 3, A V O] ^
-4O/RL3BX [4 O, slash, R L 3, B X] ^
-LU/R1ANF [L U, slash, R 1, A N F] ^
-A7/MW0BRO [A 7, slash, M W zero, B R O] ^
-9A/IK1ACX [9 A, slash, I K 1, A C X] ^
-EA8/ON4QX [E A 8, slash, O N 4, Q X] ^
-JW/UA3IPL [J W, slash, U A 3, I P L] ^
-FK/JK1KSB [F K, slash, J K 1, K S B] ^
-JS6ROO/5 [J S 6, R O O, slash, 5] ^
-SA7BGN/P [S A 7, B G N, slash, P] ^
-VP9/M0VFC [V P 9, slash, M zero, V F C] ^
-9A6AT/KB6ATT [9 A 6, A T, slash, K B 6, A T T] ^
-DL/LZ3ND [D L, slash, L Z 3, N D] ^
-J6/W2LNX [J 6, slash, W 2, L N X] ^
-IC8/IK8GQY [I C 8, slash, I K 8, G Q Y] ^
-VE1/KD2JA [V E 1, slash, K D 2, J A] ^
-TK/F1JRD [T K, slash, F 1, J R D] ^
-VP5/K2HYD [V P 5, slash, K 2, H Y D] ^
-TK/DL3SCA/P [T K, slash, D L 3, S C A, slash, P] ^
-TA1/DJ5MN [T A 1, slash, D J 5, M N] ^
-EA1BF/D2 [E A 1, B F, slash, D 2] ^
-IZ8OM/7 [I Z 8, O M, slash, 7] ^
-VA7UR/HB9 [V A 7, U R, slash, H B 9] ^
-UE70KRM/5 [U E 7, zero, K R M, slash, 5] ^
-3B9/ON4LAC [3 B 9, slash, O N 4, L A C] ^
-CT9/DC3JB [C T 9, slash, D C 3, J B] ^
-TI2/KI7WO [T I 2, slash, K I 7, W O] ^
-8J1MORSE/2 [8 J 1, M O R S E, slash, 2] ^
-KP2/KF4U [K P 2, slash, K F 4, U] ^
-EA9/HA3DA [E A 9, slash, H A 3, D A] ^
-SM7/DL2VFR [S M 7, slash, D L 2, V F R] ^
-EI/OK1HAG/P [E I, slash, O K 1, H A G, slash, P] ^
-LY/4X4FC/LH [L Y, slash, 4, X 4, F C, slash, L H] ^
-FS/W3ARS [F S, slash, W 3, A R S] ^
-J3/SP3IPB [J 3, slash, S P 3, I P B] ^
-PA/DJ2YA [P A, slash, D J 2, Y A] ^
-ZL7/G3SXW [Z L 7, slash, G 3, S X W] ^
-F/G3VQO/P [F, slash, G 3, V Q O, slash, P] ^
-FR/W8MV [F R, slash, W 8, M V] ^
-VE/TF3LJ [V E, slash, T F 3, L J] ^
-N3U/FLT93 [N 3, U, slash, F L T 9, 3] ^
-F/TB4COR [F, slash, T B 4, C O R] ^
-Z2/W6QL [Z 2, slash, W 6, Q L] ^
-SV/DH7IF/P [S V, slash, D H 7, I F, slash, P] ^
-CE2/VE7SV [C E 2, slash, V E 7, S V] ^
-YV1/K3UOC [Y V 1, slash, K 3, U O C] ^
-ZA/YU1FW [Z A, slash, Y U 1, F W] ^
-IZ0/MU0BKA [I Z zero, slash, M U zero, B K A] ^
-VU4AN/VU3NZC [V U 4, A N, slash, V U 3, N Z C] ^
-BV2YA/1 [B V 2, Y A, slash, 1] ^
-JW/SE5E [J W, slash, S E 5, E] ^
-JQ6GXP/6 [J Q 6, G X P, slash, 6] ^
-P4/XE1L [P 4, slash, X E 1, L] ^
-G4WFQ/6W [G 4, W F Q, slash, 6, W] ^
-CT7/EA1AST [C T 7, slash, E A 1, A S T] ^
-CE0/W9FW [C E zero, slash, W 9, F W] ^
-T31/T32XG [T 3, 1, slash, T 3, 2, X G] ^
-R2/DK8LV [R 2, slash, D K 8, L V] ^
-C6A/WI9WI [C 6, A, slash, W I 9, W I] ^
-JA1SKY/6 [J A 1, S K Y, slash, 6] ^
-HK3KAV/1 [H K 3, K A V, slash, 1] ^
-FG/PA3ERC [F G, slash, P A 3, E R C] ^
-PJ7/N4ZC [P J 7, slash, N 4, Z C] ^
-FS/W5LAC [F S, slash, W 5, L A C] ^
-CE2/SQ1DWR [C E 2, slash, S Q 1, D W R] ^
-ES5/SP3SLU [E S 5, slash, S P 3, S L U] ^
-F/7N3CNQ [F, slash, 7, N 3, C N Q] ^
-OZ/IK1PMR [O Z, slash, I K 1, P M R] ^
-MD/ON6KX [M D, slash, O N 6, K X] ^
-VP2V/N7MQ [V P 2, V, slash, N 7, M Q] ^
-T9/7S7Y [T 9, slash, 7, S 7, Y] ^
-9A/OE1WSA [9 A, slash, O E 1, W S A] ^
-PJ2/WA4PGM [P J 2, slash, W A 4, P G M] ^
-ES1RA/1 [E S 1, R A, slash, 1] ^
-IT9/OK1DDR [I T 9, slash, O K 1, D D R] ^
-VE9MY/VO1 [V E 9, M Y, slash, V O 1] ^
-JJ2GAZ/1 [J J 2, G A Z, slash, 1] ^
-RA3DRC/1 [R A 3, D R C, slash, 1] ^
-PZ1/W6KG [P Z 1, slash, W 6, K G] ^
-MD/SQ9I [M D, slash, S Q 9, I] ^
-SV5/DL7YS [S V 5, slash, D L 7, Y S] ^
-J3/PA7FM [J 3, slash, P A 7, F M] ^
-E7/9A2AA [E 7, slash, 9, A 2, A A] ^
-EA8/ON5UM [E A 8, slash, O N 5, U M] ^
-F/TU5AX [F, slash, T U 5, A X] ^
-W6/DL6AP/P [W 6, slash, D L 6, A P, slash, P] ^
-HC2RMT/8 [H C 2, R M T, slash, 8] ^
-DL3NM/TI6 [D L 3, N M, slash, T I 6] ^
-OX/WW6RG [O X, slash, W W 6, R G] ^
-YV5OW/5 [Y V 5, O W, slash, 5] ^
-OH0JJS/1 [O H zero, J J S, slash, 1] ^
-F5JNE/P [F 5, J N E, slash, P] ^
-KH2/JH7BVH [K H 2, slash, J H 7, B V H] ^
-YO/F4DZG [Y O, slash, F 4, D Z G] ^
-ER0/DL6MHG [E R zero, slash, D L 6, M H G] ^
+LU1OFU/MM [L U 1, O F U, slash, M M] ^
 UZ9ZY/P [U Z 9, Z Y, slash, P] ^
-VK3HET/9 [V K 3, H E T, slash, 9] ^
-EA7/EA3DKN/P [E A 7, slash, E A 3, D K N, slash, P] ^
-HI9/IZ2KTE [H I 9, slash, I Z 2, K T E] ^
-PJ5/KC8RXT [P J 5, slash, K C 8, R X T] ^
-LU5DT/D [L U 5, D T, slash, D] ^
-J6/SP7VC [J 6, slash, S P 7, V C] ^
-IE9/I5HLK [I E 9, slash, I 5, H L K] ^
-ON/N4ZC [O N, slash, N 4, Z C] ^
-TI5/LY7Z [T I 5, slash, L Y 7, Z] ^
-IM0/I1ASU [I M zero, slash, I 1, A S U] ^
-KH2/JJ1JGI [K H 2, slash, J J 1, J G I] ^
-UA6GO/MM [U A 6, G O, slash, M M] ^
-LX/PA3EZC/P [L X, slash, P A 3, E Z C, slash, P] ^
-ZA/OL8R [Z A, slash, O L 8, R] ^
-CU5/CU3AK/P [C U 5, slash, C U 3, A K, slash, P] ^
-7N2SPK/1 [7 N 2, S P K, slash, 1] ^
-EW/DL3LUM [E W, slash, D L 3, L U M] ^
-ZL1CT/MM [Z L 1, C T, slash, M M] ^
-OZ1IVA/P [O Z 1, I V A, slash, P] ^
-LX/DJ6OI [L X, slash, D J 6, O I] ^
-F/JR1PIV [F, slash, J R 1, P I V] ^
-EA6/DK4RL [E A 6, slash, D K 4, R L] ^
-ZL2/EA8EE [Z L 2, slash, E A 8, E E] ^
-V5/UX0HX [V 5, slash, U X zero, H X] ^
-XE3/KU4GZ [X E 3, slash, K U 4, G Z] ^
-IK5DHM/ANT [I K 5, D H M, slash, A N T] ^
-EM23IU/P [E M 2, 3, I U, slash, P] ^
-CE0Y/SM0OTG [C E zero, Y, slash, S M zero, O T G] ^
-5B4/KC9URR [5 B 4, slash, K C 9, U R R] ^
-VK7HVK/P [V K 7, H V K, slash, P] ^
-PJ4/PA0VDV [P J 4, slash, P A zero, V D V] ^
-OZ/DK7AO [O Z, slash, D K 7, A O] ^
-F/HB9RM [F, slash, H B 9, R M] ^
-LA/DJ9DZ [L A, slash, D J 9, D Z] ^
-YI/KV4EB [Y I, slash, K V 4, E B] ^
-UE9OWM/9 [U E 9, O W M, slash, 9] ^
-5B/SM2EKM [5 B, slash, S M 2, E K M] ^
-OH0/W6RGG [O H zero, slash, W 6, R G G] ^
-GW8K/P [G W 8, K, slash, P] ^
-OZ/DL9DAN [O Z, slash, D L 9, D A N] ^
-LA/DJ1QQ [L A, slash, D J 1, Q Q] ^
-TI8/AA8HH [T I 8, slash, A A 8, H H] ^
-R1FJ/UA0ABO [R 1, F J, slash, U A zero, A B O] ^
-YB9/JL3TOG [Y B 9, slash, J L 3, T O G] ^
-ID9/IW9GDC [I D 9, slash, I W 9, G D C] ^
-ZL/PA0BWL [Z L, slash, P A zero, B W L] ^
-BX2/NE3H [B X 2, slash, N E 3, H] ^
-FR/F5TXW [F R, slash, F 5, T X W] ^
-VK4WWI/P [V K 4, W W I, slash, P] ^
-VE9/KD2JA [V E 9, slash, K D 2, J A] ^
-VY0/AH6EZ [V Y zero, slash, A H 6, E Z] ^
-ZF2WP/ZF9 [Z F 2, W P, slash, Z F 9] ^
-4O6A/5B4 [4 O 6, A, slash, 5, B 4] ^
-YI/ON5NT [Y I, slash, O N 5, N T] ^
-HB9/DL2JRM [H B 9, slash, D L 2, J R M] ^
-DU1WQY/8 [D U 1, W Q Y, slash, 8] ^
-KH2/JJ1CCE [K H 2, slash, J J 1, C C E] ^
-5B/UR4MCK [5 B, slash, U R 4, M C K] ^
-PA/DL1SBF/P [P A, slash, D L 1, S B F, slash, P] ^
-OJ0/SA5BDS [O J zero, slash, S A 5, B D S] ^
-UE6FFF/6 [U E 6, F F F, slash, 6] ^
-SV5/DJ7RJ [S V 5, slash, D J 7, R J] ^
-FY/IW1BND [F Y, slash, I W 1, B N D] ^
-CU8/IZ5CML [C U 8, slash, I Z 5, C M L] ^
-TF/EI9FBB [T F, slash, E I 9, F B B] ^
-OZ/DG2RON [O Z, slash, D G 2, R O N] ^
-DJ0QJ/SU [D J zero, Q J, slash, S U] ^
-CT9/DL1XX [C T 9, slash, D L 1, X X] ^
-BV1AE/4 [B V 1, A E, slash, 4] ^
-J8/WA2VUY [J 8, slash, W A 2, V U Y] ^
-IC8/IZ8FAV [I C 8, slash, I Z 8, F A V] ^
-FO/F6CTF/MM [F O, slash, F 6, C T F, slash, M M] ^
-JW/N0WBV [J W, slash, N zero, W B V] ^
-SV8/HA5RT [S V 8, slash, H A 5, R T] ^
-KB4CNL//N4 [K B 4, C N L, slash, slash, N 4] ^
-TK/IZ2ESV [T K, slash, I Z 2, E S V] ^
-F/G4BJM [F, slash, G 4, B J M] ^
-JS6RRR/KH2 [J S 6, R R R, slash, K H 2] ^
-5Z4/9A3A [5 Z 4, slash, 9, A 3, A] ^
-HB0/E77QJ [H B zero, slash, E 7, 7, Q J] ^
-CT3/DM3VL [C T 3, slash, D M 3, V L] ^
-RI1ANF/P [R I 1, A N F, slash, P] ^
-AI5P/KH8 [A I 5, P, slash, K H 8] ^
-OA4/DL5YWH [O A 4, slash, D L 5, Y W H] ^
-9M9/7M2VPR [9 M 9, slash, 7, M 2, V P R] ^
-3A/F5NHJ [3 A, slash, F 5, N H J] ^
-J42004/N3JWJ [J 4, 2, zero, zero, 4, slash, N 3, J W J] ^
-OX/W0GPR [O X, slash, W zero, G P R] ^
-OH0HG/2 [O H zero, H G, slash, 2] ^
-DL/TA1AET [D L, slash, T A 1, A E T] ^
-IB0/IK0GDG [I B zero, slash, I K zero, G D G] ^
-EA5/G0MGA [E A 5, slash, G zero, M G A] ^
-OJ0/N4GN [O J zero, slash, N 4, G N] ^
-EA4/YO8DHC [E A 4, slash, Y O 8, D H C] ^
-KC4/N2TA [K C 4, slash, N 2, T A] ^
-IG9/IW2NEF [I G 9, slash, I W 2, N E F] ^
-HR9/DF8AN [H R 9, slash, D F 8, A N] ^
-YN/W2JO [Y N, slash, W 2, J O] ^
-YV3ETI/2 [Y V 3, E T I, slash, 2] ^
-W4CCF/P [W 4, C C F, slash, P] ^
-JD1/JI1FLB [J D 1, slash, J I 1, F L B] ^
-DL/HB9AGO/P [D L, slash, H B 9, A G O, slash, P] ^
-KH2/W2VR [K H 2, slash, W 2, V R] ^
-4X/SP7VC [4 X, slash, S P 7, V C] ^
-OA4/DL9FAW [O A 4, slash, D L 9, F A W] ^
-CT9/OK1VWK/P [C T 9, slash, O K 1, V W K, slash, P] ^
-IF9/IU2HDO [I F 9, slash, I U 2, H D O] ^
-MM/ON4GS [M M, slash, O N 4, G S] ^
-SP6CZ/1 [S P 6, C Z, slash, 1] ^
-EA6/DJ2QV [E A 6, slash, D J 2, Q V] ^
-OE3RGB/H800 [O E 3, R G B, slash, H 8, zero, zero] ^
-F/M0XDF/P [F, slash, M zero, X D F, slash, P] ^
-CE2/UA4WHX [C E 2, slash, U A 4, W H X] ^
-FS/G4MFW [F S, slash, G 4, M F W] ^
-SV9/G4VXE [S V 9, slash, G 4, V X E] ^
-CE1/WU2D [C E 1, slash, W U 2, D] ^
-9A/OL7Y [9 A, slash, O L 7, Y] ^
-PJ9/AE9B [P J 9, slash, A E 9, B] ^
-JJ3NAW/8 [J J 3, N A W, slash, 8] ^
-HS0/OK1CZ [H S zero, slash, O K 1, C Z] ^
-LX/SP5HNK [L X, slash, S P 5, H N K] ^
-PJ9/W1USN [P J 9, slash, W 1, U S N] ^
-RA1N/UB4LWA [R A 1, N, slash, U B 4, L W A] ^
-F0OV/FC [F zero, O V, slash, F C] ^
-RZ1OA/P [R Z 1, O A, slash, P] ^
-SV9/SV1AVD [S V 9, slash, S V 1, A V D] ^
-PY0/PP1CZ [P Y zero, slash, P P 1, C Z] ^
-6W/F6HMJ [6 W, slash, F 6, H M J] ^
-DM4G/P [D M 4, G, slash, P] ^
-ED7YAD/B [E D 7, Y A D, slash, B] ^
-PJ4/N9JZ/M [P J 4, slash, N 9, J Z, slash, M] ^
-9A/PD0EMR [9 A, slash, P D zero, E M R] ^
-YB9/HB9MPX [Y B 9, slash, H B 9, M P X] ^
-3B8/OE3GEA [3 B 8, slash, O E 3, G E A] ^
-MU/PA3BAG [M U, slash, P A 3, B A G] ^
-LX/DJ1AA/M [L X, slash, D J 1, A A, slash, M] ^
-CU5/CT1EEB [C U 5, slash, C T 1, E E B] ^
-9A/HA5TAA [9 A, slash, H A 5, T A A] ^
-J6/K4ZGB [J 6, slash, K 4, Z G B] ^
-EA8/DL3ZE [E A 8, slash, D L 3, Z E] ^
-Z38/YU1JF [Z 3, 8, slash, Y U 1, J F] ^
-ON3VTA/MILL [O N 3, V T A, slash, M I L L] ^
-9A/N0MX [9 A, slash, N zero, M X] ^
-EA8/DF8AA [E A 8, slash, D F 8, A A] ^
-UT5G/B [U T 5, G, slash, B] ^
-SV8/HA6NL [S V 8, slash, H A 6, N L] ^
-ZS/DD0VR [Z S, slash, D D zero, V R] ^
-LA/LX9EG/P [L A, slash, L X 9, E G, slash, P] ^
-3B8/F5AEG [3 B 8, slash, F 5, A E G] ^
-V2A/W6JKV [V 2, A, slash, W 6, J K V] ^
-EA8/G4RGK [E A 8, slash, G 4, R G K] ^
-KB5WWP/P4 [K B 5, W W P, slash, P 4] ^
-DU1/SM5ENX [D U 1, slash, S M 5, E N X] ^
-5N6EAM/7 [5 N 6, E A M, slash, 7] ^
-J3/KB9AVO [J 3, slash, K B 9, A V O] ^
-6W/DL7CM [6 W, slash, D L 7, C M] ^
-6Y5/KB0IRW [6 Y 5, slash, K B zero, I R W] ^
-HB9/GM0GAV/P [H B 9, slash, G M zero, G A V, slash, P] ^
-TT8/US3EZ [T T 8, slash, U S 3, E Z] ^
-GM4AGG/P [G M 4, A G G, slash, P] ^
-CE0Y/ON5AX [C E zero, Y, slash, O N 5, A X] ^
-DK2RMP/P [D K 2, R M P, slash, P] ^
-JA1JQY/JD1 [J A 1, J Q Y, slash, J D 1] ^
-V4/W1USN [V 4, slash, W 1, U S N] ^
-KL0KB/N7UV [K L zero, K B, slash, N 7, U V] ^
-OY/DK4ARL [O Y, slash, D K 4, A R L] ^
-UT/OL5DIG/P [U T, slash, O L 5, D I G, slash, P] ^
-SV9/LY1DF [S V 9, slash, L Y 1, D F] ^
-LX/OR5M [L X, slash, O R 5, M] ^
-HR8/YN4SU [H R 8, slash, Y N 4, S U] ^
-J6/PA3ERC [J 6, slash, P A 3, E R C] ^
-DL/LA8OKA [D L, slash, L A 8, O K A] ^
-GP8LED/P [G P 8, L E D, slash, P] ^
-9M6/NR1J [9 M 6, slash, N R 1, J] ^
-I2JJR/6 [I 2, J J R, slash, 6] ^
-HB0/OE5REO [H B zero, slash, O E 5, R E O] ^
-SV9/ON5NT [S V 9, slash, O N 5, N T] ^
-OH3GD/OH0 [O H 3, G D, slash, O H zero] ^
-7N4AGB/JD1 [7 N 4, A G B, slash, J D 1] ^
-PY7CRA/P [P Y 7, C R A, slash, P] ^
-EA8/UT4TA [E A 8, slash, U T 4, T A] ^
-Z38/SQ3RX [Z 3, 8, slash, S Q 3, R X] ^
-GM0BPK/M [G M zero, B P K, slash, M] ^
-PJ5/SP9FIH [P J 5, slash, S P 9, F I H] ^
-F6FMT/VO1 [F 6, F M T, slash, V O 1] ^
-IT9/IW3RUA [I T 9, slash, I W 3, R U A] ^
-5Z4/LA4GHA [5 Z 4, slash, L A 4, G H A] ^
-C6A/K2PS [C 6, A, slash, K 2, P S] ^
-TA0/TA3J/P [T A zero, slash, T A 3, J, slash, P] ^
-EU0O/LY20BO [E U zero, O, slash, L Y 2, zero, B O] ^
-OK/DL8RL/P [O K, slash, D L 8, R L, slash, P] ^
-F/DJ5YL [F, slash, D J 5, Y L] ^
-FO/WB2REM [F O, slash, W B 2, R E M] ^
-5Z4/EA4ATI [5 Z 4, slash, E A 4, A T I] ^
-JA6TNY/0 [J A 6, T N Y, slash, zero] ^
-ON4HIL/6Y5 [O N 4, H I L, slash, 6, Y 5] ^
-OA7/DL1CW [O A 7, slash, D L 1, C W] ^
-UX1BZZ/P [U X 1, B Z Z, slash, P] ^
-F/OS4LAR/P [F, slash, O S 4, L A R, slash, P] ^
-IU5ONU/P [I U 5, O N U, slash, P] ^
-SM6/V63YM [S M 6, slash, V 6, 3, Y M] ^
-VP5/W8ERI [V P 5, slash, W 8, E R I] ^
-CT/DL3MCO/P [C T, slash, D L 3, M C O, slash, P] ^
-TG/DL1CW [T G, slash, D L 1, C W] ^
-LX/PE1LUC [L X, slash, P E 1, L U C] ^
-R3CA/8 [R 3, C A, slash, 8] ^
-IC8/IW8EVR [I C 8, slash, I W 8, E V R] ^
-RQ1AP/P [R Q 1, A P, slash, P] ^
-KL7/N3SY [K L 7, slash, N 3, S Y] ^
-MJ/DH8SL [M J, slash, D H 8, S L] ^
-F/ON7JA [F, slash, O N 7, J A] ^
-FR/JR8FEK [F R, slash, J R 8, F E K] ^
-J6/KO7M [J 6, slash, K O 7, M] ^
-F8DYD/P [F 8, D Y D, slash, P] ^
-ZL/AI5P [Z L, slash, A I 5, P] ^
-CT/DL5DSM [C T, slash, D L 5, D S M] ^
-SV8/HB9AAI [S V 8, slash, H B 9, A A I] ^
-AL5A/AH0 [A L 5, A, slash, A H zero] ^
-ZA3/I8YGZ [Z A 3, slash, I 8, Y G Z] ^
-HB0/OE6ETF [H B zero, slash, O E 6, E T F] ^
-VK3ILH/7 [V K 3, I L H, slash, 7] ^
-CN2GG/M [C N 2, G G, slash, M] ^
-3Z60VD/5 [3 Z 6, zero, V D, slash, 5] ^
-3A/N9NS [3 A, slash, N 9, N S] ^
-OH0/OH8FQ [O H zero, slash, O H 8, F Q] ^
-SV9/YU1FW [S V 9, slash, Y U 1, F W] ^
-KH2/DK2ZF [K H 2, slash, D K 2, Z F] ^
-PJ2/KG2A [P J 2, slash, K G 2, A] ^
-UA9C/UW9QK [U A 9, C, slash, U W 9, Q K] ^
-ES0/RZ1AK [E S zero, slash, R Z 1, A K] ^
-EA7/ON4LO/P [E A 7, slash, O N 4, L O, slash, P] ^
-V5/ZS1AO [V 5, slash, Z S 1, A O] ^
-PJ5/DL7VOG [P J 5, slash, D L 7, V O G] ^
-TA2/DJ8QP [T A 2, slash, D J 8, Q P] ^
-OZ/DL6LZM [O Z, slash, D L 6, L Z M] ^
-RKEDZJ/1 [R K E D Z J, slash, 1] ^
-F/ON7PQ/P [F, slash, O N 7, P Q, slash, P] ^
-ID8/IZ8XOU/P [I D 8, slash, I Z 8, X O U, slash, P] ^
-BW2/JH7BZR [B W 2, slash, J H 7, B Z R] ^
-V55V/P [V 5, 5, V, slash, P] ^
-YI/OM2DX [Y I, slash, O M 2, D X] ^
-SV9/G3PDL [S V 9, slash, G 3, P D L] ^
-EK/R2DY [E K, slash, R 2, D Y] ^
-HB0/SM0W [H B zero, slash, S M zero, W] ^
-SD7M/6 [S D 7, M, slash, 6] ^
-VY2/DL1FDH [V Y 2, slash, D L 1, F D H] ^
-KC7JEF/MM [K C 7, J E F, slash, M M] ^
-YV5SL/3 [Y V 5, S L, slash, 3] ^
-VP2V/AH6HY [V P 2, V, slash, A H 6, H Y] ^
-HB9/OE6HLF/P [H B 9, slash, O E 6, H L F, slash, P] ^
-YU/S56A [Y U, slash, S 5, 6, A] ^
-EF3ALV/7 [E F 3, A L V, slash, 7] ^
-LX/OP50LX [L X, slash, O P 5, zero, L X] ^
-OH0/OH1XFE [O H zero, slash, O H 1, X F E] ^
-RW0MM/P [R W zero, M M, slash, P] ^
-IT9/OE5JKL [I T 9, slash, O E 5, J K L] ^
-5N9EAM/6 [5 N 9, E A M, slash, 6] ^
-HH2/KC2YUG [H H 2, slash, K C 2, Y U G] ^
-SV9/IK5PWQ [S V 9, slash, I K 5, P W Q] ^
-CR6K/P [C R 6, K, slash, P] ^
-HK1/DK7PE [H K 1, slash, D K 7, P E] ^
-AG9A/AH2 [A G 9, A, slash, A H 2] ^
-6W/F6IRS [6 W, slash, F 6, I R S] ^
-US5ERQ/P [U S 5, E R Q, slash, P] ^
-SV8/DL1EJD [S V 8, slash, D L 1, E J D] ^
-WA6QAN/WA6 [W A 6, Q A N, slash, W A 6] ^
-TA3/DK3KD [T A 3, slash, D K 3, K D] ^
-OZ/TF3Y [O Z, slash, T F 3, Y] ^
-II1RT/5 [I I 1, R T, slash, 5] ^
-FP/K1TOL [F P, slash, K 1, T O L] ^
-TK/OE3JAG [T K, slash, O E 3, J A G] ^
-I/200503/TO [I, slash, 2, zero, zero, 5, zero, 3, slash, T O] ^
-SM/K4AZQ [S M, slash, K 4, A Z Q] ^
-A7/G0MKT [A 7, slash, G zero, M K T] ^
-EA2/HB9FAX [E A 2, slash, H B 9, F A X] ^
-PT7WA/PY0F [P T 7, W A, slash, P Y zero, F] ^
-OD5/IW0GXY [O D 5, slash, I W zero, G X Y] ^
-F/M0RIF [F, slash, M zero, R I F] ^
-I6/IZ0MQN/P [I 6, slash, I Z zero, M Q N, slash, P] ^
-IL7/IK7SUO [I L 7, slash, I K 7, S U O] ^
-FG/F5HRY [F G, slash, F 5, H R Y] ^
-SM/OZ5IPA [S M, slash, O Z 5, I P A] ^
-9A/S57CQ [9 A, slash, S 5, 7, C Q] ^
-YV8BS/6 [Y V 8, B S, slash, 6] ^
-FR/DL5CF [F R, slash, D L 5, C F] ^
-OZ/DC7VS [O Z, slash, D C 7, V S] ^
-FR5AI/E [F R 5, A I, slash, E] ^
-UI7T/UA4HVV [U I 7, T, slash, U A 4, H V V] ^
-KL7/KJ4OAP [K L 7, slash, K J 4, O A P] ^
-KH2/KD6CJF [K H 2, slash, K D 6, C J F] ^
-5B4/T93Y [5 B 4, slash, T 9, 3, Y] ^
-OA4BHY/6 [O A 4, B H Y, slash, 6] ^
-OH9/DL2RVL/P [O H 9, slash, D L 2, R V L, slash, P] ^
-MU0REN/P [M U zero, R E N, slash, P] ^
-VP2V/N3DXX [V P 2, V, slash, N 3, D X X] ^
-JW/OZ7AM [J W, slash, O Z 7, A M] ^
-J6/JA7KAC [J 6, slash, J A 7, K A C] ^
-VP5/IK2SGC [V P 5, slash, I K 2, S G C] ^
-OX/PA3EXX [O X, slash, P A 3, E X X] ^
-MW/DJ6OZ [M W, slash, D J 6, O Z] ^
-ES6/OH5LID [E S 6, slash, O H 5, L I D] ^
-VU3BPZ/MM [V U 3, B P Z, slash, M M] ^
-6W/F6BUM [6 W, slash, F 6, B U M] ^
-PJ6/N4GRN [P J 6, slash, N 4, G R N] ^
-MM0DGR/P [M M zero, D G R, slash, P] ^
-RK3MWL/1 [R K 3, M W L, slash, 1] ^
-J3/VE3EBN [J 3, slash, V E 3, E B N] ^
-9K2/T94FC [9 K 2, slash, T 9, 4, F C] ^
-PJ4/K6UDA [P J 4, slash, K 6, U D A] ^
-F/OO5C/P [F, slash, O O 5, C, slash, P] ^
-HB0/IZ3GNG/P [H B zero, slash, I Z 3, G N G, slash, P] ^
-V5/DL2SL [V 5, slash, D L 2, S L] ^
-KP4/VA3QSL [K P 4, slash, V A 3, Q S L] ^
-EA6/DC2KF [E A 6, slash, D C 2, K F] ^
-EI/W2RE [E I, slash, W 2, R E] ^
-IS0/OL0A [I S zero, slash, O L zero, A] ^
-OZ/DK1DU [O Z, slash, D K 1, D U] ^
-UE9JYW/P [U E 9, J Y W, slash, P] ^
-DU3/AH8F [D U 3, slash, A H 8, F] ^
-DU7/DF8AN [D U 7, slash, D F 8, A N] ^
-CY0/N0TG [C Y zero, slash, N zero, T G] ^
-CE3/SQ1DWR [C E 3, slash, S Q 1, D W R] ^
-TK/F2YT [T K, slash, F 2, Y T] ^
-SV5/PH2M/MM [S V 5, slash, P H 2, M, slash, M M] ^
-DL/SP1FM/P [D L, slash, S P 1, F M, slash, P] ^
-UE3GMF/P [U E 3, G M F, slash, P] ^
-TI5/AB2E [T I 5, slash, A B 2, E] ^
-5B/R7LP [5 B, slash, R 7, L P] ^
-ZA/PA2LS [Z A, slash, P A 2, L S] ^
-TA4/DJ5MN [T A 4, slash, D J 5, M N] ^
-OM/DL7UUU [O M, slash, D L 7, U U U] ^
-OZ7MOR/P [O Z 7, M O R, slash, P] ^
-VP5/N7OU [V P 5, slash, N 7, O U] ^
-AX5PAS/P [A X 5, P A S, slash, P] ^
-TA4/DJ5AA [T A 4, slash, D J 5, A A] ^
-PJ2/K1ZN [P J 2, slash, K 1, Z N] ^
-BW2/OE1WHC [B W 2, slash, O E 1, W H C] ^
-YV5JVT/2 [Y V 5, J V T, slash, 2] ^
-EA3BT/EA6 [E A 3, B T, slash, E A 6] ^
-CT9/DL3KWR [C T 9, slash, D L 3, K W R] ^
-5B4/G3NOM [5 B 4, slash, G 3, N O M] ^
-TI5/KD0EWB [T I 5, slash, K D zero, E W B] ^
-BW/JL3TOG [B W, slash, J L 3, T O G] ^
-BV4IP/2 [B V 4, I P, slash, 2] ^
-HB0/NZ1C [H B zero, slash, N Z 1, C] ^
-J3/W1USN [J 3, slash, W 1, U S N] ^
-F5AXG/M [F 5, A X G, slash, M] ^
-SV2/SV7CUD [S V 2, slash, S V 7, C U D] ^
-IM0/IZ4JMA [I M zero, slash, I Z 4, J M A] ^
-6M0HZ/2 [6 M zero, H Z, slash, 2] ^
-PJ2/WB9Z [P J 2, slash, W B 9, Z] ^
-VP9/KG9EE [V P 9, slash, K G 9, E E] ^
-OE1WIU/8QRP [O E 1, W I U, slash, 8, Q R P] ^
-F/DO1KJB [F, slash, D O 1, K J B] ^
-MU/DL3GA/P [M U, slash, D L 3, G A, slash, P] ^
-ZA/Z62FB [Z A, slash, Z 6, 2, F B] ^
-KL7SB/VP9 [K L 7, S B, slash, V P 9] ^
-EI/SP6ICW [E I, slash, S P 6, I C W] ^
-R3RU/P [R 3, R U, slash, P] ^
-A91ND/45 [A 9, 1, N D, slash, 4, 5] ^
-3A/SP7VC [3 A, slash, S P 7, V C] ^
-HB0/DH6CAX/P [H B zero, slash, D H 6, C A X, slash, P] ^
-SV8/G3IZD [S V 8, slash, G 3, I Z D] ^
-CT8/DK7MG/P [C T 8, slash, D K 7, M G, slash, P] ^
-FM/JI1DCW [F M, slash, J I 1, D C W] ^
-5H3EE/3 [5 H 3, E E, slash, 3] ^
-PJ2/DK3DM [P J 2, slash, D K 3, D M] ^
-2MAUR/P [2 M A U R, slash, P] ^
-OZ/DM5MA [O Z, slash, D M 5, M A] ^
-KA1GJ/KH4 [K A 1, G J, slash, K H 4] ^
-YV8AW/6 [Y V 8, A W, slash, 6] ^
-CT8/DL1CW [C T 8, slash, D L 1, C W] ^
-YB9/AF1VL [Y B 9, slash, A F 1, V L] ^
-SV5/DF4IE/P [S V 5, slash, D F 4, I E, slash, P] ^
-4X/OE1GZA [4 X, slash, O E 1, G Z A] ^
-A25/G3HCT [A 2, 5, slash, G 3, H C T] ^
-PJ2/K3UOC [P J 2, slash, K 3, U O C] ^
-TK/DJ8QP [T K, slash, D J 8, Q P] ^
-9A/DL3VTA [9 A, slash, D L 3, V T A] ^
-YB0AI/9 [Y B zero, A I, slash, 9] ^
-ES5/IT9RGY [E S 5, slash, I T 9, R G Y] ^
-PJ4/LU1FAM [P J 4, slash, L U 1, F A M] ^
-EI/IW3FWT [E I, slash, I W 3, F W T] ^
-HH4/W4WX [H H 4, slash, W 4, W X] ^
-6Y5/VE4XT [6 Y 5, slash, V E 4, X T] ^
-EA1/ON4LO/P [E A 1, slash, O N 4, L O, slash, P] ^
-OH/IW5ELA [O H, slash, I W 5, E L A] ^
-JA3GJE/6 [J A 3, G J E, slash, 6] ^
-J6/N7DWL [J 6, slash, N 7, D W L] ^
-SV5/SV1EQU [S V 5, slash, S V 1, E Q U] ^
-E7/YT2ED [E 7, slash, Y T 2, E D] ^
-CE0Z/LA9SN [C E zero, Z, slash, L A 9, S N] ^
-KH0/JK2VOC [K H zero, slash, J K 2, V O C] ^
-S5/SP7VC [S 5, slash, S P 7, V C] ^
-EM80L/P [E M 8, zero, L, slash, P] ^
-N7ET/DU7 [N 7, E T, slash, D U 7] ^
-PA/DL1SBF [P A, slash, D L 1, S B F] ^
-V5/ZS6EGB [V 5, slash, Z S 6, E G B] ^
-JA6TBE/4 [J A 6, T B E, slash, 4] ^
-E4/IW0FQZ [E 4, slash, I W zero, F Q Z] ^
-HB0/ON4IPA [H B zero, slash, O N 4, I P A] ^
-JH0IAM/1 [J H zero, I A M, slash, 1] ^
-VP2V/KB5IQV [V P 2, V, slash, K B 5, I Q V] ^
-HP1/LU9EFO [H P 1, slash, L U 9, E F O] ^
-SV9/DM1OS [S V 9, slash, D M 1, O S] ^
-SV5/OE3GEA [S V 5, slash, O E 3, G E A] ^
-CX/LU8ADX [C X, slash, L U 8, A D X] ^
-MW0CFF/M [M W zero, C F F, slash, M] ^
-SP0DIG/2 [S P zero, D I G, slash, 2] ^
-HP1/AI5P [H P 1, slash, A I 5, P] ^
-Z6/DF8AN [Z 6, slash, D F 8, A N] ^
-GC4BRS/P [G C 4, B R S, slash, P] ^
-OE/DL8DXL/P [O E, slash, D L 8, D X L, slash, P] ^
-ZS1/RZ6DD [Z S 1, slash, R Z 6, D D] ^
-3B8/F5TNI [3 B 8, slash, F 5, T N I] ^
-T9/SQ6MS [T 9, slash, S Q 6, M S] ^
-MU/RL5D [M U, slash, R L 5, D] ^
-PJ4/N2NG [P J 4, slash, N 2, N G] ^
-LZ/OH9MM [L Z, slash, O H 9, M M] ^
-HP/W1USN [H P, slash, W 1, U S N] ^
-SV9/DL2HTL [S V 9, slash, D L 2, H T L] ^
-KW7MM/VY2 [K W 7, M M, slash, V Y 2] ^
-VP2V/W5PF [V P 2, V, slash, W 5, P F] ^
-HB0/LY2BVB/P [H B zero, slash, L Y 2, B V B, slash, P] ^
-MU0PCB/P [M U zero, P C B, slash, P] ^
-F/M0CUL [F, slash, M zero, C U L] ^
-EM23IV/P [E M 2, 3, I V, slash, P] ^
-6Y5/VE3AXC [6 Y 5, slash, V E 3, A X C] ^
-YV6AOH/5 [Y V 6, A O H, slash, 5] ^
-HC2/RC5A [H C 2, slash, R C 5, A] ^
-HK3JBR/1 [H K 3, J B R, slash, 1] ^
-4O/OM7YC [4 O, slash, O M 7, Y C] ^
-KP2/VE3OP [K P 2, slash, V E 3, O P] ^
-EA7/M0TTT [E A 7, slash, M zero, T T T] ^
-SV5/W6QL [S V 5, slash, W 6, Q L] ^
-TF/DJ8EW [T F, slash, D J 8, E W] ^
-HC4/KD6WW [H C 4, slash, K D 6, W W] ^
-FG/AI5P [F G, slash, A I 5, P] ^
-VE3IKV/W4 [V E 3, I K V, slash, W 4] ^
-PJ4/EA1PP [P J 4, slash, E A 1, P P] ^
-OH0/DK3QZ [O H zero, slash, D K 3, Q Z] ^
-YC5XIP/P [Y C 5, X I P, slash, P] ^
-EN23IX/P [E N 2, 3, I X, slash, P] ^
-KH6/G4KHG/M [K H 6, slash, G 4, K H G, slash, M] ^
-WA4ZKO/B [W A 4, Z K O, slash, B] ^
-OZ/DM3VA [O Z, slash, D M 3, V A] ^
-FO/K4UEE [F O, slash, K 4, U E E] ^
-9K2/SU3AM [9 K 2, slash, S U 3, A M] ^
-EE7L/1 [E E 7, L, slash, 1] ^
-9V1/W4LT [9 V 1, slash, W 4, L T] ^
-PJ7/WW4CP [P J 7, slash, W W 4, C P] ^
-VPEV/SQ3WN [V P E V, slash, S Q 3, W N] ^
-IV3/IZ3GNG [I V 3, slash, I Z 3, G N G] ^
-CU2/SM7RYR [C U 2, slash, S M 7, R Y R] ^
-FS/N0HMJ [F S, slash, N zero, H M J] ^
-SV5/DL6RAI [S V 5, slash, D L 6, R A I] ^
-SV9/G4LDL [S V 9, slash, G 4, L D L] ^
-TA3/GM3YOR [T A 3, slash, G M 3, Y O R] ^
-KP4/K6DTT [K P 4, slash, K 6, D T T] ^
-EA2/F5SUL [E A 2, slash, F 5, S U L] ^
-EA6/DF5WA [E A 6, slash, D F 5, W A] ^
-SV8/ON4BB [S V 8, slash, O N 4, B B] ^
+TF/DL1VJ [T F, slash, D L 1, V J] ^
 EA7/G1WUU [E A 7, slash, G 1, W U U] ^
-HA/OH2BAD [H A, slash, O H 2, B A D] ^
-SV8/DK8NT [S V 8, slash, D K 8, N T] ^
-PJ5/K1XM [P J 5, slash, K 1, X M] ^
+TI5/LY7Z [T I 5, slash, L Y 7, Z] ^
+IW2OGZ/QRP [I W 2, O G Z, slash, Q R P] ^
+D80HQ/3 [D 8, zero, H Q, slash, 3] ^
+ZA3/I8YGZ [Z A 3, slash, I 8, Y G Z] ^
+TI8/W5AA [T I 8, slash, W 5, A A] ^
+VU3BPZ/MM [V U 3, B P Z, slash, M M] ^
+F/TU5AX [F, slash, T U 5, A X] ^
+J6/AA4OC [J 6, slash, A A 4, O C] ^
+GW0SQT/MM [G W zero, S Q T, slash, M M] ^
+T31/T32XG [T 3, 1, slash, T 3, 2, X G] ^
+VP2V/AH6HY [V P 2, V, slash, A H 6, H Y] ^
+5N/KT3Q [5 N, slash, K T 3, Q] ^
+RW6HJV/1 [R W 6, H J V, slash, 1] ^
+UW33OF/P [U W 3, 3, O F, slash, P] ^
+ZS1/RZ6DD [Z S 1, slash, R Z 6, D D] ^
+4O/RC5A [4 O, slash, R C 5, A] ^
+YO/HA8FY [Y O, slash, H A 8, F Y] ^
+KH2/G3ZEM [K H 2, slash, G 3, Z E M] ^
+V2A/W6JKV [V 2, A, slash, W 6, J K V] ^
+I0ZII/M [I zero, Z I I, slash, M] ^
+JE7XHL/M [J E 7, X H L, slash, M] ^
+8P6GK/MM [8 P 6, G K, slash, M M] ^
+LU5DT/D [L U 5, D T, slash, D] ^
+PJ2/KG2A [P J 2, slash, K G 2, A] ^
+EW/DL3LUM [E W, slash, D L 3, L U M] ^
+OZ/DK2BR [O Z, slash, D K 2, B R] ^
+5Z4/9A3A [5 Z 4, slash, 9, A 3, A] ^
+SV5/DF4IE/P [S V 5, slash, D F 4, I E, slash, P] ^
+VY0/KC0VEU [V Y zero, slash, K C zero, V E U] ^
+DD4NQ/QRP [D D 4, N Q, slash, Q R P] ^
+UE70KRM/5 [U E 7, zero, K R M, slash, 5] ^
+KA1GJ/KH4 [K A 1, G J, slash, K H 4] ^
+DS50GOO/C [D S 5, zero, G O O, slash, C] ^
+9A/DL1JEZ/P [9 A, slash, D L 1, J E Z, slash, P] ^
+VK4/NL8F [V K 4, slash, N L 8, F] ^
+VP5/IK2SGC [V P 5, slash, I K 2, S G C] ^
+6W/F6IRS [6 W, slash, F 6, I R S] ^
+N0VDR/M [N zero, V D R, slash, M] ^
+HP8/AA1M [H P 8, slash, A A 1, M] ^
+TA3/GM3YOR [T A 3, slash, G M 3, Y O R] ^
+DG0OGZ/M [D G zero, O G Z, slash, M] ^
+LU1YEW/QRP [L U 1, Y E W, slash, Q R P] ^
+ES0/RZ1AK [E S zero, slash, R Z 1, A K] ^
+IZ0/MU0BKA [I Z zero, slash, M U zero, B K A] ^
+VP5/SM7DKF [V P 5, slash, S M 7, D K F] ^
+SV5/SV1EQU [S V 5, slash, S V 1, E Q U] ^
+OH/IW5ELA [O H, slash, I W 5, E L A] ^
+N1AYI/M [N 1, A Y I, slash, M] ^
+5B/UR4MCK [5 B, slash, U R 4, M C K] ^
+SP3BJK/1 [S P 3, B J K, slash, 1] ^
+G3WUB/MM [G 3, W U B, slash, M M] ^
+G4WFQ/6W [G 4, W F Q, slash, 6, W] ^
+KP4/VA3QSL [K P 4, slash, V A 3, Q S L] ^
+4L4FN/P5 [4 L 4, F N, slash, P 5] ^
+HC8/LX1NO [H C 8, slash, L X 1, N O] ^
+J3/VE3EBN [J 3, slash, V E 3, E B N] ^
+OZ1IVA/P [O Z 1, I V A, slash, P] ^
+KH0/W2HS [K H zero, slash, W 2, H S] ^
+BA4RSA/4 [B A 4, R S A, slash, 4] ^
+FO/F6CTF/MM [F O, slash, F 6, C T F, slash, M M] ^
+IM0/I1ASU [I M zero, slash, I 1, A S U] ^
+PA/DL1SBF/P [P A, slash, D L 1, S B F, slash, P] ^
+MW0CFF/M [M W zero, C F F, slash, M] ^
+YC5XIP/P [Y C 5, X I P, slash, P] ^
+T6/ZS5ADU [T 6, slash, Z S 5, A D U] ^
+FR/PA3GIO [F R, slash, P A 3, G I O] ^
+CE1/WU2D [C E 1, slash, W U 2, D] ^
+LX/ON5QRP/P [L X, slash, O N 5, Q R P, slash, P] ^
+VP9/KG9EE [V P 9, slash, K G 9, E E] ^
+N1CZZ/M [N 1, C Z Z, slash, M] ^
+K7XF/KH0 [K 7, X F, slash, K H zero] ^
+PY7CRA/P [P Y 7, C R A, slash, P] ^
+RZ1OA/P [R Z 1, O A, slash, P] ^
+DL/EA8BFH [D L, slash, E A 8, B F H] ^
+ER1CW/QRP [E R 1, C W, slash, Q R P] ^
+KH0/JK2VOC [K H zero, slash, J K 2, V O C] ^
+IT9/IW3RUA [I T 9, slash, I W 3, R U A] ^
+JD1/JI1FLB [J D 1, slash, J I 1, F L B] ^
+FG/PA3ERC [F G, slash, P A 3, E R C] ^
+JW/DL4OCM [J W, slash, D L 4, O C M] ^
+EE7L/1 [E E 7, L, slash, 1] ^
+WB8BZK/VE3 [W B 8, B Z K, slash, V E 3] ^
+VA7UR/HB9 [V A 7, U R, slash, H B 9] ^
+LX/PE1LUC [L X, slash, P E 1, L U C] ^
+VY2/KJ6Y [V Y 2, slash, K J 6, Y] ^
+EI/ON4EI [E I, slash, O N 4, E I] ^
+EA6/DF5WA [E A 6, slash, D F 5, W A] ^
+MM0DGR/P [M M zero, D G R, slash, P] ^
+EA8/ON5UM [E A 8, slash, O N 5, U M] ^
+DU3/AH8F [D U 3, slash, A H 8, F] ^
+I0VVG/M [I zero, V V G, slash, M] ^
+F/G3VQO/P [F, slash, G 3, V Q O, slash, P] ^
+CN2GG/M [C N 2, G G, slash, M] ^
+IW3ENS/MM [I W 3, E N S, slash, M M] ^
+HJ6MEM/M [H J 6, M E M, slash, M] ^
+4W/JJ1JJJ [4 W, slash, J J 1, J J J] ^
+OZ/DK6CW/P [O Z, slash, D K 6, C W, slash, P] ^
+PJ2/WB9Z [P J 2, slash, W B 9, Z] ^
+FR/F4EGZ [F R, slash, F 4, E G Z] ^
+TA4/DJ5MN [T A 4, slash, D J 5, M N] ^
+JE4QIG/4 [J E 4, Q I G, slash, 4] ^
+WA4ZKO/B [W A 4, Z K O, slash, B] ^
+KH6/JR1AGC [K H 6, slash, J R 1, A G C] ^
+IP1/IK4RUX [I P 1, slash, I K 4, R U X] ^
+RA1N/UB4LWA [R A 1, N, slash, U B 4, L W A] ^
+K0COP/6Y5 [K zero, C O P, slash, 6, Y 5] ^
+LU/KY0C [L U, slash, K Y zero, C] ^
+HI3/AD7GW [H I 3, slash, A D 7, G W] ^
+EB2AMB/QRP [E B 2, A M B, slash, Q R P] ^
+G3MRC/C9 [G 3, M R C, slash, C 9] ^
+OH0/DK3QZ [O H zero, slash, D K 3, Q Z] ^
+OZ/DM5MA [O Z, slash, D M 5, M A] ^
+3B9/ON4LAC [3 B 9, slash, O N 4, L A C] ^
+G6SWD/QRP [G 6, S W D, slash, Q R P] ^
+SV9/YU1FW [S V 9, slash, Y U 1, F W] ^
+DF1RM/M [D F 1, R M, slash, M] ^
+JO6XTM/M [J O 6, X T M, slash, M] ^
+TA4/DL9USA [T A 4, slash, D L 9, U S A] ^
+CU2/SM7RYR [C U 2, slash, S M 7, R Y R] ^
+GB0SRW/MM [G B zero, S R W, slash, M M] ^
+GM4AGG/P [G M 4, A G G, slash, P] ^
+F6CYR/MM [F 6, C Y R, slash, M M] ^
+DJ2IV/MM [D J 2, I V, slash, M M] ^
+LX/OH1HAQ [L X, slash, O H 1, H A Q] ^
+EA/G0SGB [E A, slash, G zero, S G B] ^
+DG1DAG/M [D G 1, D A G, slash, M] ^
+EB5BBM/BY7PP [E B 5, B B M, slash, B Y 7, P P] ^
+OH/SQ2KLZ [O H, slash, S Q 2, K L Z] ^
+LZ5UY/QRP [L Z 5, U Y, slash, Q R P] ^
+Z38/YU1JF [Z 3, 8, slash, Y U 1, J F] ^
+EA3BBW/MM [E A 3, B B W, slash, M M] ^
+DB0SY/MM [D B zero, S Y, slash, M M] ^
+MM/F5BLC [M M, slash, F 5, B L C] ^
+IK5DHM/ANT [I K 5, D H M, slash, A N T] ^
+TK/F5TGR [T K, slash, F 5, T G R] ^
+LZ/OH9MM [L Z, slash, O H 9, M M] ^
+JJ2GAZ/1 [J J 2, G A Z, slash, 1] ^
+HS0/OK1CZ [H S zero, slash, O K 1, C Z] ^
+T9/7S7Y [T 9, slash, 7, S 7, Y] ^
+G4UQA/M [G 4, U Q A, slash, M] ^
+LU1YLM/M [L U 1, Y L M, slash, M] ^
+N0YLE/QRP [N zero, Y L E, slash, Q R P] ^
+CE0/W9FW [C E zero, slash, W 9, F W] ^
+TF/DL2WJT [T F, slash, D L 2, W J T] ^
+RX3M/UZ9SWO [R X 3, M, slash, U Z 9, S W O] ^
+P4/LY2TA [P 4, slash, L Y 2, T A] ^
+JA8TMO/QRP [J A 8, T M O, slash, Q R P] ^
+Z2/W6QL [Z 2, slash, W 6, Q L] ^
+SV5/PH2M/MM [S V 5, slash, P H 2, M, slash, M M] ^
+OA7/DL1CW [O A 7, slash, D L 1, C W] ^
+TK/F1JRD [T K, slash, F 1, J R D] ^
+IB0/OM3RM [I B zero, slash, O M 3, R M] ^
+9A/HA5TAA [9 A, slash, H A 5, T A A] ^
+MI3FBI/QRP [M I 3, F B I, slash, Q R P] ^
+ZA/IZ5YHD/M [Z A, slash, I Z 5, Y H D, slash, M] ^
+5Z4/VE2FTT [5 Z 4, slash, V E 2, F T T] ^
+IK2VIR/QRP [I K 2, V I R, slash, Q R P] ^
+J6/AA7X [J 6, slash, A A 7, X] ^
+CE0Y/JA0JHQ [C E zero, Y, slash, J A zero, J H Q] ^
+F/OE5JKL [F, slash, O E 5, J K L] ^
+LU3JER/QRP [L U 3, J E R, slash, Q R P] ^
+LA5NK/MM [L A 5, N K, slash, M M] ^
+CL3DSE/M [C L 3, D S E, slash, M] ^
+GM0BPK/M [G M zero, B P K, slash, M] ^
+HB0/OE5REO [H B zero, slash, O E 5, R E O] ^
+EA1BAU/M [E A 1, B A U, slash, M] ^
+ZL7/G3SXW [Z L 7, slash, G 3, S X W] ^
+AX5PAS/P [A X 5, P A S, slash, P] ^
+ID9/IW9GDC [I D 9, slash, I W 9, G D C] ^
+PJ5/SP9FIH [P J 5, slash, S P 9, F I H] ^
+RX6LMQ/0 [R X 6, L M Q, slash, zero] ^
+PJ4/G5IUF [P J 4, slash, G 5, I U F] ^
+R3/OE2VEL [R 3, slash, O E 2, V E L] ^
+RJ8S/UA6BGB [R J 8, S, slash, U A 6, B G B] ^
+KC4/N2TA [K C 4, slash, N 2, T A] ^
+IT9HBS/P [I T 9, H B S, slash, P] ^
+2MAUR/P [2 M A U R, slash, P] ^
+R3CA/8 [R 3, C A, slash, 8] ^
+SV5/DJ7RJ [S V 5, slash, D J 7, R J] ^
+OZ/DK1DU [O Z, slash, D K 1, D U] ^
+CT8/DK7MG/P [C T 8, slash, D K 7, M G, slash, P] ^
+YI/AB8DY [Y I, slash, A B 8, D Y] ^
+CU1/SM1CJV [C U 1, slash, S M 1, C J V] ^
+LA/DM2AUJ [L A, slash, D M 2, A U J] ^
+DO1MMN/M [D O 1, M M N, slash, M] ^
+ON4HIL/6Y5 [O N 4, H I L, slash, 6, Y 5] ^
+JA1YDU/QRP [J A 1, Y D U, slash, Q R P] ^
+CY0/N0TG [C Y zero, slash, N zero, T G] ^
+EI/VO1AU [E I, slash, V O 1, A U] ^
+DY3VAG/QRP [D Y 3, V A G, slash, Q R P] ^
+LX/PA3FYG/P [L X, slash, P A 3, F Y G, slash, P] ^
+G8KFQ/M [G 8, K F Q, slash, M] ^
+VK4WWI/P [V K 4, W W I, slash, P] ^
+FG/OE6MBG [F G, slash, O E 6, M B G] ^
+OH3JR/VP9 [O H 3, J R, slash, V P 9] ^
+F/M0RIF [F, slash, M zero, R I F] ^
+6Y5OF/QRP [6 Y 5, O F, slash, Q R P] ^
+HB0/SM0W [H B zero, slash, S M zero, W] ^
+HB0/LY2BVB/P [H B zero, slash, L Y 2, B V B, slash, P] ^
+6W/F6HMJ [6 W, slash, F 6, H M J] ^
+F/M0CUL [F, slash, M zero, C U L] ^
+CT9/DL3KWF [C T 9, slash, D L 3, K W F] ^
+IW7DGU/MM [I W 7, D G U, slash, M M] ^
+IN3/HB9LCW [I N 3, slash, H B 9, L C W] ^
+F/OO5C/P [F, slash, O O 5, C, slash, P] ^
+PJ4/N5WR [P J 4, slash, N 5, W R] ^
+TA0/UA6DX [T A zero, slash, U A 6, D X] ^
+VP5/N7OU [V P 5, slash, N 7, O U] ^
+OH8UV/3 [O H 8, U V, slash, 3] ^
+HJ3SFJ/QRP [H J 3, S F J, slash, Q R P] ^
+HB0/E77QJ [H B zero, slash, E 7, 7, Q J] ^
+RK3MWL/1 [R K 3, M W L, slash, 1] ^
+W1USN/TI5 [W 1, U S N, slash, T I 5] ^
+FR/F4HPX [F R, slash, F 4, H P X] ^
+CT3/HB9CQL [C T 3, slash, H B 9, C Q L] ^
+5B/SM2EKM [5 B, slash, S M 2, E K M] ^
+ZA/YU1FW [Z A, slash, Y U 1, F W] ^
+FY/IW1BND [F Y, slash, I W 1, B N D] ^
+EU0O/LY20BO [E U zero, O, slash, L Y 2, zero, B O] ^
+4O/YT2A/P [4 O, slash, Y T 2, A, slash, P] ^
+HB0/OK2WO [H B zero, slash, O K 2, W O] ^
+CT8/ON5NT [C T 8, slash, O N 5, N T] ^
+BW2/OE1WHC [B W 2, slash, O E 1, W H C] ^
+VY2/WW4GA [V Y 2, slash, W W 4, G A] ^
+IM0/IZ4JMA [I M zero, slash, I Z 4, J M A] ^
+ZF2WP/ZF9 [Z F 2, W P, slash, Z F 9] ^
+G7DNB/QRP [G 7, D N B, slash, Q R P] ^
+E7/9A2AA [E 7, slash, 9, A 2, A A] ^
+EA8/G4RGK [E A 8, slash, G 4, R G K] ^
+IA5/IZ2LTW [I A 5, slash, I Z 2, L T W] ^
+C6A/WI9WI [C 6, A, slash, W I 9, W I] ^
+HL1/AA9MA [H L 1, slash, A A 9, M A] ^
+OH0/OH2LZC [O H zero, slash, O H 2, L Z C] ^
+FY/F8FUA [F Y, slash, F 8, F U A] ^
+JW/KH0PR [J W, slash, K H zero, P R] ^
+6Y5/VE3AXC [6 Y 5, slash, V E 3, A X C] ^
+TF/DL7PS [T F, slash, D L 7, P S] ^
+MD/ON6KX [M D, slash, O N 6, K X] ^
+G4MVC/QRP [G 4, M V C, slash, Q R P] ^
+OH8UV/4 [O H 8, U V, slash, 4] ^
+OH3GD/OH0 [O H 3, G D, slash, O H zero] ^
+MU0REN/P [M U zero, R E N, slash, P] ^
+OM/DL7UUU [O M, slash, D L 7, U U U] ^
+EA8BNL/M [E A 8, B N L, slash, M] ^
+LU1JOA/MM [L U 1, J O A, slash, M M] ^
+OH0/W6RGG [O H zero, slash, W 6, R G G] ^
+SV9/LY1DF [S V 9, slash, L Y 1, D F] ^
+IK0AWO/MM [I K zero, A W O, slash, M M] ^
+BW/JL3TOG [B W, slash, J L 3, T O G] ^
+5Z4/LA4GHA [5 Z 4, slash, L A 4, G H A] ^
+AL5A/AH0 [A L 5, A, slash, A H zero] ^
+KH2/JA7AYE [K H 2, slash, J A 7, A Y E] ^
+ZL/PA0BWL [Z L, slash, P A zero, B W L] ^
+J3/W1USN [J 3, slash, W 1, U S N] ^
+YV8DX/6 [Y V 8, D X, slash, 6] ^
+IT9/IZ2ZTR [I T 9, slash, I Z 2, Z T R] ^
+YN/W2JO [Y N, slash, W 2, J O] ^
+RQ1AP/P [R Q 1, A P, slash, P] ^
+3A/I1RBJ [3 A, slash, I 1, R B J] ^
+OZ/DF1XC [O Z, slash, D F 1, X C] ^
+YV1/K3UOC [Y V 1, slash, K 3, U O C] ^
+W1AW/3 [W 1, A W, slash, 3] ^
+PJ2/K8MR [P J 2, slash, K 8, M R] ^
+UE9OWM/9 [U E 9, O W M, slash, 9] ^
+IT9FUN/P [I T 9, F U N, slash, P] ^
+KP2/VE3OP [K P 2, slash, V E 3, O P] ^
+CT3/DM3VL [C T 3, slash, D M 3, V L] ^
+CT9/DC3JB [C T 9, slash, D C 3, J B] ^
+JH0IAM/1 [J H zero, I A M, slash, 1] ^
+OE1WIU/8QRP [O E 1, W I U, slash, 8, Q R P] ^
+SA7BGN/P [S A 7, B G N, slash, P] ^
+CT9/DJ9IE [C T 9, slash, D J 9, I E] ^
+BX2/NE3H [B X 2, slash, N E 3, H] ^
+9K2/T94FC [9 K 2, slash, T 9, 4, F C] ^
+M0TMW/M [M zero, T M W, slash, M] ^
+3A/N9NS [3 A, slash, N 9, N S] ^
+YV8AW/6 [Y V 8, A W, slash, 6] ^
+IE9/IK4MED [I E 9, slash, I K 4, M E D] ^
+N1KZF/QRP [N 1, K Z F, slash, Q R P] ^
+GM0IFM/QRP [G M zero, I F M, slash, Q R P] ^
+JR1AFA/MM [J R 1, A F A, slash, M M] ^
+DU7/DF8AN [D U 7, slash, D F 8, A N] ^
+WN2NSX/W2N [W N 2, N S X, slash, W 2, N] ^
+EK/R2DY [E K, slash, R 2, D Y] ^
+TG9/XE1KK [T G 9, slash, X E 1, K K] ^
+F5XT/MM [F 5, X T, slash, M M] ^
+EA7/ON4LO/P [E A 7, slash, O N 4, L O, slash, P] ^
+HK3CBM/QRP [H K 3, C B M, slash, Q R P] ^
+IZ8OM/7 [I Z 8, O M, slash, 7] ^
+WB4DNL/VP9 [W B 4, D N L, slash, V P 9] ^
+PJ4/DG1SGW [P J 4, slash, D G 1, S G W] ^
+N1CQH/M [N 1, C Q H, slash, M] ^
+TA3/LZ1ZF [T A 3, slash, L Z 1, Z F] ^
+5B/G0SGB [5 B, slash, G zero, S G B] ^
+UX1BZZ/P [U X 1, B Z Z, slash, P] ^
+EA8/GM0IIO [E A 8, slash, G M zero, I I O] ^
+EA3/DJ6TK [E A 3, slash, D J 6, T K] ^
+MM/ON4GS [M M, slash, O N 4, G S] ^
+J3/SP3IPB [J 3, slash, S P 3, I P B] ^
+IZ1OYP/QRP [I Z 1, O Y P, slash, Q R P] ^
+5N9EAM/6 [5 N 9, E A M, slash, 6] ^
+VK2AWI/P [V K 2, A W I, slash, P] ^
+HL0BDU/5 [H L zero, B D U, slash, 5] ^
+DH1JP/QRP [D H 1, J P, slash, Q R P] ^
+F/ON7JA [F, slash, O N 7, J A] ^
 EA8/UA5C [E A 8, slash, U A 5, C] ^
+OX/W0GPR [O X, slash, W zero, G P R] ^
+HB0/IZ3GNG/P [H B zero, slash, I Z 3, G N G, slash, P] ^
+F0OV/FC [F zero, O V, slash, F C] ^
+KP2/KF4U [K P 2, slash, K F 4, U] ^
+DL1AQU/M [D L 1, A Q U, slash, M] ^
+VE9MY/VO1 [V E 9, M Y, slash, V O 1] ^
+CT8/DL1CW [C T 8, slash, D L 1, C W] ^
+HC4/KD6WW [H C 4, slash, K D 6, W W] ^
+9A/IK1ACX [9 A, slash, I K 1, A C X] ^
+DL0RST/MM [D L zero, R S T, slash, M M] ^
+VE2QRA/P [V E 2, Q R A, slash, P] ^
+JA6TBE/4 [J A 6, T B E, slash, 4] ^
+KH6/G4KHG/M [K H 6, slash, G 4, K H G, slash, M] ^
+M0DYK/MM [M zero, D Y K, slash, M M] ^
+NN7A/4 [N N 7, A, slash, 4] ^
+DC8IU/M [D C 8, I U, slash, M] ^
+9A/DL1EKO [9 A, slash, D L 1, E K O] ^
+IM0/IZ0EJQ [I M zero, slash, I Z zero, E J Q] ^
+LX/DJ1AA/M [L X, slash, D J 1, A A, slash, M] ^
+W3OGY/VP9 [W 3, O G Y, slash, V P 9] ^
+JF6YME/6 [J F 6, Y M E, slash, 6] ^
+I1XJD/M [I 1, X J D, slash, M] ^
+CE2/UA4WHX [C E 2, slash, U A 4, W H X] ^
+DO3LE/M [D O 3, L E, slash, M] ^
+F5AXG/M [F 5, A X G, slash, M] ^
+PJ2/N4GG [P J 2, slash, N 4, G G] ^
+UE9JYW/P [U E 9, J Y W, slash, P] ^
+IW6BDE/M [I W 6, B D E, slash, M] ^
+EB5BPS/M [E B 5, B P S, slash, M] ^
+HI9/IZ2KTE [H I 9, slash, I Z 2, K T E] ^
+LU5DBT/M [L U 5, D B T, slash, M] ^
+PJ2/K3UOC [P J 2, slash, K 3, U O C] ^
+OH0/OH8FQ [O H zero, slash, O H 8, F Q] ^
+LZ2CC/P [L Z 2, C C, slash, P] ^
+NA8O/VK4 [N A 8, O, slash, V K 4] ^
+FG/AI5P [F G, slash, A I 5, P] ^
+HK4GFE/MM [H K 4, G F E, slash, M M] ^
+CT3/DF1LON [C T 3, slash, D F 1, L O N] ^
+J6/KO7M [J 6, slash, K O 7, M] ^
+EA2/HB9FAX [E A 2, slash, H B 9, F A X] ^
+DB8VZ/QRP [D B 8, V Z, slash, Q R P] ^
+DK0TUI/M [D K zero, T U I, slash, M] ^
+FR5ZU/T [F R 5, Z U, slash, T] ^
+VP9/M0VFC [V P 9, slash, M zero, V F C] ^
+EA7BNR/M [E A 7, B N R, slash, M] ^
+EB1HZN/MM [E B 1, H Z N, slash, M M] ^
+7N2SPK/1 [7 N 2, S P K, slash, 1] ^
+3B8/F5AEG [3 B 8, slash, F 5, A E G] ^
+VY2/DL1FDH [V Y 2, slash, D L 1, F D H] ^
+SV8/HB9AAI [S V 8, slash, H B 9, A A I] ^
+G6UMX/M [G 6, U M X, slash, M] ^
+KH2/KD6CJF [K H 2, slash, K D 6, C J F] ^
+SV9/DL5YWM [S V 9, slash, D L 5, Y W M] ^
+DB8CB/M [D B 8, C B, slash, M] ^
+G4JFF/MM [G 4, J F F, slash, M M] ^
+CE5JMQ/QRP [C E 5, J M Q, slash, Q R P] ^
+KH2/JJ1JGI [K H 2, slash, J J 1, J G I] ^
+YU/S56A [Y U, slash, S 5, 6, A] ^
+TT/F4EGS [T T, slash, F 4, E G S] ^
+HI3/EA3GUO [H I 3, slash, E A 3, G U O] ^
+DL/LA8OKA [D L, slash, L A 8, O K A] ^
+HC2/RC5A [H C 2, slash, R C 5, A] ^
+W7HU/HC7 [W 7, H U, slash, H C 7] ^
+EB5AFV/M [E B 5, A F V, slash, M] ^
+6W/DL2RMC [6 W, slash, D L 2, R M C] ^
+OH0/OF3I [O H zero, slash, O F 3, I] ^
+HH2/PY3SB [H H 2, slash, P Y 3, S B] ^
+G0TRF/QRP [G zero, T R F, slash, Q R P] ^
+IS0/DL3OCH [I S zero, slash, D L 3, O C H] ^
+AG9A/AH2 [A G 9, A, slash, A H 2] ^
+W4CCF/P [W 4, C C F, slash, P] ^
+LZ5YV/QRP [L Z 5, Y V, slash, Q R P] ^
+FR/DL5CF [F R, slash, D L 5, C F] ^
+UA6I/UA6BGB [U A 6, I, slash, U A 6, B G B] ^
+6Y5/VE4GV [6 Y 5, slash, V E 4, G V] ^
+G1WEV/QRP [G 1, W E V, slash, Q R P] ^
+J48LW/M [J 4, 8, L W, slash, M] ^
+HH4/W4WX [H H 4, slash, W 4, W X] ^
+SV9/OH9MDV/P [S V 9, slash, O H 9, M D V, slash, P] ^
+9A/DL3VTA [9 A, slash, D L 3, V T A] ^
+DL3NM/TI6 [D L 3, N M, slash, T I 6] ^
+5H3DG/QRP [5 H 3, D G, slash, Q R P] ^
+DL8AKI/HI9 [D L 8, A K I, slash, H I 9] ^
+DL4VCG/HC8 [D L 4, V C G, slash, H C 8] ^
+LU1CCU/QRP [L U 1, C C U, slash, Q R P] ^
+FY/DL3LUM [F Y, slash, D L 3, L U M] ^
+W9VW/B [W 9, V W, slash, B] ^
+EA6/DK4RL [E A 6, slash, D K 4, R L] ^
+VPEV/SQ3WN [V P E V, slash, S Q 3, W N] ^
+3Z60VD/5 [3 Z 6, zero, V D, slash, 5] ^
+DL0FL/MM [D L zero, F L, slash, M M] ^
+C6A/K2PS [C 6, A, slash, K 2, P S] ^
+DN6QE/M [D N 6, Q E, slash, M] ^
+VP5/N0TG [V P 5, slash, N zero, T G] ^
+J6/KA9P [J 6, slash, K A 9, P] ^
+SV9/OE3JAG [S V 9, slash, O E 3, J A G] ^
+TF/DJ8EW [T F, slash, D J 8, E W] ^
+VE3IKV/W4 [V E 3, I K V, slash, W 4] ^
+HK1/LU3CT [H K 1, slash, L U 3, C T] ^
+DG1EJM/QRP [D G 1, E J M, slash, Q R P] ^
+GB3NGI/B [G B 3, N G I, slash, B] ^
+JW/N0WBV [J W, slash, N zero, W B V] ^
+UA9C/UW9QK [U A 9, C, slash, U W 9, Q K] ^
+SV9/ON5NT [S V 9, slash, O N 5, N T] ^
+PA/DL1SBF [P A, slash, D L 1, S B F] ^
+ZB2/PA3EWP [Z B 2, slash, P A 3, E W P] ^
+KH2/JH7BVH [K H 2, slash, J H 7, B V H] ^
+DL/TA1AET [D L, slash, T A 1, A E T] ^
+OZ/DG2RON [O Z, slash, D G 2, R O N] ^
+OX/WW6RG [O X, slash, W W 6, R G] ^
+HR8/YN4SU [H R 8, slash, Y N 4, S U] ^
+EA5/G0MGA [E A 5, slash, G zero, M G A] ^
+R0/UT5IA [R zero, slash, U T 5, I A] ^
+Z6/DF8AN [Z 6, slash, D F 8, A N] ^
+IW0RBX/MM [I W zero, R B X, slash, M M] ^
+D44/CT1EKF [D 4, 4, slash, C T 1, E K F] ^
+EA8BTX/M [E A 8, B T X, slash, M] ^
+PJ4/N2BA [P J 4, slash, N 2, B A] ^
+VK3BF/VK9C [V K 3, B F, slash, V K 9, C] ^
+OH0/JA5AQC [O H zero, slash, J A 5, A Q C] ^
+OJ0/LA9VDA/P [O J zero, slash, L A 9, V D A, slash, P] ^
+OZ/I2AE [O Z, slash, I 2, A E] ^
+F6EJU/QRP [F 6, E J U, slash, Q R P] ^
+GR4KQU/MM [G R 4, K Q U, slash, M M] ^
+IU3MCP/QRP [I U 3, M C P, slash, Q R P] ^
+H40XX/QRP [H 4, zero, X X, slash, Q R P] ^
+DL1JRN/MM [D L 1, J R N, slash, M M] ^
+YB9/HB9MPX [Y B 9, slash, H B 9, M P X] ^
+N3U/FLT93 [N 3, U, slash, F L T 9, 3] ^
+4X3000/4X1BD [4 X 3, zero, zero, zero, slash, 4, X 1, B D] ^
+M3OFW/MM [M 3, O F W, slash, M M] ^
+F/ON5SY [F, slash, O N 5, S Y] ^
+5Z4/IK8VRH [5 Z 4, slash, I K 8, V R H] ^
+RW0MM/P [R W zero, M M, slash, P] ^
+HB9/DL2JRM [H B 9, slash, D L 2, J R M] ^
+IV3/IZ3GNG [I V 3, slash, I Z 3, G N G] ^
+PJ6/N4GRN [P J 6, slash, N 4, G R N] ^
+SP6CZ/1 [S P 6, C Z, slash, 1] ^
+EA5EZQ/M [E A 5, E Z Q, slash, M] ^
+SV0XAF/8 [S V zero, X A F, slash, 8] ^
+ZL2/EA8EE [Z L 2, slash, E A 8, E E] ^
+J6/PA3ERC [J 6, slash, P A 3, E R C] ^
+EA2/F5SUL [E A 2, slash, F 5, S U L] ^
+KH0/AI5P [K H zero, slash, A I 5, P] ^
+VY2/KH6ND [V Y 2, slash, K H 6, N D] ^
+R20RRC/1 [R 2, zero, R R C, slash, 1] ^
+VE1/KD2JA [V E 1, slash, K D 2, J A] ^
+JA1SKY/6 [J A 1, S K Y, slash, 6] ^
+RZ4HZW/4 [R Z 4, H Z W, slash, 4] ^
+SV9/PA3GCV [S V 9, slash, P A 3, G C V] ^
+EA1BF/D2 [E A 1, B F, slash, D 2] ^
+BV7/DL7IO [B V 7, slash, D L 7, I O] ^
+IZ8FDH/QRP [I Z 8, F D H, slash, Q R P] ^
+IW6MXI/M [I W 6, M X I, slash, M] ^
+CE2/VE7SV [C E 2, slash, V E 7, S V] ^
+EB5FHT/M [E B 5, F H T, slash, M] ^
+TT8/US3EZ [T T 8, slash, U S 3, E Z] ^
+P4/XE1L [P 4, slash, X E 1, L] ^
+EA7/F5VEX [E A 7, slash, F 5, V E X] ^
+JA1MVO/MM [J A 1, M V O, slash, M M] ^
+DF4OY/M [D F 4, O Y, slash, M] ^
+A7/G0MKT [A 7, slash, G zero, M K T] ^
+EB4FDW/MM [E B 4, F D W, slash, M M] ^
+Z38/SQ3RX [Z 3, 8, slash, S Q 3, R X] ^
+DL4WX/M [D L 4, W X, slash, M] ^
+MN0PQR/P [M N zero, P Q R, slash, P] ^
+IL7/IK7SUO [I L 7, slash, I K 7, S U O] ^
+6Y5/KB0IRW [6 Y 5, slash, K B zero, I R W] ^
+DG6CAZ/MM [D G 6, C A Z, slash, M M] ^
+DL/G8OFQ [D L, slash, G 8, O F Q] ^
+J6/WR3Y [J 6, slash, W R 3, Y] ^
+CX4ON/MM [C X 4, O N, slash, M M] ^
+F/TB4COR [F, slash, T B 4, C O R] ^
+F/G4BJM [F, slash, G 4, B J M] ^
+SV9/G3PDL [S V 9, slash, G 3, P D L] ^
+W6/DL6AP/P [W 6, slash, D L 6, A P, slash, P] ^
+SM6/V63YM [S M 6, slash, V 6, 3, Y M] ^
+LU2ERA/Z [L U 2, E R A, slash, Z] ^
+SV9/IK5PWQ [S V 9, slash, I K 5, P W Q] ^
+YI/OM2DX [Y I, slash, O M 2, D X] ^
+CT7/OH2ME [C T 7, slash, O H 2, M E] ^
+CT9/G0TSM [C T 9, slash, G zero, T S M] ^
+KC8RUD/KH0 [K C 8, R U D, slash, K H zero] ^
+CT8/DL2TM [C T 8, slash, D L 2, T M] ^
+CX/LU8ADX [C X, slash, L U 8, A D X] ^
+PJ2/RW0CN [P J 2, slash, R W zero, C N] ^
+TA2/DJ8QP [T A 2, slash, D J 8, Q P] ^
+CS4ODX/P [C S 4, O D X, slash, P] ^
+KP4/K6DTT [K P 4, slash, K 6, D T T] ^
+OA4/DL5YWH [O A 4, slash, D L 5, Y W H] ^
+IS0/OM3LA [I S zero, slash, O M 3, L A] ^
+VY2/N1SNB [V Y 2, slash, N 1, S N B] ^
+YI/ON5NT [Y I, slash, O N 5, N T] ^
+OZ/DL6LZM [O Z, slash, D L 6, L Z M] ^
+FP/W8MC [F P, slash, W 8, M C] ^
+TI5/W3TB [T I 5, slash, W 3, T B] ^
+M/AB2E [M, slash, A B 2, E] ^
+SV9/DL6ZFG [S V 9, slash, D L 6, Z F G] ^
+GD4WSB/P [G D 4, W S B, slash, P] ^
+F/DJ5YL [F, slash, D J 5, Y L] ^
+SV4/IZ7ATN [S V 4, slash, I Z 7, A T N] ^
+IW9FRB/P [I W 9, F R B, slash, P] ^
+VP5M/VP2EBM [V P 5, M, slash, V P 2, E B M] ^
+G3RKK/M [G 3, R K K, slash, M] ^
+LA7GLA/MM [L A 7, G L A, slash, M M] ^
+CE0Y/ON5AX [C E zero, Y, slash, O N 5, A X] ^
+PJ2/W8UVZ [P J 2, slash, W 8, U V Z] ^
+LU4HBS/QRP [L U 4, H B S, slash, Q R P] ^
+HR9/DF8AN [H R 9, slash, D F 8, A N] ^
+HK1/DK7PE [H K 1, slash, D K 7, P E] ^
+VP2V/N7MQ [V P 2, V, slash, N 7, M Q] ^
+CT7/EA1AST [C T 7, slash, E A 1, A S T] ^
+SV9/HB9OAU [S V 9, slash, H B 9, O A U] ^
+JT1DBS/3 [J T 1, D B S, slash, 3] ^
+OH0JJS/1 [O H zero, J J S, slash, 1] ^
+CR6K/P [C R 6, K, slash, P] ^
+FS/N0HMJ [F S, slash, N zero, H M J] ^
+VP2V/KB5IQV [V P 2, V, slash, K B 5, I Q V] ^
+SM1/DL3KWF [S M 1, slash, D L 3, K W F] ^
+OJ0/SA5BDS [O J zero, slash, S A 5, B D S] ^
+YO/F4DZG [Y O, slash, F 4, D Z G] ^
+5B4/KC9URR [5 B 4, slash, K C 9, U R R] ^
+SV8/HA6NL [S V 8, slash, H A 6, N L] ^
+G6SSX/QRP [G 6, S S X, slash, Q R P] ^
+OZ1CF/LH [O Z 1, C F, slash, L H] ^
+CT1EJ/M [C T 1, E J, slash, M] ^
+HK3KAV/1 [H K 3, K A V, slash, 1] ^
+TA1/DJ5MN [T A 1, slash, D J 5, M N] ^
+LA2ANA/MM [L A 2, A N A, slash, M M] ^
+9A1CGY/QRP [9 A 1, C G Y, slash, Q R P] ^
+US5ERQ/P [U S 5, E R Q, slash, P] ^
+LU1DKJ/MM [L U 1, D K J, slash, M M] ^
+VP5/OZ1LQO [V P 5, slash, O Z 1, L Q O] ^
+EI/OK1HAG/P [E I, slash, O K 1, H A G, slash, P] ^
+IZ3XSH/MM [I Z 3, X S H, slash, M M] ^
+YB0AI/9 [Y B zero, A I, slash, 9] ^
+IW3BEK/M [I W 3, B E K, slash, M] ^
+LU/R1ANF [L U, slash, R 1, A N F] ^
+9A/S51TA [9 A, slash, S 5, 1, T A] ^
+FM/JI1DCW [F M, slash, J I 1, D C W] ^
+HP1/LU9EFO [H P 1, slash, L U 9, E F O] ^
+PJ4/LU1FAM [P J 4, slash, L U 1, F A M] ^
+F6FMT/VO1 [F 6, F M T, slash, V O 1] ^
+LU8EPV/MM [L U 8, E P V, slash, M M] ^
+EA6/DJ2QV [E A 6, slash, D J 2, Q V] ^
+KL7/KJ4OAP [K L 7, slash, K J 4, O A P] ^
+LA8TMA/M [L A 8, T M A, slash, M] ^
+HB0/F5RAV/P [H B zero, slash, F 5, R A V, slash, P] ^
+3A/F5NHJ [3 A, slash, F 5, N H J] ^
+EF3ALV/7 [E F 3, A L V, slash, 7] ^
+HL2MAG/M [H L 2, M A G, slash, M] ^
+3A/OH9MM [3 A, slash, O H 9, M M] ^
+CE2IOE/QRP [C E 2, I O E, slash, Q R P] ^
+EA8/G3VTT [E A 8, slash, G 3, V T T] ^
+MS0INT/P [M S zero, I N T, slash, P] ^
+SM0AGD/TA [S M zero, A G D, slash, T A] ^
+LU2JDN/M [L U 2, J D N, slash, M] ^
+VP2V/N3DXX [V P 2, V, slash, N 3, D X X] ^
+RO4M/6 [R O 4, M, slash, 6] ^
+EA4/YO8DHC [E A 4, slash, Y O 8, D H C] ^
+FP/G3SXW [F P, slash, G 3, S X W] ^
+WS2M/KH0 [W S 2, M, slash, K H zero] ^
+UE3GMF/P [U E 3, G M F, slash, P] ^
+9H5FA/QRP [9 H 5, F A, slash, Q R P] ^
+5B4/UA3QDX [5 B 4, slash, U A 3, Q D X] ^
+II1RT/5 [I I 1, R T, slash, 5] ^
+BV2YA/1 [B V 2, Y A, slash, 1] ^
+MJ/EA1SA [M J, slash, E A 1, S A] ^
+PJ9/K3EST [P J 9, slash, K 3, E S T] ^
+3B8/OE3GEA [3 B 8, slash, O E 3, G E A] ^
+CT/DL5DSM [C T, slash, D L 5, D S M] ^
+G4KON/MM [G 4, K O N, slash, M M] ^
+BW2/JH7BZR [B W 2, slash, J H 7, B Z R] ^
+OZ/DM3VA [O Z, slash, D M 3, V A] ^
+6V2R/P [6 V 2, R, slash, P] ^
+EM23IV/P [E M 2, 3, I V, slash, P] ^
+RA3DRC/1 [R A 3, D R C, slash, 1] ^
+ER0/DL6MHG [E R zero, slash, D L 6, M H G] ^
+V5/ZS1AO [V 5, slash, Z S 1, A O] ^
+OH0/UA1ZFG [O H zero, slash, U A 1, Z F G] ^
+DL2IAV/QRP [D L 2, I A V, slash, Q R P] ^
+9A6AT/KB6ATT [9 A 6, A T, slash, K B 6, A T T] ^
+VP9/VE7YBH [V P 9, slash, V E 7, Y B H] ^
+J6/W7ZT [J 6, slash, W 7, Z T] ^
+9V1YC/QRP [9 V 1, Y C, slash, Q R P] ^
+EA7/M0TTT [E A 7, slash, M zero, T T T] ^
+5H3EE/3 [5 H 3, E E, slash, 3] ^
+RKEDZJ/1 [R K E D Z J, slash, 1] ^
+4X/OE1GZA [4 X, slash, O E 1, G Z A] ^
+VR10ZQZ/P [V R 1, zero, Z Q Z, slash, P] ^
+UA6GO/MM [U A 6, G O, slash, M M] ^
+5B/IZ8CCW [5 B, slash, I Z 8, C C W] ^
+LY150M/M [L Y 1, 5, zero, M, slash, M] ^
+TA0/TA3J/P [T A zero, slash, T A 3, J, slash, P] ^
+CE2/SQ1DWR [C E 2, slash, S Q 1, D W R] ^
+4L/AJ3M [4 L, slash, A J 3, M] ^
+SV8/IK4RUX [S V 8, slash, I K 4, R U X] ^
+DD0RR/MM [D D zero, R R, slash, M M] ^
+CE0Z/LA9SN [C E zero, Z, slash, L A 9, S N] ^
+SP0DIG/2 [S P zero, D I G, slash, 2] ^
+YV1AA/R [Y V 1, A A, slash, R] ^
+J3/N0WBV [J 3, slash, N zero, W B V] ^
+HR9/K0UU [H R 9, slash, K zero, U U] ^
+J6/SP7VC [J 6, slash, S P 7, V C] ^
+HA/OH2BAD [H A, slash, O H 2, B A D] ^
+DL0MC/M [D L zero, M C, slash, M] ^
+EA6/DL5DF [E A 6, slash, D L 5, D F] ^
+PJ7/N4ZC [P J 7, slash, N 4, Z C] ^
+OZ/DL6DH [O Z, slash, D L 6, D H] ^
+YV6AOH/5 [Y V 6, A O H, slash, 5] ^
+HA7DBS/QRP [H A 7, D B S, slash, Q R P] ^
+HA0HB/MM [H A zero, H B, slash, M M] ^
 EA6/G4MKP [E A 6, slash, G 4, M K P] ^
+PJ4/N9JZ/M [P J 4, slash, N 9, J Z, slash, M] ^
+F/N6TR [F, slash, N 6, T R] ^
+N2OO/VP9 [N 2, O O, slash, V P 9] ^
+DY1PQF/M [D Y 1, P Q F, slash, M] ^
+E7/SQ1KSA [E 7, slash, S Q 1, K S A] ^
+HC2RMT/8 [H C 2, R M T, slash, 8] ^
+GP8LED/P [G P 8, L E D, slash, P] ^
+IC8/IK8GQY [I C 8, slash, I K 8, G Q Y] ^
+ZB2/W0ETT [Z B 2, slash, W zero, E T T] ^
+HP1/LA5IIA [H P 1, slash, L A 5, I I A] ^
+CU5/CU3AK/P [C U 5, slash, C U 3, A K, slash, P] ^
+PJ9/AE9B [P J 9, slash, A E 9, B] ^
+CT3/TF3CW [C T 3, slash, T F 3, C W] ^
+ZL1/PA0MIR [Z L 1, slash, P A zero, M I R] ^
+DL/LZ3ND [D L, slash, L Z 3, N D] ^
+PJ9/W1USN [P J 9, slash, W 1, U S N] ^
+IS0/WH0Q [I S zero, slash, W H zero, Q] ^
+EA8/DF8AA [E A 8, slash, D F 8, A A] ^
+PJ4/K6UDA [P J 4, slash, K 6, U D A] ^
+FF1NVW/QRP [F F 1, N V W, slash, Q R P] ^
+SM7/DL2VFR [S M 7, slash, D L 2, V F R] ^
+OM/HA6PJ [O M, slash, H A 6, P J] ^
+JH1NVR/MM [J H 1, N V R, slash, M M] ^
+SV8/OK2WH [S V 8, slash, O K 2, W H] ^
+EM23IU/P [E M 2, 3, I U, slash, P] ^
+I2/OZ7BQ [I 2, slash, O Z 7, B Q] ^
+DL1RAV/MM [D L 1, R A V, slash, M M] ^
+PJ4/PA0VDV [P J 4, slash, P A zero, V D V] ^
+CT/DL3MCO/P [C T, slash, D L 3, M C O, slash, P] ^
+ZS3/W6QL [Z S 3, slash, W 6, Q L] ^
+GW1UII/MM [G W 1, U I I, slash, M M] ^
+GW8MIA/P [G W 8, M I A, slash, P] ^
+ZA/OL8R [Z A, slash, O L 8, R] ^
+MM0BLF/P [M M zero, B L F, slash, P] ^
+CT9/DL3KWR [C T 9, slash, D L 3, K W R] ^
+LX/OP50LX [L X, slash, O P 5, zero, L X] ^
+F/DL5MO [F, slash, D L 5, M O] ^
+9M2SG/8 [9 M 2, S G, slash, 8] ^
+G3YY/MM [G 3, Y Y, slash, M M] ^
+LX/PA3EZC/P [L X, slash, P A 3, E Z C, slash, P] ^
+ZA/Z62FB [Z A, slash, Z 6, 2, F B] ^
+FR/G/FH4ED [F R, slash, G, slash, F H 4, E D] ^
+PA/DL1EKO/P [P A, slash, D L 1, E K O, slash, P] ^
+FP/M0TOC [F P, slash, M zero, T O C] ^
+UE3YPP/P [U E 3, Y P P, slash, P] ^
+CU5/CT1EEB [C U 5, slash, C T 1, E E B] ^
+CU2HD/QRP [C U 2, H D, slash, Q R P] ^
+IC8/IZ8FAV [I C 8, slash, I Z 8, F A V] ^
+MI3OZX/M [M I 3, O Z X, slash, M] ^
+OZ/DC7VS [O Z, slash, D C 7, V S] ^
+IB0/IK0GDG [I B zero, slash, I K zero, G D G] ^
+JA6WFM/HC5 [J A 6, W F M, slash, H C 5] ^
+KH2/JJ1CCE [K H 2, slash, J J 1, C C E] ^
+GM3RCV/P [G M 3, R C V, slash, P] ^
+FR/JR8FEK [F R, slash, J R 8, F E K] ^
+MJ/DH1DX [M J, slash, D H 1, D X] ^
+MJ5AJA/P [M J 5, A J A, slash, P] ^
+IW0DIL/MM [I W zero, D I L, slash, M M] ^
+OA4/DL1NL [O A 4, slash, D L 1, N L] ^
+LW7DQS/MM [L W 7, D Q S, slash, M M] ^
+I/200503/TO [I, slash, 2, zero, zero, 5, zero, 3, slash, T O] ^
+JJ3NAW/8 [J J 3, N A W, slash, 8] ^
+LX/OR5M [L X, slash, O R 5, M] ^
+OE3RGB/H800 [O E 3, R G B, slash, H 8, zero, zero] ^
+P4/W7GRW [P 4, slash, W 7, G R W] ^
+LU6FUM/QRP [L U 6, F U M, slash, Q R P] ^
+TI2/KI7WO [T I 2, slash, K I 7, W O] ^
+TF/DL3GCS [T F, slash, D L 3, G C S] ^
+TA4/DJ5AA [T A 4, slash, D J 5, A A] ^
+ON/N4ZC [O N, slash, N 4, Z C] ^
+EA6/G0SGB [E A 6, slash, G zero, S G B] ^
+IE9/IC8ATA [I E 9, slash, I C 8, A T A] ^
+9A/S57CQ [9 A, slash, S 5, 7, C Q] ^
+VE1WOW/P [V E 1, W O W, slash, P] ^
+LX/ON7PQ/P [L X, slash, O N 7, P Q, slash, P] ^
+DM4G/P [D M 4, G, slash, P] ^
+OZ/DL9DAN [O Z, slash, D L 9, D A N] ^
+HB0/DL4IAL [H B zero, slash, D L 4, I A L] ^
+DO3OBK/M [D O 3, O B K, slash, M] ^
+PJ2/K6KAL [P J 2, slash, K 6, K A L] ^
+OH0/UT7UT [O H zero, slash, U T 7, U T] ^
+9A/OL7Y [9 A, slash, O L 7, Y] ^
+6M0HZ/2 [6 M zero, H Z, slash, 2] ^
+G3NCC/QRP [G 3, N C C, slash, Q R P] ^
+EA3GUH/MM [E A 3, G U H, slash, M M] ^
+KL7/N3SY [K L 7, slash, N 3, S Y] ^
+ED7YAD/B [E D 7, Y A D, slash, B] ^
+ES6/OH5LID [E S 6, slash, O H 5, L I D] ^
+DL8EY/M [D L 8, E Y, slash, M] ^
+JW/EI6FR [J W, slash, E I 6, F R] ^
+PA/DJ2YA [P A, slash, D J 2, Y A] ^
+DK9VK/M [D K 9, V K, slash, M] ^
+BG4WIB/QRP [B G 4, W I B, slash, Q R P] ^
+CE0Y/SQ9BOP [C E zero, Y, slash, S Q 9, B O P] ^
+HA802VR/P [H A 8, zero, 2, V R, slash, P] ^
+ID8/IZ8XOU/P [I D 8, slash, I Z 8, X O U, slash, P] ^
+EA8/ON4QX [E A 8, slash, O N 4, Q X] ^
+DL/JA4DND [D L, slash, J A 4, D N D] ^
+HR9/EA1APV [H R 9, slash, E A 1, A P V] ^
+F/OS4LAR/P [F, slash, O S 4, L A R, slash, P] ^
+VP2M/WB3FSB [V P 2, M, slash, W B 3, F S B] ^
+DL2FBR/M [D L 2, F B R, slash, M] ^
+OZ/DL1ANT [O Z, slash, D L 1, A N T] ^
+FS/G4MFW [F S, slash, G 4, M F W] ^
+HK0/AA5AU [H K zero, slash, A A 5, A U] ^
+HG5ACT/MM [H G 5, A C T, slash, M M] ^
+EA1HUK/MM [E A 1, H U K, slash, M M] ^
+TK/DL1DVP [T K, slash, D L 1, D V P] ^
+CE3MMT/QRP [C E 3, M M T, slash, Q R P] ^
+ZA/PA2LS [Z A, slash, P A 2, L S] ^
+SV5/LA9QJA [S V 5, slash, L A 9, Q J A] ^
+LA/DJ1QQ [L A, slash, D J 1, Q Q] ^
+ZS/DD0VR [Z S, slash, D D zero, V R] ^
+NO7F/KL7 [N O 7, F, slash, K L 7] ^
+MJ/DJ8VC [M J, slash, D J 8, V C] ^
+J6/K4ZGB [J 6, slash, K 4, Z G B] ^
+SV5/DL7YS [S V 5, slash, D L 7, Y S] ^
+CT9/DL1XX [C T 9, slash, D L 1, X X] ^
+HG9MBZ/MM [H G 9, M B Z, slash, M M] ^
+KB5WWP/P4 [K B 5, W W P, slash, P 4] ^
+9A/HA5X [9 A, slash, H A 5, X] ^
+LX/SP5HNK [L X, slash, S P 5, H N K] ^
+HC1TD/QRP [H C 1, T D, slash, Q R P] ^
+MD/DL2HWA [M D, slash, D L 2, H W A] ^
+OY/DK4ARL [O Y, slash, D K 4, A R L] ^
+OZ/PC2D/P [O Z, slash, P C 2, D, slash, P] ^
+VK7HVK/P [V K 7, H V K, slash, P] ^
+OZ/DL9DRZ [O Z, slash, D L 9, D R Z] ^
+CU8/IZ5CML [C U 8, slash, I Z 5, C M L] ^
+OJ0/SM0UXX [O J zero, slash, S M zero, U X X] ^
+HR1HAH/MM [H R 1, H A H, slash, M M] ^
+TI8/W4XO [T I 8, slash, W 4, X O] ^
+8P6/EA3GUO [8 P 6, slash, E A 3, G U O] ^
+EA8/DL3ZE [E A 8, slash, D L 3, Z E] ^
+OH0/LA9VDA/P [O H zero, slash, L A 9, V D A, slash, P] ^
+SV9/SV1AVD [S V 9, slash, S V 1, A V D] ^
+OZ/OP1A [O Z, slash, O P 1, A] ^
+EM80L/P [E M 8, zero, L, slash, P] ^
+DF7JP/MM [D F 7, J P, slash, M M] ^
+EC5CKM/QRP [E C 5, C K M, slash, Q R P] ^
+SM6/DL2VFR [S M 6, slash, D L 2, V F R] ^
+SD7M/6 [S D 7, M, slash, 6] ^
+OZ/TF3Y [O Z, slash, T F 3, Y] ^
+3A/AI5P [3 A, slash, A I 5, P] ^
+CT1DEU/M [C T 1, D E U, slash, M] ^
+TA0/DL5JRM [T A zero, slash, D L 5, J R M] ^
+DJ6HE/MM [D J 6, H E, slash, M M] ^
+7K1III/MM [7 K 1, I I I, slash, M M] ^
+G4MQS/M [G 4, M Q S, slash, M] ^
+PA/SP2WDW [P A, slash, S P 2, W D W] ^
+YI/KV4EB [Y I, slash, K V 4, E B] ^
+SV5/HA0HW [S V 5, slash, H A zero, H W] ^
+LW5DJJ/M [L W 5, D J J, slash, M] ^
+MW/DJ6OZ [M W, slash, D J 6, O Z] ^
+KD2FIQ/VP9 [K D 2, F I Q, slash, V P 9] ^
+IS0/DL5RDP [I S zero, slash, D L 5, R D P] ^
+EA8/UT4TA [E A 8, slash, U T 4, T A] ^
+V5/DL2SL [V 5, slash, D L 2, S L] ^
+BV1AE/4 [B V 1, A E, slash, 4] ^
+DL/HB9AGO/P [D L, slash, H B 9, A G O, slash, P] ^
+SV5/OE3GEA [S V 5, slash, O E 3, G E A] ^
+DB7WA/QRP [D B 7, W A, slash, Q R P] ^
+OD5/HB9AMO [O D 5, slash, H B 9, A M O] ^
+HB0/DH6CAX/P [H B zero, slash, D H 6, C A X, slash, P] ^
+YC4FIJ/P [Y C 4, F I J, slash, P] ^
+IT9/OE5JKL [I T 9, slash, O E 5, J K L] ^
+OJ0/N4GN [O J zero, slash, N 4, G N] ^
+OX/PA3EXX [O X, slash, P A 3, E X X] ^
+DM3X/P [D M 3, X, slash, P] ^
+IU7I/P [I U 7, I, slash, P] ^
+N3U/FLT93 [N 3, U, slash, F L T 9, 3] ^
+LU1YEW/QRP [L U 1, Y E W, slash, Q R P] ^
+FO/K4UEE [F O, slash, K 4, U E E] ^
+G3YY/MM [G 3, Y Y, slash, M M] ^
+VR10ZQZ/P [V R 1, zero, Z Q Z, slash, P] ^
+V5/ZS1AO [V 5, slash, Z S 1, A O] ^
+OZ/DL9DRZ [O Z, slash, D L 9, D R Z] ^
+YI/ON5NT [Y I, slash, O N 5, N T] ^
+Z6/DF8AN [Z 6, slash, D F 8, A N] ^
+SP6CZ/1 [S P 6, C Z, slash, 1] ^
+KL7/K8GU [K L 7, slash, K 8, G U] ^
+GP8LED/P [G P 8, L E D, slash, P] ^
+KP4/K6DTT [K P 4, slash, K 6, D T T] ^
+9A/IV3PUT [9 A, slash, I V 3, P U T] ^
+PJ2/K6KAL [P J 2, slash, K 6, K A L] ^
+GM4AGG/P [G M 4, A G G, slash, P] ^
+FR/W8MV [F R, slash, W 8, M V] ^
+HI3/EA3GUO [H I 3, slash, E A 3, G U O] ^
+LU5DBT/M [L U 5, D B T, slash, M] ^
+SV5/SV1EQU [S V 5, slash, S V 1, E Q U] ^
+DB8VZ/QRP [D B 8, V Z, slash, Q R P] ^
+9H5FA/QRP [9 H 5, F A, slash, Q R P] ^
+LZ/OH9MM [L Z, slash, O H 9, M M] ^
+LX/DJ1AA/M [L X, slash, D J 1, A A, slash, M] ^
+EB7BLC/QRP [E B 7, B L C, slash, Q R P] ^
+YV8DX/6 [Y V 8, D X, slash, 6] ^
+TK/OK1LX [T K, slash, O K 1, L X] ^
+G4WFQ/6W [G 4, W F Q, slash, 6, W] ^
+DB0SY/MM [D B zero, S Y, slash, M M] ^
+EA6/DK4RL [E A 6, slash, D K 4, R L] ^
+IS0/DL3OCH [I S zero, slash, D L 3, O C H] ^
+JD1/JI1FLB [J D 1, slash, J I 1, F L B] ^
+TA4/DL9USA [T A 4, slash, D L 9, U S A] ^
+SV5/DL6RAI [S V 5, slash, D L 6, R A I] ^
+IF9/IU2HDO [I F 9, slash, I U 2, H D O] ^
+9A/DL1EKO [9 A, slash, D L 1, E K O] ^
+5Z4/9A3A [5 Z 4, slash, 9, A 3, A] ^
+TK/DL1DVP [T K, slash, D L 1, D V P] ^
+LX/ON5QRP [L X, slash, O N 5, Q R P] ^
+IW3ENS/MM [I W 3, E N S, slash, M M] ^
+IM0/I1ASU [I M zero, slash, I 1, A S U] ^
+TK/F1JRD [T K, slash, F 1, J R D] ^
+OH0HG/2 [O H zero, H G, slash, 2] ^
+TF/DL3GCS [T F, slash, D L 3, G C S] ^
+LW4EHI/QRP [L W 4, E H I, slash, Q R P] ^
+LW9DVE/MM [L W 9, D V E, slash, M M] ^
+9K2/SU3AM [9 K 2, slash, S U 3, A M] ^
+IN3/HB9LCW [I N 3, slash, H B 9, L C W] ^
+CU2HD/QRP [C U 2, H D, slash, Q R P] ^
+DU1WQY/8 [D U 1, W Q Y, slash, 8] ^
+M3OFW/MM [M 3, O F W, slash, M M] ^
+EM80L/P [E M 8, zero, L, slash, P] ^
+HG5BPL/MM [H G 5, B P L, slash, M M] ^
+PJ2/K4BAI [P J 2, slash, K 4, B A I] ^
+PY0/PP1CZ [P Y zero, slash, P P 1, C Z] ^
+FP/M0TOC [F P, slash, M zero, T O C] ^
+EA8/DG6FDV [E A 8, slash, D G 6, F D V] ^
+G8BZT/QRP [G 8, B Z T, slash, Q R P] ^
+SV5/N2OO [S V 5, slash, N 2, O O] ^
+EA8/UT4TA [E A 8, slash, U T 4, T A] ^
+HK1/LU3CT [H K 1, slash, L U 3, C T] ^
+XE3/KU4GZ [X E 3, slash, K U 4, G Z] ^
+PJ2/W8UVZ [P J 2, slash, W 8, U V Z] ^
+KH2/W2VR [K H 2, slash, W 2, V R] ^
+3A/I1RBJ [3 A, slash, I 1, R B J] ^
+LU1OFU/MM [L U 1, O F U, slash, M M] ^
+EA3BT/EA6 [E A 3, B T, slash, E A 6] ^
+EA7EUO/QRP [E A 7, E U O, slash, Q R P] ^
+DL0MC/M [D L zero, M C, slash, M] ^
+VE9MY/VO1 [V E 9, M Y, slash, V O 1] ^
+JA1YDU/QRP [J A 1, Y D U, slash, Q R P] ^
+MU/RL5D [M U, slash, R L 5, D] ^
+JA1MVO/MM [J A 1, M V O, slash, M M] ^
+TG/DL1CW [T G, slash, D L 1, C W] ^
+F/DJ5YL [F, slash, D J 5, Y L] ^
+OH9/DL2RVL/P [O H 9, slash, D L 2, R V L, slash, P] ^
+VK4WWI/P [V K 4, W W I, slash, P] ^
+N0YLE/QRP [N zero, Y L E, slash, Q R P] ^
+F5JNE/P [F 5, J N E, slash, P] ^
+M0MNV/P [M zero, M N V, slash, P] ^
+FR/F4HPX [F R, slash, F 4, H P X] ^
+AL5A/AH0 [A L 5, A, slash, A H zero] ^
+9A/PD0EMR [9 A, slash, P D zero, E M R] ^
+LA2ANA/MM [L A 2, A N A, slash, M M] ^
+PA65DUIN/J [P A 6, 5, D U I N, slash, J] ^
+4O/YO3JW/M [4 O, slash, Y O 3, J W, slash, M] ^
+DJ2IV/MM [D J 2, I V, slash, M M] ^
+CT9/DC3JB [C T 9, slash, D C 3, J B] ^
+HC2ANT/8 [H C 2, A N T, slash, 8] ^
+FS/SP3IPB [F S, slash, S P 3, I P B] ^
+5Z4/EA4ATI [5 Z 4, slash, E A 4, A T I] ^
+OZ/DL6LZM [O Z, slash, D L 6, L Z M] ^
+OH0/DK3QZ [O H zero, slash, D K 3, Q Z] ^
+LA3SRK/P [L A 3, S R K, slash, P] ^
+ID9/IT9RKR [I D 9, slash, I T 9, R K R] ^
+JQ6GXP/6 [J Q 6, G X P, slash, 6] ^
+VP5/IK2SGC [V P 5, slash, I K 2, S G C] ^
+IG9/IW9GVP [I G 9, slash, I W 9, G V P] ^
+M3AKH/M [M 3, A K H, slash, M] ^
+3A/AI5P [3 A, slash, A I 5, P] ^
+FY/DL3LUM [F Y, slash, D L 3, L U M] ^
+LX/PE1LUC [L X, slash, P E 1, L U C] ^
+OK/SP7VC [O K, slash, S P 7, V C] ^
+YV8BS/6 [Y V 8, B S, slash, 6] ^
+ES0/OH7KA [E S zero, slash, O H 7, K A] ^
+MD/SQ9I [M D, slash, S Q 9, I] ^
+KP2/KF4U [K P 2, slash, K F 4, U] ^
+LU1YLM/M [L U 1, Y L M, slash, M] ^
+DN6QE/M [D N 6, Q E, slash, M] ^
+R0/UT5IA [R zero, slash, U T 5, I A] ^
+GB0SRW/MM [G B zero, S R W, slash, M M] ^
+DU1/SM5ENX [D U 1, slash, S M 5, E N X] ^
+SV9/G4VXE [S V 9, slash, G 4, V X E] ^
+W1USN/TI5 [W 1, U S N, slash, T I 5] ^
+HB0/DH6CAX/P [H B zero, slash, D H 6, C A X, slash, P] ^
+YV5OW/5 [Y V 5, O W, slash, 5] ^
+G4MQS/M [G 4, M Q S, slash, M] ^
+JA8TMO/QRP [J A 8, T M O, slash, Q R P] ^
+IJ7/IZ7LDC [I J 7, slash, I Z 7, L D C] ^
+SV9/DL5YWM [S V 9, slash, D L 5, Y W M] ^
+SP0DIG/2 [S P zero, D I G, slash, 2] ^
+J6/JA7KAC [J 6, slash, J A 7, K A C] ^
+DJ6HE/MM [D J 6, H E, slash, M M] ^
+DB7WA/QRP [D B 7, W A, slash, Q R P] ^
+VP2V/N3DXX [V P 2, V, slash, N 3, D X X] ^
+6W/F6IRS [6 W, slash, F 6, I R S] ^
+OZ/DM3VA [O Z, slash, D M 3, V A] ^
+J6/SP7VC [J 6, slash, S P 7, V C] ^
+W9VW/B [W 9, V W, slash, B] ^
+CX4ON/MM [C X 4, O N, slash, M M] ^
+OZ/OP1A [O Z, slash, O P 1, A] ^
+I2ADN/IG9 [I 2, A D N, slash, I G 9] ^
+OJ0/SA5BDS [O J zero, slash, S A 5, B D S] ^
+OH0/OH5O [O H zero, slash, O H 5, O] ^
+BV7/DL7IO [B V 7, slash, D L 7, I O] ^
+DL3MDD/MM [D L 3, M D D, slash, M M] ^
+F/G4BJM [F, slash, G 4, B J M] ^
+BV1AE/4 [B V 1, A E, slash, 4] ^
+J8/EA3GUO [J 8, slash, E A 3, G U O] ^
+JE7XHL/M [J E 7, X H L, slash, M] ^
+SV9/OE3JAG [S V 9, slash, O E 3, J A G] ^
+DG9NGO/QRP [D G 9, N G O, slash, Q R P] ^
+OZ/MM0NDX [O Z, slash, M M zero, N D X] ^
+KH2/KD6CJF [K H 2, slash, K D 6, C J F] ^
+2E1JHT/QRP [2 E 1, J H T, slash, Q R P] ^
+EA7BNR/M [E A 7, B N R, slash, M] ^
+EA8/DL3ZE [E A 8, slash, D L 3, Z E] ^
+S5/SP7VC [S 5, slash, S P 7, V C] ^
+FO/WB2REM [F O, slash, W B 2, R E M] ^
 HR6/N7QXQ [H R 6, slash, N 7, Q X Q] ^
+DO1MMN/M [D O 1, M M N, slash, M] ^
+PJ2/RW0CN [P J 2, slash, R W zero, C N] ^
+5B4/T93Y [5 B 4, slash, T 9, 3, Y] ^
+9A/HA5TAA [9 A, slash, H A 5, T A A] ^
+KW7MM/VY2 [K W 7, M M, slash, V Y 2] ^
+PJ2/N4GG [P J 2, slash, N 4, G G] ^
+D80HQ/3 [D 8, zero, H Q, slash, 3] ^
+F5AXG/M [F 5, A X G, slash, M] ^
+IC8/IK8GQY [I C 8, slash, I K 8, G Q Y] ^
+EA8/DL1GCY [E A 8, slash, D L 1, G C Y] ^
+YV6AOH/5 [Y V 6, A O H, slash, 5] ^
+CT1EMR/QRP [C T 1, E M R, slash, Q R P] ^
+IK3RET/M [I K 3, R E T, slash, M] ^
+F5XT/MM [F 5, X T, slash, M M] ^
+FP/K1TOL [F P, slash, K 1, T O L] ^
+LX/OH1HAQ [L X, slash, O H 1, H A Q] ^
+AI5P/KH8 [A I 5, P, slash, K H 8] ^
+LX/PA3EZC/P [L X, slash, P A 3, E Z C, slash, P] ^
+VP9/VE7YBH [V P 9, slash, V E 7, Y B H] ^
+3A/OH9MM [3 A, slash, O H 9, M M] ^
+IC8/HB9BHY [I C 8, slash, H B 9, B H Y] ^
+TF/M0VFC/P [T F, slash, M zero, V F C, slash, P] ^
+3B8/F5AEG [3 B 8, slash, F 5, A E G] ^
+OZ/DK6CW/P [O Z, slash, D K 6, C W, slash, P] ^
+RZ1OA/P [R Z 1, O A, slash, P] ^
+CE1/WU2D [C E 1, slash, W U 2, D] ^
+P4/VE7QC [P 4, slash, V E 7, Q C] ^
+F/OO5C/P [F, slash, O O 5, C, slash, P] ^
+LA5NK/MM [L A 5, N K, slash, M M] ^
+V55V/P [V 5, 5, V, slash, P] ^
+CT3/DM3VL [C T 3, slash, D M 3, V L] ^
+RA3DRC/1 [R A 3, D R C, slash, 1] ^
+F/M0RIF [F, slash, M zero, R I F] ^
+EI/SP6ICW [E I, slash, S P 6, I C W] ^
+F/DO1KJB [F, slash, D O 1, K J B] ^
+OE3RGB/H800 [O E 3, R G B, slash, H 8, zero, zero] ^
+5B/SM2EKM [5 B, slash, S M 2, E K M] ^
+J48LW/M [J 4, 8, L W, slash, M] ^
+KH2/JA7AYE [K H 2, slash, J A 7, A Y E] ^
+OX/DC8TM/P [O X, slash, D C 8, T M, slash, P] ^
+TA4/DJ5MN [T A 4, slash, D J 5, M N] ^
+G0IZG/MM [G zero, I Z G, slash, M M] ^
+HP/W1USN [H P, slash, W 1, U S N] ^
+RX6LMQ/0 [R X 6, L M Q, slash, zero] ^
+LA5LRA/QRP [L A 5, L R A, slash, Q R P] ^
+HH2/PY3SB [H H 2, slash, P Y 3, S B] ^
+HI9/KI7VR [H I 9, slash, K I 7, V R] ^
+MD/DL2HWA [M D, slash, D L 2, H W A] ^
+JJ2GAZ/1 [J J 2, G A Z, slash, 1] ^
+EA6/DF5WA [E A 6, slash, D F 5, W A] ^
+EA2/F5SUL [E A 2, slash, F 5, S U L] ^
+DL1RAV/MM [D L 1, R A V, slash, M M] ^
+RA1N/UB4LWA [R A 1, N, slash, U B 4, L W A] ^
+VA3DYD/HR3 [V A 3, D Y D, slash, H R 3] ^
+DS17DNO/5 [D S 1, 7, D N O, slash, 5] ^
+OH/SQ2KLZ [O H, slash, S Q 2, K L Z] ^
+OH0/OK1AMM [O H zero, slash, O K 1, A M M] ^
+BA4RSA/4 [B A 4, R S A, slash, 4] ^
+NO7F/KL7 [N O 7, F, slash, K L 7] ^
+EA7/EA3DKN/P [E A 7, slash, E A 3, D K N, slash, P] ^
+CU5/CU3AK/P [C U 5, slash, C U 3, A K, slash, P] ^
+DL/G8OFQ [D L, slash, G 8, O F Q] ^
+EA6/DJ2QV [E A 6, slash, D J 2, Q V] ^
+N1DMU/QRP [N 1, D M U, slash, Q R P] ^
+EB1HZN/MM [E B 1, H Z N, slash, M M] ^
+9A/S57CQ [9 A, slash, S 5, 7, C Q] ^
+YF1AR/4 [Y F 1, A R, slash, 4] ^
+IS0/DL5RDP [I S zero, slash, D L 5, R D P] ^
+DU1/DK3GI [D U 1, slash, D K 3, G I] ^
+5Z4/IK8VRH [5 Z 4, slash, I K 8, V R H] ^
+EA5ASM/P [E A 5, A S M, slash, P] ^
+DC3YW/M [D C 3, Y W, slash, M] ^
+US5ERQ/P [U S 5, E R Q, slash, P] ^
+ON4HIL/6Y5 [O N 4, H I L, slash, 6, Y 5] ^
+SV2/SV7CUD [S V 2, slash, S V 7, C U D] ^
+J3/KB9AVO [J 3, slash, K B 9, A V O] ^
+PJ2/WB9Z [P J 2, slash, W B 9, Z] ^
+KH2/JJ1JGI [K H 2, slash, J J 1, J G I] ^
+VP2V/W5PF [V P 2, V, slash, W 5, P F] ^
+J6/AA4OC [J 6, slash, A A 4, O C] ^
+F/OS4LAR/P [F, slash, O S 4, L A R, slash, P] ^
+EA7FTX/M [E A 7, F T X, slash, M] ^
+KH2/JJ1CCE [K H 2, slash, J J 1, C C E] ^
+OE1WIU/8QRP [O E 1, W I U, slash, 8, Q R P] ^
+JW/KH0PR [J W, slash, K H zero, P R] ^
+WA4ZKO/B [W A 4, Z K O, slash, B] ^
+HB9/OE6HLF/P [H B 9, slash, O E 6, H L F, slash, P] ^
+RJ8S/UA6BGB [R J 8, S, slash, U A 6, B G B] ^
+YV1AA/R [Y V 1, A A, slash, R] ^
+LA7GLA/MM [L A 7, G L A, slash, M M] ^
+RZ4HZW/4 [R Z 4, H Z W, slash, 4] ^
+5H3EE/3 [5 H 3, E E, slash, 3] ^
+IW0HPT/M [I W zero, H P T, slash, M] ^
+VP5/W8ERI [V P 5, slash, W 8, E R I] ^
+FP/W8MC [F P, slash, W 8, M C] ^
+JA6TNY/0 [J A 6, T N Y, slash, zero] ^
+SV8/OK2WH [S V 8, slash, O K 2, W H] ^
+EA1BAU/M [E A 1, B A U, slash, M] ^
+OZ/DC7VS [O Z, slash, D C 7, V S] ^
+LU1JOA/MM [L U 1, J O A, slash, M M] ^
