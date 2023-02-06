@@ -1,0 +1,600 @@
+QRP |S1000 QRN [Low power, Noise]^
+BTU |S1000 DX [Back to you, D X]^
+GUD |S1000 NAME [Good, Name]^
+CQ |S1000 AGN [C Q, Again]^
+CPI |S1000 WUD [Copy, Would]^
+DIPOLE |S1000 WX [Dipole, Weather]^
+QRN |S1000 DE [Noise, From]^
+QTH |S1000 HW\? [Location, How copy\?]^
+WX |S1000 NR [Weather, Number]^
+559 |S1000 TEST [5 5 9, Contest]^
+QRN |S1000 NR [Noise, Number]^
+YAGI |S1000 VY [Yagi, Very]^
+CQ |S1000 ANT [C Q, Antenna]^
+TEST |S1000 73 [Contest, 73]^
+HW |S1000 559 [How, 5 5 9]^
+BCNU |S1000 DE [Be seeing you, From]^
+XYL |S1000 73 [Wife, 73]^
+XYL |S1000 DE [Wife, From]^
+VERT |S1000 GL [Vertical, Good luck]^
+HPE |S1000 TU [Hope, Thank you]^
+OM |S1000 HI HI [Old man, laughing]^
+ANT |S1000 QRL [Antenna, Busy]^
+NR |S1000 HW [Number, How]^
+XYL |S1000 OM [Wife, Old man]^
+OP |S1000 GM [Operator, Good morning]^
+VY |S1000 TEMP [Very, Temperature]^
+BURO |S1000 ABT [bureau, About]^
+FB |S1000 CUL [Fine business, See you later]^
+QRZ |S1000 AGN [Q R Zed, Again]^
+559 |S1000 WX [5 5 9, Weather]^
+GL |S1000 HW [Good luck, How]^
+CUL |S1000 ABT [See you later, About]^
+QRL |S1000 QSB [Busy, Fading]^
+ES |S1000 HW [And, How]^
+RST |S1000 NAME [R S T, Name]^
+FB |S1000 BURO [Fine business, bureau]^
+NAME |S1000 QRL [Name, Busy]^
+VERT |S1000 FT [Vertical, Feet]^
+ABT |S1000 EFHW [About, End fed, half-wave]^
+TEST |S1000 FB [Contest, Fine business]^
+DX |S1000 ES [D X, And]^
+599 |S1000 NR [5 9 9, Number]^
+AGN |S1000 WX [Again, Weather]^
+XYL |S1000 QRL [Wife, Busy]^
+WX |S1000 559 [Weather, 5 5 9]^
+GUD |S1000 XYL [Good, Wife]^
+QTH |S1000 SRI [Location, Sorry]^
+PWR |S1000 ABT [Power, About]^
+WX |S1000 CQ [Weather, C Q]^
+CPY |S1000 QSB [Copy, Fading]^
+HI HI |S1000 CQ [laughing, C Q]^
+GA |S1000 BTU [Good afternoon, Back to you]^
+QTH |S1000 QRM [Location, Interference]^
+RX |S1000 UP [Receive, Up]^
+UR |S1000 RIG [Your, Rig]^
+QRL |S1000 GE [Busy, Good evening]^
+DE |S1000 CPY [From, Copy]^
+73 |S1000 GE [73, Good evening]^
+UR |S1000 SRI [Your, Sorry]^
+CQ |S1000 RX [C Q, Receive]^
+UR |S1000 FB [Your, Fine business]^
+NAME |S1000 ES [Name, And]^
+QTH |S1000 QRL [Location, Busy]^
+DE |S1000 NR [From, Number]^
+CQ |S1000 QRN [C Q, Noise]^
+UR |S1000 GE [Your, Good evening]^
+ES |S1000 UP [And, Up]^
+PWR |S1000 TU [Power, Thank you]^
+RST |S1000 HPE [R S T, Hope]^
+RST |S1000 EL [R S T, Element]^
+UP |S1000 TEST [Up, Contest]^
+PLS |S1000 DX [Please, D X]^
+GL |S1000 CUL [Good luck, See you later]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+QRM |S1000 VY [Interference, Very]^
+UP |S1000 5NN [Up, 5 N N]^
+TEMP |S1000 QRZ [Temperature, Q R Zed]^
+FB |S1000 599 [Fine business, 5 9 9]^
+ES |S1000 QSB [And, Fading]^
+QRM |S1000 PWR [Interference, Power]^
+WX |S1000 VERT [Weather, Vertical]^
+RIG |S1000 TEST [Rig, Contest]^
+UR |S1000 CUL [Your, See you later]^
+GUD |S1000 PLS [Good, Please]^
+TNX |S1000 QSB [Thanks, Fading]^
+ANT |S1000 599 [Antenna, 5 9 9]^
+ANT |S1000 WX [Antenna, Weather]^
+559 |S1000 VY [5 5 9, Very]^
+EL |S1000 BEAM [Element, Beam]^
+FT |S1000 73 [Feet, 73]^
+GL |S1000 HV [Good luck, Have]^
+TEMP |S1000 NAME [Temperature, Name]^
+TNX |S1000 FER [Thanks, For]^
+HV |S1000 GA [Have, Good afternoon]^
+QRQ |S1000 HPE [High speed, Hope]^
+ANT |S1000 FER [Antenna, For]^
+DX |S1000 NR [D X, Number]^
+FER |S1000 559 [For, 5 5 9]^
+73 |S1000 RIG [73, Rig]^
+CPY |S1000 AGN [Copy, Again]^
+UR |S1000 SIG [Your, Signal]^
+599 |S1000 RX [5 9 9, Receive]^
+QRZ |S1000 DE [Q R Zed, From]^
+CPI |S1000 GE [Copy, Good evening]^
+VY |S1000 559 [Very, 5 5 9]^
+DX |S1000 599 [D X, 5 9 9]^
+DX |S1000 ANT [D X, Antenna]^
+UP |S1000 GL [Up, Good luck]^
+OM |S1000 NR [Old man, Number]^
+SIG |S1000 73 [Signal, 73]^
+TX |S1000 NAME [Transmit, Name]^
+DIPOLE |S1000 GM [Dipole, Good morning]^
+WX |S1000 HW\? [Weather, How copy\?]^
+QRZ |S1000 PLS [Q R Zed, Please]^
+RST |S1000 WX [R S T, Weather]^
+QRM |S1000 CQ [Interference, C Q]^
+BCNU |S1000 RX [Be seeing you, Receive]^
+UP |S1000 WX [Up, Weather]^
+HI HI |S1000 QRP [laughing, Low power]^
+QRM |S1000 WX [Interference, Weather]^
+NR |S1000 GUD [Number, Good]^
+PSE |S1000 CQ [Please, C Q]^
+CPI |S1000 QRL [Copy, Busy]^
+MNI |S1000 ES [Many, And]^
+TU |S1000 SRI [Thank you, Sorry]^
+WX |S1000 73 [Weather, 73]^
+559 |S1000 UR [5 5 9, Your]^
+GA |S1000 599 [Good afternoon, 5 9 9]^
+GE |S1000 DE [Good evening, From]^
+QRP |S1000 TEST [Low power, Contest]^
+HV |S1000 BTU [Have, Back to you]^
+QRZ |S1000 OM [Q R Zed, Old man]^
+DE |S1000 GL [From, Good luck]^
+CQ |S1000 QRZ [C Q, Q R Zed]^
+UR |S1000 73 [Your, 73]^
+WX |S1000 HW [Weather, How]^
+DR |S1000 PWR [Dear, Power]^
+HV |S1000 RX [Have, Receive]^
+NAME |S1000 CUL [Name, See you later]^
+WX |S1000 5NN [Weather, 5 N N]^
+YAGI |S1000 BTU [Yagi, Back to you]^
+NAME |S1000 UR [Name, Your]^
+HW |S1000 UR [How, Your]^
+WX |S1000 TEMP [Weather, Temperature]^
+TEST |S1000 QTH [Contest, Location]^
+RIG |S1000 QRN [Rig, Noise]^
+BURO |S1000 GM [bureau, Good morning]^
+599 |S1000 BEAM [5 9 9, Beam]^
+UP |S1000 HV [Up, Have]^
+HR |S1000 WX [Hear, Weather]^
+DX |S1000 5NN [D X, 5 N N]^
+VY |S1000 QTH [Very, Location]^
+WX |S1000 5NN [Weather, 5 N N]^
+NAME |S1000 GL [Name, Good luck]^
+QSY |S1000 WUD [Change frequency, Would]^
+HW\? |S1000 HI HI [How copy\?, laughing]^
+QRS |S1000 RST [Slow speed, R S T]^
+ANT |S1000 TNX [Antenna, Thanks]^
+HI HI |S1000 599 [laughing, 5 9 9]^
+UR |S1000 ES [Your, And]^
+599 |S1000 PLS [5 9 9, Please]^
+QRP |S1000 QRS [Low power, Slow speed]^
+DIPOLE |S1000 TEST [Dipole, Contest]^
+WX |S1000 DR [Weather, Dear]^
+TU |S1000 FER [Thank you, For]^
+5NN |S1000 BEAM [5 N N, Beam]^
+WX |S1000 GUD [Weather, Good]^
+559 |S1000 BCNU [5 5 9, Be seeing you]^
+ANT |S1000 TEST [Antenna, Contest]^
+ABT |S1000 GUD [About, Good]^
+HI HI |S1000 BURO [laughing, bureau]^
+NAME |S1000 DE [Name, From]^
+FER |S1000 TX [For, Transmit]^
+VY |S1000 BTU [Very, Back to you]^
+73 |S1000 599 [73, 5 9 9]^
+GA |S1000 MNI [Good afternoon, Many]^
+TU |S1000 CPI [Thank you, Copy]^
+HW\? |S1000 ES [How copy\?, And]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+CPI |S1000 ES [Copy, And]^
+ANT |S1000 QRN [Antenna, Noise]^
+QRS |S1000 CQ [Slow speed, C Q]^
+BEAM |S1000 UR [Beam, Your]^
+BCNU |S1000 DE [Be seeing you, From]^
+TEMP |S1000 559 [Temperature, 5 5 9]^
+CPI |S1000 QRN [Copy, Noise]^
+EL |S1000 PWR [Element, Power]^
+TEMP |S1000 SRI [Temperature, Sorry]^
+DE |S1000 CQ [From, C Q]^
+TEST |S1000 QRL [Contest, Busy]^
+MNI |S1000 VY [Many, Very]^
+GL |S1000 NAME [Good luck, Name]^
+SIG |S1000 VERT [Signal, Vertical]^
+ES |S1000 RST [And, R S T]^
+DX |S1000 RST [D X, R S T]^
+GA |S1000 599 [Good afternoon, 5 9 9]^
+NR |S1000 QRZ [Number, Q R Zed]^
+DR |S1000 UR [Dear, Your]^
+WX |S1000 PSE [Weather, Please]^
+ES |S1000 QRP [And, Low power]^
+5NN |S1000 QRL [5 N N, Busy]^
+QRQ |S1000 ANT [High speed, Antenna]^
+UR |S1000 TEST [Your, Contest]^
+SIG |S1000 UR [Signal, Your]^
+TNX |S1000 TX [Thanks, Transmit]^
+NAME |S1000 MNI [Name, Many]^
+HI HI |S1000 FER [laughing, For]^
+QSB |S1000 RST [Fading, R S T]^
+GA |S1000 QRM [Good afternoon, Interference]^
+ES |S1000 QSY [And, Change frequency]^
+NAME |S1000 73 [Name, 73]^
+EL |S1000 QRZ [Element, Q R Zed]^
+BURO |S1000 QTH [bureau, Location]^
+73 |S1000 YAGI [73, Yagi]^
+PSE |S1000 QRQ [Please, High speed]^
+RST |S1000 CUL [R S T, See you later]^
+QRM |S1000 PLS [Interference, Please]^
+WX |S1000 NR [Weather, Number]^
+PWR |S1000 HI HI [Power, laughing]^
+TNX |S1000 QTH [Thanks, Location]^
+GM |S1000 FER [Good morning, For]^
+HW\? |S1000 QRL [How copy\?, Busy]^
+HI HI |S1000 RST [laughing, R S T]^
+QRM |S1000 AGN [Interference, Again]^
+QRM |S1000 TEMP [Interference, Temperature]^
+EFHW |S1000 QRL [End fed, half-wave, Busy]^
+DX |S1000 QSL [D X, Confirm]^
+SIG |S1000 HW [Signal, How]^
+GA |S1000 BTU [Good afternoon, Back to you]^
+TX |S1000 DE [Transmit, From]^
+CUL |S1000 WX [See you later, Weather]^
+QRZ |S1000 YL [Q R Zed, Young lady]^
+QRM |S1000 GUD [Interference, Good]^
+QRM |S1000 RX [Interference, Receive]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 TX [And, Transmit]^
+AGN |S1000 RST [Again, R S T]^
+UR |S1000 GA [Your, Good afternoon]^
+BCNU |S1000 FT [Be seeing you, Feet]^
+DE |S1000 WX [From, Weather]^
+QTH |S1000 RX [Location, Receive]^
+GL |S1000 RST [Good luck, R S T]^
+ES |S1000 HV [And, Have]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+NR |S1000 PLS [Number, Please]^
+TEMP |S1000 QRL [Temperature, Busy]^
+NAME |S1000 AGN [Name, Again]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+BTU |S1000 RIG [Back to you, Rig]^
+ANT |S1000 GA [Antenna, Good afternoon]^
+SIG |S1000 QRN [Signal, Noise]^
+QRQ |S1000 QRN [High speed, Noise]^
+TNX |S1000 RIG [Thanks, Rig]^
+TNX |S1000 DR [Thanks, Dear]^
+CPI |S1000 ES [Copy, And]^
+CUL |S1000 BEAM [See you later, Beam]^
+RST |S1000 QSL [R S T, Confirm]^
+HV |S1000 TU [Have, Thank you]^
+VERT |S1000 599 [Vertical, 5 9 9]^
+DE |S1000 WX [From, Weather]^
+599 |S1000 PWR [5 9 9, Power]^
+CQ |S1000 GM [C Q, Good morning]^
+5NN |S1000 HI HI [5 N N, laughing]^
+BCNU |S1000 RIG [Be seeing you, Rig]^
+PSE |S1000 AGN [Please, Again]^
+GM |S1000 QRL [Good morning, Busy]^
+OP |S1000 FB [Operator, Fine business]^
+FER |S1000 VY [For, Very]^
+QRS |S1000 UR [Slow speed, Your]^
+UP |S1000 SRI [Up, Sorry]^
+TEST |S1000 PWR [Contest, Power]^
+AGN |S1000 GE [Again, Good evening]^
+TNX |S1000 ES [Thanks, And]^
+HV |S1000 UR [Have, Your]^
+HPE |S1000 NR [Hope, Number]^
+CUL |S1000 QRM [See you later, Interference]^
+HR |S1000 BTU [Hear, Back to you]^
+QRS |S1000 GUD [Slow speed, Good]^
+HPE |S1000 DE [Hope, From]^
+QRM |S1000 QRN [Interference, Noise]^
+PWR |S1000 DE [Power, From]^
+OM |S1000 DE [Old man, From]^
+XYL |S1000 TNX [Wife, Thanks]^
+AGN |S1000 5NN [Again, 5 N N]^
+DX |S1000 UP [D X, Up]^
+BTU |S1000 QRZ [Back to you, Q R Zed]^
+HI HI |S1000 QRN [laughing, Noise]^
+RIG |S1000 GA [Rig, Good afternoon]^
+CPY |S1000 QRM [Copy, Interference]^
+OM |S1000 HI HI [Old man, laughing]^
+CQ |S1000 TNX [C Q, Thanks]^
+EL |S1000 RX [Element, Receive]^
+RST |S1000 HV [R S T, Have]^
+YAGI |S1000 HR [Yagi, Hear]^
+QSY |S1000 FT [Change frequency, Feet]^
+NAME |S1000 HPE [Name, Hope]^
+RIG |S1000 FB [Rig, Fine business]^
+DR |S1000 DIPOLE [Dear, Dipole]^
+NR |S1000 CQ [Number, C Q]^
+CUL |S1000 NR [See you later, Number]^
+QRL |S1000 HI HI [Busy, laughing]^
+QSY |S1000 HI HI [Change frequency, laughing]^
+QRQ |S1000 BTU [High speed, Back to you]^
+559 |S1000 GE [5 5 9, Good evening]^
+CQ |S1000 EL [C Q, Element]^
+AGN |S1000 QRL [Again, Busy]^
+73 |S1000 GE [73, Good evening]^
+AGN |S1000 CUL [Again, See you later]^
+TU |S1000 DR [Thank you, Dear]^
+QRM |S1000 GL [Interference, Good luck]^
+DX |S1000 559 [D X, 5 5 9]^
+QRM |S1000 PLS [Interference, Please]^
+CFM |S1000 DR [Confirm, Dear]^
+MNI |S1000 ABT [Many, About]^
+DE |S1000 PWR [From, Power]^
+WUD |S1000 VERT [Would, Vertical]^
+RST |S1000 RIG [R S T, Rig]^
+HI HI |S1000 QRL [laughing, Busy]^
+FER |S1000 RX [For, Receive]^
+VY |S1000 QRZ [Very, Q R Zed]^
+GE |S1000 ES [Good evening, And]^
+SRI |S1000 AGN [Sorry, Again]^
+DX |S1000 5NN [D X, 5 N N]^
+QRS |S1000 UP [Slow speed, Up]^
+NAME |S1000 QRN [Name, Noise]^
+GM |S1000 EL [Good morning, Element]^
+ES |S1000 QRM [And, Interference]^
+HV |S1000 FER [Have, For]^
+559 |S1000 NR [5 5 9, Number]^
+BURO |S1000 NAME [bureau, Name]^
+WX |S1000 QRM [Weather, Interference]^
+DE |S1000 AGN [From, Again]^
+559 |S1000 QTH [5 5 9, Location]^
+ES |S1000 BTU [And, Back to you]^
+HR |S1000 QRL [Hear, Busy]^
+BURO |S1000 NAME [bureau, Name]^
+GL |S1000 CQ [Good luck, C Q]^
+DX |S1000 FER [D X, For]^
+FB |S1000 UR [Fine business, Your]^
+QRN |S1000 QRM [Noise, Interference]^
+QRS |S1000 TEST [Slow speed, Contest]^
+UR |S1000 DX [Your, D X]^
+RX |S1000 QRZ [Receive, Q R Zed]^
+QRS |S1000 CFM [Slow speed, Confirm]^
+BEAM |S1000 DIPOLE [Beam, Dipole]^
+FT |S1000 CPY [Feet, Copy]^
+FER |S1000 OM [For, Old man]^
+DR |S1000 GUD [Dear, Good]^
+OM |S1000 EFHW [Old man, End fed, half-wave]^
+QRM |S1000 73 [Interference, 73]^
+HV |S1000 UR [Have, Your]^
+QRM |S1000 CQ [Interference, C Q]^
+BTU |S1000 QRM [Back to you, Interference]^
+BCNU |S1000 QRS [Be seeing you, Slow speed]^
+CPI |S1000 SRI [Copy, Sorry]^
+ES |S1000 BTU [And, Back to you]^
+AGN |S1000 QRP [Again, Low power]^
+WUD |S1000 XYL [Would, Wife]^
+ANT |S1000 EFHW [Antenna, End fed, half-wave]^
+DE |S1000 NAME [From, Name]^
+UR |S1000 QSL [Your, Confirm]^
+SIG |S1000 AGN [Signal, Again]^
+HV |S1000 QRZ [Have, Q R Zed]^
+73 |S1000 CQ [73, C Q]^
+TU |S1000 599 [Thank you, 5 9 9]^
+PSE |S1000 HPE [Please, Hope]^
+BCNU |S1000 HV [Be seeing you, Have]^
+NAME |S1000 ANT [Name, Antenna]^
+DIPOLE |S1000 RST [Dipole, R S T]^
+73 |S1000 QSB [73, Fading]^
+TEST |S1000 SRI [Contest, Sorry]^
+GL |S1000 HI HI [Good luck, laughing]^
+QTH |S1000 BTU [Location, Back to you]^
+599 |S1000 GM [5 9 9, Good morning]^
+HI HI |S1000 PWR [laughing, Power]^
+WX |S1000 GE [Weather, Good evening]^
+AGN |S1000 QTH [Again, Location]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+WX |S1000 GM [Weather, Good morning]^
+TX |S1000 HW [Transmit, How]^
+TX |S1000 ES [Transmit, And]^
+TEST |S1000 GA [Contest, Good afternoon]^
+EL |S1000 CQ [Element, C Q]^
+QRP |S1000 HV [Low power, Have]^
+GA |S1000 WX [Good afternoon, Weather]^
+QRZ |S1000 GL [Q R Zed, Good luck]^
+5NN |S1000 VY [5 N N, Very]^
+UP |S1000 QRN [Up, Noise]^
+ES |S1000 VY [And, Very]^
+QRM |S1000 UP [Interference, Up]^
+DX |S1000 GL [D X, Good luck]^
+CQ |S1000 ABT [C Q, About]^
+QRL |S1000 PWR [Busy, Power]^
+OM |S1000 PSE [Old man, Please]^
+RX |S1000 EL [Receive, Element]^
+XYL |S1000 CPI [Wife, Copy]^
+SRI |S1000 PWR [Sorry, Power]^
+VY |S1000 DE [Very, From]^
+TNX |S1000 OP [Thanks, Operator]^
+UP |S1000 QTH [Up, Location]^
+FER |S1000 TEMP [For, Temperature]^
+SIG |S1000 HW [Signal, How]^
+UR |S1000 VY [Your, Very]^
+ABT |S1000 QRM [About, Interference]^
+WUD |S1000 UR [Would, Your]^
+MNI |S1000 FER [Many, For]^
+PWR |S1000 5NN [Power, 5 N N]^
+CQ |S1000 DR [C Q, Dear]^
+FT |S1000 QSY [Feet, Change frequency]^
+73 |S1000 ANT [73, Antenna]^
+ES |S1000 BTU [And, Back to you]^
+GL |S1000 CPI [Good luck, Copy]^
+QRQ |S1000 QTH [High speed, Location]^
+QRM |S1000 SRI [Interference, Sorry]^
+CPI |S1000 PWR [Copy, Power]^
+FER |S1000 DE [For, From]^
+ABT |S1000 599 [About, 5 9 9]^
+5NN |S1000 MNI [5 N N, Many]^
+TEST |S1000 VY [Contest, Very]^
+WX |S1000 VY [Weather, Very]^
+GM |S1000 HW\? [Good morning, How copy\?]^
+AGN |S1000 FB [Again, Fine business]^
+FER |S1000 CPI [For, Copy]^
+DX |S1000 TNX [D X, Thanks]^
+DX |S1000 CPI [D X, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+AGN |S1000 ANT [Again, Antenna]^
+FER |S1000 VY [For, Very]^
+5NN |S1000 QSL [5 N N, Confirm]^
+RIG |S1000 YL [Rig, Young lady]^
+NAME |S1000 CQ [Name, C Q]^
+CUL |S1000 TNX [See you later, Thanks]^
+TEST |S1000 ES [Contest, And]^
+UR |S1000 DX [Your, D X]^
+CPY |S1000 SRI [Copy, Sorry]^
+FT |S1000 FB [Feet, Fine business]^
+CFM |S1000 559 [Confirm, 5 5 9]^
+HI HI |S1000 QRS [laughing, Slow speed]^
+GM |S1000 HPE [Good morning, Hope]^
+CPI |S1000 UR [Copy, Your]^
+UP |S1000 ANT [Up, Antenna]^
+ES |S1000 NR [And, Number]^
+TEMP |S1000 CPI [Temperature, Copy]^
+CUL |S1000 BEAM [See you later, Beam]^
+UR |S1000 ABT [Your, About]^
+ANT |S1000 NR [Antenna, Number]^
+RIG |S1000 UP [Rig, Up]^
+DIPOLE |S1000 QTH [Dipole, Location]^
+TNX |S1000 SIG [Thanks, Signal]^
+OM |S1000 GE [Old man, Good evening]^
+PWR |S1000 NAME [Power, Name]^
+OP |S1000 UP [Operator, Up]^
+599 |S1000 NR [5 9 9, Number]^
+73 |S1000 UR [73, Your]^
+HPE |S1000 599 [Hope, 5 9 9]^
+XYL |S1000 GA [Wife, Good afternoon]^
+NR |S1000 HV [Number, Have]^
+QTH |S1000 WUD [Location, Would]^
+FB |S1000 HW\? [Fine business, How copy\?]^
+HI HI |S1000 QRN [laughing, Noise]^
+QTH |S1000 HW [Location, How]^
+QRM |S1000 VERT [Interference, Vertical]^
+HW |S1000 NAME [How, Name]^
+UP |S1000 DR [Up, Dear]^
+QRQ |S1000 ANT [High speed, Antenna]^
+TEMP |S1000 FER [Temperature, For]^
+GA |S1000 599 [Good afternoon, 5 9 9]^
+QRL |S1000 RIG [Busy, Rig]^
+GM |S1000 WX [Good morning, Weather]^
+GE |S1000 RX [Good evening, Receive]^
+GA |S1000 ES [Good afternoon, And]^
+RST |S1000 TX [R S T, Transmit]^
+UR |S1000 TU [Your, Thank you]^
+NAME |S1000 5NN [Name, 5 N N]^
+TEST |S1000 QRL [Contest, Busy]^
+FER |S1000 599 [For, 5 9 9]^
+HV |S1000 WUD [Have, Would]^
+AGN |S1000 OM [Again, Old man]^
+CPY |S1000 DX [Copy, D X]^
+PWR |S1000 CQ [Power, C Q]^
+AGN |S1000 NR [Again, Number]^
+RST |S1000 GA [R S T, Good afternoon]^
+WUD |S1000 TU [Would, Thank you]^
+PWR |S1000 QSB [Power, Fading]^
+HI HI |S1000 VY [laughing, Very]^
+UR |S1000 NAME [Your, Name]^
+HV |S1000 SIG [Have, Signal]^
+NR |S1000 EL [Number, Element]^
+559 |S1000 RST [5 5 9, R S T]^
+GL |S1000 GM [Good luck, Good morning]^
+PWR |S1000 QRQ [Power, High speed]^
+RX |S1000 PSE [Receive, Please]^
+HR |S1000 73 [Hear, 73]^
+ES |S1000 DE [And, From]^
+QTH |S1000 TEST [Location, Contest]^
+QRZ |S1000 DX [Q R Zed, D X]^
+BEAM |S1000 NR [Beam, Number]^
+DIPOLE |S1000 QSY [Dipole, Change frequency]^
+PLS |S1000 DE [Please, From]^
+QRM |S1000 XYL [Interference, Wife]^
+559 |S1000 BCNU [5 5 9, Be seeing you]^
+ANT |S1000 UR [Antenna, Your]^
+TEST |S1000 FB [Contest, Fine business]^
+WX |S1000 DIPOLE [Weather, Dipole]^
+599 |S1000 BEAM [5 9 9, Beam]^
+QRM |S1000 UR [Interference, Your]^
+HR |S1000 QTH [Hear, Location]^
+FER |S1000 QRL [For, Busy]^
+QSB |S1000 NR [Fading, Number]^
+UR |S1000 559 [Your, 5 5 9]^
+AGN |S1000 YL [Again, Young lady]^
+SIG |S1000 CUL [Signal, See you later]^
+QSB |S1000 RST [Fading, R S T]^
+QSY |S1000 OM [Change frequency, Old man]^
+DR |S1000 GA [Dear, Good afternoon]^
+73 |S1000 559 [73, 5 5 9]^
+QTH |S1000 GE [Location, Good evening]^
+GA |S1000 UP [Good afternoon, Up]^
+BTU |S1000 RST [Back to you, R S T]^
+FT |S1000 CPY [Feet, Copy]^
+SIG |S1000 GA [Signal, Good afternoon]^
+HPE |S1000 GE [Hope, Good evening]^
+QSB |S1000 5NN [Fading, 5 N N]^
+QTH |S1000 73 [Location, 73]^
+TNX |S1000 HI HI [Thanks, laughing]^
+CPI |S1000 HW [Copy, How]^
+DIPOLE |S1000 CQ [Dipole, C Q]^
+XYL |S1000 DE [Wife, From]^
+FER |S1000 ABT [For, About]^
+HI HI |S1000 559 [laughing, 5 5 9]^
+GM |S1000 AGN [Good morning, Again]^
+TNX |S1000 5NN [Thanks, 5 N N]^
+TEMP |S1000 PWR [Temperature, Power]^
+EL |S1000 HR [Element, Hear]^
+QTH |S1000 GE [Location, Good evening]^
+PSE |S1000 NR [Please, Number]^
+DE |S1000 SIG [From, Signal]^
+NAME |S1000 599 [Name, 5 9 9]^
+TNX |S1000 YAGI [Thanks, Yagi]^
+RX |S1000 TEST [Receive, Contest]^
+XYL |S1000 BTU [Wife, Back to you]^
+SRI |S1000 FT [Sorry, Feet]^
+QRM |S1000 OM [Interference, Old man]^
+QRZ |S1000 SRI [Q R Zed, Sorry]^
+559 |S1000 WX [5 5 9, Weather]^
+NR |S1000 RST [Number, R S T]^
+599 |S1000 MNI [5 9 9, Many]^
+CQ |S1000 TX [C Q, Transmit]^
+MNI |S1000 YAGI [Many, Yagi]^
+TEMP |S1000 FB [Temperature, Fine business]^
+BEAM |S1000 NAME [Beam, Name]^
+559 |S1000 ABT [5 5 9, About]^
+RIG |S1000 SIG [Rig, Signal]^
+WX |S1000 GM [Weather, Good morning]^
+SRI |S1000 FB [Sorry, Fine business]^
+VY |S1000 PWR [Very, Power]^
+ABT |S1000 GM [About, Good morning]^
+ES |S1000 CUL [And, See you later]^
+WUD |S1000 BTU [Would, Back to you]^
+VY |S1000 AGN [Very, Again]^
+YAGI |S1000 UP [Yagi, Up]^
+QTH |S1000 QSL [Location, Confirm]^
+TU |S1000 GL [Thank you, Good luck]^
+PWR |S1000 FB [Power, Fine business]^
+PLS |S1000 HI HI [Please, laughing]^
+GE |S1000 NR [Good evening, Number]^
+5NN |S1000 RIG [5 N N, Rig]^
+UR |S1000 DE [Your, From]^
+QTH |S1000 RIG [Location, Rig]^
+PSE |S1000 HW [Please, How]^
+GM |S1000 GA [Good morning, Good afternoon]^
+HV |S1000 QRQ [Have, High speed]^
+FER |S1000 BEAM [For, Beam]^
+BURO |S1000 HI HI [bureau, laughing]^
+GUD |S1000 TU [Good, Thank you]^
+SRI |S1000 VERT [Sorry, Vertical]^
+QSY |S1000 NAME [Change frequency, Name]^
+QRZ |S1000 VY [Q R Zed, Very]^
+NR |S1000 UP [Number, Up]^
+DX |S1000 HW\? [D X, How copy\?]^
+BTU |S1000 PWR [Back to you, Power]^
+HW |S1000 DE [How, From]^
+QTH |S1000 QSB [Location, Fading]^
+TU |S1000 UR [Thank you, Your]^
+CQ |S1000 GE [C Q, Good evening]^
+XYL |S1000 RIG [Wife, Rig]^
+5NN |S1000 TX [5 N N, Transmit]^
+UP |S1000 TEMP [Up, Temperature]^
+QRZ |S1000 DX [Q R Zed, D X]^
+EL |S1000 599 [Element, 5 9 9]^
+BEAM |S1000 RST [Beam, R S T]^
+CPI |S1000 BEAM [Copy, Beam]^
+QSB |S1000 FB [Fading, Fine business]^
+TNX |S1000 SRI [Thanks, Sorry]^
+DIPOLE |S1000 FER [Dipole, For]^
+559 |S1000 BEAM [5 5 9, Beam]^
+559 |S1000 XYL [5 5 9, Wife]^
+599 |S1000 AGN [5 9 9, Again]^
+73 |S1000 RIG [73, Rig]^
+DIPOLE |S1000 CPI [Dipole, Copy]^

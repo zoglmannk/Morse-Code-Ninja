@@ -1,0 +1,600 @@
+GUD |S1000 TX [Good, Transmit]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+EL |S1000 QRP [Element, Low power]^
+QRS |S1000 GUD [Slow speed, Good]^
+HR |S1000 QRP [Hear, Low power]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+BURO |S1000 QRQ [bureau, High speed]^
+RX |S1000 QRP [Receive, Low power]^
+RX |S1000 GUD [Receive, Good]^
+OP |S1000 PLS [Operator, Please]^
+GUD |S1000 QRS [Good, Slow speed]^
+GUD |S1000 HW\? [Good, How copy\?]^
+BURO |S1000 QRQ [bureau, High speed]^
+GUD |S1000 PLS [Good, Please]^
+GUD |S1000 EFHW [Good, End fed, half-wave]^
+GUD |S1000 OP [Good, Operator]^
+MNI |S1000 GUD [Many, Good]^
+CFM |S1000 RX [Confirm, Receive]^
+QRS |S1000 GUD [Slow speed, Good]^
+PSE |S1000 GUD [Please, Good]^
+BCNU |S1000 CFM [Be seeing you, Confirm]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+PLS |S1000 GUD [Please, Good]^
+CFM |S1000 GUD [Confirm, Good]^
+OP |S1000 HW\? [Operator, How copy\?]^
+GUD |S1000 TX [Good, Transmit]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+GUD |S1000 EFHW [Good, End fed, half-wave]^
+MNI |S1000 HW\? [Many, How copy\?]^
+GUD |S1000 RX [Good, Receive]^
+CFM |S1000 GUD [Confirm, Good]^
+CFM |S1000 EL [Confirm, Element]^
+GUD |S1000 EL [Good, Element]^
+QSY |S1000 OP [Change frequency, Operator]^
+EFHW |S1000 PSE [End fed, half-wave, Please]^
+CFM |S1000 OP [Confirm, Operator]^
+GUD |S1000 YL [Good, Young lady]^
+GUD |S1000 BURO [Good, bureau]^
+CFM |S1000 GUD [Confirm, Good]^
+QRP |S1000 YAGI [Low power, Yagi]^
+RX |S1000 MNI [Receive, Many]^
+HW\? |S1000 GUD [How copy\?, Good]^
+QRQ |S1000 GUD [High speed, Good]^
+TX |S1000 CFM [Transmit, Confirm]^
+GUD |S1000 EFHW [Good, End fed, half-wave]^
+QRQ |S1000 GUD [High speed, Good]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+GUD |S1000 VERT [Good, Vertical]^
+GUD |S1000 VERT [Good, Vertical]^
+GUD |S1000 YAGI [Good, Yagi]^
+HR |S1000 GUD [Hear, Good]^
+QRP |S1000 GUD [Low power, Good]^
+OP |S1000 QRQ [Operator, High speed]^
+CFM |S1000 HR [Confirm, Hear]^
+FT |S1000 GUD [Feet, Good]^
+RX |S1000 GUD [Receive, Good]^
+TX |S1000 GUD [Transmit, Good]^
+QRS |S1000 QSL [Slow speed, Confirm]^
+RX |S1000 GUD [Receive, Good]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+GUD |S1000 MNI [Good, Many]^
+QRP |S1000 GUD [Low power, Good]^
+QRS |S1000 QSL [Slow speed, Confirm]^
+GUD |S1000 YAGI [Good, Yagi]^
+GUD |S1000 HW\? [Good, How copy\?]^
+GUD |S1000 QRS [Good, Slow speed]^
+QSY |S1000 GUD [Change frequency, Good]^
+VERT |S1000 YAGI [Vertical, Yagi]^
+QRS |S1000 GUD [Slow speed, Good]^
+RX |S1000 FT [Receive, Feet]^
+GUD |S1000 QSY [Good, Change frequency]^
+GUD |S1000 FT [Good, Feet]^
+GUD |S1000 PSE [Good, Please]^
+QRP |S1000 YL [Low power, Young lady]^
+GUD |S1000 QSL [Good, Confirm]^
+HR |S1000 QRQ [Hear, High speed]^
+GUD |S1000 RX [Good, Receive]^
+QSL |S1000 GUD [Confirm, Good]^
+TX |S1000 YL [Transmit, Young lady]^
+QSL |S1000 GUD [Confirm, Good]^
+EL |S1000 GUD [Element, Good]^
+QRP |S1000 MNI [Low power, Many]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+EFHW |S1000 QRS [End fed, half-wave, Slow speed]^
+BURO |S1000 OP [bureau, Operator]^
+HW\? |S1000 GUD [How copy\?, Good]^
+YL |S1000 GUD [Young lady, Good]^
+QRP |S1000 GUD [Low power, Good]^
+MNI |S1000 HW\? [Many, How copy\?]^
+QRS |S1000 VERT [Slow speed, Vertical]^
+GUD |S1000 CFM [Good, Confirm]^
+RX |S1000 DR [Receive, Dear]^
+HW\? |S1000 QSL [How copy\?, Confirm]^
+GUD |S1000 MNI [Good, Many]^
+GUD |S1000 QSY [Good, Change frequency]^
+GUD |S1000 QSY [Good, Change frequency]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+YL |S1000 QRS [Young lady, Slow speed]^
+OP |S1000 CFM [Operator, Confirm]^
+QRP |S1000 QSY [Low power, Change frequency]^
+GUD |S1000 VERT [Good, Vertical]^
+GUD |S1000 YL [Good, Young lady]^
+QSL |S1000 TX [Confirm, Transmit]^
+EL |S1000 PLS [Element, Please]^
+GUD |S1000 FT [Good, Feet]^
+QSL |S1000 VERT [Confirm, Vertical]^
+GUD |S1000 PLS [Good, Please]^
+GUD |S1000 QRS [Good, Slow speed]^
+PLS |S1000 GUD [Please, Good]^
+QRS |S1000 GUD [Slow speed, Good]^
+YAGI |S1000 GUD [Yagi, Good]^
+QRQ |S1000 QRS [High speed, Slow speed]^
+GUD |S1000 QRQ [Good, High speed]^
+GUD |S1000 PSE [Good, Please]^
+HW\? |S1000 BCNU [How copy\?, Be seeing you]^
+GUD |S1000 QRP [Good, Low power]^
+GUD |S1000 FT [Good, Feet]^
+GUD |S1000 YL [Good, Young lady]^
+RX |S1000 DR [Receive, Dear]^
+GUD |S1000 PLS [Good, Please]^
+GUD |S1000 QRS [Good, Slow speed]^
+QRQ |S1000 QSY [High speed, Change frequency]^
+GUD |S1000 MNI [Good, Many]^
+GUD |S1000 QRS [Good, Slow speed]^
+GUD |S1000 QSY [Good, Change frequency]^
+GUD |S1000 YL [Good, Young lady]^
+GUD |S1000 QRP [Good, Low power]^
+EL |S1000 YAGI [Element, Yagi]^
+QRS |S1000 EL [Slow speed, Element]^
+YAGI |S1000 YL [Yagi, Young lady]^
+HW\? |S1000 VERT [How copy\?, Vertical]^
+EL |S1000 MNI [Element, Many]^
+GUD |S1000 OP [Good, Operator]^
+BCNU |S1000 QRP [Be seeing you, Low power]^
+MNI |S1000 GUD [Many, Good]^
+EL |S1000 YL [Element, Young lady]^
+GUD |S1000 VERT [Good, Vertical]^
+QSL |S1000 GUD [Confirm, Good]^
+MNI |S1000 QSL [Many, Confirm]^
+GUD |S1000 DR [Good, Dear]^
+GUD |S1000 OP [Good, Operator]^
+MNI |S1000 QSL [Many, Confirm]^
+YAGI |S1000 QSY [Yagi, Change frequency]^
+GUD |S1000 PSE [Good, Please]^
+MNI |S1000 GUD [Many, Good]^
+QRS |S1000 DR [Slow speed, Dear]^
+GUD |S1000 HW\? [Good, How copy\?]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+GUD |S1000 PLS [Good, Please]^
+GUD |S1000 QSY [Good, Change frequency]^
+GUD |S1000 DR [Good, Dear]^
+GUD |S1000 QSY [Good, Change frequency]^
+RX |S1000 CFM [Receive, Confirm]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+QSY |S1000 GUD [Change frequency, Good]^
+VERT |S1000 QRQ [Vertical, High speed]^
+CFM |S1000 GUD [Confirm, Good]^
+QSL |S1000 RX [Confirm, Receive]^
+QSY |S1000 QSL [Change frequency, Confirm]^
+GUD |S1000 YAGI [Good, Yagi]^
+PLS |S1000 DR [Please, Dear]^
+GUD |S1000 QRQ [Good, High speed]^
+BURO |S1000 HR [bureau, Hear]^
+GUD |S1000 TX [Good, Transmit]^
+GUD |S1000 HW\? [Good, How copy\?]^
+QRQ |S1000 OP [High speed, Operator]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+GUD |S1000 EL [Good, Element]^
+GUD |S1000 TX [Good, Transmit]^
+RX |S1000 GUD [Receive, Good]^
+EFHW |S1000 QRP [End fed, half-wave, Low power]^
+GUD |S1000 YAGI [Good, Yagi]^
+GUD |S1000 YAGI [Good, Yagi]^
+RX |S1000 GUD [Receive, Good]^
+FT |S1000 QSL [Feet, Confirm]^
+GUD |S1000 MNI [Good, Many]^
+GUD |S1000 EL [Good, Element]^
+GUD |S1000 OP [Good, Operator]^
+FT |S1000 QRQ [Feet, High speed]^
+GUD |S1000 MNI [Good, Many]^
+QRS |S1000 GUD [Slow speed, Good]^
+HR |S1000 VERT [Hear, Vertical]^
+QSY |S1000 GUD [Change frequency, Good]^
+YAGI |S1000 BCNU [Yagi, Be seeing you]^
+FT |S1000 DR [Feet, Dear]^
+GUD |S1000 DR [Good, Dear]^
+QSY |S1000 QSL [Change frequency, Confirm]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+EFHW |S1000 QRS [End fed, half-wave, Slow speed]^
+GUD |S1000 MNI [Good, Many]^
+GUD |S1000 CFM [Good, Confirm]^
+GUD |S1000 EFHW [Good, End fed, half-wave]^
+GUD |S1000 BURO [Good, bureau]^
+PSE |S1000 GUD [Please, Good]^
+YL |S1000 BCNU [Young lady, Be seeing you]^
+GUD |S1000 QRS [Good, Slow speed]^
+GUD |S1000 BURO [Good, bureau]^
+HW\? |S1000 GUD [How copy\?, Good]^
+CFM |S1000 TX [Confirm, Transmit]^
+MNI |S1000 GUD [Many, Good]^
+EL |S1000 GUD [Element, Good]^
+QRS |S1000 GUD [Slow speed, Good]^
+EFHW |S1000 BURO [End fed, half-wave, bureau]^
+GUD |S1000 QSL [Good, Confirm]^
+PSE |S1000 BURO [Please, bureau]^
+QSL |S1000 YL [Confirm, Young lady]^
+GUD |S1000 PLS [Good, Please]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+YAGI |S1000 FT [Yagi, Feet]^
+RX |S1000 GUD [Receive, Good]^
+MNI |S1000 GUD [Many, Good]^
+DR |S1000 OP [Dear, Operator]^
+QSY |S1000 GUD [Change frequency, Good]^
+QSY |S1000 GUD [Change frequency, Good]^
+HW\? |S1000 GUD [How copy\?, Good]^
+YAGI |S1000 CFM [Yagi, Confirm]^
+BURO |S1000 QRQ [bureau, High speed]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+QRP |S1000 GUD [Low power, Good]^
+BURO |S1000 GUD [bureau, Good]^
+QSL |S1000 GUD [Confirm, Good]^
+PSE |S1000 DR [Please, Dear]^
+YAGI |S1000 GUD [Yagi, Good]^
+MNI |S1000 BCNU [Many, Be seeing you]^
+OP |S1000 GUD [Operator, Good]^
+YL |S1000 GUD [Young lady, Good]^
+PSE |S1000 QSL [Please, Confirm]^
+GUD |S1000 YAGI [Good, Yagi]^
+GUD |S1000 RX [Good, Receive]^
+GUD |S1000 CFM [Good, Confirm]^
+GUD |S1000 QRP [Good, Low power]^
+GUD |S1000 RX [Good, Receive]^
+EL |S1000 GUD [Element, Good]^
+QSY |S1000 HW\? [Change frequency, How copy\?]^
+BURO |S1000 GUD [bureau, Good]^
+HW\? |S1000 GUD [How copy\?, Good]^
+YL |S1000 GUD [Young lady, Good]^
+HW\? |S1000 GUD [How copy\?, Good]^
+BURO |S1000 QRP [bureau, Low power]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+OP |S1000 GUD [Operator, Good]^
+RX |S1000 QSL [Receive, Confirm]^
+QSY |S1000 MNI [Change frequency, Many]^
+YL |S1000 GUD [Young lady, Good]^
+OP |S1000 QSY [Operator, Change frequency]^
+HR |S1000 BCNU [Hear, Be seeing you]^
+GUD |S1000 RX [Good, Receive]^
+QSL |S1000 GUD [Confirm, Good]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+QRS |S1000 BURO [Slow speed, bureau]^
+GUD |S1000 BURO [Good, bureau]^
+GUD |S1000 QRP [Good, Low power]^
+YL |S1000 GUD [Young lady, Good]^
+CFM |S1000 YAGI [Confirm, Yagi]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+GUD |S1000 EFHW [Good, End fed, half-wave]^
+GUD |S1000 DR [Good, Dear]^
+GUD |S1000 DR [Good, Dear]^
+GUD |S1000 EL [Good, Element]^
+QSL |S1000 GUD [Confirm, Good]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+EL |S1000 GUD [Element, Good]^
+QRP |S1000 GUD [Low power, Good]^
+QRS |S1000 GUD [Slow speed, Good]^
+RX |S1000 HW\? [Receive, How copy\?]^
+PLS |S1000 GUD [Please, Good]^
+MNI |S1000 OP [Many, Operator]^
+BURO |S1000 GUD [bureau, Good]^
+QSL |S1000 CFM [Confirm, Confirm]^
+GUD |S1000 QRQ [Good, High speed]^
+BURO |S1000 QRS [bureau, Slow speed]^
+GUD |S1000 QRQ [Good, High speed]^
+GUD |S1000 HR [Good, Hear]^
+GUD |S1000 DR [Good, Dear]^
+BURO |S1000 GUD [bureau, Good]^
+QRQ |S1000 HR [High speed, Hear]^
+GUD |S1000 OP [Good, Operator]^
+HR |S1000 VERT [Hear, Vertical]^
+QSL |S1000 GUD [Confirm, Good]^
+EL |S1000 TX [Element, Transmit]^
+EL |S1000 YL [Element, Young lady]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 DR [High speed, Dear]^
+TX |S1000 QSL [Transmit, Confirm]^
+GUD |S1000 QRQ [Good, High speed]^
+QRP |S1000 CFM [Low power, Confirm]^
+BURO |S1000 CFM [bureau, Confirm]^
+QRS |S1000 QSY [Slow speed, Change frequency]^
+BCNU |S1000 GUD [Be seeing you, Good]^
+YL |S1000 DR [Young lady, Dear]^
+PLS |S1000 GUD [Please, Good]^
+QRS |S1000 PSE [Slow speed, Please]^
+GUD |S1000 QSL [Good, Confirm]^
+YL |S1000 GUD [Young lady, Good]^
+RX |S1000 GUD [Receive, Good]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+OP |S1000 QRS [Operator, Slow speed]^
+GUD |S1000 QRS [Good, Slow speed]^
+GUD |S1000 HW\? [Good, How copy\?]^
+GUD |S1000 QSY [Good, Change frequency]^
+QSL |S1000 GUD [Confirm, Good]^
+CFM |S1000 QSL [Confirm, Confirm]^
+RX |S1000 HR [Receive, Hear]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+GUD |S1000 QRQ [Good, High speed]^
+GUD |S1000 YL [Good, Young lady]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+DR |S1000 GUD [Dear, Good]^
+QRQ |S1000 CFM [High speed, Confirm]^
+TX |S1000 GUD [Transmit, Good]^
+MNI |S1000 GUD [Many, Good]^
+PSE |S1000 QRS [Please, Slow speed]^
+MNI |S1000 GUD [Many, Good]^
+HR |S1000 GUD [Hear, Good]^
+HW\? |S1000 QRP [How copy\?, Low power]^
+GUD |S1000 QRQ [Good, High speed]^
+TX |S1000 GUD [Transmit, Good]^
+YL |S1000 GUD [Young lady, Good]^
+QSL |S1000 QRS [Confirm, Slow speed]^
+CFM |S1000 GUD [Confirm, Good]^
+OP |S1000 GUD [Operator, Good]^
+VERT |S1000 GUD [Vertical, Good]^
+RX |S1000 GUD [Receive, Good]^
+QSY |S1000 PSE [Change frequency, Please]^
+VERT |S1000 GUD [Vertical, Good]^
+VERT |S1000 CFM [Vertical, Confirm]^
+GUD |S1000 QRP [Good, Low power]^
+PLS |S1000 VERT [Please, Vertical]^
+QSL |S1000 OP [Confirm, Operator]^
+GUD |S1000 QSL [Good, Confirm]^
+PSE |S1000 GUD [Please, Good]^
+QRP |S1000 GUD [Low power, Good]^
+MNI |S1000 GUD [Many, Good]^
+OP |S1000 GUD [Operator, Good]^
+QRQ |S1000 GUD [High speed, Good]^
+FT |S1000 GUD [Feet, Good]^
+EL |S1000 GUD [Element, Good]^
+HR |S1000 BURO [Hear, bureau]^
+YL |S1000 GUD [Young lady, Good]^
+YL |S1000 RX [Young lady, Receive]^
+GUD |S1000 OP [Good, Operator]^
+GUD |S1000 EL [Good, Element]^
+GUD |S1000 DR [Good, Dear]^
+QSL |S1000 TX [Confirm, Transmit]^
+GUD |S1000 QSY [Good, Change frequency]^
+GUD |S1000 YAGI [Good, Yagi]^
+TX |S1000 GUD [Transmit, Good]^
+QSL |S1000 QRP [Confirm, Low power]^
+QSY |S1000 EL [Change frequency, Element]^
+QRQ |S1000 TX [High speed, Transmit]^
+OP |S1000 HW\? [Operator, How copy\?]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+GUD |S1000 PSE [Good, Please]^
+GUD |S1000 PLS [Good, Please]^
+OP |S1000 PLS [Operator, Please]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+QRP |S1000 GUD [Low power, Good]^
+QRS |S1000 DR [Slow speed, Dear]^
+PSE |S1000 HW\? [Please, How copy\?]^
+PLS |S1000 RX [Please, Receive]^
+BURO |S1000 DR [bureau, Dear]^
+HR |S1000 GUD [Hear, Good]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+QRS |S1000 GUD [Slow speed, Good]^
+CFM |S1000 TX [Confirm, Transmit]^
+QSY |S1000 GUD [Change frequency, Good]^
+PSE |S1000 PLS [Please, Please]^
+PSE |S1000 GUD [Please, Good]^
+MNI |S1000 QRP [Many, Low power]^
+CFM |S1000 GUD [Confirm, Good]^
+QRS |S1000 BURO [Slow speed, bureau]^
+EFHW |S1000 YL [End fed, half-wave, Young lady]^
+TX |S1000 GUD [Transmit, Good]^
+OP |S1000 GUD [Operator, Good]^
+QSL |S1000 GUD [Confirm, Good]^
+PLS |S1000 YL [Please, Young lady]^
+EL |S1000 GUD [Element, Good]^
+BURO |S1000 QSL [bureau, Confirm]^
+GUD |S1000 VERT [Good, Vertical]^
+QSL |S1000 EL [Confirm, Element]^
+GUD |S1000 FT [Good, Feet]^
+DR |S1000 HW\? [Dear, How copy\?]^
+GUD |S1000 YAGI [Good, Yagi]^
+PLS |S1000 GUD [Please, Good]^
+QSY |S1000 FT [Change frequency, Feet]^
+GUD |S1000 VERT [Good, Vertical]^
+GUD |S1000 HR [Good, Hear]^
+GUD |S1000 MNI [Good, Many]^
+QRQ |S1000 MNI [High speed, Many]^
+QRQ |S1000 QRS [High speed, Slow speed]^
+GUD |S1000 DR [Good, Dear]^
+QRS |S1000 GUD [Slow speed, Good]^
+EL |S1000 GUD [Element, Good]^
+MNI |S1000 BCNU [Many, Be seeing you]^
+GUD |S1000 PSE [Good, Please]^
+OP |S1000 GUD [Operator, Good]^
+YAGI |S1000 QRQ [Yagi, High speed]^
+GUD |S1000 VERT [Good, Vertical]^
+GUD |S1000 QSL [Good, Confirm]^
+GUD |S1000 QRP [Good, Low power]^
+GUD |S1000 EFHW [Good, End fed, half-wave]^
+GUD |S1000 QRS [Good, Slow speed]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+QRP |S1000 QSY [Low power, Change frequency]^
+GUD |S1000 CFM [Good, Confirm]^
+QRP |S1000 GUD [Low power, Good]^
+QSL |S1000 GUD [Confirm, Good]^
+QRQ |S1000 CFM [High speed, Confirm]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+GUD |S1000 TX [Good, Transmit]^
+GUD |S1000 RX [Good, Receive]^
+QSY |S1000 GUD [Change frequency, Good]^
+QSY |S1000 GUD [Change frequency, Good]^
+BCNU |S1000 GUD [Be seeing you, Good]^
+VERT |S1000 TX [Vertical, Transmit]^
+GUD |S1000 QSY [Good, Change frequency]^
+GUD |S1000 PSE [Good, Please]^
+FT |S1000 QRQ [Feet, High speed]^
+MNI |S1000 GUD [Many, Good]^
+YAGI |S1000 EFHW [Yagi, End fed, half-wave]^
+GUD |S1000 TX [Good, Transmit]^
+GUD |S1000 QRP [Good, Low power]^
+DR |S1000 HR [Dear, Hear]^
+PSE |S1000 GUD [Please, Good]^
+RX |S1000 BCNU [Receive, Be seeing you]^
+GUD |S1000 VERT [Good, Vertical]^
+GUD |S1000 PLS [Good, Please]^
+YAGI |S1000 MNI [Yagi, Many]^
+FT |S1000 GUD [Feet, Good]^
+YAGI |S1000 GUD [Yagi, Good]^
+HW\? |S1000 GUD [How copy\?, Good]^
+PLS |S1000 GUD [Please, Good]^
+PSE |S1000 HW\? [Please, How copy\?]^
+GUD |S1000 FT [Good, Feet]^
+OP |S1000 PSE [Operator, Please]^
+GUD |S1000 CFM [Good, Confirm]^
+GUD |S1000 OP [Good, Operator]^
+GUD |S1000 PSE [Good, Please]^
+PLS |S1000 VERT [Please, Vertical]^
+GUD |S1000 TX [Good, Transmit]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+DR |S1000 GUD [Dear, Good]^
+PLS |S1000 GUD [Please, Good]^
+QSL |S1000 EL [Confirm, Element]^
+RX |S1000 DR [Receive, Dear]^
+VERT |S1000 MNI [Vertical, Many]^
+BURO |S1000 RX [bureau, Receive]^
+GUD |S1000 QSY [Good, Change frequency]^
+BURO |S1000 GUD [bureau, Good]^
+QSL |S1000 TX [Confirm, Transmit]^
+EL |S1000 HW\? [Element, How copy\?]^
+YL |S1000 MNI [Young lady, Many]^
+OP |S1000 EFHW [Operator, End fed, half-wave]^
+YAGI |S1000 GUD [Yagi, Good]^
+QRQ |S1000 HR [High speed, Hear]^
+GUD |S1000 RX [Good, Receive]^
+HW\? |S1000 GUD [How copy\?, Good]^
+QSL |S1000 GUD [Confirm, Good]^
+HW\? |S1000 GUD [How copy\?, Good]^
+MNI |S1000 YL [Many, Young lady]^
+GUD |S1000 QRS [Good, Slow speed]^
+HW\? |S1000 GUD [How copy\?, Good]^
+BURO |S1000 GUD [bureau, Good]^
+PLS |S1000 GUD [Please, Good]^
+EL |S1000 GUD [Element, Good]^
+PSE |S1000 BCNU [Please, Be seeing you]^
+RX |S1000 GUD [Receive, Good]^
+DR |S1000 GUD [Dear, Good]^
+EFHW |S1000 MNI [End fed, half-wave, Many]^
+CFM |S1000 PSE [Confirm, Please]^
+CFM |S1000 EL [Confirm, Element]^
+GUD |S1000 YAGI [Good, Yagi]^
+GUD |S1000 EL [Good, Element]^
+GUD |S1000 HR [Good, Hear]^
+QSY |S1000 GUD [Change frequency, Good]^
+RX |S1000 QSY [Receive, Change frequency]^
+DR |S1000 GUD [Dear, Good]^
+HW\? |S1000 GUD [How copy\?, Good]^
+MNI |S1000 CFM [Many, Confirm]^
+GUD |S1000 PLS [Good, Please]^
+QRP |S1000 HR [Low power, Hear]^
+GUD |S1000 FT [Good, Feet]^
+YAGI |S1000 PLS [Yagi, Please]^
+OP |S1000 GUD [Operator, Good]^
+QSY |S1000 HW\? [Change frequency, How copy\?]^
+QRP |S1000 DR [Low power, Dear]^
+GUD |S1000 EFHW [Good, End fed, half-wave]^
+GUD |S1000 TX [Good, Transmit]^
+VERT |S1000 GUD [Vertical, Good]^
+QSY |S1000 BURO [Change frequency, bureau]^
+QRQ |S1000 GUD [High speed, Good]^
+HW\? |S1000 GUD [How copy\?, Good]^
+HW\? |S1000 PSE [How copy\?, Please]^
+GUD |S1000 QRP [Good, Low power]^
+PSE |S1000 VERT [Please, Vertical]^
+GUD |S1000 PSE [Good, Please]^
+QSL |S1000 DR [Confirm, Dear]^
+PSE |S1000 GUD [Please, Good]^
+QRQ |S1000 MNI [High speed, Many]^
+GUD |S1000 YAGI [Good, Yagi]^
+TX |S1000 QRQ [Transmit, High speed]^
+EL |S1000 GUD [Element, Good]^
+QRS |S1000 GUD [Slow speed, Good]^
+YL |S1000 QSL [Young lady, Confirm]^
+RX |S1000 GUD [Receive, Good]^
+RX |S1000 DR [Receive, Dear]^
+GUD |S1000 RX [Good, Receive]^
+GUD |S1000 OP [Good, Operator]^
+BCNU |S1000 GUD [Be seeing you, Good]^
+EFHW |S1000 PSE [End fed, half-wave, Please]^
+RX |S1000 PSE [Receive, Please]^
+GUD |S1000 HR [Good, Hear]^
+PLS |S1000 GUD [Please, Good]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+YAGI |S1000 QSL [Yagi, Confirm]^
+MNI |S1000 RX [Many, Receive]^
+YL |S1000 MNI [Young lady, Many]^
+YAGI |S1000 GUD [Yagi, Good]^
+RX |S1000 GUD [Receive, Good]^
+QSL |S1000 QSY [Confirm, Change frequency]^
+BURO |S1000 HR [bureau, Hear]^
+GUD |S1000 QRQ [Good, High speed]^
+PSE |S1000 BURO [Please, bureau]^
+GUD |S1000 HW\? [Good, How copy\?]^
+YL |S1000 GUD [Young lady, Good]^
+YAGI |S1000 DR [Yagi, Dear]^
+HW\? |S1000 GUD [How copy\?, Good]^
+RX |S1000 QSY [Receive, Change frequency]^
+GUD |S1000 QSY [Good, Change frequency]^
+BCNU |S1000 GUD [Be seeing you, Good]^
+QSY |S1000 PLS [Change frequency, Please]^
+EL |S1000 GUD [Element, Good]^
+EL |S1000 GUD [Element, Good]^
+OP |S1000 BURO [Operator, bureau]^
+GUD |S1000 CFM [Good, Confirm]^
+GUD |S1000 EFHW [Good, End fed, half-wave]^
+QSY |S1000 QSL [Change frequency, Confirm]^
+QRQ |S1000 GUD [High speed, Good]^
+FT |S1000 MNI [Feet, Many]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+GUD |S1000 CFM [Good, Confirm]^
+GUD |S1000 OP [Good, Operator]^
+GUD |S1000 BCNU [Good, Be seeing you]^
+YL |S1000 GUD [Young lady, Good]^
+QRS |S1000 HW\? [Slow speed, How copy\?]^
+GUD |S1000 TX [Good, Transmit]^
+QRQ |S1000 GUD [High speed, Good]^
+OP |S1000 GUD [Operator, Good]^
+FT |S1000 GUD [Feet, Good]^
+VERT |S1000 GUD [Vertical, Good]^
+DR |S1000 QRQ [Dear, High speed]^
+GUD |S1000 PSE [Good, Please]^
+GUD |S1000 EFHW [Good, End fed, half-wave]^
+QSY |S1000 GUD [Change frequency, Good]^
+BCNU |S1000 GUD [Be seeing you, Good]^
+YAGI |S1000 GUD [Yagi, Good]^
+TX |S1000 HR [Transmit, Hear]^
+GUD |S1000 YL [Good, Young lady]^
+QRS |S1000 GUD [Slow speed, Good]^
+YL |S1000 BCNU [Young lady, Be seeing you]^
+EFHW |S1000 CFM [End fed, half-wave, Confirm]^
+BCNU |S1000 GUD [Be seeing you, Good]^
+RX |S1000 GUD [Receive, Good]^
+QRQ |S1000 YAGI [High speed, Yagi]^
+BURO |S1000 OP [bureau, Operator]^
+BCNU |S1000 YL [Be seeing you, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+GUD |S1000 HW\? [Good, How copy\?]^
+GUD |S1000 QSL [Good, Confirm]^
+GUD |S1000 QRS [Good, Slow speed]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+BCNU |S1000 GUD [Be seeing you, Good]^
+MNI |S1000 BCNU [Many, Be seeing you]^
+YL |S1000 EL [Young lady, Element]^
+QRQ |S1000 YAGI [High speed, Yagi]^
+QRP |S1000 GUD [Low power, Good]^
+EL |S1000 QSL [Element, Confirm]^
+VERT |S1000 MNI [Vertical, Many]^
+EL |S1000 YAGI [Element, Yagi]^
+GUD |S1000 QSL [Good, Confirm]^
+TX |S1000 GUD [Transmit, Good]^
+RX |S1000 TX [Receive, Transmit]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+QRP |S1000 DR [Low power, Dear]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+GUD |S1000 QSY [Good, Change frequency]^
+BURO |S1000 FT [bureau, Feet]^
+GUD |S1000 EFHW [Good, End fed, half-wave]^
+GUD |S1000 EL [Good, Element]^
+GUD |S1000 CFM [Good, Confirm]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+GUD |S1000 DR [Good, Dear]^
+HW\? |S1000 GUD [How copy\?, Good]^
+HW\? |S1000 GUD [How copy\?, Good]^
+VERT |S1000 GUD [Vertical, Good]^

@@ -1,0 +1,600 @@
+QRL |S1000 OM [Busy, Old man]^
+TNX |S1000 RIG [Thanks, Rig]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+PWR |S1000 RIG [Power, Rig]^
+BEAM |S1000 QSB [Beam, Fading]^
+HW |S1000 ANT [How, Antenna]^
+GL |S1000 RIG [Good luck, Rig]^
+QSB |S1000 RIG [Fading, Rig]^
+ANT |S1000 RIG [Antenna, Rig]^
+CPY |S1000 CUL [Copy, See you later]^
+TNX |S1000 RIG [Thanks, Rig]^
+QRL |S1000 HPE [Busy, Hope]^
+RIG |S1000 QSB [Rig, Fading]^
+RIG |S1000 QSB [Rig, Fading]^
+ANT |S1000 RIG [Antenna, Rig]^
+FB |S1000 PWR [Fine business, Power]^
+RIG |S1000 FB [Rig, Fine business]^
+TNX |S1000 RIG [Thanks, Rig]^
+OM |S1000 SIG [Old man, Signal]^
+QRN |S1000 BTU [Noise, Back to you]^
+RIG |S1000 GL [Rig, Good luck]^
+RIG |S1000 CUL [Rig, See you later]^
+RIG |S1000 CPI [Rig, Copy]^
+QSB |S1000 DX [Fading, D X]^
+HPE |S1000 XYL [Hope, Wife]^
+CPI |S1000 XYL [Copy, Wife]^
+ANT |S1000 FB [Antenna, Fine business]^
+GL |S1000 FB [Good luck, Fine business]^
+XYL |S1000 BEAM [Wife, Beam]^
+BTU |S1000 RIG [Back to you, Rig]^
+CPI |S1000 RIG [Copy, Rig]^
+DX |S1000 RIG [D X, Rig]^
+QSB |S1000 RIG [Fading, Rig]^
+QRN |S1000 RIG [Noise, Rig]^
+OM |S1000 RIG [Old man, Rig]^
+GL |S1000 CPY [Good luck, Copy]^
+PWR |S1000 QRL [Power, Busy]^
+OM |S1000 RIG [Old man, Rig]^
+PWR |S1000 GL [Power, Good luck]^
+DX |S1000 FB [D X, Fine business]^
+RIG |S1000 CUL [Rig, See you later]^
+PWR |S1000 OM [Power, Old man]^
+RIG |S1000 CPI [Rig, Copy]^
+RIG |S1000 QSB [Rig, Fading]^
+RIG |S1000 GL [Rig, Good luck]^
+RIG |S1000 QSB [Rig, Fading]^
+RIG |S1000 CPI [Rig, Copy]^
+RIG |S1000 ANT [Rig, Antenna]^
+BEAM |S1000 FB [Beam, Fine business]^
+SIG |S1000 QRL [Signal, Busy]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+PWR |S1000 BEAM [Power, Beam]^
+XYL |S1000 RIG [Wife, Rig]^
+CPI |S1000 XYL [Copy, Wife]^
+RIG |S1000 HPE [Rig, Hope]^
+RIG |S1000 ANT [Rig, Antenna]^
+RIG |S1000 FB [Rig, Fine business]^
+DIPOLE |S1000 HW [Dipole, How]^
+RIG |S1000 FB [Rig, Fine business]^
+HPE |S1000 SIG [Hope, Signal]^
+OM |S1000 QRN [Old man, Noise]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+DX |S1000 RIG [D X, Rig]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+FB |S1000 BEAM [Fine business, Beam]^
+OM |S1000 RIG [Old man, Rig]^
+PWR |S1000 BEAM [Power, Beam]^
+DX |S1000 HPE [D X, Hope]^
+RIG |S1000 HW [Rig, How]^
+FB |S1000 QSB [Fine business, Fading]^
+RIG |S1000 CUL [Rig, See you later]^
+HW |S1000 CUL [How, See you later]^
+RIG |S1000 CPI [Rig, Copy]^
+RIG |S1000 GL [Rig, Good luck]^
+RIG |S1000 ANT [Rig, Antenna]^
+RIG |S1000 ANT [Rig, Antenna]^
+RIG |S1000 CPY [Rig, Copy]^
+HPE |S1000 RIG [Hope, Rig]^
+BTU |S1000 RIG [Back to you, Rig]^
+XYL |S1000 QRL [Wife, Busy]^
+HW |S1000 RIG [How, Rig]^
+HW |S1000 RIG [How, Rig]^
+BTU |S1000 RIG [Back to you, Rig]^
+ANT |S1000 OM [Antenna, Old man]^
+DX |S1000 HW [D X, How]^
+RIG |S1000 GL [Rig, Good luck]^
+HPE |S1000 RIG [Hope, Rig]^
+OM |S1000 BEAM [Old man, Beam]^
+RIG |S1000 CUL [Rig, See you later]^
+RIG |S1000 XYL [Rig, Wife]^
+SRI |S1000 RIG [Sorry, Rig]^
+HPE |S1000 RIG [Hope, Rig]^
+OM |S1000 RIG [Old man, Rig]^
+OM |S1000 RIG [Old man, Rig]^
+BTU |S1000 RIG [Back to you, Rig]^
+QSB |S1000 OM [Fading, Old man]^
+RIG |S1000 HW [Rig, How]^
+RIG |S1000 BTU [Rig, Back to you]^
+CPI |S1000 RIG [Copy, Rig]^
+BEAM |S1000 RIG [Beam, Rig]^
+OM |S1000 FB [Old man, Fine business]^
+RIG |S1000 QSB [Rig, Fading]^
+RIG |S1000 ANT [Rig, Antenna]^
+QRN |S1000 HPE [Noise, Hope]^
+DX |S1000 RIG [D X, Rig]^
+OM |S1000 FB [Old man, Fine business]^
+DX |S1000 ANT [D X, Antenna]^
+XYL |S1000 RIG [Wife, Rig]^
+HW |S1000 DIPOLE [How, Dipole]^
+BEAM |S1000 BTU [Beam, Back to you]^
+RIG |S1000 XYL [Rig, Wife]^
+FB |S1000 RIG [Fine business, Rig]^
+BTU |S1000 CPI [Back to you, Copy]^
+RIG |S1000 QRN [Rig, Noise]^
+BEAM |S1000 RIG [Beam, Rig]^
+GL |S1000 QRL [Good luck, Busy]^
+RIG |S1000 OM [Rig, Old man]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+PWR |S1000 XYL [Power, Wife]^
+RIG |S1000 CUL [Rig, See you later]^
+QRL |S1000 RIG [Busy, Rig]^
+OM |S1000 FB [Old man, Fine business]^
+ANT |S1000 BEAM [Antenna, Beam]^
+RIG |S1000 CPI [Rig, Copy]^
+QRN |S1000 HPE [Noise, Hope]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+CUL |S1000 CPI [See you later, Copy]^
+XYL |S1000 RIG [Wife, Rig]^
+QSB |S1000 RIG [Fading, Rig]^
+CPI |S1000 RIG [Copy, Rig]^
+DIPOLE |S1000 HW [Dipole, How]^
+RIG |S1000 BEAM [Rig, Beam]^
+RIG |S1000 QRN [Rig, Noise]^
+QRL |S1000 QRN [Busy, Noise]^
+RIG |S1000 QRL [Rig, Busy]^
+RIG |S1000 QRL [Rig, Busy]^
+RIG |S1000 OM [Rig, Old man]^
+XYL |S1000 PWR [Wife, Power]^
+RIG |S1000 PWR [Rig, Power]^
+DX |S1000 QRL [D X, Busy]^
+CUL |S1000 HW [See you later, How]^
+CUL |S1000 RIG [See you later, Rig]^
+OM |S1000 GL [Old man, Good luck]^
+FB |S1000 RIG [Fine business, Rig]^
+CPY |S1000 TNX [Copy, Thanks]^
+QRL |S1000 TNX [Busy, Thanks]^
+QSB |S1000 RIG [Fading, Rig]^
+QRN |S1000 RIG [Noise, Rig]^
+SIG |S1000 RIG [Signal, Rig]^
+GL |S1000 RIG [Good luck, Rig]^
+FB |S1000 RIG [Fine business, Rig]^
+CUL |S1000 OM [See you later, Old man]^
+SRI |S1000 QSB [Sorry, Fading]^
+OM |S1000 QRN [Old man, Noise]^
+HW |S1000 RIG [How, Rig]^
+BTU |S1000 RIG [Back to you, Rig]^
+HPE |S1000 QSB [Hope, Fading]^
+RIG |S1000 FB [Rig, Fine business]^
+RIG |S1000 ANT [Rig, Antenna]^
+GL |S1000 CUL [Good luck, See you later]^
+XYL |S1000 SRI [Wife, Sorry]^
+BEAM |S1000 GL [Beam, Good luck]^
+QRL |S1000 BTU [Busy, Back to you]^
+RIG |S1000 QRL [Rig, Busy]^
+FB |S1000 SRI [Fine business, Sorry]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+HPE |S1000 RIG [Hope, Rig]^
+HPE |S1000 FB [Hope, Fine business]^
+RIG |S1000 QRN [Rig, Noise]^
+RIG |S1000 BTU [Rig, Back to you]^
+CPY |S1000 BEAM [Copy, Beam]^
+OM |S1000 RIG [Old man, Rig]^
+QSB |S1000 HPE [Fading, Hope]^
+RIG |S1000 GL [Rig, Good luck]^
+DX |S1000 QSB [D X, Fading]^
+TNX |S1000 RIG [Thanks, Rig]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+QRL |S1000 RIG [Busy, Rig]^
+PWR |S1000 CUL [Power, See you later]^
+RIG |S1000 HPE [Rig, Hope]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+RIG |S1000 QRN [Rig, Noise]^
+RIG |S1000 TNX [Rig, Thanks]^
+RIG |S1000 QRL [Rig, Busy]^
+FB |S1000 RIG [Fine business, Rig]^
+CPY |S1000 OM [Copy, Old man]^
+RIG |S1000 CPI [Rig, Copy]^
+PWR |S1000 DIPOLE [Power, Dipole]^
+BTU |S1000 RIG [Back to you, Rig]^
+QRN |S1000 RIG [Noise, Rig]^
+SIG |S1000 RIG [Signal, Rig]^
+FB |S1000 XYL [Fine business, Wife]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+CPI |S1000 RIG [Copy, Rig]^
+FB |S1000 HPE [Fine business, Hope]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+RIG |S1000 BTU [Rig, Back to you]^
+QSB |S1000 FB [Fading, Fine business]^
+BEAM |S1000 RIG [Beam, Rig]^
+GL |S1000 RIG [Good luck, Rig]^
+PWR |S1000 GL [Power, Good luck]^
+RIG |S1000 XYL [Rig, Wife]^
+PWR |S1000 RIG [Power, Rig]^
+HPE |S1000 RIG [Hope, Rig]^
+TNX |S1000 RIG [Thanks, Rig]^
+TNX |S1000 CPY [Thanks, Copy]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+CPY |S1000 BTU [Copy, Back to you]^
+RIG |S1000 FB [Rig, Fine business]^
+XYL |S1000 RIG [Wife, Rig]^
+OM |S1000 TNX [Old man, Thanks]^
+RIG |S1000 QSB [Rig, Fading]^
+RIG |S1000 QRL [Rig, Busy]^
+CPI |S1000 SRI [Copy, Sorry]^
+RIG |S1000 OM [Rig, Old man]^
+RIG |S1000 GL [Rig, Good luck]^
+RIG |S1000 OM [Rig, Old man]^
+RIG |S1000 QSB [Rig, Fading]^
+SIG |S1000 RIG [Signal, Rig]^
+HPE |S1000 RIG [Hope, Rig]^
+FB |S1000 QRL [Fine business, Busy]^
+RIG |S1000 PWR [Rig, Power]^
+QRN |S1000 RIG [Noise, Rig]^
+DX |S1000 TNX [D X, Thanks]^
+RIG |S1000 ANT [Rig, Antenna]^
+RIG |S1000 BEAM [Rig, Beam]^
+TNX |S1000 RIG [Thanks, Rig]^
+SRI |S1000 QRN [Sorry, Noise]^
+HPE |S1000 RIG [Hope, Rig]^
+CPY |S1000 RIG [Copy, Rig]^
+TNX |S1000 RIG [Thanks, Rig]^
+HPE |S1000 HW [Hope, How]^
+RIG |S1000 CPY [Rig, Copy]^
+RIG |S1000 DX [Rig, D X]^
+BEAM |S1000 RIG [Beam, Rig]^
+SIG |S1000 RIG [Signal, Rig]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+HPE |S1000 TNX [Hope, Thanks]^
+FB |S1000 RIG [Fine business, Rig]^
+PWR |S1000 BTU [Power, Back to you]^
+RIG |S1000 CUL [Rig, See you later]^
+QRL |S1000 RIG [Busy, Rig]^
+DIPOLE |S1000 DX [Dipole, D X]^
+RIG |S1000 CPY [Rig, Copy]^
+RIG |S1000 CUL [Rig, See you later]^
+RIG |S1000 ANT [Rig, Antenna]^
+RIG |S1000 QRN [Rig, Noise]^
+DX |S1000 CUL [D X, See you later]^
+BTU |S1000 GL [Back to you, Good luck]^
+CUL |S1000 OM [See you later, Old man]^
+RIG |S1000 GL [Rig, Good luck]^
+SIG |S1000 DX [Signal, D X]^
+CPI |S1000 CUL [Copy, See you later]^
+BEAM |S1000 SRI [Beam, Sorry]^
+RIG |S1000 CPY [Rig, Copy]^
+OM |S1000 RIG [Old man, Rig]^
+XYL |S1000 QRL [Wife, Busy]^
+RIG |S1000 PWR [Rig, Power]^
+RIG |S1000 CPY [Rig, Copy]^
+GL |S1000 SIG [Good luck, Signal]^
+RIG |S1000 QRL [Rig, Busy]^
+XYL |S1000 RIG [Wife, Rig]^
+BTU |S1000 DX [Back to you, D X]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+RIG |S1000 QRL [Rig, Busy]^
+RIG |S1000 XYL [Rig, Wife]^
+RIG |S1000 HPE [Rig, Hope]^
+HW |S1000 CPI [How, Copy]^
+RIG |S1000 CPY [Rig, Copy]^
+RIG |S1000 HW [Rig, How]^
+QRN |S1000 CUL [Noise, See you later]^
+QRN |S1000 RIG [Noise, Rig]^
+ANT |S1000 PWR [Antenna, Power]^
+XYL |S1000 QRN [Wife, Noise]^
+RIG |S1000 HW [Rig, How]^
+RIG |S1000 XYL [Rig, Wife]^
+RIG |S1000 HW [Rig, How]^
+OM |S1000 RIG [Old man, Rig]^
+HPE |S1000 GL [Hope, Good luck]^
+BTU |S1000 RIG [Back to you, Rig]^
+OM |S1000 CPY [Old man, Copy]^
+CPI |S1000 OM [Copy, Old man]^
+QSB |S1000 CPY [Fading, Copy]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+GL |S1000 RIG [Good luck, Rig]^
+QRN |S1000 RIG [Noise, Rig]^
+SIG |S1000 RIG [Signal, Rig]^
+GL |S1000 RIG [Good luck, Rig]^
+HPE |S1000 QRN [Hope, Noise]^
+BEAM |S1000 FB [Beam, Fine business]^
+RIG |S1000 FB [Rig, Fine business]^
+HW |S1000 ANT [How, Antenna]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+RIG |S1000 PWR [Rig, Power]^
+DX |S1000 OM [D X, Old man]^
+RIG |S1000 PWR [Rig, Power]^
+XYL |S1000 TNX [Wife, Thanks]^
+SIG |S1000 CUL [Signal, See you later]^
+OM |S1000 SRI [Old man, Sorry]^
+ANT |S1000 TNX [Antenna, Thanks]^
+RIG |S1000 XYL [Rig, Wife]^
+RIG |S1000 DX [Rig, D X]^
+RIG |S1000 BEAM [Rig, Beam]^
+FB |S1000 QSB [Fine business, Fading]^
+PWR |S1000 RIG [Power, Rig]^
+XYL |S1000 RIG [Wife, Rig]^
+XYL |S1000 BEAM [Wife, Beam]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+RIG |S1000 HPE [Rig, Hope]^
+CPI |S1000 ANT [Copy, Antenna]^
+BTU |S1000 QRN [Back to you, Noise]^
+CUL |S1000 GL [See you later, Good luck]^
+HPE |S1000 CUL [Hope, See you later]^
+SRI |S1000 RIG [Sorry, Rig]^
+OM |S1000 SRI [Old man, Sorry]^
+HPE |S1000 RIG [Hope, Rig]^
+TNX |S1000 RIG [Thanks, Rig]^
+GL |S1000 RIG [Good luck, Rig]^
+SIG |S1000 RIG [Signal, Rig]^
+CUL |S1000 GL [See you later, Good luck]^
+HPE |S1000 RIG [Hope, Rig]^
+ANT |S1000 BEAM [Antenna, Beam]^
+RIG |S1000 TNX [Rig, Thanks]^
+RIG |S1000 FB [Rig, Fine business]^
+RIG |S1000 GL [Rig, Good luck]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+RIG |S1000 BEAM [Rig, Beam]^
+RIG |S1000 HPE [Rig, Hope]^
+QSB |S1000 CPI [Fading, Copy]^
+RIG |S1000 PWR [Rig, Power]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+RIG |S1000 QSB [Rig, Fading]^
+HPE |S1000 QSB [Hope, Fading]^
+RIG |S1000 CPI [Rig, Copy]^
+DX |S1000 CPI [D X, Copy]^
+CPY |S1000 RIG [Copy, Rig]^
+PWR |S1000 RIG [Power, Rig]^
+BTU |S1000 OM [Back to you, Old man]^
+RIG |S1000 SIG [Rig, Signal]^
+OM |S1000 RIG [Old man, Rig]^
+BTU |S1000 RIG [Back to you, Rig]^
+QRL |S1000 ANT [Busy, Antenna]^
+CPY |S1000 TNX [Copy, Thanks]^
+RIG |S1000 QSB [Rig, Fading]^
+RIG |S1000 DX [Rig, D X]^
+QRN |S1000 FB [Noise, Fine business]^
+CPI |S1000 XYL [Copy, Wife]^
+BTU |S1000 RIG [Back to you, Rig]^
+PWR |S1000 RIG [Power, Rig]^
+CPI |S1000 QRN [Copy, Noise]^
+RIG |S1000 PWR [Rig, Power]^
+BEAM |S1000 ANT [Beam, Antenna]^
+RIG |S1000 FB [Rig, Fine business]^
+RIG |S1000 BTU [Rig, Back to you]^
+QRL |S1000 QSB [Busy, Fading]^
+XYL |S1000 CPI [Wife, Copy]^
+SRI |S1000 RIG [Sorry, Rig]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+RIG |S1000 BEAM [Rig, Beam]^
+QSB |S1000 OM [Fading, Old man]^
+DX |S1000 RIG [D X, Rig]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+FB |S1000 SRI [Fine business, Sorry]^
+RIG |S1000 CUL [Rig, See you later]^
+RIG |S1000 CPY [Rig, Copy]^
+RIG |S1000 PWR [Rig, Power]^
+HW |S1000 OM [How, Old man]^
+ANT |S1000 RIG [Antenna, Rig]^
+DX |S1000 CPY [D X, Copy]^
+FB |S1000 CUL [Fine business, See you later]^
+TNX |S1000 XYL [Thanks, Wife]^
+RIG |S1000 DX [Rig, D X]^
+HPE |S1000 CPI [Hope, Copy]^
+BEAM |S1000 RIG [Beam, Rig]^
+CUL |S1000 RIG [See you later, Rig]^
+TNX |S1000 RIG [Thanks, Rig]^
+SIG |S1000 RIG [Signal, Rig]^
+SIG |S1000 DX [Signal, D X]^
+CUL |S1000 ANT [See you later, Antenna]^
+RIG |S1000 OM [Rig, Old man]^
+GL |S1000 RIG [Good luck, Rig]^
+TNX |S1000 RIG [Thanks, Rig]^
+QRN |S1000 RIG [Noise, Rig]^
+HPE |S1000 RIG [Hope, Rig]^
+OM |S1000 RIG [Old man, Rig]^
+BEAM |S1000 RIG [Beam, Rig]^
+DX |S1000 RIG [D X, Rig]^
+CUL |S1000 SIG [See you later, Signal]^
+CUL |S1000 QRN [See you later, Noise]^
+RIG |S1000 CPI [Rig, Copy]^
+CPY |S1000 QSB [Copy, Fading]^
+QRL |S1000 HPE [Busy, Hope]^
+PWR |S1000 HPE [Power, Hope]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+RIG |S1000 ANT [Rig, Antenna]^
+SRI |S1000 RIG [Sorry, Rig]^
+PWR |S1000 QRL [Power, Busy]^
+FB |S1000 RIG [Fine business, Rig]^
+BEAM |S1000 RIG [Beam, Rig]^
+CPI |S1000 HW [Copy, How]^
+QSB |S1000 RIG [Fading, Rig]^
+SIG |S1000 RIG [Signal, Rig]^
+QSB |S1000 RIG [Fading, Rig]^
+CPY |S1000 XYL [Copy, Wife]^
+QSB |S1000 SIG [Fading, Signal]^
+RIG |S1000 DX [Rig, D X]^
+BTU |S1000 TNX [Back to you, Thanks]^
+PWR |S1000 QRL [Power, Busy]^
+RIG |S1000 PWR [Rig, Power]^
+RIG |S1000 TNX [Rig, Thanks]^
+RIG |S1000 BTU [Rig, Back to you]^
+FB |S1000 RIG [Fine business, Rig]^
+SIG |S1000 RIG [Signal, Rig]^
+HW |S1000 BEAM [How, Beam]^
+RIG |S1000 SIG [Rig, Signal]^
+RIG |S1000 ANT [Rig, Antenna]^
+HPE |S1000 RIG [Hope, Rig]^
+BTU |S1000 CPI [Back to you, Copy]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+RIG |S1000 FB [Rig, Fine business]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+TNX |S1000 RIG [Thanks, Rig]^
+BEAM |S1000 DX [Beam, D X]^
+RIG |S1000 PWR [Rig, Power]^
+DX |S1000 TNX [D X, Thanks]^
+HPE |S1000 XYL [Hope, Wife]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+DX |S1000 OM [D X, Old man]^
+RIG |S1000 HPE [Rig, Hope]^
+RIG |S1000 BTU [Rig, Back to you]^
+RIG |S1000 BTU [Rig, Back to you]^
+DX |S1000 RIG [D X, Rig]^
+PWR |S1000 RIG [Power, Rig]^
+XYL |S1000 FB [Wife, Fine business]^
+SIG |S1000 RIG [Signal, Rig]^
+QRL |S1000 PWR [Busy, Power]^
+SRI |S1000 HPE [Sorry, Hope]^
+FB |S1000 QRN [Fine business, Noise]^
+RIG |S1000 CPY [Rig, Copy]^
+QRN |S1000 OM [Noise, Old man]^
+PWR |S1000 BEAM [Power, Beam]^
+DIPOLE |S1000 XYL [Dipole, Wife]^
+RIG |S1000 GL [Rig, Good luck]^
+RIG |S1000 XYL [Rig, Wife]^
+PWR |S1000 RIG [Power, Rig]^
+GL |S1000 RIG [Good luck, Rig]^
+QRN |S1000 RIG [Noise, Rig]^
+HPE |S1000 CUL [Hope, See you later]^
+HPE |S1000 RIG [Hope, Rig]^
+OM |S1000 QSB [Old man, Fading]^
+XYL |S1000 CPY [Wife, Copy]^
+HPE |S1000 RIG [Hope, Rig]^
+CPY |S1000 FB [Copy, Fine business]^
+PWR |S1000 CPI [Power, Copy]^
+RIG |S1000 CPY [Rig, Copy]^
+OM |S1000 PWR [Old man, Power]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+RIG |S1000 PWR [Rig, Power]^
+SIG |S1000 BTU [Signal, Back to you]^
+GL |S1000 PWR [Good luck, Power]^
+RIG |S1000 SRI [Rig, Sorry]^
+RIG |S1000 SRI [Rig, Sorry]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+PWR |S1000 TNX [Power, Thanks]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+RIG |S1000 CUL [Rig, See you later]^
+PWR |S1000 QRL [Power, Busy]^
+SRI |S1000 XYL [Sorry, Wife]^
+GL |S1000 RIG [Good luck, Rig]^
+HW |S1000 RIG [How, Rig]^
+TNX |S1000 CUL [Thanks, See you later]^
+SRI |S1000 HW [Sorry, How]^
+HPE |S1000 RIG [Hope, Rig]^
+HPE |S1000 CPY [Hope, Copy]^
+ANT |S1000 RIG [Antenna, Rig]^
+ANT |S1000 RIG [Antenna, Rig]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 RIG [Copy, Rig]^
+BTU |S1000 CPY [Back to you, Copy]^
+PWR |S1000 RIG [Power, Rig]^
+HPE |S1000 CUL [Hope, See you later]^
+QRL |S1000 CUL [Busy, See you later]^
+RIG |S1000 TNX [Rig, Thanks]^
+DX |S1000 RIG [D X, Rig]^
+QRN |S1000 RIG [Noise, Rig]^
+HW |S1000 DX [How, D X]^
+FB |S1000 RIG [Fine business, Rig]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+RIG |S1000 TNX [Rig, Thanks]^
+SIG |S1000 CPI [Signal, Copy]^
+RIG |S1000 BTU [Rig, Back to you]^
+QRL |S1000 RIG [Busy, Rig]^
+BTU |S1000 RIG [Back to you, Rig]^
+DX |S1000 RIG [D X, Rig]^
+CUL |S1000 RIG [See you later, Rig]^
+HW |S1000 QRN [How, Noise]^
+RIG |S1000 OM [Rig, Old man]^
+QRN |S1000 RIG [Noise, Rig]^
+CPY |S1000 BTU [Copy, Back to you]^
+RIG |S1000 FB [Rig, Fine business]^
+OM |S1000 GL [Old man, Good luck]^
+RIG |S1000 SRI [Rig, Sorry]^
+RIG |S1000 CPY [Rig, Copy]^
+XYL |S1000 DX [Wife, D X]^
+CPI |S1000 XYL [Copy, Wife]^
+CPY |S1000 PWR [Copy, Power]^
+RIG |S1000 QSB [Rig, Fading]^
+PWR |S1000 CPI [Power, Copy]^
+GL |S1000 DX [Good luck, D X]^
+PWR |S1000 RIG [Power, Rig]^
+TNX |S1000 RIG [Thanks, Rig]^
+QRN |S1000 RIG [Noise, Rig]^
+SRI |S1000 PWR [Sorry, Power]^
+QRL |S1000 DIPOLE [Busy, Dipole]^
+TNX |S1000 CPY [Thanks, Copy]^
+DX |S1000 RIG [D X, Rig]^
+PWR |S1000 CPY [Power, Copy]^
+RIG |S1000 CPI [Rig, Copy]^
+QSB |S1000 RIG [Fading, Rig]^
+QRN |S1000 QRL [Noise, Busy]^
+BEAM |S1000 RIG [Beam, Rig]^
+BEAM |S1000 BTU [Beam, Back to you]^
+TNX |S1000 SRI [Thanks, Sorry]^
+RIG |S1000 HW [Rig, How]^
+PWR |S1000 RIG [Power, Rig]^
+BTU |S1000 ANT [Back to you, Antenna]^
+CUL |S1000 CPY [See you later, Copy]^
+RIG |S1000 SIG [Rig, Signal]^
+BEAM |S1000 HPE [Beam, Hope]^
+RIG |S1000 SIG [Rig, Signal]^
+CUL |S1000 QRL [See you later, Busy]^
+XYL |S1000 RIG [Wife, Rig]^
+QRN |S1000 DX [Noise, D X]^
+RIG |S1000 QRN [Rig, Noise]^
+RIG |S1000 HPE [Rig, Hope]^
+RIG |S1000 DX [Rig, D X]^
+RIG |S1000 GL [Rig, Good luck]^
+ANT |S1000 SIG [Antenna, Signal]^
+RIG |S1000 BEAM [Rig, Beam]^
+GL |S1000 CPI [Good luck, Copy]^
+SRI |S1000 RIG [Sorry, Rig]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+CPI |S1000 ANT [Copy, Antenna]^
+QSB |S1000 RIG [Fading, Rig]^
+QRL |S1000 QSB [Busy, Fading]^
+RIG |S1000 BEAM [Rig, Beam]^
+SRI |S1000 ANT [Sorry, Antenna]^
+RIG |S1000 QRL [Rig, Busy]^
+HW |S1000 CPI [How, Copy]^
+BTU |S1000 OM [Back to you, Old man]^
+GL |S1000 RIG [Good luck, Rig]^
+CUL |S1000 RIG [See you later, Rig]^
+DX |S1000 HPE [D X, Hope]^
+RIG |S1000 CPY [Rig, Copy]^
+RIG |S1000 XYL [Rig, Wife]^
+RIG |S1000 OM [Rig, Old man]^
+RIG |S1000 CPI [Rig, Copy]^
+CPY |S1000 CPI [Copy, Copy]^
+ANT |S1000 RIG [Antenna, Rig]^
+DX |S1000 RIG [D X, Rig]^
+CUL |S1000 RIG [See you later, Rig]^
+SIG |S1000 OM [Signal, Old man]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+DX |S1000 SIG [D X, Signal]^
+QRN |S1000 DX [Noise, D X]^
+RIG |S1000 FB [Rig, Fine business]^
+RIG |S1000 BTU [Rig, Back to you]^
+SIG |S1000 RIG [Signal, Rig]^
+BTU |S1000 SIG [Back to you, Signal]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+RIG |S1000 PWR [Rig, Power]^
+DX |S1000 ANT [D X, Antenna]^
+BTU |S1000 QRL [Back to you, Busy]^
+GL |S1000 RIG [Good luck, Rig]^
+TNX |S1000 RIG [Thanks, Rig]^
+GL |S1000 RIG [Good luck, Rig]^
+BTU |S1000 RIG [Back to you, Rig]^
+CPY |S1000 QRL [Copy, Busy]^
+RIG |S1000 CUL [Rig, See you later]^
+RIG |S1000 SIG [Rig, Signal]^
+CPI |S1000 RIG [Copy, Rig]^
+TNX |S1000 QSB [Thanks, Fading]^
+XYL |S1000 RIG [Wife, Rig]^
+HPE |S1000 RIG [Hope, Rig]^
+ANT |S1000 BTU [Antenna, Back to you]^
+RIG |S1000 DX [Rig, D X]^
+RIG |S1000 OM [Rig, Old man]^
+RIG |S1000 CPY [Rig, Copy]^
+PWR |S1000 RIG [Power, Rig]^
+CPY |S1000 PWR [Copy, Power]^
+QRN |S1000 XYL [Noise, Wife]^
+FB |S1000 DX [Fine business, D X]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+RIG |S1000 CPY [Rig, Copy]^
+RIG |S1000 ANT [Rig, Antenna]^
+FB |S1000 RIG [Fine business, Rig]^
+FB |S1000 XYL [Fine business, Wife]^
+CPY |S1000 BEAM [Copy, Beam]^
+OM |S1000 RIG [Old man, Rig]^
+TNX |S1000 CUL [Thanks, See you later]^

@@ -1,0 +1,600 @@
+PLS |S1000 OP [Please, Operator]^
+HW\? |S1000 PLS [How copy\?, Please]^
+HR |S1000 DR [Hear, Dear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+PSE |S1000 HR [Please, Hear]^
+PLS |S1000 HW\? [Please, How copy\?]^
+OP |S1000 HR [Operator, Hear]^
+OP |S1000 HW\? [Operator, How copy\?]^
+HR |S1000 CFM [Hear, Confirm]^
+HR |S1000 PLS [Hear, Please]^
+PSE |S1000 HW\? [Please, How copy\?]^
+CFM |S1000 HR [Confirm, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 OP [How copy\?, Operator]^
+HR |S1000 DR [Hear, Dear]^
+MNI |S1000 PSE [Many, Please]^
+CFM |S1000 HR [Confirm, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+DR |S1000 PSE [Dear, Please]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PSE |S1000 HR [Please, Hear]^
+PLS |S1000 MNI [Please, Many]^
+HR |S1000 HW\? [Hear, How copy\?]^
+OP |S1000 HR [Operator, Hear]^
+OP |S1000 HR [Operator, Hear]^
+DR |S1000 MNI [Dear, Many]^
+OP |S1000 HW\? [Operator, How copy\?]^
+HR |S1000 PLS [Hear, Please]^
+DR |S1000 HR [Dear, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+HW\? |S1000 PSE [How copy\?, Please]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 HW\? [Hear, How copy\?]^
+OP |S1000 CFM [Operator, Confirm]^
+HR |S1000 HW\? [Hear, How copy\?]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 MNI [Hear, Many]^
+PSE |S1000 DR [Please, Dear]^
+HR |S1000 CFM [Hear, Confirm]^
+HR |S1000 PSE [Hear, Please]^
+CFM |S1000 HR [Confirm, Hear]^
+DR |S1000 HR [Dear, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+MNI |S1000 DR [Many, Dear]^
+PSE |S1000 HR [Please, Hear]^
+OP |S1000 HW\? [Operator, How copy\?]^
+MNI |S1000 HW\? [Many, How copy\?]^
+HR |S1000 DR [Hear, Dear]^
+PSE |S1000 CFM [Please, Confirm]^
+HR |S1000 PSE [Hear, Please]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+MNI |S1000 HW\? [Many, How copy\?]^
+MNI |S1000 PSE [Many, Please]^
+OP |S1000 PSE [Operator, Please]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 CFM [Hear, Confirm]^
+OP |S1000 HR [Operator, Hear]^
+PLS |S1000 CFM [Please, Confirm]^
+PLS |S1000 DR [Please, Dear]^
+PSE |S1000 HR [Please, Hear]^
+MNI |S1000 HR [Many, Hear]^
+DR |S1000 HR [Dear, Hear]^
+CFM |S1000 OP [Confirm, Operator]^
+PSE |S1000 MNI [Please, Many]^
+OP |S1000 MNI [Operator, Many]^
+HR |S1000 HW\? [Hear, How copy\?]^
+OP |S1000 HR [Operator, Hear]^
+OP |S1000 HR [Operator, Hear]^
+PLS |S1000 HR [Please, Hear]^
+PLS |S1000 DR [Please, Dear]^
+HR |S1000 MNI [Hear, Many]^
+HW\? |S1000 PSE [How copy\?, Please]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PLS |S1000 MNI [Please, Many]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 PSE [Hear, Please]^
+CFM |S1000 HR [Confirm, Hear]^
+OP |S1000 HR [Operator, Hear]^
+OP |S1000 HR [Operator, Hear]^
+HW\? |S1000 MNI [How copy\?, Many]^
+HR |S1000 HW\? [Hear, How copy\?]^
+CFM |S1000 HR [Confirm, Hear]^
+DR |S1000 OP [Dear, Operator]^
+HR |S1000 DR [Hear, Dear]^
+OP |S1000 HR [Operator, Hear]^
+PSE |S1000 HR [Please, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+HR |S1000 CFM [Hear, Confirm]^
+HR |S1000 CFM [Hear, Confirm]^
+MNI |S1000 PLS [Many, Please]^
+HR |S1000 DR [Hear, Dear]^
+PSE |S1000 HW\? [Please, How copy\?]^
+HR |S1000 HW\? [Hear, How copy\?]^
+HR |S1000 PLS [Hear, Please]^
+MNI |S1000 HR [Many, Hear]^
+PSE |S1000 DR [Please, Dear]^
+PSE |S1000 HR [Please, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+MNI |S1000 HR [Many, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+PSE |S1000 DR [Please, Dear]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 OP [Hear, Operator]^
+PSE |S1000 DR [Please, Dear]^
+PSE |S1000 HW\? [Please, How copy\?]^
+CFM |S1000 OP [Confirm, Operator]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 HW\? [Hear, How copy\?]^
+DR |S1000 HR [Dear, Hear]^
+PLS |S1000 HR [Please, Hear]^
+MNI |S1000 DR [Many, Dear]^
+OP |S1000 PLS [Operator, Please]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 CFM [Hear, Confirm]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 PLS [Hear, Please]^
+CFM |S1000 DR [Confirm, Dear]^
+HR |S1000 DR [Hear, Dear]^
+PLS |S1000 OP [Please, Operator]^
+PSE |S1000 HW\? [Please, How copy\?]^
+HR |S1000 CFM [Hear, Confirm]^
+HW\? |S1000 DR [How copy\?, Dear]^
+HR |S1000 CFM [Hear, Confirm]^
+HR |S1000 DR [Hear, Dear]^
+MNI |S1000 HR [Many, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PSE |S1000 HW\? [Please, How copy\?]^
+PLS |S1000 HR [Please, Hear]^
+DR |S1000 HR [Dear, Hear]^
+PSE |S1000 HR [Please, Hear]^
+DR |S1000 HR [Dear, Hear]^
+OP |S1000 HW\? [Operator, How copy\?]^
+PSE |S1000 HW\? [Please, How copy\?]^
+HR |S1000 CFM [Hear, Confirm]^
+PSE |S1000 MNI [Please, Many]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 MNI [Hear, Many]^
+HW\? |S1000 HR [How copy\?, Hear]^
+DR |S1000 HR [Dear, Hear]^
+PLS |S1000 HR [Please, Hear]^
+DR |S1000 HW\? [Dear, How copy\?]^
+HR |S1000 OP [Hear, Operator]^
+CFM |S1000 DR [Confirm, Dear]^
+OP |S1000 HR [Operator, Hear]^
+PLS |S1000 HR [Please, Hear]^
+OP |S1000 PSE [Operator, Please]^
+MNI |S1000 HR [Many, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PLS |S1000 HR [Please, Hear]^
+MNI |S1000 PSE [Many, Please]^
+DR |S1000 PLS [Dear, Please]^
+HR |S1000 CFM [Hear, Confirm]^
+PSE |S1000 HR [Please, Hear]^
+OP |S1000 MNI [Operator, Many]^
+HR |S1000 MNI [Hear, Many]^
+PSE |S1000 MNI [Please, Many]^
+HR |S1000 PSE [Hear, Please]^
+MNI |S1000 HR [Many, Hear]^
+MNI |S1000 HR [Many, Hear]^
+MNI |S1000 HR [Many, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+PLS |S1000 HR [Please, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+PLS |S1000 CFM [Please, Confirm]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 OP [Hear, Operator]^
+DR |S1000 HR [Dear, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PSE |S1000 HR [Please, Hear]^
+HW\? |S1000 DR [How copy\?, Dear]^
+HR |S1000 PLS [Hear, Please]^
+PSE |S1000 HR [Please, Hear]^
+OP |S1000 HR [Operator, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+OP |S1000 DR [Operator, Dear]^
+HR |S1000 DR [Hear, Dear]^
+CFM |S1000 OP [Confirm, Operator]^
+MNI |S1000 HR [Many, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+PLS |S1000 HW\? [Please, How copy\?]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 OP [Hear, Operator]^
+MNI |S1000 OP [Many, Operator]^
+MNI |S1000 HR [Many, Hear]^
+OP |S1000 HR [Operator, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+MNI |S1000 HR [Many, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+PSE |S1000 HR [Please, Hear]^
+OP |S1000 HR [Operator, Hear]^
+PLS |S1000 HR [Please, Hear]^
+OP |S1000 MNI [Operator, Many]^
+HR |S1000 PSE [Hear, Please]^
+OP |S1000 CFM [Operator, Confirm]^
+DR |S1000 MNI [Dear, Many]^
+PLS |S1000 MNI [Please, Many]^
+DR |S1000 CFM [Dear, Confirm]^
+HR |S1000 HW\? [Hear, How copy\?]^
+PLS |S1000 HR [Please, Hear]^
+MNI |S1000 HW\? [Many, How copy\?]^
+OP |S1000 HR [Operator, Hear]^
+DR |S1000 HR [Dear, Hear]^
+OP |S1000 HR [Operator, Hear]^
+MNI |S1000 CFM [Many, Confirm]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 CFM [Hear, Confirm]^
+HR |S1000 PLS [Hear, Please]^
+PSE |S1000 PLS [Please, Please]^
+CFM |S1000 HR [Confirm, Hear]^
+MNI |S1000 DR [Many, Dear]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 HW\? [Hear, How copy\?]^
+PLS |S1000 HR [Please, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 PSE [How copy\?, Please]^
+MNI |S1000 HW\? [Many, How copy\?]^
+OP |S1000 PSE [Operator, Please]^
+DR |S1000 OP [Dear, Operator]^
+HR |S1000 PSE [Hear, Please]^
+PLS |S1000 HR [Please, Hear]^
+PLS |S1000 MNI [Please, Many]^
+CFM |S1000 HR [Confirm, Hear]^
+MNI |S1000 PSE [Many, Please]^
+PLS |S1000 HR [Please, Hear]^
+DR |S1000 HR [Dear, Hear]^
+MNI |S1000 CFM [Many, Confirm]^
+OP |S1000 HR [Operator, Hear]^
+HW\? |S1000 PLS [How copy\?, Please]^
+HR |S1000 OP [Hear, Operator]^
+MNI |S1000 HR [Many, Hear]^
+OP |S1000 HR [Operator, Hear]^
+DR |S1000 CFM [Dear, Confirm]^
+PLS |S1000 MNI [Please, Many]^
+HR |S1000 HW\? [Hear, How copy\?]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 PLS [Hear, Please]^
+HW\? |S1000 PLS [How copy\?, Please]^
+DR |S1000 PLS [Dear, Please]^
+HR |S1000 MNI [Hear, Many]^
+PLS |S1000 HR [Please, Hear]^
+DR |S1000 PLS [Dear, Please]^
+DR |S1000 MNI [Dear, Many]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 PSE [Hear, Please]^
+OP |S1000 MNI [Operator, Many]^
+OP |S1000 HW\? [Operator, How copy\?]^
+HR |S1000 DR [Hear, Dear]^
+CFM |S1000 HR [Confirm, Hear]^
+MNI |S1000 HR [Many, Hear]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+PLS |S1000 DR [Please, Dear]^
+PLS |S1000 OP [Please, Operator]^
+DR |S1000 PLS [Dear, Please]^
+MNI |S1000 PLS [Many, Please]^
+DR |S1000 OP [Dear, Operator]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 CFM [Hear, Confirm]^
+DR |S1000 HR [Dear, Hear]^
+OP |S1000 HR [Operator, Hear]^
+PSE |S1000 HR [Please, Hear]^
+DR |S1000 HR [Dear, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+MNI |S1000 CFM [Many, Confirm]^
+HW\? |S1000 HR [How copy\?, Hear]^
+OP |S1000 HR [Operator, Hear]^
+OP |S1000 HR [Operator, Hear]^
+PLS |S1000 HR [Please, Hear]^
+DR |S1000 HR [Dear, Hear]^
+DR |S1000 OP [Dear, Operator]^
+HR |S1000 DR [Hear, Dear]^
+CFM |S1000 HR [Confirm, Hear]^
+DR |S1000 HR [Dear, Hear]^
+DR |S1000 MNI [Dear, Many]^
+HR |S1000 MNI [Hear, Many]^
+PSE |S1000 HW\? [Please, How copy\?]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 PLS [Hear, Please]^
+OP |S1000 MNI [Operator, Many]^
+PSE |S1000 HR [Please, Hear]^
+DR |S1000 HR [Dear, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+CFM |S1000 MNI [Confirm, Many]^
+DR |S1000 HR [Dear, Hear]^
+PLS |S1000 HW\? [Please, How copy\?]^
+OP |S1000 HR [Operator, Hear]^
+MNI |S1000 HR [Many, Hear]^
+DR |S1000 HR [Dear, Hear]^
+HW\? |S1000 OP [How copy\?, Operator]^
+HR |S1000 PSE [Hear, Please]^
+CFM |S1000 HR [Confirm, Hear]^
+PLS |S1000 DR [Please, Dear]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 HW\? [Hear, How copy\?]^
+HR |S1000 PLS [Hear, Please]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+PLS |S1000 HR [Please, Hear]^
+DR |S1000 HR [Dear, Hear]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+CFM |S1000 HR [Confirm, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+DR |S1000 PLS [Dear, Please]^
+HR |S1000 HW\? [Hear, How copy\?]^
+PLS |S1000 OP [Please, Operator]^
+HW\? |S1000 OP [How copy\?, Operator]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PSE |S1000 HR [Please, Hear]^
+PSE |S1000 HR [Please, Hear]^
+DR |S1000 PLS [Dear, Please]^
+PSE |S1000 HR [Please, Hear]^
+PSE |S1000 HW\? [Please, How copy\?]^
+PLS |S1000 HW\? [Please, How copy\?]^
+CFM |S1000 MNI [Confirm, Many]^
+CFM |S1000 HR [Confirm, Hear]^
+DR |S1000 HR [Dear, Hear]^
+MNI |S1000 DR [Many, Dear]^
+CFM |S1000 HR [Confirm, Hear]^
+PLS |S1000 HR [Please, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+OP |S1000 PLS [Operator, Please]^
+OP |S1000 PSE [Operator, Please]^
+HR |S1000 CFM [Hear, Confirm]^
+HW\? |S1000 HR [How copy\?, Hear]^
+OP |S1000 MNI [Operator, Many]^
+HR |S1000 OP [Hear, Operator]^
+DR |S1000 CFM [Dear, Confirm]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 HW\? [Hear, How copy\?]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 PSE [Hear, Please]^
+MNI |S1000 HR [Many, Hear]^
+PSE |S1000 HR [Please, Hear]^
+DR |S1000 OP [Dear, Operator]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 HW\? [Hear, How copy\?]^
+DR |S1000 HR [Dear, Hear]^
+OP |S1000 HW\? [Operator, How copy\?]^
+CFM |S1000 PLS [Confirm, Please]^
+HR |S1000 DR [Hear, Dear]^
+CFM |S1000 HR [Confirm, Hear]^
+PSE |S1000 HR [Please, Hear]^
+PSE |S1000 PLS [Please, Please]^
+DR |S1000 PSE [Dear, Please]^
+HR |S1000 CFM [Hear, Confirm]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 HW\? [Hear, How copy\?]^
+DR |S1000 HR [Dear, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 MNI [How copy\?, Many]^
+DR |S1000 CFM [Dear, Confirm]^
+HR |S1000 PLS [Hear, Please]^
+HW\? |S1000 PLS [How copy\?, Please]^
+HR |S1000 HW\? [Hear, How copy\?]^
+DR |S1000 PSE [Dear, Please]^
+HW\? |S1000 HR [How copy\?, Hear]^
+MNI |S1000 HR [Many, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 PSE [Hear, Please]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 HW\? [Hear, How copy\?]^
+PSE |S1000 HR [Please, Hear]^
+PSE |S1000 PLS [Please, Please]^
+OP |S1000 PLS [Operator, Please]^
+PSE |S1000 DR [Please, Dear]^
+PLS |S1000 MNI [Please, Many]^
+PSE |S1000 HR [Please, Hear]^
+CFM |S1000 PLS [Confirm, Please]^
+HR |S1000 PLS [Hear, Please]^
+CFM |S1000 HR [Confirm, Hear]^
+OP |S1000 CFM [Operator, Confirm]^
+MNI |S1000 DR [Many, Dear]^
+MNI |S1000 HR [Many, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 OP [How copy\?, Operator]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+DR |S1000 PSE [Dear, Please]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 OP [Hear, Operator]^
+HW\? |S1000 PSE [How copy\?, Please]^
+PLS |S1000 HR [Please, Hear]^
+PLS |S1000 MNI [Please, Many]^
+HR |S1000 HW\? [Hear, How copy\?]^
+MNI |S1000 HR [Many, Hear]^
+MNI |S1000 DR [Many, Dear]^
+PSE |S1000 HR [Please, Hear]^
+PSE |S1000 OP [Please, Operator]^
+HR |S1000 HW\? [Hear, How copy\?]^
+HR |S1000 DR [Hear, Dear]^
+PSE |S1000 DR [Please, Dear]^
+HR |S1000 PLS [Hear, Please]^
+MNI |S1000 HW\? [Many, How copy\?]^
+HR |S1000 CFM [Hear, Confirm]^
+PLS |S1000 HR [Please, Hear]^
+DR |S1000 HW\? [Dear, How copy\?]^
+HR |S1000 MNI [Hear, Many]^
+PSE |S1000 HR [Please, Hear]^
+OP |S1000 HR [Operator, Hear]^
+PSE |S1000 HW\? [Please, How copy\?]^
+PSE |S1000 DR [Please, Dear]^
+HR |S1000 PSE [Hear, Please]^
+HR |S1000 PSE [Hear, Please]^
+HR |S1000 CFM [Hear, Confirm]^
+HR |S1000 CFM [Hear, Confirm]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+MNI |S1000 PSE [Many, Please]^
+OP |S1000 HR [Operator, Hear]^
+PLS |S1000 HR [Please, Hear]^
+PLS |S1000 HR [Please, Hear]^
+OP |S1000 PLS [Operator, Please]^
+HR |S1000 HW\? [Hear, How copy\?]^
+OP |S1000 PLS [Operator, Please]^
+PSE |S1000 DR [Please, Dear]^
+PSE |S1000 DR [Please, Dear]^
+HR |S1000 MNI [Hear, Many]^
+PSE |S1000 HR [Please, Hear]^
+PLS |S1000 HW\? [Please, How copy\?]^
+HR |S1000 HW\? [Hear, How copy\?]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 CFM [Hear, Confirm]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 PSE [Hear, Please]^
+PLS |S1000 PSE [Please, Please]^
+HW\? |S1000 HR [How copy\?, Hear]^
+DR |S1000 HR [Dear, Hear]^
+PSE |S1000 PLS [Please, Please]^
+HR |S1000 MNI [Hear, Many]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+DR |S1000 HW\? [Dear, How copy\?]^
+HR |S1000 CFM [Hear, Confirm]^
+PSE |S1000 HR [Please, Hear]^
+PLS |S1000 DR [Please, Dear]^
+CFM |S1000 DR [Confirm, Dear]^
+PLS |S1000 HR [Please, Hear]^
+DR |S1000 HR [Dear, Hear]^
+DR |S1000 PLS [Dear, Please]^
+OP |S1000 HR [Operator, Hear]^
+PLS |S1000 PSE [Please, Please]^
+HR |S1000 PSE [Hear, Please]^
+MNI |S1000 PLS [Many, Please]^
+PSE |S1000 CFM [Please, Confirm]^
+MNI |S1000 HR [Many, Hear]^
+MNI |S1000 HR [Many, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 PSE [How copy\?, Please]^
+HR |S1000 PSE [Hear, Please]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+HR |S1000 OP [Hear, Operator]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+PLS |S1000 HR [Please, Hear]^
+MNI |S1000 OP [Many, Operator]^
+HR |S1000 PSE [Hear, Please]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 OP [Hear, Operator]^
+DR |S1000 HR [Dear, Hear]^
+MNI |S1000 OP [Many, Operator]^
+PSE |S1000 PLS [Please, Please]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 OP [Hear, Operator]^
+DR |S1000 PSE [Dear, Please]^
+DR |S1000 HR [Dear, Hear]^
+OP |S1000 HR [Operator, Hear]^
+OP |S1000 HR [Operator, Hear]^
+HW\? |S1000 OP [How copy\?, Operator]^
+HR |S1000 PLS [Hear, Please]^
+CFM |S1000 MNI [Confirm, Many]^
+HR |S1000 MNI [Hear, Many]^
+HW\? |S1000 HR [How copy\?, Hear]^
+OP |S1000 HR [Operator, Hear]^
+OP |S1000 HW\? [Operator, How copy\?]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 CFM [Hear, Confirm]^
+PLS |S1000 OP [Please, Operator]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PLS |S1000 DR [Please, Dear]^
+HR |S1000 PSE [Hear, Please]^
+OP |S1000 PLS [Operator, Please]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 DR [Hear, Dear]^
+OP |S1000 HR [Operator, Hear]^
+OP |S1000 HR [Operator, Hear]^
+PLS |S1000 HW\? [Please, How copy\?]^
+DR |S1000 PSE [Dear, Please]^
+HR |S1000 PLS [Hear, Please]^
+DR |S1000 MNI [Dear, Many]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 PSE [Hear, Please]^
+HR |S1000 PSE [Hear, Please]^
+MNI |S1000 HR [Many, Hear]^
+PSE |S1000 HR [Please, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+MNI |S1000 HW\? [Many, How copy\?]^
+CFM |S1000 HR [Confirm, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+PLS |S1000 HR [Please, Hear]^
+PLS |S1000 PSE [Please, Please]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PSE |S1000 CFM [Please, Confirm]^
+PSE |S1000 HR [Please, Hear]^
+MNI |S1000 HR [Many, Hear]^
+OP |S1000 CFM [Operator, Confirm]^
+HR |S1000 MNI [Hear, Many]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+PLS |S1000 HW\? [Please, How copy\?]^
+MNI |S1000 PSE [Many, Please]^
+HR |S1000 PSE [Hear, Please]^
+HR |S1000 PSE [Hear, Please]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 PSE [Hear, Please]^
+MNI |S1000 HR [Many, Hear]^
+DR |S1000 PLS [Dear, Please]^
+HR |S1000 HW\? [Hear, How copy\?]^
+MNI |S1000 PSE [Many, Please]^
+CFM |S1000 PSE [Confirm, Please]^
+DR |S1000 HR [Dear, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+PLS |S1000 OP [Please, Operator]^
+PSE |S1000 MNI [Please, Many]^
+HR |S1000 PSE [Hear, Please]^
+OP |S1000 HW\? [Operator, How copy\?]^
+MNI |S1000 DR [Many, Dear]^
+HR |S1000 MNI [Hear, Many]^
+PSE |S1000 HR [Please, Hear]^
+DR |S1000 HR [Dear, Hear]^
+PLS |S1000 HR [Please, Hear]^
+HW\? |S1000 OP [How copy\?, Operator]^
+HR |S1000 HW\? [Hear, How copy\?]^
+HR |S1000 HW\? [Hear, How copy\?]^
+MNI |S1000 PSE [Many, Please]^
+HR |S1000 HW\? [Hear, How copy\?]^
+HR |S1000 CFM [Hear, Confirm]^
+PLS |S1000 HR [Please, Hear]^
+OP |S1000 MNI [Operator, Many]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PSE |S1000 HR [Please, Hear]^
+PSE |S1000 HR [Please, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+HW\? |S1000 OP [How copy\?, Operator]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 PLS [Hear, Please]^
+CFM |S1000 PLS [Confirm, Please]^
+DR |S1000 HW\? [Dear, How copy\?]^
+HR |S1000 HW\? [Hear, How copy\?]^
+CFM |S1000 PSE [Confirm, Please]^
+HR |S1000 CFM [Hear, Confirm]^
+DR |S1000 HR [Dear, Hear]^
+MNI |S1000 CFM [Many, Confirm]^
+HR |S1000 CFM [Hear, Confirm]^
+PLS |S1000 DR [Please, Dear]^
+OP |S1000 HR [Operator, Hear]^
+PSE |S1000 HR [Please, Hear]^
+MNI |S1000 DR [Many, Dear]^
+MNI |S1000 HW\? [Many, How copy\?]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 DR [Hear, Dear]^
+HR |S1000 PLS [Hear, Please]^
+DR |S1000 MNI [Dear, Many]^
+HR |S1000 PSE [Hear, Please]^
+HR |S1000 CFM [Hear, Confirm]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PLS |S1000 PSE [Please, Please]^
+HR |S1000 PLS [Hear, Please]^
+HR |S1000 CFM [Hear, Confirm]^
+HW\? |S1000 HR [How copy\?, Hear]^
+CFM |S1000 HR [Confirm, Hear]^
+DR |S1000 HW\? [Dear, How copy\?]^
+OP |S1000 DR [Operator, Dear]^
+PLS |S1000 HR [Please, Hear]^
+CFM |S1000 PSE [Confirm, Please]^
+DR |S1000 HR [Dear, Hear]^
+DR |S1000 PLS [Dear, Please]^
+HR |S1000 MNI [Hear, Many]^
+PSE |S1000 PLS [Please, Please]^
+OP |S1000 DR [Operator, Dear]^
+HR |S1000 PSE [Hear, Please]^
+OP |S1000 HR [Operator, Hear]^
+MNI |S1000 HR [Many, Hear]^
+DR |S1000 PSE [Dear, Please]^
+MNI |S1000 HW\? [Many, How copy\?]^
+HR |S1000 PSE [Hear, Please]^
+HR |S1000 PSE [Hear, Please]^
+PLS |S1000 PSE [Please, Please]^

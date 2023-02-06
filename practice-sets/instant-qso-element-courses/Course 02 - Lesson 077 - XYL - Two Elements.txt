@@ -1,0 +1,600 @@
+CPY |S1000 GL [Copy, Good luck]^
+XYL |S1000 SIG [Wife, Signal]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+HW |S1000 XYL [How, Wife]^
+QRL |S1000 ANT [Busy, Antenna]^
+XYL |S1000 QSB [Wife, Fading]^
+ANT |S1000 XYL [Antenna, Wife]^
+ANT |S1000 CUL [Antenna, See you later]^
+CPY |S1000 XYL [Copy, Wife]^
+QSB |S1000 XYL [Fading, Wife]^
+HPE |S1000 QRL [Hope, Busy]^
+SIG |S1000 SRI [Signal, Sorry]^
+HW |S1000 GL [How, Good luck]^
+CPY |S1000 FB [Copy, Fine business]^
+XYL |S1000 HW [Wife, How]^
+XYL |S1000 BTU [Wife, Back to you]^
+HPE |S1000 GL [Hope, Good luck]^
+XYL |S1000 OM [Wife, Old man]^
+TNX |S1000 XYL [Thanks, Wife]^
+FB |S1000 ANT [Fine business, Antenna]^
+SIG |S1000 CPY [Signal, Copy]^
+XYL |S1000 QRL [Wife, Busy]^
+XYL |S1000 HW [Wife, How]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+GL |S1000 XYL [Good luck, Wife]^
+SIG |S1000 QRL [Signal, Busy]^
+ANT |S1000 GL [Antenna, Good luck]^
+CUL |S1000 XYL [See you later, Wife]^
+QRN |S1000 XYL [Noise, Wife]^
+ANT |S1000 OM [Antenna, Old man]^
+XYL |S1000 QRL [Wife, Busy]^
+XYL |S1000 QSB [Wife, Fading]^
+CPY |S1000 XYL [Copy, Wife]^
+GL |S1000 HPE [Good luck, Hope]^
+FB |S1000 XYL [Fine business, Wife]^
+QSB |S1000 XYL [Fading, Wife]^
+SRI |S1000 SIG [Sorry, Signal]^
+XYL |S1000 CPI [Wife, Copy]^
+QSB |S1000 XYL [Fading, Wife]^
+SRI |S1000 XYL [Sorry, Wife]^
+CPI |S1000 ANT [Copy, Antenna]^
+QRL |S1000 CPI [Busy, Copy]^
+XYL |S1000 HPE [Wife, Hope]^
+XYL |S1000 QRL [Wife, Busy]^
+HW |S1000 XYL [How, Wife]^
+SIG |S1000 GL [Signal, Good luck]^
+XYL |S1000 DX [Wife, D X]^
+BEAM |S1000 XYL [Beam, Wife]^
+CPI |S1000 BTU [Copy, Back to you]^
+XYL |S1000 CPI [Wife, Copy]^
+XYL |S1000 HW [Wife, How]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+HW |S1000 OM [How, Old man]^
+SRI |S1000 XYL [Sorry, Wife]^
+SRI |S1000 SIG [Sorry, Signal]^
+XYL |S1000 TNX [Wife, Thanks]^
+XYL |S1000 QRL [Wife, Busy]^
+HW |S1000 XYL [How, Wife]^
+SRI |S1000 CPI [Sorry, Copy]^
+OM |S1000 BEAM [Old man, Beam]^
+GL |S1000 HW [Good luck, How]^
+ANT |S1000 TNX [Antenna, Thanks]^
+QRL |S1000 TNX [Busy, Thanks]^
+XYL |S1000 GL [Wife, Good luck]^
+HPE |S1000 BEAM [Hope, Beam]^
+HW |S1000 XYL [How, Wife]^
+FB |S1000 HW [Fine business, How]^
+XYL |S1000 FB [Wife, Fine business]^
+ANT |S1000 CPI [Antenna, Copy]^
+SRI |S1000 BEAM [Sorry, Beam]^
+XYL |S1000 BTU [Wife, Back to you]^
+XYL |S1000 ANT [Wife, Antenna]^
+XYL |S1000 CPI [Wife, Copy]^
+CPY |S1000 QSB [Copy, Fading]^
+XYL |S1000 GL [Wife, Good luck]^
+QRL |S1000 HW [Busy, How]^
+QSB |S1000 CUL [Fading, See you later]^
+QRN |S1000 XYL [Noise, Wife]^
+BEAM |S1000 FB [Beam, Fine business]^
+XYL |S1000 QSB [Wife, Fading]^
+BEAM |S1000 XYL [Beam, Wife]^
+BEAM |S1000 XYL [Beam, Wife]^
+TNX |S1000 QRL [Thanks, Busy]^
+SIG |S1000 GL [Signal, Good luck]^
+HPE |S1000 XYL [Hope, Wife]^
+OM |S1000 XYL [Old man, Wife]^
+SIG |S1000 CPI [Signal, Copy]^
+SIG |S1000 XYL [Signal, Wife]^
+DX |S1000 XYL [D X, Wife]^
+HW |S1000 BTU [How, Back to you]^
+SRI |S1000 XYL [Sorry, Wife]^
+TNX |S1000 OM [Thanks, Old man]^
+QRN |S1000 CPY [Noise, Copy]^
+XYL |S1000 QSB [Wife, Fading]^
+QRN |S1000 XYL [Noise, Wife]^
+CUL |S1000 XYL [See you later, Wife]^
+CPY |S1000 XYL [Copy, Wife]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+CUL |S1000 SRI [See you later, Sorry]^
+OM |S1000 XYL [Old man, Wife]^
+BTU |S1000 HW [Back to you, How]^
+XYL |S1000 QRN [Wife, Noise]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+FB |S1000 HPE [Fine business, Hope]^
+BTU |S1000 HPE [Back to you, Hope]^
+XYL |S1000 TNX [Wife, Thanks]^
+XYL |S1000 SIG [Wife, Signal]^
+TNX |S1000 CPY [Thanks, Copy]^
+XYL |S1000 BTU [Wife, Back to you]^
+XYL |S1000 GL [Wife, Good luck]^
+XYL |S1000 DX [Wife, D X]^
+TNX |S1000 QSB [Thanks, Fading]^
+XYL |S1000 DX [Wife, D X]^
+HW |S1000 BTU [How, Back to you]^
+BEAM |S1000 DIPOLE [Beam, Dipole]^
+XYL |S1000 OM [Wife, Old man]^
+DX |S1000 XYL [D X, Wife]^
+DX |S1000 HPE [D X, Hope]^
+SIG |S1000 TNX [Signal, Thanks]^
+XYL |S1000 FB [Wife, Fine business]^
+HW |S1000 QSB [How, Fading]^
+XYL |S1000 TNX [Wife, Thanks]^
+FB |S1000 XYL [Fine business, Wife]^
+TNX |S1000 SIG [Thanks, Signal]^
+QRL |S1000 QRN [Busy, Noise]^
+XYL |S1000 HW [Wife, How]^
+QSB |S1000 ANT [Fading, Antenna]^
+XYL |S1000 TNX [Wife, Thanks]^
+QRL |S1000 XYL [Busy, Wife]^
+QSB |S1000 XYL [Fading, Wife]^
+CPY |S1000 HW [Copy, How]^
+XYL |S1000 SIG [Wife, Signal]^
+XYL |S1000 OM [Wife, Old man]^
+HW |S1000 BTU [How, Back to you]^
+HW |S1000 XYL [How, Wife]^
+CUL |S1000 XYL [See you later, Wife]^
+FB |S1000 GL [Fine business, Good luck]^
+XYL |S1000 QRL [Wife, Busy]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+TNX |S1000 XYL [Thanks, Wife]^
+SIG |S1000 CPY [Signal, Copy]^
+QRL |S1000 XYL [Busy, Wife]^
+CPY |S1000 XYL [Copy, Wife]^
+QRL |S1000 TNX [Busy, Thanks]^
+HPE |S1000 XYL [Hope, Wife]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+XYL |S1000 BEAM [Wife, Beam]^
+HW |S1000 BTU [How, Back to you]^
+SIG |S1000 ANT [Signal, Antenna]^
+FB |S1000 CPY [Fine business, Copy]^
+XYL |S1000 SIG [Wife, Signal]^
+DX |S1000 FB [D X, Fine business]^
+CPY |S1000 OM [Copy, Old man]^
+XYL |S1000 CPY [Wife, Copy]^
+XYL |S1000 OM [Wife, Old man]^
+FB |S1000 XYL [Fine business, Wife]^
+SRI |S1000 OM [Sorry, Old man]^
+HW |S1000 DX [How, D X]^
+XYL |S1000 FB [Wife, Fine business]^
+CPI |S1000 ANT [Copy, Antenna]^
+XYL |S1000 CPY [Wife, Copy]^
+OM |S1000 HPE [Old man, Hope]^
+XYL |S1000 GL [Wife, Good luck]^
+SRI |S1000 SIG [Sorry, Signal]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+DX |S1000 CUL [D X, See you later]^
+XYL |S1000 HW [Wife, How]^
+ANT |S1000 TNX [Antenna, Thanks]^
+CUL |S1000 QSB [See you later, Fading]^
+XYL |S1000 DX [Wife, D X]^
+QRL |S1000 CPI [Busy, Copy]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+XYL |S1000 QRL [Wife, Busy]^
+SIG |S1000 QSB [Signal, Fading]^
+OM |S1000 TNX [Old man, Thanks]^
+XYL |S1000 ANT [Wife, Antenna]^
+XYL |S1000 FB [Wife, Fine business]^
+XYL |S1000 CPY [Wife, Copy]^
+SRI |S1000 QSB [Sorry, Fading]^
+DX |S1000 XYL [D X, Wife]^
+HPE |S1000 XYL [Hope, Wife]^
+BTU |S1000 XYL [Back to you, Wife]^
+DIPOLE |S1000 QSB [Dipole, Fading]^
+QRL |S1000 OM [Busy, Old man]^
+XYL |S1000 GL [Wife, Good luck]^
+BTU |S1000 XYL [Back to you, Wife]^
+OM |S1000 FB [Old man, Fine business]^
+BEAM |S1000 ANT [Beam, Antenna]^
+XYL |S1000 ANT [Wife, Antenna]^
+XYL |S1000 CPY [Wife, Copy]^
+XYL |S1000 HPE [Wife, Hope]^
+XYL |S1000 HPE [Wife, Hope]^
+BTU |S1000 GL [Back to you, Good luck]^
+XYL |S1000 CPY [Wife, Copy]^
+CUL |S1000 QSB [See you later, Fading]^
+XYL |S1000 FB [Wife, Fine business]^
+GL |S1000 XYL [Good luck, Wife]^
+QRN |S1000 ANT [Noise, Antenna]^
+BTU |S1000 TNX [Back to you, Thanks]^
+DX |S1000 DIPOLE [D X, Dipole]^
+QRL |S1000 BEAM [Busy, Beam]^
+CUL |S1000 XYL [See you later, Wife]^
+HPE |S1000 XYL [Hope, Wife]^
+ANT |S1000 BTU [Antenna, Back to you]^
+QRN |S1000 TNX [Noise, Thanks]^
+HW |S1000 QRN [How, Noise]^
+SRI |S1000 XYL [Sorry, Wife]^
+DIPOLE |S1000 XYL [Dipole, Wife]^
+CPY |S1000 QSB [Copy, Fading]^
+FB |S1000 XYL [Fine business, Wife]^
+QSB |S1000 CUL [Fading, See you later]^
+XYL |S1000 BEAM [Wife, Beam]^
+HW |S1000 XYL [How, Wife]^
+FB |S1000 XYL [Fine business, Wife]^
+CPY |S1000 XYL [Copy, Wife]^
+QSB |S1000 HW [Fading, How]^
+QRL |S1000 XYL [Busy, Wife]^
+QSB |S1000 XYL [Fading, Wife]^
+SRI |S1000 HPE [Sorry, Hope]^
+XYL |S1000 CPI [Wife, Copy]^
+CPY |S1000 XYL [Copy, Wife]^
+BEAM |S1000 XYL [Beam, Wife]^
+FB |S1000 ANT [Fine business, Antenna]^
+DIPOLE |S1000 XYL [Dipole, Wife]^
+HW |S1000 SRI [How, Sorry]^
+SIG |S1000 DX [Signal, D X]^
+OM |S1000 SIG [Old man, Signal]^
+OM |S1000 TNX [Old man, Thanks]^
+XYL |S1000 BTU [Wife, Back to you]^
+QRN |S1000 OM [Noise, Old man]^
+XYL |S1000 HW [Wife, How]^
+QRN |S1000 XYL [Noise, Wife]^
+QRN |S1000 OM [Noise, Old man]^
+XYL |S1000 QRL [Wife, Busy]^
+XYL |S1000 OM [Wife, Old man]^
+XYL |S1000 CUL [Wife, See you later]^
+XYL |S1000 CPY [Wife, Copy]^
+SIG |S1000 XYL [Signal, Wife]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+BEAM |S1000 CPY [Beam, Copy]^
+XYL |S1000 OM [Wife, Old man]^
+FB |S1000 SIG [Fine business, Signal]^
+DX |S1000 OM [D X, Old man]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+BEAM |S1000 XYL [Beam, Wife]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+XYL |S1000 GL [Wife, Good luck]^
+XYL |S1000 DX [Wife, D X]^
+XYL |S1000 SIG [Wife, Signal]^
+XYL |S1000 BTU [Wife, Back to you]^
+XYL |S1000 QRL [Wife, Busy]^
+HW |S1000 CPY [How, Copy]^
+XYL |S1000 HW [Wife, How]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+DX |S1000 XYL [D X, Wife]^
+SRI |S1000 XYL [Sorry, Wife]^
+CPI |S1000 XYL [Copy, Wife]^
+FB |S1000 CUL [Fine business, See you later]^
+QRL |S1000 XYL [Busy, Wife]^
+BEAM |S1000 XYL [Beam, Wife]^
+GL |S1000 HW [Good luck, How]^
+BEAM |S1000 XYL [Beam, Wife]^
+SIG |S1000 CUL [Signal, See you later]^
+XYL |S1000 CPI [Wife, Copy]^
+XYL |S1000 QRL [Wife, Busy]^
+XYL |S1000 OM [Wife, Old man]^
+QRL |S1000 FB [Busy, Fine business]^
+BTU |S1000 XYL [Back to you, Wife]^
+BEAM |S1000 CPY [Beam, Copy]^
+QSB |S1000 CUL [Fading, See you later]^
+SRI |S1000 TNX [Sorry, Thanks]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+SRI |S1000 QSB [Sorry, Fading]^
+XYL |S1000 SRI [Wife, Sorry]^
+QSB |S1000 XYL [Fading, Wife]^
+SRI |S1000 XYL [Sorry, Wife]^
+ANT |S1000 CPY [Antenna, Copy]^
+XYL |S1000 CPI [Wife, Copy]^
+BTU |S1000 HPE [Back to you, Hope]^
+XYL |S1000 HPE [Wife, Hope]^
+XYL |S1000 HPE [Wife, Hope]^
+XYL |S1000 CPY [Wife, Copy]^
+XYL |S1000 QSB [Wife, Fading]^
+CPI |S1000 SIG [Copy, Signal]^
+XYL |S1000 BEAM [Wife, Beam]^
+XYL |S1000 SRI [Wife, Sorry]^
+BEAM |S1000 SIG [Beam, Signal]^
+XYL |S1000 BEAM [Wife, Beam]^
+FB |S1000 XYL [Fine business, Wife]^
+TNX |S1000 XYL [Thanks, Wife]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+QRL |S1000 XYL [Busy, Wife]^
+BTU |S1000 CUL [Back to you, See you later]^
+ANT |S1000 XYL [Antenna, Wife]^
+QSB |S1000 BEAM [Fading, Beam]^
+CPI |S1000 XYL [Copy, Wife]^
+FB |S1000 XYL [Fine business, Wife]^
+QRL |S1000 TNX [Busy, Thanks]^
+XYL |S1000 CUL [Wife, See you later]^
+QRL |S1000 CUL [Busy, See you later]^
+XYL |S1000 CUL [Wife, See you later]^
+FB |S1000 CUL [Fine business, See you later]^
+XYL |S1000 CPI [Wife, Copy]^
+GL |S1000 XYL [Good luck, Wife]^
+QRL |S1000 SRI [Busy, Sorry]^
+GL |S1000 XYL [Good luck, Wife]^
+QSB |S1000 XYL [Fading, Wife]^
+OM |S1000 TNX [Old man, Thanks]^
+OM |S1000 GL [Old man, Good luck]^
+SIG |S1000 XYL [Signal, Wife]^
+GL |S1000 BEAM [Good luck, Beam]^
+XYL |S1000 BEAM [Wife, Beam]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+BTU |S1000 HW [Back to you, How]^
+XYL |S1000 HPE [Wife, Hope]^
+XYL |S1000 DX [Wife, D X]^
+XYL |S1000 DX [Wife, D X]^
+QRL |S1000 HW [Busy, How]^
+SIG |S1000 BEAM [Signal, Beam]^
+SRI |S1000 CPI [Sorry, Copy]^
+XYL |S1000 SIG [Wife, Signal]^
+XYL |S1000 CPY [Wife, Copy]^
+XYL |S1000 DX [Wife, D X]^
+ANT |S1000 TNX [Antenna, Thanks]^
+DIPOLE |S1000 XYL [Dipole, Wife]^
+BTU |S1000 CPY [Back to you, Copy]^
+XYL |S1000 SIG [Wife, Signal]^
+XYL |S1000 BTU [Wife, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+XYL |S1000 DX [Wife, D X]^
+XYL |S1000 SRI [Wife, Sorry]^
+XYL |S1000 ANT [Wife, Antenna]^
+HW |S1000 HPE [How, Hope]^
+XYL |S1000 CPY [Wife, Copy]^
+XYL |S1000 QRL [Wife, Busy]^
+XYL |S1000 ANT [Wife, Antenna]^
+FB |S1000 SIG [Fine business, Signal]^
+BEAM |S1000 ANT [Beam, Antenna]^
+XYL |S1000 HPE [Wife, Hope]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+XYL |S1000 CPI [Wife, Copy]^
+SRI |S1000 XYL [Sorry, Wife]^
+ANT |S1000 XYL [Antenna, Wife]^
+CUL |S1000 ANT [See you later, Antenna]^
+QRL |S1000 SIG [Busy, Signal]^
+BTU |S1000 CPI [Back to you, Copy]^
+XYL |S1000 HW [Wife, How]^
+CUL |S1000 XYL [See you later, Wife]^
+OM |S1000 SIG [Old man, Signal]^
+XYL |S1000 CPI [Wife, Copy]^
+CPY |S1000 XYL [Copy, Wife]^
+SRI |S1000 BTU [Sorry, Back to you]^
+XYL |S1000 BEAM [Wife, Beam]^
+QRN |S1000 SRI [Noise, Sorry]^
+ANT |S1000 BTU [Antenna, Back to you]^
+XYL |S1000 CPI [Wife, Copy]^
+XYL |S1000 HPE [Wife, Hope]^
+XYL |S1000 HW [Wife, How]^
+XYL |S1000 GL [Wife, Good luck]^
+XYL |S1000 TNX [Wife, Thanks]^
+FB |S1000 GL [Fine business, Good luck]^
+XYL |S1000 SRI [Wife, Sorry]^
+QRN |S1000 HPE [Noise, Hope]^
+FB |S1000 XYL [Fine business, Wife]^
+BTU |S1000 XYL [Back to you, Wife]^
+BTU |S1000 FB [Back to you, Fine business]^
+GL |S1000 BTU [Good luck, Back to you]^
+XYL |S1000 TNX [Wife, Thanks]^
+XYL |S1000 DX [Wife, D X]^
+XYL |S1000 CUL [Wife, See you later]^
+XYL |S1000 BEAM [Wife, Beam]^
+FB |S1000 OM [Fine business, Old man]^
+XYL |S1000 FB [Wife, Fine business]^
+XYL |S1000 BEAM [Wife, Beam]^
+XYL |S1000 HPE [Wife, Hope]^
+ANT |S1000 XYL [Antenna, Wife]^
+BTU |S1000 HPE [Back to you, Hope]^
+XYL |S1000 CPY [Wife, Copy]^
+DX |S1000 XYL [D X, Wife]^
+QRN |S1000 XYL [Noise, Wife]^
+HPE |S1000 XYL [Hope, Wife]^
+ANT |S1000 XYL [Antenna, Wife]^
+TNX |S1000 OM [Thanks, Old man]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+BTU |S1000 HW [Back to you, How]^
+XYL |S1000 HPE [Wife, Hope]^
+BEAM |S1000 XYL [Beam, Wife]^
+QRN |S1000 XYL [Noise, Wife]^
+SRI |S1000 CPY [Sorry, Copy]^
+ANT |S1000 XYL [Antenna, Wife]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+GL |S1000 XYL [Good luck, Wife]^
+QRL |S1000 HW [Busy, How]^
+XYL |S1000 HW [Wife, How]^
+XYL |S1000 ANT [Wife, Antenna]^
+XYL |S1000 ANT [Wife, Antenna]^
+XYL |S1000 CUL [Wife, See you later]^
+XYL |S1000 BEAM [Wife, Beam]^
+CPY |S1000 QRN [Copy, Noise]^
+FB |S1000 CPY [Fine business, Copy]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+QSB |S1000 XYL [Fading, Wife]^
+DX |S1000 BEAM [D X, Beam]^
+XYL |S1000 GL [Wife, Good luck]^
+BEAM |S1000 XYL [Beam, Wife]^
+CPY |S1000 ANT [Copy, Antenna]^
+CPI |S1000 CPY [Copy, Copy]^
+XYL |S1000 HPE [Wife, Hope]^
+OM |S1000 CUL [Old man, See you later]^
+XYL |S1000 TNX [Wife, Thanks]^
+XYL |S1000 TNX [Wife, Thanks]^
+FB |S1000 XYL [Fine business, Wife]^
+DX |S1000 DIPOLE [D X, Dipole]^
+XYL |S1000 FB [Wife, Fine business]^
+XYL |S1000 DX [Wife, D X]^
+CPI |S1000 XYL [Copy, Wife]^
+QRL |S1000 ANT [Busy, Antenna]^
+SIG |S1000 FB [Signal, Fine business]^
+XYL |S1000 QRN [Wife, Noise]^
+TNX |S1000 XYL [Thanks, Wife]^
+BEAM |S1000 QRN [Beam, Noise]^
+XYL |S1000 HW [Wife, How]^
+HPE |S1000 TNX [Hope, Thanks]^
+CPI |S1000 HPE [Copy, Hope]^
+FB |S1000 SIG [Fine business, Signal]^
+QSB |S1000 TNX [Fading, Thanks]^
+HW |S1000 CPI [How, Copy]^
+QRN |S1000 XYL [Noise, Wife]^
+QRL |S1000 XYL [Busy, Wife]^
+CUL |S1000 QRN [See you later, Noise]^
+XYL |S1000 DX [Wife, D X]^
+HPE |S1000 XYL [Hope, Wife]^
+HW |S1000 QRL [How, Busy]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+FB |S1000 XYL [Fine business, Wife]^
+CUL |S1000 XYL [See you later, Wife]^
+CPI |S1000 QRL [Copy, Busy]^
+XYL |S1000 TNX [Wife, Thanks]^
+QRL |S1000 XYL [Busy, Wife]^
+OM |S1000 XYL [Old man, Wife]^
+BEAM |S1000 OM [Beam, Old man]^
+XYL |S1000 CPI [Wife, Copy]^
+SIG |S1000 CUL [Signal, See you later]^
+XYL |S1000 DX [Wife, D X]^
+BEAM |S1000 CUL [Beam, See you later]^
+QSB |S1000 HPE [Fading, Hope]^
+OM |S1000 CPI [Old man, Copy]^
+DIPOLE |S1000 CUL [Dipole, See you later]^
+TNX |S1000 XYL [Thanks, Wife]^
+HPE |S1000 CPY [Hope, Copy]^
+QRL |S1000 SIG [Busy, Signal]^
+XYL |S1000 QRN [Wife, Noise]^
+QRL |S1000 DX [Busy, D X]^
+QRN |S1000 XYL [Noise, Wife]^
+FB |S1000 XYL [Fine business, Wife]^
+SRI |S1000 HPE [Sorry, Hope]^
+XYL |S1000 QRL [Wife, Busy]^
+XYL |S1000 ANT [Wife, Antenna]^
+HW |S1000 TNX [How, Thanks]^
+QRL |S1000 XYL [Busy, Wife]^
+DIPOLE |S1000 XYL [Dipole, Wife]^
+ANT |S1000 XYL [Antenna, Wife]^
+ANT |S1000 XYL [Antenna, Wife]^
+CPY |S1000 QRN [Copy, Noise]^
+XYL |S1000 QSB [Wife, Fading]^
+QRL |S1000 BEAM [Busy, Beam]^
+CPI |S1000 XYL [Copy, Wife]^
+TNX |S1000 XYL [Thanks, Wife]^
+BEAM |S1000 OM [Beam, Old man]^
+BEAM |S1000 XYL [Beam, Wife]^
+CUL |S1000 ANT [See you later, Antenna]^
+XYL |S1000 QRL [Wife, Busy]^
+ANT |S1000 OM [Antenna, Old man]^
+FB |S1000 XYL [Fine business, Wife]^
+SIG |S1000 XYL [Signal, Wife]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+XYL |S1000 SRI [Wife, Sorry]^
+XYL |S1000 ANT [Wife, Antenna]^
+BTU |S1000 HPE [Back to you, Hope]^
+SRI |S1000 XYL [Sorry, Wife]^
+QRN |S1000 ANT [Noise, Antenna]^
+XYL |S1000 GL [Wife, Good luck]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+XYL |S1000 TNX [Wife, Thanks]^
+XYL |S1000 CPI [Wife, Copy]^
+HW |S1000 XYL [How, Wife]^
+CPY |S1000 XYL [Copy, Wife]^
+FB |S1000 TNX [Fine business, Thanks]^
+BTU |S1000 QRL [Back to you, Busy]^
+OM |S1000 XYL [Old man, Wife]^
+TNX |S1000 XYL [Thanks, Wife]^
+QRL |S1000 XYL [Busy, Wife]^
+BEAM |S1000 OM [Beam, Old man]^
+XYL |S1000 OM [Wife, Old man]^
+QSB |S1000 QRN [Fading, Noise]^
+XYL |S1000 CPY [Wife, Copy]^
+XYL |S1000 ANT [Wife, Antenna]^
+XYL |S1000 QSB [Wife, Fading]^
+XYL |S1000 SRI [Wife, Sorry]^
+XYL |S1000 CPI [Wife, Copy]^
+QSB |S1000 XYL [Fading, Wife]^
+SRI |S1000 CPI [Sorry, Copy]^
+DX |S1000 QRN [D X, Noise]^
+XYL |S1000 OM [Wife, Old man]^
+SRI |S1000 XYL [Sorry, Wife]^
+SRI |S1000 XYL [Sorry, Wife]^
+CPI |S1000 XYL [Copy, Wife]^
+FB |S1000 HW [Fine business, How]^
+XYL |S1000 CPY [Wife, Copy]^
+QRN |S1000 XYL [Noise, Wife]^
+HPE |S1000 ANT [Hope, Antenna]^
+XYL |S1000 CUL [Wife, See you later]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+QRL |S1000 XYL [Busy, Wife]^
+QRL |S1000 XYL [Busy, Wife]^
+CPY |S1000 XYL [Copy, Wife]^
+SIG |S1000 XYL [Signal, Wife]^
+OM |S1000 XYL [Old man, Wife]^
+SIG |S1000 OM [Signal, Old man]^
+ANT |S1000 XYL [Antenna, Wife]^
+SIG |S1000 XYL [Signal, Wife]^
+ANT |S1000 XYL [Antenna, Wife]^
+BTU |S1000 QRL [Back to you, Busy]^
+XYL |S1000 CPY [Wife, Copy]^
+XYL |S1000 HW [Wife, How]^
+HPE |S1000 SIG [Hope, Signal]^
+QSB |S1000 XYL [Fading, Wife]^
+SRI |S1000 XYL [Sorry, Wife]^
+CUL |S1000 DIPOLE [See you later, Dipole]^
+QSB |S1000 GL [Fading, Good luck]^
+CPI |S1000 XYL [Copy, Wife]^
+CUL |S1000 XYL [See you later, Wife]^
+HW |S1000 XYL [How, Wife]^
+CUL |S1000 XYL [See you later, Wife]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+FB |S1000 CPI [Fine business, Copy]^
+SIG |S1000 XYL [Signal, Wife]^
+TNX |S1000 XYL [Thanks, Wife]^
+BTU |S1000 XYL [Back to you, Wife]^
+BEAM |S1000 QRL [Beam, Busy]^
+XYL |S1000 TNX [Wife, Thanks]^
+FB |S1000 BEAM [Fine business, Beam]^
+GL |S1000 OM [Good luck, Old man]^
+QRN |S1000 CPI [Noise, Copy]^
+XYL |S1000 GL [Wife, Good luck]^
+TNX |S1000 XYL [Thanks, Wife]^
+QSB |S1000 SIG [Fading, Signal]^
+XYL |S1000 OM [Wife, Old man]^
+HPE |S1000 QSB [Hope, Fading]^
+XYL |S1000 ANT [Wife, Antenna]^
+BEAM |S1000 SIG [Beam, Signal]^
+XYL |S1000 HPE [Wife, Hope]^
+SIG |S1000 BEAM [Signal, Beam]^
+XYL |S1000 QRN [Wife, Noise]^
+QSB |S1000 QRN [Fading, Noise]^
+HW |S1000 GL [How, Good luck]^
+XYL |S1000 BEAM [Wife, Beam]^
+QRL |S1000 XYL [Busy, Wife]^
+FB |S1000 ANT [Fine business, Antenna]^
+XYL |S1000 OM [Wife, Old man]^
+XYL |S1000 HW [Wife, How]^
+SRI |S1000 XYL [Sorry, Wife]^
+DX |S1000 CPY [D X, Copy]^
+DX |S1000 BTU [D X, Back to you]^
+XYL |S1000 OM [Wife, Old man]^
+CPY |S1000 SRI [Copy, Sorry]^
+XYL |S1000 GL [Wife, Good luck]^
+XYL |S1000 CPY [Wife, Copy]^
+GL |S1000 XYL [Good luck, Wife]^
+QRL |S1000 QSB [Busy, Fading]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+BTU |S1000 DX [Back to you, D X]^
+TNX |S1000 XYL [Thanks, Wife]^
+QRN |S1000 HPE [Noise, Hope]^
+BEAM |S1000 QRL [Beam, Busy]^
+TNX |S1000 XYL [Thanks, Wife]^
+TNX |S1000 XYL [Thanks, Wife]^
+HW |S1000 FB [How, Fine business]^
+HW |S1000 ANT [How, Antenna]^
+CPI |S1000 XYL [Copy, Wife]^
+QSB |S1000 XYL [Fading, Wife]^
+DX |S1000 XYL [D X, Wife]^
+ANT |S1000 XYL [Antenna, Wife]^
+QSB |S1000 XYL [Fading, Wife]^
+QRL |S1000 GL [Busy, Good luck]^
+XYL |S1000 QSB [Wife, Fading]^
+HW |S1000 QRN [How, Noise]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+OM |S1000 CPY [Old man, Copy]^
+QRN |S1000 SRI [Noise, Sorry]^
+QSB |S1000 BTU [Fading, Back to you]^
+BEAM |S1000 XYL [Beam, Wife]^
+CPY |S1000 XYL [Copy, Wife]^
+DIPOLE |S1000 XYL [Dipole, Wife]^
+CPY |S1000 HPE [Copy, Hope]^
+SIG |S1000 XYL [Signal, Wife]^
+DIPOLE |S1000 XYL [Dipole, Wife]^
+HW |S1000 CUL [How, See you later]^
+XYL |S1000 HW [Wife, How]^
+GL |S1000 XYL [Good luck, Wife]^

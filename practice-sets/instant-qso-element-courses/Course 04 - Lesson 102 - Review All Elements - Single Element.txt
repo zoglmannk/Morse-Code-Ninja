@@ -1,0 +1,600 @@
+SIG [Signal]^
+INFO [Information]^
+WX [Weather]^
+GA [Good afternoon]^
+ABT [About]^
+RPT [Report]^
+UP [Up]^
+FB [Fine business]^
+HW [How]^
+PWR [Power]^
+QRP [Low power]^
+BTU [Back to you]^
+CUL [See you later]^
+TEMP [Temperature]^
+ES [And]^
+AGN [Again]^
+CPY [Copy]^
+DIPOLE [Dipole]^
+UP [Up]^
+HPE [Hope]^
+SRI [Sorry]^
+NR [Number]^
+CPY [Copy]^
+VERT [Vertical]^
+559 [5 5 9]^
+QRS [Slow speed]^
+559 [5 5 9]^
+WIRE [Wire]^
+UR [Your]^
+NAME [Name]^
+PWR [Power]^
+QRP [Low power]^
+GM [Good morning]^
+CFM [Confirm]^
+QRM [Interference]^
+CUL [See you later]^
+RPRT [Report]^
+YAGI [Yagi]^
+RX [Receive]^
+QTH [Location]^
+UP [Up]^
+CPY [Copy]^
+DR [Dear]^
+CPI [Copy]^
+PSE [Please]^
+UP [Up]^
+RST [R S T]^
+HI HI [laughing]^
+YAGI [Yagi]^
+FB [Fine business]^
+ES [And]^
+UR [Your]^
+BTU [Back to you]^
+DE [From]^
+HPE [Hope]^
+GM [Good morning]^
+DIPOLE [Dipole]^
+TEST [Contest]^
+QRL [Busy]^
+CFM [Confirm]^
+CPY [Copy]^
+WX [Weather]^
+PWR [Power]^
+DX [D X]^
+TNX [Thanks]^
+CFM [Confirm]^
+HW [How]^
+QTH [Location]^
+559 [5 5 9]^
+88 [88]^
+TU [Thank you]^
+599 [5 9 9]^
+TX [Transmit]^
+UP [Up]^
+QRN [Noise]^
+UR [Your]^
+MNI [Many]^
+DE [From]^
+RST [R S T]^
+NAME [Name]^
+BURO [bureau]^
+QRL [Busy]^
+NR [Number]^
+HW\? [How copy\?]^
+WX [Weather]^
+GUD [Good]^
+GA [Good afternoon]^
+ABT [About]^
+UR [Your]^
+OM [Old man]^
+DX [D X]^
+ES [And]^
+GA [Good afternoon]^
+QRN [Noise]^
+5NN [5 N N]^
+XYL [Wife]^
+SIG [Signal]^
+QTH [Location]^
+QRX [Standby]^
+ES [And]^
+SIG [Signal]^
+DX [D X]^
+NW [Now]^
+HV [Have]^
+88 [88]^
+ES [And]^
+SIG [Signal]^
+WX [Weather]^
+TNX [Thanks]^
+RIG [Rig]^
+VERT [Vertical]^
+599 [5 9 9]^
+DR [Dear]^
+TX [Transmit]^
+FER [For]^
+WATT [Watt]^
+FER [For]^
+TEST [Contest]^
+5NN [5 N N]^
+SIG [Signal]^
+599 [5 9 9]^
+ES [And]^
+QRS [Slow speed]^
+WX [Weather]^
+73 [73]^
+YL [Young lady]^
+RST [R S T]^
+QRZ\? [Who is calling\?]^
+QTH [Location]^
+GA [Good afternoon]^
+DIPOLE [Dipole]^
+HI HI [laughing]^
+RST [R S T]^
+HPE [Hope]^
+SWR [S W R]^
+73 [73]^
+QSB [Fading]^
+73 [73]^
+FB [Fine business]^
+YAGI [Yagi]^
+589 [5 8 9]^
+NAME [Name]^
+GE [Good evening]^
+DR [Dear]^
+559 [5 5 9]^
+72 [72]^
+CUL [See you later]^
+QRM [Interference]^
+ES [And]^
+TNX [Thanks]^
+FB [Fine business]^
+HPE [Hope]^
+QTH [Location]^
+YL [Young lady]^
+RPRT [Report]^
+QRL\? [Are you busy\?]^
+HPE [Hope]^
+EL [Element]^
+QRZ [Q R Zed]^
+HV [Have]^
+NR [Number]^
+GUD [Good]^
+RIG [Rig]^
+NAME [Name]^
+QTH [Location]^
+PWR [Power]^
+UP [Up]^
+CUL [See you later]^
+VERT [Vertical]^
+DIPOLE [Dipole]^
+WX [Weather]^
+TEMP [Temperature]^
+ABT [About]^
+SIG [Signal]^
+PWR [Power]^
+TNX [Thanks]^
+CFM [Confirm]^
+1TT [100]^
+OP [Operator]^
+73 [73]^
+FT [Feet]^
+WATT [Watt]^
+AGN [Again]^
+NAME [Name]^
+QSY [Change frequency]^
+HI HI [laughing]^
+GA [Good afternoon]^
+559 [5 5 9]^
+MNI [Many]^
+QRZ [Q R Zed]^
+QTH [Location]^
+TEST [Contest]^
+TU [Thank you]^
+SIG [Signal]^
+NAME [Name]^
+DE [From]^
+QRL\? [Are you busy\?]^
+BEAM [Beam]^
+DE [From]^
+VY [Very]^
+WX [Weather]^
+UR [Your]^
+ANT [Antenna]^
+RIG [Rig]^
+NW [Now]^
+DE [From]^
+QRZ [Q R Zed]^
+UP [Up]^
+MNI [Many]^
+559 [5 5 9]^
+GL [Good luck]^
+RIG [Rig]^
+VERT [Vertical]^
+DE [From]^
+UP [Up]^
+QTH [Location]^
+QRS [Slow speed]^
+559 [5 5 9]^
+GE [Good evening]^
+XYL [Wife]^
+OP [Operator]^
+UR [Your]^
+GN [Good night]^
+UR [Your]^
+QRS [Slow speed]^
+599 [5 9 9]^
+QRN [Noise]^
+TEST [Contest]^
+GM [Good morning]^
+5NN [5 N N]^
+HPE [Hope]^
+ABT [About]^
+NW [Now]^
+QRL [Busy]^
+ES [And]^
+589 [5 8 9]^
+QRM [Interference]^
+599 [5 9 9]^
+RX [Receive]^
+GA [Good afternoon]^
+TX [Transmit]^
+RST [R S T]^
+QRM [Interference]^
+DE [From]^
+ES [And]^
+UP [Up]^
+GN [Good night]^
+5NN [5 N N]^
+BTU [Back to you]^
+QRM [Interference]^
+QRZ [Q R Zed]^
+UP [Up]^
+ES [And]^
+559 [5 5 9]^
+ABT [About]^
+QRQ [High speed]^
+TU [Thank you]^
+HI HI [laughing]^
+LOOP [Loop]^
+TNX [Thanks]^
+FER [For]^
+NAME [Name]^
+RX [Receive]^
+CPI [Copy]^
+QSY [Change frequency]^
+PLS [Please]^
+OP [Operator]^
+RIG [Rig]^
+QRX [Standby]^
+SIG [Signal]^
+CPI [Copy]^
+CFM [Confirm]^
+559 [5 5 9]^
+5NN [5 N N]^
+TEST [Contest]^
+DIPOLE [Dipole]^
+TEST [Contest]^
+BURO [bureau]^
+489 [4 8 9]^
+QRM [Interference]^
+HV [Have]^
+CW [C W]^
+AGN [Again]^
+TEST [Contest]^
+QSY [Change frequency]^
+HW [How]^
+PWR [Power]^
+ANT [Antenna]^
+FER [For]^
+PWR [Power]^
+UR [Your]^
+GA [Good afternoon]^
+QRS [Slow speed]^
+UP [Up]^
+XYL [Wife]^
+QRN [Noise]^
+QTH [Location]^
+UR [Your]^
+CQ [C Q]^
+5NN [5 N N]^
+QRZ [Q R Zed]^
+DE [From]^
+SSB [Single Side Band]^
+DIPOLE [Dipole]^
+FB [Fine business]^
+599 [5 9 9]^
+GN [Good night]^
+QRP [Low power]^
+QSB [Fading]^
+GA [Good afternoon]^
+88 [88]^
+QSB [Fading]^
+599 [5 9 9]^
+RST [R S T]^
+HR [Hear]^
+TNX [Thanks]^
+OM [Old man]^
+FER [For]^
+YAGI [Yagi]^
+TEST [Contest]^
+GM [Good morning]^
+DIPOLE [Dipole]^
+579 [5 7 9]^
+TEMP [Temperature]^
+UR [Your]^
+QRL\? [Are you busy\?]^
+QRP [Low power]^
+ANT [Antenna]^
+TNX [Thanks]^
+XYL [Wife]^
+HI HI [laughing]^
+QRS [Slow speed]^
+GM [Good morning]^
+BEAM [Beam]^
+HV [Have]^
+NR [Number]^
+UR [Your]^
+BEAM [Beam]^
+TU [Thank you]^
+SRI [Sorry]^
+CUL [See you later]^
+PSE [Please]^
+PWR [Power]^
+QRM [Interference]^
+CPI [Copy]^
+NAME [Name]^
+EFHW [End fed, half-wave]^
+BEAM [Beam]^
+CPY [Copy]^
+HW [How]^
+TEST [Contest]^
+OM [Old man]^
+RX [Receive]^
+QRP [Low power]^
+CFM [Confirm]^
+599 [5 9 9]^
+QRZ [Q R Zed]^
+FER [For]^
+HI HI [laughing]^
+TU [Thank you]^
+QRN [Noise]^
+QRS [Slow speed]^
+QRM [Interference]^
+73 [73]^
+FER [For]^
+QRN [Noise]^
+ES [And]^
+SRI [Sorry]^
+YAGI [Yagi]^
+QSB [Fading]^
+SWR [S W R]^
+579 [5 7 9]^
+QRN [Noise]^
+RPT [Report]^
+TU [Thank you]^
+WUD [Would]^
+FB [Fine business]^
+479 [4 7 9]^
+CUL [See you later]^
+QSY [Change frequency]^
+AGN [Again]^
+UR [Your]^
+5NN [5 N N]^
+QRL [Busy]^
+RIG [Rig]^
+FB [Fine business]^
+GE [Good evening]^
+NW [Now]^
+QSY [Change frequency]^
+TU [Thank you]^
+CPI [Copy]^
+CW [C W]^
+73 [73]^
+HPE [Hope]^
+TU [Thank you]^
+GN [Good night]^
+QRL [Busy]^
+WX [Weather]^
+QRQ [High speed]^
+PLS [Please]^
+QTH [Location]^
+HR [Hear]^
+TU [Thank you]^
+QRN [Noise]^
+GE [Good evening]^
+EL [Element]^
+5NN [5 N N]^
+PSE [Please]^
+HW [How]^
+RPRT [Report]^
+DE [From]^
+VERT [Vertical]^
+WUD [Would]^
+QRN [Noise]^
+SIG [Signal]^
+NAME [Name]^
+GB [Goodbye]^
+ANT [Antenna]^
+TEST [Contest]^
+BEAM [Beam]^
+SIG [Signal]^
+SRI [Sorry]^
+GUD [Good]^
+QTH [Location]^
+INFO [Information]^
+EFHW [End fed, half-wave]^
+GUD [Good]^
+VY [Very]^
+RPT [Report]^
+ABT [About]^
+ANT [Antenna]^
+BEAM [Beam]^
+GUD [Good]^
+72 [72]^
+TNX [Thanks]^
+EL [Element]^
+SSB [Single Side Band]^
+TNX [Thanks]^
+TX [Transmit]^
+QSL [Confirm]^
+QRS [Slow speed]^
+CUL [See you later]^
+VY [Very]^
+HPE [Hope]^
+HV [Have]^
+PWR [Power]^
+QRZ\? [Who is calling\?]^
+5NN [5 N N]^
+SRI [Sorry]^
+BEAM [Beam]^
+NAME [Name]^
+QTH [Location]^
+INFO [Information]^
+HR [Hear]^
+HV [Have]^
+RST [R S T]^
+QRS [Slow speed]^
+PLS [Please]^
+CPI [Copy]^
+QRM [Interference]^
+GM [Good morning]^
+CUL [See you later]^
+BTU [Back to you]^
+BURO [bureau]^
+QSB [Fading]^
+QRZ [Q R Zed]^
+BEAM [Beam]^
+OP [Operator]^
+CW [C W]^
+QRQ [High speed]^
+TEMP [Temperature]^
+5NN [5 N N]^
+ABT [About]^
+SIG [Signal]^
+CUL [See you later]^
+HW [How]^
+QRZ [Q R Zed]^
+UP [Up]^
+SIG [Signal]^
+ES [And]^
+BURO [bureau]^
+FER [For]^
+XYL [Wife]^
+YAGI [Yagi]^
+CPI [Copy]^
+PLS [Please]^
+OP [Operator]^
+WX [Weather]^
+QRN [Noise]^
+NR [Number]^
+WX [Weather]^
+QTH [Location]^
+OP [Operator]^
+TNX [Thanks]^
+ANT [Antenna]^
+HI HI [laughing]^
+DIPOLE [Dipole]^
+WX [Weather]^
+QRX [Standby]^
+EFHW [End fed, half-wave]^
+QRS [Slow speed]^
+QRX [Standby]^
+RST [R S T]^
+YAGI [Yagi]^
+5NN [5 N N]^
+NAME [Name]^
+QRZ [Q R Zed]^
+GN [Good night]^
+WX [Weather]^
+VY [Very]^
+TU [Thank you]^
+SRI [Sorry]^
+QTH [Location]^
+RST [R S T]^
+GA [Good afternoon]^
+GM [Good morning]^
+FER [For]^
+YAGI [Yagi]^
+RST [R S T]^
+QSY [Change frequency]^
+SSB [Single Side Band]^
+QRQ [High speed]^
+ES [And]^
+CQ [C Q]^
+YL [Young lady]^
+GD [Good]^
+DE [From]^
+DIPOLE [Dipole]^
+73 [73]^
+XYL [Wife]^
+QRL\? [Are you busy\?]^
+GL [Good luck]^
+XYL [Wife]^
+RIG [Rig]^
+PSE [Please]^
+UR [Your]^
+QRM [Interference]^
+ANT [Antenna]^
+GB [Goodbye]^
+HW\? [How copy\?]^
+CPI [Copy]^
+RST [R S T]^
+NAME [Name]^
+DX [D X]^
+SWR [S W R]^
+OM [Old man]^
+GL [Good luck]^
+ES [And]^
+GL [Good luck]^
+OM [Old man]^
+CFM [Confirm]^
+QRZ\? [Who is calling\?]^
+QTH [Location]^
+RST [R S T]^
+MNI [Many]^
+QRN [Noise]^
+FER [For]^
+TNX [Thanks]^
+PWR [Power]^
+BEAM [Beam]^
+5NN [5 N N]^
+599 [5 9 9]^
+GA [Good afternoon]^
+73 [73]^
+DIPOLE [Dipole]^
+AGN [Again]^
+479 [4 7 9]^
+CQ [C Q]^
+CPI [Copy]^
+FER [For]^
+WATT [Watt]^
+599 [5 9 9]^
+CPY [Copy]^
+73 [73]^
+GA [Good afternoon]^
+AGN [Again]^
+GM [Good morning]^
+579 [5 7 9]^
+DR [Dear]^
+CPI [Copy]^
+NAME [Name]^
+QRP [Low power]^
+VY [Very]^
+GM [Good morning]^
+EL [Element]^
+TX [Transmit]^
+HW\? [How copy\?]^
+RST [R S T]^
+GM [Good morning]^
+CPY [Copy]^
+GA [Good afternoon]^
+BCNU [Be seeing you]^
+QRZ\? [Who is calling\?]^
+SIG [Signal]^
+XYL [Wife]^
+SIG [Signal]^
+1TT [100]^
+PLS [Please]^
+HI HI [laughing]^
+479 [4 7 9]^

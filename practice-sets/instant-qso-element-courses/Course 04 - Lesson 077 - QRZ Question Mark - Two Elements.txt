@@ -1,0 +1,600 @@
+INFO |S1000 QRZ\? [Information, Who is calling\?]^
+INFO |S1000 QRZ\? [Information, Who is calling\?]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+479 |S1000 GB [4 7 9, Goodbye]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 CW [Who is calling\?, C W]^
+QRZ\? |S1000 GB [Who is calling\?, Goodbye]^
+QRZ\? |S1000 SSB [Who is calling\?, Single Side Band]^
+GD |S1000 359 [Good, 3 5 9]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+QRZ\? |S1000 CW [Who is calling\?, C W]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+88 |S1000 SSB [88, Single Side Band]^
+1TT |S1000 QRZ\? [100, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+SSB |S1000 INFO [Single Side Band, Information]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+OCF |S1000 QRL\? [Off-center fed dipole, Are you busy\?]^
+LOOP |S1000 OCF [Loop, Off-center fed dipole]^
+GB |S1000 88 [Goodbye, 88]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+1TT |S1000 INFO [100, Information]^
+OCF |S1000 QRZ\? [Off-center fed dipole, Who is calling\?]^
+SWR |S1000 QRZ\? [S W R, Who is calling\?]^
+WATT |S1000 QRZ\? [Watt, Who is calling\?]^
+WIRE |S1000 QRZ\? [Wire, Who is calling\?]^
+WATT |S1000 489 [Watt, 4 8 9]^
+GD |S1000 QRZ\? [Good, Who is calling\?]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+LOOP |S1000 WIRE [Loop, Wire]^
+SWR |S1000 LOOP [S W R, Loop]^
+QRZ\? |S1000 88 [Who is calling\?, 88]^
+QRL\? |S1000 LOOP [Are you busy\?, Loop]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+359 |S1000 489 [3 5 9, 4 8 9]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+GB |S1000 SWR [Goodbye, S W R]^
+QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
+QRZ\? |S1000 LOOP [Who is calling\?, Loop]^
+INFO |S1000 WIRE [Information, Wire]^
+CW |S1000 QRZ\? [C W, Who is calling\?]^
+CW |S1000 NW [C W, Now]^
+QRZ\? |S1000 88 [Who is calling\?, 88]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+SWR |S1000 QRL\? [S W R, Are you busy\?]^
+QRZ\? |S1000 SSB [Who is calling\?, Single Side Band]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+QRZ\? |S1000 CW [Who is calling\?, C W]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+479 |S1000 LOOP [4 7 9, Loop]^
+QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
+72 |S1000 INFO [72, Information]^
+CW |S1000 QRZ\? [C W, Who is calling\?]^
+1TT |S1000 QRZ\? [100, Who is calling\?]^
+NW |S1000 WATT [Now, Watt]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+SWR |S1000 WATT [S W R, Watt]^
+QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
+QRZ\? |S1000 GD [Who is calling\?, Good]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 72 [Who is calling\?, 72]^
+GD |S1000 QRL\? [Good, Are you busy\?]^
+SWR |S1000 OCF [S W R, Off-center fed dipole]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+GB |S1000 NW [Goodbye, Now]^
+GN |S1000 GB [Good night, Goodbye]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+WATT |S1000 GD [Watt, Good]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+NW |S1000 CW [Now, C W]^
+72 |S1000 SWR [72, S W R]^
+WATT |S1000 QRZ\? [Watt, Who is calling\?]^
+LOOP |S1000 QRZ\? [Loop, Who is calling\?]^
+SSB |S1000 GB [Single Side Band, Goodbye]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 88 [Who is calling\?, 88]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+489 |S1000 GB [4 8 9, Goodbye]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+SSB |S1000 NW [Single Side Band, Now]^
+QRZ\? |S1000 GB [Who is calling\?, Goodbye]^
+INFO |S1000 GN [Information, Good night]^
+QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+INFO |S1000 QRZ\? [Information, Who is calling\?]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+CW |S1000 72 [C W, 72]^
+1TT |S1000 QRZ\? [100, Who is calling\?]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+SWR |S1000 WIRE [S W R, Wire]^
+QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
+SSB |S1000 88 [Single Side Band, 88]^
+359 |S1000 GB [3 5 9, Goodbye]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+OCF |S1000 WATT [Off-center fed dipole, Watt]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+QRL\? |S1000 CW [Are you busy\?, C W]^
+QRZ\? |S1000 GB [Who is calling\?, Goodbye]^
+359 |S1000 1TT [3 5 9, 100]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+GB |S1000 QRL\? [Goodbye, Are you busy\?]^
+489 |S1000 GN [4 8 9, Good night]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+WATT |S1000 QRZ\? [Watt, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+WIRE |S1000 88 [Wire, 88]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+479 |S1000 GB [4 7 9, Goodbye]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+QRZ\? |S1000 LOOP [Who is calling\?, Loop]^
+OCF |S1000 QRZ\? [Off-center fed dipole, Who is calling\?]^
+1TT |S1000 WIRE [100, Wire]^
+WATT |S1000 QRZ\? [Watt, Who is calling\?]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+359 |S1000 489 [3 5 9, 4 8 9]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
+CW |S1000 QRZ\? [C W, Who is calling\?]^
+LOOP |S1000 WIRE [Loop, Wire]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+GB |S1000 88 [Goodbye, 88]^
+WIRE |S1000 GB [Wire, Goodbye]^
+88 |S1000 NW [88, Now]^
+GD |S1000 88 [Good, 88]^
+LOOP |S1000 QRZ\? [Loop, Who is calling\?]^
+479 |S1000 1TT [4 7 9, 100]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+QRZ\? |S1000 1TT [Who is calling\?, 100]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+359 |S1000 489 [3 5 9, 4 8 9]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+CW |S1000 INFO [C W, Information]^
+GN |S1000 NW [Good night, Now]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+QRZ\? |S1000 GD [Who is calling\?, Good]^
+QRZ\? |S1000 CW [Who is calling\?, C W]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+1TT |S1000 WATT [100, Watt]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+INFO |S1000 QRZ\? [Information, Who is calling\?]^
+SWR |S1000 QRL\? [S W R, Are you busy\?]^
+QRZ\? |S1000 CW [Who is calling\?, C W]^
+SSB |S1000 LOOP [Single Side Band, Loop]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+489 |S1000 NW [4 8 9, Now]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+QRZ\? |S1000 88 [Who is calling\?, 88]^
+489 |S1000 479 [4 8 9, 4 7 9]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+479 |S1000 INFO [4 7 9, Information]^
+QRZ\? |S1000 72 [Who is calling\?, 72]^
+LOOP |S1000 GN [Loop, Good night]^
+72 |S1000 OCF [72, Off-center fed dipole]^
+QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
+WIRE |S1000 359 [Wire, 3 5 9]^
+CW |S1000 INFO [C W, Information]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+LOOP |S1000 QRZ\? [Loop, Who is calling\?]^
+1TT |S1000 QRL\? [100, Are you busy\?]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+OCF |S1000 GD [Off-center fed dipole, Good]^
+QRZ\? |S1000 GB [Who is calling\?, Goodbye]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
+OCF |S1000 QRZ\? [Off-center fed dipole, Who is calling\?]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+GN |S1000 INFO [Good night, Information]^
+LOOP |S1000 QRZ\? [Loop, Who is calling\?]^
+WIRE |S1000 QRL\? [Wire, Are you busy\?]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+1TT |S1000 QRZ\? [100, Who is calling\?]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+479 |S1000 INFO [4 7 9, Information]^
+QRZ\? |S1000 1TT [Who is calling\?, 100]^
+72 |S1000 INFO [72, Information]^
+LOOP |S1000 SSB [Loop, Single Side Band]^
+NW |S1000 OCF [Now, Off-center fed dipole]^
+1TT |S1000 SSB [100, Single Side Band]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+QRL\? |S1000 WIRE [Are you busy\?, Wire]^
+QRZ\? |S1000 QRL\? [Who is calling\?, Are you busy\?]^
+LOOP |S1000 QRZ\? [Loop, Who is calling\?]^
+72 |S1000 GN [72, Good night]^
+QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
+LOOP |S1000 WATT [Loop, Watt]^
+INFO |S1000 QRZ\? [Information, Who is calling\?]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+1TT |S1000 359 [100, 3 5 9]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+WIRE |S1000 GN [Wire, Good night]^
+1TT |S1000 88 [100, 88]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+GD |S1000 SWR [Good, S W R]^
+1TT |S1000 WIRE [100, Wire]^
+QRL\? |S1000 359 [Are you busy\?, 3 5 9]^
+WIRE |S1000 NW [Wire, Now]^
+QRZ\? |S1000 88 [Who is calling\?, 88]^
+1TT |S1000 QRZ\? [100, Who is calling\?]^
+INFO |S1000 QRZ\? [Information, Who is calling\?]^
+SSB |S1000 1TT [Single Side Band, 100]^
+LOOP |S1000 WATT [Loop, Watt]^
+QRZ\? |S1000 GB [Who is calling\?, Goodbye]^
+88 |S1000 QRZ\? [88, Who is calling\?]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+GD |S1000 SSB [Good, Single Side Band]^
+QRZ\? |S1000 SSB [Who is calling\?, Single Side Band]^
+LOOP |S1000 CW [Loop, C W]^
+QRZ\? |S1000 GB [Who is calling\?, Goodbye]^
+WIRE |S1000 OCF [Wire, Off-center fed dipole]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+CW |S1000 INFO [C W, Information]^
+QRZ\? |S1000 88 [Who is calling\?, 88]^
+359 |S1000 72 [3 5 9, 72]^
+88 |S1000 GN [88, Good night]^
+QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+LOOP |S1000 QRL\? [Loop, Are you busy\?]^
+GD |S1000 QRZ\? [Good, Who is calling\?]^
+CW |S1000 QRZ\? [C W, Who is calling\?]^
+489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+GN |S1000 NW [Good night, Now]^
+OCF |S1000 489 [Off-center fed dipole, 4 8 9]^
+QRZ\? |S1000 CW [Who is calling\?, C W]^
+72 |S1000 WATT [72, Watt]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+CW |S1000 LOOP [C W, Loop]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+QRZ\? |S1000 GB [Who is calling\?, Goodbye]^
+OCF |S1000 QRZ\? [Off-center fed dipole, Who is calling\?]^
+SSB |S1000 489 [Single Side Band, 4 8 9]^
+QRZ\? |S1000 LOOP [Who is calling\?, Loop]^
+QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
+CW |S1000 SSB [C W, Single Side Band]^
+QRZ\? |S1000 88 [Who is calling\?, 88]^
+NW |S1000 GN [Now, Good night]^
+479 |S1000 LOOP [4 7 9, Loop]^
+OCF |S1000 WATT [Off-center fed dipole, Watt]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+WIRE |S1000 QRZ\? [Wire, Who is calling\?]^
+88 |S1000 SSB [88, Single Side Band]^
+LOOP |S1000 88 [Loop, 88]^
+SSB |S1000 QRL\? [Single Side Band, Are you busy\?]^
+GD |S1000 WATT [Good, Watt]^
+QRZ\? |S1000 QRL\? [Who is calling\?, Are you busy\?]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+QRZ\? |S1000 GD [Who is calling\?, Good]^
+QRZ\? |S1000 72 [Who is calling\?, 72]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+WATT |S1000 GN [Watt, Good night]^
+WIRE |S1000 INFO [Wire, Information]^
+GD |S1000 OCF [Good, Off-center fed dipole]^
+88 |S1000 479 [88, 4 7 9]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+88 |S1000 QRZ\? [88, Who is calling\?]^
+WATT |S1000 QRZ\? [Watt, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+GD |S1000 72 [Good, 72]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+WATT |S1000 SSB [Watt, Single Side Band]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+SWR |S1000 WIRE [S W R, Wire]^
+QRZ\? |S1000 1TT [Who is calling\?, 100]^
+CW |S1000 QRZ\? [C W, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+OCF |S1000 INFO [Off-center fed dipole, Information]^
+QRZ\? |S1000 GD [Who is calling\?, Good]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
+72 |S1000 GN [72, Good night]^
+INFO |S1000 QRZ\? [Information, Who is calling\?]^
+WIRE |S1000 LOOP [Wire, Loop]^
+WIRE |S1000 1TT [Wire, 100]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+QRZ\? |S1000 GD [Who is calling\?, Good]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+QRZ\? |S1000 SSB [Who is calling\?, Single Side Band]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+GN |S1000 SSB [Good night, Single Side Band]^
+QRZ\? |S1000 72 [Who is calling\?, 72]^
+WATT |S1000 QRZ\? [Watt, Who is calling\?]^
+GB |S1000 WATT [Goodbye, Watt]^
+QRZ\? |S1000 SSB [Who is calling\?, Single Side Band]^
+QRZ\? |S1000 GB [Who is calling\?, Goodbye]^
+72 |S1000 CW [72, C W]^
+NW |S1000 1TT [Now, 100]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+INFO |S1000 WATT [Information, Watt]^
+QRZ\? |S1000 CW [Who is calling\?, C W]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+QRZ\? |S1000 88 [Who is calling\?, 88]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+WATT |S1000 QRZ\? [Watt, Who is calling\?]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+LOOP |S1000 GN [Loop, Good night]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+QRL\? |S1000 WATT [Are you busy\?, Watt]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+72 |S1000 WATT [72, Watt]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+WATT |S1000 1TT [Watt, 100]^
+NW |S1000 SWR [Now, S W R]^
+SSB |S1000 WATT [Single Side Band, Watt]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+GN |S1000 NW [Good night, Now]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+SWR |S1000 INFO [S W R, Information]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+INFO |S1000 SWR [Information, S W R]^
+359 |S1000 SWR [3 5 9, S W R]^
+GB |S1000 LOOP [Goodbye, Loop]^
+GD |S1000 QRZ\? [Good, Who is calling\?]^
+GB |S1000 72 [Goodbye, 72]^
+GN |S1000 SWR [Good night, S W R]^
+LOOP |S1000 88 [Loop, 88]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+OCF |S1000 LOOP [Off-center fed dipole, Loop]^
+QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
+INFO |S1000 QRZ\? [Information, Who is calling\?]^
+NW |S1000 489 [Now, 4 8 9]^
+SWR |S1000 QRZ\? [S W R, Who is calling\?]^
+INFO |S1000 QRZ\? [Information, Who is calling\?]^
+1TT |S1000 QRZ\? [100, Who is calling\?]^
+489 |S1000 GB [4 8 9, Goodbye]^
+OCF |S1000 LOOP [Off-center fed dipole, Loop]^
+SWR |S1000 GB [S W R, Goodbye]^
+QRZ\? |S1000 1TT [Who is calling\?, 100]^
+OCF |S1000 QRZ\? [Off-center fed dipole, Who is calling\?]^
+WATT |S1000 72 [Watt, 72]^
+QRZ\? |S1000 LOOP [Who is calling\?, Loop]^
+QRZ\? |S1000 GB [Who is calling\?, Goodbye]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
+NW |S1000 SWR [Now, S W R]^
+GD |S1000 88 [Good, 88]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+QRZ\? |S1000 QRL\? [Who is calling\?, Are you busy\?]^
+OCF |S1000 GB [Off-center fed dipole, Goodbye]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+88 |S1000 WIRE [88, Wire]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 72 [Who is calling\?, 72]^
+GD |S1000 QRZ\? [Good, Who is calling\?]^
+NW |S1000 CW [Now, C W]^
+NW |S1000 SSB [Now, Single Side Band]^
+SWR |S1000 GB [S W R, Goodbye]^
+489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
+NW |S1000 SWR [Now, S W R]^
+QRZ\? |S1000 QRL\? [Who is calling\?, Are you busy\?]^
+GD |S1000 INFO [Good, Information]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+QRL\? |S1000 88 [Are you busy\?, 88]^
+GD |S1000 359 [Good, 3 5 9]^
+489 |S1000 88 [4 8 9, 88]^
+QRZ\? |S1000 GD [Who is calling\?, Good]^
+INFO |S1000 QRZ\? [Information, Who is calling\?]^
+WIRE |S1000 QRZ\? [Wire, Who is calling\?]^
+OCF |S1000 359 [Off-center fed dipole, 3 5 9]^
+1TT |S1000 88 [100, 88]^
+QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+88 |S1000 QRZ\? [88, Who is calling\?]^
+OCF |S1000 QRZ\? [Off-center fed dipole, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+88 |S1000 QRZ\? [88, Who is calling\?]^
+SWR |S1000 QRZ\? [S W R, Who is calling\?]^
+359 |S1000 INFO [3 5 9, Information]^
+88 |S1000 WIRE [88, Wire]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+359 |S1000 WIRE [3 5 9, Wire]^
+QRZ\? |S1000 GD [Who is calling\?, Good]^
+QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+GD |S1000 QRZ\? [Good, Who is calling\?]^
+GN |S1000 489 [Good night, 4 8 9]^
+SSB |S1000 LOOP [Single Side Band, Loop]^
+QRZ\? |S1000 72 [Who is calling\?, 72]^
+QRL\? |S1000 GN [Are you busy\?, Good night]^
+NW |S1000 489 [Now, 4 8 9]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+WATT |S1000 LOOP [Watt, Loop]^
+489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+QRZ\? |S1000 1TT [Who is calling\?, 100]^
+QRZ\? |S1000 72 [Who is calling\?, 72]^
+1TT |S1000 QRZ\? [100, Who is calling\?]^
+INFO |S1000 GB [Information, Goodbye]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+QRZ\? |S1000 72 [Who is calling\?, 72]^
+WIRE |S1000 QRZ\? [Wire, Who is calling\?]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+GD |S1000 479 [Good, 4 7 9]^
+WATT |S1000 OCF [Watt, Off-center fed dipole]^
+QRZ\? |S1000 CW [Who is calling\?, C W]^
+88 |S1000 SWR [88, S W R]^
+QRZ\? |S1000 88 [Who is calling\?, 88]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+GN |S1000 CW [Good night, C W]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+QRZ\? |S1000 SSB [Who is calling\?, Single Side Band]^
+GB |S1000 NW [Goodbye, Now]^
+479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
+WATT |S1000 WIRE [Watt, Wire]^
+359 |S1000 72 [3 5 9, 72]^
+SSB |S1000 359 [Single Side Band, 3 5 9]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+72 |S1000 SSB [72, Single Side Band]^
+SWR |S1000 489 [S W R, 4 8 9]^
+WATT |S1000 479 [Watt, 4 7 9]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+88 |S1000 QRZ\? [88, Who is calling\?]^
+489 |S1000 GB [4 8 9, Goodbye]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+INFO |S1000 WIRE [Information, Wire]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+QRZ\? |S1000 1TT [Who is calling\?, 100]^
+QRZ\? |S1000 WIRE [Who is calling\?, Wire]^
+SWR |S1000 489 [S W R, 4 8 9]^
+QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
+QRZ\? |S1000 GB [Who is calling\?, Goodbye]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+LOOP |S1000 GN [Loop, Good night]^
+QRL\? |S1000 INFO [Are you busy\?, Information]^
+QRL\? |S1000 489 [Are you busy\?, 4 8 9]^
+CW |S1000 QRZ\? [C W, Who is calling\?]^
+88 |S1000 QRZ\? [88, Who is calling\?]^
+SWR |S1000 QRZ\? [S W R, Who is calling\?]^
+GN |S1000 WIRE [Good night, Wire]^
+489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
+SWR |S1000 OCF [S W R, Off-center fed dipole]^
+WATT |S1000 QRZ\? [Watt, Who is calling\?]^
+OCF |S1000 QRZ\? [Off-center fed dipole, Who is calling\?]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+489 |S1000 WIRE [4 8 9, Wire]^
+LOOP |S1000 QRZ\? [Loop, Who is calling\?]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+1TT |S1000 88 [100, 88]^
+359 |S1000 88 [3 5 9, 88]^
+GN |S1000 OCF [Good night, Off-center fed dipole]^
+489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
+INFO |S1000 GB [Information, Goodbye]^
+QRZ\? |S1000 GD [Who is calling\?, Good]^
+QRZ\? |S1000 CW [Who is calling\?, C W]^
+88 |S1000 GD [88, Good]^
+QRZ\? |S1000 LOOP [Who is calling\?, Loop]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+NW |S1000 CW [Now, C W]^
+QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
+WIRE |S1000 QRZ\? [Wire, Who is calling\?]^
+GD |S1000 QRZ\? [Good, Who is calling\?]^
+CW |S1000 SSB [C W, Single Side Band]^
+QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
+QRZ\? |S1000 1TT [Who is calling\?, 100]^
+QRZ\? |S1000 88 [Who is calling\?, 88]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+QRZ\? |S1000 QRL\? [Who is calling\?, Are you busy\?]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+88 |S1000 72 [88, 72]^
+WATT |S1000 LOOP [Watt, Loop]^
+GD |S1000 QRZ\? [Good, Who is calling\?]^
+GB |S1000 LOOP [Goodbye, Loop]^
+QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
+1TT |S1000 QRZ\? [100, Who is calling\?]^
+OCF |S1000 QRZ\? [Off-center fed dipole, Who is calling\?]^
+WIRE |S1000 WATT [Wire, Watt]^
+489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+LOOP |S1000 SSB [Loop, Single Side Band]^
+QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
+GN |S1000 LOOP [Good night, Loop]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+OCF |S1000 QRZ\? [Off-center fed dipole, Who is calling\?]^
+GB |S1000 88 [Goodbye, 88]^
+OCF |S1000 359 [Off-center fed dipole, 3 5 9]^
+QRZ\? |S1000 1TT [Who is calling\?, 100]^
+GD |S1000 SWR [Good, S W R]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+QRZ\? |S1000 WATT [Who is calling\?, Watt]^
+489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
+LOOP |S1000 QRZ\? [Loop, Who is calling\?]^
+LOOP |S1000 QRZ\? [Loop, Who is calling\?]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+489 |S1000 GD [4 8 9, Good]^
+1TT |S1000 QRZ\? [100, Who is calling\?]^
+359 |S1000 1TT [3 5 9, 100]^
+QRZ\? |S1000 LOOP [Who is calling\?, Loop]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+GN |S1000 QRZ\? [Good night, Who is calling\?]^
+WATT |S1000 QRZ\? [Watt, Who is calling\?]^
+GD |S1000 QRL\? [Good, Are you busy\?]^
+QRZ\? |S1000 NW [Who is calling\?, Now]^
+72 |S1000 479 [72, 4 7 9]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+479 |S1000 SWR [4 7 9, S W R]^
+QRZ\? |S1000 SWR [Who is calling\?, S W R]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+88 |S1000 QRZ\? [88, Who is calling\?]^
+WIRE |S1000 NW [Wire, Now]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+QRZ\? |S1000 72 [Who is calling\?, 72]^
+QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
+CW |S1000 88 [C W, 88]^
+GB |S1000 QRZ\? [Goodbye, Who is calling\?]^
+489 |S1000 479 [4 8 9, 4 7 9]^
+QRZ\? |S1000 72 [Who is calling\?, 72]^
+CW |S1000 SSB [C W, Single Side Band]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+QRZ\? |S1000 INFO [Who is calling\?, Information]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^
+WIRE |S1000 72 [Wire, 72]^
+QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
+WATT |S1000 QRZ\? [Watt, Who is calling\?]^
+NW |S1000 QRZ\? [Now, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+72 |S1000 QRZ\? [72, Who is calling\?]^
+GN |S1000 88 [Good night, 88]^
+359 |S1000 SSB [3 5 9, Single Side Band]^
+QRZ\? |S1000 CW [Who is calling\?, C W]^
+72 |S1000 GN [72, Good night]^
+LOOP |S1000 QRZ\? [Loop, Who is calling\?]^
+359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
+SWR |S1000 NW [S W R, Now]^
+WIRE |S1000 GD [Wire, Good]^
+SSB |S1000 GD [Single Side Band, Good]^
+NW |S1000 479 [Now, 4 7 9]^
+SSB |S1000 72 [Single Side Band, 72]^
+QRZ\? |S1000 GN [Who is calling\?, Good night]^

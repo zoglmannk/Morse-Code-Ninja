@@ -1,0 +1,600 @@
+WX [Weather]^
+UR [Your]^
+FER [For]^
+NR [Number]^
+TU [Thank you]^
+TEST [Contest]^
+WX [Weather]^
+QRM [Interference]^
+TU [Thank you]^
+73 [73]^
+QRM [Interference]^
+TEST [Contest]^
+QTH [Location]^
+73 [73]^
+UR [Your]^
+559 [5 5 9]^
+NR [Number]^
+WX [Weather]^
+HI HI [laughing]^
+NAME [Name]^
+CQ [C Q]^
+UR [Your]^
+QTH [Location]^
+UR [Your]^
+VY [Very]^
+QRM [Interference]^
+NAME [Name]^
+GE [Good evening]^
+TU [Thank you]^
+CQ [C Q]^
+UP [Up]^
+559 [5 5 9]^
+TU [Thank you]^
+NR [Number]^
+ES [And]^
+GM [Good morning]^
+73 [73]^
+QTH [Location]^
+GM [Good morning]^
+TEST [Contest]^
+AGN [Again]^
+5NN [5 N N]^
+VY [Very]^
+RST [R S T]^
+ES [And]^
+HI HI [laughing]^
+QRZ [Q R Zed]^
+AGN [Again]^
+GE [Good evening]^
+UP [Up]^
+559 [5 5 9]^
+TEST [Contest]^
+GM [Good morning]^
+QRM [Interference]^
+HI HI [laughing]^
+NR [Number]^
+NAME [Name]^
+NR [Number]^
+GE [Good evening]^
+VY [Very]^
+RST [R S T]^
+GA [Good afternoon]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+GA [Good afternoon]^
+599 [5 9 9]^
+TU [Thank you]^
+QRZ [Q R Zed]^
+NR [Number]^
+CQ [C Q]^
+FER [For]^
+QRM [Interference]^
+WX [Weather]^
+QTH [Location]^
+5NN [5 N N]^
+599 [5 9 9]^
+DE [From]^
+NR [Number]^
+GE [Good evening]^
+TEST [Contest]^
+AGN [Again]^
+FER [For]^
+GE [Good evening]^
+GM [Good morning]^
+UR [Your]^
+RST [R S T]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+GM [Good morning]^
+TEST [Contest]^
+NR [Number]^
+GM [Good morning]^
+DE [From]^
+GA [Good afternoon]^
+CQ [C Q]^
+NAME [Name]^
+RST [R S T]^
+5NN [5 N N]^
+NAME [Name]^
+WX [Weather]^
+DE [From]^
+5NN [5 N N]^
+RST [R S T]^
+QRZ [Q R Zed]^
+NR [Number]^
+5NN [5 N N]^
+UP [Up]^
+FER [For]^
+QRM [Interference]^
+TU [Thank you]^
+UP [Up]^
+NR [Number]^
+VY [Very]^
+QTH [Location]^
+73 [73]^
+WX [Weather]^
+CQ [C Q]^
+599 [5 9 9]^
+QRM [Interference]^
+QRZ [Q R Zed]^
+NR [Number]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+CQ [C Q]^
+AGN [Again]^
+UR [Your]^
+599 [5 9 9]^
+FER [For]^
+WX [Weather]^
+HI HI [laughing]^
+ES [And]^
+QRZ [Q R Zed]^
+RST [R S T]^
+TU [Thank you]^
+73 [73]^
+WX [Weather]^
+UP [Up]^
+TEST [Contest]^
+ES [And]^
+VY [Very]^
+TEST [Contest]^
+TU [Thank you]^
+RST [R S T]^
+GE [Good evening]^
+559 [5 5 9]^
+GE [Good evening]^
+CQ [C Q]^
+5NN [5 N N]^
+ES [And]^
+DE [From]^
+FER [For]^
+5NN [5 N N]^
+CQ [C Q]^
+NR [Number]^
+UR [Your]^
+559 [5 5 9]^
+599 [5 9 9]^
+TU [Thank you]^
+RST [R S T]^
+AGN [Again]^
+599 [5 9 9]^
+5NN [5 N N]^
+NR [Number]^
+TU [Thank you]^
+QRM [Interference]^
+73 [73]^
+GM [Good morning]^
+DE [From]^
+GM [Good morning]^
+NAME [Name]^
+ES [And]^
+GM [Good morning]^
+ES [And]^
+TU [Thank you]^
+RST [R S T]^
+UP [Up]^
+DE [From]^
+HI HI [laughing]^
+RST [R S T]^
+559 [5 5 9]^
+DE [From]^
+TU [Thank you]^
+RST [R S T]^
+ES [And]^
+AGN [Again]^
+559 [5 5 9]^
+QRM [Interference]^
+VY [Very]^
+GA [Good afternoon]^
+AGN [Again]^
+QTH [Location]^
+599 [5 9 9]^
+QRZ [Q R Zed]^
+VY [Very]^
+TU [Thank you]^
+QTH [Location]^
+GE [Good evening]^
+QTH [Location]^
+5NN [5 N N]^
+VY [Very]^
+RST [R S T]^
+NR [Number]^
+599 [5 9 9]^
+ES [And]^
+QRZ [Q R Zed]^
+RST [R S T]^
+GM [Good morning]^
+TEST [Contest]^
+QTH [Location]^
+UP [Up]^
+559 [5 5 9]^
+QRZ [Q R Zed]^
+TU [Thank you]^
+NAME [Name]^
+TEST [Contest]^
+DE [From]^
+VY [Very]^
+73 [73]^
+RST [R S T]^
+DE [From]^
+CQ [C Q]^
+QTH [Location]^
+ES [And]^
+AGN [Again]^
+NAME [Name]^
+TEST [Contest]^
+CQ [C Q]^
+DE [From]^
+CQ [C Q]^
+NAME [Name]^
+GM [Good morning]^
+QRM [Interference]^
+NR [Number]^
+RST [R S T]^
+NR [Number]^
+CQ [C Q]^
+UR [Your]^
+559 [5 5 9]^
+RST [R S T]^
+QTH [Location]^
+TEST [Contest]^
+HI HI [laughing]^
+5NN [5 N N]^
+QRM [Interference]^
+VY [Very]^
+NAME [Name]^
+NR [Number]^
+WX [Weather]^
+NR [Number]^
+AGN [Again]^
+UP [Up]^
+599 [5 9 9]^
+TU [Thank you]^
+AGN [Again]^
+NAME [Name]^
+QTH [Location]^
+AGN [Again]^
+QTH [Location]^
+UP [Up]^
+TEST [Contest]^
+73 [73]^
+TEST [Contest]^
+ES [And]^
+DE [From]^
+UP [Up]^
+5NN [5 N N]^
+GM [Good morning]^
+WX [Weather]^
+NAME [Name]^
+QRZ [Q R Zed]^
+ES [And]^
+QRZ [Q R Zed]^
+AGN [Again]^
+NR [Number]^
+NAME [Name]^
+VY [Very]^
+DE [From]^
+5NN [5 N N]^
+QRM [Interference]^
+NR [Number]^
+5NN [5 N N]^
+GA [Good afternoon]^
+UR [Your]^
+GA [Good afternoon]^
+TU [Thank you]^
+AGN [Again]^
+NR [Number]^
+GM [Good morning]^
+NAME [Name]^
+FER [For]^
+UP [Up]^
+HI HI [laughing]^
+559 [5 5 9]^
+RST [R S T]^
+5NN [5 N N]^
+QRZ [Q R Zed]^
+GM [Good morning]^
+QRZ [Q R Zed]^
+DE [From]^
+QRM [Interference]^
+GM [Good morning]^
+73 [73]^
+QRZ [Q R Zed]^
+QRM [Interference]^
+HI HI [laughing]^
+UP [Up]^
+QRM [Interference]^
+GM [Good morning]^
+VY [Very]^
+QRM [Interference]^
+FER [For]^
+WX [Weather]^
+RST [R S T]^
+TU [Thank you]^
+QRM [Interference]^
+GM [Good morning]^
+599 [5 9 9]^
+RST [R S T]^
+FER [For]^
+AGN [Again]^
+VY [Very]^
+UP [Up]^
+TEST [Contest]^
+TU [Thank you]^
+GM [Good morning]^
+FER [For]^
+DE [From]^
+GE [Good evening]^
+73 [73]^
+UP [Up]^
+RST [R S T]^
+GM [Good morning]^
+559 [5 5 9]^
+UP [Up]^
+5NN [5 N N]^
+CQ [C Q]^
+VY [Very]^
+RST [R S T]^
+5NN [5 N N]^
+HI HI [laughing]^
+5NN [5 N N]^
+599 [5 9 9]^
+UP [Up]^
+5NN [5 N N]^
+GE [Good evening]^
+GA [Good afternoon]^
+RST [R S T]^
+NAME [Name]^
+AGN [Again]^
+NR [Number]^
+WX [Weather]^
+TEST [Contest]^
+TU [Thank you]^
+WX [Weather]^
+QRZ [Q R Zed]^
+599 [5 9 9]^
+DE [From]^
+ES [And]^
+DE [From]^
+QRZ [Q R Zed]^
+TU [Thank you]^
+AGN [Again]^
+TU [Thank you]^
+FER [For]^
+5NN [5 N N]^
+599 [5 9 9]^
+DE [From]^
+NR [Number]^
+RST [R S T]^
+AGN [Again]^
+DE [From]^
+QRM [Interference]^
+GE [Good evening]^
+5NN [5 N N]^
+TEST [Contest]^
+DE [From]^
+ES [And]^
+DE [From]^
+UP [Up]^
+QTH [Location]^
+TEST [Contest]^
+TU [Thank you]^
+QRM [Interference]^
+NR [Number]^
+ES [And]^
+VY [Very]^
+HI HI [laughing]^
+RST [R S T]^
+GA [Good afternoon]^
+UP [Up]^
+AGN [Again]^
+GA [Good afternoon]^
+UR [Your]^
+HI HI [laughing]^
+AGN [Again]^
+QRM [Interference]^
+73 [73]^
+GE [Good evening]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+GA [Good afternoon]^
+QRM [Interference]^
+NAME [Name]^
+TEST [Contest]^
+UP [Up]^
+UR [Your]^
+599 [5 9 9]^
+QTH [Location]^
+CQ [C Q]^
+UP [Up]^
+599 [5 9 9]^
+NAME [Name]^
+QRM [Interference]^
+HI HI [laughing]^
+QTH [Location]^
+5NN [5 N N]^
+DE [From]^
+QRM [Interference]^
+QRZ [Q R Zed]^
+GM [Good morning]^
+TU [Thank you]^
+UP [Up]^
+HI HI [laughing]^
+QRM [Interference]^
+GM [Good morning]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+VY [Very]^
+HI HI [laughing]^
+UR [Your]^
+ES [And]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+ES [And]^
+TEST [Contest]^
+73 [73]^
+599 [5 9 9]^
+GA [Good afternoon]^
+NAME [Name]^
+VY [Very]^
+QRZ [Q R Zed]^
+QTH [Location]^
+RST [R S T]^
+TEST [Contest]^
+VY [Very]^
+QTH [Location]^
+AGN [Again]^
+QRZ [Q R Zed]^
+QTH [Location]^
+UR [Your]^
+VY [Very]^
+WX [Weather]^
+GA [Good afternoon]^
+UP [Up]^
+DE [From]^
+TU [Thank you]^
+QRM [Interference]^
+DE [From]^
+AGN [Again]^
+VY [Very]^
+CQ [C Q]^
+TEST [Contest]^
+5NN [5 N N]^
+ES [And]^
+GE [Good evening]^
+QTH [Location]^
+VY [Very]^
+TU [Thank you]^
+GM [Good morning]^
+FER [For]^
+AGN [Again]^
+VY [Very]^
+WX [Weather]^
+CQ [C Q]^
+559 [5 5 9]^
+5NN [5 N N]^
+559 [5 5 9]^
+TEST [Contest]^
+599 [5 9 9]^
+TU [Thank you]^
+ES [And]^
+AGN [Again]^
+UP [Up]^
+VY [Very]^
+GA [Good afternoon]^
+UR [Your]^
+599 [5 9 9]^
+QTH [Location]^
+UR [Your]^
+QRM [Interference]^
+UP [Up]^
+RST [R S T]^
+CQ [C Q]^
+559 [5 5 9]^
+HI HI [laughing]^
+TU [Thank you]^
+5NN [5 N N]^
+VY [Very]^
+DE [From]^
+FER [For]^
+AGN [Again]^
+WX [Weather]^
+GM [Good morning]^
+CQ [C Q]^
+73 [73]^
+GE [Good evening]^
+VY [Very]^
+WX [Weather]^
+CQ [C Q]^
+5NN [5 N N]^
+QRZ [Q R Zed]^
+HI HI [laughing]^
+NR [Number]^
+73 [73]^
+GE [Good evening]^
+QTH [Location]^
+73 [73]^
+AGN [Again]^
+RST [R S T]^
+599 [5 9 9]^
+GE [Good evening]^
+QRM [Interference]^
+TU [Thank you]^
+QRZ [Q R Zed]^
+RST [R S T]^
+73 [73]^
+AGN [Again]^
+QRM [Interference]^
+FER [For]^
+HI HI [laughing]^
+UR [Your]^
+559 [5 5 9]^
+73 [73]^
+NAME [Name]^
+73 [73]^
+599 [5 9 9]^
+GA [Good afternoon]^
+HI HI [laughing]^
+TEST [Contest]^
+AGN [Again]^
+UP [Up]^
+NAME [Name]^
+WX [Weather]^
+QRZ [Q R Zed]^
+QRM [Interference]^
+5NN [5 N N]^
+NAME [Name]^
+TU [Thank you]^
+AGN [Again]^
+GE [Good evening]^
+AGN [Again]^
+ES [And]^
+NAME [Name]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+QTH [Location]^
+AGN [Again]^
+TU [Thank you]^
+GE [Good evening]^
+FER [For]^
+5NN [5 N N]^
+GM [Good morning]^
+NR [Number]^
+RST [R S T]^
+TU [Thank you]^
+FER [For]^
+WX [Weather]^
+5NN [5 N N]^
+UR [Your]^
+VY [Very]^
+FER [For]^
+GA [Good afternoon]^
+5NN [5 N N]^
+TEST [Contest]^
+VY [Very]^
+DE [From]^
+ES [And]^
+TU [Thank you]^
+HI HI [laughing]^
+RST [R S T]^
+UR [Your]^
+UP [Up]^
+FER [For]^
+TU [Thank you]^
+TEST [Contest]^
+TU [Thank you]^
+559 [5 5 9]^
+QTH [Location]^
+QRM [Interference]^
+QTH [Location]^
+559 [5 5 9]^
+TU [Thank you]^
+TEST [Contest]^
+NAME [Name]^
+TEST [Contest]^
+WX [Weather]^
+599 [5 9 9]^
+UP [Up]^
+TEST [Contest]^
+UP [Up]^

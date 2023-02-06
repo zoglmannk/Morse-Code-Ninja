@@ -1,0 +1,600 @@
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+FB |S1000 BTU [Fine business, Back to you]^
+ANT |S1000 DX [Antenna, D X]^
+HPE |S1000 QRL [Hope, Busy]^
+CUL |S1000 FB [See you later, Fine business]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+BTU |S1000 SIG [Back to you, Signal]^
+BEAM |S1000 ANT [Beam, Antenna]^
+TNX |S1000 ANT [Thanks, Antenna]^
+DX |S1000 HPE [D X, Hope]^
+TNX |S1000 ANT [Thanks, Antenna]^
+HW |S1000 FB [How, Fine business]^
+QSB |S1000 DIPOLE [Fading, Dipole]^
+ANT |S1000 CPI [Antenna, Copy]^
+ANT |S1000 QRL [Antenna, Busy]^
+CPI |S1000 ANT [Copy, Antenna]^
+TNX |S1000 ANT [Thanks, Antenna]^
+SIG |S1000 BTU [Signal, Back to you]^
+FB |S1000 ANT [Fine business, Antenna]^
+QSB |S1000 CPI [Fading, Copy]^
+ANT |S1000 HPE [Antenna, Hope]^
+TNX |S1000 ANT [Thanks, Antenna]^
+SRI |S1000 SIG [Sorry, Signal]^
+ANT |S1000 QRL [Antenna, Busy]^
+ANT |S1000 CPI [Antenna, Copy]^
+TNX |S1000 SRI [Thanks, Sorry]^
+QSB |S1000 HPE [Fading, Hope]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+CPY |S1000 SRI [Copy, Sorry]^
+ANT |S1000 FB [Antenna, Fine business]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+SRI |S1000 ANT [Sorry, Antenna]^
+CPI |S1000 HPE [Copy, Hope]^
+ANT |S1000 CUL [Antenna, See you later]^
+HW |S1000 ANT [How, Antenna]^
+HPE |S1000 TNX [Hope, Thanks]^
+ANT |S1000 BEAM [Antenna, Beam]^
+TNX |S1000 ANT [Thanks, Antenna]^
+CPI |S1000 BTU [Copy, Back to you]^
+ANT |S1000 CUL [Antenna, See you later]^
+SIG |S1000 ANT [Signal, Antenna]^
+QRL |S1000 FB [Busy, Fine business]^
+HW |S1000 CPY [How, Copy]^
+BTU |S1000 ANT [Back to you, Antenna]^
+BTU |S1000 ANT [Back to you, Antenna]^
+CUL |S1000 QSB [See you later, Fading]^
+FB |S1000 CPI [Fine business, Copy]^
+QRL |S1000 ANT [Busy, Antenna]^
+TNX |S1000 HPE [Thanks, Hope]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+QSB |S1000 SRI [Fading, Sorry]^
+FB |S1000 CUL [Fine business, See you later]^
+ANT |S1000 QSB [Antenna, Fading]^
+ANT |S1000 HPE [Antenna, Hope]^
+DX |S1000 HW [D X, How]^
+SRI |S1000 ANT [Sorry, Antenna]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+ANT |S1000 QSB [Antenna, Fading]^
+ANT |S1000 FB [Antenna, Fine business]^
+ANT |S1000 HW [Antenna, How]^
+ANT |S1000 SRI [Antenna, Sorry]^
+ANT |S1000 CUL [Antenna, See you later]^
+TNX |S1000 HW [Thanks, How]^
+ANT |S1000 TNX [Antenna, Thanks]^
+CPI |S1000 ANT [Copy, Antenna]^
+SRI |S1000 ANT [Sorry, Antenna]^
+CPI |S1000 ANT [Copy, Antenna]^
+BEAM |S1000 CPY [Beam, Copy]^
+QSB |S1000 SRI [Fading, Sorry]^
+HPE |S1000 CPI [Hope, Copy]^
+QSB |S1000 CPI [Fading, Copy]^
+ANT |S1000 SRI [Antenna, Sorry]^
+ANT |S1000 TNX [Antenna, Thanks]^
+ANT |S1000 BEAM [Antenna, Beam]^
+ANT |S1000 QRL [Antenna, Busy]^
+QSB |S1000 FB [Fading, Fine business]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+SRI |S1000 HW [Sorry, How]^
+DX |S1000 HW [D X, How]^
+ANT |S1000 BTU [Antenna, Back to you]^
+FB |S1000 BEAM [Fine business, Beam]^
+ANT |S1000 SIG [Antenna, Signal]^
+ANT |S1000 FB [Antenna, Fine business]^
+HPE |S1000 QSB [Hope, Fading]^
+HPE |S1000 BTU [Hope, Back to you]^
+HW |S1000 ANT [How, Antenna]^
+FB |S1000 ANT [Fine business, Antenna]^
+TNX |S1000 SIG [Thanks, Signal]^
+ANT |S1000 SRI [Antenna, Sorry]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+CUL |S1000 HPE [See you later, Hope]^
+ANT |S1000 DX [Antenna, D X]^
+HW |S1000 ANT [How, Antenna]^
+HW |S1000 ANT [How, Antenna]^
+DX |S1000 BTU [D X, Back to you]^
+ANT |S1000 HW [Antenna, How]^
+QSB |S1000 BEAM [Fading, Beam]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+SRI |S1000 CPI [Sorry, Copy]^
+ANT |S1000 FB [Antenna, Fine business]^
+CUL |S1000 ANT [See you later, Antenna]^
+TNX |S1000 HW [Thanks, How]^
+SRI |S1000 ANT [Sorry, Antenna]^
+QRL |S1000 ANT [Busy, Antenna]^
+FB |S1000 ANT [Fine business, Antenna]^
+HW |S1000 ANT [How, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+QSB |S1000 ANT [Fading, Antenna]^
+CPI |S1000 BEAM [Copy, Beam]^
+HPE |S1000 ANT [Hope, Antenna]^
+CPI |S1000 SIG [Copy, Signal]^
+CPI |S1000 ANT [Copy, Antenna]^
+QSB |S1000 DIPOLE [Fading, Dipole]^
+ANT |S1000 QRL [Antenna, Busy]^
+BEAM |S1000 ANT [Beam, Antenna]^
+CUL |S1000 HW [See you later, How]^
+FB |S1000 CUL [Fine business, See you later]^
+ANT |S1000 CPY [Antenna, Copy]^
+ANT |S1000 FB [Antenna, Fine business]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+SIG |S1000 ANT [Signal, Antenna]^
+FB |S1000 QRL [Fine business, Busy]^
+ANT |S1000 SRI [Antenna, Sorry]^
+ANT |S1000 FB [Antenna, Fine business]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+ANT |S1000 BTU [Antenna, Back to you]^
+ANT |S1000 SIG [Antenna, Signal]^
+CPI |S1000 ANT [Copy, Antenna]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+ANT |S1000 DX [Antenna, D X]^
+ANT |S1000 BEAM [Antenna, Beam]^
+ANT |S1000 BTU [Antenna, Back to you]^
+CPY |S1000 ANT [Copy, Antenna]^
+BTU |S1000 ANT [Back to you, Antenna]^
+HW |S1000 HPE [How, Hope]^
+CPI |S1000 QRL [Copy, Busy]^
+CPY |S1000 QSB [Copy, Fading]^
+ANT |S1000 SRI [Antenna, Sorry]^
+TNX |S1000 ANT [Thanks, Antenna]^
+TNX |S1000 ANT [Thanks, Antenna]^
+FB |S1000 BEAM [Fine business, Beam]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+QRL |S1000 HPE [Busy, Hope]^
+ANT |S1000 SIG [Antenna, Signal]^
+HW |S1000 BTU [How, Back to you]^
+HPE |S1000 ANT [Hope, Antenna]^
+SIG |S1000 CPI [Signal, Copy]^
+SRI |S1000 ANT [Sorry, Antenna]^
+HW |S1000 QSB [How, Fading]^
+ANT |S1000 TNX [Antenna, Thanks]^
+CPY |S1000 ANT [Copy, Antenna]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+ANT |S1000 QRL [Antenna, Busy]^
+ANT |S1000 BTU [Antenna, Back to you]^
+HPE |S1000 ANT [Hope, Antenna]^
+QSB |S1000 HPE [Fading, Hope]^
+CUL |S1000 SIG [See you later, Signal]^
+CPI |S1000 HW [Copy, How]^
+CPY |S1000 ANT [Copy, Antenna]^
+BEAM |S1000 DX [Beam, D X]^
+ANT |S1000 BEAM [Antenna, Beam]^
+QSB |S1000 SRI [Fading, Sorry]^
+SIG |S1000 ANT [Signal, Antenna]^
+CPY |S1000 CPI [Copy, Copy]^
+ANT |S1000 QRL [Antenna, Busy]^
+SRI |S1000 FB [Sorry, Fine business]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+BTU |S1000 DX [Back to you, D X]^
+FB |S1000 ANT [Fine business, Antenna]^
+CUL |S1000 ANT [See you later, Antenna]^
+QSB |S1000 ANT [Fading, Antenna]^
+HW |S1000 ANT [How, Antenna]^
+SIG |S1000 ANT [Signal, Antenna]^
+CPI |S1000 QSB [Copy, Fading]^
+SRI |S1000 ANT [Sorry, Antenna]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+HW |S1000 CPI [How, Copy]^
+ANT |S1000 CPI [Antenna, Copy]^
+ANT |S1000 QSB [Antenna, Fading]^
+DIPOLE |S1000 HW [Dipole, How]^
+ANT |S1000 QRL [Antenna, Busy]^
+ANT |S1000 FB [Antenna, Fine business]^
+QSB |S1000 CUL [Fading, See you later]^
+ANT |S1000 BTU [Antenna, Back to you]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+FB |S1000 ANT [Fine business, Antenna]^
+QSB |S1000 DIPOLE [Fading, Dipole]^
+ANT |S1000 CPI [Antenna, Copy]^
+CUL |S1000 CPI [See you later, Copy]^
+ANT |S1000 SIG [Antenna, Signal]^
+BEAM |S1000 HW [Beam, How]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+QSB |S1000 ANT [Fading, Antenna]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+HPE |S1000 ANT [Hope, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+CPY |S1000 ANT [Copy, Antenna]^
+HW |S1000 DIPOLE [How, Dipole]^
+DX |S1000 CPI [D X, Copy]^
+CUL |S1000 ANT [See you later, Antenna]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+QRL |S1000 ANT [Busy, Antenna]^
+SRI |S1000 QSB [Sorry, Fading]^
+ANT |S1000 QSB [Antenna, Fading]^
+HPE |S1000 TNX [Hope, Thanks]^
+SRI |S1000 ANT [Sorry, Antenna]^
+CPY |S1000 ANT [Copy, Antenna]^
+FB |S1000 CUL [Fine business, See you later]^
+DX |S1000 HPE [D X, Hope]^
+TNX |S1000 CPI [Thanks, Copy]^
+ANT |S1000 CPI [Antenna, Copy]^
+DX |S1000 QRL [D X, Busy]^
+ANT |S1000 CUL [Antenna, See you later]^
+QRL |S1000 ANT [Busy, Antenna]^
+SIG |S1000 CUL [Signal, See you later]^
+HW |S1000 BTU [How, Back to you]^
+DX |S1000 HW [D X, How]^
+SIG |S1000 ANT [Signal, Antenna]^
+QSB |S1000 SIG [Fading, Signal]^
+ANT |S1000 HW [Antenna, How]^
+ANT |S1000 QRL [Antenna, Busy]^
+HW |S1000 SIG [How, Signal]^
+HW |S1000 ANT [How, Antenna]^
+CPY |S1000 HW [Copy, How]^
+ANT |S1000 BEAM [Antenna, Beam]^
+FB |S1000 BTU [Fine business, Back to you]^
+CUL |S1000 BEAM [See you later, Beam]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BEAM |S1000 ANT [Beam, Antenna]^
+SRI |S1000 ANT [Sorry, Antenna]^
+DX |S1000 BEAM [D X, Beam]^
+DX |S1000 CPY [D X, Copy]^
+ANT |S1000 DX [Antenna, D X]^
+TNX |S1000 ANT [Thanks, Antenna]^
+CPY |S1000 QRL [Copy, Busy]^
+HPE |S1000 TNX [Hope, Thanks]^
+ANT |S1000 SRI [Antenna, Sorry]^
+ANT |S1000 HW [Antenna, How]^
+HPE |S1000 QRL [Hope, Busy]^
+ANT |S1000 CPY [Antenna, Copy]^
+SIG |S1000 ANT [Signal, Antenna]^
+DIPOLE |S1000 QSB [Dipole, Fading]^
+ANT |S1000 DX [Antenna, D X]^
+SRI |S1000 ANT [Sorry, Antenna]^
+CPI |S1000 TNX [Copy, Thanks]^
+QRL |S1000 FB [Busy, Fine business]^
+ANT |S1000 BTU [Antenna, Back to you]^
+CPY |S1000 HPE [Copy, Hope]^
+QSB |S1000 DX [Fading, D X]^
+ANT |S1000 QSB [Antenna, Fading]^
+SRI |S1000 FB [Sorry, Fine business]^
+ANT |S1000 SRI [Antenna, Sorry]^
+QSB |S1000 ANT [Fading, Antenna]^
+BTU |S1000 BEAM [Back to you, Beam]^
+SIG |S1000 ANT [Signal, Antenna]^
+QRL |S1000 FB [Busy, Fine business]^
+SRI |S1000 QRL [Sorry, Busy]^
+ANT |S1000 BEAM [Antenna, Beam]^
+BTU |S1000 DX [Back to you, D X]^
+ANT |S1000 QRL [Antenna, Busy]^
+CPY |S1000 HW [Copy, How]^
+HPE |S1000 ANT [Hope, Antenna]^
+QRL |S1000 FB [Busy, Fine business]^
+CPI |S1000 ANT [Copy, Antenna]^
+CPY |S1000 CUL [Copy, See you later]^
+ANT |S1000 QRL [Antenna, Busy]^
+ANT |S1000 BEAM [Antenna, Beam]^
+BTU |S1000 BEAM [Back to you, Beam]^
+QRL |S1000 DX [Busy, D X]^
+QRL |S1000 ANT [Busy, Antenna]^
+CUL |S1000 CPY [See you later, Copy]^
+FB |S1000 TNX [Fine business, Thanks]^
+ANT |S1000 CPY [Antenna, Copy]^
+ANT |S1000 BTU [Antenna, Back to you]^
+ANT |S1000 BEAM [Antenna, Beam]^
+ANT |S1000 CPI [Antenna, Copy]^
+FB |S1000 ANT [Fine business, Antenna]^
+DIPOLE |S1000 DX [Dipole, D X]^
+QSB |S1000 ANT [Fading, Antenna]^
+CPI |S1000 ANT [Copy, Antenna]^
+SIG |S1000 ANT [Signal, Antenna]^
+HW |S1000 SIG [How, Signal]^
+CUL |S1000 HPE [See you later, Hope]^
+ANT |S1000 DX [Antenna, D X]^
+TNX |S1000 ANT [Thanks, Antenna]^
+TNX |S1000 ANT [Thanks, Antenna]^
+HW |S1000 FB [How, Fine business]^
+ANT |S1000 CPY [Antenna, Copy]^
+ANT |S1000 BTU [Antenna, Back to you]^
+ANT |S1000 HPE [Antenna, Hope]^
+ANT |S1000 HPE [Antenna, Hope]^
+ANT |S1000 CUL [Antenna, See you later]^
+ANT |S1000 QSB [Antenna, Fading]^
+HPE |S1000 DX [Hope, D X]^
+ANT |S1000 SIG [Antenna, Signal]^
+CPY |S1000 BTU [Copy, Back to you]^
+ANT |S1000 QSB [Antenna, Fading]^
+QRL |S1000 DX [Busy, D X]^
+CPY |S1000 HW [Copy, How]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+ANT |S1000 BEAM [Antenna, Beam]^
+HPE |S1000 ANT [Hope, Antenna]^
+CPI |S1000 TNX [Copy, Thanks]^
+ANT |S1000 BEAM [Antenna, Beam]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+ANT |S1000 SIG [Antenna, Signal]^
+ANT |S1000 CPY [Antenna, Copy]^
+BTU |S1000 ANT [Back to you, Antenna]^
+CPI |S1000 CUL [Copy, See you later]^
+CPY |S1000 ANT [Copy, Antenna]^
+SRI |S1000 ANT [Sorry, Antenna]^
+SIG |S1000 ANT [Signal, Antenna]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+TNX |S1000 FB [Thanks, Fine business]^
+TNX |S1000 ANT [Thanks, Antenna]^
+CPY |S1000 ANT [Copy, Antenna]^
+FB |S1000 ANT [Fine business, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+HW |S1000 ANT [How, Antenna]^
+QSB |S1000 DX [Fading, D X]^
+ANT |S1000 DX [Antenna, D X]^
+ANT |S1000 BTU [Antenna, Back to you]^
+ANT |S1000 SRI [Antenna, Sorry]^
+ANT |S1000 QRL [Antenna, Busy]^
+BEAM |S1000 QRL [Beam, Busy]^
+SIG |S1000 ANT [Signal, Antenna]^
+HW |S1000 ANT [How, Antenna]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+HPE |S1000 ANT [Hope, Antenna]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+ANT |S1000 QSB [Antenna, Fading]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+SRI |S1000 ANT [Sorry, Antenna]^
+QSB |S1000 DX [Fading, D X]^
+BTU |S1000 ANT [Back to you, Antenna]^
+SIG |S1000 ANT [Signal, Antenna]^
+FB |S1000 ANT [Fine business, Antenna]^
+HPE |S1000 BEAM [Hope, Beam]^
+HPE |S1000 ANT [Hope, Antenna]^
+DX |S1000 TNX [D X, Thanks]^
+ANT |S1000 SIG [Antenna, Signal]^
+CUL |S1000 ANT [See you later, Antenna]^
+HW |S1000 ANT [How, Antenna]^
+CPY |S1000 QRL [Copy, Busy]^
+CUL |S1000 ANT [See you later, Antenna]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+QSB |S1000 ANT [Fading, Antenna]^
+SIG |S1000 DX [Signal, D X]^
+ANT |S1000 DX [Antenna, D X]^
+BEAM |S1000 ANT [Beam, Antenna]^
+CPY |S1000 ANT [Copy, Antenna]^
+QSB |S1000 SRI [Fading, Sorry]^
+ANT |S1000 DX [Antenna, D X]^
+ANT |S1000 FB [Antenna, Fine business]^
+HPE |S1000 ANT [Hope, Antenna]^
+HPE |S1000 CPI [Hope, Copy]^
+QSB |S1000 DIPOLE [Fading, Dipole]^
+CPI |S1000 ANT [Copy, Antenna]^
+CPI |S1000 ANT [Copy, Antenna]^
+BEAM |S1000 CPI [Beam, Copy]^
+TNX |S1000 QRL [Thanks, Busy]^
+ANT |S1000 BEAM [Antenna, Beam]^
+FB |S1000 ANT [Fine business, Antenna]^
+HW |S1000 ANT [How, Antenna]^
+CUL |S1000 TNX [See you later, Thanks]^
+ANT |S1000 SRI [Antenna, Sorry]^
+ANT |S1000 QSB [Antenna, Fading]^
+ANT |S1000 CPY [Antenna, Copy]^
+CUL |S1000 ANT [See you later, Antenna]^
+FB |S1000 BEAM [Fine business, Beam]^
+SRI |S1000 ANT [Sorry, Antenna]^
+FB |S1000 ANT [Fine business, Antenna]^
+HPE |S1000 ANT [Hope, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+CUL |S1000 HW [See you later, How]^
+CPY |S1000 CUL [Copy, See you later]^
+HW |S1000 ANT [How, Antenna]^
+CPI |S1000 BTU [Copy, Back to you]^
+CUL |S1000 SRI [See you later, Sorry]^
+DX |S1000 HW [D X, How]^
+ANT |S1000 CUL [Antenna, See you later]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+ANT |S1000 CPI [Antenna, Copy]^
+QSB |S1000 ANT [Fading, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+BTU |S1000 DX [Back to you, D X]^
+CUL |S1000 ANT [See you later, Antenna]^
+QSB |S1000 ANT [Fading, Antenna]^
+TNX |S1000 ANT [Thanks, Antenna]^
+SIG |S1000 CPI [Signal, Copy]^
+DX |S1000 ANT [D X, Antenna]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+ANT |S1000 FB [Antenna, Fine business]^
+CPY |S1000 SIG [Copy, Signal]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+ANT |S1000 SIG [Antenna, Signal]^
+HW |S1000 ANT [How, Antenna]^
+BEAM |S1000 CPY [Beam, Copy]^
+ANT |S1000 FB [Antenna, Fine business]^
+ANT |S1000 CUL [Antenna, See you later]^
+QSB |S1000 CPI [Fading, Copy]^
+HPE |S1000 QRL [Hope, Busy]^
+SRI |S1000 ANT [Sorry, Antenna]^
+QSB |S1000 BEAM [Fading, Beam]^
+DX |S1000 ANT [D X, Antenna]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+CUL |S1000 ANT [See you later, Antenna]^
+SRI |S1000 ANT [Sorry, Antenna]^
+CPY |S1000 ANT [Copy, Antenna]^
+CUL |S1000 ANT [See you later, Antenna]^
+FB |S1000 QSB [Fine business, Fading]^
+ANT |S1000 HPE [Antenna, Hope]^
+BEAM |S1000 ANT [Beam, Antenna]^
+DX |S1000 CPY [D X, Copy]^
+QSB |S1000 DIPOLE [Fading, Dipole]^
+FB |S1000 SIG [Fine business, Signal]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+QSB |S1000 HPE [Fading, Hope]^
+CPI |S1000 ANT [Copy, Antenna]^
+QSB |S1000 SIG [Fading, Signal]^
+ANT |S1000 HW [Antenna, How]^
+ANT |S1000 HPE [Antenna, Hope]^
+CPY |S1000 SRI [Copy, Sorry]^
+ANT |S1000 CUL [Antenna, See you later]^
+TNX |S1000 ANT [Thanks, Antenna]^
+CUL |S1000 CPY [See you later, Copy]^
+DX |S1000 ANT [D X, Antenna]^
+TNX |S1000 ANT [Thanks, Antenna]^
+QRL |S1000 QSB [Busy, Fading]^
+SRI |S1000 ANT [Sorry, Antenna]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+ANT |S1000 BTU [Antenna, Back to you]^
+QSB |S1000 CPY [Fading, Copy]^
+ANT |S1000 QRL [Antenna, Busy]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+FB |S1000 HW [Fine business, How]^
+SRI |S1000 ANT [Sorry, Antenna]^
+BEAM |S1000 QRL [Beam, Busy]^
+CPY |S1000 ANT [Copy, Antenna]^
+CPY |S1000 ANT [Copy, Antenna]^
+TNX |S1000 HPE [Thanks, Hope]^
+TNX |S1000 QRL [Thanks, Busy]^
+ANT |S1000 SRI [Antenna, Sorry]^
+SIG |S1000 ANT [Signal, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+CPY |S1000 ANT [Copy, Antenna]^
+QRL |S1000 ANT [Busy, Antenna]^
+BEAM |S1000 TNX [Beam, Thanks]^
+SIG |S1000 ANT [Signal, Antenna]^
+DX |S1000 BTU [D X, Back to you]^
+ANT |S1000 CPY [Antenna, Copy]^
+HW |S1000 DIPOLE [How, Dipole]^
+ANT |S1000 FB [Antenna, Fine business]^
+ANT |S1000 TNX [Antenna, Thanks]^
+QRL |S1000 ANT [Busy, Antenna]^
+CPY |S1000 ANT [Copy, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+SIG |S1000 ANT [Signal, Antenna]^
+CUL |S1000 SIG [See you later, Signal]^
+ANT |S1000 BTU [Antenna, Back to you]^
+CUL |S1000 SRI [See you later, Sorry]^
+FB |S1000 CUL [Fine business, See you later]^
+ANT |S1000 QRL [Antenna, Busy]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+SRI |S1000 ANT [Sorry, Antenna]^
+QRL |S1000 CPY [Busy, Copy]^
+ANT |S1000 FB [Antenna, Fine business]^
+BTU |S1000 ANT [Back to you, Antenna]^
+SRI |S1000 ANT [Sorry, Antenna]^
+SRI |S1000 ANT [Sorry, Antenna]^
+QSB |S1000 ANT [Fading, Antenna]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+HPE |S1000 SIG [Hope, Signal]^
+CUL |S1000 ANT [See you later, Antenna]^
+HPE |S1000 SRI [Hope, Sorry]^
+SIG |S1000 BTU [Signal, Back to you]^
+ANT |S1000 FB [Antenna, Fine business]^
+SRI |S1000 ANT [Sorry, Antenna]^
+BTU |S1000 ANT [Back to you, Antenna]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+HPE |S1000 ANT [Hope, Antenna]^
+DX |S1000 SRI [D X, Sorry]^
+CPI |S1000 ANT [Copy, Antenna]^
+BTU |S1000 CPI [Back to you, Copy]^
+BTU |S1000 SRI [Back to you, Sorry]^
+ANT |S1000 FB [Antenna, Fine business]^
+ANT |S1000 QRL [Antenna, Busy]^
+CPY |S1000 ANT [Copy, Antenna]^
+HW |S1000 TNX [How, Thanks]^
+ANT |S1000 HW [Antenna, How]^
+FB |S1000 DX [Fine business, D X]^
+QRL |S1000 ANT [Busy, Antenna]^
+CPY |S1000 BEAM [Copy, Beam]^
+CPY |S1000 ANT [Copy, Antenna]^
+HPE |S1000 ANT [Hope, Antenna]^
+SRI |S1000 DX [Sorry, D X]^
+ANT |S1000 TNX [Antenna, Thanks]^
+FB |S1000 ANT [Fine business, Antenna]^
+QRL |S1000 ANT [Busy, Antenna]^
+TNX |S1000 ANT [Thanks, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+SRI |S1000 QRL [Sorry, Busy]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+ANT |S1000 CPI [Antenna, Copy]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+ANT |S1000 HW [Antenna, How]^
+ANT |S1000 CUL [Antenna, See you later]^
+BEAM |S1000 FB [Beam, Fine business]^
+ANT |S1000 QRL [Antenna, Busy]^
+QSB |S1000 ANT [Fading, Antenna]^
+QRL |S1000 TNX [Busy, Thanks]^
+ANT |S1000 BEAM [Antenna, Beam]^
+ANT |S1000 QSB [Antenna, Fading]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+QRL |S1000 CPY [Busy, Copy]^
+ANT |S1000 CUL [Antenna, See you later]^
+CPY |S1000 ANT [Copy, Antenna]^
+BTU |S1000 CUL [Back to you, See you later]^
+DX |S1000 SIG [D X, Signal]^
+ANT |S1000 QRL [Antenna, Busy]^
+CUL |S1000 HPE [See you later, Hope]^
+CUL |S1000 ANT [See you later, Antenna]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+HW |S1000 BEAM [How, Beam]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+ANT |S1000 HW [Antenna, How]^
+ANT |S1000 HW [Antenna, How]^
+ANT |S1000 QRL [Antenna, Busy]^
+ANT |S1000 CUL [Antenna, See you later]^
+BTU |S1000 HPE [Back to you, Hope]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+TNX |S1000 HW [Thanks, How]^
+ANT |S1000 DX [Antenna, D X]^
+ANT |S1000 CUL [Antenna, See you later]^
+HPE |S1000 HW [Hope, How]^
+HPE |S1000 ANT [Hope, Antenna]^
+QRL |S1000 HW [Busy, How]^
+TNX |S1000 ANT [Thanks, Antenna]^
+TNX |S1000 SIG [Thanks, Signal]^
+CUL |S1000 ANT [See you later, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+SRI |S1000 ANT [Sorry, Antenna]^
+TNX |S1000 QSB [Thanks, Fading]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+DX |S1000 CPY [D X, Copy]^
+HW |S1000 BTU [How, Back to you]^
+HPE |S1000 ANT [Hope, Antenna]^
+CUL |S1000 ANT [See you later, Antenna]^
+CPY |S1000 ANT [Copy, Antenna]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+ANT |S1000 CPI [Antenna, Copy]^
+DX |S1000 DIPOLE [D X, Dipole]^
+CPY |S1000 ANT [Copy, Antenna]^
+CUL |S1000 ANT [See you later, Antenna]^
+CPI |S1000 QRL [Copy, Busy]^
+ANT |S1000 DX [Antenna, D X]^
+QSB |S1000 TNX [Fading, Thanks]^
+BTU |S1000 ANT [Back to you, Antenna]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+QRL |S1000 ANT [Busy, Antenna]^
+CUL |S1000 QSB [See you later, Fading]^
+BTU |S1000 CUL [Back to you, See you later]^
+ANT |S1000 CUL [Antenna, See you later]^
+ANT |S1000 BTU [Antenna, Back to you]^
+FB |S1000 ANT [Fine business, Antenna]^
+SRI |S1000 QRL [Sorry, Busy]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+QRL |S1000 SIG [Busy, Signal]^
+ANT |S1000 QRL [Antenna, Busy]^
+ANT |S1000 HPE [Antenna, Hope]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+QSB |S1000 ANT [Fading, Antenna]^
+SIG |S1000 ANT [Signal, Antenna]^
+CUL |S1000 ANT [See you later, Antenna]^
+HPE |S1000 SRI [Hope, Sorry]^
+QSB |S1000 SRI [Fading, Sorry]^
+QRL |S1000 CPY [Busy, Copy]^
+BTU |S1000 CPY [Back to you, Copy]^
+CPI |S1000 BTU [Copy, Back to you]^
+FB |S1000 CPY [Fine business, Copy]^
+SIG |S1000 HPE [Signal, Hope]^
+CPI |S1000 DX [Copy, D X]^
+DIPOLE |S1000 QSB [Dipole, Fading]^
+ANT |S1000 TNX [Antenna, Thanks]^
+DX |S1000 ANT [D X, Antenna]^
+DX |S1000 ANT [D X, Antenna]^
+SIG |S1000 DX [Signal, D X]^
+BTU |S1000 QRL [Back to you, Busy]^
+ANT |S1000 CPI [Antenna, Copy]^
+ANT |S1000 SIG [Antenna, Signal]^
+QRL |S1000 ANT [Busy, Antenna]^
+CPY |S1000 SRI [Copy, Sorry]^
+ANT |S1000 SIG [Antenna, Signal]^
+BTU |S1000 ANT [Back to you, Antenna]^
+CPI |S1000 ANT [Copy, Antenna]^
+TNX |S1000 ANT [Thanks, Antenna]^
+CPY |S1000 TNX [Copy, Thanks]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^

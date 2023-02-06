@@ -1,0 +1,600 @@
+QSB |S1000 FB [Fading, Fine business]^
+QSB |S1000 BTU [Fading, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+QSB |S1000 FB [Fading, Fine business]^
+BTU |S1000 HW [Back to you, How]^
+SRI |S1000 QSB [Sorry, Fading]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BTU |S1000 TNX [Back to you, Thanks]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 TNX [Fine business, Thanks]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 BTU [Fine business, Back to you]^
+HW |S1000 QSB [How, Fading]^
+SRI |S1000 BTU [Sorry, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+FB |S1000 CPY [Fine business, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 CPY [Back to you, Copy]^
+SRI |S1000 QSB [Sorry, Fading]^
+HW |S1000 BTU [How, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+HW |S1000 CPY [How, Copy]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BTU |S1000 FB [Back to you, Fine business]^
+SRI |S1000 HW [Sorry, How]^
+SRI |S1000 CPY [Sorry, Copy]^
+TNX |S1000 BTU [Thanks, Back to you]^
+TNX |S1000 FB [Thanks, Fine business]^
+TNX |S1000 CPY [Thanks, Copy]^
+FB |S1000 BTU [Fine business, Back to you]^
+FB |S1000 HW [Fine business, How]^
+QSB |S1000 BTU [Fading, Back to you]^
+SRI |S1000 TNX [Sorry, Thanks]^
+SRI |S1000 BTU [Sorry, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+QSB |S1000 TNX [Fading, Thanks]^
+FB |S1000 QSB [Fine business, Fading]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 CPY [Back to you, Copy]^
+HW |S1000 BTU [How, Back to you]^
+QSB |S1000 SRI [Fading, Sorry]^
+FB |S1000 HW [Fine business, How]^
+FB |S1000 BTU [Fine business, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+CPY |S1000 QSB [Copy, Fading]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 QSB [Back to you, Fading]^
+FB |S1000 CPY [Fine business, Copy]^
+FB |S1000 BTU [Fine business, Back to you]^
+SRI |S1000 HW [Sorry, How]^
+TNX |S1000 QSB [Thanks, Fading]^
+BTU |S1000 SRI [Back to you, Sorry]^
+TNX |S1000 FB [Thanks, Fine business]^
+QSB |S1000 FB [Fading, Fine business]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 CPY [Back to you, Copy]^
+HW |S1000 BTU [How, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+FB |S1000 HW [Fine business, How]^
+FB |S1000 BTU [Fine business, Back to you]^
+FB |S1000 CPY [Fine business, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+QSB |S1000 BTU [Fading, Back to you]^
+FB |S1000 QSB [Fine business, Fading]^
+HW |S1000 FB [How, Fine business]^
+HW |S1000 BTU [How, Back to you]^
+QSB |S1000 SRI [Fading, Sorry]^
+CPY |S1000 BTU [Copy, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+CPY |S1000 HW [Copy, How]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 BTU [Copy, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+HW |S1000 SRI [How, Sorry]^
+HW |S1000 BTU [How, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+FB |S1000 TNX [Fine business, Thanks]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 CPY [Back to you, Copy]^
+SRI |S1000 FB [Sorry, Fine business]^
+CPY |S1000 BTU [Copy, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+QSB |S1000 CPY [Fading, Copy]^
+SRI |S1000 HW [Sorry, How]^
+BTU |S1000 FB [Back to you, Fine business]^
+TNX |S1000 HW [Thanks, How]^
+SRI |S1000 BTU [Sorry, Back to you]^
+FB |S1000 TNX [Fine business, Thanks]^
+QSB |S1000 BTU [Fading, Back to you]^
+SRI |S1000 CPY [Sorry, Copy]^
+BTU |S1000 CPY [Back to you, Copy]^
+QSB |S1000 TNX [Fading, Thanks]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 HW [Fine business, How]^
+BTU |S1000 CPY [Back to you, Copy]^
+FB |S1000 QSB [Fine business, Fading]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 QSB [Back to you, Fading]^
+HW |S1000 BTU [How, Back to you]^
+FB |S1000 QSB [Fine business, Fading]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+BTU |S1000 QSB [Back to you, Fading]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 BTU [Fine business, Back to you]^
+FB |S1000 HW [Fine business, How]^
+CPY |S1000 QSB [Copy, Fading]^
+HW |S1000 TNX [How, Thanks]^
+BTU |S1000 QSB [Back to you, Fading]^
+CPY |S1000 HW [Copy, How]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 SRI [Back to you, Sorry]^
+HW |S1000 TNX [How, Thanks]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BTU |S1000 CPY [Back to you, Copy]^
+TNX |S1000 BTU [Thanks, Back to you]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 QSB [Sorry, Fading]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 SRI [Back to you, Sorry]^
+HW |S1000 FB [How, Fine business]^
+TNX |S1000 QSB [Thanks, Fading]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 SRI [Back to you, Sorry]^
+FB |S1000 QSB [Fine business, Fading]^
+HW |S1000 TNX [How, Thanks]^
+QSB |S1000 BTU [Fading, Back to you]^
+CPY |S1000 FB [Copy, Fine business]^
+SRI |S1000 BTU [Sorry, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+HW |S1000 CPY [How, Copy]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 TNX [Back to you, Thanks]^
+QSB |S1000 HW [Fading, How]^
+FB |S1000 BTU [Fine business, Back to you]^
+FB |S1000 QSB [Fine business, Fading]^
+BTU |S1000 HW [Back to you, How]^
+TNX |S1000 HW [Thanks, How]^
+SRI |S1000 BTU [Sorry, Back to you]^
+QSB |S1000 FB [Fading, Fine business]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 TNX [Back to you, Thanks]^
+FB |S1000 SRI [Fine business, Sorry]^
+CPY |S1000 BTU [Copy, Back to you]^
+TNX |S1000 QSB [Thanks, Fading]^
+BTU |S1000 CPY [Back to you, Copy]^
+TNX |S1000 BTU [Thanks, Back to you]^
+SRI |S1000 TNX [Sorry, Thanks]^
+QSB |S1000 BTU [Fading, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+SRI |S1000 TNX [Sorry, Thanks]^
+FB |S1000 BTU [Fine business, Back to you]^
+TNX |S1000 CPY [Thanks, Copy]^
+HW |S1000 BTU [How, Back to you]^
+TNX |S1000 FB [Thanks, Fine business]^
+TNX |S1000 BTU [Thanks, Back to you]^
+CPY |S1000 TNX [Copy, Thanks]^
+BTU |S1000 QSB [Back to you, Fading]^
+HW |S1000 BTU [How, Back to you]^
+FB |S1000 CPY [Fine business, Copy]^
+BTU |S1000 HW [Back to you, How]^
+FB |S1000 BTU [Fine business, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+CPY |S1000 BTU [Copy, Back to you]^
+TNX |S1000 FB [Thanks, Fine business]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 HW [Back to you, How]^
+CPY |S1000 BTU [Copy, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+CPY |S1000 FB [Copy, Fine business]^
+TNX |S1000 BTU [Thanks, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+HW |S1000 FB [How, Fine business]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+BTU |S1000 FB [Back to you, Fine business]^
+SRI |S1000 BTU [Sorry, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+FB |S1000 TNX [Fine business, Thanks]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 BTU [Copy, Back to you]^
+SRI |S1000 TNX [Sorry, Thanks]^
+FB |S1000 BTU [Fine business, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+FB |S1000 HW [Fine business, How]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 FB [Back to you, Fine business]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 BTU [Sorry, Back to you]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 SRI [Fine business, Sorry]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 TNX [Back to you, Thanks]^
+HW |S1000 TNX [How, Thanks]^
+QSB |S1000 HW [Fading, How]^
+SRI |S1000 BTU [Sorry, Back to you]^
+QSB |S1000 HW [Fading, How]^
+CPY |S1000 BTU [Copy, Back to you]^
+FB |S1000 QSB [Fine business, Fading]^
+CPY |S1000 BTU [Copy, Back to you]^
+HW |S1000 SRI [How, Sorry]^
+BTU |S1000 FB [Back to you, Fine business]^
+QSB |S1000 HW [Fading, How]^
+FB |S1000 BTU [Fine business, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+SRI |S1000 QSB [Sorry, Fading]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 QSB [Copy, Fading]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 CPY [Fading, Copy]^
+BTU |S1000 HW [Back to you, How]^
+FB |S1000 CPY [Fine business, Copy]^
+FB |S1000 TNX [Fine business, Thanks]^
+BTU |S1000 SRI [Back to you, Sorry]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 QSB [Thanks, Fading]^
+TNX |S1000 QSB [Thanks, Fading]^
+CPY |S1000 HW [Copy, How]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 SRI [Back to you, Sorry]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 QSB [Copy, Fading]^
+TNX |S1000 BTU [Thanks, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+TNX |S1000 FB [Thanks, Fine business]^
+TNX |S1000 HW [Thanks, How]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 QSB [Back to you, Fading]^
+FB |S1000 BTU [Fine business, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+CPY |S1000 BTU [Copy, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+CPY |S1000 TNX [Copy, Thanks]^
+FB |S1000 BTU [Fine business, Back to you]^
+TNX |S1000 FB [Thanks, Fine business]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 TNX [Back to you, Thanks]^
+CPY |S1000 FB [Copy, Fine business]^
+BTU |S1000 HW [Back to you, How]^
+SRI |S1000 BTU [Sorry, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+FB |S1000 SRI [Fine business, Sorry]^
+BTU |S1000 TNX [Back to you, Thanks]^
+SRI |S1000 BTU [Sorry, Back to you]^
+HW |S1000 CPY [How, Copy]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 HW [Back to you, How]^
+QSB |S1000 BTU [Fading, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+CPY |S1000 BTU [Copy, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+SRI |S1000 FB [Sorry, Fine business]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 QSB [Back to you, Fading]^
+SRI |S1000 CPY [Sorry, Copy]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 CPY [Back to you, Copy]^
+TNX |S1000 SRI [Thanks, Sorry]^
+QSB |S1000 SRI [Fading, Sorry]^
+BTU |S1000 CPY [Back to you, Copy]^
+FB |S1000 QSB [Fine business, Fading]^
+CPY |S1000 QSB [Copy, Fading]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 FB [Back to you, Fine business]^
+QSB |S1000 TNX [Fading, Thanks]^
+BTU |S1000 SRI [Back to you, Sorry]^
+TNX |S1000 QSB [Thanks, Fading]^
+TNX |S1000 BTU [Thanks, Back to you]^
+SRI |S1000 HW [Sorry, How]^
+BTU |S1000 SRI [Back to you, Sorry]^
+FB |S1000 BTU [Fine business, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+CPY |S1000 QSB [Copy, Fading]^
+TNX |S1000 HW [Thanks, How]^
+SRI |S1000 TNX [Sorry, Thanks]^
+HW |S1000 CPY [How, Copy]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BTU |S1000 TNX [Back to you, Thanks]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 TNX [Fading, Thanks]^
+HW |S1000 FB [How, Fine business]^
+TNX |S1000 BTU [Thanks, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+FB |S1000 SRI [Fine business, Sorry]^
+BTU |S1000 QSB [Back to you, Fading]^
+FB |S1000 TNX [Fine business, Thanks]^
+BTU |S1000 CPY [Back to you, Copy]^
+HW |S1000 BTU [How, Back to you]^
+TNX |S1000 HW [Thanks, How]^
+QSB |S1000 BTU [Fading, Back to you]^
+HW |S1000 SRI [How, Sorry]^
+TNX |S1000 BTU [Thanks, Back to you]^
+HW |S1000 QSB [How, Fading]^
+FB |S1000 BTU [Fine business, Back to you]^
+FB |S1000 SRI [Fine business, Sorry]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 BTU [Copy, Back to you]^
+HW |S1000 SRI [How, Sorry]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 SRI [Back to you, Sorry]^
+FB |S1000 BTU [Fine business, Back to you]^
+SRI |S1000 HW [Sorry, How]^
+BTU |S1000 FB [Back to you, Fine business]^
+HW |S1000 FB [How, Fine business]^
+TNX |S1000 SRI [Thanks, Sorry]^
+TNX |S1000 HW [Thanks, How]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 HW [Back to you, How]^
+CPY |S1000 BTU [Copy, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+TNX |S1000 QSB [Thanks, Fading]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+HW |S1000 BTU [How, Back to you]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 QSB [Sorry, Fading]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 CPY [Back to you, Copy]^
+FB |S1000 QSB [Fine business, Fading]^
+HW |S1000 BTU [How, Back to you]^
+CPY |S1000 BTU [Copy, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+QSB |S1000 CPY [Fading, Copy]^
+BTU |S1000 CPY [Back to you, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+BTU |S1000 TNX [Back to you, Thanks]^
+CPY |S1000 HW [Copy, How]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 FB [Back to you, Fine business]^
+TNX |S1000 BTU [Thanks, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+CPY |S1000 QSB [Copy, Fading]^
+BTU |S1000 TNX [Back to you, Thanks]^
+QSB |S1000 SRI [Fading, Sorry]^
+FB |S1000 HW [Fine business, How]^
+BTU |S1000 QSB [Back to you, Fading]^
+CPY |S1000 BTU [Copy, Back to you]^
+SRI |S1000 FB [Sorry, Fine business]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 CPY [Back to you, Copy]^
+FB |S1000 BTU [Fine business, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+FB |S1000 CPY [Fine business, Copy]^
+BTU |S1000 TNX [Back to you, Thanks]^
+CPY |S1000 BTU [Copy, Back to you]^
+CPY |S1000 BTU [Copy, Back to you]^
+SRI |S1000 HW [Sorry, How]^
+QSB |S1000 SRI [Fading, Sorry]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 QSB [Back to you, Fading]^
+TNX |S1000 BTU [Thanks, Back to you]^
+CPY |S1000 FB [Copy, Fine business]^
+QSB |S1000 TNX [Fading, Thanks]^
+HW |S1000 QSB [How, Fading]^
+BTU |S1000 TNX [Back to you, Thanks]^
+HW |S1000 BTU [How, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+SRI |S1000 QSB [Sorry, Fading]^
+BTU |S1000 FB [Back to you, Fine business]^
+HW |S1000 CPY [How, Copy]^
+FB |S1000 HW [Fine business, How]^
+QSB |S1000 BTU [Fading, Back to you]^
+TNX |S1000 HW [Thanks, How]^
+TNX |S1000 BTU [Thanks, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+FB |S1000 HW [Fine business, How]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 SRI [Back to you, Sorry]^
+TNX |S1000 BTU [Thanks, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+HW |S1000 TNX [How, Thanks]^
+BTU |S1000 TNX [Back to you, Thanks]^
+HW |S1000 BTU [How, Back to you]^
+HW |S1000 TNX [How, Thanks]^
+CPY |S1000 BTU [Copy, Back to you]^
+HW |S1000 TNX [How, Thanks]^
+FB |S1000 BTU [Fine business, Back to you]^
+SRI |S1000 TNX [Sorry, Thanks]^
+BTU |S1000 TNX [Back to you, Thanks]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 BTU [Copy, Back to you]^
+HW |S1000 FB [How, Fine business]^
+BTU |S1000 SRI [Back to you, Sorry]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 QSB [Copy, Fading]^
+HW |S1000 TNX [How, Thanks]^
+CPY |S1000 BTU [Copy, Back to you]^
+QSB |S1000 HW [Fading, How]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 FB [Back to you, Fine business]^
+QSB |S1000 BTU [Fading, Back to you]^
+SRI |S1000 FB [Sorry, Fine business]^
+TNX |S1000 QSB [Thanks, Fading]^
+CPY |S1000 QSB [Copy, Fading]^
+CPY |S1000 BTU [Copy, Back to you]^
+CPY |S1000 SRI [Copy, Sorry]^
+BTU |S1000 SRI [Back to you, Sorry]^
+FB |S1000 QSB [Fine business, Fading]^
+BTU |S1000 TNX [Back to you, Thanks]^
+HW |S1000 BTU [How, Back to you]^
+FB |S1000 SRI [Fine business, Sorry]^
+CPY |S1000 FB [Copy, Fine business]^
+QSB |S1000 BTU [Fading, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+CPY |S1000 BTU [Copy, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+FB |S1000 TNX [Fine business, Thanks]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 SRI [Back to you, Sorry]^
+HW |S1000 SRI [How, Sorry]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 BTU [Copy, Back to you]^
+HW |S1000 SRI [How, Sorry]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 FB [Back to you, Fine business]^
+QSB |S1000 BTU [Fading, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+QSB |S1000 TNX [Fading, Thanks]^
+FB |S1000 QSB [Fine business, Fading]^
+SRI |S1000 BTU [Sorry, Back to you]^
+TNX |S1000 FB [Thanks, Fine business]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 HW [Back to you, How]^
+SRI |S1000 TNX [Sorry, Thanks]^
+HW |S1000 QSB [How, Fading]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 BTU [Copy, Back to you]^
+HW |S1000 SRI [How, Sorry]^
+TNX |S1000 BTU [Thanks, Back to you]^
+TNX |S1000 BTU [Thanks, Back to you]^
+CPY |S1000 BTU [Copy, Back to you]^
+QSB |S1000 FB [Fading, Fine business]^
+BTU |S1000 TNX [Back to you, Thanks]^
+HW |S1000 SRI [How, Sorry]^
+HW |S1000 QSB [How, Fading]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 FB [Back to you, Fine business]^
+TNX |S1000 BTU [Thanks, Back to you]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 QSB [Thanks, Fading]^
+HW |S1000 BTU [How, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+SRI |S1000 FB [Sorry, Fine business]^
+SRI |S1000 BTU [Sorry, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+TNX |S1000 QSB [Thanks, Fading]^
+BTU |S1000 HW [Back to you, How]^
+TNX |S1000 FB [Thanks, Fine business]^
+QSB |S1000 TNX [Fading, Thanks]^
+CPY |S1000 BTU [Copy, Back to you]^
+SRI |S1000 QSB [Sorry, Fading]^
+HW |S1000 BTU [How, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+TNX |S1000 FB [Thanks, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 SRI [Back to you, Sorry]^
+TNX |S1000 BTU [Thanks, Back to you]^
+HW |S1000 SRI [How, Sorry]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 TNX [Back to you, Thanks]^
+HW |S1000 BTU [How, Back to you]^
+TNX |S1000 HW [Thanks, How]^
+QSB |S1000 BTU [Fading, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+SRI |S1000 BTU [Sorry, Back to you]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 BTU [Copy, Back to you]^
+QSB |S1000 FB [Fading, Fine business]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 QSB [Back to you, Fading]^
+TNX |S1000 CPY [Thanks, Copy]^
+TNX |S1000 HW [Thanks, How]^
+SRI |S1000 BTU [Sorry, Back to you]^
+FB |S1000 CPY [Fine business, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+QSB |S1000 BTU [Fading, Back to you]^
+SRI |S1000 QSB [Sorry, Fading]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 FB [Back to you, Fine business]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 QSB [Sorry, Fading]^
+TNX |S1000 FB [Thanks, Fine business]^
+QSB |S1000 FB [Fading, Fine business]^
+SRI |S1000 CPY [Sorry, Copy]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 BTU [Copy, Back to you]^
+FB |S1000 BTU [Fine business, Back to you]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 TNX [Fading, Thanks]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 HW [Back to you, How]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+BTU |S1000 TNX [Back to you, Thanks]^
+QSB |S1000 TNX [Fading, Thanks]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 HW [Fine business, How]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 QSB [Back to you, Fading]^
+FB |S1000 CPY [Fine business, Copy]^
+BTU |S1000 CPY [Back to you, Copy]^
+FB |S1000 BTU [Fine business, Back to you]^
+CPY |S1000 BTU [Copy, Back to you]^
+QSB |S1000 BTU [Fading, Back to you]^
+CPY |S1000 TNX [Copy, Thanks]^
+BTU |S1000 QSB [Back to you, Fading]^
+BTU |S1000 QSB [Back to you, Fading]^
+HW |S1000 QSB [How, Fading]^
+CPY |S1000 BTU [Copy, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+HW |S1000 CPY [How, Copy]^
+TNX |S1000 HW [Thanks, How]^
+QSB |S1000 BTU [Fading, Back to you]^

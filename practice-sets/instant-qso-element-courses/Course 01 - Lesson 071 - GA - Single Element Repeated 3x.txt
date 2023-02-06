@@ -1,0 +1,600 @@
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+ES |S1000 ES |S1000 ES [And | ES]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+ES |S1000 ES |S1000 ES [And | ES]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+ES |S1000 ES |S1000 ES [And | ES]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+DE |S1000 DE |S1000 DE [From | DE]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+ES |S1000 ES |S1000 ES [And | ES]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+DE |S1000 DE |S1000 DE [From | DE]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+DE |S1000 DE |S1000 DE [From | DE]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+DE |S1000 DE |S1000 DE [From | DE]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+DE |S1000 DE |S1000 DE [From | DE]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+ES |S1000 ES |S1000 ES [And | ES]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+DE |S1000 DE |S1000 DE [From | DE]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+DE |S1000 DE |S1000 DE [From | DE]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+DE |S1000 DE |S1000 DE [From | DE]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRZ |S1000 QRZ |S1000 QRZ [Q R Zed | QRZ]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+ES |S1000 ES |S1000 ES [And | ES]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+ES |S1000 ES |S1000 ES [And | ES]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+DE |S1000 DE |S1000 DE [From | DE]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+ES |S1000 ES |S1000 ES [And | ES]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+599 |S1000 599 |S1000 599 [5 9 9 | 599]^
+UP |S1000 UP |S1000 UP [Up | UP]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+NAME |S1000 NAME |S1000 NAME [Name | NAME]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+UR |S1000 UR |S1000 UR [Your | UR]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+WX |S1000 WX |S1000 WX [Weather | WX]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+TEST |S1000 TEST |S1000 TEST [Contest | TEST]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+73 |S1000 73 |S1000 73 [73 | 73]^
+CQ |S1000 CQ |S1000 CQ [C Q | CQ]^
+559 |S1000 559 |S1000 559 [5 5 9 | 559]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+VY |S1000 VY |S1000 VY [Very | VY]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+ES |S1000 ES |S1000 ES [And | ES]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+NR |S1000 NR |S1000 NR [Number | NR]^
+RST |S1000 RST |S1000 RST [R S T | RST]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+AGN |S1000 AGN |S1000 AGN [Again | AGN]^
+5NN |S1000 5NN |S1000 5NN [5 N N | 5NN]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^
+QRM |S1000 QRM |S1000 QRM [Interference | QRM]^
+GA |S1000 GA |S1000 GA [Good afternoon | GA]^

@@ -1,0 +1,600 @@
+QRQ |S1000 PLS [High speed, Please]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+PSE |S1000 RX [Please, Receive]^
+OP |S1000 QRQ [Operator, High speed]^
+HR |S1000 QRQ [Hear, High speed]^
+CFM |S1000 RX [Confirm, Receive]^
+OP |S1000 YL [Operator, Young lady]^
+QSL |S1000 QRQ [Confirm, High speed]^
+QRP |S1000 PSE [Low power, Please]^
+QRQ |S1000 PLS [High speed, Please]^
+QRQ |S1000 PSE [High speed, Please]^
+HR |S1000 YL [Hear, Young lady]^
+DR |S1000 QSL [Dear, Confirm]^
+HR |S1000 QRQ [Hear, High speed]^
+TX |S1000 RX [Transmit, Receive]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+RX |S1000 OP [Receive, Operator]^
+QRQ |S1000 HR [High speed, Hear]^
+DR |S1000 TX [Dear, Transmit]^
+QRQ |S1000 QRP [High speed, Low power]^
+QRQ |S1000 YL [High speed, Young lady]^
+TX |S1000 QRQ [Transmit, High speed]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+TX |S1000 PSE [Transmit, Please]^
+OP |S1000 CFM [Operator, Confirm]^
+QRQ |S1000 MNI [High speed, Many]^
+QRQ |S1000 YL [High speed, Young lady]^
+OP |S1000 PLS [Operator, Please]^
+YL |S1000 OP [Young lady, Operator]^
+CFM |S1000 QRQ [Confirm, High speed]^
+CFM |S1000 TX [Confirm, Transmit]^
+QRQ |S1000 MNI [High speed, Many]^
+PSE |S1000 YL [Please, Young lady]^
+QSL |S1000 MNI [Confirm, Many]^
+QSL |S1000 QRP [Confirm, Low power]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRQ |S1000 HR [High speed, Hear]^
+QRQ |S1000 TX [High speed, Transmit]^
+YL |S1000 PLS [Young lady, Please]^
+OP |S1000 MNI [Operator, Many]^
+HR |S1000 QSL [Hear, Confirm]^
+QRQ |S1000 HR [High speed, Hear]^
+RX |S1000 DR [Receive, Dear]^
+PLS |S1000 RX [Please, Receive]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 RX [High speed, Receive]^
+YL |S1000 QRQ [Young lady, High speed]^
+OP |S1000 PLS [Operator, Please]^
+QSL |S1000 PLS [Confirm, Please]^
+RX |S1000 DR [Receive, Dear]^
+PLS |S1000 PSE [Please, Please]^
+QRQ |S1000 HR [High speed, Hear]^
+QRQ |S1000 PLS [High speed, Please]^
+TX |S1000 QRQ [Transmit, High speed]^
+QRP |S1000 YL [Low power, Young lady]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 OP [High speed, Operator]^
+PLS |S1000 RX [Please, Receive]^
+QRQ |S1000 PSE [High speed, Please]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 PLS [High speed, Please]^
+HR |S1000 QRQ [Hear, High speed]^
+DR |S1000 HR [Dear, Hear]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+QRQ |S1000 HR [High speed, Hear]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+TX |S1000 QRQ [Transmit, High speed]^
+RX |S1000 QRQ [Receive, High speed]^
+QSL |S1000 TX [Confirm, Transmit]^
+DR |S1000 QRQ [Dear, High speed]^
+QRP |S1000 TX [Low power, Transmit]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 MNI [High speed, Many]^
+TX |S1000 PLS [Transmit, Please]^
+OP |S1000 QRQ [Operator, High speed]^
+HR |S1000 QRP [Hear, Low power]^
+OP |S1000 CFM [Operator, Confirm]^
+PSE |S1000 QRQ [Please, High speed]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+PSE |S1000 HW\? [Please, How copy\?]^
+QRQ |S1000 MNI [High speed, Many]^
+RX |S1000 DR [Receive, Dear]^
+QRQ |S1000 OP [High speed, Operator]^
+HR |S1000 QRQ [Hear, High speed]^
+MNI |S1000 TX [Many, Transmit]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRQ |S1000 RX [High speed, Receive]^
+HW\? |S1000 HR [How copy\?, Hear]^
+YL |S1000 QRQ [Young lady, High speed]^
+RX |S1000 QRQ [Receive, High speed]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+YL |S1000 QRQ [Young lady, High speed]^
+DR |S1000 TX [Dear, Transmit]^
+QSL |S1000 QRQ [Confirm, High speed]^
+QSL |S1000 RX [Confirm, Receive]^
+QSL |S1000 QRQ [Confirm, High speed]^
+PSE |S1000 OP [Please, Operator]^
+CFM |S1000 DR [Confirm, Dear]^
+TX |S1000 OP [Transmit, Operator]^
+RX |S1000 PSE [Receive, Please]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 QRP [High speed, Low power]^
+QSL |S1000 DR [Confirm, Dear]^
+QRQ |S1000 DR [High speed, Dear]^
+MNI |S1000 QRQ [Many, High speed]^
+PLS |S1000 QRQ [Please, High speed]^
+QSL |S1000 QRQ [Confirm, High speed]^
+QSL |S1000 PSE [Confirm, Please]^
+QSL |S1000 TX [Confirm, Transmit]^
+PSE |S1000 QRQ [Please, High speed]^
+MNI |S1000 QRQ [Many, High speed]^
+RX |S1000 HR [Receive, Hear]^
+OP |S1000 QRQ [Operator, High speed]^
+PSE |S1000 HW\? [Please, How copy\?]^
+QRQ |S1000 TX [High speed, Transmit]^
+QRQ |S1000 QRP [High speed, Low power]^
+QRQ |S1000 DR [High speed, Dear]^
+QRQ |S1000 CFM [High speed, Confirm]^
+PSE |S1000 MNI [Please, Many]^
+YL |S1000 CFM [Young lady, Confirm]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 PSE [High speed, Please]^
+QRQ |S1000 HR [High speed, Hear]^
+OP |S1000 DR [Operator, Dear]^
+QRQ |S1000 QSL [High speed, Confirm]^
+PLS |S1000 QRQ [Please, High speed]^
+CFM |S1000 QRQ [Confirm, High speed]^
+QRP |S1000 HR [Low power, Hear]^
+HW\? |S1000 QRP [How copy\?, Low power]^
+HR |S1000 QRQ [Hear, High speed]^
+CFM |S1000 QSL [Confirm, Confirm]^
+QRQ |S1000 MNI [High speed, Many]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 OP [High speed, Operator]^
+QRQ |S1000 OP [High speed, Operator]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRQ |S1000 DR [High speed, Dear]^
+QRQ |S1000 RX [High speed, Receive]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+PLS |S1000 QRQ [Please, High speed]^
+TX |S1000 QRQ [Transmit, High speed]^
+YL |S1000 QSL [Young lady, Confirm]^
+QRQ |S1000 DR [High speed, Dear]^
+QRQ |S1000 TX [High speed, Transmit]^
+HW\? |S1000 HR [How copy\?, Hear]^
+QRQ |S1000 QSL [High speed, Confirm]^
+CFM |S1000 YL [Confirm, Young lady]^
+QRP |S1000 DR [Low power, Dear]^
+QRQ |S1000 QSL [High speed, Confirm]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+OP |S1000 CFM [Operator, Confirm]^
+QRQ |S1000 TX [High speed, Transmit]^
+QRQ |S1000 QRP [High speed, Low power]^
+CFM |S1000 QRQ [Confirm, High speed]^
+TX |S1000 HR [Transmit, Hear]^
+QRQ |S1000 OP [High speed, Operator]^
+QRQ |S1000 RX [High speed, Receive]^
+HR |S1000 QSL [Hear, Confirm]^
+HR |S1000 PLS [Hear, Please]^
+RX |S1000 QRQ [Receive, High speed]^
+HR |S1000 QSL [Hear, Confirm]^
+QRP |S1000 HR [Low power, Hear]^
+RX |S1000 QRP [Receive, Low power]^
+QSL |S1000 DR [Confirm, Dear]^
+QRQ |S1000 MNI [High speed, Many]^
+QRQ |S1000 YL [High speed, Young lady]^
+PSE |S1000 QRQ [Please, High speed]^
+PLS |S1000 HW\? [Please, How copy\?]^
+QRQ |S1000 HR [High speed, Hear]^
+QRQ |S1000 HR [High speed, Hear]^
+PLS |S1000 QRQ [Please, High speed]^
+QRP |S1000 PLS [Low power, Please]^
+QRQ |S1000 YL [High speed, Young lady]^
+DR |S1000 CFM [Dear, Confirm]^
+QRQ |S1000 TX [High speed, Transmit]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+PLS |S1000 PSE [Please, Please]^
+RX |S1000 QRQ [Receive, High speed]^
+TX |S1000 QRQ [Transmit, High speed]^
+QRP |S1000 QRQ [Low power, High speed]^
+MNI |S1000 QRQ [Many, High speed]^
+QRP |S1000 CFM [Low power, Confirm]^
+OP |S1000 QRQ [Operator, High speed]^
+PSE |S1000 QRQ [Please, High speed]^
+DR |S1000 HR [Dear, Hear]^
+QRQ |S1000 HR [High speed, Hear]^
+QSL |S1000 PSE [Confirm, Please]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 MNI [High speed, Many]^
+DR |S1000 HW\? [Dear, How copy\?]^
+QRP |S1000 QRQ [Low power, High speed]^
+OP |S1000 DR [Operator, Dear]^
+PLS |S1000 QRQ [Please, High speed]^
+HR |S1000 QRQ [Hear, High speed]^
+HR |S1000 YL [Hear, Young lady]^
+QRQ |S1000 PLS [High speed, Please]^
+RX |S1000 QSL [Receive, Confirm]^
+YL |S1000 DR [Young lady, Dear]^
+QRQ |S1000 TX [High speed, Transmit]^
+QRQ |S1000 MNI [High speed, Many]^
+QRQ |S1000 MNI [High speed, Many]^
+OP |S1000 MNI [Operator, Many]^
+QRP |S1000 YL [Low power, Young lady]^
+CFM |S1000 QRQ [Confirm, High speed]^
+DR |S1000 OP [Dear, Operator]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+TX |S1000 RX [Transmit, Receive]^
+OP |S1000 TX [Operator, Transmit]^
+QRQ |S1000 DR [High speed, Dear]^
+QRQ |S1000 TX [High speed, Transmit]^
+QRQ |S1000 HR [High speed, Hear]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 RX [High speed, Receive]^
+QRQ |S1000 YL [High speed, Young lady]^
+CFM |S1000 DR [Confirm, Dear]^
+QRQ |S1000 QRP [High speed, Low power]^
+CFM |S1000 QRQ [Confirm, High speed]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+CFM |S1000 PLS [Confirm, Please]^
+QRQ |S1000 CFM [High speed, Confirm]^
+RX |S1000 QRQ [Receive, High speed]^
+MNI |S1000 OP [Many, Operator]^
+MNI |S1000 TX [Many, Transmit]^
+QRQ |S1000 OP [High speed, Operator]^
+QRQ |S1000 HR [High speed, Hear]^
+QRQ |S1000 PLS [High speed, Please]^
+HR |S1000 TX [Hear, Transmit]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+QRP |S1000 MNI [Low power, Many]^
+YL |S1000 CFM [Young lady, Confirm]^
+OP |S1000 QSL [Operator, Confirm]^
+QRQ |S1000 PLS [High speed, Please]^
+OP |S1000 QRQ [Operator, High speed]^
+OP |S1000 QRQ [Operator, High speed]^
+HR |S1000 RX [Hear, Receive]^
+HR |S1000 DR [Hear, Dear]^
+HW\? |S1000 PLS [How copy\?, Please]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 YL [High speed, Young lady]^
+CFM |S1000 RX [Confirm, Receive]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 QRP [High speed, Low power]^
+QRQ |S1000 HR [High speed, Hear]^
+QRQ |S1000 HR [High speed, Hear]^
+PLS |S1000 QRQ [Please, High speed]^
+YL |S1000 QRQ [Young lady, High speed]^
+PLS |S1000 QSL [Please, Confirm]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+YL |S1000 QRQ [Young lady, High speed]^
+DR |S1000 MNI [Dear, Many]^
+QRQ |S1000 PSE [High speed, Please]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 QSL [High speed, Confirm]^
+QRP |S1000 MNI [Low power, Many]^
+OP |S1000 QRQ [Operator, High speed]^
+PLS |S1000 YL [Please, Young lady]^
+QSL |S1000 HW\? [Confirm, How copy\?]^
+RX |S1000 OP [Receive, Operator]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRQ |S1000 PSE [High speed, Please]^
+DR |S1000 QSL [Dear, Confirm]^
+QRQ |S1000 QRP [High speed, Low power]^
+QRQ |S1000 QRP [High speed, Low power]^
+QRQ |S1000 PLS [High speed, Please]^
+HW\? |S1000 DR [How copy\?, Dear]^
+QRQ |S1000 QSL [High speed, Confirm]^
+QRQ |S1000 HR [High speed, Hear]^
+QSL |S1000 QRQ [Confirm, High speed]^
+QRP |S1000 DR [Low power, Dear]^
+QSL |S1000 RX [Confirm, Receive]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QSL |S1000 QRQ [Confirm, High speed]^
+PSE |S1000 MNI [Please, Many]^
+QRQ |S1000 DR [High speed, Dear]^
+QRQ |S1000 TX [High speed, Transmit]^
+QRQ |S1000 RX [High speed, Receive]^
+DR |S1000 MNI [Dear, Many]^
+HW\? |S1000 PSE [How copy\?, Please]^
+HR |S1000 QRQ [Hear, High speed]^
+MNI |S1000 TX [Many, Transmit]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 RX [High speed, Receive]^
+QRQ |S1000 QSL [High speed, Confirm]^
+QRP |S1000 QRQ [Low power, High speed]^
+YL |S1000 QRQ [Young lady, High speed]^
+TX |S1000 QRQ [Transmit, High speed]^
+PSE |S1000 QRQ [Please, High speed]^
+QRP |S1000 QRQ [Low power, High speed]^
+QSL |S1000 QRQ [Confirm, High speed]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 PLS [Young lady, Please]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 MNI [High speed, Many]^
+CFM |S1000 HR [Confirm, Hear]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QSL |S1000 YL [Confirm, Young lady]^
+QRP |S1000 QRQ [Low power, High speed]^
+TX |S1000 QRP [Transmit, Low power]^
+YL |S1000 QRP [Young lady, Low power]^
+QRQ |S1000 RX [High speed, Receive]^
+QRQ |S1000 DR [High speed, Dear]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+OP |S1000 QRQ [Operator, High speed]^
+YL |S1000 QRQ [Young lady, High speed]^
+YL |S1000 QRQ [Young lady, High speed]^
+RX |S1000 QRQ [Receive, High speed]^
+HR |S1000 QRQ [Hear, High speed]^
+PSE |S1000 QRQ [Please, High speed]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+HR |S1000 TX [Hear, Transmit]^
+CFM |S1000 QRP [Confirm, Low power]^
+RX |S1000 PSE [Receive, Please]^
+QRQ |S1000 RX [High speed, Receive]^
+QRQ |S1000 TX [High speed, Transmit]^
+PSE |S1000 HW\? [Please, How copy\?]^
+TX |S1000 QRQ [Transmit, High speed]^
+HR |S1000 PLS [Hear, Please]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRQ |S1000 CFM [High speed, Confirm]^
+HR |S1000 QRP [Hear, Low power]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRP |S1000 QRQ [Low power, High speed]^
+CFM |S1000 OP [Confirm, Operator]^
+QRQ |S1000 MNI [High speed, Many]^
+QRQ |S1000 PLS [High speed, Please]^
+QRQ |S1000 RX [High speed, Receive]^
+QRQ |S1000 QSL [High speed, Confirm]^
+QRQ |S1000 MNI [High speed, Many]^
+QRQ |S1000 PLS [High speed, Please]^
+DR |S1000 RX [Dear, Receive]^
+MNI |S1000 TX [Many, Transmit]^
+QSL |S1000 CFM [Confirm, Confirm]^
+YL |S1000 PLS [Young lady, Please]^
+QRQ |S1000 PLS [High speed, Please]^
+QRQ |S1000 OP [High speed, Operator]^
+QRQ |S1000 QSL [High speed, Confirm]^
+DR |S1000 QRQ [Dear, High speed]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+DR |S1000 YL [Dear, Young lady]^
+QRQ |S1000 QRP [High speed, Low power]^
+OP |S1000 QSL [Operator, Confirm]^
+CFM |S1000 DR [Confirm, Dear]^
+PLS |S1000 QRQ [Please, High speed]^
+QRP |S1000 TX [Low power, Transmit]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+DR |S1000 HR [Dear, Hear]^
+TX |S1000 DR [Transmit, Dear]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRQ |S1000 PSE [High speed, Please]^
+QRP |S1000 YL [Low power, Young lady]^
+QRQ |S1000 OP [High speed, Operator]^
+TX |S1000 PLS [Transmit, Please]^
+QRQ |S1000 TX [High speed, Transmit]^
+QRQ |S1000 MNI [High speed, Many]^
+YL |S1000 QSL [Young lady, Confirm]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QSL |S1000 QRP [Confirm, Low power]^
+RX |S1000 MNI [Receive, Many]^
+QRQ |S1000 DR [High speed, Dear]^
+QRQ |S1000 QSL [High speed, Confirm]^
+TX |S1000 QSL [Transmit, Confirm]^
+QRQ |S1000 QSL [High speed, Confirm]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+CFM |S1000 MNI [Confirm, Many]^
+CFM |S1000 QRQ [Confirm, High speed]^
+MNI |S1000 QSL [Many, Confirm]^
+QRQ |S1000 HR [High speed, Hear]^
+OP |S1000 YL [Operator, Young lady]^
+PLS |S1000 OP [Please, Operator]^
+QSL |S1000 QRQ [Confirm, High speed]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+QRQ |S1000 MNI [High speed, Many]^
+HR |S1000 QRQ [Hear, High speed]^
+HR |S1000 YL [Hear, Young lady]^
+PSE |S1000 QRQ [Please, High speed]^
+PSE |S1000 QRQ [Please, High speed]^
+MNI |S1000 HR [Many, Hear]^
+QRP |S1000 QSL [Low power, Confirm]^
+PLS |S1000 QRQ [Please, High speed]^
+QSL |S1000 QRQ [Confirm, High speed]^
+RX |S1000 YL [Receive, Young lady]^
+QRQ |S1000 QRP [High speed, Low power]^
+HR |S1000 QRQ [Hear, High speed]^
+PSE |S1000 HW\? [Please, How copy\?]^
+MNI |S1000 QRQ [Many, High speed]^
+YL |S1000 CFM [Young lady, Confirm]^
+PSE |S1000 PLS [Please, Please]^
+QSL |S1000 PLS [Confirm, Please]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRQ |S1000 TX [High speed, Transmit]^
+CFM |S1000 QSL [Confirm, Confirm]^
+CFM |S1000 QRQ [Confirm, High speed]^
+CFM |S1000 QRP [Confirm, Low power]^
+QSL |S1000 HR [Confirm, Hear]^
+QRQ |S1000 MNI [High speed, Many]^
+YL |S1000 QRQ [Young lady, High speed]^
+QSL |S1000 HW\? [Confirm, How copy\?]^
+DR |S1000 CFM [Dear, Confirm]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+MNI |S1000 QRQ [Many, High speed]^
+DR |S1000 HR [Dear, Hear]^
+OP |S1000 MNI [Operator, Many]^
+QRQ |S1000 HR [High speed, Hear]^
+QRQ |S1000 RX [High speed, Receive]^
+DR |S1000 HR [Dear, Hear]^
+QRP |S1000 PLS [Low power, Please]^
+QRQ |S1000 DR [High speed, Dear]^
+QRQ |S1000 QRP [High speed, Low power]^
+HR |S1000 OP [Hear, Operator]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+QRP |S1000 QRQ [Low power, High speed]^
+HR |S1000 QRQ [Hear, High speed]^
+RX |S1000 DR [Receive, Dear]^
+QRQ |S1000 QSL [High speed, Confirm]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+CFM |S1000 DR [Confirm, Dear]^
+QRQ |S1000 DR [High speed, Dear]^
+YL |S1000 QRQ [Young lady, High speed]^
+CFM |S1000 QRQ [Confirm, High speed]^
+HR |S1000 QSL [Hear, Confirm]^
+QRQ |S1000 QSL [High speed, Confirm]^
+YL |S1000 QRQ [Young lady, High speed]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+CFM |S1000 PSE [Confirm, Please]^
+QSL |S1000 QRQ [Confirm, High speed]^
+CFM |S1000 QRQ [Confirm, High speed]^
+YL |S1000 HR [Young lady, Hear]^
+QRP |S1000 CFM [Low power, Confirm]^
+QRP |S1000 QRQ [Low power, High speed]^
+HR |S1000 TX [Hear, Transmit]^
+QRQ |S1000 YL [High speed, Young lady]^
+PLS |S1000 DR [Please, Dear]^
+PSE |S1000 QSL [Please, Confirm]^
+HW\? |S1000 DR [How copy\?, Dear]^
+CFM |S1000 PLS [Confirm, Please]^
+PSE |S1000 QSL [Please, Confirm]^
+PSE |S1000 QRQ [Please, High speed]^
+DR |S1000 YL [Dear, Young lady]^
+CFM |S1000 QRQ [Confirm, High speed]^
+HR |S1000 QRQ [Hear, High speed]^
+MNI |S1000 DR [Many, Dear]^
+QRQ |S1000 QSL [High speed, Confirm]^
+QRQ |S1000 QRP [High speed, Low power]^
+QRQ |S1000 QSL [High speed, Confirm]^
+CFM |S1000 QRQ [Confirm, High speed]^
+PLS |S1000 HW\? [Please, How copy\?]^
+DR |S1000 QRQ [Dear, High speed]^
+YL |S1000 QRQ [Young lady, High speed]^
+DR |S1000 QRQ [Dear, High speed]^
+DR |S1000 QRQ [Dear, High speed]^
+QRP |S1000 PLS [Low power, Please]^
+QSL |S1000 RX [Confirm, Receive]^
+QRQ |S1000 CFM [High speed, Confirm]^
+PLS |S1000 PSE [Please, Please]^
+QRQ |S1000 PLS [High speed, Please]^
+PSE |S1000 QRQ [Please, High speed]^
+RX |S1000 QRQ [Receive, High speed]^
+CFM |S1000 QRQ [Confirm, High speed]^
+YL |S1000 QRQ [Young lady, High speed]^
+OP |S1000 QRP [Operator, Low power]^
+YL |S1000 QRQ [Young lady, High speed]^
+QRP |S1000 HR [Low power, Hear]^
+QRQ |S1000 HR [High speed, Hear]^
+PLS |S1000 QRQ [Please, High speed]^
+OP |S1000 QRQ [Operator, High speed]^
+PLS |S1000 MNI [Please, Many]^
+QRQ |S1000 OP [High speed, Operator]^
+RX |S1000 PSE [Receive, Please]^
+QRQ |S1000 TX [High speed, Transmit]^
+QRP |S1000 QRQ [Low power, High speed]^
+HR |S1000 QRQ [Hear, High speed]^
+HR |S1000 YL [Hear, Young lady]^
+QRQ |S1000 MNI [High speed, Many]^
+DR |S1000 QSL [Dear, Confirm]^
+QRQ |S1000 PSE [High speed, Please]^
+QRQ |S1000 QSL [High speed, Confirm]^
+QRQ |S1000 OP [High speed, Operator]^
+YL |S1000 QRQ [Young lady, High speed]^
+MNI |S1000 RX [Many, Receive]^
+QRQ |S1000 CFM [High speed, Confirm]^
+OP |S1000 QRQ [Operator, High speed]^
+HR |S1000 HW\? [Hear, How copy\?]^
+CFM |S1000 HR [Confirm, Hear]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 YL [High speed, Young lady]^
+PLS |S1000 HR [Please, Hear]^
+QRQ |S1000 PSE [High speed, Please]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+RX |S1000 PLS [Receive, Please]^
+QRQ |S1000 QSL [High speed, Confirm]^
+PLS |S1000 QRQ [Please, High speed]^
+RX |S1000 QRQ [Receive, High speed]^
+RX |S1000 TX [Receive, Transmit]^
+QRQ |S1000 OP [High speed, Operator]^
+PLS |S1000 HW\? [Please, How copy\?]^
+QRQ |S1000 DR [High speed, Dear]^
+CFM |S1000 RX [Confirm, Receive]^
+DR |S1000 RX [Dear, Receive]^
+QRQ |S1000 PLS [High speed, Please]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+OP |S1000 QRQ [Operator, High speed]^
+TX |S1000 QSL [Transmit, Confirm]^
+QRP |S1000 QRQ [Low power, High speed]^
+YL |S1000 QRP [Young lady, Low power]^
+QRQ |S1000 QRP [High speed, Low power]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+DR |S1000 QRQ [Dear, High speed]^
+HR |S1000 TX [Hear, Transmit]^
+DR |S1000 QRQ [Dear, High speed]^
+TX |S1000 QRQ [Transmit, High speed]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+QSL |S1000 DR [Confirm, Dear]^
+QRQ |S1000 RX [High speed, Receive]^
+QRQ |S1000 OP [High speed, Operator]^
+QSL |S1000 HR [Confirm, Hear]^
+QRQ |S1000 DR [High speed, Dear]^
+OP |S1000 PSE [Operator, Please]^
+QRQ |S1000 QSL [High speed, Confirm]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 MNI [High speed, Many]^
+YL |S1000 QRQ [Young lady, High speed]^
+OP |S1000 DR [Operator, Dear]^
+PSE |S1000 TX [Please, Transmit]^
+DR |S1000 QRQ [Dear, High speed]^
+PLS |S1000 QSL [Please, Confirm]^
+TX |S1000 QRQ [Transmit, High speed]^
+TX |S1000 QRQ [Transmit, High speed]^
+TX |S1000 YL [Transmit, Young lady]^
+PSE |S1000 QRQ [Please, High speed]^
+RX |S1000 HW\? [Receive, How copy\?]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 OP [High speed, Operator]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 OP [High speed, Operator]^
+QRQ |S1000 PLS [High speed, Please]^
+PSE |S1000 QRQ [Please, High speed]^
+DR |S1000 HR [Dear, Hear]^
+QRQ |S1000 OP [High speed, Operator]^
+QRQ |S1000 PSE [High speed, Please]^
+QSL |S1000 QRQ [Confirm, High speed]^
+HR |S1000 QRQ [Hear, High speed]^
+DR |S1000 HR [Dear, Hear]^
+QRQ |S1000 TX [High speed, Transmit]^
+QRQ |S1000 YL [High speed, Young lady]^
+QRQ |S1000 TX [High speed, Transmit]^
+HR |S1000 QRQ [Hear, High speed]^
+DR |S1000 HR [Dear, Hear]^
+QRQ |S1000 PLS [High speed, Please]^
+QRQ |S1000 OP [High speed, Operator]^
+QSL |S1000 CFM [Confirm, Confirm]^
+QRQ |S1000 YL [High speed, Young lady]^
+QSL |S1000 MNI [Confirm, Many]^
+QRQ |S1000 PLS [High speed, Please]^
+PSE |S1000 QRQ [Please, High speed]^
+CFM |S1000 QSL [Confirm, Confirm]^
+HR |S1000 QRQ [Hear, High speed]^
+MNI |S1000 CFM [Many, Confirm]^
+QRQ |S1000 CFM [High speed, Confirm]^
+QRQ |S1000 HR [High speed, Hear]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+MNI |S1000 QRQ [Many, High speed]^
+OP |S1000 QRQ [Operator, High speed]^
+OP |S1000 TX [Operator, Transmit]^
+QSL |S1000 RX [Confirm, Receive]^
+PLS |S1000 QRP [Please, Low power]^
+OP |S1000 QRQ [Operator, High speed]^
+YL |S1000 QRQ [Young lady, High speed]^
+HW\? |S1000 RX [How copy\?, Receive]^
+HW\? |S1000 MNI [How copy\?, Many]^
+QRQ |S1000 MNI [High speed, Many]^
+QRQ |S1000 OP [High speed, Operator]^
+QRQ |S1000 QRP [High speed, Low power]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRP |S1000 PSE [Low power, Please]^
+QRP |S1000 QRQ [Low power, High speed]^
+CFM |S1000 RX [Confirm, Receive]^
+MNI |S1000 HR [Many, Hear]^
+QRQ |S1000 TX [High speed, Transmit]^
+CFM |S1000 QSL [Confirm, Confirm]^
+CFM |S1000 YL [Confirm, Young lady]^
+MNI |S1000 DR [Many, Dear]^
+QRQ |S1000 PSE [High speed, Please]^
+DR |S1000 TX [Dear, Transmit]^
+RX |S1000 YL [Receive, Young lady]^
+QRQ |S1000 RX [High speed, Receive]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+QRP |S1000 QRQ [Low power, High speed]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+QRQ |S1000 DR [High speed, Dear]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+QRQ |S1000 OP [High speed, Operator]^

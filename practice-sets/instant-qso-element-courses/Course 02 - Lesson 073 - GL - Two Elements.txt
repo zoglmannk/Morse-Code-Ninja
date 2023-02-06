@@ -1,0 +1,600 @@
+GL |S1000 FB [Good luck, Fine business]^
+QRL |S1000 GL [Busy, Good luck]^
+DIPOLE |S1000 QSB [Dipole, Fading]^
+GL |S1000 TNX [Good luck, Thanks]^
+GL |S1000 SIG [Good luck, Signal]^
+GL |S1000 HW [Good luck, How]^
+GL |S1000 ANT [Good luck, Antenna]^
+SRI |S1000 BEAM [Sorry, Beam]^
+HPE |S1000 FB [Hope, Fine business]^
+GL |S1000 QRL [Good luck, Busy]^
+GL |S1000 BTU [Good luck, Back to you]^
+SRI |S1000 FB [Sorry, Fine business]^
+GL |S1000 QSB [Good luck, Fading]^
+CPY |S1000 GL [Copy, Good luck]^
+CPY |S1000 GL [Copy, Good luck]^
+CPY |S1000 QRN [Copy, Noise]^
+GL |S1000 HPE [Good luck, Hope]^
+SIG |S1000 TNX [Signal, Thanks]^
+BEAM |S1000 GL [Beam, Good luck]^
+SRI |S1000 GL [Sorry, Good luck]^
+FB |S1000 HPE [Fine business, Hope]^
+GL |S1000 BEAM [Good luck, Beam]^
+TNX |S1000 CPY [Thanks, Copy]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+OM |S1000 DX [Old man, D X]^
+CUL |S1000 HPE [See you later, Hope]^
+QSB |S1000 SRI [Fading, Sorry]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+DX |S1000 CPY [D X, Copy]^
+CUL |S1000 HPE [See you later, Hope]^
+SRI |S1000 GL [Sorry, Good luck]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+CPI |S1000 GL [Copy, Good luck]^
+CUL |S1000 HW [See you later, How]^
+QRN |S1000 ANT [Noise, Antenna]^
+OM |S1000 GL [Old man, Good luck]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+GL |S1000 OM [Good luck, Old man]^
+HPE |S1000 SIG [Hope, Signal]^
+GL |S1000 QRL [Good luck, Busy]^
+SIG |S1000 CPI [Signal, Copy]^
+GL |S1000 HPE [Good luck, Hope]^
+HW |S1000 GL [How, Good luck]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+GL |S1000 DX [Good luck, D X]^
+GL |S1000 TNX [Good luck, Thanks]^
+GL |S1000 HPE [Good luck, Hope]^
+SRI |S1000 DX [Sorry, D X]^
+BTU |S1000 SIG [Back to you, Signal]^
+GL |S1000 QSB [Good luck, Fading]^
+ANT |S1000 SRI [Antenna, Sorry]^
+GL |S1000 CUL [Good luck, See you later]^
+GL |S1000 SIG [Good luck, Signal]^
+ANT |S1000 BTU [Antenna, Back to you]^
+GL |S1000 ANT [Good luck, Antenna]^
+GL |S1000 FB [Good luck, Fine business]^
+GL |S1000 BTU [Good luck, Back to you]^
+GL |S1000 DX [Good luck, D X]^
+QSB |S1000 GL [Fading, Good luck]^
+HW |S1000 QRN [How, Noise]^
+GL |S1000 HW [Good luck, How]^
+HPE |S1000 GL [Hope, Good luck]^
+TNX |S1000 QRN [Thanks, Noise]^
+GL |S1000 BEAM [Good luck, Beam]^
+GL |S1000 CPI [Good luck, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+OM |S1000 GL [Old man, Good luck]^
+BTU |S1000 OM [Back to you, Old man]^
+SRI |S1000 TNX [Sorry, Thanks]^
+GL |S1000 BTU [Good luck, Back to you]^
+GL |S1000 QRL [Good luck, Busy]^
+FB |S1000 GL [Fine business, Good luck]^
+QRL |S1000 CPI [Busy, Copy]^
+GL |S1000 OM [Good luck, Old man]^
+FB |S1000 GL [Fine business, Good luck]^
+QRN |S1000 GL [Noise, Good luck]^
+ANT |S1000 GL [Antenna, Good luck]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+BEAM |S1000 GL [Beam, Good luck]^
+HW |S1000 GL [How, Good luck]^
+SIG |S1000 GL [Signal, Good luck]^
+BTU |S1000 GL [Back to you, Good luck]^
+BTU |S1000 QRL [Back to you, Busy]^
+GL |S1000 BEAM [Good luck, Beam]^
+CUL |S1000 ANT [See you later, Antenna]^
+BTU |S1000 GL [Back to you, Good luck]^
+FB |S1000 TNX [Fine business, Thanks]^
+SRI |S1000 OM [Sorry, Old man]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+HPE |S1000 BTU [Hope, Back to you]^
+GL |S1000 FB [Good luck, Fine business]^
+GL |S1000 HW [Good luck, How]^
+CPI |S1000 SIG [Copy, Signal]^
+FB |S1000 GL [Fine business, Good luck]^
+FB |S1000 GL [Fine business, Good luck]^
+FB |S1000 SRI [Fine business, Sorry]^
+GL |S1000 BTU [Good luck, Back to you]^
+ANT |S1000 CUL [Antenna, See you later]^
+QRN |S1000 DX [Noise, D X]^
+GL |S1000 CUL [Good luck, See you later]^
+GL |S1000 HPE [Good luck, Hope]^
+QRN |S1000 QSB [Noise, Fading]^
+DX |S1000 DIPOLE [D X, Dipole]^
+CUL |S1000 GL [See you later, Good luck]^
+SRI |S1000 GL [Sorry, Good luck]^
+ANT |S1000 GL [Antenna, Good luck]^
+CUL |S1000 GL [See you later, Good luck]^
+HPE |S1000 GL [Hope, Good luck]^
+HW |S1000 GL [How, Good luck]^
+DX |S1000 ANT [D X, Antenna]^
+GL |S1000 HPE [Good luck, Hope]^
+GL |S1000 SIG [Good luck, Signal]^
+GL |S1000 OM [Good luck, Old man]^
+GL |S1000 SRI [Good luck, Sorry]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+CUL |S1000 QSB [See you later, Fading]^
+DX |S1000 GL [D X, Good luck]^
+BTU |S1000 GL [Back to you, Good luck]^
+QRN |S1000 GL [Noise, Good luck]^
+BTU |S1000 QSB [Back to you, Fading]^
+SIG |S1000 FB [Signal, Fine business]^
+GL |S1000 BEAM [Good luck, Beam]^
+SIG |S1000 GL [Signal, Good luck]^
+DX |S1000 TNX [D X, Thanks]^
+GL |S1000 CPI [Good luck, Copy]^
+GL |S1000 BEAM [Good luck, Beam]^
+GL |S1000 FB [Good luck, Fine business]^
+HW |S1000 GL [How, Good luck]^
+CPY |S1000 QRN [Copy, Noise]^
+TNX |S1000 SIG [Thanks, Signal]^
+HW |S1000 QRN [How, Noise]^
+GL |S1000 FB [Good luck, Fine business]^
+GL |S1000 CPI [Good luck, Copy]^
+GL |S1000 QSB [Good luck, Fading]^
+HW |S1000 QRN [How, Noise]^
+OM |S1000 TNX [Old man, Thanks]^
+QRL |S1000 GL [Busy, Good luck]^
+HPE |S1000 GL [Hope, Good luck]^
+DIPOLE |S1000 CUL [Dipole, See you later]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+GL |S1000 TNX [Good luck, Thanks]^
+FB |S1000 CUL [Fine business, See you later]^
+HPE |S1000 GL [Hope, Good luck]^
+QRN |S1000 HW [Noise, How]^
+GL |S1000 CPY [Good luck, Copy]^
+GL |S1000 TNX [Good luck, Thanks]^
+DX |S1000 ANT [D X, Antenna]^
+CPY |S1000 GL [Copy, Good luck]^
+TNX |S1000 QRL [Thanks, Busy]^
+GL |S1000 HPE [Good luck, Hope]^
+GL |S1000 FB [Good luck, Fine business]^
+TNX |S1000 FB [Thanks, Fine business]^
+GL |S1000 CPI [Good luck, Copy]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+BEAM |S1000 FB [Beam, Fine business]^
+CPY |S1000 HPE [Copy, Hope]^
+GL |S1000 QRN [Good luck, Noise]^
+OM |S1000 GL [Old man, Good luck]^
+DIPOLE |S1000 CUL [Dipole, See you later]^
+OM |S1000 GL [Old man, Good luck]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+CUL |S1000 GL [See you later, Good luck]^
+DX |S1000 FB [D X, Fine business]^
+BEAM |S1000 SRI [Beam, Sorry]^
+OM |S1000 SRI [Old man, Sorry]^
+QSB |S1000 OM [Fading, Old man]^
+GL |S1000 CPI [Good luck, Copy]^
+GL |S1000 BEAM [Good luck, Beam]^
+GL |S1000 QRL [Good luck, Busy]^
+BEAM |S1000 BTU [Beam, Back to you]^
+GL |S1000 QSB [Good luck, Fading]^
+SIG |S1000 OM [Signal, Old man]^
+BTU |S1000 QRL [Back to you, Busy]^
+GL |S1000 CPY [Good luck, Copy]^
+GL |S1000 CUL [Good luck, See you later]^
+BEAM |S1000 SIG [Beam, Signal]^
+GL |S1000 CPY [Good luck, Copy]^
+GL |S1000 HW [Good luck, How]^
+GL |S1000 TNX [Good luck, Thanks]^
+CUL |S1000 GL [See you later, Good luck]^
+SIG |S1000 CUL [Signal, See you later]^
+GL |S1000 OM [Good luck, Old man]^
+CUL |S1000 GL [See you later, Good luck]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+GL |S1000 OM [Good luck, Old man]^
+GL |S1000 SRI [Good luck, Sorry]^
+BEAM |S1000 GL [Beam, Good luck]^
+BTU |S1000 GL [Back to you, Good luck]^
+CPI |S1000 SRI [Copy, Sorry]^
+SIG |S1000 ANT [Signal, Antenna]^
+GL |S1000 OM [Good luck, Old man]^
+GL |S1000 FB [Good luck, Fine business]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+GL |S1000 SRI [Good luck, Sorry]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+QRN |S1000 SRI [Noise, Sorry]^
+GL |S1000 CPI [Good luck, Copy]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+ANT |S1000 GL [Antenna, Good luck]^
+CPI |S1000 CUL [Copy, See you later]^
+GL |S1000 SRI [Good luck, Sorry]^
+GL |S1000 BTU [Good luck, Back to you]^
+BEAM |S1000 GL [Beam, Good luck]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+HPE |S1000 GL [Hope, Good luck]^
+QSB |S1000 TNX [Fading, Thanks]^
+GL |S1000 QSB [Good luck, Fading]^
+CUL |S1000 GL [See you later, Good luck]^
+CPI |S1000 QRN [Copy, Noise]^
+CPI |S1000 FB [Copy, Fine business]^
+GL |S1000 SIG [Good luck, Signal]^
+OM |S1000 QRN [Old man, Noise]^
+GL |S1000 QSB [Good luck, Fading]^
+HPE |S1000 GL [Hope, Good luck]^
+BTU |S1000 GL [Back to you, Good luck]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+GL |S1000 CUL [Good luck, See you later]^
+HW |S1000 GL [How, Good luck]^
+BTU |S1000 GL [Back to you, Good luck]^
+QRL |S1000 GL [Busy, Good luck]^
+HPE |S1000 GL [Hope, Good luck]^
+ANT |S1000 GL [Antenna, Good luck]^
+HPE |S1000 HW [Hope, How]^
+ANT |S1000 GL [Antenna, Good luck]^
+TNX |S1000 GL [Thanks, Good luck]^
+FB |S1000 QSB [Fine business, Fading]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+BEAM |S1000 GL [Beam, Good luck]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+GL |S1000 QSB [Good luck, Fading]^
+GL |S1000 FB [Good luck, Fine business]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+CUL |S1000 ANT [See you later, Antenna]^
+HW |S1000 GL [How, Good luck]^
+CPY |S1000 FB [Copy, Fine business]^
+GL |S1000 BEAM [Good luck, Beam]^
+HPE |S1000 CUL [Hope, See you later]^
+GL |S1000 QSB [Good luck, Fading]^
+GL |S1000 QRL [Good luck, Busy]^
+GL |S1000 HW [Good luck, How]^
+QRL |S1000 GL [Busy, Good luck]^
+HW |S1000 BEAM [How, Beam]^
+GL |S1000 HW [Good luck, How]^
+CUL |S1000 GL [See you later, Good luck]^
+HW |S1000 GL [How, Good luck]^
+FB |S1000 CPI [Fine business, Copy]^
+SIG |S1000 GL [Signal, Good luck]^
+QRN |S1000 GL [Noise, Good luck]^
+SIG |S1000 QSB [Signal, Fading]^
+GL |S1000 QRL [Good luck, Busy]^
+OM |S1000 GL [Old man, Good luck]^
+FB |S1000 CPY [Fine business, Copy]^
+CUL |S1000 BEAM [See you later, Beam]^
+CPY |S1000 GL [Copy, Good luck]^
+QSB |S1000 TNX [Fading, Thanks]^
+GL |S1000 CPY [Good luck, Copy]^
+BTU |S1000 CPY [Back to you, Copy]^
+GL |S1000 HW [Good luck, How]^
+GL |S1000 DX [Good luck, D X]^
+FB |S1000 DX [Fine business, D X]^
+GL |S1000 SIG [Good luck, Signal]^
+HW |S1000 CPI [How, Copy]^
+GL |S1000 OM [Good luck, Old man]^
+QRN |S1000 CPI [Noise, Copy]^
+GL |S1000 SIG [Good luck, Signal]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+GL |S1000 BTU [Good luck, Back to you]^
+QSB |S1000 QRN [Fading, Noise]^
+GL |S1000 ANT [Good luck, Antenna]^
+GL |S1000 CPI [Good luck, Copy]^
+GL |S1000 QRL [Good luck, Busy]^
+GL |S1000 SRI [Good luck, Sorry]^
+BEAM |S1000 GL [Beam, Good luck]^
+DX |S1000 QRN [D X, Noise]^
+BEAM |S1000 GL [Beam, Good luck]^
+DX |S1000 QRN [D X, Noise]^
+QSB |S1000 CPI [Fading, Copy]^
+HW |S1000 CPI [How, Copy]^
+GL |S1000 OM [Good luck, Old man]^
+SIG |S1000 ANT [Signal, Antenna]^
+CPY |S1000 GL [Copy, Good luck]^
+CPY |S1000 GL [Copy, Good luck]^
+QRL |S1000 DIPOLE [Busy, Dipole]^
+GL |S1000 SRI [Good luck, Sorry]^
+HPE |S1000 CPI [Hope, Copy]^
+GL |S1000 QRN [Good luck, Noise]^
+OM |S1000 GL [Old man, Good luck]^
+HPE |S1000 HW [Hope, How]^
+SRI |S1000 GL [Sorry, Good luck]^
+FB |S1000 HW [Fine business, How]^
+DX |S1000 QSB [D X, Fading]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+HW |S1000 GL [How, Good luck]^
+HW |S1000 BTU [How, Back to you]^
+DX |S1000 ANT [D X, Antenna]^
+GL |S1000 FB [Good luck, Fine business]^
+GL |S1000 BTU [Good luck, Back to you]^
+GL |S1000 OM [Good luck, Old man]^
+GL |S1000 BTU [Good luck, Back to you]^
+GL |S1000 HW [Good luck, How]^
+QSB |S1000 QRN [Fading, Noise]^
+OM |S1000 BEAM [Old man, Beam]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+TNX |S1000 FB [Thanks, Fine business]^
+SIG |S1000 BTU [Signal, Back to you]^
+BEAM |S1000 SRI [Beam, Sorry]^
+GL |S1000 CPY [Good luck, Copy]^
+GL |S1000 BEAM [Good luck, Beam]^
+DX |S1000 GL [D X, Good luck]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+GL |S1000 OM [Good luck, Old man]^
+DX |S1000 CPI [D X, Copy]^
+OM |S1000 GL [Old man, Good luck]^
+BTU |S1000 GL [Back to you, Good luck]^
+TNX |S1000 GL [Thanks, Good luck]^
+ANT |S1000 GL [Antenna, Good luck]^
+DX |S1000 TNX [D X, Thanks]^
+GL |S1000 SIG [Good luck, Signal]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+HPE |S1000 GL [Hope, Good luck]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+BTU |S1000 TNX [Back to you, Thanks]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+BTU |S1000 TNX [Back to you, Thanks]^
+ANT |S1000 GL [Antenna, Good luck]^
+CUL |S1000 DX [See you later, D X]^
+GL |S1000 HW [Good luck, How]^
+GL |S1000 SRI [Good luck, Sorry]^
+HW |S1000 QRN [How, Noise]^
+GL |S1000 CUL [Good luck, See you later]^
+OM |S1000 CPI [Old man, Copy]^
+GL |S1000 ANT [Good luck, Antenna]^
+QRL |S1000 HPE [Busy, Hope]^
+QSB |S1000 QRN [Fading, Noise]^
+HW |S1000 QRL [How, Busy]^
+ANT |S1000 CPY [Antenna, Copy]^
+OM |S1000 QSB [Old man, Fading]^
+GL |S1000 QRL [Good luck, Busy]^
+GL |S1000 DX [Good luck, D X]^
+CPI |S1000 SIG [Copy, Signal]^
+QRN |S1000 GL [Noise, Good luck]^
+SIG |S1000 CUL [Signal, See you later]^
+HW |S1000 GL [How, Good luck]^
+QRL |S1000 GL [Busy, Good luck]^
+SIG |S1000 ANT [Signal, Antenna]^
+GL |S1000 HW [Good luck, How]^
+GL |S1000 ANT [Good luck, Antenna]^
+QRN |S1000 QSB [Noise, Fading]^
+ANT |S1000 DIPOLE [Antenna, Dipole]^
+GL |S1000 TNX [Good luck, Thanks]^
+QRL |S1000 GL [Busy, Good luck]^
+OM |S1000 GL [Old man, Good luck]^
+QRL |S1000 DIPOLE [Busy, Dipole]^
+BEAM |S1000 HW [Beam, How]^
+CUL |S1000 BTU [See you later, Back to you]^
+QRL |S1000 GL [Busy, Good luck]^
+DX |S1000 TNX [D X, Thanks]^
+QSB |S1000 GL [Fading, Good luck]^
+ANT |S1000 GL [Antenna, Good luck]^
+SRI |S1000 ANT [Sorry, Antenna]^
+GL |S1000 QRL [Good luck, Busy]^
+BEAM |S1000 GL [Beam, Good luck]^
+SRI |S1000 HW [Sorry, How]^
+QRN |S1000 HW [Noise, How]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+BEAM |S1000 GL [Beam, Good luck]^
+FB |S1000 SRI [Fine business, Sorry]^
+HW |S1000 QRL [How, Busy]^
+CPY |S1000 GL [Copy, Good luck]^
+HW |S1000 GL [How, Good luck]^
+FB |S1000 CPI [Fine business, Copy]^
+GL |S1000 HPE [Good luck, Hope]^
+GL |S1000 DX [Good luck, D X]^
+GL |S1000 FB [Good luck, Fine business]^
+TNX |S1000 GL [Thanks, Good luck]^
+OM |S1000 ANT [Old man, Antenna]^
+QRN |S1000 QSB [Noise, Fading]^
+CPY |S1000 GL [Copy, Good luck]^
+HW |S1000 SIG [How, Signal]^
+GL |S1000 QSB [Good luck, Fading]^
+CPI |S1000 QRN [Copy, Noise]^
+QSB |S1000 GL [Fading, Good luck]^
+HPE |S1000 QSB [Hope, Fading]^
+BEAM |S1000 GL [Beam, Good luck]^
+ANT |S1000 GL [Antenna, Good luck]^
+CUL |S1000 SIG [See you later, Signal]^
+CPY |S1000 OM [Copy, Old man]^
+GL |S1000 FB [Good luck, Fine business]^
+BEAM |S1000 CPI [Beam, Copy]^
+GL |S1000 QRL [Good luck, Busy]^
+DX |S1000 CPI [D X, Copy]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+QRL |S1000 QRN [Busy, Noise]^
+CUL |S1000 GL [See you later, Good luck]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+TNX |S1000 CPY [Thanks, Copy]^
+ANT |S1000 GL [Antenna, Good luck]^
+CUL |S1000 OM [See you later, Old man]^
+GL |S1000 DX [Good luck, D X]^
+CUL |S1000 DX [See you later, D X]^
+TNX |S1000 GL [Thanks, Good luck]^
+OM |S1000 BTU [Old man, Back to you]^
+QSB |S1000 GL [Fading, Good luck]^
+ANT |S1000 BEAM [Antenna, Beam]^
+OM |S1000 GL [Old man, Good luck]^
+BTU |S1000 GL [Back to you, Good luck]^
+HW |S1000 OM [How, Old man]^
+SIG |S1000 SRI [Signal, Sorry]^
+QRN |S1000 GL [Noise, Good luck]^
+FB |S1000 GL [Fine business, Good luck]^
+FB |S1000 QSB [Fine business, Fading]^
+TNX |S1000 BTU [Thanks, Back to you]^
+GL |S1000 DX [Good luck, D X]^
+ANT |S1000 CPY [Antenna, Copy]^
+BTU |S1000 QRL [Back to you, Busy]^
+FB |S1000 CPI [Fine business, Copy]^
+GL |S1000 QRL [Good luck, Busy]^
+DX |S1000 GL [D X, Good luck]^
+SRI |S1000 BEAM [Sorry, Beam]^
+GL |S1000 QRL [Good luck, Busy]^
+BTU |S1000 HPE [Back to you, Hope]^
+FB |S1000 GL [Fine business, Good luck]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+QRN |S1000 BTU [Noise, Back to you]^
+TNX |S1000 HPE [Thanks, Hope]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+CPI |S1000 GL [Copy, Good luck]^
+BEAM |S1000 HPE [Beam, Hope]^
+GL |S1000 CPY [Good luck, Copy]^
+SRI |S1000 DX [Sorry, D X]^
+GL |S1000 HPE [Good luck, Hope]^
+QSB |S1000 GL [Fading, Good luck]^
+DIPOLE |S1000 QSB [Dipole, Fading]^
+GL |S1000 QRN [Good luck, Noise]^
+GL |S1000 HW [Good luck, How]^
+OM |S1000 ANT [Old man, Antenna]^
+QSB |S1000 BEAM [Fading, Beam]^
+GL |S1000 CPY [Good luck, Copy]^
+OM |S1000 GL [Old man, Good luck]^
+QRN |S1000 TNX [Noise, Thanks]^
+OM |S1000 GL [Old man, Good luck]^
+DX |S1000 CUL [D X, See you later]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+QSB |S1000 CPY [Fading, Copy]^
+GL |S1000 OM [Good luck, Old man]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+GL |S1000 HPE [Good luck, Hope]^
+GL |S1000 CPY [Good luck, Copy]^
+OM |S1000 GL [Old man, Good luck]^
+DX |S1000 GL [D X, Good luck]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+TNX |S1000 BTU [Thanks, Back to you]^
+GL |S1000 BEAM [Good luck, Beam]^
+QRN |S1000 GL [Noise, Good luck]^
+SIG |S1000 FB [Signal, Fine business]^
+GL |S1000 HPE [Good luck, Hope]^
+HW |S1000 DIPOLE [How, Dipole]^
+GL |S1000 DX [Good luck, D X]^
+GL |S1000 CPY [Good luck, Copy]^
+SIG |S1000 ANT [Signal, Antenna]^
+GL |S1000 BTU [Good luck, Back to you]^
+GL |S1000 SIG [Good luck, Signal]^
+GL |S1000 CPI [Good luck, Copy]^
+FB |S1000 CUL [Fine business, See you later]^
+GL |S1000 CPY [Good luck, Copy]^
+GL |S1000 QSB [Good luck, Fading]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+CUL |S1000 QRN [See you later, Noise]^
+HPE |S1000 GL [Hope, Good luck]^
+OM |S1000 SRI [Old man, Sorry]^
+HW |S1000 GL [How, Good luck]^
+BEAM |S1000 DX [Beam, D X]^
+BTU |S1000 QRN [Back to you, Noise]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+GL |S1000 TNX [Good luck, Thanks]^
+GL |S1000 SRI [Good luck, Sorry]^
+GL |S1000 SIG [Good luck, Signal]^
+QRL |S1000 GL [Busy, Good luck]^
+ANT |S1000 GL [Antenna, Good luck]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+HW |S1000 GL [How, Good luck]^
+CUL |S1000 QSB [See you later, Fading]^
+GL |S1000 BEAM [Good luck, Beam]^
+OM |S1000 CPI [Old man, Copy]^
+GL |S1000 QRL [Good luck, Busy]^
+DX |S1000 QRL [D X, Busy]^
+GL |S1000 FB [Good luck, Fine business]^
+CPI |S1000 GL [Copy, Good luck]^
+HPE |S1000 CUL [Hope, See you later]^
+GL |S1000 FB [Good luck, Fine business]^
+GL |S1000 QSB [Good luck, Fading]^
+ANT |S1000 QSB [Antenna, Fading]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+DIPOLE |S1000 QSB [Dipole, Fading]^
+GL |S1000 SRI [Good luck, Sorry]^
+QRN |S1000 SRI [Noise, Sorry]^
+GL |S1000 CUL [Good luck, See you later]^
+GL |S1000 TNX [Good luck, Thanks]^
+DX |S1000 GL [D X, Good luck]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+GL |S1000 BTU [Good luck, Back to you]^
+GL |S1000 SIG [Good luck, Signal]^
+BTU |S1000 TNX [Back to you, Thanks]^
+GL |S1000 CPI [Good luck, Copy]^
+GL |S1000 CPY [Good luck, Copy]^
+GL |S1000 QSB [Good luck, Fading]^
+HPE |S1000 QRN [Hope, Noise]^
+CPY |S1000 GL [Copy, Good luck]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+TNX |S1000 DX [Thanks, D X]^
+GL |S1000 ANT [Good luck, Antenna]^
+DX |S1000 SIG [D X, Signal]^
+ANT |S1000 TNX [Antenna, Thanks]^
+CPY |S1000 GL [Copy, Good luck]^
+QSB |S1000 GL [Fading, Good luck]^
+OM |S1000 FB [Old man, Fine business]^
+QRN |S1000 HPE [Noise, Hope]^
+GL |S1000 FB [Good luck, Fine business]^
+GL |S1000 HPE [Good luck, Hope]^
+ANT |S1000 QSB [Antenna, Fading]^
+SRI |S1000 GL [Sorry, Good luck]^
+CPI |S1000 GL [Copy, Good luck]^
+QSB |S1000 QRL [Fading, Busy]^
+GL |S1000 SRI [Good luck, Sorry]^
+TNX |S1000 HPE [Thanks, Hope]^
+CPI |S1000 GL [Copy, Good luck]^
+DX |S1000 GL [D X, Good luck]^
+CPI |S1000 HW [Copy, How]^
+QRN |S1000 GL [Noise, Good luck]^
+CPI |S1000 HW [Copy, How]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+HPE |S1000 SRI [Hope, Sorry]^
+CPY |S1000 CPI [Copy, Copy]^
+SIG |S1000 ANT [Signal, Antenna]^
+QRL |S1000 GL [Busy, Good luck]^
+QRL |S1000 GL [Busy, Good luck]^
+TNX |S1000 SRI [Thanks, Sorry]^
+GL |S1000 CUL [Good luck, See you later]^
+ANT |S1000 GL [Antenna, Good luck]^
+SIG |S1000 BEAM [Signal, Beam]^
+GL |S1000 QSB [Good luck, Fading]^
+GL |S1000 ANT [Good luck, Antenna]^
+HW |S1000 QRL [How, Busy]^
+BTU |S1000 ANT [Back to you, Antenna]^
+QSB |S1000 GL [Fading, Good luck]^
+DX |S1000 CUL [D X, See you later]^
+GL |S1000 SIG [Good luck, Signal]^
+QSB |S1000 GL [Fading, Good luck]^
+CUL |S1000 GL [See you later, Good luck]^
+SIG |S1000 FB [Signal, Fine business]^
+TNX |S1000 SRI [Thanks, Sorry]^
+QRL |S1000 QSB [Busy, Fading]^
+SRI |S1000 GL [Sorry, Good luck]^
+HW |S1000 GL [How, Good luck]^
+BTU |S1000 CPI [Back to you, Copy]^
+CUL |S1000 OM [See you later, Old man]^
+GL |S1000 HPE [Good luck, Hope]^
+GL |S1000 QRL [Good luck, Busy]^
+QRN |S1000 GL [Noise, Good luck]^
+TNX |S1000 HW [Thanks, How]^
+QRL |S1000 GL [Busy, Good luck]^
+QRL |S1000 CUL [Busy, See you later]^
+TNX |S1000 GL [Thanks, Good luck]^
+SIG |S1000 GL [Signal, Good luck]^
+CUL |S1000 BEAM [See you later, Beam]^
+GL |S1000 DX [Good luck, D X]^
+GL |S1000 TNX [Good luck, Thanks]^
+QRL |S1000 BEAM [Busy, Beam]^
+DIPOLE |S1000 DX [Dipole, D X]^
+CUL |S1000 GL [See you later, Good luck]^
+QRL |S1000 GL [Busy, Good luck]^
+QRL |S1000 GL [Busy, Good luck]^
+OM |S1000 HW [Old man, How]^
+GL |S1000 HPE [Good luck, Hope]^
+TNX |S1000 SIG [Thanks, Signal]^
+CPY |S1000 CUL [Copy, See you later]^
+GL |S1000 QRL [Good luck, Busy]^
+QRN |S1000 GL [Noise, Good luck]^
+CUL |S1000 GL [See you later, Good luck]^
+FB |S1000 GL [Fine business, Good luck]^
+HPE |S1000 OM [Hope, Old man]^
+GL |S1000 SRI [Good luck, Sorry]^
+GL |S1000 CPY [Good luck, Copy]^
+GL |S1000 HPE [Good luck, Hope]^
+OM |S1000 GL [Old man, Good luck]^
+TNX |S1000 BEAM [Thanks, Beam]^
+HPE |S1000 GL [Hope, Good luck]^
+ANT |S1000 HW [Antenna, How]^
+CPY |S1000 HPE [Copy, Hope]^
+QRL |S1000 BTU [Busy, Back to you]^
+ANT |S1000 QRL [Antenna, Busy]^
+GL |S1000 OM [Good luck, Old man]^
+QRN |S1000 SIG [Noise, Signal]^
+GL |S1000 DIPOLE [Good luck, Dipole]^

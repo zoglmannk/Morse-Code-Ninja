@@ -1,0 +1,600 @@
+BURO |S1000 RX [bureau, Receive]^
+MNI |S1000 QRQ [Many, High speed]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+EFHW |S1000 TX [End fed, half-wave, Transmit]^
+RX |S1000 HR [Receive, Hear]^
+EL |S1000 TX [Element, Transmit]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+EFHW |S1000 HR [End fed, half-wave, Hear]^
+QSY |S1000 EFHW [Change frequency, End fed, half-wave]^
+EL |S1000 QRS [Element, Slow speed]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+MNI |S1000 HR [Many, Hear]^
+PSE |S1000 EFHW [Please, End fed, half-wave]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+EFHW |S1000 PLS [End fed, half-wave, Please]^
+EL |S1000 QRS [Element, Slow speed]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+HR |S1000 TX [Hear, Transmit]^
+EFHW |S1000 HR [End fed, half-wave, Hear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
+QRP |S1000 YL [Low power, Young lady]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+PLS |S1000 EFHW [Please, End fed, half-wave]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+QSY |S1000 DR [Change frequency, Dear]^
+HW\? |S1000 DR [How copy\?, Dear]^
+EFHW |S1000 QSL [End fed, half-wave, Confirm]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+PLS |S1000 CFM [Please, Confirm]^
+PSE |S1000 EFHW [Please, End fed, half-wave]^
+OP |S1000 EFHW [Operator, End fed, half-wave]^
+HR |S1000 QSY [Hear, Change frequency]^
+BURO |S1000 EFHW [bureau, End fed, half-wave]^
+PLS |S1000 DR [Please, Dear]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+QRP |S1000 QRQ [Low power, High speed]^
+QRP |S1000 QSL [Low power, Confirm]^
+HR |S1000 BCNU [Hear, Be seeing you]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+EFHW |S1000 HR [End fed, half-wave, Hear]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+EFHW |S1000 TX [End fed, half-wave, Transmit]^
+QRQ |S1000 QSY [High speed, Change frequency]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+FT |S1000 QRQ [Feet, High speed]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+QRQ |S1000 EL [High speed, Element]^
+EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+EFHW |S1000 MNI [End fed, half-wave, Many]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+QSL |S1000 QRQ [Confirm, High speed]^
+OP |S1000 EFHW [Operator, End fed, half-wave]^
+HW\? |S1000 QSL [How copy\?, Confirm]^
+EFHW |S1000 HR [End fed, half-wave, Hear]^
+EFHW |S1000 QRP [End fed, half-wave, Low power]^
+QSL |S1000 BCNU [Confirm, Be seeing you]^
+QRP |S1000 HR [Low power, Hear]^
+QSY |S1000 OP [Change frequency, Operator]^
+EL |S1000 BURO [Element, bureau]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+QSY |S1000 OP [Change frequency, Operator]^
+MNI |S1000 QSY [Many, Change frequency]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+EFHW |S1000 TX [End fed, half-wave, Transmit]^
+EFHW |S1000 HR [End fed, half-wave, Hear]^
+QRS |S1000 CFM [Slow speed, Confirm]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+YL |S1000 QSL [Young lady, Confirm]^
+BCNU |S1000 MNI [Be seeing you, Many]^
+EFHW |S1000 QRS [End fed, half-wave, Slow speed]^
+YL |S1000 QSY [Young lady, Change frequency]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+OP |S1000 BURO [Operator, bureau]^
+TX |S1000 QSL [Transmit, Confirm]^
+EFHW |S1000 MNI [End fed, half-wave, Many]^
+QRP |S1000 QRS [Low power, Slow speed]^
+HW\? |S1000 DR [How copy\?, Dear]^
+BURO |S1000 EFHW [bureau, End fed, half-wave]^
+PSE |S1000 EFHW [Please, End fed, half-wave]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+OP |S1000 TX [Operator, Transmit]^
+EFHW |S1000 TX [End fed, half-wave, Transmit]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+QRP |S1000 HR [Low power, Hear]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+QSY |S1000 EFHW [Change frequency, End fed, half-wave]^
+BCNU |S1000 OP [Be seeing you, Operator]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+BURO |S1000 QSL [bureau, Confirm]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+EFHW |S1000 HR [End fed, half-wave, Hear]^
+EFHW |S1000 TX [End fed, half-wave, Transmit]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+EL |S1000 QSY [Element, Change frequency]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+PSE |S1000 YL [Please, Young lady]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+TX |S1000 CFM [Transmit, Confirm]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+QSY |S1000 MNI [Change frequency, Many]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+EFHW |S1000 BURO [End fed, half-wave, bureau]^
+QRP |S1000 HW\? [Low power, How copy\?]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+EFHW |S1000 YL [End fed, half-wave, Young lady]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+PLS |S1000 EL [Please, Element]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+HR |S1000 QRQ [Hear, High speed]^
+EFHW |S1000 MNI [End fed, half-wave, Many]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+TX |S1000 MNI [Transmit, Many]^
+EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
+PLS |S1000 QRP [Please, Low power]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+PLS |S1000 QRQ [Please, High speed]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+EFHW |S1000 CFM [End fed, half-wave, Confirm]^
+EFHW |S1000 CFM [End fed, half-wave, Confirm]^
+YL |S1000 PLS [Young lady, Please]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+CFM |S1000 EL [Confirm, Element]^
+MNI |S1000 QRS [Many, Slow speed]^
+EFHW |S1000 BURO [End fed, half-wave, bureau]^
+EFHW |S1000 PLS [End fed, half-wave, Please]^
+QRS |S1000 TX [Slow speed, Transmit]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+QRQ |S1000 QRP [High speed, Low power]^
+EFHW |S1000 BCNU [End fed, half-wave, Be seeing you]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+OP |S1000 EFHW [Operator, End fed, half-wave]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+HW\? |S1000 DR [How copy\?, Dear]^
+HR |S1000 BCNU [Hear, Be seeing you]^
+PLS |S1000 EFHW [Please, End fed, half-wave]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+FT |S1000 MNI [Feet, Many]^
+QSL |S1000 DR [Confirm, Dear]^
+YL |S1000 QRS [Young lady, Slow speed]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+HR |S1000 BURO [Hear, bureau]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+HW\? |S1000 OP [How copy\?, Operator]^
+EFHW |S1000 OP [End fed, half-wave, Operator]^
+FT |S1000 HW\? [Feet, How copy\?]^
+MNI |S1000 CFM [Many, Confirm]^
+MNI |S1000 TX [Many, Transmit]^
+DR |S1000 MNI [Dear, Many]^
+BURO |S1000 EFHW [bureau, End fed, half-wave]^
+YL |S1000 PLS [Young lady, Please]^
+BURO |S1000 DR [bureau, Dear]^
+PLS |S1000 EFHW [Please, End fed, half-wave]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+PLS |S1000 QSL [Please, Confirm]^
+YL |S1000 OP [Young lady, Operator]^
+QSY |S1000 EFHW [Change frequency, End fed, half-wave]^
+TX |S1000 YL [Transmit, Young lady]^
+TX |S1000 CFM [Transmit, Confirm]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+OP |S1000 DR [Operator, Dear]^
+EFHW |S1000 BCNU [End fed, half-wave, Be seeing you]^
+QSY |S1000 EFHW [Change frequency, End fed, half-wave]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+QSY |S1000 EL [Change frequency, Element]^
+EFHW |S1000 BURO [End fed, half-wave, bureau]^
+EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+EFHW |S1000 QRP [End fed, half-wave, Low power]^
+EFHW |S1000 BCNU [End fed, half-wave, Be seeing you]^
+EFHW |S1000 PSE [End fed, half-wave, Please]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+QRP |S1000 CFM [Low power, Confirm]^
+QRP |S1000 BURO [Low power, bureau]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+CFM |S1000 PSE [Confirm, Please]^
+HW\? |S1000 FT [How copy\?, Feet]^
+HR |S1000 CFM [Hear, Confirm]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+MNI |S1000 EL [Many, Element]^
+EFHW |S1000 QRS [End fed, half-wave, Slow speed]^
+EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+EFHW |S1000 BURO [End fed, half-wave, bureau]^
+EFHW |S1000 OP [End fed, half-wave, Operator]^
+FT |S1000 DR [Feet, Dear]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+EFHW |S1000 BURO [End fed, half-wave, bureau]^
+EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+YL |S1000 QRQ [Young lady, High speed]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+YL |S1000 PLS [Young lady, Please]^
+HR |S1000 FT [Hear, Feet]^
+BCNU |S1000 FT [Be seeing you, Feet]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+EFHW |S1000 BCNU [End fed, half-wave, Be seeing you]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+QRS |S1000 PSE [Slow speed, Please]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+QRP |S1000 BCNU [Low power, Be seeing you]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+OP |S1000 EFHW [Operator, End fed, half-wave]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+QRS |S1000 CFM [Slow speed, Confirm]^
+OP |S1000 MNI [Operator, Many]^
+QRQ |S1000 FT [High speed, Feet]^
+EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
+BCNU |S1000 HW\? [Be seeing you, How copy\?]^
+EFHW |S1000 QSL [End fed, half-wave, Confirm]^
+EFHW |S1000 QSL [End fed, half-wave, Confirm]^
+HW\? |S1000 MNI [How copy\?, Many]^
+PSE |S1000 EFHW [Please, End fed, half-wave]^
+PLS |S1000 HR [Please, Hear]^
+EFHW |S1000 BURO [End fed, half-wave, bureau]^
+EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
+EFHW |S1000 HR [End fed, half-wave, Hear]^
+OP |S1000 CFM [Operator, Confirm]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+BURO |S1000 EFHW [bureau, End fed, half-wave]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+QRS |S1000 PSE [Slow speed, Please]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+MNI |S1000 BURO [Many, bureau]^
+OP |S1000 EFHW [Operator, End fed, half-wave]^
+QRQ |S1000 QSL [High speed, Confirm]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+YL |S1000 QSL [Young lady, Confirm]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+QSL |S1000 CFM [Confirm, Confirm]^
+EFHW |S1000 PLS [End fed, half-wave, Please]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+MNI |S1000 PSE [Many, Please]^
+QRP |S1000 FT [Low power, Feet]^
+PLS |S1000 BURO [Please, bureau]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+EFHW |S1000 BURO [End fed, half-wave, bureau]^
+OP |S1000 PSE [Operator, Please]^
+EFHW |S1000 QSL [End fed, half-wave, Confirm]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+QSL |S1000 BURO [Confirm, bureau]^
+EFHW |S1000 BCNU [End fed, half-wave, Be seeing you]^
+HR |S1000 CFM [Hear, Confirm]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+HR |S1000 FT [Hear, Feet]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+PLS |S1000 BCNU [Please, Be seeing you]^
+QRS |S1000 DR [Slow speed, Dear]^
+QRP |S1000 QSY [Low power, Change frequency]^
+EL |S1000 PLS [Element, Please]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+PSE |S1000 EFHW [Please, End fed, half-wave]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+EL |S1000 QRQ [Element, High speed]^
+EL |S1000 MNI [Element, Many]^
+PLS |S1000 BCNU [Please, Be seeing you]^
+EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+EFHW |S1000 BCNU [End fed, half-wave, Be seeing you]^
+QRQ |S1000 BURO [High speed, bureau]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+BCNU |S1000 TX [Be seeing you, Transmit]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+EFHW |S1000 YL [End fed, half-wave, Young lady]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+PLS |S1000 OP [Please, Operator]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+QRP |S1000 QRS [Low power, Slow speed]^
+EFHW |S1000 MNI [End fed, half-wave, Many]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+FT |S1000 QRQ [Feet, High speed]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+QSL |S1000 EFHW [Confirm, End fed, half-wave]^
+OP |S1000 PLS [Operator, Please]^
+PSE |S1000 QRQ [Please, High speed]^
+EFHW |S1000 CFM [End fed, half-wave, Confirm]^
+EFHW |S1000 PLS [End fed, half-wave, Please]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+QSL |S1000 OP [Confirm, Operator]^
+EFHW |S1000 MNI [End fed, half-wave, Many]^
+EFHW |S1000 OP [End fed, half-wave, Operator]^
+EFHW |S1000 QSL [End fed, half-wave, Confirm]^
+EFHW |S1000 QSL [End fed, half-wave, Confirm]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+OP |S1000 HW\? [Operator, How copy\?]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+EL |S1000 DR [Element, Dear]^
+EFHW |S1000 PLS [End fed, half-wave, Please]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+EFHW |S1000 TX [End fed, half-wave, Transmit]^
+FT |S1000 QRP [Feet, Low power]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+QRP |S1000 YL [Low power, Young lady]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+MNI |S1000 PLS [Many, Please]^
+EFHW |S1000 QRP [End fed, half-wave, Low power]^
+EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
+PSE |S1000 BURO [Please, bureau]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+PSE |S1000 YL [Please, Young lady]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+BCNU |S1000 CFM [Be seeing you, Confirm]^
+PLS |S1000 EFHW [Please, End fed, half-wave]^
+CFM |S1000 BCNU [Confirm, Be seeing you]^
+EFHW |S1000 CFM [End fed, half-wave, Confirm]^
+EFHW |S1000 YL [End fed, half-wave, Young lady]^
+EFHW |S1000 YL [End fed, half-wave, Young lady]^
+QSL |S1000 YL [Confirm, Young lady]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+PLS |S1000 YL [Please, Young lady]^
+BURO |S1000 DR [bureau, Dear]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+EFHW |S1000 PLS [End fed, half-wave, Please]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+EL |S1000 QRP [Element, Low power]^
+PLS |S1000 MNI [Please, Many]^
+EFHW |S1000 BCNU [End fed, half-wave, Be seeing you]^
+MNI |S1000 QRQ [Many, High speed]^
+QRS |S1000 DR [Slow speed, Dear]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+QRS |S1000 QSL [Slow speed, Confirm]^
+FT |S1000 QRP [Feet, Low power]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+PLS |S1000 EFHW [Please, End fed, half-wave]^
+TX |S1000 QSY [Transmit, Change frequency]^
+BURO |S1000 TX [bureau, Transmit]^
+EL |S1000 YL [Element, Young lady]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+FT |S1000 YL [Feet, Young lady]^
+HR |S1000 PLS [Hear, Please]^
+EFHW |S1000 OP [End fed, half-wave, Operator]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+BURO |S1000 EFHW [bureau, End fed, half-wave]^
+YL |S1000 QSL [Young lady, Confirm]^
+EFHW |S1000 MNI [End fed, half-wave, Many]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+EFHW |S1000 CFM [End fed, half-wave, Confirm]^
+QRS |S1000 BCNU [Slow speed, Be seeing you]^
+EFHW |S1000 PSE [End fed, half-wave, Please]^
+EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+CFM |S1000 QRS [Confirm, Slow speed]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+PSE |S1000 RX [Please, Receive]^
+DR |S1000 QSY [Dear, Change frequency]^
+EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+MNI |S1000 RX [Many, Receive]^
+QRS |S1000 CFM [Slow speed, Confirm]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+BURO |S1000 OP [bureau, Operator]^
+QSL |S1000 FT [Confirm, Feet]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+RX |S1000 PLS [Receive, Please]^
+BCNU |S1000 EL [Be seeing you, Element]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+QSY |S1000 EFHW [Change frequency, End fed, half-wave]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+BURO |S1000 TX [bureau, Transmit]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+PSE |S1000 EFHW [Please, End fed, half-wave]^
+BURO |S1000 TX [bureau, Transmit]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+QRS |S1000 QRQ [Slow speed, High speed]^
+RX |S1000 TX [Receive, Transmit]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+BCNU |S1000 EL [Be seeing you, Element]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+QSL |S1000 PSE [Confirm, Please]^
+EFHW |S1000 BCNU [End fed, half-wave, Be seeing you]^
+BURO |S1000 EFHW [bureau, End fed, half-wave]^
+TX |S1000 YL [Transmit, Young lady]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+QRQ |S1000 PLS [High speed, Please]^
+QSY |S1000 EL [Change frequency, Element]^
+EFHW |S1000 QRS [End fed, half-wave, Slow speed]^
+PSE |S1000 QRS [Please, Slow speed]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+DR |S1000 RX [Dear, Receive]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+RX |S1000 BURO [Receive, bureau]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+QSL |S1000 MNI [Confirm, Many]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+PLS |S1000 DR [Please, Dear]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+QRS |S1000 MNI [Slow speed, Many]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+EFHW |S1000 HR [End fed, half-wave, Hear]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+QSY |S1000 HR [Change frequency, Hear]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+OP |S1000 DR [Operator, Dear]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+HR |S1000 TX [Hear, Transmit]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+PLS |S1000 EFHW [Please, End fed, half-wave]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+QRS |S1000 FT [Slow speed, Feet]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+HR |S1000 EL [Hear, Element]^
+HW\? |S1000 QSY [How copy\?, Change frequency]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+QSY |S1000 PLS [Change frequency, Please]^
+EFHW |S1000 QRS [End fed, half-wave, Slow speed]^
+EFHW |S1000 YL [End fed, half-wave, Young lady]^
+FT |S1000 QSY [Feet, Change frequency]^
+QRS |S1000 BCNU [Slow speed, Be seeing you]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+EFHW |S1000 MNI [End fed, half-wave, Many]^
+EFHW |S1000 OP [End fed, half-wave, Operator]^
+FT |S1000 TX [Feet, Transmit]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+MNI |S1000 RX [Many, Receive]^
+QRQ |S1000 OP [High speed, Operator]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+QRQ |S1000 PSE [High speed, Please]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+YL |S1000 TX [Young lady, Transmit]^
+DR |S1000 BCNU [Dear, Be seeing you]^
+MNI |S1000 QRS [Many, Slow speed]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+BURO |S1000 HR [bureau, Hear]^
+EFHW |S1000 HR [End fed, half-wave, Hear]^
+EFHW |S1000 CFM [End fed, half-wave, Confirm]^
+EFHW |S1000 CFM [End fed, half-wave, Confirm]^
+HR |S1000 BCNU [Hear, Be seeing you]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+BURO |S1000 TX [bureau, Transmit]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+EFHW |S1000 BURO [End fed, half-wave, bureau]^
+PSE |S1000 EFHW [Please, End fed, half-wave]^
+PSE |S1000 EL [Please, Element]^
+RX |S1000 DR [Receive, Dear]^
+HR |S1000 CFM [Hear, Confirm]^
+HW\? |S1000 EL [How copy\?, Element]^
+QRS |S1000 PLS [Slow speed, Please]^
+QSL |S1000 YL [Confirm, Young lady]^
+EFHW |S1000 CFM [End fed, half-wave, Confirm]^
+EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+FT |S1000 PLS [Feet, Please]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+EL |S1000 PLS [Element, Please]^
+EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+EFHW |S1000 BCNU [End fed, half-wave, Be seeing you]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+FT |S1000 MNI [Feet, Many]^
+HR |S1000 QSY [Hear, Change frequency]^
+EFHW |S1000 TX [End fed, half-wave, Transmit]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+MNI |S1000 FT [Many, Feet]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+DR |S1000 YL [Dear, Young lady]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+PLS |S1000 EFHW [Please, End fed, half-wave]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+QSL |S1000 HW\? [Confirm, How copy\?]^
+BCNU |S1000 QRQ [Be seeing you, High speed]^
+BURO |S1000 QSL [bureau, Confirm]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+BCNU |S1000 YL [Be seeing you, Young lady]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+PSE |S1000 CFM [Please, Confirm]^
+EFHW |S1000 QSL [End fed, half-wave, Confirm]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+RX |S1000 FT [Receive, Feet]^
+EFHW |S1000 QRP [End fed, half-wave, Low power]^
+EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+DR |S1000 QRP [Dear, Low power]^
+HW\? |S1000 OP [How copy\?, Operator]^
+QSY |S1000 QRS [Change frequency, Slow speed]^
+EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
+CFM |S1000 HR [Confirm, Hear]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+FT |S1000 MNI [Feet, Many]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+TX |S1000 BCNU [Transmit, Be seeing you]^
+EFHW |S1000 PSE [End fed, half-wave, Please]^
+EL |S1000 QRS [Element, Slow speed]^
+EFHW |S1000 QRP [End fed, half-wave, Low power]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+PLS |S1000 RX [Please, Receive]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+PSE |S1000 YL [Please, Young lady]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+YL |S1000 QSL [Young lady, Confirm]^
+OP |S1000 BURO [Operator, bureau]^
+EFHW |S1000 OP [End fed, half-wave, Operator]^
+BURO |S1000 EFHW [bureau, End fed, half-wave]^
+RX |S1000 QRQ [Receive, High speed]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+QSY |S1000 EFHW [Change frequency, End fed, half-wave]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+TX |S1000 EL [Transmit, Element]^
+PLS |S1000 EFHW [Please, End fed, half-wave]^
+TX |S1000 PSE [Transmit, Please]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+QRS |S1000 HR [Slow speed, Hear]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+TX |S1000 EFHW [Transmit, End fed, half-wave]^
+QSY |S1000 YL [Change frequency, Young lady]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+QSL |S1000 HR [Confirm, Hear]^
+EFHW |S1000 QRS [End fed, half-wave, Slow speed]^
+QRP |S1000 BCNU [Low power, Be seeing you]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+CFM |S1000 EFHW [Confirm, End fed, half-wave]^
+HW\? |S1000 BCNU [How copy\?, Be seeing you]^
+EFHW |S1000 BCNU [End fed, half-wave, Be seeing you]^

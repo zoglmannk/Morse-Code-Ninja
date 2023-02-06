@@ -1,0 +1,600 @@
+TEST |S1000 5NN [Contest, 5 N N]^
+NAME |S1000 UP [Name, Up]^
+TEST |S1000 73 [Contest, 73]^
+TEST |S1000 DE [Contest, From]^
+TEST |S1000 599 [Contest, 5 9 9]^
+UR |S1000 TEST [Your, Contest]^
+559 |S1000 TEST [5 5 9, Contest]^
+RST |S1000 UR [R S T, Your]^
+TEST |S1000 599 [Contest, 5 9 9]^
+QRZ |S1000 5NN [Q R Zed, 5 N N]^
+QRZ |S1000 599 [Q R Zed, 5 9 9]^
+TEST |S1000 5NN [Contest, 5 N N]^
+DE |S1000 TEST [From, Contest]^
+QRM |S1000 TEST [Interference, Contest]^
+CQ |S1000 DE [C Q, From]^
+TEST |S1000 559 [Contest, 5 5 9]^
+599 |S1000 WX [5 9 9, Weather]^
+TEST |S1000 CQ [Contest, C Q]^
+TEST |S1000 CQ [Contest, C Q]^
+TEST |S1000 NR [Contest, Number]^
+TEST |S1000 DE [Contest, From]^
+TEST |S1000 QRM [Contest, Interference]^
+TEST |S1000 WX [Contest, Weather]^
+ES |S1000 RST [And, R S T]^
+TEST |S1000 RST [Contest, R S T]^
+TEST |S1000 DE [Contest, From]^
+73 |S1000 559 [73, 5 5 9]^
+UR |S1000 VY [Your, Very]^
+NAME |S1000 73 [Name, 73]^
+QRZ |S1000 QRM [Q R Zed, Interference]^
+TEST |S1000 WX [Contest, Weather]^
+599 |S1000 TEST [5 9 9, Contest]^
+NAME |S1000 559 [Name, 5 5 9]^
+TEST |S1000 DE [Contest, From]^
+TEST |S1000 NAME [Contest, Name]^
+ES |S1000 TEST [And, Contest]^
+559 |S1000 UR [5 5 9, Your]^
+RST |S1000 5NN [R S T, 5 N N]^
+ES |S1000 QRZ [And, Q R Zed]^
+TEST |S1000 CQ [Contest, C Q]^
+NAME |S1000 559 [Name, 5 5 9]^
+73 |S1000 TEST [73, Contest]^
+UP |S1000 RST [Up, R S T]^
+VY |S1000 73 [Very, 73]^
+5NN |S1000 TEST [5 N N, Contest]^
+VY |S1000 DE [Very, From]^
+599 |S1000 TEST [5 9 9, Contest]^
+NR |S1000 559 [Number, 5 5 9]^
+RST |S1000 VY [R S T, Very]^
+DE |S1000 NR [From, Number]^
+TEST |S1000 RST [Contest, R S T]^
+TEST |S1000 QRM [Contest, Interference]^
+QRZ |S1000 5NN [Q R Zed, 5 N N]^
+NR |S1000 TEST [Number, Contest]^
+QRM |S1000 UR [Interference, Your]^
+TEST |S1000 WX [Contest, Weather]^
+73 |S1000 TEST [73, Contest]^
+73 |S1000 CQ [73, C Q]^
+TEST |S1000 UP [Contest, Up]^
+TEST |S1000 73 [Contest, 73]^
+NAME |S1000 QRZ [Name, Q R Zed]^
+UP |S1000 NAME [Up, Name]^
+ES |S1000 UR [And, Your]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+DE |S1000 TEST [From, Contest]^
+RST |S1000 DE [R S T, From]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+73 |S1000 TEST [73, Contest]^
+599 |S1000 TEST [5 9 9, Contest]^
+NAME |S1000 VY [Name, Very]^
+UP |S1000 73 [Up, 73]^
+TEST |S1000 CQ [Contest, C Q]^
+TEST |S1000 73 [Contest, 73]^
+TEST |S1000 5NN [Contest, 5 N N]^
+UP |S1000 TEST [Up, Contest]^
+WX |S1000 TEST [Weather, Contest]^
+RST |S1000 QRZ [R S T, Q R Zed]^
+73 |S1000 TEST [73, Contest]^
+DE |S1000 TEST [From, Contest]^
+RST |S1000 TEST [R S T, Contest]^
+VY |S1000 RST [Very, R S T]^
+73 |S1000 TEST [73, Contest]^
+CQ |S1000 73 [C Q, 73]^
+5NN |S1000 CQ [5 N N, C Q]^
+NAME |S1000 QRZ [Name, Q R Zed]^
+73 |S1000 TEST [73, Contest]^
+UR |S1000 CQ [Your, C Q]^
+NR |S1000 QRZ [Number, Q R Zed]^
+599 |S1000 73 [5 9 9, 73]^
+TEST |S1000 VY [Contest, Very]^
+RST |S1000 559 [R S T, 5 5 9]^
+TEST |S1000 559 [Contest, 5 5 9]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+TEST |S1000 CQ [Contest, C Q]^
+TEST |S1000 599 [Contest, 5 9 9]^
+TEST |S1000 VY [Contest, Very]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 73 [Contest, 73]^
+TEST |S1000 73 [Contest, 73]^
+UP |S1000 TEST [Up, Contest]^
+599 |S1000 TEST [5 9 9, Contest]^
+NAME |S1000 5NN [Name, 5 N N]^
+NAME |S1000 DE [Name, From]^
+TEST |S1000 QRM [Contest, Interference]^
+TEST |S1000 73 [Contest, 73]^
+TEST |S1000 VY [Contest, Very]^
+599 |S1000 ES [5 9 9, And]^
+DE |S1000 QRM [From, Interference]^
+WX |S1000 QRM [Weather, Interference]^
+TEST |S1000 DE [Contest, From]^
+QRZ |S1000 5NN [Q R Zed, 5 N N]^
+TEST |S1000 DE [Contest, From]^
+RST |S1000 UR [R S T, Your]^
+ES |S1000 CQ [And, C Q]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+TEST |S1000 NR [Contest, Number]^
+TEST |S1000 UR [Contest, Your]^
+VY |S1000 5NN [Very, 5 N N]^
+ES |S1000 TEST [And, Contest]^
+CQ |S1000 TEST [C Q, Contest]^
+WX |S1000 TEST [Weather, Contest]^
+559 |S1000 TEST [5 5 9, Contest]^
+VY |S1000 5NN [Very, 5 N N]^
+CQ |S1000 TEST [C Q, Contest]^
+QRM |S1000 599 [Interference, 5 9 9]^
+UR |S1000 TEST [Your, Contest]^
+559 |S1000 RST [5 5 9, R S T]^
+VY |S1000 TEST [Very, Contest]^
+DE |S1000 UR [From, Your]^
+CQ |S1000 TEST [C Q, Contest]^
+DE |S1000 TEST [From, Contest]^
+CQ |S1000 5NN [C Q, 5 N N]^
+TEST |S1000 599 [Contest, 5 9 9]^
+73 |S1000 TEST [73, Contest]^
+DE |S1000 TEST [From, Contest]^
+DE |S1000 NAME [From, Name]^
+TEST |S1000 VY [Contest, Very]^
+RST |S1000 TEST [R S T, Contest]^
+NR |S1000 TEST [Number, Contest]^
+DE |S1000 5NN [From, 5 N N]^
+ES |S1000 UP [And, Up]^
+RST |S1000 TEST [R S T, Contest]^
+QRM |S1000 NR [Interference, Number]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 VY [Contest, Very]^
+5NN |S1000 RST [5 N N, R S T]^
+QRZ |S1000 WX [Q R Zed, Weather]^
+TEST |S1000 73 [Contest, 73]^
+RST |S1000 559 [R S T, 5 5 9]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+559 |S1000 TEST [5 5 9, Contest]^
+73 |S1000 QRM [73, Interference]^
+UP |S1000 TEST [Up, Contest]^
+73 |S1000 CQ [73, C Q]^
+TEST |S1000 559 [Contest, 5 5 9]^
+TEST |S1000 559 [Contest, 5 5 9]^
+TEST |S1000 QRM [Contest, Interference]^
+73 |S1000 TEST [73, Contest]^
+QRM |S1000 WX [Interference, Weather]^
+UR |S1000 TEST [Your, Contest]^
+QRM |S1000 WX [Interference, Weather]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 RST [Contest, R S T]^
+5NN |S1000 559 [5 N N, 5 5 9]^
+NAME |S1000 WX [Name, Weather]^
+NR |S1000 UR [Number, Your]^
+TEST |S1000 UR [Contest, Your]^
+TEST |S1000 UP [Contest, Up]^
+TEST |S1000 NAME [Contest, Name]^
+WX |S1000 TEST [Weather, Contest]^
+UP |S1000 TEST [Up, Contest]^
+599 |S1000 73 [5 9 9, 73]^
+CQ |S1000 TEST [C Q, Contest]^
+599 |S1000 TEST [5 9 9, Contest]^
+QRM |S1000 UP [Interference, Up]^
+TEST |S1000 599 [Contest, 5 9 9]^
+RST |S1000 TEST [R S T, Contest]^
+73 |S1000 DE [73, From]^
+NR |S1000 TEST [Number, Contest]^
+NAME |S1000 559 [Name, 5 5 9]^
+ES |S1000 TEST [And, Contest]^
+5NN |S1000 CQ [5 N N, C Q]^
+TEST |S1000 DE [Contest, From]^
+TEST |S1000 559 [Contest, 5 5 9]^
+UP |S1000 TEST [Up, Contest]^
+599 |S1000 TEST [5 9 9, Contest]^
+WX |S1000 TEST [Weather, Contest]^
+5NN |S1000 ES [5 N N, And]^
+QRM |S1000 UP [Interference, Up]^
+DE |S1000 RST [From, R S T]^
+TEST |S1000 QRM [Contest, Interference]^
+TEST |S1000 UR [Contest, Your]^
+73 |S1000 TEST [73, Contest]^
+VY |S1000 599 [Very, 5 9 9]^
+TEST |S1000 RST [Contest, R S T]^
+WX |S1000 TEST [Weather, Contest]^
+599 |S1000 TEST [5 9 9, Contest]^
+NR |S1000 73 [Number, 73]^
+TEST |S1000 UR [Contest, Your]^
+TEST |S1000 NR [Contest, Number]^
+559 |S1000 RST [5 5 9, R S T]^
+UR |S1000 TEST [Your, Contest]^
+UP |S1000 559 [Up, 5 5 9]^
+TEST |S1000 NAME [Contest, Name]^
+TEST |S1000 ES [Contest, And]^
+CQ |S1000 559 [C Q, 5 5 9]^
+TEST |S1000 DE [Contest, From]^
+559 |S1000 NAME [5 5 9, Name]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 UP [Contest, Up]^
+NAME |S1000 TEST [Name, Contest]^
+UP |S1000 TEST [Up, Contest]^
+ES |S1000 TEST [And, Contest]^
+599 |S1000 TEST [5 9 9, Contest]^
+VY |S1000 UR [Very, Your]^
+CQ |S1000 UP [C Q, Up]^
+TEST |S1000 RST [Contest, R S T]^
+73 |S1000 TEST [73, Contest]^
+5NN |S1000 DE [5 N N, From]^
+TEST |S1000 73 [Contest, 73]^
+TEST |S1000 599 [Contest, 5 9 9]^
+CQ |S1000 TEST [C Q, Contest]^
+NR |S1000 QRZ [Number, Q R Zed]^
+UR |S1000 TEST [Your, Contest]^
+UP |S1000 TEST [Up, Contest]^
+VY |S1000 TEST [Very, Contest]^
+QRM |S1000 TEST [Interference, Contest]^
+NR |S1000 QRM [Number, Interference]^
+NAME |S1000 TEST [Name, Contest]^
+QRZ |S1000 WX [Q R Zed, Weather]^
+TEST |S1000 RST [Contest, R S T]^
+TEST |S1000 VY [Contest, Very]^
+559 |S1000 TEST [5 5 9, Contest]^
+73 |S1000 TEST [73, Contest]^
+UP |S1000 NAME [Up, Name]^
+QRZ |S1000 RST [Q R Zed, R S T]^
+VY |S1000 TEST [Very, Contest]^
+599 |S1000 TEST [5 9 9, Contest]^
+VY |S1000 TEST [Very, Contest]^
+559 |S1000 TEST [5 5 9, Contest]^
+WX |S1000 ES [Weather, And]^
+5NN |S1000 WX [5 N N, Weather]^
+TEST |S1000 73 [Contest, 73]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+TEST |S1000 UR [Contest, Your]^
+TEST |S1000 NR [Contest, Number]^
+NAME |S1000 NR [Name, Number]^
+TEST |S1000 599 [Contest, 5 9 9]^
+VY |S1000 UR [Very, Your]^
+QRZ |S1000 NR [Q R Zed, Number]^
+TEST |S1000 RST [Contest, R S T]^
+TEST |S1000 DE [Contest, From]^
+UP |S1000 TEST [Up, Contest]^
+QRM |S1000 NAME [Interference, Name]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+UP |S1000 ES [Up, And]^
+UR |S1000 DE [Your, From]^
+UP |S1000 QRM [Up, Interference]^
+ES |S1000 RST [And, R S T]^
+73 |S1000 WX [73, Weather]^
+DE |S1000 UP [From, Up]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 NAME [Contest, Name]^
+ES |S1000 RST [And, R S T]^
+TEST |S1000 NAME [Contest, Name]^
+TEST |S1000 599 [Contest, 5 9 9]^
+TEST |S1000 NR [Contest, Number]^
+TEST |S1000 NR [Contest, Number]^
+TEST |S1000 CQ [Contest, C Q]^
+TEST |S1000 559 [Contest, 5 5 9]^
+TEST |S1000 5NN [Contest, 5 N N]^
+TEST |S1000 599 [Contest, 5 9 9]^
+TEST |S1000 599 [Contest, 5 9 9]^
+ES |S1000 QRZ [And, Q R Zed]^
+TEST |S1000 ES [Contest, And]^
+TEST |S1000 UP [Contest, Up]^
+NR |S1000 VY [Number, Very]^
+TEST |S1000 599 [Contest, 5 9 9]^
+TEST |S1000 DE [Contest, From]^
+NAME |S1000 DE [Name, From]^
+TEST |S1000 VY [Contest, Very]^
+559 |S1000 ES [5 5 9, And]^
+WX |S1000 TEST [Weather, Contest]^
+5NN |S1000 TEST [5 N N, Contest]^
+73 |S1000 TEST [73, Contest]^
+RST |S1000 NAME [R S T, Name]^
+TEST |S1000 559 [Contest, 5 5 9]^
+73 |S1000 CQ [73, C Q]^
+TEST |S1000 RST [Contest, R S T]^
+VY |S1000 73 [Very, 73]^
+5NN |S1000 TEST [5 N N, Contest]^
+DE |S1000 QRZ [From, Q R Zed]^
+UP |S1000 TEST [Up, Contest]^
+VY |S1000 TEST [Very, Contest]^
+UR |S1000 VY [Your, Very]^
+TEST |S1000 NAME [Contest, Name]^
+TEST |S1000 UP [Contest, Up]^
+TEST |S1000 RST [Contest, R S T]^
+599 |S1000 ES [5 9 9, And]^
+UR |S1000 CQ [Your, C Q]^
+NR |S1000 599 [Number, 5 9 9]^
+TEST |S1000 599 [Contest, 5 9 9]^
+UP |S1000 TEST [Up, Contest]^
+RST |S1000 WX [R S T, Weather]^
+UP |S1000 TEST [Up, Contest]^
+DE |S1000 599 [From, 5 9 9]^
+73 |S1000 NR [73, Number]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 VY [Contest, Very]^
+NR |S1000 QRZ [Number, Q R Zed]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 73 [Contest, 73]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+DE |S1000 73 [From, 73]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+UP |S1000 TEST [Up, Contest]^
+5NN |S1000 UR [5 N N, Your]^
+TEST |S1000 UP [Contest, Up]^
+599 |S1000 DE [5 9 9, From]^
+TEST |S1000 RST [Contest, R S T]^
+NAME |S1000 QRZ [Name, Q R Zed]^
+TEST |S1000 RST [Contest, R S T]^
+QRM |S1000 UP [Interference, Up]^
+5NN |S1000 73 [5 N N, 73]^
+UP |S1000 NAME [Up, Name]^
+TEST |S1000 UR [Contest, Your]^
+TEST |S1000 UP [Contest, Up]^
+ES |S1000 TEST [And, Contest]^
+UP |S1000 NR [Up, Number]^
+559 |S1000 NAME [5 5 9, Name]^
+UP |S1000 NR [Up, Number]^
+TEST |S1000 UR [Contest, Your]^
+5NN |S1000 599 [5 N N, 5 9 9]^
+RST |S1000 UP [R S T, Up]^
+QRM |S1000 DE [Interference, From]^
+TEST |S1000 ES [Contest, And]^
+NR |S1000 TEST [Number, Contest]^
+QRM |S1000 QRZ [Interference, Q R Zed]^
+VY |S1000 73 [Very, 73]^
+599 |S1000 TEST [5 9 9, Contest]^
+5NN |S1000 TEST [5 N N, Contest]^
+DE |S1000 UP [From, Up]^
+TEST |S1000 559 [Contest, 5 5 9]^
+TEST |S1000 UR [Contest, Your]^
+5NN |S1000 TEST [5 N N, Contest]^
+559 |S1000 VY [5 5 9, Very]^
+UP |S1000 TEST [Up, Contest]^
+QRM |S1000 CQ [Interference, C Q]^
+DE |S1000 WX [From, Weather]^
+QRM |S1000 TEST [Interference, Contest]^
+UP |S1000 NAME [Up, Name]^
+TEST |S1000 ES [Contest, And]^
+RST |S1000 TEST [R S T, Contest]^
+RST |S1000 TEST [R S T, Contest]^
+VY |S1000 UP [Very, Up]^
+RST |S1000 559 [R S T, 5 5 9]^
+599 |S1000 73 [5 9 9, 73]^
+TEST |S1000 559 [Contest, 5 5 9]^
+73 |S1000 5NN [73, 5 N N]^
+UP |S1000 TEST [Up, Contest]^
+559 |S1000 UP [5 5 9, Up]^
+QRZ |S1000 WX [Q R Zed, Weather]^
+TEST |S1000 VY [Contest, Very]^
+5NN |S1000 RST [5 N N, R S T]^
+ES |S1000 WX [And, Weather]^
+RST |S1000 TEST [R S T, Contest]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+WX |S1000 ES [Weather, And]^
+UR |S1000 599 [Your, 5 9 9]^
+CQ |S1000 TEST [C Q, Contest]^
+ES |S1000 TEST [And, Contest]^
+NR |S1000 TEST [Number, Contest]^
+DE |S1000 WX [From, Weather]^
+CQ |S1000 NAME [C Q, Name]^
+UP |S1000 559 [Up, 5 5 9]^
+QRM |S1000 ES [Interference, And]^
+TEST |S1000 CQ [Contest, C Q]^
+TEST |S1000 CQ [Contest, C Q]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+TEST |S1000 UP [Contest, Up]^
+TEST |S1000 QRM [Contest, Interference]^
+TEST |S1000 UP [Contest, Up]^
+NAME |S1000 QRZ [Name, Q R Zed]^
+DE |S1000 TEST [From, Contest]^
+RST |S1000 TEST [R S T, Contest]^
+CQ |S1000 TEST [C Q, Contest]^
+CQ |S1000 UP [C Q, Up]^
+DE |S1000 TEST [From, Contest]^
+559 |S1000 QRM [5 5 9, Interference]^
+WX |S1000 599 [Weather, 5 9 9]^
+5NN |S1000 UP [5 N N, Up]^
+TEST |S1000 DE [Contest, From]^
+TEST |S1000 NR [Contest, Number]^
+RST |S1000 5NN [R S T, 5 N N]^
+ES |S1000 5NN [And, 5 N N]^
+TEST |S1000 UR [Contest, Your]^
+RST |S1000 CQ [R S T, C Q]^
+QRM |S1000 5NN [Interference, 5 N N]^
+TEST |S1000 CQ [Contest, C Q]^
+VY |S1000 TEST [Very, Contest]^
+73 |S1000 VY [73, Very]^
+TEST |S1000 559 [Contest, 5 5 9]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 ES [Contest, And]^
+UR |S1000 RST [Your, R S T]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+NR |S1000 TEST [Number, Contest]^
+NR |S1000 QRM [Number, Interference]^
+CQ |S1000 TEST [C Q, Contest]^
+ES |S1000 DE [And, From]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+TEST |S1000 WX [Contest, Weather]^
+CQ |S1000 TEST [C Q, Contest]^
+UP |S1000 TEST [Up, Contest]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+559 |S1000 TEST [5 5 9, Contest]^
+RST |S1000 TEST [R S T, Contest]^
+73 |S1000 5NN [73, 5 N N]^
+NAME |S1000 QRZ [Name, Q R Zed]^
+TEST |S1000 DE [Contest, From]^
+TEST |S1000 73 [Contest, 73]^
+559 |S1000 VY [5 5 9, Very]^
+599 |S1000 TEST [5 9 9, Contest]^
+QRM |S1000 TEST [Interference, Contest]^
+VY |S1000 TEST [Very, Contest]^
+CQ |S1000 DE [C Q, From]^
+TEST |S1000 VY [Contest, Very]^
+DE |S1000 TEST [From, Contest]^
+UP |S1000 5NN [Up, 5 N N]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+TEST |S1000 ES [Contest, And]^
+CQ |S1000 TEST [C Q, Contest]^
+73 |S1000 TEST [73, Contest]^
+VY |S1000 TEST [Very, Contest]^
+73 |S1000 TEST [73, Contest]^
+VY |S1000 5NN [Very, 5 N N]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+TEST |S1000 559 [Contest, 5 5 9]^
+TEST |S1000 QRM [Contest, Interference]^
+TEST |S1000 73 [Contest, 73]^
+5NN |S1000 NR [5 N N, Number]^
+WX |S1000 NR [Weather, Number]^
+NAME |S1000 TEST [Name, Contest]^
+VY |S1000 TEST [Very, Contest]^
+559 |S1000 TEST [5 5 9, Contest]^
+559 |S1000 NAME [5 5 9, Name]^
+73 |S1000 NAME [73, Name]^
+NR |S1000 TEST [Number, Contest]^
+UR |S1000 RST [Your, R S T]^
+WX |S1000 ES [Weather, And]^
+TEST |S1000 DE [Contest, From]^
+WX |S1000 559 [Weather, 5 5 9]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 5NN [Contest, 5 N N]^
+559 |S1000 UP [5 5 9, Up]^
+QRM |S1000 TEST [Interference, Contest]^
+CQ |S1000 TEST [C Q, Contest]^
+73 |S1000 ES [73, And]^
+WX |S1000 QRM [Weather, Interference]^
+TEST |S1000 WX [Contest, Weather]^
+ES |S1000 QRZ [And, Q R Zed]^
+TEST |S1000 UP [Contest, Up]^
+73 |S1000 VY [73, Very]^
+TEST |S1000 RST [Contest, R S T]^
+TEST |S1000 559 [Contest, 5 5 9]^
+QRM |S1000 TEST [Interference, Contest]^
+QRM |S1000 CQ [Interference, C Q]^
+73 |S1000 UP [73, Up]^
+TEST |S1000 ES [Contest, And]^
+TEST |S1000 559 [Contest, 5 5 9]^
+TEST |S1000 QRM [Contest, Interference]^
+TEST |S1000 UR [Contest, Your]^
+NAME |S1000 TEST [Name, Contest]^
+VY |S1000 73 [Very, 73]^
+TEST |S1000 UP [Contest, Up]^
+ES |S1000 TEST [And, Contest]^
+CQ |S1000 559 [C Q, 5 5 9]^
+TEST |S1000 ES [Contest, And]^
+QRM |S1000 559 [Interference, 5 5 9]^
+RST |S1000 TEST [R S T, Contest]^
+599 |S1000 TEST [5 9 9, Contest]^
+73 |S1000 TEST [73, Contest]^
+CQ |S1000 73 [C Q, 73]^
+TEST |S1000 QRM [Contest, Interference]^
+ES |S1000 UR [And, Your]^
+ES |S1000 TEST [And, Contest]^
+WX |S1000 ES [Weather, And]^
+TEST |S1000 RST [Contest, R S T]^
+UP |S1000 TEST [Up, Contest]^
+UP |S1000 RST [Up, R S T]^
+TEST |S1000 RST [Contest, R S T]^
+WX |S1000 ES [Weather, And]^
+QRM |S1000 TEST [Interference, Contest]^
+DE |S1000 QRM [From, Interference]^
+TEST |S1000 NR [Contest, Number]^
+TEST |S1000 ES [Contest, And]^
+QRM |S1000 NAME [Interference, Name]^
+TEST |S1000 WX [Contest, Weather]^
+QRM |S1000 TEST [Interference, Contest]^
+UR |S1000 TEST [Your, Contest]^
+RST |S1000 TEST [R S T, Contest]^
+73 |S1000 TEST [73, Contest]^
+559 |S1000 TEST [5 5 9, Contest]^
+UP |S1000 TEST [Up, Contest]^
+CQ |S1000 TEST [C Q, Contest]^
+559 |S1000 UR [5 5 9, Your]^
+559 |S1000 TEST [5 5 9, Contest]^
+NAME |S1000 TEST [Name, Contest]^
+NAME |S1000 559 [Name, 5 5 9]^
+NAME |S1000 559 [Name, 5 5 9]^
+TEST |S1000 QRM [Contest, Interference]^
+TEST |S1000 RST [Contest, R S T]^
+TEST |S1000 DE [Contest, From]^
+VY |S1000 RST [Very, R S T]^
+TEST |S1000 DE [Contest, From]^
+TEST |S1000 NR [Contest, Number]^
+VY |S1000 TEST [Very, Contest]^
+RST |S1000 QRM [R S T, Interference]^
+NR |S1000 UR [Number, Your]^
+5NN |S1000 RST [5 N N, R S T]^
+CQ |S1000 TEST [C Q, Contest]^
+UR |S1000 599 [Your, 5 9 9]^
+QRM |S1000 5NN [Interference, 5 N N]^
+NR |S1000 TEST [Number, Contest]^
+ES |S1000 DE [And, From]^
+QRZ |S1000 ES [Q R Zed, And]^
+TEST |S1000 599 [Contest, 5 9 9]^
+TEST |S1000 VY [Contest, Very]^
+DE |S1000 TEST [From, Contest]^
+CQ |S1000 TEST [C Q, Contest]^
+VY |S1000 TEST [Very, Contest]^
+559 |S1000 RST [5 5 9, R S T]^
+WX |S1000 TEST [Weather, Contest]^
+73 |S1000 TEST [73, Contest]^
+RST |S1000 559 [R S T, 5 5 9]^
+QRM |S1000 WX [Interference, Weather]^
+VY |S1000 TEST [Very, Contest]^
+RST |S1000 NR [R S T, Number]^
+TEST |S1000 NR [Contest, Number]^
+TEST |S1000 UR [Contest, Your]^
+UP |S1000 RST [Up, R S T]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+QRZ |S1000 WX [Q R Zed, Weather]^
+TEST |S1000 WX [Contest, Weather]^
+CQ |S1000 73 [C Q, 73]^
+TEST |S1000 CQ [Contest, C Q]^
+QRM |S1000 VY [Interference, Very]^
+TEST |S1000 VY [Contest, Very]^
+DE |S1000 TEST [From, Contest]^
+NR |S1000 UP [Number, Up]^
+QRZ |S1000 UR [Q R Zed, Your]^
+ES |S1000 DE [And, From]^
+NR |S1000 NAME [Number, Name]^
+TEST |S1000 UR [Contest, Your]^
+NR |S1000 73 [Number, 73]^
+UP |S1000 RST [Up, R S T]^
+DE |S1000 UR [From, Your]^
+RST |S1000 TEST [R S T, Contest]^
+QRM |S1000 TEST [Interference, Contest]^
+VY |S1000 NR [Very, Number]^
+TEST |S1000 599 [Contest, 5 9 9]^
+VY |S1000 73 [Very, 73]^
+VY |S1000 5NN [Very, 5 N N]^
+NR |S1000 599 [Number, 5 9 9]^
+UP |S1000 TEST [Up, Contest]^
+RST |S1000 TEST [R S T, Contest]^
+5NN |S1000 RST [5 N N, R S T]^
+VY |S1000 TEST [Very, Contest]^
+QRM |S1000 NR [Interference, Number]^
+5NN |S1000 VY [5 N N, Very]^
+RST |S1000 TEST [R S T, Contest]^
+599 |S1000 TEST [5 9 9, Contest]^
+ES |S1000 WX [And, Weather]^
+599 |S1000 559 [5 9 9, 5 5 9]^
+TEST |S1000 559 [Contest, 5 5 9]^
+NR |S1000 TEST [Number, Contest]^
+73 |S1000 TEST [73, Contest]^
+559 |S1000 TEST [5 5 9, Contest]^
+WX |S1000 TEST [Weather, Contest]^
+5NN |S1000 ES [5 N N, And]^
+TEST |S1000 5NN [Contest, 5 N N]^
+599 |S1000 TEST [5 9 9, Contest]^
+RST |S1000 QRM [R S T, Interference]^
+599 |S1000 TEST [5 9 9, Contest]^
+CQ |S1000 TEST [C Q, Contest]^
+ES |S1000 TEST [And, Contest]^
+559 |S1000 5NN [5 5 9, 5 N N]^
+TEST |S1000 QRM [Contest, Interference]^
+TEST |S1000 DE [Contest, From]^
+TEST |S1000 73 [Contest, 73]^
+559 |S1000 TEST [5 5 9, Contest]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+CQ |S1000 UR [C Q, Your]^
+TEST |S1000 UR [Contest, Your]^
+TEST |S1000 5NN [Contest, 5 N N]^
+CQ |S1000 TEST [C Q, Contest]^
+WX |S1000 QRZ [Weather, Q R Zed]^
+QRM |S1000 TEST [Interference, Contest]^
+UP |S1000 VY [Up, Very]^

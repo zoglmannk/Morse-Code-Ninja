@@ -1,0 +1,600 @@
+WX [Weather]^
+DE [From]^
+UR [Your]^
+NAME [Name]^
+WX [Weather]^
+CQ [C Q]^
+WX [Weather]^
+UR [Your]^
+QRZ [Q R Zed]^
+73 [73]^
+5NN [5 N N]^
+UR [Your]^
+NR [Number]^
+DE [From]^
+NR [Number]^
+QRZ [Q R Zed]^
+UR [Your]^
+NAME [Name]^
+UR [Your]^
+559 [5 5 9]^
+73 [73]^
+UP [Up]^
+559 [5 5 9]^
+UR [Your]^
+599 [5 9 9]^
+NAME [Name]^
+UR [Your]^
+RST [R S T]^
+UR [Your]^
+QRZ [Q R Zed]^
+NAME [Name]^
+CQ [C Q]^
+UR [Your]^
+QRM [Interference]^
+NR [Number]^
+VY [Very]^
+NAME [Name]^
+UR [Your]^
+VY [Very]^
+RST [R S T]^
+NAME [Name]^
+DE [From]^
+UR [Your]^
+WX [Weather]^
+ES [And]^
+UR [Your]^
+73 [73]^
+UR [Your]^
+VY [Very]^
+73 [73]^
+DE [From]^
+ES [And]^
+UR [Your]^
+VY [Very]^
+5NN [5 N N]^
+UR [Your]^
+559 [5 5 9]^
+599 [5 9 9]^
+73 [73]^
+UR [Your]^
+599 [5 9 9]^
+DE [From]^
+UR [Your]^
+559 [5 5 9]^
+RST [R S T]^
+UR [Your]^
+NAME [Name]^
+NR [Number]^
+UR [Your]^
+ES [And]^
+DE [From]^
+NAME [Name]^
+UP [Up]^
+ES [And]^
+UR [Your]^
+UP [Up]^
+RST [R S T]^
+WX [Weather]^
+UR [Your]^
+QRM [Interference]^
+QRZ [Q R Zed]^
+WX [Weather]^
+UR [Your]^
+VY [Very]^
+UR [Your]^
+NAME [Name]^
+DE [From]^
+UR [Your]^
+WX [Weather]^
+UR [Your]^
+NAME [Name]^
+ES [And]^
+QRZ [Q R Zed]^
+ES [And]^
+DE [From]^
+NR [Number]^
+QRM [Interference]^
+UR [Your]^
+ES [And]^
+NAME [Name]^
+ES [And]^
+CQ [C Q]^
+UR [Your]^
+73 [73]^
+UP [Up]^
+5NN [5 N N]^
+ES [And]^
+CQ [C Q]^
+VY [Very]^
+UP [Up]^
+5NN [5 N N]^
+UR [Your]^
+QRZ [Q R Zed]^
+UP [Up]^
+UR [Your]^
+UP [Up]^
+UR [Your]^
+VY [Very]^
+UR [Your]^
+WX [Weather]^
+DE [From]^
+UR [Your]^
+WX [Weather]^
+5NN [5 N N]^
+UR [Your]^
+73 [73]^
+UR [Your]^
+NAME [Name]^
+ES [And]^
+CQ [C Q]^
+ES [And]^
+UR [Your]^
+5NN [5 N N]^
+UP [Up]^
+73 [73]^
+CQ [C Q]^
+NR [Number]^
+NAME [Name]^
+UR [Your]^
+NR [Number]^
+RST [R S T]^
+UR [Your]^
+ES [And]^
+UR [Your]^
+VY [Very]^
+73 [73]^
+NAME [Name]^
+5NN [5 N N]^
+UR [Your]^
+RST [R S T]^
+UR [Your]^
+VY [Very]^
+UR [Your]^
+WX [Weather]^
+QRZ [Q R Zed]^
+NR [Number]^
+UR [Your]^
+73 [73]^
+NR [Number]^
+559 [5 5 9]^
+UR [Your]^
+RST [R S T]^
+UR [Your]^
+QRM [Interference]^
+UR [Your]^
+73 [73]^
+599 [5 9 9]^
+UR [Your]^
+5NN [5 N N]^
+UP [Up]^
+UR [Your]^
+NR [Number]^
+DE [From]^
+UR [Your]^
+ES [And]^
+UR [Your]^
+599 [5 9 9]^
+UR [Your]^
+ES [And]^
+UR [Your]^
+VY [Very]^
+UR [Your]^
+WX [Weather]^
+73 [73]^
+ES [And]^
+NR [Number]^
+UR [Your]^
+WX [Weather]^
+UR [Your]^
+VY [Very]^
+RST [R S T]^
+UR [Your]^
+VY [Very]^
+UR [Your]^
+QRZ [Q R Zed]^
+UR [Your]^
+599 [5 9 9]^
+UR [Your]^
+NAME [Name]^
+UP [Up]^
+WX [Weather]^
+NR [Number]^
+UR [Your]^
+73 [73]^
+QRM [Interference]^
+UR [Your]^
+QRM [Interference]^
+UR [Your]^
+DE [From]^
+ES [And]^
+UR [Your]^
+559 [5 5 9]^
+UR [Your]^
+UP [Up]^
+VY [Very]^
+UR [Your]^
+WX [Weather]^
+UR [Your]^
+73 [73]^
+599 [5 9 9]^
+5NN [5 N N]^
+UR [Your]^
+UP [Up]^
+UR [Your]^
+NAME [Name]^
+UR [Your]^
+559 [5 5 9]^
+QRM [Interference]^
+UR [Your]^
+ES [And]^
+UR [Your]^
+CQ [C Q]^
+QRZ [Q R Zed]^
+UR [Your]^
+NAME [Name]^
+UR [Your]^
+QRM [Interference]^
+UR [Your]^
+5NN [5 N N]^
+NR [Number]^
+UR [Your]^
+ES [And]^
+CQ [C Q]^
+UR [Your]^
+5NN [5 N N]^
+UR [Your]^
+RST [R S T]^
+NR [Number]^
+73 [73]^
+559 [5 5 9]^
+NAME [Name]^
+559 [5 5 9]^
+UR [Your]^
+QRZ [Q R Zed]^
+73 [73]^
+UR [Your]^
+QRZ [Q R Zed]^
+UR [Your]^
+UP [Up]^
+73 [73]^
+NR [Number]^
+599 [5 9 9]^
+UR [Your]^
+QRZ [Q R Zed]^
+559 [5 5 9]^
+599 [5 9 9]^
+UR [Your]^
+ES [And]^
+UR [Your]^
+DE [From]^
+UP [Up]^
+QRZ [Q R Zed]^
+UR [Your]^
+WX [Weather]^
+5NN [5 N N]^
+UR [Your]^
+73 [73]^
+5NN [5 N N]^
+UR [Your]^
+559 [5 5 9]^
+5NN [5 N N]^
+DE [From]^
+UR [Your]^
+5NN [5 N N]^
+UR [Your]^
+73 [73]^
+UR [Your]^
+QRM [Interference]^
+5NN [5 N N]^
+UR [Your]^
+UP [Up]^
+73 [73]^
+UR [Your]^
+QRZ [Q R Zed]^
+UR [Your]^
+RST [R S T]^
+DE [From]^
+UR [Your]^
+VY [Very]^
+UR [Your]^
+WX [Weather]^
+UR [Your]^
+UP [Up]^
+73 [73]^
+599 [5 9 9]^
+UR [Your]^
+DE [From]^
+UR [Your]^
+RST [R S T]^
+UR [Your]^
+ES [And]^
+UR [Your]^
+5NN [5 N N]^
+UR [Your]^
+73 [73]^
+UR [Your]^
+599 [5 9 9]^
+QRM [Interference]^
+VY [Very]^
+599 [5 9 9]^
+RST [R S T]^
+5NN [5 N N]^
+UR [Your]^
+ES [And]^
+559 [5 5 9]^
+5NN [5 N N]^
+WX [Weather]^
+UR [Your]^
+QRZ [Q R Zed]^
+CQ [C Q]^
+UR [Your]^
+UP [Up]^
+UR [Your]^
+559 [5 5 9]^
+UR [Your]^
+559 [5 5 9]^
+UR [Your]^
+WX [Weather]^
+CQ [C Q]^
+UR [Your]^
+WX [Weather]^
+UR [Your]^
+559 [5 5 9]^
+UR [Your]^
+VY [Very]^
+UR [Your]^
+QRM [Interference]^
+ES [And]^
+599 [5 9 9]^
+5NN [5 N N]^
+UR [Your]^
+DE [From]^
+UR [Your]^
+VY [Very]^
+UR [Your]^
+UP [Up]^
+559 [5 5 9]^
+UR [Your]^
+5NN [5 N N]^
+559 [5 5 9]^
+UR [Your]^
+DE [From]^
+UR [Your]^
+ES [And]^
+VY [Very]^
+WX [Weather]^
+UR [Your]^
+QRZ [Q R Zed]^
+UR [Your]^
+UP [Up]^
+UR [Your]^
+ES [And]^
+UR [Your]^
+WX [Weather]^
+UR [Your]^
+73 [73]^
+UR [Your]^
+CQ [C Q]^
+WX [Weather]^
+RST [R S T]^
+CQ [C Q]^
+UR [Your]^
+559 [5 5 9]^
+UR [Your]^
+QRM [Interference]^
+UP [Up]^
+QRM [Interference]^
+UR [Your]^
+RST [R S T]^
+UR [Your]^
+WX [Weather]^
+VY [Very]^
+UR [Your]^
+CQ [C Q]^
+UR [Your]^
+WX [Weather]^
+QRM [Interference]^
+559 [5 5 9]^
+UR [Your]^
+QRM [Interference]^
+UR [Your]^
+ES [And]^
+UR [Your]^
+QRM [Interference]^
+DE [From]^
+CQ [C Q]^
+UR [Your]^
+UP [Up]^
+UR [Your]^
+CQ [C Q]^
+73 [73]^
+QRZ [Q R Zed]^
+UP [Up]^
+5NN [5 N N]^
+UR [Your]^
+5NN [5 N N]^
+VY [Very]^
+QRZ [Q R Zed]^
+599 [5 9 9]^
+NAME [Name]^
+UR [Your]^
+VY [Very]^
+UR [Your]^
+NAME [Name]^
+UR [Your]^
+VY [Very]^
+QRZ [Q R Zed]^
+UR [Your]^
+73 [73]^
+UR [Your]^
+NR [Number]^
+DE [From]^
+UR [Your]^
+DE [From]^
+NR [Number]^
+UR [Your]^
+CQ [C Q]^
+UR [Your]^
+559 [5 5 9]^
+UR [Your]^
+QRM [Interference]^
+5NN [5 N N]^
+QRZ [Q R Zed]^
+RST [R S T]^
+NAME [Name]^
+559 [5 5 9]^
+UR [Your]^
+NR [Number]^
+RST [R S T]^
+WX [Weather]^
+NR [Number]^
+QRZ [Q R Zed]^
+NAME [Name]^
+QRZ [Q R Zed]^
+UR [Your]^
+RST [R S T]^
+UR [Your]^
+NAME [Name]^
+UR [Your]^
+QRZ [Q R Zed]^
+UR [Your]^
+NAME [Name]^
+73 [73]^
+NR [Number]^
+ES [And]^
+5NN [5 N N]^
+VY [Very]^
+ES [And]^
+RST [R S T]^
+NAME [Name]^
+UR [Your]^
+UP [Up]^
+UR [Your]^
+QRM [Interference]^
+UR [Your]^
+WX [Weather]^
+UP [Up]^
+WX [Weather]^
+UR [Your]^
+559 [5 5 9]^
+UR [Your]^
+NAME [Name]^
+QRZ [Q R Zed]^
+UR [Your]^
+559 [5 5 9]^
+QRZ [Q R Zed]^
+QRM [Interference]^
+UR [Your]^
+VY [Very]^
+5NN [5 N N]^
+QRM [Interference]^
+UP [Up]^
+NR [Number]^
+UR [Your]^
+VY [Very]^
+599 [5 9 9]^
+UR [Your]^
+599 [5 9 9]^
+73 [73]^
+UR [Your]^
+5NN [5 N N]^
+UP [Up]^
+NR [Number]^
+599 [5 9 9]^
+UR [Your]^
+VY [Very]^
+RST [R S T]^
+UR [Your]^
+ES [And]^
+599 [5 9 9]^
+QRZ [Q R Zed]^
+CQ [C Q]^
+UR [Your]^
+NAME [Name]^
+CQ [C Q]^
+UR [Your]^
+QRM [Interference]^
+UR [Your]^
+NAME [Name]^
+599 [5 9 9]^
+UR [Your]^
+599 [5 9 9]^
+UR [Your]^
+599 [5 9 9]^
+UR [Your]^
+QRM [Interference]^
+UR [Your]^
+DE [From]^
+QRM [Interference]^
+VY [Very]^
+UR [Your]^
+73 [73]^
+WX [Weather]^
+RST [R S T]^
+5NN [5 N N]^
+UR [Your]^
+NR [Number]^
+UR [Your]^
+RST [R S T]^
+UR [Your]^
+NAME [Name]^
+DE [From]^
+UP [Up]^
+NR [Number]^
+UR [Your]^
+5NN [5 N N]^
+UR [Your]^
+UP [Up]^
+UR [Your]^
+DE [From]^
+WX [Weather]^
+NR [Number]^
+UR [Your]^
+QRZ [Q R Zed]^
+UR [Your]^
+QRM [Interference]^
+UR [Your]^
+73 [73]^
+UR [Your]^
+WX [Weather]^
+559 [5 5 9]^
+UR [Your]^
+NAME [Name]^
+UR [Your]^
+559 [5 5 9]^
+NR [Number]^
+559 [5 5 9]^
+UR [Your]^
+RST [R S T]^
+UR [Your]^
+NR [Number]^
+UR [Your]^
+RST [R S T]^
+UR [Your]^
+ES [And]^
+UR [Your]^
+73 [73]^
+UR [Your]^
+UP [Up]^
+RST [R S T]^
+QRZ [Q R Zed]^
+559 [5 5 9]^
+UR [Your]^
+VY [Very]^
+5NN [5 N N]^
+UR [Your]^
+UP [Up]^
+ES [And]^
+QRM [Interference]^
+UR [Your]^
+559 [5 5 9]^
+UR [Your]^
+QRM [Interference]^
+WX [Weather]^
+QRZ [Q R Zed]^
+UR [Your]^
+UP [Up]^
+RST [R S T]^
+UR [Your]^
+UP [Up]^

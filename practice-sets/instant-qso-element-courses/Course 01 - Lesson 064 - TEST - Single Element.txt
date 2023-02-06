@@ -1,0 +1,600 @@
+TEST [Contest]^
+RST [R S T]^
+TEST [Contest]^
+QRM [Interference]^
+5NN [5 N N]^
+TEST [Contest]^
+ES [And]^
+TEST [Contest]^
+WX [Weather]^
+TEST [Contest]^
+5NN [5 N N]^
+QRZ [Q R Zed]^
+NAME [Name]^
+73 [73]^
+TEST [Contest]^
+UR [Your]^
+TEST [Contest]^
+DE [From]^
+559 [5 5 9]^
+TEST [Contest]^
+WX [Weather]^
+73 [73]^
+TEST [Contest]^
+CQ [C Q]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+ES [And]^
+RST [R S T]^
+TEST [Contest]^
+RST [R S T]^
+QRZ [Q R Zed]^
+599 [5 9 9]^
+VY [Very]^
+WX [Weather]^
+DE [From]^
+TEST [Contest]^
+CQ [C Q]^
+5NN [5 N N]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+VY [Very]^
+TEST [Contest]^
+NAME [Name]^
+73 [73]^
+TEST [Contest]^
+UR [Your]^
+TEST [Contest]^
+UR [Your]^
+5NN [5 N N]^
+TEST [Contest]^
+UP [Up]^
+TEST [Contest]^
+UP [Up]^
+UR [Your]^
+QRM [Interference]^
+TEST [Contest]^
+QRM [Interference]^
+TEST [Contest]^
+NR [Number]^
+559 [5 5 9]^
+73 [73]^
+UR [Your]^
+TEST [Contest]^
+UP [Up]^
+TEST [Contest]^
+5NN [5 N N]^
+TEST [Contest]^
+NAME [Name]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+QRM [Interference]^
+5NN [5 N N]^
+QRM [Interference]^
+WX [Weather]^
+5NN [5 N N]^
+73 [73]^
+QRZ [Q R Zed]^
+NR [Number]^
+VY [Very]^
+CQ [C Q]^
+TEST [Contest]^
+NAME [Name]^
+TEST [Contest]^
+599 [5 9 9]^
+WX [Weather]^
+UR [Your]^
+DE [From]^
+TEST [Contest]^
+559 [5 5 9]^
+VY [Very]^
+NR [Number]^
+NAME [Name]^
+VY [Very]^
+TEST [Contest]^
+73 [73]^
+TEST [Contest]^
+UR [Your]^
+VY [Very]^
+TEST [Contest]^
+5NN [5 N N]^
+ES [And]^
+TEST [Contest]^
+5NN [5 N N]^
+TEST [Contest]^
+559 [5 5 9]^
+TEST [Contest]^
+599 [5 9 9]^
+TEST [Contest]^
+NR [Number]^
+599 [5 9 9]^
+NR [Number]^
+RST [R S T]^
+TEST [Contest]^
+NAME [Name]^
+ES [And]^
+UP [Up]^
+DE [From]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+73 [73]^
+TEST [Contest]^
+ES [And]^
+TEST [Contest]^
+559 [5 5 9]^
+73 [73]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+ES [And]^
+WX [Weather]^
+TEST [Contest]^
+VY [Very]^
+TEST [Contest]^
+ES [And]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+QRM [Interference]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+5NN [5 N N]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+NAME [Name]^
+VY [Very]^
+UP [Up]^
+VY [Very]^
+ES [And]^
+TEST [Contest]^
+UR [Your]^
+NAME [Name]^
+UR [Your]^
+UP [Up]^
+NR [Number]^
+QRZ [Q R Zed]^
+DE [From]^
+QRM [Interference]^
+RST [R S T]^
+ES [And]^
+TEST [Contest]^
+CQ [C Q]^
+73 [73]^
+UP [Up]^
+TEST [Contest]^
+73 [73]^
+WX [Weather]^
+TEST [Contest]^
+NR [Number]^
+TEST [Contest]^
+UP [Up]^
+VY [Very]^
+UP [Up]^
+WX [Weather]^
+QRZ [Q R Zed]^
+ES [And]^
+TEST [Contest]^
+NR [Number]^
+TEST [Contest]^
+NR [Number]^
+599 [5 9 9]^
+TEST [Contest]^
+NR [Number]^
+UP [Up]^
+TEST [Contest]^
+CQ [C Q]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+559 [5 5 9]^
+WX [Weather]^
+TEST [Contest]^
+NAME [Name]^
+ES [And]^
+QRM [Interference]^
+TEST [Contest]^
+VY [Very]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+WX [Weather]^
+UP [Up]^
+TEST [Contest]^
+UP [Up]^
+TEST [Contest]^
+UR [Your]^
+5NN [5 N N]^
+TEST [Contest]^
+NAME [Name]^
+UR [Your]^
+TEST [Contest]^
+RST [R S T]^
+TEST [Contest]^
+CQ [C Q]^
+559 [5 5 9]^
+UP [Up]^
+TEST [Contest]^
+73 [73]^
+UP [Up]^
+RST [R S T]^
+TEST [Contest]^
+UR [Your]^
+NR [Number]^
+559 [5 5 9]^
+NR [Number]^
+TEST [Contest]^
+UR [Your]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+5NN [5 N N]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+VY [Very]^
+TEST [Contest]^
+WX [Weather]^
+TEST [Contest]^
+NAME [Name]^
+TEST [Contest]^
+5NN [5 N N]^
+UP [Up]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+5NN [5 N N]^
+TEST [Contest]^
+559 [5 5 9]^
+TEST [Contest]^
+599 [5 9 9]^
+UP [Up]^
+RST [R S T]^
+UP [Up]^
+TEST [Contest]^
+VY [Very]^
+TEST [Contest]^
+599 [5 9 9]^
+UP [Up]^
+TEST [Contest]^
+NAME [Name]^
+TEST [Contest]^
+WX [Weather]^
+TEST [Contest]^
+RST [R S T]^
+UP [Up]^
+TEST [Contest]^
+VY [Very]^
+TEST [Contest]^
+599 [5 9 9]^
+TEST [Contest]^
+NR [Number]^
+TEST [Contest]^
+QRM [Interference]^
+TEST [Contest]^
+CQ [C Q]^
+TEST [Contest]^
+ES [And]^
+UR [Your]^
+WX [Weather]^
+TEST [Contest]^
+ES [And]^
+TEST [Contest]^
+RST [R S T]^
+TEST [Contest]^
+5NN [5 N N]^
+DE [From]^
+QRM [Interference]^
+VY [Very]^
+TEST [Contest]^
+DE [From]^
+73 [73]^
+TEST [Contest]^
+NAME [Name]^
+TEST [Contest]^
+RST [R S T]^
+TEST [Contest]^
+NR [Number]^
+TEST [Contest]^
+ES [And]^
+WX [Weather]^
+TEST [Contest]^
+NAME [Name]^
+ES [And]^
+NAME [Name]^
+QRM [Interference]^
+UP [Up]^
+TEST [Contest]^
+QRM [Interference]^
+QRZ [Q R Zed]^
+VY [Very]^
+559 [5 5 9]^
+ES [And]^
+QRZ [Q R Zed]^
+NAME [Name]^
+VY [Very]^
+UP [Up]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+73 [73]^
+TEST [Contest]^
+599 [5 9 9]^
+UR [Your]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+RST [R S T]^
+TEST [Contest]^
+NR [Number]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+599 [5 9 9]^
+TEST [Contest]^
+UR [Your]^
+ES [And]^
+5NN [5 N N]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+UP [Up]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+RST [R S T]^
+5NN [5 N N]^
+TEST [Contest]^
+NAME [Name]^
+VY [Very]^
+TEST [Contest]^
+WX [Weather]^
+ES [And]^
+TEST [Contest]^
+DE [From]^
+RST [R S T]^
+TEST [Contest]^
+NR [Number]^
+TEST [Contest]^
+UP [Up]^
+TEST [Contest]^
+NAME [Name]^
+DE [From]^
+QRM [Interference]^
+TEST [Contest]^
+ES [And]^
+UR [Your]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+VY [Very]^
+NR [Number]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+WX [Weather]^
+DE [From]^
+QRM [Interference]^
+TEST [Contest]^
+NAME [Name]^
+NR [Number]^
+CQ [C Q]^
+QRM [Interference]^
+WX [Weather]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+73 [73]^
+QRM [Interference]^
+NR [Number]^
+73 [73]^
+TEST [Contest]^
+RST [R S T]^
+UR [Your]^
+TEST [Contest]^
+CQ [C Q]^
+TEST [Contest]^
+WX [Weather]^
+UR [Your]^
+QRM [Interference]^
+ES [And]^
+TEST [Contest]^
+DE [From]^
+559 [5 5 9]^
+TEST [Contest]^
+5NN [5 N N]^
+RST [R S T]^
+TEST [Contest]^
+559 [5 5 9]^
+UP [Up]^
+VY [Very]^
+DE [From]^
+TEST [Contest]^
+UR [Your]^
+DE [From]^
+WX [Weather]^
+TEST [Contest]^
+73 [73]^
+CQ [C Q]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+VY [Very]^
+WX [Weather]^
+VY [Very]^
+TEST [Contest]^
+RST [R S T]^
+TEST [Contest]^
+DE [From]^
+TEST [Contest]^
+VY [Very]^
+TEST [Contest]^
+RST [R S T]^
+TEST [Contest]^
+QRM [Interference]^
+VY [Very]^
+5NN [5 N N]^
+TEST [Contest]^
+559 [5 5 9]^
+ES [And]^
+TEST [Contest]^
+QRM [Interference]^
+TEST [Contest]^
+QRM [Interference]^
+WX [Weather]^
+559 [5 5 9]^
+DE [From]^
+RST [R S T]^
+TEST [Contest]^
+RST [R S T]^
+TEST [Contest]^
+WX [Weather]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+CQ [C Q]^
+TEST [Contest]^
+UR [Your]^
+TEST [Contest]^
+WX [Weather]^
+TEST [Contest]^
+QRM [Interference]^
+TEST [Contest]^
+UR [Your]^
+TEST [Contest]^
+559 [5 5 9]^
+RST [R S T]^
+TEST [Contest]^
+559 [5 5 9]^
+599 [5 9 9]^
+559 [5 5 9]^
+TEST [Contest]^
+NAME [Name]^
+RST [R S T]^
+WX [Weather]^
+TEST [Contest]^
+VY [Very]^
+TEST [Contest]^
+UP [Up]^
+ES [And]^
+559 [5 5 9]^
+TEST [Contest]^
+DE [From]^
+TEST [Contest]^
+DE [From]^
+TEST [Contest]^
+UP [Up]^
+TEST [Contest]^
+WX [Weather]^
+NAME [Name]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+CQ [C Q]^
+UR [Your]^
+TEST [Contest]^
+DE [From]^
+TEST [Contest]^
+5NN [5 N N]^
+CQ [C Q]^
+QRM [Interference]^
+DE [From]^
+QRZ [Q R Zed]^
+559 [5 5 9]^
+DE [From]^
+NR [Number]^
+TEST [Contest]^
+QRM [Interference]^
+NR [Number]^
+TEST [Contest]^
+UP [Up]^
+73 [73]^
+599 [5 9 9]^
+TEST [Contest]^
+WX [Weather]^
+TEST [Contest]^
+CQ [C Q]^
+TEST [Contest]^
+73 [73]^
+DE [From]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+WX [Weather]^
+NR [Number]^
+559 [5 5 9]^
+5NN [5 N N]^
+QRM [Interference]^
+UR [Your]^
+TEST [Contest]^
+559 [5 5 9]^
+TEST [Contest]^
+WX [Weather]^
+TEST [Contest]^
+VY [Very]^
+CQ [C Q]^
+RST [R S T]^
+TEST [Contest]^
+599 [5 9 9]^
+TEST [Contest]^
+DE [From]^
+5NN [5 N N]^
+TEST [Contest]^
+ES [And]^
+QRM [Interference]^
+5NN [5 N N]^
+559 [5 5 9]^
+TEST [Contest]^
+599 [5 9 9]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+ES [And]^
+QRZ [Q R Zed]^
+599 [5 9 9]^
+RST [R S T]^
+TEST [Contest]^
+DE [From]^
+TEST [Contest]^
+CQ [C Q]^
+TEST [Contest]^
+UP [Up]^
+WX [Weather]^
+UP [Up]^
+VY [Very]^
+UP [Up]^
+QRZ [Q R Zed]^
+RST [R S T]^
+WX [Weather]^
+VY [Very]^
+599 [5 9 9]^
+TEST [Contest]^
+QRM [Interference]^
+NR [Number]^
+73 [73]^
+TEST [Contest]^
+QRM [Interference]^
+TEST [Contest]^
+5NN [5 N N]^
+TEST [Contest]^
+CQ [C Q]^
+TEST [Contest]^
+NR [Number]^
+CQ [C Q]^
+TEST [Contest]^
+UR [Your]^
+TEST [Contest]^
+NR [Number]^
+DE [From]^
+TEST [Contest]^
+QRZ [Q R Zed]^
+559 [5 5 9]^
+DE [From]^
+NAME [Name]^
+RST [R S T]^
+DE [From]^
+TEST [Contest]^
+RST [R S T]^
+599 [5 9 9]^
+TEST [Contest]^
+RST [R S T]^
+UR [Your]^
+TEST [Contest]^
+DE [From]^
+TEST [Contest]^
+DE [From]^
+WX [Weather]^
+5NN [5 N N]^
+VY [Very]^
+QRM [Interference]^
+ES [And]^
+TEST [Contest]^
+WX [Weather]^
+TEST [Contest]^
+73 [73]^

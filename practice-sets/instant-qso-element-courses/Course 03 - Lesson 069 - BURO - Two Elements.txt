@@ -1,0 +1,600 @@
+BURO |S1000 QRQ [bureau, High speed]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+OP |S1000 DR [Operator, Dear]^
+BURO |S1000 RX [bureau, Receive]^
+BURO |S1000 HR [bureau, Hear]^
+BURO |S1000 QSY [bureau, Change frequency]^
+QRP |S1000 OP [Low power, Operator]^
+BURO |S1000 TX [bureau, Transmit]^
+DR |S1000 BURO [Dear, bureau]^
+QRS |S1000 BURO [Slow speed, bureau]^
+HW\? |S1000 PLS [How copy\?, Please]^
+BURO |S1000 TX [bureau, Transmit]^
+BURO |S1000 YL [bureau, Young lady]^
+HR |S1000 BURO [Hear, bureau]^
+BCNU |S1000 TX [Be seeing you, Transmit]^
+BCNU |S1000 DR [Be seeing you, Dear]^
+BURO |S1000 HR [bureau, Hear]^
+YL |S1000 HR [Young lady, Hear]^
+BURO |S1000 QRP [bureau, Low power]^
+QSL |S1000 QRS [Confirm, Slow speed]^
+BURO |S1000 MNI [bureau, Many]^
+BURO |S1000 QRP [bureau, Low power]^
+PSE |S1000 QSY [Please, Change frequency]^
+BURO |S1000 DR [bureau, Dear]^
+BURO |S1000 PSE [bureau, Please]^
+DR |S1000 QSL [Dear, Confirm]^
+QRP |S1000 HR [Low power, Hear]^
+QSY |S1000 BCNU [Change frequency, Be seeing you]^
+OP |S1000 BURO [Operator, bureau]^
+HR |S1000 BURO [Hear, bureau]^
+BCNU |S1000 RX [Be seeing you, Receive]^
+QSL |S1000 YL [Confirm, Young lady]^
+TX |S1000 CFM [Transmit, Confirm]^
+QRQ |S1000 TX [High speed, Transmit]^
+BURO |S1000 OP [bureau, Operator]^
+QSL |S1000 BURO [Confirm, bureau]^
+PLS |S1000 QRP [Please, Low power]^
+PSE |S1000 CFM [Please, Confirm]^
+DR |S1000 BURO [Dear, bureau]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+QRS |S1000 BURO [Slow speed, bureau]^
+TX |S1000 BURO [Transmit, bureau]^
+QRQ |S1000 RX [High speed, Receive]^
+HR |S1000 CFM [Hear, Confirm]^
+BURO |S1000 CFM [bureau, Confirm]^
+BURO |S1000 QRQ [bureau, High speed]^
+QSL |S1000 BURO [Confirm, bureau]^
+PLS |S1000 BURO [Please, bureau]^
+PSE |S1000 BURO [Please, bureau]^
+MNI |S1000 CFM [Many, Confirm]^
+TX |S1000 BURO [Transmit, bureau]^
+PSE |S1000 BURO [Please, bureau]^
+YL |S1000 BCNU [Young lady, Be seeing you]^
+DR |S1000 PLS [Dear, Please]^
+BURO |S1000 OP [bureau, Operator]^
+BURO |S1000 TX [bureau, Transmit]^
+BURO |S1000 QRP [bureau, Low power]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+CFM |S1000 BURO [Confirm, bureau]^
+MNI |S1000 BURO [Many, bureau]^
+MNI |S1000 BURO [Many, bureau]^
+DR |S1000 QRQ [Dear, High speed]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+CFM |S1000 OP [Confirm, Operator]^
+CFM |S1000 BURO [Confirm, bureau]^
+HR |S1000 BURO [Hear, bureau]^
+PLS |S1000 BURO [Please, bureau]^
+YL |S1000 BURO [Young lady, bureau]^
+OP |S1000 BURO [Operator, bureau]^
+HR |S1000 DR [Hear, Dear]^
+QSY |S1000 OP [Change frequency, Operator]^
+BURO |S1000 YL [bureau, Young lady]^
+BURO |S1000 HR [bureau, Hear]^
+QSL |S1000 CFM [Confirm, Confirm]^
+BURO |S1000 MNI [bureau, Many]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+OP |S1000 BURO [Operator, bureau]^
+QRS |S1000 QSL [Slow speed, Confirm]^
+BURO |S1000 CFM [bureau, Confirm]^
+BURO |S1000 QRP [bureau, Low power]^
+BURO |S1000 RX [bureau, Receive]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+QRQ |S1000 BURO [High speed, bureau]^
+YL |S1000 QSL [Young lady, Confirm]^
+CFM |S1000 YL [Confirm, Young lady]^
+DR |S1000 QRP [Dear, Low power]^
+BURO |S1000 QRP [bureau, Low power]^
+PLS |S1000 QSL [Please, Confirm]^
+PSE |S1000 BURO [Please, bureau]^
+OP |S1000 BURO [Operator, bureau]^
+MNI |S1000 BURO [Many, bureau]^
+TX |S1000 DR [Transmit, Dear]^
+BURO |S1000 QSY [bureau, Change frequency]^
+BURO |S1000 RX [bureau, Receive]^
+OP |S1000 QRS [Operator, Slow speed]^
+BURO |S1000 YL [bureau, Young lady]^
+BURO |S1000 QRP [bureau, Low power]^
+BURO |S1000 YL [bureau, Young lady]^
+BURO |S1000 YL [bureau, Young lady]^
+PSE |S1000 BURO [Please, bureau]^
+OP |S1000 BURO [Operator, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+PLS |S1000 BURO [Please, bureau]^
+YL |S1000 QSY [Young lady, Change frequency]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+OP |S1000 QRS [Operator, Slow speed]^
+BURO |S1000 CFM [bureau, Confirm]^
+QSY |S1000 BURO [Change frequency, bureau]^
+RX |S1000 BURO [Receive, bureau]^
+RX |S1000 BURO [Receive, bureau]^
+TX |S1000 MNI [Transmit, Many]^
+BURO |S1000 DR [bureau, Dear]^
+PSE |S1000 BURO [Please, bureau]^
+YL |S1000 TX [Young lady, Transmit]^
+BURO |S1000 QRS [bureau, Slow speed]^
+PSE |S1000 QRQ [Please, High speed]^
+PSE |S1000 HW\? [Please, How copy\?]^
+BURO |S1000 HR [bureau, Hear]^
+TX |S1000 BURO [Transmit, bureau]^
+PLS |S1000 BURO [Please, bureau]^
+OP |S1000 RX [Operator, Receive]^
+QRS |S1000 BURO [Slow speed, bureau]^
+RX |S1000 BURO [Receive, bureau]^
+TX |S1000 CFM [Transmit, Confirm]^
+BURO |S1000 DR [bureau, Dear]^
+BURO |S1000 YL [bureau, Young lady]^
+TX |S1000 QSY [Transmit, Change frequency]^
+RX |S1000 OP [Receive, Operator]^
+CFM |S1000 BURO [Confirm, bureau]^
+HW\? |S1000 MNI [How copy\?, Many]^
+CFM |S1000 TX [Confirm, Transmit]^
+PLS |S1000 BURO [Please, bureau]^
+QRS |S1000 BURO [Slow speed, bureau]^
+MNI |S1000 TX [Many, Transmit]^
+PSE |S1000 BCNU [Please, Be seeing you]^
+CFM |S1000 BCNU [Confirm, Be seeing you]^
+CFM |S1000 BURO [Confirm, bureau]^
+HR |S1000 QSY [Hear, Change frequency]^
+RX |S1000 PLS [Receive, Please]^
+BURO |S1000 MNI [bureau, Many]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+YL |S1000 DR [Young lady, Dear]^
+QSL |S1000 BURO [Confirm, bureau]^
+YL |S1000 QSY [Young lady, Change frequency]^
+BURO |S1000 HR [bureau, Hear]^
+RX |S1000 BURO [Receive, bureau]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+YL |S1000 BURO [Young lady, bureau]^
+PSE |S1000 HW\? [Please, How copy\?]^
+QSY |S1000 RX [Change frequency, Receive]^
+BURO |S1000 CFM [bureau, Confirm]^
+YL |S1000 QSL [Young lady, Confirm]^
+BURO |S1000 OP [bureau, Operator]^
+QRP |S1000 BURO [Low power, bureau]^
+QSY |S1000 BURO [Change frequency, bureau]^
+QSL |S1000 BURO [Confirm, bureau]^
+QRS |S1000 PLS [Slow speed, Please]^
+BURO |S1000 CFM [bureau, Confirm]^
+MNI |S1000 QRQ [Many, High speed]^
+QSY |S1000 TX [Change frequency, Transmit]^
+BURO |S1000 QRS [bureau, Slow speed]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+QRQ |S1000 BURO [High speed, bureau]^
+YL |S1000 BURO [Young lady, bureau]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+PSE |S1000 BURO [Please, bureau]^
+HW\? |S1000 QSL [How copy\?, Confirm]^
+BURO |S1000 QRP [bureau, Low power]^
+BURO |S1000 YL [bureau, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+BURO |S1000 QRS [bureau, Slow speed]^
+HR |S1000 BCNU [Hear, Be seeing you]^
+QSL |S1000 BURO [Confirm, bureau]^
+QRQ |S1000 BURO [High speed, bureau]^
+QRP |S1000 YL [Low power, Young lady]^
+TX |S1000 BURO [Transmit, bureau]^
+QRQ |S1000 BURO [High speed, bureau]^
+QRQ |S1000 BURO [High speed, bureau]^
+BCNU |S1000 YL [Be seeing you, Young lady]^
+OP |S1000 RX [Operator, Receive]^
+PSE |S1000 PLS [Please, Please]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+PLS |S1000 PSE [Please, Please]^
+BURO |S1000 QRS [bureau, Slow speed]^
+QRQ |S1000 QSL [High speed, Confirm]^
+BURO |S1000 QSY [bureau, Change frequency]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+HW\? |S1000 BCNU [How copy\?, Be seeing you]^
+QSY |S1000 BURO [Change frequency, bureau]^
+QSL |S1000 QSY [Confirm, Change frequency]^
+BURO |S1000 TX [bureau, Transmit]^
+BURO |S1000 QSL [bureau, Confirm]^
+QRP |S1000 QSY [Low power, Change frequency]^
+CFM |S1000 QSL [Confirm, Confirm]^
+CFM |S1000 BCNU [Confirm, Be seeing you]^
+BURO |S1000 PSE [bureau, Please]^
+YL |S1000 CFM [Young lady, Confirm]^
+BURO |S1000 QRQ [bureau, High speed]^
+BCNU |S1000 PSE [Be seeing you, Please]^
+TX |S1000 QSL [Transmit, Confirm]^
+PLS |S1000 BURO [Please, bureau]^
+MNI |S1000 BURO [Many, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+TX |S1000 YL [Transmit, Young lady]^
+BURO |S1000 QRS [bureau, Slow speed]^
+OP |S1000 BURO [Operator, bureau]^
+QRP |S1000 BURO [Low power, bureau]^
+CFM |S1000 TX [Confirm, Transmit]^
+BURO |S1000 DR [bureau, Dear]^
+OP |S1000 BCNU [Operator, Be seeing you]^
+HR |S1000 BURO [Hear, bureau]^
+QRP |S1000 BURO [Low power, bureau]^
+MNI |S1000 QSY [Many, Change frequency]^
+YL |S1000 BURO [Young lady, bureau]^
+QSY |S1000 TX [Change frequency, Transmit]^
+QSL |S1000 BURO [Confirm, bureau]^
+QRQ |S1000 BURO [High speed, bureau]^
+QRQ |S1000 BURO [High speed, bureau]^
+QRP |S1000 TX [Low power, Transmit]^
+CFM |S1000 BURO [Confirm, bureau]^
+CFM |S1000 BURO [Confirm, bureau]^
+HR |S1000 HW\? [Hear, How copy\?]^
+BURO |S1000 MNI [bureau, Many]^
+BURO |S1000 YL [bureau, Young lady]^
+BURO |S1000 QRP [bureau, Low power]^
+PLS |S1000 QRQ [Please, High speed]^
+BURO |S1000 MNI [bureau, Many]^
+QRP |S1000 YL [Low power, Young lady]^
+RX |S1000 BURO [Receive, bureau]^
+PSE |S1000 HR [Please, Hear]^
+RX |S1000 MNI [Receive, Many]^
+BURO |S1000 MNI [bureau, Many]^
+BURO |S1000 QRS [bureau, Slow speed]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+PSE |S1000 BURO [Please, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+RX |S1000 QSY [Receive, Change frequency]^
+YL |S1000 DR [Young lady, Dear]^
+BCNU |S1000 CFM [Be seeing you, Confirm]^
+BURO |S1000 TX [bureau, Transmit]^
+BURO |S1000 TX [bureau, Transmit]^
+CFM |S1000 BURO [Confirm, bureau]^
+QRP |S1000 QRQ [Low power, High speed]^
+CFM |S1000 PSE [Confirm, Please]^
+YL |S1000 BURO [Young lady, bureau]^
+QRQ |S1000 BURO [High speed, bureau]^
+RX |S1000 BCNU [Receive, Be seeing you]^
+QRQ |S1000 QRS [High speed, Slow speed]^
+HR |S1000 BURO [Hear, bureau]^
+QRS |S1000 CFM [Slow speed, Confirm]^
+QRQ |S1000 BURO [High speed, bureau]^
+QRP |S1000 BURO [Low power, bureau]^
+MNI |S1000 BURO [Many, bureau]^
+PSE |S1000 RX [Please, Receive]^
+BURO |S1000 QRP [bureau, Low power]^
+CFM |S1000 BCNU [Confirm, Be seeing you]^
+BURO |S1000 QSL [bureau, Confirm]^
+BURO |S1000 QRP [bureau, Low power]^
+QSY |S1000 CFM [Change frequency, Confirm]^
+PSE |S1000 BURO [Please, bureau]^
+HR |S1000 RX [Hear, Receive]^
+BURO |S1000 PSE [bureau, Please]^
+QSL |S1000 RX [Confirm, Receive]^
+BURO |S1000 QSL [bureau, Confirm]^
+BURO |S1000 DR [bureau, Dear]^
+CFM |S1000 DR [Confirm, Dear]^
+QRS |S1000 HW\? [Slow speed, How copy\?]^
+QRP |S1000 BURO [Low power, bureau]^
+HR |S1000 PSE [Hear, Please]^
+QSY |S1000 BURO [Change frequency, bureau]^
+HR |S1000 BURO [Hear, bureau]^
+HR |S1000 TX [Hear, Transmit]^
+BCNU |S1000 QRP [Be seeing you, Low power]^
+BURO |S1000 TX [bureau, Transmit]^
+BURO |S1000 QSY [bureau, Change frequency]^
+BURO |S1000 OP [bureau, Operator]^
+BURO |S1000 PSE [bureau, Please]^
+QSY |S1000 PSE [Change frequency, Please]^
+QSY |S1000 BURO [Change frequency, bureau]^
+TX |S1000 QSL [Transmit, Confirm]^
+OP |S1000 QSL [Operator, Confirm]^
+HR |S1000 HW\? [Hear, How copy\?]^
+PLS |S1000 OP [Please, Operator]^
+MNI |S1000 HW\? [Many, How copy\?]^
+BURO |S1000 QSL [bureau, Confirm]^
+PSE |S1000 BURO [Please, bureau]^
+OP |S1000 BURO [Operator, bureau]^
+YL |S1000 DR [Young lady, Dear]^
+MNI |S1000 OP [Many, Operator]^
+BURO |S1000 OP [bureau, Operator]^
+QRQ |S1000 MNI [High speed, Many]^
+QSY |S1000 OP [Change frequency, Operator]^
+HR |S1000 BURO [Hear, bureau]^
+DR |S1000 BURO [Dear, bureau]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+TX |S1000 QSL [Transmit, Confirm]^
+BURO |S1000 RX [bureau, Receive]^
+BURO |S1000 PLS [bureau, Please]^
+BURO |S1000 DR [bureau, Dear]^
+BURO |S1000 PSE [bureau, Please]^
+BURO |S1000 YL [bureau, Young lady]^
+BURO |S1000 YL [bureau, Young lady]^
+BURO |S1000 MNI [bureau, Many]^
+HW\? |S1000 PSE [How copy\?, Please]^
+QRS |S1000 BURO [Slow speed, bureau]^
+QSL |S1000 OP [Confirm, Operator]^
+MNI |S1000 QSL [Many, Confirm]^
+YL |S1000 BURO [Young lady, bureau]^
+HR |S1000 BURO [Hear, bureau]^
+QRP |S1000 QSY [Low power, Change frequency]^
+PSE |S1000 BURO [Please, bureau]^
+DR |S1000 BURO [Dear, bureau]^
+TX |S1000 BURO [Transmit, bureau]^
+DR |S1000 TX [Dear, Transmit]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+MNI |S1000 OP [Many, Operator]^
+BURO |S1000 QRQ [bureau, High speed]^
+PLS |S1000 HW\? [Please, How copy\?]^
+BURO |S1000 YL [bureau, Young lady]^
+BCNU |S1000 OP [Be seeing you, Operator]^
+PLS |S1000 BURO [Please, bureau]^
+QRS |S1000 BURO [Slow speed, bureau]^
+DR |S1000 QSL [Dear, Confirm]^
+HR |S1000 BURO [Hear, bureau]^
+QRP |S1000 BURO [Low power, bureau]^
+PSE |S1000 PLS [Please, Please]^
+MNI |S1000 BURO [Many, bureau]^
+HR |S1000 MNI [Hear, Many]^
+BURO |S1000 OP [bureau, Operator]^
+BURO |S1000 PSE [bureau, Please]^
+HR |S1000 BURO [Hear, bureau]^
+QSL |S1000 CFM [Confirm, Confirm]^
+YL |S1000 BURO [Young lady, bureau]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+CFM |S1000 BURO [Confirm, bureau]^
+QSL |S1000 QRP [Confirm, Low power]^
+DR |S1000 QRP [Dear, Low power]^
+BURO |S1000 PLS [bureau, Please]^
+BURO |S1000 CFM [bureau, Confirm]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+PSE |S1000 DR [Please, Dear]^
+PSE |S1000 HR [Please, Hear]^
+YL |S1000 QSY [Young lady, Change frequency]^
+QRP |S1000 HW\? [Low power, How copy\?]^
+CFM |S1000 BURO [Confirm, bureau]^
+QRP |S1000 BURO [Low power, bureau]^
+QSY |S1000 QRS [Change frequency, Slow speed]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+BURO |S1000 CFM [bureau, Confirm]^
+QSL |S1000 QRP [Confirm, Low power]^
+BURO |S1000 QRP [bureau, Low power]^
+BURO |S1000 CFM [bureau, Confirm]^
+HR |S1000 CFM [Hear, Confirm]^
+YL |S1000 TX [Young lady, Transmit]^
+BURO |S1000 RX [bureau, Receive]^
+BURO |S1000 QSL [bureau, Confirm]^
+BURO |S1000 TX [bureau, Transmit]^
+MNI |S1000 BURO [Many, bureau]^
+PLS |S1000 MNI [Please, Many]^
+BURO |S1000 CFM [bureau, Confirm]^
+MNI |S1000 BURO [Many, bureau]^
+QRQ |S1000 PSE [High speed, Please]^
+QRP |S1000 QSL [Low power, Confirm]^
+BURO |S1000 HR [bureau, Hear]^
+BURO |S1000 QRP [bureau, Low power]^
+CFM |S1000 MNI [Confirm, Many]^
+BURO |S1000 DR [bureau, Dear]^
+QRP |S1000 BCNU [Low power, Be seeing you]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+BURO |S1000 MNI [bureau, Many]^
+BURO |S1000 DR [bureau, Dear]^
+BCNU |S1000 QRQ [Be seeing you, High speed]^
+BURO |S1000 QSY [bureau, Change frequency]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+MNI |S1000 BURO [Many, bureau]^
+OP |S1000 TX [Operator, Transmit]^
+BURO |S1000 OP [bureau, Operator]^
+PSE |S1000 QSY [Please, Change frequency]^
+PLS |S1000 YL [Please, Young lady]^
+BURO |S1000 PLS [bureau, Please]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+MNI |S1000 BURO [Many, bureau]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+HR |S1000 MNI [Hear, Many]^
+BURO |S1000 QSL [bureau, Confirm]^
+BURO |S1000 PSE [bureau, Please]^
+HR |S1000 QSL [Hear, Confirm]^
+BCNU |S1000 TX [Be seeing you, Transmit]^
+QSY |S1000 BURO [Change frequency, bureau]^
+OP |S1000 CFM [Operator, Confirm]^
+QRP |S1000 DR [Low power, Dear]^
+OP |S1000 BURO [Operator, bureau]^
+CFM |S1000 BURO [Confirm, bureau]^
+CFM |S1000 QRS [Confirm, Slow speed]^
+BURO |S1000 MNI [bureau, Many]^
+BURO |S1000 QSY [bureau, Change frequency]^
+CFM |S1000 BURO [Confirm, bureau]^
+HR |S1000 QRQ [Hear, High speed]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+QRP |S1000 BURO [Low power, bureau]^
+PLS |S1000 BURO [Please, bureau]^
+PSE |S1000 YL [Please, Young lady]^
+BURO |S1000 OP [bureau, Operator]^
+BURO |S1000 CFM [bureau, Confirm]^
+DR |S1000 BURO [Dear, bureau]^
+QRS |S1000 BCNU [Slow speed, Be seeing you]^
+RX |S1000 BURO [Receive, bureau]^
+CFM |S1000 QRQ [Confirm, High speed]^
+QRS |S1000 BURO [Slow speed, bureau]^
+CFM |S1000 QSL [Confirm, Confirm]^
+BURO |S1000 RX [bureau, Receive]^
+HR |S1000 BURO [Hear, bureau]^
+QRP |S1000 HR [Low power, Hear]^
+QRS |S1000 BURO [Slow speed, bureau]^
+HR |S1000 TX [Hear, Transmit]^
+RX |S1000 BURO [Receive, bureau]^
+QSL |S1000 BURO [Confirm, bureau]^
+QRQ |S1000 BURO [High speed, bureau]^
+QRQ |S1000 BURO [High speed, bureau]^
+QSL |S1000 PSE [Confirm, Please]^
+BURO |S1000 QRP [bureau, Low power]^
+YL |S1000 BURO [Young lady, bureau]^
+QRQ |S1000 DR [High speed, Dear]^
+QRP |S1000 HR [Low power, Hear]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+TX |S1000 MNI [Transmit, Many]^
+BURO |S1000 RX [bureau, Receive]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+BURO |S1000 OP [bureau, Operator]^
+PSE |S1000 BURO [Please, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+OP |S1000 QSL [Operator, Confirm]^
+HW\? |S1000 MNI [How copy\?, Many]^
+TX |S1000 BURO [Transmit, bureau]^
+HR |S1000 PLS [Hear, Please]^
+QRP |S1000 BURO [Low power, bureau]^
+TX |S1000 BURO [Transmit, bureau]^
+YL |S1000 QRP [Young lady, Low power]^
+BURO |S1000 OP [bureau, Operator]^
+TX |S1000 PLS [Transmit, Please]^
+BURO |S1000 TX [bureau, Transmit]^
+PSE |S1000 PLS [Please, Please]^
+YL |S1000 BURO [Young lady, bureau]^
+BCNU |S1000 QRP [Be seeing you, Low power]^
+DR |S1000 RX [Dear, Receive]^
+BURO |S1000 QRQ [bureau, High speed]^
+QRS |S1000 MNI [Slow speed, Many]^
+BURO |S1000 TX [bureau, Transmit]^
+BURO |S1000 QSL [bureau, Confirm]^
+QRQ |S1000 BURO [High speed, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+CFM |S1000 QRQ [Confirm, High speed]^
+BURO |S1000 QRS [bureau, Slow speed]^
+HW\? |S1000 DR [How copy\?, Dear]^
+QRP |S1000 RX [Low power, Receive]^
+HR |S1000 PSE [Hear, Please]^
+TX |S1000 RX [Transmit, Receive]^
+BURO |S1000 QSY [bureau, Change frequency]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+BURO |S1000 QSY [bureau, Change frequency]^
+BURO |S1000 PLS [bureau, Please]^
+BURO |S1000 QRS [bureau, Slow speed]^
+BURO |S1000 PSE [bureau, Please]^
+BURO |S1000 HR [bureau, Hear]^
+QSY |S1000 QRP [Change frequency, Low power]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+RX |S1000 OP [Receive, Operator]^
+TX |S1000 BURO [Transmit, bureau]^
+QSY |S1000 BURO [Change frequency, bureau]^
+PSE |S1000 CFM [Please, Confirm]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+TX |S1000 CFM [Transmit, Confirm]^
+DR |S1000 RX [Dear, Receive]^
+PSE |S1000 PLS [Please, Please]^
+BURO |S1000 HR [bureau, Hear]^
+DR |S1000 BURO [Dear, bureau]^
+RX |S1000 BURO [Receive, bureau]^
+TX |S1000 OP [Transmit, Operator]^
+QSL |S1000 HR [Confirm, Hear]^
+BURO |S1000 QSL [bureau, Confirm]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+QRQ |S1000 RX [High speed, Receive]^
+BURO |S1000 OP [bureau, Operator]^
+QRQ |S1000 QSL [High speed, Confirm]^
+HR |S1000 QSL [Hear, Confirm]^
+BURO |S1000 QRQ [bureau, High speed]^
+PSE |S1000 BURO [Please, bureau]^
+YL |S1000 QSY [Young lady, Change frequency]^
+PSE |S1000 BURO [Please, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+DR |S1000 CFM [Dear, Confirm]^
+QRS |S1000 QSL [Slow speed, Confirm]^
+PLS |S1000 QRS [Please, Slow speed]^
+BURO |S1000 CFM [bureau, Confirm]^
+PSE |S1000 BURO [Please, bureau]^
+QSL |S1000 HW\? [Confirm, How copy\?]^
+QSY |S1000 BURO [Change frequency, bureau]^
+QSY |S1000 OP [Change frequency, Operator]^
+QRS |S1000 BURO [Slow speed, bureau]^
+CFM |S1000 QRQ [Confirm, High speed]^
+BURO |S1000 RX [bureau, Receive]^
+QRS |S1000 BURO [Slow speed, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+OP |S1000 QSY [Operator, Change frequency]^
+QSL |S1000 QRP [Confirm, Low power]^
+PSE |S1000 CFM [Please, Confirm]^
+QSY |S1000 BURO [Change frequency, bureau]^
+TX |S1000 BURO [Transmit, bureau]^
+DR |S1000 QSL [Dear, Confirm]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+BURO |S1000 RX [bureau, Receive]^
+BURO |S1000 PSE [bureau, Please]^
+CFM |S1000 BURO [Confirm, bureau]^
+QSY |S1000 HW\? [Change frequency, How copy\?]^
+BURO |S1000 QRS [bureau, Slow speed]^
+YL |S1000 BURO [Young lady, bureau]^
+PLS |S1000 YL [Please, Young lady]^
+QSY |S1000 CFM [Change frequency, Confirm]^
+BURO |S1000 HR [bureau, Hear]^
+QRS |S1000 BURO [Slow speed, bureau]^
+QRP |S1000 PLS [Low power, Please]^
+PSE |S1000 PLS [Please, Please]^
+PSE |S1000 QRQ [Please, High speed]^
+RX |S1000 BURO [Receive, bureau]^
+QRP |S1000 HR [Low power, Hear]^
+BURO |S1000 QRQ [bureau, High speed]^
+MNI |S1000 PSE [Many, Please]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+QRS |S1000 BCNU [Slow speed, Be seeing you]^
+HR |S1000 CFM [Hear, Confirm]^
+QRP |S1000 BURO [Low power, bureau]^
+YL |S1000 BURO [Young lady, bureau]^
+QRS |S1000 YL [Slow speed, Young lady]^
+QSY |S1000 BURO [Change frequency, bureau]^
+QSY |S1000 PLS [Change frequency, Please]^
+PSE |S1000 BURO [Please, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+PSE |S1000 QSY [Please, Change frequency]^
+QRP |S1000 QSY [Low power, Change frequency]^
+BURO |S1000 HR [bureau, Hear]^
+QSY |S1000 HW\? [Change frequency, How copy\?]^
+OP |S1000 BURO [Operator, bureau]^
+HW\? |S1000 OP [How copy\?, Operator]^
+RX |S1000 BURO [Receive, bureau]^
+QSL |S1000 TX [Confirm, Transmit]^
+CFM |S1000 BURO [Confirm, bureau]^
+DR |S1000 QSY [Dear, Change frequency]^
+PLS |S1000 BURO [Please, bureau]^
+QRQ |S1000 PLS [High speed, Please]^
+BURO |S1000 OP [bureau, Operator]^
+BURO |S1000 RX [bureau, Receive]^
+QRS |S1000 BURO [Slow speed, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+QRP |S1000 QRQ [Low power, High speed]^
+DR |S1000 MNI [Dear, Many]^
+QRQ |S1000 QSY [High speed, Change frequency]^
+BURO |S1000 MNI [bureau, Many]^
+BURO |S1000 QRP [bureau, Low power]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+PLS |S1000 MNI [Please, Many]^
+PLS |S1000 QRS [Please, Slow speed]^
+BURO |S1000 PLS [bureau, Please]^
+BURO |S1000 CFM [bureau, Confirm]^
+QRQ |S1000 BURO [High speed, bureau]^
+QRS |S1000 BURO [Slow speed, bureau]^
+CFM |S1000 PLS [Confirm, Please]^
+QSL |S1000 BURO [Confirm, bureau]^
+PLS |S1000 BURO [Please, bureau]^
+HW\? |S1000 QRP [How copy\?, Low power]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+MNI |S1000 QRP [Many, Low power]^
+HR |S1000 PLS [Hear, Please]^
+BURO |S1000 YL [bureau, Young lady]^
+RX |S1000 BURO [Receive, bureau]^
+RX |S1000 HW\? [Receive, How copy\?]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+PLS |S1000 BURO [Please, bureau]^
+MNI |S1000 CFM [Many, Confirm]^
+QRQ |S1000 QSY [High speed, Change frequency]^
+CFM |S1000 RX [Confirm, Receive]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+QRQ |S1000 BURO [High speed, bureau]^
+QRQ |S1000 BURO [High speed, bureau]^
+CFM |S1000 QRS [Confirm, Slow speed]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+BURO |S1000 PSE [bureau, Please]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+HR |S1000 BURO [Hear, bureau]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+OP |S1000 MNI [Operator, Many]^
+BURO |S1000 PLS [bureau, Please]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+BURO |S1000 OP [bureau, Operator]^

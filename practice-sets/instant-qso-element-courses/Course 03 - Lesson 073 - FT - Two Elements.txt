@@ -1,0 +1,600 @@
+DR |S1000 PLS [Dear, Please]^
+QRS |S1000 FT [Slow speed, Feet]^
+BURO |S1000 FT [bureau, Feet]^
+OP |S1000 QRP [Operator, Low power]^
+QSY |S1000 OP [Change frequency, Operator]^
+FT |S1000 TX [Feet, Transmit]^
+QSL |S1000 RX [Confirm, Receive]^
+FT |S1000 QSY [Feet, Change frequency]^
+PSE |S1000 FT [Please, Feet]^
+RX |S1000 FT [Receive, Feet]^
+QRQ |S1000 QRS [High speed, Slow speed]^
+BURO |S1000 QRQ [bureau, High speed]^
+TX |S1000 FT [Transmit, Feet]^
+QRQ |S1000 TX [High speed, Transmit]^
+FT |S1000 TX [Feet, Transmit]^
+HW\? |S1000 DR [How copy\?, Dear]^
+FT |S1000 RX [Feet, Receive]^
+CFM |S1000 PSE [Confirm, Please]^
+FT |S1000 YL [Feet, Young lady]^
+FT |S1000 QRS [Feet, Slow speed]^
+FT |S1000 CFM [Feet, Confirm]^
+BCNU |S1000 FT [Be seeing you, Feet]^
+QSL |S1000 FT [Confirm, Feet]^
+QSL |S1000 MNI [Confirm, Many]^
+FT |S1000 HW\? [Feet, How copy\?]^
+FT |S1000 QRP [Feet, Low power]^
+PLS |S1000 QRQ [Please, High speed]^
+QSY |S1000 HW\? [Change frequency, How copy\?]^
+BCNU |S1000 YL [Be seeing you, Young lady]^
+FT |S1000 DR [Feet, Dear]^
+QSL |S1000 FT [Confirm, Feet]^
+DR |S1000 MNI [Dear, Many]^
+FT |S1000 OP [Feet, Operator]^
+YL |S1000 QRP [Young lady, Low power]^
+RX |S1000 FT [Receive, Feet]^
+BURO |S1000 QRS [bureau, Slow speed]^
+FT |S1000 HW\? [Feet, How copy\?]^
+CFM |S1000 MNI [Confirm, Many]^
+HR |S1000 QSL [Hear, Confirm]^
+FT |S1000 QSL [Feet, Confirm]^
+FT |S1000 QRQ [Feet, High speed]^
+FT |S1000 RX [Feet, Receive]^
+HR |S1000 BURO [Hear, bureau]^
+FT |S1000 QSY [Feet, Change frequency]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+FT |S1000 PLS [Feet, Please]^
+QSL |S1000 FT [Confirm, Feet]^
+CFM |S1000 HR [Confirm, Hear]^
+FT |S1000 HR [Feet, Hear]^
+FT |S1000 PSE [Feet, Please]^
+FT |S1000 QSY [Feet, Change frequency]^
+OP |S1000 CFM [Operator, Confirm]^
+BURO |S1000 FT [bureau, Feet]^
+MNI |S1000 FT [Many, Feet]^
+HW\? |S1000 OP [How copy\?, Operator]^
+PSE |S1000 FT [Please, Feet]^
+BURO |S1000 FT [bureau, Feet]^
+RX |S1000 FT [Receive, Feet]^
+QSY |S1000 YL [Change frequency, Young lady]^
+QRQ |S1000 PLS [High speed, Please]^
+QSY |S1000 PSE [Change frequency, Please]^
+FT |S1000 PLS [Feet, Please]^
+FT |S1000 MNI [Feet, Many]^
+FT |S1000 QSL [Feet, Confirm]^
+FT |S1000 MNI [Feet, Many]^
+QRP |S1000 QRS [Low power, Slow speed]^
+BURO |S1000 FT [bureau, Feet]^
+CFM |S1000 RX [Confirm, Receive]^
+MNI |S1000 TX [Many, Transmit]^
+HR |S1000 FT [Hear, Feet]^
+QSY |S1000 FT [Change frequency, Feet]^
+RX |S1000 OP [Receive, Operator]^
+QRQ |S1000 RX [High speed, Receive]^
+MNI |S1000 PSE [Many, Please]^
+QRS |S1000 FT [Slow speed, Feet]^
+BURO |S1000 PSE [bureau, Please]^
+FT |S1000 PLS [Feet, Please]^
+FT |S1000 OP [Feet, Operator]^
+FT |S1000 QSL [Feet, Confirm]^
+OP |S1000 PLS [Operator, Please]^
+QRP |S1000 FT [Low power, Feet]^
+QRP |S1000 RX [Low power, Receive]^
+FT |S1000 QSY [Feet, Change frequency]^
+QRQ |S1000 CFM [High speed, Confirm]^
+TX |S1000 QRS [Transmit, Slow speed]^
+FT |S1000 HW\? [Feet, How copy\?]^
+DR |S1000 QRP [Dear, Low power]^
+FT |S1000 YL [Feet, Young lady]^
+FT |S1000 BURO [Feet, bureau]^
+QRQ |S1000 FT [High speed, Feet]^
+QRP |S1000 FT [Low power, Feet]^
+HW\? |S1000 MNI [How copy\?, Many]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+FT |S1000 QRS [Feet, Slow speed]^
+QSY |S1000 PLS [Change frequency, Please]^
+PSE |S1000 FT [Please, Feet]^
+OP |S1000 PSE [Operator, Please]^
+RX |S1000 FT [Receive, Feet]^
+DR |S1000 FT [Dear, Feet]^
+DR |S1000 CFM [Dear, Confirm]^
+FT |S1000 RX [Feet, Receive]^
+FT |S1000 PSE [Feet, Please]^
+QSY |S1000 FT [Change frequency, Feet]^
+HR |S1000 FT [Hear, Feet]^
+QRP |S1000 MNI [Low power, Many]^
+QSY |S1000 QRQ [Change frequency, High speed]^
+MNI |S1000 TX [Many, Transmit]^
+YL |S1000 HR [Young lady, Hear]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+FT |S1000 HR [Feet, Hear]^
+QRP |S1000 TX [Low power, Transmit]^
+FT |S1000 QRQ [Feet, High speed]^
+CFM |S1000 FT [Confirm, Feet]^
+QRQ |S1000 FT [High speed, Feet]^
+QRS |S1000 CFM [Slow speed, Confirm]^
+FT |S1000 DR [Feet, Dear]^
+MNI |S1000 BURO [Many, bureau]^
+HR |S1000 FT [Hear, Feet]^
+CFM |S1000 FT [Confirm, Feet]^
+OP |S1000 FT [Operator, Feet]^
+HW\? |S1000 QRS [How copy\?, Slow speed]^
+OP |S1000 FT [Operator, Feet]^
+QRS |S1000 OP [Slow speed, Operator]^
+FT |S1000 QSY [Feet, Change frequency]^
+HR |S1000 FT [Hear, Feet]^
+QSY |S1000 FT [Change frequency, Feet]^
+BCNU |S1000 QSL [Be seeing you, Confirm]^
+YL |S1000 FT [Young lady, Feet]^
+HW\? |S1000 FT [How copy\?, Feet]^
+QSY |S1000 MNI [Change frequency, Many]^
+PLS |S1000 RX [Please, Receive]^
+FT |S1000 BURO [Feet, bureau]^
+QSY |S1000 YL [Change frequency, Young lady]^
+FT |S1000 HR [Feet, Hear]^
+FT |S1000 YL [Feet, Young lady]^
+BCNU |S1000 FT [Be seeing you, Feet]^
+QSL |S1000 FT [Confirm, Feet]^
+DR |S1000 RX [Dear, Receive]^
+QRS |S1000 FT [Slow speed, Feet]^
+HR |S1000 PLS [Hear, Please]^
+QRP |S1000 OP [Low power, Operator]^
+BURO |S1000 DR [bureau, Dear]^
+FT |S1000 CFM [Feet, Confirm]^
+DR |S1000 OP [Dear, Operator]^
+FT |S1000 QRQ [Feet, High speed]^
+FT |S1000 RX [Feet, Receive]^
+PLS |S1000 QRQ [Please, High speed]^
+QRS |S1000 FT [Slow speed, Feet]^
+QRP |S1000 CFM [Low power, Confirm]^
+FT |S1000 BURO [Feet, bureau]^
+DR |S1000 FT [Dear, Feet]^
+HW\? |S1000 FT [How copy\?, Feet]^
+CFM |S1000 DR [Confirm, Dear]^
+FT |S1000 QRP [Feet, Low power]^
+FT |S1000 MNI [Feet, Many]^
+FT |S1000 OP [Feet, Operator]^
+FT |S1000 MNI [Feet, Many]^
+HW\? |S1000 MNI [How copy\?, Many]^
+FT |S1000 OP [Feet, Operator]^
+HR |S1000 FT [Hear, Feet]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+CFM |S1000 FT [Confirm, Feet]^
+TX |S1000 FT [Transmit, Feet]^
+HR |S1000 QRS [Hear, Slow speed]^
+FT |S1000 QSL [Feet, Confirm]^
+CFM |S1000 QRS [Confirm, Slow speed]^
+BURO |S1000 FT [bureau, Feet]^
+CFM |S1000 MNI [Confirm, Many]^
+FT |S1000 TX [Feet, Transmit]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+FT |S1000 OP [Feet, Operator]^
+FT |S1000 QSY [Feet, Change frequency]^
+OP |S1000 TX [Operator, Transmit]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+QRS |S1000 QSL [Slow speed, Confirm]^
+QRP |S1000 BURO [Low power, bureau]^
+FT |S1000 HW\? [Feet, How copy\?]^
+BURO |S1000 QRQ [bureau, High speed]^
+BCNU |S1000 FT [Be seeing you, Feet]^
+BCNU |S1000 FT [Be seeing you, Feet]^
+PSE |S1000 QRQ [Please, High speed]^
+MNI |S1000 QRQ [Many, High speed]^
+QRP |S1000 FT [Low power, Feet]^
+MNI |S1000 TX [Many, Transmit]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+QRS |S1000 FT [Slow speed, Feet]^
+DR |S1000 PSE [Dear, Please]^
+FT |S1000 MNI [Feet, Many]^
+CFM |S1000 FT [Confirm, Feet]^
+HR |S1000 QSY [Hear, Change frequency]^
+HW\? |S1000 QRS [How copy\?, Slow speed]^
+BURO |S1000 HR [bureau, Hear]^
+BURO |S1000 DR [bureau, Dear]^
+FT |S1000 DR [Feet, Dear]^
+TX |S1000 FT [Transmit, Feet]^
+RX |S1000 FT [Receive, Feet]^
+HR |S1000 FT [Hear, Feet]^
+OP |S1000 MNI [Operator, Many]^
+FT |S1000 OP [Feet, Operator]^
+FT |S1000 QSL [Feet, Confirm]^
+MNI |S1000 PSE [Many, Please]^
+OP |S1000 BURO [Operator, bureau]^
+HW\? |S1000 FT [How copy\?, Feet]^
+PSE |S1000 QSL [Please, Confirm]^
+FT |S1000 MNI [Feet, Many]^
+QRP |S1000 RX [Low power, Receive]^
+QSY |S1000 HW\? [Change frequency, How copy\?]^
+PSE |S1000 BURO [Please, bureau]^
+FT |S1000 OP [Feet, Operator]^
+HW\? |S1000 FT [How copy\?, Feet]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+QRQ |S1000 FT [High speed, Feet]^
+RX |S1000 YL [Receive, Young lady]^
+QRQ |S1000 CFM [High speed, Confirm]^
+FT |S1000 QRP [Feet, Low power]^
+HR |S1000 YL [Hear, Young lady]^
+CFM |S1000 QSY [Confirm, Change frequency]^
+FT |S1000 RX [Feet, Receive]^
+FT |S1000 PSE [Feet, Please]^
+FT |S1000 TX [Feet, Transmit]^
+FT |S1000 PLS [Feet, Please]^
+QRP |S1000 FT [Low power, Feet]^
+QRP |S1000 FT [Low power, Feet]^
+MNI |S1000 QRP [Many, Low power]^
+PLS |S1000 QRS [Please, Slow speed]^
+HR |S1000 FT [Hear, Feet]^
+QSL |S1000 FT [Confirm, Feet]^
+PSE |S1000 QRS [Please, Slow speed]^
+QSL |S1000 FT [Confirm, Feet]^
+BCNU |S1000 RX [Be seeing you, Receive]^
+FT |S1000 YL [Feet, Young lady]^
+FT |S1000 PLS [Feet, Please]^
+FT |S1000 HR [Feet, Hear]^
+CFM |S1000 YL [Confirm, Young lady]^
+PLS |S1000 FT [Please, Feet]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+FT |S1000 BURO [Feet, bureau]^
+QRS |S1000 FT [Slow speed, Feet]^
+QSL |S1000 YL [Confirm, Young lady]^
+FT |S1000 QSL [Feet, Confirm]^
+MNI |S1000 FT [Many, Feet]^
+YL |S1000 FT [Young lady, Feet]^
+QRP |S1000 YL [Low power, Young lady]^
+QSL |S1000 OP [Confirm, Operator]^
+PLS |S1000 TX [Please, Transmit]^
+FT |S1000 HW\? [Feet, How copy\?]^
+PSE |S1000 RX [Please, Receive]^
+MNI |S1000 FT [Many, Feet]^
+QSY |S1000 FT [Change frequency, Feet]^
+QRP |S1000 FT [Low power, Feet]^
+PLS |S1000 QSL [Please, Confirm]^
+TX |S1000 FT [Transmit, Feet]^
+YL |S1000 MNI [Young lady, Many]^
+PLS |S1000 FT [Please, Feet]^
+TX |S1000 QSL [Transmit, Confirm]^
+YL |S1000 FT [Young lady, Feet]^
+QSY |S1000 FT [Change frequency, Feet]^
+CFM |S1000 RX [Confirm, Receive]^
+FT |S1000 HW\? [Feet, How copy\?]^
+QSY |S1000 YL [Change frequency, Young lady]^
+MNI |S1000 FT [Many, Feet]^
+QRP |S1000 QSY [Low power, Change frequency]^
+OP |S1000 FT [Operator, Feet]^
+BCNU |S1000 YL [Be seeing you, Young lady]^
+QSY |S1000 TX [Change frequency, Transmit]^
+PLS |S1000 FT [Please, Feet]^
+BURO |S1000 PSE [bureau, Please]^
+HW\? |S1000 QRS [How copy\?, Slow speed]^
+FT |S1000 DR [Feet, Dear]^
+FT |S1000 PLS [Feet, Please]^
+FT |S1000 QRQ [Feet, High speed]^
+BCNU |S1000 FT [Be seeing you, Feet]^
+RX |S1000 PLS [Receive, Please]^
+MNI |S1000 BCNU [Many, Be seeing you]^
+CFM |S1000 FT [Confirm, Feet]^
+DR |S1000 PSE [Dear, Please]^
+FT |S1000 PLS [Feet, Please]^
+RX |S1000 FT [Receive, Feet]^
+RX |S1000 QRQ [Receive, High speed]^
+QSY |S1000 FT [Change frequency, Feet]^
+MNI |S1000 FT [Many, Feet]^
+QSY |S1000 YL [Change frequency, Young lady]^
+DR |S1000 MNI [Dear, Many]^
+FT |S1000 MNI [Feet, Many]^
+FT |S1000 BURO [Feet, bureau]^
+FT |S1000 YL [Feet, Young lady]^
+QSY |S1000 FT [Change frequency, Feet]^
+HW\? |S1000 QSL [How copy\?, Confirm]^
+FT |S1000 QRQ [Feet, High speed]^
+MNI |S1000 FT [Many, Feet]^
+BCNU |S1000 FT [Be seeing you, Feet]^
+RX |S1000 FT [Receive, Feet]^
+QRP |S1000 OP [Low power, Operator]^
+PLS |S1000 FT [Please, Feet]^
+QRQ |S1000 OP [High speed, Operator]^
+RX |S1000 FT [Receive, Feet]^
+TX |S1000 OP [Transmit, Operator]^
+PSE |S1000 CFM [Please, Confirm]^
+FT |S1000 CFM [Feet, Confirm]^
+FT |S1000 HR [Feet, Hear]^
+QSY |S1000 PSE [Change frequency, Please]^
+FT |S1000 OP [Feet, Operator]^
+QSL |S1000 CFM [Confirm, Confirm]^
+HW\? |S1000 FT [How copy\?, Feet]^
+QRQ |S1000 RX [High speed, Receive]^
+FT |S1000 HW\? [Feet, How copy\?]^
+FT |S1000 HW\? [Feet, How copy\?]^
+FT |S1000 YL [Feet, Young lady]^
+TX |S1000 FT [Transmit, Feet]^
+QRQ |S1000 OP [High speed, Operator]^
+QRQ |S1000 FT [High speed, Feet]^
+DR |S1000 PSE [Dear, Please]^
+QRP |S1000 PSE [Low power, Please]^
+QSL |S1000 QRQ [Confirm, High speed]^
+CFM |S1000 RX [Confirm, Receive]^
+MNI |S1000 QRQ [Many, High speed]^
+FT |S1000 MNI [Feet, Many]^
+FT |S1000 HR [Feet, Hear]^
+FT |S1000 QRQ [Feet, High speed]^
+TX |S1000 PSE [Transmit, Please]^
+FT |S1000 OP [Feet, Operator]^
+FT |S1000 YL [Feet, Young lady]^
+RX |S1000 PLS [Receive, Please]^
+FT |S1000 QRQ [Feet, High speed]^
+BURO |S1000 FT [bureau, Feet]^
+HW\? |S1000 PSE [How copy\?, Please]^
+FT |S1000 YL [Feet, Young lady]^
+FT |S1000 TX [Feet, Transmit]^
+QSL |S1000 BCNU [Confirm, Be seeing you]^
+DR |S1000 HR [Dear, Hear]^
+DR |S1000 QSL [Dear, Confirm]^
+FT |S1000 QRS [Feet, Slow speed]^
+FT |S1000 OP [Feet, Operator]^
+DR |S1000 CFM [Dear, Confirm]^
+FT |S1000 MNI [Feet, Many]^
+HR |S1000 BCNU [Hear, Be seeing you]^
+FT |S1000 HW\? [Feet, How copy\?]^
+TX |S1000 FT [Transmit, Feet]^
+MNI |S1000 PSE [Many, Please]^
+FT |S1000 OP [Feet, Operator]^
+FT |S1000 HR [Feet, Hear]^
+QSY |S1000 BCNU [Change frequency, Be seeing you]^
+QRQ |S1000 FT [High speed, Feet]^
+QRS |S1000 FT [Slow speed, Feet]^
+HR |S1000 FT [Hear, Feet]^
+CFM |S1000 FT [Confirm, Feet]^
+MNI |S1000 FT [Many, Feet]^
+TX |S1000 BCNU [Transmit, Be seeing you]^
+QRQ |S1000 FT [High speed, Feet]^
+QRQ |S1000 QRP [High speed, Low power]^
+QSL |S1000 CFM [Confirm, Confirm]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+QRQ |S1000 FT [High speed, Feet]^
+YL |S1000 FT [Young lady, Feet]^
+QRQ |S1000 FT [High speed, Feet]^
+QRP |S1000 FT [Low power, Feet]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+FT |S1000 QSY [Feet, Change frequency]^
+RX |S1000 FT [Receive, Feet]^
+MNI |S1000 FT [Many, Feet]^
+DR |S1000 FT [Dear, Feet]^
+TX |S1000 FT [Transmit, Feet]^
+PSE |S1000 FT [Please, Feet]^
+QSL |S1000 OP [Confirm, Operator]^
+QRS |S1000 FT [Slow speed, Feet]^
+HW\? |S1000 RX [How copy\?, Receive]^
+OP |S1000 FT [Operator, Feet]^
+DR |S1000 PSE [Dear, Please]^
+FT |S1000 DR [Feet, Dear]^
+MNI |S1000 YL [Many, Young lady]^
+TX |S1000 FT [Transmit, Feet]^
+DR |S1000 QSL [Dear, Confirm]^
+FT |S1000 QSL [Feet, Confirm]^
+OP |S1000 DR [Operator, Dear]^
+PSE |S1000 QRS [Please, Slow speed]^
+TX |S1000 QRS [Transmit, Slow speed]^
+QRQ |S1000 FT [High speed, Feet]^
+QSL |S1000 FT [Confirm, Feet]^
+BCNU |S1000 HW\? [Be seeing you, How copy\?]^
+FT |S1000 YL [Feet, Young lady]^
+FT |S1000 HR [Feet, Hear]^
+PSE |S1000 FT [Please, Feet]^
+TX |S1000 QRS [Transmit, Slow speed]^
+QRQ |S1000 OP [High speed, Operator]^
+QRS |S1000 OP [Slow speed, Operator]^
+YL |S1000 BURO [Young lady, bureau]^
+TX |S1000 FT [Transmit, Feet]^
+PLS |S1000 BURO [Please, bureau]^
+TX |S1000 QRP [Transmit, Low power]^
+HW\? |S1000 FT [How copy\?, Feet]^
+BURO |S1000 HR [bureau, Hear]^
+FT |S1000 CFM [Feet, Confirm]^
+FT |S1000 QRQ [Feet, High speed]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+DR |S1000 RX [Dear, Receive]^
+FT |S1000 HW\? [Feet, How copy\?]^
+QRS |S1000 QSL [Slow speed, Confirm]^
+FT |S1000 TX [Feet, Transmit]^
+YL |S1000 FT [Young lady, Feet]^
+HW\? |S1000 DR [How copy\?, Dear]^
+HW\? |S1000 PSE [How copy\?, Please]^
+QRP |S1000 FT [Low power, Feet]^
+PSE |S1000 FT [Please, Feet]^
+QSY |S1000 FT [Change frequency, Feet]^
+MNI |S1000 HR [Many, Hear]^
+FT |S1000 DR [Feet, Dear]^
+PLS |S1000 FT [Please, Feet]^
+BCNU |S1000 QSY [Be seeing you, Change frequency]^
+FT |S1000 QRQ [Feet, High speed]^
+MNI |S1000 FT [Many, Feet]^
+DR |S1000 FT [Dear, Feet]^
+DR |S1000 FT [Dear, Feet]^
+MNI |S1000 CFM [Many, Confirm]^
+QRS |S1000 FT [Slow speed, Feet]^
+CFM |S1000 RX [Confirm, Receive]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+FT |S1000 QRQ [Feet, High speed]^
+FT |S1000 DR [Feet, Dear]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+HW\? |S1000 QSY [How copy\?, Change frequency]^
+FT |S1000 HW\? [Feet, How copy\?]^
+FT |S1000 DR [Feet, Dear]^
+PSE |S1000 HR [Please, Hear]^
+FT |S1000 OP [Feet, Operator]^
+PSE |S1000 HW\? [Please, How copy\?]^
+FT |S1000 MNI [Feet, Many]^
+QRS |S1000 FT [Slow speed, Feet]^
+RX |S1000 CFM [Receive, Confirm]^
+FT |S1000 QRP [Feet, Low power]^
+CFM |S1000 QRS [Confirm, Slow speed]^
+FT |S1000 BURO [Feet, bureau]^
+FT |S1000 QRQ [Feet, High speed]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+FT |S1000 QSL [Feet, Confirm]^
+FT |S1000 PSE [Feet, Please]^
+FT |S1000 QRP [Feet, Low power]^
+HR |S1000 PLS [Hear, Please]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+QRS |S1000 FT [Slow speed, Feet]^
+QSL |S1000 HR [Confirm, Hear]^
+QRS |S1000 FT [Slow speed, Feet]^
+OP |S1000 TX [Operator, Transmit]^
+BURO |S1000 FT [bureau, Feet]^
+PSE |S1000 HW\? [Please, How copy\?]^
+CFM |S1000 FT [Confirm, Feet]^
+QRS |S1000 RX [Slow speed, Receive]^
+QSY |S1000 FT [Change frequency, Feet]^
+PLS |S1000 PSE [Please, Please]^
+YL |S1000 FT [Young lady, Feet]^
+CFM |S1000 BURO [Confirm, bureau]^
+FT |S1000 RX [Feet, Receive]^
+DR |S1000 FT [Dear, Feet]^
+QSL |S1000 FT [Confirm, Feet]^
+RX |S1000 TX [Receive, Transmit]^
+FT |S1000 YL [Feet, Young lady]^
+CFM |S1000 PSE [Confirm, Please]^
+CFM |S1000 PLS [Confirm, Please]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+PLS |S1000 FT [Please, Feet]^
+BURO |S1000 FT [bureau, Feet]^
+DR |S1000 FT [Dear, Feet]^
+YL |S1000 DR [Young lady, Dear]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+FT |S1000 BURO [Feet, bureau]^
+OP |S1000 FT [Operator, Feet]^
+QRS |S1000 FT [Slow speed, Feet]^
+MNI |S1000 QRP [Many, Low power]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+QRS |S1000 BURO [Slow speed, bureau]^
+QSY |S1000 FT [Change frequency, Feet]^
+HR |S1000 FT [Hear, Feet]^
+BURO |S1000 FT [bureau, Feet]^
+OP |S1000 HR [Operator, Hear]^
+DR |S1000 FT [Dear, Feet]^
+HW\? |S1000 FT [How copy\?, Feet]^
+DR |S1000 QRP [Dear, Low power]^
+DR |S1000 PLS [Dear, Please]^
+MNI |S1000 FT [Many, Feet]^
+QSY |S1000 PSE [Change frequency, Please]^
+FT |S1000 CFM [Feet, Confirm]^
+PLS |S1000 FT [Please, Feet]^
+TX |S1000 CFM [Transmit, Confirm]^
+FT |S1000 QSY [Feet, Change frequency]^
+PLS |S1000 HR [Please, Hear]^
+FT |S1000 DR [Feet, Dear]^
+HR |S1000 QSY [Hear, Change frequency]^
+FT |S1000 PLS [Feet, Please]^
+QSY |S1000 YL [Change frequency, Young lady]^
+FT |S1000 QRQ [Feet, High speed]^
+FT |S1000 QRP [Feet, Low power]^
+PSE |S1000 FT [Please, Feet]^
+MNI |S1000 YL [Many, Young lady]^
+FT |S1000 QRP [Feet, Low power]^
+QRS |S1000 PLS [Slow speed, Please]^
+BCNU |S1000 PLS [Be seeing you, Please]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+BURO |S1000 QSL [bureau, Confirm]^
+FT |S1000 MNI [Feet, Many]^
+QSY |S1000 FT [Change frequency, Feet]^
+TX |S1000 OP [Transmit, Operator]^
+FT |S1000 QSY [Feet, Change frequency]^
+BCNU |S1000 FT [Be seeing you, Feet]^
+PSE |S1000 FT [Please, Feet]^
+MNI |S1000 PLS [Many, Please]^
+HR |S1000 QSL [Hear, Confirm]^
+DR |S1000 QRP [Dear, Low power]^
+YL |S1000 QRP [Young lady, Low power]^
+FT |S1000 CFM [Feet, Confirm]^
+MNI |S1000 CFM [Many, Confirm]^
+TX |S1000 FT [Transmit, Feet]^
+CFM |S1000 FT [Confirm, Feet]^
+YL |S1000 BURO [Young lady, bureau]^
+TX |S1000 FT [Transmit, Feet]^
+OP |S1000 BURO [Operator, bureau]^
+FT |S1000 BURO [Feet, bureau]^
+FT |S1000 QRP [Feet, Low power]^
+BCNU |S1000 FT [Be seeing you, Feet]^
+DR |S1000 FT [Dear, Feet]^
+HR |S1000 PLS [Hear, Please]^
+QRP |S1000 CFM [Low power, Confirm]^
+QSL |S1000 QRP [Confirm, Low power]^
+FT |S1000 BURO [Feet, bureau]^
+DR |S1000 FT [Dear, Feet]^
+PSE |S1000 MNI [Please, Many]^
+BCNU |S1000 QRS [Be seeing you, Slow speed]^
+QSL |S1000 HW\? [Confirm, How copy\?]^
+QRP |S1000 FT [Low power, Feet]^
+QSY |S1000 CFM [Change frequency, Confirm]^
+BCNU |S1000 TX [Be seeing you, Transmit]^
+FT |S1000 YL [Feet, Young lady]^
+FT |S1000 CFM [Feet, Confirm]^
+FT |S1000 HR [Feet, Hear]^
+DR |S1000 FT [Dear, Feet]^
+CFM |S1000 DR [Confirm, Dear]^
+QRS |S1000 FT [Slow speed, Feet]^
+HW\? |S1000 FT [How copy\?, Feet]^
+PLS |S1000 FT [Please, Feet]^
+QSY |S1000 DR [Change frequency, Dear]^
+FT |S1000 HW\? [Feet, How copy\?]^
+OP |S1000 BURO [Operator, bureau]^
+FT |S1000 MNI [Feet, Many]^
+FT |S1000 MNI [Feet, Many]^
+PLS |S1000 FT [Please, Feet]^
+RX |S1000 BURO [Receive, bureau]^
+QSL |S1000 QRQ [Confirm, High speed]^
+PLS |S1000 DR [Please, Dear]^
+BCNU |S1000 RX [Be seeing you, Receive]^
+FT |S1000 QSL [Feet, Confirm]^
+QRP |S1000 QRQ [Low power, High speed]^
+FT |S1000 MNI [Feet, Many]^
+YL |S1000 CFM [Young lady, Confirm]^
+QSL |S1000 HR [Confirm, Hear]^
+FT |S1000 PLS [Feet, Please]^
+QSY |S1000 YL [Change frequency, Young lady]^
+HW\? |S1000 QSL [How copy\?, Confirm]^
+FT |S1000 PLS [Feet, Please]^
+BCNU |S1000 MNI [Be seeing you, Many]^
+YL |S1000 RX [Young lady, Receive]^
+CFM |S1000 QRQ [Confirm, High speed]^
+FT |S1000 RX [Feet, Receive]^
+HR |S1000 QSL [Hear, Confirm]^
+OP |S1000 QRP [Operator, Low power]^
+FT |S1000 QSY [Feet, Change frequency]^
+MNI |S1000 FT [Many, Feet]^
+QSL |S1000 QRP [Confirm, Low power]^
+FT |S1000 OP [Feet, Operator]^
+BURO |S1000 HW\? [bureau, How copy\?]^
+TX |S1000 QRP [Transmit, Low power]^
+FT |S1000 YL [Feet, Young lady]^
+FT |S1000 PSE [Feet, Please]^
+QSY |S1000 FT [Change frequency, Feet]^
+OP |S1000 FT [Operator, Feet]^
+QRS |S1000 BURO [Slow speed, bureau]^
+RX |S1000 YL [Receive, Young lady]^
+FT |S1000 PLS [Feet, Please]^
+HW\? |S1000 FT [How copy\?, Feet]^
+TX |S1000 QRQ [Transmit, High speed]^
+YL |S1000 FT [Young lady, Feet]^
+RX |S1000 BURO [Receive, bureau]^
+FT |S1000 PSE [Feet, Please]^
+QRP |S1000 QSL [Low power, Confirm]^
+TX |S1000 PLS [Transmit, Please]^
+FT |S1000 QRS [Feet, Slow speed]^
+QSL |S1000 FT [Confirm, Feet]^
+BURO |S1000 FT [bureau, Feet]^
+HW\? |S1000 QSL [How copy\?, Confirm]^
+HR |S1000 OP [Hear, Operator]^
+PSE |S1000 MNI [Please, Many]^
+FT |S1000 HR [Feet, Hear]^
+YL |S1000 RX [Young lady, Receive]^
+TX |S1000 FT [Transmit, Feet]^
+CFM |S1000 FT [Confirm, Feet]^
+YL |S1000 DR [Young lady, Dear]^
+FT |S1000 TX [Feet, Transmit]^
+YL |S1000 QRS [Young lady, Slow speed]^
+FT |S1000 PLS [Feet, Please]^
+HR |S1000 FT [Hear, Feet]^
+CFM |S1000 QRQ [Confirm, High speed]^
+DR |S1000 OP [Dear, Operator]^
+PSE |S1000 YL [Please, Young lady]^

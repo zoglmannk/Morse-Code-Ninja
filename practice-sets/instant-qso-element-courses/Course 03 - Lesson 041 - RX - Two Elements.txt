@@ -1,0 +1,600 @@
+RX |S1000 PSE [Receive, Please]^
+RX |S1000 TX [Receive, Transmit]^
+DR |S1000 RX [Dear, Receive]^
+OP |S1000 DR [Operator, Dear]^
+RX |S1000 OP [Receive, Operator]^
+DR |S1000 RX [Dear, Receive]^
+MNI |S1000 HW\? [Many, How copy\?]^
+OP |S1000 PLS [Operator, Please]^
+OP |S1000 DR [Operator, Dear]^
+RX |S1000 PLS [Receive, Please]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 MNI [Receive, Many]^
+RX |S1000 PLS [Receive, Please]^
+YL |S1000 PLS [Young lady, Please]^
+HW\? |S1000 MNI [How copy\?, Many]^
+RX |S1000 CFM [Receive, Confirm]^
+TX |S1000 PLS [Transmit, Please]^
+RX |S1000 DR [Receive, Dear]^
+TX |S1000 RX [Transmit, Receive]^
+PSE |S1000 HR [Please, Hear]^
+RX |S1000 PSE [Receive, Please]^
+DR |S1000 RX [Dear, Receive]^
+PSE |S1000 HR [Please, Hear]^
+DR |S1000 PSE [Dear, Please]^
+PLS |S1000 HR [Please, Hear]^
+RX |S1000 CFM [Receive, Confirm]^
+RX |S1000 PLS [Receive, Please]^
+PSE |S1000 PLS [Please, Please]^
+RX |S1000 OP [Receive, Operator]^
+PLS |S1000 YL [Please, Young lady]^
+CFM |S1000 HR [Confirm, Hear]^
+MNI |S1000 RX [Many, Receive]^
+HR |S1000 RX [Hear, Receive]^
+PSE |S1000 RX [Please, Receive]^
+MNI |S1000 CFM [Many, Confirm]^
+MNI |S1000 PSE [Many, Please]^
+YL |S1000 TX [Young lady, Transmit]^
+PSE |S1000 OP [Please, Operator]^
+RX |S1000 PLS [Receive, Please]^
+RX |S1000 PLS [Receive, Please]^
+DR |S1000 RX [Dear, Receive]^
+MNI |S1000 YL [Many, Young lady]^
+HW\? |S1000 OP [How copy\?, Operator]^
+TX |S1000 MNI [Transmit, Many]^
+CFM |S1000 RX [Confirm, Receive]^
+YL |S1000 RX [Young lady, Receive]^
+HR |S1000 OP [Hear, Operator]^
+YL |S1000 RX [Young lady, Receive]^
+TX |S1000 RX [Transmit, Receive]^
+HW\? |S1000 RX [How copy\?, Receive]^
+OP |S1000 PSE [Operator, Please]^
+RX |S1000 OP [Receive, Operator]^
+RX |S1000 OP [Receive, Operator]^
+RX |S1000 DR [Receive, Dear]^
+RX |S1000 PLS [Receive, Please]^
+HW\? |S1000 RX [How copy\?, Receive]^
+PSE |S1000 MNI [Please, Many]^
+OP |S1000 CFM [Operator, Confirm]^
+RX |S1000 PLS [Receive, Please]^
+RX |S1000 TX [Receive, Transmit]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+RX |S1000 YL [Receive, Young lady]^
+MNI |S1000 RX [Many, Receive]^
+DR |S1000 RX [Dear, Receive]^
+YL |S1000 RX [Young lady, Receive]^
+PSE |S1000 RX [Please, Receive]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+HR |S1000 RX [Hear, Receive]^
+PSE |S1000 RX [Please, Receive]^
+HW\? |S1000 MNI [How copy\?, Many]^
+RX |S1000 CFM [Receive, Confirm]^
+DR |S1000 PSE [Dear, Please]^
+HR |S1000 PSE [Hear, Please]^
+HW\? |S1000 RX [How copy\?, Receive]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+CFM |S1000 PSE [Confirm, Please]^
+RX |S1000 DR [Receive, Dear]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 TX [Receive, Transmit]^
+RX |S1000 TX [Receive, Transmit]^
+PLS |S1000 PSE [Please, Please]^
+YL |S1000 PLS [Young lady, Please]^
+HW\? |S1000 DR [How copy\?, Dear]^
+HW\? |S1000 RX [How copy\?, Receive]^
+PLS |S1000 RX [Please, Receive]^
+TX |S1000 DR [Transmit, Dear]^
+RX |S1000 MNI [Receive, Many]^
+CFM |S1000 RX [Confirm, Receive]^
+HR |S1000 PSE [Hear, Please]^
+RX |S1000 MNI [Receive, Many]^
+RX |S1000 HW\? [Receive, How copy\?]^
+YL |S1000 OP [Young lady, Operator]^
+PSE |S1000 DR [Please, Dear]^
+PLS |S1000 MNI [Please, Many]^
+HR |S1000 YL [Hear, Young lady]^
+RX |S1000 OP [Receive, Operator]^
+RX |S1000 YL [Receive, Young lady]^
+RX |S1000 DR [Receive, Dear]^
+PLS |S1000 RX [Please, Receive]^
+PSE |S1000 RX [Please, Receive]^
+YL |S1000 HR [Young lady, Hear]^
+DR |S1000 HW\? [Dear, How copy\?]^
+DR |S1000 OP [Dear, Operator]^
+PLS |S1000 YL [Please, Young lady]^
+TX |S1000 RX [Transmit, Receive]^
+MNI |S1000 RX [Many, Receive]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+CFM |S1000 OP [Confirm, Operator]^
+DR |S1000 RX [Dear, Receive]^
+MNI |S1000 RX [Many, Receive]^
+DR |S1000 RX [Dear, Receive]^
+HR |S1000 RX [Hear, Receive]^
+PLS |S1000 RX [Please, Receive]^
+PSE |S1000 HW\? [Please, How copy\?]^
+CFM |S1000 RX [Confirm, Receive]^
+MNI |S1000 HR [Many, Hear]^
+DR |S1000 RX [Dear, Receive]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+MNI |S1000 RX [Many, Receive]^
+MNI |S1000 RX [Many, Receive]^
+HR |S1000 RX [Hear, Receive]^
+PLS |S1000 RX [Please, Receive]^
+OP |S1000 RX [Operator, Receive]^
+CFM |S1000 RX [Confirm, Receive]^
+PLS |S1000 HW\? [Please, How copy\?]^
+TX |S1000 RX [Transmit, Receive]^
+TX |S1000 PSE [Transmit, Please]^
+HR |S1000 RX [Hear, Receive]^
+HR |S1000 RX [Hear, Receive]^
+DR |S1000 MNI [Dear, Many]^
+RX |S1000 YL [Receive, Young lady]^
+PSE |S1000 RX [Please, Receive]^
+HR |S1000 RX [Hear, Receive]^
+TX |S1000 RX [Transmit, Receive]^
+DR |S1000 RX [Dear, Receive]^
+HR |S1000 YL [Hear, Young lady]^
+OP |S1000 RX [Operator, Receive]^
+PSE |S1000 OP [Please, Operator]^
+TX |S1000 PSE [Transmit, Please]^
+RX |S1000 HW\? [Receive, How copy\?]^
+MNI |S1000 PLS [Many, Please]^
+RX |S1000 CFM [Receive, Confirm]^
+RX |S1000 HW\? [Receive, How copy\?]^
+CFM |S1000 MNI [Confirm, Many]^
+RX |S1000 PSE [Receive, Please]^
+RX |S1000 DR [Receive, Dear]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+YL |S1000 RX [Young lady, Receive]^
+CFM |S1000 PLS [Confirm, Please]^
+PSE |S1000 RX [Please, Receive]^
+TX |S1000 DR [Transmit, Dear]^
+RX |S1000 YL [Receive, Young lady]^
+OP |S1000 HW\? [Operator, How copy\?]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+RX |S1000 TX [Receive, Transmit]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 HR [Receive, Hear]^
+RX |S1000 HR [Receive, Hear]^
+RX |S1000 HW\? [Receive, How copy\?]^
+TX |S1000 DR [Transmit, Dear]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 MNI [Receive, Many]^
+HR |S1000 RX [Hear, Receive]^
+CFM |S1000 MNI [Confirm, Many]^
+RX |S1000 OP [Receive, Operator]^
+CFM |S1000 RX [Confirm, Receive]^
+OP |S1000 TX [Operator, Transmit]^
+PSE |S1000 YL [Please, Young lady]^
+TX |S1000 RX [Transmit, Receive]^
+CFM |S1000 OP [Confirm, Operator]^
+RX |S1000 PLS [Receive, Please]^
+TX |S1000 HR [Transmit, Hear]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 DR [Receive, Dear]^
+HR |S1000 RX [Hear, Receive]^
+YL |S1000 RX [Young lady, Receive]^
+TX |S1000 PSE [Transmit, Please]^
+RX |S1000 PLS [Receive, Please]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+RX |S1000 OP [Receive, Operator]^
+MNI |S1000 RX [Many, Receive]^
+MNI |S1000 RX [Many, Receive]^
+OP |S1000 PLS [Operator, Please]^
+HW\? |S1000 RX [How copy\?, Receive]^
+MNI |S1000 RX [Many, Receive]^
+OP |S1000 PLS [Operator, Please]^
+RX |S1000 HR [Receive, Hear]^
+RX |S1000 HW\? [Receive, How copy\?]^
+CFM |S1000 RX [Confirm, Receive]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+YL |S1000 RX [Young lady, Receive]^
+OP |S1000 MNI [Operator, Many]^
+RX |S1000 HR [Receive, Hear]^
+CFM |S1000 RX [Confirm, Receive]^
+MNI |S1000 RX [Many, Receive]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+PSE |S1000 TX [Please, Transmit]^
+HR |S1000 PLS [Hear, Please]^
+YL |S1000 TX [Young lady, Transmit]^
+DR |S1000 MNI [Dear, Many]^
+CFM |S1000 MNI [Confirm, Many]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 OP [Receive, Operator]^
+HW\? |S1000 RX [How copy\?, Receive]^
+PSE |S1000 RX [Please, Receive]^
+HW\? |S1000 RX [How copy\?, Receive]^
+HW\? |S1000 PSE [How copy\?, Please]^
+RX |S1000 DR [Receive, Dear]^
+MNI |S1000 RX [Many, Receive]^
+OP |S1000 HW\? [Operator, How copy\?]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 CFM [Receive, Confirm]^
+PSE |S1000 YL [Please, Young lady]^
+HR |S1000 CFM [Hear, Confirm]^
+RX |S1000 TX [Receive, Transmit]^
+RX |S1000 HR [Receive, Hear]^
+PSE |S1000 RX [Please, Receive]^
+PSE |S1000 TX [Please, Transmit]^
+OP |S1000 CFM [Operator, Confirm]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+RX |S1000 YL [Receive, Young lady]^
+RX |S1000 HR [Receive, Hear]^
+DR |S1000 RX [Dear, Receive]^
+MNI |S1000 PSE [Many, Please]^
+PLS |S1000 HR [Please, Hear]^
+OP |S1000 TX [Operator, Transmit]^
+OP |S1000 YL [Operator, Young lady]^
+MNI |S1000 CFM [Many, Confirm]^
+OP |S1000 HW\? [Operator, How copy\?]^
+RX |S1000 PSE [Receive, Please]^
+RX |S1000 PSE [Receive, Please]^
+HR |S1000 RX [Hear, Receive]^
+HW\? |S1000 RX [How copy\?, Receive]^
+OP |S1000 DR [Operator, Dear]^
+RX |S1000 MNI [Receive, Many]^
+RX |S1000 YL [Receive, Young lady]^
+DR |S1000 HR [Dear, Hear]^
+RX |S1000 DR [Receive, Dear]^
+RX |S1000 PSE [Receive, Please]^
+HW\? |S1000 RX [How copy\?, Receive]^
+HR |S1000 RX [Hear, Receive]^
+HW\? |S1000 MNI [How copy\?, Many]^
+PSE |S1000 OP [Please, Operator]^
+RX |S1000 CFM [Receive, Confirm]^
+TX |S1000 MNI [Transmit, Many]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+RX |S1000 OP [Receive, Operator]^
+TX |S1000 PLS [Transmit, Please]^
+DR |S1000 RX [Dear, Receive]^
+PLS |S1000 CFM [Please, Confirm]^
+PLS |S1000 RX [Please, Receive]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+RX |S1000 YL [Receive, Young lady]^
+DR |S1000 PLS [Dear, Please]^
+RX |S1000 OP [Receive, Operator]^
+PLS |S1000 HW\? [Please, How copy\?]^
+RX |S1000 HR [Receive, Hear]^
+RX |S1000 HR [Receive, Hear]^
+RX |S1000 PSE [Receive, Please]^
+TX |S1000 RX [Transmit, Receive]^
+OP |S1000 RX [Operator, Receive]^
+DR |S1000 RX [Dear, Receive]^
+OP |S1000 TX [Operator, Transmit]^
+RX |S1000 HW\? [Receive, How copy\?]^
+YL |S1000 RX [Young lady, Receive]^
+PSE |S1000 HW\? [Please, How copy\?]^
+RX |S1000 CFM [Receive, Confirm]^
+HR |S1000 CFM [Hear, Confirm]^
+RX |S1000 HW\? [Receive, How copy\?]^
+YL |S1000 DR [Young lady, Dear]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 PLS [Receive, Please]^
+TX |S1000 HR [Transmit, Hear]^
+DR |S1000 RX [Dear, Receive]^
+YL |S1000 HR [Young lady, Hear]^
+PLS |S1000 HR [Please, Hear]^
+PSE |S1000 RX [Please, Receive]^
+HW\? |S1000 PLS [How copy\?, Please]^
+DR |S1000 YL [Dear, Young lady]^
+OP |S1000 DR [Operator, Dear]^
+CFM |S1000 PSE [Confirm, Please]^
+RX |S1000 TX [Receive, Transmit]^
+CFM |S1000 PLS [Confirm, Please]^
+PSE |S1000 RX [Please, Receive]^
+OP |S1000 PSE [Operator, Please]^
+CFM |S1000 YL [Confirm, Young lady]^
+HR |S1000 RX [Hear, Receive]^
+PLS |S1000 RX [Please, Receive]^
+MNI |S1000 PLS [Many, Please]^
+TX |S1000 RX [Transmit, Receive]^
+YL |S1000 DR [Young lady, Dear]^
+RX |S1000 PSE [Receive, Please]^
+RX |S1000 CFM [Receive, Confirm]^
+RX |S1000 CFM [Receive, Confirm]^
+PSE |S1000 RX [Please, Receive]^
+YL |S1000 RX [Young lady, Receive]^
+TX |S1000 RX [Transmit, Receive]^
+HR |S1000 RX [Hear, Receive]^
+CFM |S1000 RX [Confirm, Receive]^
+YL |S1000 RX [Young lady, Receive]^
+HW\? |S1000 RX [How copy\?, Receive]^
+TX |S1000 PSE [Transmit, Please]^
+RX |S1000 PLS [Receive, Please]^
+RX |S1000 PLS [Receive, Please]^
+YL |S1000 RX [Young lady, Receive]^
+CFM |S1000 OP [Confirm, Operator]^
+RX |S1000 TX [Receive, Transmit]^
+DR |S1000 CFM [Dear, Confirm]^
+YL |S1000 CFM [Young lady, Confirm]^
+RX |S1000 DR [Receive, Dear]^
+TX |S1000 RX [Transmit, Receive]^
+PLS |S1000 HR [Please, Hear]^
+HW\? |S1000 MNI [How copy\?, Many]^
+RX |S1000 MNI [Receive, Many]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+RX |S1000 HR [Receive, Hear]^
+MNI |S1000 RX [Many, Receive]^
+CFM |S1000 RX [Confirm, Receive]^
+CFM |S1000 DR [Confirm, Dear]^
+RX |S1000 YL [Receive, Young lady]^
+HR |S1000 RX [Hear, Receive]^
+DR |S1000 RX [Dear, Receive]^
+PSE |S1000 HW\? [Please, How copy\?]^
+OP |S1000 RX [Operator, Receive]^
+YL |S1000 PSE [Young lady, Please]^
+OP |S1000 TX [Operator, Transmit]^
+RX |S1000 TX [Receive, Transmit]^
+YL |S1000 PLS [Young lady, Please]^
+RX |S1000 MNI [Receive, Many]^
+TX |S1000 RX [Transmit, Receive]^
+YL |S1000 HR [Young lady, Hear]^
+RX |S1000 CFM [Receive, Confirm]^
+YL |S1000 DR [Young lady, Dear]^
+MNI |S1000 RX [Many, Receive]^
+PSE |S1000 HR [Please, Hear]^
+RX |S1000 HR [Receive, Hear]^
+DR |S1000 CFM [Dear, Confirm]^
+DR |S1000 RX [Dear, Receive]^
+PSE |S1000 CFM [Please, Confirm]^
+PLS |S1000 DR [Please, Dear]^
+CFM |S1000 RX [Confirm, Receive]^
+YL |S1000 RX [Young lady, Receive]^
+PSE |S1000 TX [Please, Transmit]^
+RX |S1000 YL [Receive, Young lady]^
+RX |S1000 PSE [Receive, Please]^
+RX |S1000 MNI [Receive, Many]^
+DR |S1000 RX [Dear, Receive]^
+DR |S1000 PLS [Dear, Please]^
+RX |S1000 TX [Receive, Transmit]^
+CFM |S1000 TX [Confirm, Transmit]^
+HR |S1000 RX [Hear, Receive]^
+MNI |S1000 RX [Many, Receive]^
+TX |S1000 RX [Transmit, Receive]^
+OP |S1000 RX [Operator, Receive]^
+YL |S1000 CFM [Young lady, Confirm]^
+RX |S1000 YL [Receive, Young lady]^
+RX |S1000 HW\? [Receive, How copy\?]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+PSE |S1000 RX [Please, Receive]^
+PLS |S1000 RX [Please, Receive]^
+TX |S1000 RX [Transmit, Receive]^
+PLS |S1000 TX [Please, Transmit]^
+CFM |S1000 YL [Confirm, Young lady]^
+RX |S1000 YL [Receive, Young lady]^
+PLS |S1000 RX [Please, Receive]^
+PSE |S1000 MNI [Please, Many]^
+RX |S1000 PSE [Receive, Please]^
+RX |S1000 OP [Receive, Operator]^
+RX |S1000 DR [Receive, Dear]^
+PLS |S1000 YL [Please, Young lady]^
+RX |S1000 HR [Receive, Hear]^
+DR |S1000 MNI [Dear, Many]^
+HR |S1000 YL [Hear, Young lady]^
+RX |S1000 YL [Receive, Young lady]^
+TX |S1000 MNI [Transmit, Many]^
+RX |S1000 PLS [Receive, Please]^
+MNI |S1000 TX [Many, Transmit]^
+YL |S1000 PSE [Young lady, Please]^
+HR |S1000 YL [Hear, Young lady]^
+RX |S1000 CFM [Receive, Confirm]^
+OP |S1000 RX [Operator, Receive]^
+TX |S1000 RX [Transmit, Receive]^
+HR |S1000 HW\? [Hear, How copy\?]^
+DR |S1000 PLS [Dear, Please]^
+RX |S1000 TX [Receive, Transmit]^
+RX |S1000 YL [Receive, Young lady]^
+RX |S1000 HR [Receive, Hear]^
+HW\? |S1000 OP [How copy\?, Operator]^
+RX |S1000 PSE [Receive, Please]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+RX |S1000 YL [Receive, Young lady]^
+PLS |S1000 HW\? [Please, How copy\?]^
+RX |S1000 TX [Receive, Transmit]^
+PLS |S1000 RX [Please, Receive]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 YL [Receive, Young lady]^
+RX |S1000 OP [Receive, Operator]^
+PSE |S1000 TX [Please, Transmit]^
+RX |S1000 PLS [Receive, Please]^
+HR |S1000 OP [Hear, Operator]^
+PLS |S1000 YL [Please, Young lady]^
+RX |S1000 HR [Receive, Hear]^
+PLS |S1000 MNI [Please, Many]^
+RX |S1000 PSE [Receive, Please]^
+OP |S1000 RX [Operator, Receive]^
+CFM |S1000 MNI [Confirm, Many]^
+RX |S1000 DR [Receive, Dear]^
+PSE |S1000 PLS [Please, Please]^
+RX |S1000 HW\? [Receive, How copy\?]^
+DR |S1000 MNI [Dear, Many]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 PLS [Young lady, Please]^
+HR |S1000 PLS [Hear, Please]^
+MNI |S1000 RX [Many, Receive]^
+DR |S1000 RX [Dear, Receive]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+DR |S1000 CFM [Dear, Confirm]^
+RX |S1000 PSE [Receive, Please]^
+TX |S1000 CFM [Transmit, Confirm]^
+HR |S1000 RX [Hear, Receive]^
+HR |S1000 RX [Hear, Receive]^
+HR |S1000 TX [Hear, Transmit]^
+RX |S1000 CFM [Receive, Confirm]^
+RX |S1000 PLS [Receive, Please]^
+MNI |S1000 HR [Many, Hear]^
+MNI |S1000 RX [Many, Receive]^
+HR |S1000 RX [Hear, Receive]^
+DR |S1000 RX [Dear, Receive]^
+HR |S1000 HW\? [Hear, How copy\?]^
+TX |S1000 MNI [Transmit, Many]^
+PLS |S1000 RX [Please, Receive]^
+HW\? |S1000 RX [How copy\?, Receive]^
+CFM |S1000 RX [Confirm, Receive]^
+CFM |S1000 RX [Confirm, Receive]^
+MNI |S1000 TX [Many, Transmit]^
+CFM |S1000 TX [Confirm, Transmit]^
+RX |S1000 OP [Receive, Operator]^
+RX |S1000 DR [Receive, Dear]^
+RX |S1000 MNI [Receive, Many]^
+TX |S1000 OP [Transmit, Operator]^
+MNI |S1000 RX [Many, Receive]^
+PLS |S1000 RX [Please, Receive]^
+MNI |S1000 RX [Many, Receive]^
+MNI |S1000 RX [Many, Receive]^
+YL |S1000 RX [Young lady, Receive]^
+HW\? |S1000 PLS [How copy\?, Please]^
+CFM |S1000 HR [Confirm, Hear]^
+RX |S1000 OP [Receive, Operator]^
+HR |S1000 YL [Hear, Young lady]^
+HW\? |S1000 RX [How copy\?, Receive]^
+PLS |S1000 RX [Please, Receive]^
+PLS |S1000 RX [Please, Receive]^
+CFM |S1000 RX [Confirm, Receive]^
+DR |S1000 RX [Dear, Receive]^
+PSE |S1000 HR [Please, Hear]^
+RX |S1000 DR [Receive, Dear]^
+PLS |S1000 RX [Please, Receive]^
+CFM |S1000 RX [Confirm, Receive]^
+PLS |S1000 RX [Please, Receive]^
+PLS |S1000 OP [Please, Operator]^
+RX |S1000 PSE [Receive, Please]^
+CFM |S1000 DR [Confirm, Dear]^
+HW\? |S1000 RX [How copy\?, Receive]^
+PSE |S1000 YL [Please, Young lady]^
+PLS |S1000 RX [Please, Receive]^
+PSE |S1000 MNI [Please, Many]^
+RX |S1000 MNI [Receive, Many]^
+TX |S1000 OP [Transmit, Operator]^
+HR |S1000 OP [Hear, Operator]^
+DR |S1000 CFM [Dear, Confirm]^
+PLS |S1000 RX [Please, Receive]^
+TX |S1000 HR [Transmit, Hear]^
+CFM |S1000 PLS [Confirm, Please]^
+RX |S1000 YL [Receive, Young lady]^
+RX |S1000 PSE [Receive, Please]^
+HW\? |S1000 DR [How copy\?, Dear]^
+RX |S1000 TX [Receive, Transmit]^
+DR |S1000 RX [Dear, Receive]^
+PLS |S1000 RX [Please, Receive]^
+HW\? |S1000 RX [How copy\?, Receive]^
+TX |S1000 RX [Transmit, Receive]^
+OP |S1000 PLS [Operator, Please]^
+OP |S1000 HR [Operator, Hear]^
+OP |S1000 RX [Operator, Receive]^
+OP |S1000 HR [Operator, Hear]^
+PLS |S1000 HR [Please, Hear]^
+RX |S1000 YL [Receive, Young lady]^
+RX |S1000 MNI [Receive, Many]^
+DR |S1000 TX [Dear, Transmit]^
+RX |S1000 HR [Receive, Hear]^
+PLS |S1000 YL [Please, Young lady]^
+RX |S1000 TX [Receive, Transmit]^
+CFM |S1000 RX [Confirm, Receive]^
+DR |S1000 HR [Dear, Hear]^
+RX |S1000 PLS [Receive, Please]^
+HW\? |S1000 RX [How copy\?, Receive]^
+PLS |S1000 OP [Please, Operator]^
+RX |S1000 OP [Receive, Operator]^
+RX |S1000 PSE [Receive, Please]^
+RX |S1000 PSE [Receive, Please]^
+RX |S1000 TX [Receive, Transmit]^
+RX |S1000 OP [Receive, Operator]^
+RX |S1000 DR [Receive, Dear]^
+RX |S1000 OP [Receive, Operator]^
+HR |S1000 PSE [Hear, Please]^
+RX |S1000 PLS [Receive, Please]^
+RX |S1000 DR [Receive, Dear]^
+HR |S1000 PLS [Hear, Please]^
+RX |S1000 CFM [Receive, Confirm]^
+TX |S1000 RX [Transmit, Receive]^
+PLS |S1000 RX [Please, Receive]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 MNI [Hear, Many]^
+PLS |S1000 TX [Please, Transmit]^
+PSE |S1000 RX [Please, Receive]^
+PSE |S1000 HW\? [Please, How copy\?]^
+PLS |S1000 MNI [Please, Many]^
+RX |S1000 HR [Receive, Hear]^
+RX |S1000 OP [Receive, Operator]^
+YL |S1000 RX [Young lady, Receive]^
+DR |S1000 RX [Dear, Receive]^
+HW\? |S1000 RX [How copy\?, Receive]^
+HW\? |S1000 RX [How copy\?, Receive]^
+DR |S1000 MNI [Dear, Many]^
+RX |S1000 CFM [Receive, Confirm]^
+HR |S1000 CFM [Hear, Confirm]^
+OP |S1000 RX [Operator, Receive]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+RX |S1000 HR [Receive, Hear]^
+MNI |S1000 RX [Many, Receive]^
+HR |S1000 RX [Hear, Receive]^
+PSE |S1000 RX [Please, Receive]^
+PSE |S1000 CFM [Please, Confirm]^
+RX |S1000 HR [Receive, Hear]^
+RX |S1000 DR [Receive, Dear]^
+PSE |S1000 YL [Please, Young lady]^
+RX |S1000 HW\? [Receive, How copy\?]^
+PLS |S1000 HW\? [Please, How copy\?]^
+PLS |S1000 RX [Please, Receive]^
+TX |S1000 RX [Transmit, Receive]^
+PLS |S1000 RX [Please, Receive]^
+YL |S1000 HR [Young lady, Hear]^
+RX |S1000 MNI [Receive, Many]^
+RX |S1000 CFM [Receive, Confirm]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 PLS [Receive, Please]^
+MNI |S1000 OP [Many, Operator]^
+TX |S1000 HR [Transmit, Hear]^
+RX |S1000 PSE [Receive, Please]^
+MNI |S1000 YL [Many, Young lady]^
+RX |S1000 OP [Receive, Operator]^
+HW\? |S1000 MNI [How copy\?, Many]^
+OP |S1000 CFM [Operator, Confirm]^
+OP |S1000 RX [Operator, Receive]^
+PLS |S1000 RX [Please, Receive]^
+HW\? |S1000 PLS [How copy\?, Please]^
+RX |S1000 OP [Receive, Operator]^
+RX |S1000 YL [Receive, Young lady]^
+RX |S1000 OP [Receive, Operator]^
+RX |S1000 MNI [Receive, Many]^
+PSE |S1000 RX [Please, Receive]^
+YL |S1000 DR [Young lady, Dear]^
+CFM |S1000 RX [Confirm, Receive]^
+OP |S1000 PSE [Operator, Please]^
+CFM |S1000 RX [Confirm, Receive]^
+TX |S1000 DR [Transmit, Dear]^
+OP |S1000 HW\? [Operator, How copy\?]^
+RX |S1000 CFM [Receive, Confirm]^
+PSE |S1000 RX [Please, Receive]^
+MNI |S1000 DR [Many, Dear]^
+OP |S1000 RX [Operator, Receive]^
+TX |S1000 PSE [Transmit, Please]^
+MNI |S1000 TX [Many, Transmit]^
+RX |S1000 MNI [Receive, Many]^
+YL |S1000 RX [Young lady, Receive]^
+YL |S1000 MNI [Young lady, Many]^
+RX |S1000 HW\? [Receive, How copy\?]^
+RX |S1000 HR [Receive, Hear]^
+RX |S1000 HW\? [Receive, How copy\?]^
+PLS |S1000 DR [Please, Dear]^
+RX |S1000 HW\? [Receive, How copy\?]^
+HR |S1000 YL [Hear, Young lady]^
+RX |S1000 CFM [Receive, Confirm]^
+OP |S1000 RX [Operator, Receive]^
+DR |S1000 RX [Dear, Receive]^
+DR |S1000 PLS [Dear, Please]^
+OP |S1000 RX [Operator, Receive]^
+DR |S1000 MNI [Dear, Many]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+RX |S1000 HR [Receive, Hear]^
+CFM |S1000 OP [Confirm, Operator]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+RX |S1000 MNI [Receive, Many]^
+YL |S1000 RX [Young lady, Receive]^
+OP |S1000 RX [Operator, Receive]^
+HR |S1000 RX [Hear, Receive]^
+CFM |S1000 YL [Confirm, Young lady]^

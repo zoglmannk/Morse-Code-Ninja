@@ -1,0 +1,600 @@
+1TT |S1000 GN [100, Good night]^
+1TT |S1000 INFO [100, Information]^
+GD |S1000 1TT [Good, 100]^
+WIRE |S1000 WATT [Wire, Watt]^
+1TT |S1000 SSB [100, Single Side Band]^
+1TT |S1000 SSB [100, Single Side Band]^
+88 |S1000 1TT [88, 100]^
+GN |S1000 1TT [Good night, 100]^
+WATT |S1000 OCF [Watt, Off-center fed dipole]^
+1TT |S1000 WATT [100, Watt]^
+1TT |S1000 WATT [100, Watt]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 72 [100, 72]^
+GN |S1000 1TT [Good night, 100]^
+NW |S1000 GB [Now, Goodbye]^
+WIRE |S1000 WATT [Wire, Watt]^
+1TT |S1000 WIRE [100, Wire]^
+CW |S1000 72 [C W, 72]^
+1TT |S1000 CW [100, C W]^
+WIRE |S1000 GD [Wire, Good]^
+1TT |S1000 72 [100, 72]^
+LOOP |S1000 GN [Loop, Good night]^
+WIRE |S1000 1TT [Wire, 100]^
+CW |S1000 1TT [C W, 100]^
+GB |S1000 SWR [Goodbye, S W R]^
+1TT |S1000 GD [100, Good]^
+72 |S1000 1TT [72, 100]^
+NW |S1000 GN [Now, Good night]^
+SWR |S1000 SSB [S W R, Single Side Band]^
+GD |S1000 1TT [Good, 100]^
+GD |S1000 1TT [Good, 100]^
+WIRE |S1000 1TT [Wire, 100]^
+72 |S1000 1TT [72, 100]^
+CW |S1000 NW [C W, Now]^
+INFO |S1000 WIRE [Information, Wire]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+1TT |S1000 SWR [100, S W R]^
+1TT |S1000 NW [100, Now]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+SSB |S1000 1TT [Single Side Band, 100]^
+CW |S1000 GD [C W, Good]^
+1TT |S1000 SWR [100, S W R]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+1TT |S1000 GN [100, Good night]^
+INFO |S1000 SWR [Information, S W R]^
+72 |S1000 SSB [72, Single Side Band]^
+1TT |S1000 GD [100, Good]^
+CW |S1000 88 [C W, 88]^
+1TT |S1000 WIRE [100, Wire]^
+OCF |S1000 88 [Off-center fed dipole, 88]^
+LOOP |S1000 1TT [Loop, 100]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+SWR |S1000 1TT [S W R, 100]^
+SWR |S1000 1TT [S W R, 100]^
+SWR |S1000 CW [S W R, C W]^
+WIRE |S1000 1TT [Wire, 100]^
+SWR |S1000 72 [S W R, 72]^
+SWR |S1000 WIRE [S W R, Wire]^
+1TT |S1000 GD [100, Good]^
+1TT |S1000 INFO [100, Information]^
+SSB |S1000 NW [Single Side Band, Now]^
+1TT |S1000 SWR [100, S W R]^
+CW |S1000 1TT [C W, 100]^
+WATT |S1000 NW [Watt, Now]^
+SWR |S1000 NW [S W R, Now]^
+1TT |S1000 WIRE [100, Wire]^
+LOOP |S1000 1TT [Loop, 100]^
+72 |S1000 SSB [72, Single Side Band]^
+1TT |S1000 LOOP [100, Loop]^
+GD |S1000 1TT [Good, 100]^
+LOOP |S1000 NW [Loop, Now]^
+72 |S1000 1TT [72, 100]^
+NW |S1000 1TT [Now, 100]^
+LOOP |S1000 1TT [Loop, 100]^
+LOOP |S1000 GB [Loop, Goodbye]^
+1TT |S1000 INFO [100, Information]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+LOOP |S1000 WATT [Loop, Watt]^
+OCF |S1000 GB [Off-center fed dipole, Goodbye]^
+WATT |S1000 OCF [Watt, Off-center fed dipole]^
+NW |S1000 WIRE [Now, Wire]^
+GB |S1000 1TT [Goodbye, 100]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+88 |S1000 GD [88, Good]^
+WIRE |S1000 SWR [Wire, S W R]^
+CW |S1000 88 [C W, 88]^
+GN |S1000 NW [Good night, Now]^
+1TT |S1000 88 [100, 88]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+1TT |S1000 SSB [100, Single Side Band]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+INFO |S1000 1TT [Information, 100]^
+GD |S1000 GN [Good, Good night]^
+CW |S1000 WIRE [C W, Wire]^
+1TT |S1000 LOOP [100, Loop]^
+SSB |S1000 1TT [Single Side Band, 100]^
+OCF |S1000 WIRE [Off-center fed dipole, Wire]^
+GD |S1000 1TT [Good, 100]^
+WATT |S1000 1TT [Watt, 100]^
+GN |S1000 GB [Good night, Goodbye]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+1TT |S1000 GB [100, Goodbye]^
+72 |S1000 SWR [72, S W R]^
+CW |S1000 1TT [C W, 100]^
+88 |S1000 1TT [88, 100]^
+SWR |S1000 INFO [S W R, Information]^
+GD |S1000 1TT [Good, 100]^
+INFO |S1000 GD [Information, Good]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+CW |S1000 NW [C W, Now]^
+1TT |S1000 LOOP [100, Loop]^
+1TT |S1000 LOOP [100, Loop]^
+WIRE |S1000 1TT [Wire, 100]^
+INFO |S1000 1TT [Information, 100]^
+SWR |S1000 1TT [S W R, 100]^
+WATT |S1000 1TT [Watt, 100]^
+72 |S1000 1TT [72, 100]^
+SSB |S1000 NW [Single Side Band, Now]^
+SWR |S1000 GB [S W R, Goodbye]^
+NW |S1000 CW [Now, C W]^
+OCF |S1000 NW [Off-center fed dipole, Now]^
+GD |S1000 OCF [Good, Off-center fed dipole]^
+WIRE |S1000 OCF [Wire, Off-center fed dipole]^
+88 |S1000 WIRE [88, Wire]^
+1TT |S1000 CW [100, C W]^
+1TT |S1000 SSB [100, Single Side Band]^
+GD |S1000 GB [Good, Goodbye]^
+72 |S1000 1TT [72, 100]^
+CW |S1000 GN [C W, Good night]^
+1TT |S1000 GN [100, Good night]^
+WIRE |S1000 NW [Wire, Now]^
+88 |S1000 LOOP [88, Loop]^
+1TT |S1000 LOOP [100, Loop]^
+72 |S1000 1TT [72, 100]^
+GN |S1000 1TT [Good night, 100]^
+GB |S1000 LOOP [Goodbye, Loop]^
+GB |S1000 1TT [Goodbye, 100]^
+SSB |S1000 GB [Single Side Band, Goodbye]^
+88 |S1000 1TT [88, 100]^
+OCF |S1000 GD [Off-center fed dipole, Good]^
+1TT |S1000 GB [100, Goodbye]^
+WATT |S1000 INFO [Watt, Information]^
+SWR |S1000 1TT [S W R, 100]^
+WATT |S1000 GB [Watt, Goodbye]^
+1TT |S1000 NW [100, Now]^
+SSB |S1000 1TT [Single Side Band, 100]^
+88 |S1000 GB [88, Goodbye]^
+GN |S1000 LOOP [Good night, Loop]^
+OCF |S1000 SSB [Off-center fed dipole, Single Side Band]^
+1TT |S1000 LOOP [100, Loop]^
+1TT |S1000 WATT [100, Watt]^
+GN |S1000 WATT [Good night, Watt]^
+1TT |S1000 88 [100, 88]^
+OCF |S1000 88 [Off-center fed dipole, 88]^
+1TT |S1000 WATT [100, Watt]^
+SSB |S1000 1TT [Single Side Band, 100]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+SSB |S1000 CW [Single Side Band, C W]^
+GD |S1000 1TT [Good, 100]^
+GB |S1000 INFO [Goodbye, Information]^
+1TT |S1000 NW [100, Now]^
+INFO |S1000 SSB [Information, Single Side Band]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+72 |S1000 GD [72, Good]^
+1TT |S1000 NW [100, Now]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+WATT |S1000 1TT [Watt, 100]^
+LOOP |S1000 WIRE [Loop, Wire]^
+NW |S1000 1TT [Now, 100]^
+WATT |S1000 NW [Watt, Now]^
+1TT |S1000 GB [100, Goodbye]^
+NW |S1000 1TT [Now, 100]^
+GD |S1000 1TT [Good, 100]^
+SSB |S1000 GB [Single Side Band, Goodbye]^
+LOOP |S1000 1TT [Loop, 100]^
+SWR |S1000 88 [S W R, 88]^
+WIRE |S1000 1TT [Wire, 100]^
+GB |S1000 GN [Goodbye, Good night]^
+1TT |S1000 72 [100, 72]^
+1TT |S1000 WIRE [100, Wire]^
+1TT |S1000 SSB [100, Single Side Band]^
+1TT |S1000 GD [100, Good]^
+LOOP |S1000 1TT [Loop, 100]^
+INFO |S1000 1TT [Information, 100]^
+INFO |S1000 GN [Information, Good night]^
+CW |S1000 1TT [C W, 100]^
+INFO |S1000 SWR [Information, S W R]^
+1TT |S1000 GN [100, Good night]^
+1TT |S1000 GN [100, Good night]^
+72 |S1000 WATT [72, Watt]^
+WIRE |S1000 1TT [Wire, 100]^
+72 |S1000 NW [72, Now]^
+1TT |S1000 88 [100, 88]^
+INFO |S1000 NW [Information, Now]^
+72 |S1000 GD [72, Good]^
+1TT |S1000 72 [100, 72]^
+GB |S1000 LOOP [Goodbye, Loop]^
+NW |S1000 1TT [Now, 100]^
+CW |S1000 LOOP [C W, Loop]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+SSB |S1000 INFO [Single Side Band, Information]^
+1TT |S1000 LOOP [100, Loop]^
+1TT |S1000 INFO [100, Information]^
+WIRE |S1000 NW [Wire, Now]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+88 |S1000 1TT [88, 100]^
+WATT |S1000 1TT [Watt, 100]^
+SWR |S1000 WIRE [S W R, Wire]^
+GD |S1000 INFO [Good, Information]^
+GB |S1000 1TT [Goodbye, 100]^
+GN |S1000 OCF [Good night, Off-center fed dipole]^
+1TT |S1000 GB [100, Goodbye]^
+CW |S1000 1TT [C W, 100]^
+NW |S1000 88 [Now, 88]^
+SSB |S1000 CW [Single Side Band, C W]^
+WIRE |S1000 1TT [Wire, 100]^
+WIRE |S1000 1TT [Wire, 100]^
+SWR |S1000 1TT [S W R, 100]^
+GB |S1000 NW [Goodbye, Now]^
+LOOP |S1000 SWR [Loop, S W R]^
+88 |S1000 WIRE [88, Wire]^
+72 |S1000 GB [72, Goodbye]^
+1TT |S1000 WATT [100, Watt]^
+88 |S1000 72 [88, 72]^
+CW |S1000 WATT [C W, Watt]^
+WIRE |S1000 1TT [Wire, 100]^
+72 |S1000 WATT [72, Watt]^
+WIRE |S1000 WATT [Wire, Watt]^
+NW |S1000 1TT [Now, 100]^
+SSB |S1000 1TT [Single Side Band, 100]^
+GD |S1000 SWR [Good, S W R]^
+1TT |S1000 88 [100, 88]^
+1TT |S1000 LOOP [100, Loop]^
+INFO |S1000 1TT [Information, 100]^
+NW |S1000 1TT [Now, 100]^
+SWR |S1000 LOOP [S W R, Loop]^
+SWR |S1000 1TT [S W R, 100]^
+OCF |S1000 WIRE [Off-center fed dipole, Wire]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 LOOP [100, Loop]^
+INFO |S1000 1TT [Information, 100]^
+CW |S1000 1TT [C W, 100]^
+NW |S1000 1TT [Now, 100]^
+GN |S1000 OCF [Good night, Off-center fed dipole]^
+NW |S1000 1TT [Now, 100]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+OCF |S1000 WIRE [Off-center fed dipole, Wire]^
+INFO |S1000 1TT [Information, 100]^
+LOOP |S1000 CW [Loop, C W]^
+1TT |S1000 LOOP [100, Loop]^
+GN |S1000 SWR [Good night, S W R]^
+1TT |S1000 WIRE [100, Wire]^
+CW |S1000 OCF [C W, Off-center fed dipole]^
+1TT |S1000 INFO [100, Information]^
+GB |S1000 GN [Goodbye, Good night]^
+WATT |S1000 LOOP [Watt, Loop]^
+WIRE |S1000 1TT [Wire, 100]^
+NW |S1000 1TT [Now, 100]^
+SWR |S1000 1TT [S W R, 100]^
+GD |S1000 WATT [Good, Watt]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 GB [100, Goodbye]^
+NW |S1000 1TT [Now, 100]^
+SSB |S1000 WATT [Single Side Band, Watt]^
+1TT |S1000 GD [100, Good]^
+CW |S1000 WATT [C W, Watt]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 INFO [100, Information]^
+OCF |S1000 WIRE [Off-center fed dipole, Wire]^
+1TT |S1000 SSB [100, Single Side Band]^
+1TT |S1000 88 [100, 88]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+88 |S1000 1TT [88, 100]^
+NW |S1000 1TT [Now, 100]^
+INFO |S1000 SWR [Information, S W R]^
+1TT |S1000 GD [100, Good]^
+72 |S1000 LOOP [72, Loop]^
+1TT |S1000 NW [100, Now]^
+OCF |S1000 INFO [Off-center fed dipole, Information]^
+GN |S1000 1TT [Good night, 100]^
+NW |S1000 WIRE [Now, Wire]^
+GD |S1000 SWR [Good, S W R]^
+1TT |S1000 GN [100, Good night]^
+OCF |S1000 GN [Off-center fed dipole, Good night]^
+WIRE |S1000 1TT [Wire, 100]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+LOOP |S1000 CW [Loop, C W]^
+WIRE |S1000 GN [Wire, Good night]^
+72 |S1000 WIRE [72, Wire]^
+WATT |S1000 1TT [Watt, 100]^
+GN |S1000 1TT [Good night, 100]^
+SSB |S1000 OCF [Single Side Band, Off-center fed dipole]^
+1TT |S1000 GD [100, Good]^
+1TT |S1000 GB [100, Goodbye]^
+GD |S1000 72 [Good, 72]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 WIRE [100, Wire]^
+INFO |S1000 WATT [Information, Watt]^
+SWR |S1000 1TT [S W R, 100]^
+CW |S1000 1TT [C W, 100]^
+CW |S1000 SWR [C W, S W R]^
+1TT |S1000 WIRE [100, Wire]^
+GN |S1000 88 [Good night, 88]^
+1TT |S1000 LOOP [100, Loop]^
+GB |S1000 1TT [Goodbye, 100]^
+SWR |S1000 NW [S W R, Now]^
+WATT |S1000 GB [Watt, Goodbye]^
+GN |S1000 1TT [Good night, 100]^
+LOOP |S1000 1TT [Loop, 100]^
+WIRE |S1000 1TT [Wire, 100]^
+GB |S1000 GN [Goodbye, Good night]^
+1TT |S1000 72 [100, 72]^
+1TT |S1000 GN [100, Good night]^
+1TT |S1000 NW [100, Now]^
+1TT |S1000 GD [100, Good]^
+CW |S1000 1TT [C W, 100]^
+GB |S1000 1TT [Goodbye, 100]^
+NW |S1000 1TT [Now, 100]^
+GD |S1000 1TT [Good, 100]^
+CW |S1000 72 [C W, 72]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+GD |S1000 GB [Good, Goodbye]^
+1TT |S1000 WIRE [100, Wire]^
+1TT |S1000 SSB [100, Single Side Band]^
+1TT |S1000 SSB [100, Single Side Band]^
+OCF |S1000 GB [Off-center fed dipole, Goodbye]^
+72 |S1000 1TT [72, 100]^
+GB |S1000 1TT [Goodbye, 100]^
+72 |S1000 WATT [72, Watt]^
+1TT |S1000 72 [100, 72]^
+WATT |S1000 SWR [Watt, S W R]^
+88 |S1000 NW [88, Now]^
+1TT |S1000 GD [100, Good]^
+1TT |S1000 GD [100, Good]^
+1TT |S1000 NW [100, Now]^
+GB |S1000 72 [Goodbye, 72]^
+1TT |S1000 NW [100, Now]^
+CW |S1000 88 [C W, 88]^
+INFO |S1000 1TT [Information, 100]^
+GD |S1000 88 [Good, 88]^
+WATT |S1000 SWR [Watt, S W R]^
+SSB |S1000 WATT [Single Side Band, Watt]^
+SWR |S1000 OCF [S W R, Off-center fed dipole]^
+1TT |S1000 INFO [100, Information]^
+1TT |S1000 WATT [100, Watt]^
+SSB |S1000 1TT [Single Side Band, 100]^
+GN |S1000 GD [Good night, Good]^
+1TT |S1000 INFO [100, Information]^
+LOOP |S1000 SSB [Loop, Single Side Band]^
+1TT |S1000 LOOP [100, Loop]^
+INFO |S1000 1TT [Information, 100]^
+72 |S1000 1TT [72, 100]^
+GD |S1000 1TT [Good, 100]^
+WIRE |S1000 LOOP [Wire, Loop]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+72 |S1000 1TT [72, 100]^
+WIRE |S1000 1TT [Wire, 100]^
+NW |S1000 WIRE [Now, Wire]^
+INFO |S1000 GD [Information, Good]^
+CW |S1000 1TT [C W, 100]^
+OCF |S1000 INFO [Off-center fed dipole, Information]^
+NW |S1000 OCF [Now, Off-center fed dipole]^
+INFO |S1000 NW [Information, Now]^
+WIRE |S1000 1TT [Wire, 100]^
+GN |S1000 1TT [Good night, 100]^
+WIRE |S1000 1TT [Wire, 100]^
+WIRE |S1000 1TT [Wire, 100]^
+SSB |S1000 SWR [Single Side Band, S W R]^
+1TT |S1000 72 [100, 72]^
+1TT |S1000 INFO [100, Information]^
+NW |S1000 1TT [Now, 100]^
+88 |S1000 1TT [88, 100]^
+GN |S1000 1TT [Good night, 100]^
+LOOP |S1000 1TT [Loop, 100]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+WIRE |S1000 GN [Wire, Good night]^
+SSB |S1000 1TT [Single Side Band, 100]^
+GB |S1000 SWR [Goodbye, S W R]^
+GD |S1000 1TT [Good, 100]^
+72 |S1000 GB [72, Goodbye]^
+WATT |S1000 NW [Watt, Now]^
+1TT |S1000 GD [100, Good]^
+72 |S1000 1TT [72, 100]^
+NW |S1000 CW [Now, C W]^
+GD |S1000 SWR [Good, S W R]^
+1TT |S1000 GB [100, Goodbye]^
+SSB |S1000 88 [Single Side Band, 88]^
+CW |S1000 GD [C W, Good]^
+WATT |S1000 SSB [Watt, Single Side Band]^
+1TT |S1000 NW [100, Now]^
+1TT |S1000 88 [100, 88]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+72 |S1000 SWR [72, S W R]^
+1TT |S1000 GN [100, Good night]^
+GD |S1000 1TT [Good, 100]^
+SSB |S1000 1TT [Single Side Band, 100]^
+SSB |S1000 1TT [Single Side Band, 100]^
+NW |S1000 GN [Now, Good night]^
+1TT |S1000 NW [100, Now]^
+GN |S1000 LOOP [Good night, Loop]^
+1TT |S1000 GB [100, Goodbye]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+SWR |S1000 1TT [S W R, 100]^
+LOOP |S1000 NW [Loop, Now]^
+1TT |S1000 SSB [100, Single Side Band]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+CW |S1000 1TT [C W, 100]^
+SWR |S1000 1TT [S W R, 100]^
+SWR |S1000 WIRE [S W R, Wire]^
+1TT |S1000 GN [100, Good night]^
+1TT |S1000 GN [100, Good night]^
+72 |S1000 CW [72, C W]^
+SWR |S1000 1TT [S W R, 100]^
+SWR |S1000 1TT [S W R, 100]^
+INFO |S1000 1TT [Information, 100]^
+INFO |S1000 1TT [Information, 100]^
+LOOP |S1000 1TT [Loop, 100]^
+88 |S1000 NW [88, Now]^
+WIRE |S1000 88 [Wire, 88]^
+GD |S1000 1TT [Good, 100]^
+SSB |S1000 1TT [Single Side Band, 100]^
+88 |S1000 CW [88, C W]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 GD [100, Good]^
+1TT |S1000 72 [100, 72]^
+WATT |S1000 OCF [Watt, Off-center fed dipole]^
+WATT |S1000 GD [Watt, Good]^
+1TT |S1000 WATT [100, Watt]^
+CW |S1000 SWR [C W, S W R]^
+GN |S1000 SSB [Good night, Single Side Band]^
+WATT |S1000 GD [Watt, Good]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+GB |S1000 88 [Goodbye, 88]^
+72 |S1000 SWR [72, S W R]^
+1TT |S1000 INFO [100, Information]^
+1TT |S1000 SWR [100, S W R]^
+WATT |S1000 1TT [Watt, 100]^
+GD |S1000 1TT [Good, 100]^
+GB |S1000 1TT [Goodbye, 100]^
+LOOP |S1000 WIRE [Loop, Wire]^
+GN |S1000 WIRE [Good night, Wire]^
+1TT |S1000 INFO [100, Information]^
+1TT |S1000 NW [100, Now]^
+GN |S1000 1TT [Good night, 100]^
+72 |S1000 1TT [72, 100]^
+SSB |S1000 OCF [Single Side Band, Off-center fed dipole]^
+WIRE |S1000 1TT [Wire, 100]^
+OCF |S1000 INFO [Off-center fed dipole, Information]^
+WATT |S1000 1TT [Watt, 100]^
+GD |S1000 1TT [Good, 100]^
+NW |S1000 1TT [Now, 100]^
+88 |S1000 GB [88, Goodbye]^
+1TT |S1000 88 [100, 88]^
+1TT |S1000 NW [100, Now]^
+88 |S1000 1TT [88, 100]^
+WATT |S1000 1TT [Watt, 100]^
+88 |S1000 SSB [88, Single Side Band]^
+1TT |S1000 SWR [100, S W R]^
+1TT |S1000 CW [100, C W]^
+SWR |S1000 1TT [S W R, 100]^
+INFO |S1000 LOOP [Information, Loop]^
+1TT |S1000 WATT [100, Watt]^
+INFO |S1000 1TT [Information, 100]^
+OCF |S1000 88 [Off-center fed dipole, 88]^
+1TT |S1000 GB [100, Goodbye]^
+LOOP |S1000 GD [Loop, Good]^
+1TT |S1000 SSB [100, Single Side Band]^
+1TT |S1000 WIRE [100, Wire]^
+1TT |S1000 WIRE [100, Wire]^
+SSB |S1000 NW [Single Side Band, Now]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+LOOP |S1000 WATT [Loop, Watt]^
+GB |S1000 WATT [Goodbye, Watt]^
+1TT |S1000 GD [100, Good]^
+1TT |S1000 GN [100, Good night]^
+88 |S1000 1TT [88, 100]^
+SSB |S1000 1TT [Single Side Band, 100]^
+WIRE |S1000 1TT [Wire, 100]^
+72 |S1000 88 [72, 88]^
+SWR |S1000 GD [S W R, Good]^
+CW |S1000 INFO [C W, Information]^
+WIRE |S1000 SWR [Wire, S W R]^
+1TT |S1000 88 [100, 88]^
+NW |S1000 LOOP [Now, Loop]^
+INFO |S1000 1TT [Information, 100]^
+72 |S1000 WIRE [72, Wire]^
+88 |S1000 INFO [88, Information]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 SWR [100, S W R]^
+GD |S1000 1TT [Good, 100]^
+GB |S1000 1TT [Goodbye, 100]^
+INFO |S1000 1TT [Information, 100]^
+SSB |S1000 72 [Single Side Band, 72]^
+1TT |S1000 GD [100, Good]^
+LOOP |S1000 1TT [Loop, 100]^
+NW |S1000 1TT [Now, 100]^
+GN |S1000 1TT [Good night, 100]^
+GB |S1000 1TT [Goodbye, 100]^
+72 |S1000 1TT [72, 100]^
+INFO |S1000 SSB [Information, Single Side Band]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 INFO [100, Information]^
+88 |S1000 SSB [88, Single Side Band]^
+1TT |S1000 GN [100, Good night]^
+1TT |S1000 72 [100, 72]^
+1TT |S1000 INFO [100, Information]^
+WATT |S1000 GD [Watt, Good]^
+72 |S1000 SWR [72, S W R]^
+72 |S1000 1TT [72, 100]^
+SSB |S1000 NW [Single Side Band, Now]^
+SWR |S1000 GN [S W R, Good night]^
+GB |S1000 OCF [Goodbye, Off-center fed dipole]^
+1TT |S1000 SWR [100, S W R]^
+72 |S1000 1TT [72, 100]^
+GB |S1000 1TT [Goodbye, 100]^
+GD |S1000 1TT [Good, 100]^
+SWR |S1000 1TT [S W R, 100]^
+GN |S1000 1TT [Good night, 100]^
+CW |S1000 SWR [C W, S W R]^
+INFO |S1000 1TT [Information, 100]^
+SWR |S1000 CW [S W R, C W]^
+1TT |S1000 CW [100, C W]^
+GD |S1000 NW [Good, Now]^
+1TT |S1000 INFO [100, Information]^
+1TT |S1000 SSB [100, Single Side Band]^
+NW |S1000 GN [Now, Good night]^
+SWR |S1000 NW [S W R, Now]^
+GB |S1000 88 [Goodbye, 88]^
+1TT |S1000 GB [100, Goodbye]^
+SSB |S1000 1TT [Single Side Band, 100]^
+GN |S1000 SWR [Good night, S W R]^
+SSB |S1000 1TT [Single Side Band, 100]^
+GN |S1000 1TT [Good night, 100]^
+CW |S1000 SWR [C W, S W R]^
+INFO |S1000 1TT [Information, 100]^
+GD |S1000 INFO [Good, Information]^
+WATT |S1000 GN [Watt, Good night]^
+1TT |S1000 SSB [100, Single Side Band]^
+1TT |S1000 88 [100, 88]^
+GD |S1000 1TT [Good, 100]^
+CW |S1000 WATT [C W, Watt]^
+1TT |S1000 WIRE [100, Wire]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+SWR |S1000 1TT [S W R, 100]^
+72 |S1000 GB [72, Goodbye]^
+CW |S1000 1TT [C W, 100]^
+CW |S1000 SSB [C W, Single Side Band]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+88 |S1000 WIRE [88, Wire]^
+GB |S1000 SWR [Goodbye, S W R]^
+GB |S1000 INFO [Goodbye, Information]^
+1TT |S1000 LOOP [100, Loop]^
+1TT |S1000 GN [100, Good night]^
+72 |S1000 1TT [72, 100]^
+LOOP |S1000 NW [Loop, Now]^
+CW |S1000 LOOP [C W, Loop]^
+INFO |S1000 OCF [Information, Off-center fed dipole]^
+88 |S1000 1TT [88, 100]^
+88 |S1000 1TT [88, 100]^
+88 |S1000 LOOP [88, Loop]^
+INFO |S1000 1TT [Information, 100]^
+SWR |S1000 1TT [S W R, 100]^
+SWR |S1000 CW [S W R, C W]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+LOOP |S1000 1TT [Loop, 100]^
+SSB |S1000 1TT [Single Side Band, 100]^
+CW |S1000 GB [C W, Goodbye]^
+1TT |S1000 GN [100, Good night]^
+NW |S1000 WATT [Now, Watt]^
+INFO |S1000 GB [Information, Goodbye]^
+WIRE |S1000 88 [Wire, 88]^
+1TT |S1000 INFO [100, Information]^
+WATT |S1000 SWR [Watt, S W R]^
+1TT |S1000 GN [100, Good night]^
+1TT |S1000 72 [100, 72]^
+1TT |S1000 CW [100, C W]^
+1TT |S1000 GD [100, Good]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 NW [100, Now]^
+SWR |S1000 WIRE [S W R, Wire]^
+LOOP |S1000 GN [Loop, Good night]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+WATT |S1000 1TT [Watt, 100]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+OCF |S1000 WATT [Off-center fed dipole, Watt]^
+1TT |S1000 NW [100, Now]^
+88 |S1000 GB [88, Goodbye]^
+GD |S1000 1TT [Good, 100]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+LOOP |S1000 SWR [Loop, S W R]^
+GB |S1000 88 [Goodbye, 88]^
+72 |S1000 LOOP [72, Loop]^
+1TT |S1000 SWR [100, S W R]^
+1TT |S1000 LOOP [100, Loop]^
+CW |S1000 GB [C W, Goodbye]^
+SWR |S1000 CW [S W R, C W]^
+1TT |S1000 INFO [100, Information]^
+1TT |S1000 SWR [100, S W R]^

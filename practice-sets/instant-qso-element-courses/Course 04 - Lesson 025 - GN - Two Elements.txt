@@ -1,0 +1,600 @@
+GD |S1000 GN [Good, Good night]^
+SWR |S1000 GD [S W R, Good]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 SWR [72, S W R]^
+GD |S1000 GN [Good, Good night]^
+88 |S1000 GN [88, Good night]^
+SWR |S1000 72 [S W R, 72]^
+GN |S1000 GD [Good night, Good]^
+88 |S1000 CW [88, C W]^
+GN |S1000 72 [Good night, 72]^
+CW |S1000 GN [C W, Good night]^
+CW |S1000 GN [C W, Good night]^
+72 |S1000 GN [72, Good night]^
+CW |S1000 GN [C W, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+CW |S1000 GN [C W, Good night]^
+72 |S1000 GD [72, Good]^
+CW |S1000 72 [C W, 72]^
+GN |S1000 GB [Good night, Goodbye]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 GN [72, Good night]^
+GD |S1000 GB [Good, Goodbye]^
+88 |S1000 72 [88, 72]^
+GD |S1000 SWR [Good, S W R]^
+GB |S1000 GN [Goodbye, Good night]^
+SWR |S1000 CW [S W R, C W]^
+GD |S1000 GN [Good, Good night]^
+GB |S1000 88 [Goodbye, 88]^
+SWR |S1000 88 [S W R, 88]^
+GN |S1000 SWR [Good night, S W R]^
+GB |S1000 GN [Goodbye, Good night]^
+GD |S1000 GN [Good, Good night]^
+GD |S1000 GN [Good, Good night]^
+GD |S1000 GN [Good, Good night]^
+SWR |S1000 88 [S W R, 88]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 GN [72, Good night]^
+72 |S1000 GN [72, Good night]^
+SWR |S1000 88 [S W R, 88]^
+GN |S1000 72 [Good night, 72]^
+CW |S1000 GN [C W, Good night]^
+GD |S1000 72 [Good, 72]^
+GN |S1000 SWR [Good night, S W R]^
+CW |S1000 GN [C W, Good night]^
+GD |S1000 GN [Good, Good night]^
+CW |S1000 GN [C W, Good night]^
+CW |S1000 GN [C W, Good night]^
+GD |S1000 GN [Good, Good night]^
+72 |S1000 GN [72, Good night]^
+88 |S1000 GN [88, Good night]^
+GB |S1000 CW [Goodbye, C W]^
+GN |S1000 88 [Good night, 88]^
+CW |S1000 GD [C W, Good]^
+GN |S1000 GB [Good night, Goodbye]^
+88 |S1000 SWR [88, S W R]^
+CW |S1000 72 [C W, 72]^
+GN |S1000 GB [Good night, Goodbye]^
+GN |S1000 GB [Good night, Goodbye]^
+72 |S1000 GB [72, Goodbye]^
+GN |S1000 SWR [Good night, S W R]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 72 [Good night, 72]^
+88 |S1000 SWR [88, S W R]^
+72 |S1000 GN [72, Good night]^
+72 |S1000 GN [72, Good night]^
+88 |S1000 GB [88, Goodbye]^
+GN |S1000 72 [Good night, 72]^
+GD |S1000 GN [Good, Good night]^
+GD |S1000 GN [Good, Good night]^
+88 |S1000 GB [88, Goodbye]^
+CW |S1000 GN [C W, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+CW |S1000 GB [C W, Goodbye]^
+CW |S1000 72 [C W, 72]^
+GN |S1000 GB [Good night, Goodbye]^
+SWR |S1000 GB [S W R, Goodbye]^
+GD |S1000 GB [Good, Goodbye]^
+SWR |S1000 GN [S W R, Good night]^
+72 |S1000 GN [72, Good night]^
+88 |S1000 SWR [88, S W R]^
+72 |S1000 GN [72, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+72 |S1000 GN [72, Good night]^
+GD |S1000 SWR [Good, S W R]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 88 [72, 88]^
+72 |S1000 88 [72, 88]^
+SWR |S1000 GN [S W R, Good night]^
+72 |S1000 88 [72, 88]^
+GB |S1000 CW [Goodbye, C W]^
+GD |S1000 CW [Good, C W]^
+SWR |S1000 GN [S W R, Good night]^
+SWR |S1000 GB [S W R, Goodbye]^
+88 |S1000 GB [88, Goodbye]^
+CW |S1000 GD [C W, Good]^
+GB |S1000 88 [Goodbye, 88]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 GB [Good night, Goodbye]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 CW [Good night, C W]^
+SWR |S1000 GD [S W R, Good]^
+88 |S1000 GN [88, Good night]^
+72 |S1000 CW [72, C W]^
+GN |S1000 GD [Good night, Good]^
+72 |S1000 GD [72, Good]^
+72 |S1000 GN [72, Good night]^
+72 |S1000 SWR [72, S W R]^
+GB |S1000 SWR [Goodbye, S W R]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 GB [Good night, Goodbye]^
+SWR |S1000 GN [S W R, Good night]^
+SWR |S1000 GD [S W R, Good]^
+GN |S1000 SWR [Good night, S W R]^
+GB |S1000 GN [Goodbye, Good night]^
+GD |S1000 GB [Good, Goodbye]^
+GD |S1000 72 [Good, 72]^
+GN |S1000 72 [Good night, 72]^
+GB |S1000 SWR [Goodbye, S W R]^
+GN |S1000 SWR [Good night, S W R]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 GD [Good night, Good]^
+CW |S1000 GN [C W, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+CW |S1000 GN [C W, Good night]^
+88 |S1000 GB [88, Goodbye]^
+GN |S1000 GD [Good night, Good]^
+CW |S1000 GN [C W, Good night]^
+72 |S1000 GN [72, Good night]^
+GD |S1000 72 [Good, 72]^
+GN |S1000 88 [Good night, 88]^
+GD |S1000 72 [Good, 72]^
+GN |S1000 SWR [Good night, S W R]^
+72 |S1000 GN [72, Good night]^
+CW |S1000 72 [C W, 72]^
+SWR |S1000 GB [S W R, Goodbye]^
+GN |S1000 SWR [Good night, S W R]^
+GB |S1000 GN [Goodbye, Good night]^
+72 |S1000 SWR [72, S W R]^
+88 |S1000 GN [88, Good night]^
+GD |S1000 88 [Good, 88]^
+GD |S1000 72 [Good, 72]^
+GN |S1000 GD [Good night, Good]^
+GB |S1000 GD [Goodbye, Good]^
+GB |S1000 GN [Goodbye, Good night]^
+72 |S1000 GN [72, Good night]^
+72 |S1000 GD [72, Good]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 GN [72, Good night]^
+88 |S1000 SWR [88, S W R]^
+GD |S1000 GN [Good, Good night]^
+72 |S1000 88 [72, 88]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 CW [Good night, C W]^
+SWR |S1000 GN [S W R, Good night]^
+72 |S1000 GN [72, Good night]^
+CW |S1000 GN [C W, Good night]^
+88 |S1000 GB [88, Goodbye]^
+SWR |S1000 88 [S W R, 88]^
+GN |S1000 GB [Good night, Goodbye]^
+88 |S1000 CW [88, C W]^
+SWR |S1000 GN [S W R, Good night]^
+GB |S1000 SWR [Goodbye, S W R]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 GD [Good night, Good]^
+SWR |S1000 GN [S W R, Good night]^
+88 |S1000 GN [88, Good night]^
+GD |S1000 GN [Good, Good night]^
+SWR |S1000 GD [S W R, Good]^
+GN |S1000 88 [Good night, 88]^
+CW |S1000 72 [C W, 72]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 GB [Good night, Goodbye]^
+72 |S1000 88 [72, 88]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 CW [Good night, C W]^
+GD |S1000 GN [Good, Good night]^
+SWR |S1000 GN [S W R, Good night]^
+SWR |S1000 GN [S W R, Good night]^
+CW |S1000 GN [C W, Good night]^
+CW |S1000 72 [C W, 72]^
+SWR |S1000 GN [S W R, Good night]^
+SWR |S1000 GN [S W R, Good night]^
+GD |S1000 SWR [Good, S W R]^
+72 |S1000 SWR [72, S W R]^
+GN |S1000 GD [Good night, Good]^
+72 |S1000 GN [72, Good night]^
+88 |S1000 GB [88, Goodbye]^
+GN |S1000 GB [Good night, Goodbye]^
+CW |S1000 GN [C W, Good night]^
+72 |S1000 GN [72, Good night]^
+CW |S1000 GN [C W, Good night]^
+GD |S1000 GN [Good, Good night]^
+GD |S1000 GB [Good, Goodbye]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 72 [Good night, 72]^
+CW |S1000 GN [C W, Good night]^
+72 |S1000 GN [72, Good night]^
+CW |S1000 GN [C W, Good night]^
+72 |S1000 GB [72, Goodbye]^
+SWR |S1000 72 [S W R, 72]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 GN [72, Good night]^
+SWR |S1000 GB [S W R, Goodbye]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 88 [Good night, 88]^
+GD |S1000 GN [Good, Good night]^
+72 |S1000 88 [72, 88]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 GB [72, Goodbye]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 GN [72, Good night]^
+88 |S1000 CW [88, C W]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 SWR [Good night, S W R]^
+GD |S1000 72 [Good, 72]^
+CW |S1000 GN [C W, Good night]^
+CW |S1000 72 [C W, 72]^
+GB |S1000 72 [Goodbye, 72]^
+SWR |S1000 GN [S W R, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+88 |S1000 GN [88, Good night]^
+SWR |S1000 GN [S W R, Good night]^
+CW |S1000 SWR [C W, S W R]^
+GN |S1000 88 [Good night, 88]^
+CW |S1000 GB [C W, Goodbye]^
+GN |S1000 88 [Good night, 88]^
+SWR |S1000 GD [S W R, Good]^
+CW |S1000 GN [C W, Good night]^
+72 |S1000 GB [72, Goodbye]^
+GN |S1000 72 [Good night, 72]^
+GB |S1000 CW [Goodbye, C W]^
+GN |S1000 SWR [Good night, S W R]^
+72 |S1000 CW [72, C W]^
+GN |S1000 GB [Good night, Goodbye]^
+72 |S1000 CW [72, C W]^
+GD |S1000 GN [Good, Good night]^
+CW |S1000 GB [C W, Goodbye]^
+88 |S1000 GN [88, Good night]^
+SWR |S1000 72 [S W R, 72]^
+GN |S1000 CW [Good night, C W]^
+88 |S1000 GN [88, Good night]^
+GB |S1000 GD [Goodbye, Good]^
+GN |S1000 88 [Good night, 88]^
+CW |S1000 GB [C W, Goodbye]^
+88 |S1000 CW [88, C W]^
+SWR |S1000 GB [S W R, Goodbye]^
+SWR |S1000 72 [S W R, 72]^
+GD |S1000 SWR [Good, S W R]^
+88 |S1000 72 [88, 72]^
+SWR |S1000 GB [S W R, Goodbye]^
+88 |S1000 GN [88, Good night]^
+SWR |S1000 GN [S W R, Good night]^
+SWR |S1000 GN [S W R, Good night]^
+SWR |S1000 GN [S W R, Good night]^
+72 |S1000 CW [72, C W]^
+GD |S1000 SWR [Good, S W R]^
+88 |S1000 GB [88, Goodbye]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 CW [72, C W]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 SWR [Good night, S W R]^
+GB |S1000 GN [Goodbye, Good night]^
+72 |S1000 SWR [72, S W R]^
+88 |S1000 GN [88, Good night]^
+GB |S1000 CW [Goodbye, C W]^
+88 |S1000 GN [88, Good night]^
+GD |S1000 72 [Good, 72]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 GD [Good night, Good]^
+CW |S1000 72 [C W, 72]^
+GN |S1000 88 [Good night, 88]^
+SWR |S1000 CW [S W R, C W]^
+GB |S1000 GD [Goodbye, Good]^
+GB |S1000 GN [Goodbye, Good night]^
+CW |S1000 GN [C W, Good night]^
+GB |S1000 CW [Goodbye, C W]^
+SWR |S1000 GN [S W R, Good night]^
+GD |S1000 GN [Good, Good night]^
+SWR |S1000 GD [S W R, Good]^
+88 |S1000 SWR [88, S W R]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 GD [Good night, Good]^
+GB |S1000 CW [Goodbye, C W]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 GB [Good night, Goodbye]^
+72 |S1000 88 [72, 88]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 GB [Good night, Goodbye]^
+88 |S1000 GN [88, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+88 |S1000 72 [88, 72]^
+CW |S1000 GN [C W, Good night]^
+GD |S1000 SWR [Good, S W R]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 SWR [Good night, S W R]^
+CW |S1000 GD [C W, Good]^
+88 |S1000 GD [88, Good]^
+SWR |S1000 72 [S W R, 72]^
+SWR |S1000 GN [S W R, Good night]^
+88 |S1000 GB [88, Goodbye]^
+GN |S1000 GB [Good night, Goodbye]^
+GD |S1000 SWR [Good, S W R]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 GB [Good night, Goodbye]^
+GN |S1000 CW [Good night, C W]^
+SWR |S1000 GB [S W R, Goodbye]^
+88 |S1000 GB [88, Goodbye]^
+GD |S1000 GB [Good, Goodbye]^
+GN |S1000 GB [Good night, Goodbye]^
+GN |S1000 GB [Good night, Goodbye]^
+SWR |S1000 GN [S W R, Good night]^
+GD |S1000 GN [Good, Good night]^
+CW |S1000 SWR [C W, S W R]^
+GN |S1000 CW [Good night, C W]^
+88 |S1000 GN [88, Good night]^
+CW |S1000 GB [C W, Goodbye]^
+72 |S1000 GB [72, Goodbye]^
+88 |S1000 GB [88, Goodbye]^
+72 |S1000 GN [72, Good night]^
+CW |S1000 GN [C W, Good night]^
+GB |S1000 GD [Goodbye, Good]^
+GB |S1000 GN [Goodbye, Good night]^
+CW |S1000 72 [C W, 72]^
+88 |S1000 72 [88, 72]^
+GB |S1000 GN [Goodbye, Good night]^
+GD |S1000 72 [Good, 72]^
+GN |S1000 CW [Good night, C W]^
+GD |S1000 88 [Good, 88]^
+CW |S1000 GN [C W, Good night]^
+CW |S1000 GN [C W, Good night]^
+88 |S1000 GD [88, Good]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 SWR [Good night, S W R]^
+72 |S1000 GN [72, Good night]^
+GD |S1000 GN [Good, Good night]^
+CW |S1000 88 [C W, 88]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 SWR [Good night, S W R]^
+72 |S1000 CW [72, C W]^
+88 |S1000 GN [88, Good night]^
+GD |S1000 GB [Good, Goodbye]^
+GN |S1000 72 [Good night, 72]^
+SWR |S1000 GN [S W R, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+GD |S1000 GN [Good, Good night]^
+GD |S1000 72 [Good, 72]^
+GB |S1000 GD [Goodbye, Good]^
+88 |S1000 72 [88, 72]^
+GD |S1000 88 [Good, 88]^
+GN |S1000 SWR [Good night, S W R]^
+CW |S1000 GN [C W, Good night]^
+SWR |S1000 GN [S W R, Good night]^
+GD |S1000 SWR [Good, S W R]^
+GN |S1000 GD [Good night, Good]^
+CW |S1000 88 [C W, 88]^
+GN |S1000 88 [Good night, 88]^
+GD |S1000 CW [Good, C W]^
+GD |S1000 GN [Good, Good night]^
+CW |S1000 GN [C W, Good night]^
+CW |S1000 GN [C W, Good night]^
+88 |S1000 72 [88, 72]^
+GN |S1000 GD [Good night, Good]^
+CW |S1000 GD [C W, Good]^
+SWR |S1000 GN [S W R, Good night]^
+CW |S1000 GN [C W, Good night]^
+GB |S1000 SWR [Goodbye, S W R]^
+GD |S1000 GN [Good, Good night]^
+72 |S1000 CW [72, C W]^
+SWR |S1000 GN [S W R, Good night]^
+GD |S1000 88 [Good, 88]^
+CW |S1000 SWR [C W, S W R]^
+GD |S1000 88 [Good, 88]^
+CW |S1000 GD [C W, Good]^
+CW |S1000 GN [C W, Good night]^
+GD |S1000 72 [Good, 72]^
+88 |S1000 GN [88, Good night]^
+SWR |S1000 GN [S W R, Good night]^
+GD |S1000 SWR [Good, S W R]^
+GD |S1000 72 [Good, 72]^
+GD |S1000 GN [Good, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+72 |S1000 GN [72, Good night]^
+SWR |S1000 GB [S W R, Goodbye]^
+88 |S1000 CW [88, C W]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 GN [72, Good night]^
+72 |S1000 GN [72, Good night]^
+SWR |S1000 88 [S W R, 88]^
+72 |S1000 GN [72, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+88 |S1000 CW [88, C W]^
+72 |S1000 GB [72, Goodbye]^
+88 |S1000 GN [88, Good night]^
+72 |S1000 GN [72, Good night]^
+SWR |S1000 88 [S W R, 88]^
+72 |S1000 SWR [72, S W R]^
+GD |S1000 88 [Good, 88]^
+GN |S1000 GB [Good night, Goodbye]^
+CW |S1000 GD [C W, Good]^
+GN |S1000 72 [Good night, 72]^
+SWR |S1000 88 [S W R, 88]^
+SWR |S1000 GN [S W R, Good night]^
+GD |S1000 GN [Good, Good night]^
+SWR |S1000 GB [S W R, Goodbye]^
+GN |S1000 88 [Good night, 88]^
+SWR |S1000 88 [S W R, 88]^
+GB |S1000 GN [Goodbye, Good night]^
+GB |S1000 CW [Goodbye, C W]^
+GN |S1000 SWR [Good night, S W R]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 GB [Good night, Goodbye]^
+SWR |S1000 GN [S W R, Good night]^
+72 |S1000 88 [72, 88]^
+72 |S1000 GN [72, Good night]^
+GD |S1000 CW [Good, C W]^
+88 |S1000 CW [88, C W]^
+88 |S1000 72 [88, 72]^
+GN |S1000 CW [Good night, C W]^
+GB |S1000 88 [Goodbye, 88]^
+GD |S1000 CW [Good, C W]^
+88 |S1000 GN [88, Good night]^
+CW |S1000 GN [C W, Good night]^
+88 |S1000 GN [88, Good night]^
+GB |S1000 GD [Goodbye, Good]^
+CW |S1000 GN [C W, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+CW |S1000 GN [C W, Good night]^
+SWR |S1000 72 [S W R, 72]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 GD [Good night, Good]^
+88 |S1000 GN [88, Good night]^
+CW |S1000 GN [C W, Good night]^
+GB |S1000 88 [Goodbye, 88]^
+GB |S1000 GN [Goodbye, Good night]^
+CW |S1000 72 [C W, 72]^
+GN |S1000 GB [Good night, Goodbye]^
+SWR |S1000 72 [S W R, 72]^
+GB |S1000 72 [Goodbye, 72]^
+GD |S1000 GN [Good, Good night]^
+88 |S1000 GN [88, Good night]^
+GD |S1000 GN [Good, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+CW |S1000 88 [C W, 88]^
+GD |S1000 GN [Good, Good night]^
+72 |S1000 SWR [72, S W R]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 GB [Good night, Goodbye]^
+SWR |S1000 72 [S W R, 72]^
+88 |S1000 72 [88, 72]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 72 [Good night, 72]^
+GD |S1000 GN [Good, Good night]^
+72 |S1000 GN [72, Good night]^
+GB |S1000 CW [Goodbye, C W]^
+72 |S1000 GB [72, Goodbye]^
+GN |S1000 GD [Good night, Good]^
+SWR |S1000 CW [S W R, C W]^
+GN |S1000 GB [Good night, Goodbye]^
+72 |S1000 GB [72, Goodbye]^
+72 |S1000 GD [72, Good]^
+GN |S1000 88 [Good night, 88]^
+GB |S1000 GD [Goodbye, Good]^
+GN |S1000 GB [Good night, Goodbye]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 GD [Good night, Good]^
+GB |S1000 88 [Goodbye, 88]^
+GN |S1000 GD [Good night, Good]^
+72 |S1000 GN [72, Good night]^
+SWR |S1000 GN [S W R, Good night]^
+SWR |S1000 CW [S W R, C W]^
+GB |S1000 GN [Goodbye, Good night]^
+72 |S1000 CW [72, C W]^
+GN |S1000 GD [Good night, Good]^
+72 |S1000 GN [72, Good night]^
+72 |S1000 GB [72, Goodbye]^
+72 |S1000 GN [72, Good night]^
+CW |S1000 88 [C W, 88]^
+GN |S1000 GB [Good night, Goodbye]^
+GN |S1000 GD [Good night, Good]^
+88 |S1000 GN [88, Good night]^
+72 |S1000 GB [72, Goodbye]^
+88 |S1000 GN [88, Good night]^
+SWR |S1000 88 [S W R, 88]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 CW [Good night, C W]^
+GD |S1000 GN [Good, Good night]^
+88 |S1000 GN [88, Good night]^
+88 |S1000 GN [88, Good night]^
+88 |S1000 GN [88, Good night]^
+GB |S1000 72 [Goodbye, 72]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 72 [Good night, 72]^
+SWR |S1000 GB [S W R, Goodbye]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 72 [Good night, 72]^
+CW |S1000 GN [C W, Good night]^
+GB |S1000 CW [Goodbye, C W]^
+GN |S1000 SWR [Good night, S W R]^
+GB |S1000 72 [Goodbye, 72]^
+GN |S1000 72 [Good night, 72]^
+SWR |S1000 GN [S W R, Good night]^
+88 |S1000 GN [88, Good night]^
+88 |S1000 72 [88, 72]^
+GB |S1000 SWR [Goodbye, S W R]^
+88 |S1000 SWR [88, S W R]^
+GB |S1000 88 [Goodbye, 88]^
+GN |S1000 72 [Good night, 72]^
+GB |S1000 88 [Goodbye, 88]^
+GN |S1000 GB [Good night, Goodbye]^
+CW |S1000 SWR [C W, S W R]^
+GN |S1000 88 [Good night, 88]^
+CW |S1000 SWR [C W, S W R]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 GD [Good night, Good]^
+GB |S1000 GD [Goodbye, Good]^
+GN |S1000 72 [Good night, 72]^
+88 |S1000 GN [88, Good night]^
+72 |S1000 GD [72, Good]^
+72 |S1000 GN [72, Good night]^
+CW |S1000 GN [C W, Good night]^
+88 |S1000 GN [88, Good night]^
+88 |S1000 GN [88, Good night]^
+GD |S1000 GN [Good, Good night]^
+SWR |S1000 GB [S W R, Goodbye]^
+GN |S1000 88 [Good night, 88]^
+CW |S1000 88 [C W, 88]^
+SWR |S1000 72 [S W R, 72]^
+SWR |S1000 CW [S W R, C W]^
+GN |S1000 SWR [Good night, S W R]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 GN [72, Good night]^
+GB |S1000 72 [Goodbye, 72]^
+GN |S1000 SWR [Good night, S W R]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 CW [Good night, C W]^
+88 |S1000 SWR [88, S W R]^
+72 |S1000 GN [72, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+88 |S1000 GB [88, Goodbye]^
+88 |S1000 SWR [88, S W R]^
+72 |S1000 GD [72, Good]^
+GN |S1000 72 [Good night, 72]^
+88 |S1000 SWR [88, S W R]^
+GN |S1000 SWR [Good night, S W R]^
+72 |S1000 88 [72, 88]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 GD [Good night, Good]^
+GN |S1000 GB [Good night, Goodbye]^
+GN |S1000 SWR [Good night, S W R]^
+CW |S1000 72 [C W, 72]^
+GN |S1000 88 [Good night, 88]^
+SWR |S1000 GN [S W R, Good night]^
+88 |S1000 CW [88, C W]^
+GN |S1000 SWR [Good night, S W R]^
+72 |S1000 GN [72, Good night]^
+72 |S1000 88 [72, 88]^
+72 |S1000 GN [72, Good night]^
+GD |S1000 GN [Good, Good night]^
+72 |S1000 SWR [72, S W R]^
+GD |S1000 GN [Good, Good night]^
+CW |S1000 GN [C W, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+GB |S1000 SWR [Goodbye, S W R]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 GB [Good night, Goodbye]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 SWR [Good night, S W R]^
+GD |S1000 72 [Good, 72]^
+88 |S1000 72 [88, 72]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 88 [Good night, 88]^
+GN |S1000 72 [Good night, 72]^
+CW |S1000 GB [C W, Goodbye]^
+88 |S1000 SWR [88, S W R]^
+GB |S1000 72 [Goodbye, 72]^
+GN |S1000 GD [Good night, Good]^
+GB |S1000 SWR [Goodbye, S W R]^
+72 |S1000 88 [72, 88]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 SWR [Good night, S W R]^
+GN |S1000 SWR [Good night, S W R]^
+CW |S1000 88 [C W, 88]^
+GN |S1000 GB [Good night, Goodbye]^

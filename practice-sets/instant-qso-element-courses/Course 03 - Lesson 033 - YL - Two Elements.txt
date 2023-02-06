@@ -1,0 +1,600 @@
+PLS |S1000 YL [Please, Young lady]^
+DR |S1000 YL [Dear, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+MNI |S1000 HR [Many, Hear]^
+PSE |S1000 YL [Please, Young lady]^
+PLS |S1000 MNI [Please, Many]^
+DR |S1000 YL [Dear, Young lady]^
+OP |S1000 HR [Operator, Hear]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+HR |S1000 PLS [Hear, Please]^
+DR |S1000 YL [Dear, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+CFM |S1000 PSE [Confirm, Please]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 PLS [Young lady, Please]^
+YL |S1000 MNI [Young lady, Many]^
+HW\? |S1000 OP [How copy\?, Operator]^
+PSE |S1000 HR [Please, Hear]^
+PLS |S1000 YL [Please, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+HW\? |S1000 DR [How copy\?, Dear]^
+YL |S1000 DR [Young lady, Dear]^
+PLS |S1000 YL [Please, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+MNI |S1000 HR [Many, Hear]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 HR [Young lady, Hear]^
+OP |S1000 PLS [Operator, Please]^
+CFM |S1000 PLS [Confirm, Please]^
+HW\? |S1000 DR [How copy\?, Dear]^
+CFM |S1000 YL [Confirm, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+MNI |S1000 HW\? [Many, How copy\?]^
+YL |S1000 DR [Young lady, Dear]^
+MNI |S1000 YL [Many, Young lady]^
+HW\? |S1000 DR [How copy\?, Dear]^
+YL |S1000 PLS [Young lady, Please]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+YL |S1000 HR [Young lady, Hear]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+HW\? |S1000 HR [How copy\?, Hear]^
+YL |S1000 PLS [Young lady, Please]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 HR [Young lady, Hear]^
+HW\? |S1000 MNI [How copy\?, Many]^
+YL |S1000 DR [Young lady, Dear]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+DR |S1000 YL [Dear, Young lady]^
+MNI |S1000 OP [Many, Operator]^
+DR |S1000 YL [Dear, Young lady]^
+PLS |S1000 HW\? [Please, How copy\?]^
+YL |S1000 DR [Young lady, Dear]^
+MNI |S1000 YL [Many, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+PSE |S1000 MNI [Please, Many]^
+DR |S1000 HR [Dear, Hear]^
+MNI |S1000 DR [Many, Dear]^
+YL |S1000 DR [Young lady, Dear]^
+OP |S1000 HR [Operator, Hear]^
+MNI |S1000 PLS [Many, Please]^
+DR |S1000 MNI [Dear, Many]^
+PSE |S1000 YL [Please, Young lady]^
+MNI |S1000 HR [Many, Hear]^
+DR |S1000 YL [Dear, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+HW\? |S1000 HR [How copy\?, Hear]^
+DR |S1000 YL [Dear, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+PLS |S1000 DR [Please, Dear]^
+MNI |S1000 PLS [Many, Please]^
+MNI |S1000 YL [Many, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+MNI |S1000 HR [Many, Hear]^
+MNI |S1000 HW\? [Many, How copy\?]^
+YL |S1000 OP [Young lady, Operator]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 MNI [Young lady, Many]^
+DR |S1000 YL [Dear, Young lady]^
+DR |S1000 PLS [Dear, Please]^
+CFM |S1000 OP [Confirm, Operator]^
+DR |S1000 MNI [Dear, Many]^
+PLS |S1000 CFM [Please, Confirm]^
+YL |S1000 DR [Young lady, Dear]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+YL |S1000 CFM [Young lady, Confirm]^
+OP |S1000 YL [Operator, Young lady]^
+OP |S1000 HW\? [Operator, How copy\?]^
+PLS |S1000 YL [Please, Young lady]^
+OP |S1000 YL [Operator, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+HW\? |S1000 PSE [How copy\?, Please]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+MNI |S1000 HW\? [Many, How copy\?]^
+YL |S1000 HR [Young lady, Hear]^
+HW\? |S1000 DR [How copy\?, Dear]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 PSE [Young lady, Please]^
+HR |S1000 PSE [Hear, Please]^
+YL |S1000 OP [Young lady, Operator]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 CFM [Young lady, Confirm]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+CFM |S1000 PSE [Confirm, Please]^
+YL |S1000 MNI [Young lady, Many]^
+CFM |S1000 DR [Confirm, Dear]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 OP [Young lady, Operator]^
+YL |S1000 DR [Young lady, Dear]^
+PLS |S1000 HR [Please, Hear]^
+PLS |S1000 MNI [Please, Many]^
+YL |S1000 DR [Young lady, Dear]^
+MNI |S1000 OP [Many, Operator]^
+HW\? |S1000 DR [How copy\?, Dear]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 PSE [Young lady, Please]^
+DR |S1000 YL [Dear, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+DR |S1000 HW\? [Dear, How copy\?]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 PLS [Young lady, Please]^
+HR |S1000 YL [Hear, Young lady]^
+HR |S1000 PLS [Hear, Please]^
+YL |S1000 PLS [Young lady, Please]^
+CFM |S1000 YL [Confirm, Young lady]^
+MNI |S1000 OP [Many, Operator]^
+YL |S1000 OP [Young lady, Operator]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+PSE |S1000 HW\? [Please, How copy\?]^
+MNI |S1000 PSE [Many, Please]^
+DR |S1000 MNI [Dear, Many]^
+HW\? |S1000 DR [How copy\?, Dear]^
+YL |S1000 PLS [Young lady, Please]^
+MNI |S1000 YL [Many, Young lady]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+PSE |S1000 CFM [Please, Confirm]^
+OP |S1000 PSE [Operator, Please]^
+DR |S1000 PSE [Dear, Please]^
+CFM |S1000 YL [Confirm, Young lady]^
+OP |S1000 PSE [Operator, Please]^
+HR |S1000 YL [Hear, Young lady]^
+MNI |S1000 HW\? [Many, How copy\?]^
+HR |S1000 HW\? [Hear, How copy\?]^
+OP |S1000 HW\? [Operator, How copy\?]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 PLS [Young lady, Please]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 HR [Young lady, Hear]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+DR |S1000 MNI [Dear, Many]^
+YL |S1000 MNI [Young lady, Many]^
+CFM |S1000 OP [Confirm, Operator]^
+DR |S1000 YL [Dear, Young lady]^
+MNI |S1000 PLS [Many, Please]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+PLS |S1000 DR [Please, Dear]^
+HW\? |S1000 PSE [How copy\?, Please]^
+HR |S1000 OP [Hear, Operator]^
+CFM |S1000 HR [Confirm, Hear]^
+CFM |S1000 PSE [Confirm, Please]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+DR |S1000 YL [Dear, Young lady]^
+PSE |S1000 OP [Please, Operator]^
+PSE |S1000 YL [Please, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+CFM |S1000 DR [Confirm, Dear]^
+HR |S1000 OP [Hear, Operator]^
+YL |S1000 MNI [Young lady, Many]^
+HR |S1000 YL [Hear, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+MNI |S1000 HR [Many, Hear]^
+CFM |S1000 DR [Confirm, Dear]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 CFM [Young lady, Confirm]^
+HR |S1000 YL [Hear, Young lady]^
+CFM |S1000 MNI [Confirm, Many]^
+YL |S1000 DR [Young lady, Dear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PLS |S1000 YL [Please, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+CFM |S1000 OP [Confirm, Operator]^
+MNI |S1000 HR [Many, Hear]^
+YL |S1000 PLS [Young lady, Please]^
+DR |S1000 YL [Dear, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+CFM |S1000 MNI [Confirm, Many]^
+CFM |S1000 YL [Confirm, Young lady]^
+CFM |S1000 DR [Confirm, Dear]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+PSE |S1000 YL [Please, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+DR |S1000 HW\? [Dear, How copy\?]^
+PLS |S1000 YL [Please, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+CFM |S1000 HR [Confirm, Hear]^
+YL |S1000 CFM [Young lady, Confirm]^
+PLS |S1000 YL [Please, Young lady]^
+HR |S1000 PLS [Hear, Please]^
+YL |S1000 PSE [Young lady, Please]^
+MNI |S1000 OP [Many, Operator]^
+PSE |S1000 CFM [Please, Confirm]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+PSE |S1000 DR [Please, Dear]^
+HR |S1000 MNI [Hear, Many]^
+YL |S1000 OP [Young lady, Operator]^
+DR |S1000 CFM [Dear, Confirm]^
+HR |S1000 OP [Hear, Operator]^
+HR |S1000 YL [Hear, Young lady]^
+OP |S1000 MNI [Operator, Many]^
+YL |S1000 CFM [Young lady, Confirm]^
+PLS |S1000 YL [Please, Young lady]^
+HW\? |S1000 PSE [How copy\?, Please]^
+CFM |S1000 DR [Confirm, Dear]^
+PLS |S1000 PSE [Please, Please]^
+YL |S1000 PLS [Young lady, Please]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 OP [Young lady, Operator]^
+PSE |S1000 YL [Please, Young lady]^
+OP |S1000 YL [Operator, Young lady]^
+DR |S1000 YL [Dear, Young lady]^
+PLS |S1000 DR [Please, Dear]^
+YL |S1000 CFM [Young lady, Confirm]^
+OP |S1000 PSE [Operator, Please]^
+CFM |S1000 PLS [Confirm, Please]^
+MNI |S1000 YL [Many, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+OP |S1000 HR [Operator, Hear]^
+YL |S1000 CFM [Young lady, Confirm]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 CFM [Young lady, Confirm]^
+YL |S1000 PSE [Young lady, Please]^
+HR |S1000 YL [Hear, Young lady]^
+OP |S1000 PLS [Operator, Please]^
+HR |S1000 HW\? [Hear, How copy\?]^
+PSE |S1000 PLS [Please, Please]^
+HR |S1000 YL [Hear, Young lady]^
+OP |S1000 YL [Operator, Young lady]^
+PSE |S1000 PLS [Please, Please]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 HR [Young lady, Hear]^
+DR |S1000 YL [Dear, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+DR |S1000 PLS [Dear, Please]^
+MNI |S1000 YL [Many, Young lady]^
+MNI |S1000 PLS [Many, Please]^
+YL |S1000 DR [Young lady, Dear]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+HR |S1000 MNI [Hear, Many]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 OP [Young lady, Operator]^
+PSE |S1000 MNI [Please, Many]^
+CFM |S1000 MNI [Confirm, Many]^
+DR |S1000 PSE [Dear, Please]^
+OP |S1000 HW\? [Operator, How copy\?]^
+PLS |S1000 YL [Please, Young lady]^
+PLS |S1000 OP [Please, Operator]^
+PSE |S1000 DR [Please, Dear]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+HR |S1000 PLS [Hear, Please]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 MNI [Young lady, Many]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+HR |S1000 OP [Hear, Operator]^
+DR |S1000 PSE [Dear, Please]^
+YL |S1000 HR [Young lady, Hear]^
+PSE |S1000 PLS [Please, Please]^
+HR |S1000 YL [Hear, Young lady]^
+DR |S1000 HW\? [Dear, How copy\?]^
+PLS |S1000 PSE [Please, Please]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 DR [Young lady, Dear]^
+HR |S1000 YL [Hear, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+PLS |S1000 PSE [Please, Please]^
+PLS |S1000 YL [Please, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+PSE |S1000 MNI [Please, Many]^
+PSE |S1000 YL [Please, Young lady]^
+PSE |S1000 CFM [Please, Confirm]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+MNI |S1000 PSE [Many, Please]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+DR |S1000 HR [Dear, Hear]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+OP |S1000 MNI [Operator, Many]^
+PLS |S1000 HR [Please, Hear]^
+MNI |S1000 HR [Many, Hear]^
+PLS |S1000 OP [Please, Operator]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 OP [Young lady, Operator]^
+PSE |S1000 YL [Please, Young lady]^
+CFM |S1000 PLS [Confirm, Please]^
+YL |S1000 OP [Young lady, Operator]^
+PSE |S1000 PLS [Please, Please]^
+CFM |S1000 YL [Confirm, Young lady]^
+DR |S1000 YL [Dear, Young lady]^
+HW\? |S1000 PLS [How copy\?, Please]^
+YL |S1000 PLS [Young lady, Please]^
+YL |S1000 OP [Young lady, Operator]^
+DR |S1000 YL [Dear, Young lady]^
+PSE |S1000 MNI [Please, Many]^
+CFM |S1000 YL [Confirm, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+PSE |S1000 PLS [Please, Please]^
+YL |S1000 CFM [Young lady, Confirm]^
+PSE |S1000 YL [Please, Young lady]^
+OP |S1000 PSE [Operator, Please]^
+YL |S1000 DR [Young lady, Dear]^
+HR |S1000 YL [Hear, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+DR |S1000 YL [Dear, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+PSE |S1000 DR [Please, Dear]^
+CFM |S1000 PSE [Confirm, Please]^
+HR |S1000 PSE [Hear, Please]^
+YL |S1000 OP [Young lady, Operator]^
+PLS |S1000 YL [Please, Young lady]^
+OP |S1000 YL [Operator, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+PSE |S1000 DR [Please, Dear]^
+PSE |S1000 YL [Please, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+MNI |S1000 PLS [Many, Please]^
+CFM |S1000 YL [Confirm, Young lady]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 MNI [Young lady, Many]^
+HR |S1000 DR [Hear, Dear]^
+OP |S1000 PSE [Operator, Please]^
+YL |S1000 OP [Young lady, Operator]^
+HW\? |S1000 HR [How copy\?, Hear]^
+OP |S1000 DR [Operator, Dear]^
+YL |S1000 MNI [Young lady, Many]^
+CFM |S1000 PSE [Confirm, Please]^
+PLS |S1000 YL [Please, Young lady]^
+HW\? |S1000 MNI [How copy\?, Many]^
+PLS |S1000 CFM [Please, Confirm]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 MNI [Young lady, Many]^
+OP |S1000 DR [Operator, Dear]^
+MNI |S1000 YL [Many, Young lady]^
+DR |S1000 YL [Dear, Young lady]^
+MNI |S1000 HR [Many, Hear]^
+PLS |S1000 OP [Please, Operator]^
+DR |S1000 YL [Dear, Young lady]^
+HW\? |S1000 PSE [How copy\?, Please]^
+YL |S1000 PLS [Young lady, Please]^
+HW\? |S1000 PLS [How copy\?, Please]^
+YL |S1000 HR [Young lady, Hear]^
+CFM |S1000 YL [Confirm, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+OP |S1000 MNI [Operator, Many]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+DR |S1000 MNI [Dear, Many]^
+DR |S1000 HW\? [Dear, How copy\?]^
+YL |S1000 OP [Young lady, Operator]^
+DR |S1000 OP [Dear, Operator]^
+PSE |S1000 YL [Please, Young lady]^
+DR |S1000 YL [Dear, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+DR |S1000 YL [Dear, Young lady]^
+HR |S1000 CFM [Hear, Confirm]^
+MNI |S1000 YL [Many, Young lady]^
+PLS |S1000 CFM [Please, Confirm]^
+YL |S1000 CFM [Young lady, Confirm]^
+YL |S1000 OP [Young lady, Operator]^
+PLS |S1000 YL [Please, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+MNI |S1000 OP [Many, Operator]^
+PLS |S1000 YL [Please, Young lady]^
+OP |S1000 YL [Operator, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+PLS |S1000 MNI [Please, Many]^
+PLS |S1000 DR [Please, Dear]^
+YL |S1000 PSE [Young lady, Please]^
+DR |S1000 MNI [Dear, Many]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+MNI |S1000 DR [Many, Dear]^
+PLS |S1000 CFM [Please, Confirm]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 OP [Young lady, Operator]^
+DR |S1000 YL [Dear, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 PSE [Hear, Please]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 HR [Young lady, Hear]^
+PSE |S1000 YL [Please, Young lady]^
+OP |S1000 YL [Operator, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+OP |S1000 YL [Operator, Young lady]^
+PSE |S1000 MNI [Please, Many]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 HR [Young lady, Hear]^
+DR |S1000 PSE [Dear, Please]^
+YL |S1000 OP [Young lady, Operator]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 HR [Young lady, Hear]^
+DR |S1000 YL [Dear, Young lady]^
+DR |S1000 CFM [Dear, Confirm]^
+YL |S1000 MNI [Young lady, Many]^
+PSE |S1000 YL [Please, Young lady]^
+HR |S1000 PSE [Hear, Please]^
+YL |S1000 MNI [Young lady, Many]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+CFM |S1000 OP [Confirm, Operator]^
+YL |S1000 PSE [Young lady, Please]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+HW\? |S1000 DR [How copy\?, Dear]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 HR [Young lady, Hear]^
+MNI |S1000 HR [Many, Hear]^
+PLS |S1000 YL [Please, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+HR |S1000 PSE [Hear, Please]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+DR |S1000 HW\? [Dear, How copy\?]^
+YL |S1000 DR [Young lady, Dear]^
+PSE |S1000 MNI [Please, Many]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 OP [Young lady, Operator]^
+HR |S1000 YL [Hear, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+HR |S1000 DR [Hear, Dear]^
+PLS |S1000 MNI [Please, Many]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 HR [Young lady, Hear]^
+CFM |S1000 YL [Confirm, Young lady]^
+PLS |S1000 HW\? [Please, How copy\?]^
+DR |S1000 YL [Dear, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+OP |S1000 CFM [Operator, Confirm]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+YL |S1000 CFM [Young lady, Confirm]^
+MNI |S1000 DR [Many, Dear]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+CFM |S1000 YL [Confirm, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+MNI |S1000 PSE [Many, Please]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 HR [Young lady, Hear]^
+PLS |S1000 MNI [Please, Many]^
+CFM |S1000 HR [Confirm, Hear]^
+PLS |S1000 YL [Please, Young lady]^
+OP |S1000 YL [Operator, Young lady]^
+PLS |S1000 HR [Please, Hear]^
+HW\? |S1000 MNI [How copy\?, Many]^
+CFM |S1000 PLS [Confirm, Please]^
+CFM |S1000 YL [Confirm, Young lady]^
+PLS |S1000 YL [Please, Young lady]^
+HR |S1000 MNI [Hear, Many]^
+YL |S1000 PLS [Young lady, Please]^
+CFM |S1000 YL [Confirm, Young lady]^
+OP |S1000 YL [Operator, Young lady]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+YL |S1000 CFM [Young lady, Confirm]^
+YL |S1000 PLS [Young lady, Please]^
+YL |S1000 MNI [Young lady, Many]^
+DR |S1000 CFM [Dear, Confirm]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+OP |S1000 YL [Operator, Young lady]^
+HR |S1000 DR [Hear, Dear]^
+PLS |S1000 HR [Please, Hear]^
+DR |S1000 HW\? [Dear, How copy\?]^
+YL |S1000 MNI [Young lady, Many]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+OP |S1000 MNI [Operator, Many]^
+PLS |S1000 MNI [Please, Many]^
+HW\? |S1000 DR [How copy\?, Dear]^
+CFM |S1000 YL [Confirm, Young lady]^
+OP |S1000 YL [Operator, Young lady]^
+CFM |S1000 PSE [Confirm, Please]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 DR [Young lady, Dear]^
+MNI |S1000 CFM [Many, Confirm]^
+PLS |S1000 HW\? [Please, How copy\?]^
+OP |S1000 CFM [Operator, Confirm]^
+PSE |S1000 YL [Please, Young lady]^
+HR |S1000 OP [Hear, Operator]^
+YL |S1000 DR [Young lady, Dear]^
+PLS |S1000 OP [Please, Operator]^
+YL |S1000 CFM [Young lady, Confirm]^
+YL |S1000 DR [Young lady, Dear]^
+MNI |S1000 PSE [Many, Please]^
+CFM |S1000 HR [Confirm, Hear]^
+PLS |S1000 CFM [Please, Confirm]^
+PLS |S1000 DR [Please, Dear]^
+YL |S1000 PSE [Young lady, Please]^
+PLS |S1000 MNI [Please, Many]^
+CFM |S1000 YL [Confirm, Young lady]^
+PLS |S1000 HR [Please, Hear]^
+YL |S1000 CFM [Young lady, Confirm]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+YL |S1000 PLS [Young lady, Please]^
+MNI |S1000 PLS [Many, Please]^
+OP |S1000 PLS [Operator, Please]^
+YL |S1000 PSE [Young lady, Please]^
+HW\? |S1000 HR [How copy\?, Hear]^
+YL |S1000 PSE [Young lady, Please]^
+DR |S1000 YL [Dear, Young lady]^
+CFM |S1000 YL [Confirm, Young lady]^
+PLS |S1000 HW\? [Please, How copy\?]^
+YL |S1000 OP [Young lady, Operator]^
+MNI |S1000 PSE [Many, Please]^
+PLS |S1000 YL [Please, Young lady]^
+PLS |S1000 CFM [Please, Confirm]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+DR |S1000 CFM [Dear, Confirm]^
+DR |S1000 YL [Dear, Young lady]^
+CFM |S1000 OP [Confirm, Operator]^
+PSE |S1000 YL [Please, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+PLS |S1000 MNI [Please, Many]^
+DR |S1000 YL [Dear, Young lady]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+PSE |S1000 YL [Please, Young lady]^
+HW\? |S1000 DR [How copy\?, Dear]^
+YL |S1000 CFM [Young lady, Confirm]^
+PSE |S1000 DR [Please, Dear]^
+HW\? |S1000 HR [How copy\?, Hear]^
+PLS |S1000 CFM [Please, Confirm]^
+YL |S1000 PSE [Young lady, Please]^
+YL |S1000 HR [Young lady, Hear]^
+CFM |S1000 YL [Confirm, Young lady]^
+HR |S1000 YL [Hear, Young lady]^
+DR |S1000 PSE [Dear, Please]^
+PLS |S1000 YL [Please, Young lady]^
+OP |S1000 DR [Operator, Dear]^
+YL |S1000 CFM [Young lady, Confirm]^
+YL |S1000 OP [Young lady, Operator]^
+DR |S1000 YL [Dear, Young lady]^
+PLS |S1000 HW\? [Please, How copy\?]^
+PLS |S1000 HR [Please, Hear]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 HR [Young lady, Hear]^
+YL |S1000 MNI [Young lady, Many]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 CFM [Young lady, Confirm]^
+MNI |S1000 YL [Many, Young lady]^
+DR |S1000 YL [Dear, Young lady]^
+CFM |S1000 DR [Confirm, Dear]^
+CFM |S1000 MNI [Confirm, Many]^
+YL |S1000 DR [Young lady, Dear]^
+YL |S1000 PLS [Young lady, Please]^
+HW\? |S1000 HR [How copy\?, Hear]^
+YL |S1000 MNI [Young lady, Many]^
+PSE |S1000 YL [Please, Young lady]^
+MNI |S1000 PLS [Many, Please]^

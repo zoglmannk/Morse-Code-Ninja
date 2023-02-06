@@ -1,0 +1,600 @@
+HV |S1000 FB [Have, Fine business]^
+BEAM |S1000 HV [Beam, Have]^
+BEAM |S1000 ANT [Beam, Antenna]^
+HV |S1000 ANT [Have, Antenna]^
+QRL |S1000 FB [Busy, Fine business]^
+OM |S1000 HW [Old man, How]^
+HV |S1000 SIG [Have, Signal]^
+DIPOLE |S1000 HV [Dipole, Have]^
+SRI |S1000 DX [Sorry, D X]^
+SRI |S1000 RIG [Sorry, Rig]^
+CPY |S1000 HW [Copy, How]^
+BEAM |S1000 HV [Beam, Have]^
+DX |S1000 BEAM [D X, Beam]^
+HV |S1000 PWR [Have, Power]^
+BEAM |S1000 HV [Beam, Have]^
+TNX |S1000 HV [Thanks, Have]^
+SRI |S1000 OM [Sorry, Old man]^
+QRN |S1000 CPY [Noise, Copy]^
+HV |S1000 RIG [Have, Rig]^
+HV |S1000 SIG [Have, Signal]^
+TEMP |S1000 SIG [Temperature, Signal]^
+HV |S1000 SIG [Have, Signal]^
+HV |S1000 BTU [Have, Back to you]^
+HW |S1000 QRN [How, Noise]^
+CPI |S1000 XYL [Copy, Wife]^
+DX |S1000 TEMP [D X, Temperature]^
+XYL |S1000 HV [Wife, Have]^
+XYL |S1000 HV [Wife, Have]^
+BEAM |S1000 FB [Beam, Fine business]^
+BEAM |S1000 XYL [Beam, Wife]^
+CPI |S1000 RIG [Copy, Rig]^
+CPI |S1000 HV [Copy, Have]^
+SRI |S1000 BEAM [Sorry, Beam]^
+XYL |S1000 PWR [Wife, Power]^
+FB |S1000 XYL [Fine business, Wife]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+HV |S1000 PWR [Have, Power]^
+HV |S1000 SIG [Have, Signal]^
+FB |S1000 HV [Fine business, Have]^
+XYL |S1000 HV [Wife, Have]^
+CPI |S1000 BTU [Copy, Back to you]^
+HV |S1000 BTU [Have, Back to you]^
+HPE |S1000 OM [Hope, Old man]^
+BTU |S1000 CPY [Back to you, Copy]^
+PWR |S1000 BTU [Power, Back to you]^
+HV |S1000 ANT [Have, Antenna]^
+CUL |S1000 HV [See you later, Have]^
+PWR |S1000 HV [Power, Have]^
+RIG |S1000 QRL [Rig, Busy]^
+DIPOLE |S1000 HV [Dipole, Have]^
+CPY |S1000 HW [Copy, How]^
+HV |S1000 DIPOLE [Have, Dipole]^
+HV |S1000 OM [Have, Old man]^
+HW |S1000 ANT [How, Antenna]^
+HV |S1000 BTU [Have, Back to you]^
+ANT |S1000 HV [Antenna, Have]^
+DX |S1000 HV [D X, Have]^
+BTU |S1000 TNX [Back to you, Thanks]^
+CPI |S1000 DX [Copy, D X]^
+QRN |S1000 FB [Noise, Fine business]^
+HV |S1000 HPE [Have, Hope]^
+CUL |S1000 FB [See you later, Fine business]^
+TNX |S1000 HV [Thanks, Have]^
+PWR |S1000 TEMP [Power, Temperature]^
+FB |S1000 HV [Fine business, Have]^
+HW |S1000 CPI [How, Copy]^
+HV |S1000 PWR [Have, Power]^
+HV |S1000 QRN [Have, Noise]^
+TNX |S1000 HV [Thanks, Have]^
+BEAM |S1000 CPI [Beam, Copy]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+QRN |S1000 DX [Noise, D X]^
+HV |S1000 SIG [Have, Signal]^
+BEAM |S1000 HPE [Beam, Hope]^
+HV |S1000 CPI [Have, Copy]^
+HV |S1000 HPE [Have, Hope]^
+HV |S1000 CPI [Have, Copy]^
+CUL |S1000 HV [See you later, Have]^
+PWR |S1000 BEAM [Power, Beam]^
+HW |S1000 CPI [How, Copy]^
+CUL |S1000 TEMP [See you later, Temperature]^
+ANT |S1000 CUL [Antenna, See you later]^
+BEAM |S1000 OM [Beam, Old man]^
+TNX |S1000 HV [Thanks, Have]^
+XYL |S1000 HV [Wife, Have]^
+XYL |S1000 HV [Wife, Have]^
+PWR |S1000 HV [Power, Have]^
+QRL |S1000 ANT [Busy, Antenna]^
+HV |S1000 FB [Have, Fine business]^
+HV |S1000 QSB [Have, Fading]^
+SRI |S1000 XYL [Sorry, Wife]^
+CPI |S1000 HV [Copy, Have]^
+OM |S1000 HV [Old man, Have]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+HPE |S1000 HV [Hope, Have]^
+HPE |S1000 RIG [Hope, Rig]^
+SIG |S1000 OM [Signal, Old man]^
+HV |S1000 CPY [Have, Copy]^
+HV |S1000 SIG [Have, Signal]^
+CPY |S1000 HW [Copy, How]^
+TNX |S1000 HV [Thanks, Have]^
+HPE |S1000 QRL [Hope, Busy]^
+HV |S1000 TNX [Have, Thanks]^
+HV |S1000 BTU [Have, Back to you]^
+HV |S1000 CPY [Have, Copy]^
+HV |S1000 OM [Have, Old man]^
+ANT |S1000 HPE [Antenna, Hope]^
+XYL |S1000 BTU [Wife, Back to you]^
+CUL |S1000 RIG [See you later, Rig]^
+HV |S1000 RIG [Have, Rig]^
+HV |S1000 SRI [Have, Sorry]^
+SIG |S1000 RIG [Signal, Rig]^
+QRN |S1000 HV [Noise, Have]^
+OM |S1000 XYL [Old man, Wife]^
+SRI |S1000 GL [Sorry, Good luck]^
+HV |S1000 FB [Have, Fine business]^
+HV |S1000 BTU [Have, Back to you]^
+HV |S1000 BTU [Have, Back to you]^
+HV |S1000 CPI [Have, Copy]^
+HV |S1000 BEAM [Have, Beam]^
+QRN |S1000 HV [Noise, Have]^
+QRN |S1000 ANT [Noise, Antenna]^
+HV |S1000 TEMP [Have, Temperature]^
+HV |S1000 SIG [Have, Signal]^
+HV |S1000 QRN [Have, Noise]^
+HV |S1000 CPI [Have, Copy]^
+RIG |S1000 OM [Rig, Old man]^
+HPE |S1000 RIG [Hope, Rig]^
+HV |S1000 HPE [Have, Hope]^
+HV |S1000 PWR [Have, Power]^
+QSB |S1000 HV [Fading, Have]^
+OM |S1000 HV [Old man, Have]^
+QRL |S1000 FB [Busy, Fine business]^
+BTU |S1000 SRI [Back to you, Sorry]^
+RIG |S1000 HV [Rig, Have]^
+SRI |S1000 HV [Sorry, Have]^
+FB |S1000 QSB [Fine business, Fading]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+CUL |S1000 TEMP [See you later, Temperature]^
+DIPOLE |S1000 HV [Dipole, Have]^
+QRN |S1000 HV [Noise, Have]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+QSB |S1000 GL [Fading, Good luck]^
+HV |S1000 FB [Have, Fine business]^
+QRL |S1000 QRN [Busy, Noise]^
+HV |S1000 DX [Have, D X]^
+FB |S1000 RIG [Fine business, Rig]^
+BEAM |S1000 HV [Beam, Have]^
+QSB |S1000 ANT [Fading, Antenna]^
+HV |S1000 ANT [Have, Antenna]^
+RIG |S1000 GL [Rig, Good luck]^
+PWR |S1000 HV [Power, Have]^
+ANT |S1000 HV [Antenna, Have]^
+HPE |S1000 QRN [Hope, Noise]^
+TEMP |S1000 XYL [Temperature, Wife]^
+HV |S1000 HW [Have, How]^
+HV |S1000 CPY [Have, Copy]^
+QRN |S1000 XYL [Noise, Wife]^
+HV |S1000 CPY [Have, Copy]^
+HPE |S1000 RIG [Hope, Rig]^
+BEAM |S1000 HV [Beam, Have]^
+HW |S1000 SIG [How, Signal]^
+HV |S1000 CUL [Have, See you later]^
+HW |S1000 HV [How, Have]^
+SIG |S1000 OM [Signal, Old man]^
+SRI |S1000 HV [Sorry, Have]^
+SIG |S1000 BTU [Signal, Back to you]^
+HV |S1000 XYL [Have, Wife]^
+TEMP |S1000 DX [Temperature, D X]^
+HV |S1000 HW [Have, How]^
+RIG |S1000 HV [Rig, Have]^
+SIG |S1000 HV [Signal, Have]^
+ANT |S1000 HV [Antenna, Have]^
+TNX |S1000 HV [Thanks, Have]^
+TEMP |S1000 QRN [Temperature, Noise]^
+ANT |S1000 HV [Antenna, Have]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+HV |S1000 DIPOLE [Have, Dipole]^
+HV |S1000 ANT [Have, Antenna]^
+QSB |S1000 GL [Fading, Good luck]^
+HV |S1000 CPY [Have, Copy]^
+HV |S1000 FB [Have, Fine business]^
+HV |S1000 BTU [Have, Back to you]^
+GL |S1000 PWR [Good luck, Power]^
+HV |S1000 CUL [Have, See you later]^
+TNX |S1000 QRL [Thanks, Busy]^
+FB |S1000 HV [Fine business, Have]^
+CUL |S1000 GL [See you later, Good luck]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+HV |S1000 RIG [Have, Rig]^
+HV |S1000 BTU [Have, Back to you]^
+QSB |S1000 HV [Fading, Have]^
+PWR |S1000 QRL [Power, Busy]^
+CUL |S1000 DX [See you later, D X]^
+HV |S1000 CPY [Have, Copy]^
+ANT |S1000 XYL [Antenna, Wife]^
+RIG |S1000 QRL [Rig, Busy]^
+HV |S1000 BEAM [Have, Beam]^
+HV |S1000 OM [Have, Old man]^
+HW |S1000 HV [How, Have]^
+HPE |S1000 ANT [Hope, Antenna]^
+HV |S1000 HW [Have, How]^
+ANT |S1000 HV [Antenna, Have]^
+SIG |S1000 TNX [Signal, Thanks]^
+DIPOLE |S1000 HV [Dipole, Have]^
+QSB |S1000 FB [Fading, Fine business]^
+PWR |S1000 QSB [Power, Fading]^
+HV |S1000 TEMP [Have, Temperature]^
+CPI |S1000 HV [Copy, Have]^
+DX |S1000 HV [D X, Have]^
+HW |S1000 HPE [How, Hope]^
+HV |S1000 BTU [Have, Back to you]^
+HV |S1000 RIG [Have, Rig]^
+QRN |S1000 BTU [Noise, Back to you]^
+QRN |S1000 CPI [Noise, Copy]^
+SIG |S1000 HV [Signal, Have]^
+SIG |S1000 HV [Signal, Have]^
+BTU |S1000 SRI [Back to you, Sorry]^
+HV |S1000 TEMP [Have, Temperature]^
+HW |S1000 CUL [How, See you later]^
+OM |S1000 HV [Old man, Have]^
+BEAM |S1000 HV [Beam, Have]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+SIG |S1000 TEMP [Signal, Temperature]^
+BTU |S1000 HV [Back to you, Have]^
+SRI |S1000 HV [Sorry, Have]^
+CPI |S1000 PWR [Copy, Power]^
+HV |S1000 GL [Have, Good luck]^
+TNX |S1000 DX [Thanks, D X]^
+HV |S1000 GL [Have, Good luck]^
+CUL |S1000 HV [See you later, Have]^
+QRN |S1000 HV [Noise, Have]^
+SIG |S1000 TNX [Signal, Thanks]^
+HV |S1000 XYL [Have, Wife]^
+HV |S1000 BTU [Have, Back to you]^
+TNX |S1000 HV [Thanks, Have]^
+QRN |S1000 BTU [Noise, Back to you]^
+CUL |S1000 HV [See you later, Have]^
+OM |S1000 CPY [Old man, Copy]^
+HV |S1000 BTU [Have, Back to you]^
+TEMP |S1000 HV [Temperature, Have]^
+SIG |S1000 HV [Signal, Have]^
+HPE |S1000 CPY [Hope, Copy]^
+HV |S1000 FB [Have, Fine business]^
+OM |S1000 HPE [Old man, Hope]^
+HV |S1000 PWR [Have, Power]^
+HV |S1000 SRI [Have, Sorry]^
+OM |S1000 HV [Old man, Have]^
+TNX |S1000 CPI [Thanks, Copy]^
+DIPOLE |S1000 HV [Dipole, Have]^
+HW |S1000 HV [How, Have]^
+OM |S1000 XYL [Old man, Wife]^
+HV |S1000 TNX [Have, Thanks]^
+SIG |S1000 HV [Signal, Have]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+HV |S1000 QRL [Have, Busy]^
+OM |S1000 CPY [Old man, Copy]^
+BTU |S1000 HV [Back to you, Have]^
+SIG |S1000 HV [Signal, Have]^
+BTU |S1000 TNX [Back to you, Thanks]^
+HV |S1000 SIG [Have, Signal]^
+QRN |S1000 CPY [Noise, Copy]^
+SIG |S1000 HV [Signal, Have]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+HV |S1000 BEAM [Have, Beam]^
+HV |S1000 QRN [Have, Noise]^
+HV |S1000 DX [Have, D X]^
+QSB |S1000 HV [Fading, Have]^
+HW |S1000 BTU [How, Back to you]^
+HV |S1000 TEMP [Have, Temperature]^
+HV |S1000 HW [Have, How]^
+FB |S1000 SRI [Fine business, Sorry]^
+HV |S1000 HPE [Have, Hope]^
+TNX |S1000 FB [Thanks, Fine business]^
+HV |S1000 DIPOLE [Have, Dipole]^
+TEMP |S1000 HV [Temperature, Have]^
+OM |S1000 FB [Old man, Fine business]^
+HV |S1000 QRN [Have, Noise]^
+QRL |S1000 BTU [Busy, Back to you]^
+GL |S1000 CUL [Good luck, See you later]^
+HV |S1000 CUL [Have, See you later]^
+HV |S1000 BEAM [Have, Beam]^
+HV |S1000 FB [Have, Fine business]^
+BEAM |S1000 GL [Beam, Good luck]^
+HV |S1000 ANT [Have, Antenna]^
+QRL |S1000 TEMP [Busy, Temperature]^
+FB |S1000 HV [Fine business, Have]^
+PWR |S1000 QRN [Power, Noise]^
+PWR |S1000 QSB [Power, Fading]^
+BEAM |S1000 HV [Beam, Have]^
+RIG |S1000 SRI [Rig, Sorry]^
+FB |S1000 SIG [Fine business, Signal]^
+HV |S1000 CPY [Have, Copy]^
+HV |S1000 BEAM [Have, Beam]^
+DX |S1000 PWR [D X, Power]^
+HV |S1000 QRN [Have, Noise]^
+QSB |S1000 TEMP [Fading, Temperature]^
+FB |S1000 CUL [Fine business, See you later]^
+XYL |S1000 SRI [Wife, Sorry]^
+HV |S1000 ANT [Have, Antenna]^
+HV |S1000 CPI [Have, Copy]^
+HV |S1000 CUL [Have, See you later]^
+HW |S1000 ANT [How, Antenna]^
+PWR |S1000 HV [Power, Have]^
+CPY |S1000 HV [Copy, Have]^
+SRI |S1000 HV [Sorry, Have]^
+HW |S1000 BTU [How, Back to you]^
+HW |S1000 PWR [How, Power]^
+HV |S1000 TEMP [Have, Temperature]^
+HV |S1000 QRL [Have, Busy]^
+HV |S1000 HW [Have, How]^
+HV |S1000 QRL [Have, Busy]^
+DX |S1000 HPE [D X, Hope]^
+HV |S1000 OM [Have, Old man]^
+HV |S1000 ANT [Have, Antenna]^
+HV |S1000 HPE [Have, Hope]^
+HV |S1000 OM [Have, Old man]^
+HV |S1000 XYL [Have, Wife]^
+QSB |S1000 HV [Fading, Have]^
+XYL |S1000 HV [Wife, Have]^
+RIG |S1000 HV [Rig, Have]^
+CUL |S1000 TNX [See you later, Thanks]^
+HV |S1000 QSB [Have, Fading]^
+HV |S1000 TEMP [Have, Temperature]^
+HV |S1000 CUL [Have, See you later]^
+QRL |S1000 HV [Busy, Have]^
+PWR |S1000 TNX [Power, Thanks]^
+HV |S1000 GL [Have, Good luck]^
+DX |S1000 PWR [D X, Power]^
+SIG |S1000 TEMP [Signal, Temperature]^
+OM |S1000 CPY [Old man, Copy]^
+HV |S1000 PWR [Have, Power]^
+SIG |S1000 HV [Signal, Have]^
+QRL |S1000 HV [Busy, Have]^
+QSB |S1000 HV [Fading, Have]^
+CPI |S1000 HV [Copy, Have]^
+SIG |S1000 HV [Signal, Have]^
+CUL |S1000 DX [See you later, D X]^
+TNX |S1000 BEAM [Thanks, Beam]^
+XYL |S1000 HPE [Wife, Hope]^
+HV |S1000 FB [Have, Fine business]^
+HV |S1000 QSB [Have, Fading]^
+ANT |S1000 HV [Antenna, Have]^
+QRN |S1000 TEMP [Noise, Temperature]^
+HV |S1000 TNX [Have, Thanks]^
+XYL |S1000 OM [Wife, Old man]^
+HV |S1000 TEMP [Have, Temperature]^
+HV |S1000 CUL [Have, See you later]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DX |S1000 SIG [D X, Signal]^
+OM |S1000 HV [Old man, Have]^
+SRI |S1000 HV [Sorry, Have]^
+HPE |S1000 OM [Hope, Old man]^
+SRI |S1000 SIG [Sorry, Signal]^
+QSB |S1000 DX [Fading, D X]^
+HV |S1000 OM [Have, Old man]^
+DIPOLE |S1000 HV [Dipole, Have]^
+PWR |S1000 QRL [Power, Busy]^
+HV |S1000 DIPOLE [Have, Dipole]^
+HV |S1000 BTU [Have, Back to you]^
+HV |S1000 TEMP [Have, Temperature]^
+QRN |S1000 HV [Noise, Have]^
+BEAM |S1000 HV [Beam, Have]^
+BTU |S1000 HV [Back to you, Have]^
+SIG |S1000 ANT [Signal, Antenna]^
+HV |S1000 QRL [Have, Busy]^
+HV |S1000 GL [Have, Good luck]^
+HV |S1000 ANT [Have, Antenna]^
+HV |S1000 BEAM [Have, Beam]^
+HPE |S1000 HV [Hope, Have]^
+GL |S1000 HV [Good luck, Have]^
+SRI |S1000 HV [Sorry, Have]^
+RIG |S1000 BTU [Rig, Back to you]^
+CPY |S1000 CPI [Copy, Copy]^
+CPY |S1000 GL [Copy, Good luck]^
+SIG |S1000 BEAM [Signal, Beam]^
+PWR |S1000 GL [Power, Good luck]^
+HW |S1000 HV [How, Have]^
+TNX |S1000 FB [Thanks, Fine business]^
+QRL |S1000 OM [Busy, Old man]^
+SRI |S1000 ANT [Sorry, Antenna]^
+TEMP |S1000 PWR [Temperature, Power]^
+HV |S1000 FB [Have, Fine business]^
+HV |S1000 ANT [Have, Antenna]^
+CPI |S1000 HPE [Copy, Hope]^
+HV |S1000 QRN [Have, Noise]^
+HV |S1000 GL [Have, Good luck]^
+TEMP |S1000 HV [Temperature, Have]^
+SIG |S1000 HV [Signal, Have]^
+HW |S1000 TEMP [How, Temperature]^
+XYL |S1000 BTU [Wife, Back to you]^
+HW |S1000 HV [How, Have]^
+QRN |S1000 GL [Noise, Good luck]^
+HV |S1000 DX [Have, D X]^
+HV |S1000 DIPOLE [Have, Dipole]^
+HV |S1000 HW [Have, How]^
+HV |S1000 DX [Have, D X]^
+HW |S1000 HV [How, Have]^
+XYL |S1000 QSB [Wife, Fading]^
+HV |S1000 QSB [Have, Fading]^
+HW |S1000 XYL [How, Wife]^
+HV |S1000 SRI [Have, Sorry]^
+HV |S1000 BTU [Have, Back to you]^
+ANT |S1000 BTU [Antenna, Back to you]^
+HV |S1000 TEMP [Have, Temperature]^
+PWR |S1000 SRI [Power, Sorry]^
+CUL |S1000 HV [See you later, Have]^
+FB |S1000 HV [Fine business, Have]^
+BTU |S1000 PWR [Back to you, Power]^
+DX |S1000 GL [D X, Good luck]^
+QRN |S1000 HPE [Noise, Hope]^
+CUL |S1000 HPE [See you later, Hope]^
+QSB |S1000 DX [Fading, D X]^
+QRL |S1000 QSB [Busy, Fading]^
+CPY |S1000 XYL [Copy, Wife]^
+SIG |S1000 SRI [Signal, Sorry]^
+HPE |S1000 DX [Hope, D X]^
+HV |S1000 SIG [Have, Signal]^
+HW |S1000 OM [How, Old man]^
+PWR |S1000 CPI [Power, Copy]^
+HV |S1000 RIG [Have, Rig]^
+HV |S1000 CPY [Have, Copy]^
+QRN |S1000 PWR [Noise, Power]^
+HV |S1000 TEMP [Have, Temperature]^
+HV |S1000 SRI [Have, Sorry]^
+TEMP |S1000 QSB [Temperature, Fading]^
+RIG |S1000 HV [Rig, Have]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+HV |S1000 QSB [Have, Fading]^
+TEMP |S1000 HV [Temperature, Have]^
+HPE |S1000 XYL [Hope, Wife]^
+BEAM |S1000 QSB [Beam, Fading]^
+HV |S1000 ANT [Have, Antenna]^
+HV |S1000 QRL [Have, Busy]^
+HV |S1000 TEMP [Have, Temperature]^
+GL |S1000 HV [Good luck, Have]^
+QSB |S1000 QRL [Fading, Busy]^
+HV |S1000 TEMP [Have, Temperature]^
+QRL |S1000 DX [Busy, D X]^
+HV |S1000 DIPOLE [Have, Dipole]^
+RIG |S1000 HV [Rig, Have]^
+HW |S1000 HV [How, Have]^
+OM |S1000 ANT [Old man, Antenna]^
+QSB |S1000 HV [Fading, Have]^
+SIG |S1000 QRN [Signal, Noise]^
+HV |S1000 RIG [Have, Rig]^
+CPI |S1000 SIG [Copy, Signal]^
+HV |S1000 BTU [Have, Back to you]^
+DIPOLE |S1000 HV [Dipole, Have]^
+HPE |S1000 CPI [Hope, Copy]^
+HV |S1000 CPI [Have, Copy]^
+FB |S1000 HV [Fine business, Have]^
+XYL |S1000 HV [Wife, Have]^
+QSB |S1000 QRL [Fading, Busy]^
+HV |S1000 XYL [Have, Wife]^
+HV |S1000 XYL [Have, Wife]^
+BTU |S1000 SIG [Back to you, Signal]^
+TEMP |S1000 HV [Temperature, Have]^
+QSB |S1000 HV [Fading, Have]^
+XYL |S1000 HV [Wife, Have]^
+HW |S1000 ANT [How, Antenna]^
+BEAM |S1000 HV [Beam, Have]^
+TNX |S1000 CPI [Thanks, Copy]^
+OM |S1000 HV [Old man, Have]^
+XYL |S1000 PWR [Wife, Power]^
+OM |S1000 HPE [Old man, Hope]^
+HV |S1000 CPY [Have, Copy]^
+HV |S1000 CPI [Have, Copy]^
+RIG |S1000 TEMP [Rig, Temperature]^
+HV |S1000 TEMP [Have, Temperature]^
+HV |S1000 SRI [Have, Sorry]^
+DX |S1000 PWR [D X, Power]^
+HV |S1000 BEAM [Have, Beam]^
+HV |S1000 DX [Have, D X]^
+OM |S1000 HW [Old man, How]^
+SIG |S1000 HV [Signal, Have]^
+ANT |S1000 HV [Antenna, Have]^
+ANT |S1000 OM [Antenna, Old man]^
+HV |S1000 TEMP [Have, Temperature]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+TEMP |S1000 QSB [Temperature, Fading]^
+TEMP |S1000 HV [Temperature, Have]^
+QRN |S1000 HV [Noise, Have]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+HW |S1000 GL [How, Good luck]^
+HV |S1000 TEMP [Have, Temperature]^
+DX |S1000 HW [D X, How]^
+TEMP |S1000 TNX [Temperature, Thanks]^
+BTU |S1000 OM [Back to you, Old man]^
+CUL |S1000 SRI [See you later, Sorry]^
+FB |S1000 HW [Fine business, How]^
+BEAM |S1000 HW [Beam, How]^
+HV |S1000 CUL [Have, See you later]^
+QSB |S1000 HV [Fading, Have]^
+FB |S1000 CPY [Fine business, Copy]^
+CUL |S1000 HV [See you later, Have]^
+ANT |S1000 BTU [Antenna, Back to you]^
+QRN |S1000 TEMP [Noise, Temperature]^
+CPY |S1000 SIG [Copy, Signal]^
+HV |S1000 TEMP [Have, Temperature]^
+RIG |S1000 PWR [Rig, Power]^
+QSB |S1000 GL [Fading, Good luck]^
+RIG |S1000 HV [Rig, Have]^
+BTU |S1000 ANT [Back to you, Antenna]^
+OM |S1000 HV [Old man, Have]^
+SIG |S1000 SRI [Signal, Sorry]^
+TEMP |S1000 HPE [Temperature, Hope]^
+HV |S1000 XYL [Have, Wife]^
+CPY |S1000 HV [Copy, Have]^
+XYL |S1000 CUL [Wife, See you later]^
+ANT |S1000 GL [Antenna, Good luck]^
+HV |S1000 SRI [Have, Sorry]^
+HV |S1000 TEMP [Have, Temperature]^
+HV |S1000 TEMP [Have, Temperature]^
+CPY |S1000 FB [Copy, Fine business]^
+XYL |S1000 TEMP [Wife, Temperature]^
+HV |S1000 CPI [Have, Copy]^
+HV |S1000 HPE [Have, Hope]^
+HV |S1000 SRI [Have, Sorry]^
+RIG |S1000 TEMP [Rig, Temperature]^
+HW |S1000 OM [How, Old man]^
+HV |S1000 BEAM [Have, Beam]^
+HV |S1000 HPE [Have, Hope]^
+HW |S1000 HV [How, Have]^
+DIPOLE |S1000 HV [Dipole, Have]^
+TEMP |S1000 HV [Temperature, Have]^
+OM |S1000 BEAM [Old man, Beam]^
+HV |S1000 CPI [Have, Copy]^
+BEAM |S1000 QRN [Beam, Noise]^
+HV |S1000 OM [Have, Old man]^
+HV |S1000 SRI [Have, Sorry]^
+HV |S1000 SRI [Have, Sorry]^
+HV |S1000 CPY [Have, Copy]^
+QSB |S1000 HV [Fading, Have]^
+CUL |S1000 QRL [See you later, Busy]^
+HV |S1000 RIG [Have, Rig]^
+HV |S1000 QRN [Have, Noise]^
+GL |S1000 ANT [Good luck, Antenna]^
+HV |S1000 CPY [Have, Copy]^
+DIPOLE |S1000 QRL [Dipole, Busy]^
+OM |S1000 RIG [Old man, Rig]^
+HV |S1000 DX [Have, D X]^
+SRI |S1000 BTU [Sorry, Back to you]^
+HV |S1000 DIPOLE [Have, Dipole]^
+OM |S1000 GL [Old man, Good luck]^
+SRI |S1000 OM [Sorry, Old man]^
+QSB |S1000 TEMP [Fading, Temperature]^
+ANT |S1000 HV [Antenna, Have]^
+GL |S1000 HV [Good luck, Have]^
+OM |S1000 CPY [Old man, Copy]^
+DX |S1000 HV [D X, Have]^
+GL |S1000 SRI [Good luck, Sorry]^
+DX |S1000 QRN [D X, Noise]^
+RIG |S1000 HV [Rig, Have]^
+CPY |S1000 PWR [Copy, Power]^
+HV |S1000 XYL [Have, Wife]^
+HV |S1000 SRI [Have, Sorry]^
+FB |S1000 HV [Fine business, Have]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+OM |S1000 BEAM [Old man, Beam]^
+QSB |S1000 HV [Fading, Have]^
+GL |S1000 FB [Good luck, Fine business]^
+ANT |S1000 SIG [Antenna, Signal]^
+QSB |S1000 HV [Fading, Have]^
+XYL |S1000 GL [Wife, Good luck]^
+HV |S1000 OM [Have, Old man]^
+HV |S1000 OM [Have, Old man]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+BTU |S1000 TEMP [Back to you, Temperature]^
+HW |S1000 RIG [How, Rig]^
+TNX |S1000 HV [Thanks, Have]^
+CPY |S1000 HV [Copy, Have]^
+BEAM |S1000 CPI [Beam, Copy]^
+HV |S1000 DX [Have, D X]^
+HV |S1000 FB [Have, Fine business]^
+GL |S1000 CUL [Good luck, See you later]^
+SIG |S1000 QRL [Signal, Busy]^
+HV |S1000 DX [Have, D X]^
+QSB |S1000 DIPOLE [Fading, Dipole]^
+GL |S1000 HV [Good luck, Have]^
+FB |S1000 OM [Fine business, Old man]^
+HV |S1000 CUL [Have, See you later]^
+HV |S1000 BEAM [Have, Beam]^
+CPY |S1000 GL [Copy, Good luck]^
+CUL |S1000 HV [See you later, Have]^
+CPY |S1000 CPI [Copy, Copy]^
+DX |S1000 BTU [D X, Back to you]^
+DX |S1000 HV [D X, Have]^
+HPE |S1000 CPY [Hope, Copy]^
+FB |S1000 OM [Fine business, Old man]^
+TNX |S1000 HV [Thanks, Have]^
+ANT |S1000 FB [Antenna, Fine business]^
+HV |S1000 FB [Have, Fine business]^
+HW |S1000 QRN [How, Noise]^
+ANT |S1000 QSB [Antenna, Fading]^
+QRL |S1000 TEMP [Busy, Temperature]^
+HV |S1000 TEMP [Have, Temperature]^
+HV |S1000 PWR [Have, Power]^
+FB |S1000 GL [Fine business, Good luck]^

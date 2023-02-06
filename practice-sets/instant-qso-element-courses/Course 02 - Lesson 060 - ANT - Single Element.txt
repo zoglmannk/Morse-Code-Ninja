@@ -1,0 +1,600 @@
+DIPOLE [Dipole]^
+ANT [Antenna]^
+HW [How]^
+SIG [Signal]^
+QSB [Fading]^
+BTU [Back to you]^
+CUL [See you later]^
+ANT [Antenna]^
+CPY [Copy]^
+ANT [Antenna]^
+CUL [See you later]^
+ANT [Antenna]^
+CPI [Copy]^
+ANT [Antenna]^
+SRI [Sorry]^
+CUL [See you later]^
+BTU [Back to you]^
+QSB [Fading]^
+ANT [Antenna]^
+QRL [Busy]^
+QSB [Fading]^
+ANT [Antenna]^
+HW [How]^
+BTU [Back to you]^
+ANT [Antenna]^
+HPE [Hope]^
+SIG [Signal]^
+BEAM [Beam]^
+ANT [Antenna]^
+CPY [Copy]^
+BEAM [Beam]^
+HW [How]^
+ANT [Antenna]^
+QSB [Fading]^
+ANT [Antenna]^
+CUL [See you later]^
+QSB [Fading]^
+BEAM [Beam]^
+ANT [Antenna]^
+QSB [Fading]^
+ANT [Antenna]^
+QSB [Fading]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+CPI [Copy]^
+ANT [Antenna]^
+HPE [Hope]^
+CPY [Copy]^
+QRL [Busy]^
+ANT [Antenna]^
+BTU [Back to you]^
+ANT [Antenna]^
+SRI [Sorry]^
+ANT [Antenna]^
+BTU [Back to you]^
+ANT [Antenna]^
+BEAM [Beam]^
+FB [Fine business]^
+ANT [Antenna]^
+QSB [Fading]^
+HW [How]^
+FB [Fine business]^
+TNX [Thanks]^
+CPI [Copy]^
+ANT [Antenna]^
+SRI [Sorry]^
+CPI [Copy]^
+QRL [Busy]^
+SIG [Signal]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+HW [How]^
+ANT [Antenna]^
+HPE [Hope]^
+ANT [Antenna]^
+CPY [Copy]^
+QSB [Fading]^
+BTU [Back to you]^
+BEAM [Beam]^
+TNX [Thanks]^
+CPI [Copy]^
+ANT [Antenna]^
+DX [D X]^
+ANT [Antenna]^
+QRL [Busy]^
+ANT [Antenna]^
+DX [D X]^
+BEAM [Beam]^
+ANT [Antenna]^
+QSB [Fading]^
+HW [How]^
+ANT [Antenna]^
+QSB [Fading]^
+HW [How]^
+CUL [See you later]^
+BEAM [Beam]^
+CUL [See you later]^
+BTU [Back to you]^
+SRI [Sorry]^
+ANT [Antenna]^
+CPI [Copy]^
+ANT [Antenna]^
+BTU [Back to you]^
+ANT [Antenna]^
+QRL [Busy]^
+QSB [Fading]^
+ANT [Antenna]^
+FB [Fine business]^
+ANT [Antenna]^
+HW [How]^
+HPE [Hope]^
+ANT [Antenna]^
+SIG [Signal]^
+DX [D X]^
+ANT [Antenna]^
+CPY [Copy]^
+ANT [Antenna]^
+BTU [Back to you]^
+CPI [Copy]^
+ANT [Antenna]^
+DX [D X]^
+ANT [Antenna]^
+QRL [Busy]^
+CUL [See you later]^
+QSB [Fading]^
+HPE [Hope]^
+DIPOLE [Dipole]^
+DX [D X]^
+DIPOLE [Dipole]^
+HW [How]^
+BTU [Back to you]^
+ANT [Antenna]^
+SRI [Sorry]^
+ANT [Antenna]^
+DX [D X]^
+HPE [Hope]^
+HW [How]^
+ANT [Antenna]^
+QRL [Busy]^
+ANT [Antenna]^
+BTU [Back to you]^
+QRL [Busy]^
+HPE [Hope]^
+ANT [Antenna]^
+BTU [Back to you]^
+ANT [Antenna]^
+BTU [Back to you]^
+TNX [Thanks]^
+HW [How]^
+HPE [Hope]^
+ANT [Antenna]^
+SIG [Signal]^
+ANT [Antenna]^
+SIG [Signal]^
+ANT [Antenna]^
+BEAM [Beam]^
+SIG [Signal]^
+ANT [Antenna]^
+HW [How]^
+ANT [Antenna]^
+BTU [Back to you]^
+CPI [Copy]^
+ANT [Antenna]^
+CPI [Copy]^
+ANT [Antenna]^
+BEAM [Beam]^
+SIG [Signal]^
+HPE [Hope]^
+QRL [Busy]^
+ANT [Antenna]^
+CPY [Copy]^
+ANT [Antenna]^
+HW [How]^
+ANT [Antenna]^
+HW [How]^
+CUL [See you later]^
+ANT [Antenna]^
+TNX [Thanks]^
+ANT [Antenna]^
+TNX [Thanks]^
+QSB [Fading]^
+SIG [Signal]^
+ANT [Antenna]^
+HW [How]^
+QRL [Busy]^
+ANT [Antenna]^
+FB [Fine business]^
+DX [D X]^
+ANT [Antenna]^
+TNX [Thanks]^
+QSB [Fading]^
+CPY [Copy]^
+ANT [Antenna]^
+QSB [Fading]^
+TNX [Thanks]^
+ANT [Antenna]^
+BEAM [Beam]^
+ANT [Antenna]^
+CPI [Copy]^
+CUL [See you later]^
+ANT [Antenna]^
+CPI [Copy]^
+QRL [Busy]^
+ANT [Antenna]^
+HPE [Hope]^
+CPY [Copy]^
+ANT [Antenna]^
+SIG [Signal]^
+ANT [Antenna]^
+QSB [Fading]^
+HW [How]^
+ANT [Antenna]^
+TNX [Thanks]^
+CPI [Copy]^
+SIG [Signal]^
+BEAM [Beam]^
+ANT [Antenna]^
+SIG [Signal]^
+ANT [Antenna]^
+QSB [Fading]^
+ANT [Antenna]^
+HPE [Hope]^
+HW [How]^
+HPE [Hope]^
+TNX [Thanks]^
+SRI [Sorry]^
+HW [How]^
+DX [D X]^
+TNX [Thanks]^
+QRL [Busy]^
+ANT [Antenna]^
+HPE [Hope]^
+ANT [Antenna]^
+BEAM [Beam]^
+BTU [Back to you]^
+DX [D X]^
+CUL [See you later]^
+HPE [Hope]^
+QRL [Busy]^
+BTU [Back to you]^
+QSB [Fading]^
+SRI [Sorry]^
+HW [How]^
+ANT [Antenna]^
+CUL [See you later]^
+HW [How]^
+ANT [Antenna]^
+FB [Fine business]^
+ANT [Antenna]^
+CUL [See you later]^
+ANT [Antenna]^
+CPY [Copy]^
+ANT [Antenna]^
+BEAM [Beam]^
+ANT [Antenna]^
+QSB [Fading]^
+FB [Fine business]^
+TNX [Thanks]^
+CUL [See you later]^
+ANT [Antenna]^
+FB [Fine business]^
+HPE [Hope]^
+QSB [Fading]^
+ANT [Antenna]^
+SRI [Sorry]^
+BTU [Back to you]^
+QRL [Busy]^
+QSB [Fading]^
+ANT [Antenna]^
+DX [D X]^
+ANT [Antenna]^
+CUL [See you later]^
+ANT [Antenna]^
+HPE [Hope]^
+CPY [Copy]^
+ANT [Antenna]^
+BEAM [Beam]^
+ANT [Antenna]^
+CUL [See you later]^
+CPY [Copy]^
+CUL [See you later]^
+ANT [Antenna]^
+FB [Fine business]^
+ANT [Antenna]^
+FB [Fine business]^
+ANT [Antenna]^
+QSB [Fading]^
+ANT [Antenna]^
+HW [How]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+SIG [Signal]^
+ANT [Antenna]^
+BTU [Back to you]^
+CPI [Copy]^
+BEAM [Beam]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+HW [How]^
+ANT [Antenna]^
+CPI [Copy]^
+BEAM [Beam]^
+ANT [Antenna]^
+HPE [Hope]^
+SRI [Sorry]^
+BTU [Back to you]^
+ANT [Antenna]^
+CUL [See you later]^
+ANT [Antenna]^
+SIG [Signal]^
+CPY [Copy]^
+ANT [Antenna]^
+HW [How]^
+CUL [See you later]^
+CPY [Copy]^
+ANT [Antenna]^
+FB [Fine business]^
+DX [D X]^
+SRI [Sorry]^
+HW [How]^
+ANT [Antenna]^
+CUL [See you later]^
+ANT [Antenna]^
+QRL [Busy]^
+CPY [Copy]^
+ANT [Antenna]^
+QSB [Fading]^
+CUL [See you later]^
+CPY [Copy]^
+SRI [Sorry]^
+CPY [Copy]^
+ANT [Antenna]^
+HW [How]^
+ANT [Antenna]^
+DX [D X]^
+FB [Fine business]^
+ANT [Antenna]^
+HW [How]^
+DX [D X]^
+SIG [Signal]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+SIG [Signal]^
+ANT [Antenna]^
+SRI [Sorry]^
+DX [D X]^
+BTU [Back to you]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+SIG [Signal]^
+ANT [Antenna]^
+BEAM [Beam]^
+ANT [Antenna]^
+BTU [Back to you]^
+DIPOLE [Dipole]^
+DX [D X]^
+CUL [See you later]^
+ANT [Antenna]^
+DX [D X]^
+CPY [Copy]^
+QSB [Fading]^
+BTU [Back to you]^
+QSB [Fading]^
+TNX [Thanks]^
+ANT [Antenna]^
+CUL [See you later]^
+DIPOLE [Dipole]^
+CUL [See you later]^
+BEAM [Beam]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+BTU [Back to you]^
+FB [Fine business]^
+ANT [Antenna]^
+CUL [See you later]^
+DX [D X]^
+HPE [Hope]^
+HW [How]^
+ANT [Antenna]^
+CPY [Copy]^
+FB [Fine business]^
+ANT [Antenna]^
+QRL [Busy]^
+ANT [Antenna]^
+QSB [Fading]^
+ANT [Antenna]^
+BEAM [Beam]^
+ANT [Antenna]^
+BTU [Back to you]^
+ANT [Antenna]^
+QSB [Fading]^
+QRL [Busy]^
+DX [D X]^
+ANT [Antenna]^
+HW [How]^
+BTU [Back to you]^
+HPE [Hope]^
+BEAM [Beam]^
+ANT [Antenna]^
+SRI [Sorry]^
+ANT [Antenna]^
+QRL [Busy]^
+HW [How]^
+SIG [Signal]^
+ANT [Antenna]^
+TNX [Thanks]^
+HPE [Hope]^
+HW [How]^
+ANT [Antenna]^
+SIG [Signal]^
+ANT [Antenna]^
+CPI [Copy]^
+ANT [Antenna]^
+DX [D X]^
+ANT [Antenna]^
+CPY [Copy]^
+ANT [Antenna]^
+FB [Fine business]^
+ANT [Antenna]^
+BTU [Back to you]^
+DIPOLE [Dipole]^
+BTU [Back to you]^
+QRL [Busy]^
+HPE [Hope]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+HW [How]^
+ANT [Antenna]^
+QRL [Busy]^
+TNX [Thanks]^
+CPY [Copy]^
+HPE [Hope]^
+ANT [Antenna]^
+DX [D X]^
+QRL [Busy]^
+ANT [Antenna]^
+CUL [See you later]^
+TNX [Thanks]^
+SIG [Signal]^
+ANT [Antenna]^
+CUL [See you later]^
+ANT [Antenna]^
+SRI [Sorry]^
+BTU [Back to you]^
+QSB [Fading]^
+SRI [Sorry]^
+ANT [Antenna]^
+QSB [Fading]^
+ANT [Antenna]^
+BTU [Back to you]^
+HW [How]^
+FB [Fine business]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+HW [How]^
+TNX [Thanks]^
+ANT [Antenna]^
+CUL [See you later]^
+ANT [Antenna]^
+FB [Fine business]^
+SRI [Sorry]^
+CPY [Copy]^
+HW [How]^
+ANT [Antenna]^
+SIG [Signal]^
+FB [Fine business]^
+ANT [Antenna]^
+TNX [Thanks]^
+BTU [Back to you]^
+ANT [Antenna]^
+SIG [Signal]^
+BTU [Back to you]^
+ANT [Antenna]^
+HPE [Hope]^
+ANT [Antenna]^
+DX [D X]^
+ANT [Antenna]^
+DX [D X]^
+ANT [Antenna]^
+HPE [Hope]^
+ANT [Antenna]^
+BEAM [Beam]^
+HPE [Hope]^
+QRL [Busy]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+CPY [Copy]^
+SIG [Signal]^
+ANT [Antenna]^
+CPY [Copy]^
+QRL [Busy]^
+CPY [Copy]^
+HPE [Hope]^
+ANT [Antenna]^
+HW [How]^
+ANT [Antenna]^
+DX [D X]^
+CPY [Copy]^
+TNX [Thanks]^
+ANT [Antenna]^
+FB [Fine business]^
+BTU [Back to you]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+HPE [Hope]^
+FB [Fine business]^
+ANT [Antenna]^
+QRL [Busy]^
+ANT [Antenna]^
+CPI [Copy]^
+HW [How]^
+ANT [Antenna]^
+TNX [Thanks]^
+ANT [Antenna]^
+QSB [Fading]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+DX [D X]^
+SRI [Sorry]^
+ANT [Antenna]^
+HPE [Hope]^
+BEAM [Beam]^
+ANT [Antenna]^
+TNX [Thanks]^
+BEAM [Beam]^
+ANT [Antenna]^
+HPE [Hope]^
+ANT [Antenna]^
+BTU [Back to you]^
+ANT [Antenna]^
+DIPOLE [Dipole]^
+CPY [Copy]^
+DIPOLE [Dipole]^
+SIG [Signal]^
+QRL [Busy]^
+DX [D X]^
+SIG [Signal]^
+CUL [See you later]^
+SRI [Sorry]^
+ANT [Antenna]^
+CPI [Copy]^
+ANT [Antenna]^
+CPY [Copy]^
+BTU [Back to you]^
+ANT [Antenna]^
+CUL [See you later]^
+SRI [Sorry]^
+DIPOLE [Dipole]^
+DX [D X]^
+ANT [Antenna]^
+BEAM [Beam]^
+QSB [Fading]^
+FB [Fine business]^
+BTU [Back to you]^
+CUL [See you later]^
+FB [Fine business]^
+HPE [Hope]^
+SIG [Signal]^
+ANT [Antenna]^
+BEAM [Beam]^
+QSB [Fading]^
+CPY [Copy]^
+QRL [Busy]^
+BTU [Back to you]^
+ANT [Antenna]^
+FB [Fine business]^
+SIG [Signal]^
+DIPOLE [Dipole]^
+FB [Fine business]^
+HW [How]^
+CPY [Copy]^
+BTU [Back to you]^
+CPI [Copy]^
+TNX [Thanks]^
+ANT [Antenna]^
+CPY [Copy]^
+QRL [Busy]^
+ANT [Antenna]^
+QSB [Fading]^
+ANT [Antenna]^
+CPY [Copy]^
+ANT [Antenna]^
+CPI [Copy]^
+DX [D X]^
+CPI [Copy]^
+DIPOLE [Dipole]^
+ANT [Antenna]^
+FB [Fine business]^
+BEAM [Beam]^
+BTU [Back to you]^
+ANT [Antenna]^

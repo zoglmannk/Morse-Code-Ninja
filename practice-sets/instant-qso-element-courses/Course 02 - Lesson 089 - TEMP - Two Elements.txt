@@ -1,0 +1,600 @@
+TEMP |S1000 DX [Temperature, D X]^
+QRL |S1000 QRN [Busy, Noise]^
+FB |S1000 TEMP [Fine business, Temperature]^
+GL |S1000 CPY [Good luck, Copy]^
+XYL |S1000 TEMP [Wife, Temperature]^
+CUL |S1000 TEMP [See you later, Temperature]^
+SIG |S1000 TEMP [Signal, Temperature]^
+CUL |S1000 TEMP [See you later, Temperature]^
+QRN |S1000 SIG [Noise, Signal]^
+TEMP |S1000 QSB [Temperature, Fading]^
+QRN |S1000 SIG [Noise, Signal]^
+FB |S1000 QRN [Fine business, Noise]^
+QRL |S1000 HPE [Busy, Hope]^
+CUL |S1000 QRN [See you later, Noise]^
+HW |S1000 DIPOLE [How, Dipole]^
+TEMP |S1000 QSB [Temperature, Fading]^
+TEMP |S1000 HW [Temperature, How]^
+GL |S1000 TEMP [Good luck, Temperature]^
+TNX |S1000 QSB [Thanks, Fading]^
+SIG |S1000 TEMP [Signal, Temperature]^
+QSB |S1000 TEMP [Fading, Temperature]^
+DX |S1000 HW [D X, How]^
+TEMP |S1000 GL [Temperature, Good luck]^
+CUL |S1000 TEMP [See you later, Temperature]^
+CUL |S1000 TNX [See you later, Thanks]^
+SIG |S1000 TEMP [Signal, Temperature]^
+BTU |S1000 QRL [Back to you, Busy]^
+TEMP |S1000 QRL [Temperature, Busy]^
+BEAM |S1000 TEMP [Beam, Temperature]^
+CPI |S1000 TEMP [Copy, Temperature]^
+GL |S1000 TEMP [Good luck, Temperature]^
+HPE |S1000 TEMP [Hope, Temperature]^
+CUL |S1000 CPY [See you later, Copy]^
+TEMP |S1000 TNX [Temperature, Thanks]^
+TEMP |S1000 OM [Temperature, Old man]^
+TEMP |S1000 CPY [Temperature, Copy]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+TEMP |S1000 OM [Temperature, Old man]^
+SRI |S1000 TEMP [Sorry, Temperature]^
+DIPOLE |S1000 DX [Dipole, D X]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+TNX |S1000 HPE [Thanks, Hope]^
+BEAM |S1000 TEMP [Beam, Temperature]^
+GL |S1000 BTU [Good luck, Back to you]^
+CUL |S1000 DIPOLE [See you later, Dipole]^
+HPE |S1000 TEMP [Hope, Temperature]^
+SRI |S1000 BEAM [Sorry, Beam]^
+TEMP |S1000 QSB [Temperature, Fading]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+HPE |S1000 TEMP [Hope, Temperature]^
+QRL |S1000 QSB [Busy, Fading]^
+TEMP |S1000 QRN [Temperature, Noise]^
+CPY |S1000 TEMP [Copy, Temperature]^
+CUL |S1000 TEMP [See you later, Temperature]^
+CPI |S1000 TEMP [Copy, Temperature]^
+RIG |S1000 TEMP [Rig, Temperature]^
+RIG |S1000 TEMP [Rig, Temperature]^
+HW |S1000 QRL [How, Busy]^
+TNX |S1000 GL [Thanks, Good luck]^
+OM |S1000 TEMP [Old man, Temperature]^
+SRI |S1000 OM [Sorry, Old man]^
+SRI |S1000 TEMP [Sorry, Temperature]^
+SRI |S1000 DX [Sorry, D X]^
+TEMP |S1000 GL [Temperature, Good luck]^
+TEMP |S1000 HW [Temperature, How]^
+QRN |S1000 XYL [Noise, Wife]^
+DIPOLE |S1000 TEMP [Dipole, Temperature]^
+RIG |S1000 BEAM [Rig, Beam]^
+QSB |S1000 TEMP [Fading, Temperature]^
+SRI |S1000 DX [Sorry, D X]^
+RIG |S1000 QSB [Rig, Fading]^
+TEMP |S1000 CPI [Temperature, Copy]^
+TEMP |S1000 DX [Temperature, D X]^
+TEMP |S1000 BEAM [Temperature, Beam]^
+DX |S1000 TEMP [D X, Temperature]^
+BTU |S1000 TEMP [Back to you, Temperature]^
+RIG |S1000 HW [Rig, How]^
+OM |S1000 TEMP [Old man, Temperature]^
+CPI |S1000 TEMP [Copy, Temperature]^
+SRI |S1000 TEMP [Sorry, Temperature]^
+SIG |S1000 TEMP [Signal, Temperature]^
+DX |S1000 BTU [D X, Back to you]^
+TEMP |S1000 DX [Temperature, D X]^
+CPI |S1000 TEMP [Copy, Temperature]^
+QSB |S1000 ANT [Fading, Antenna]^
+CPY |S1000 TEMP [Copy, Temperature]^
+XYL |S1000 TEMP [Wife, Temperature]^
+BTU |S1000 TEMP [Back to you, Temperature]^
+ANT |S1000 OM [Antenna, Old man]^
+TEMP |S1000 RIG [Temperature, Rig]^
+BEAM |S1000 TNX [Beam, Thanks]^
+SRI |S1000 SIG [Sorry, Signal]^
+HW |S1000 TEMP [How, Temperature]^
+CUL |S1000 ANT [See you later, Antenna]^
+TEMP |S1000 CPI [Temperature, Copy]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+TEMP |S1000 CPY [Temperature, Copy]^
+ANT |S1000 TEMP [Antenna, Temperature]^
+BEAM |S1000 QRL [Beam, Busy]^
+ANT |S1000 CPI [Antenna, Copy]^
+TEMP |S1000 HPE [Temperature, Hope]^
+TEMP |S1000 GL [Temperature, Good luck]^
+TEMP |S1000 CUL [Temperature, See you later]^
+ANT |S1000 QRL [Antenna, Busy]^
+CPI |S1000 TEMP [Copy, Temperature]^
+RIG |S1000 XYL [Rig, Wife]^
+BEAM |S1000 HPE [Beam, Hope]^
+TEMP |S1000 XYL [Temperature, Wife]^
+QRL |S1000 TEMP [Busy, Temperature]^
+QSB |S1000 TEMP [Fading, Temperature]^
+XYL |S1000 CPY [Wife, Copy]^
+GL |S1000 TNX [Good luck, Thanks]^
+XYL |S1000 QSB [Wife, Fading]^
+SRI |S1000 TEMP [Sorry, Temperature]^
+CPI |S1000 TEMP [Copy, Temperature]^
+QRN |S1000 CPY [Noise, Copy]^
+TEMP |S1000 PWR [Temperature, Power]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+CPI |S1000 TEMP [Copy, Temperature]^
+BEAM |S1000 TEMP [Beam, Temperature]^
+CPY |S1000 QRN [Copy, Noise]^
+BTU |S1000 TEMP [Back to you, Temperature]^
+CPI |S1000 TEMP [Copy, Temperature]^
+SIG |S1000 DX [Signal, D X]^
+ANT |S1000 QRN [Antenna, Noise]^
+CPY |S1000 TNX [Copy, Thanks]^
+ANT |S1000 TEMP [Antenna, Temperature]^
+BEAM |S1000 XYL [Beam, Wife]^
+TEMP |S1000 CUL [Temperature, See you later]^
+RIG |S1000 TEMP [Rig, Temperature]^
+XYL |S1000 TEMP [Wife, Temperature]^
+CUL |S1000 BEAM [See you later, Beam]^
+CUL |S1000 DIPOLE [See you later, Dipole]^
+TEMP |S1000 RIG [Temperature, Rig]^
+DIPOLE |S1000 TEMP [Dipole, Temperature]^
+OM |S1000 DX [Old man, D X]^
+DIPOLE |S1000 XYL [Dipole, Wife]^
+TEMP |S1000 CUL [Temperature, See you later]^
+TEMP |S1000 DIPOLE [Temperature, Dipole]^
+XYL |S1000 TEMP [Wife, Temperature]^
+OM |S1000 TEMP [Old man, Temperature]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+TEMP |S1000 DIPOLE [Temperature, Dipole]^
+TEMP |S1000 CPI [Temperature, Copy]^
+CPY |S1000 PWR [Copy, Power]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+PWR |S1000 CUL [Power, See you later]^
+OM |S1000 TEMP [Old man, Temperature]^
+OM |S1000 DX [Old man, D X]^
+QRN |S1000 PWR [Noise, Power]^
+BEAM |S1000 CPY [Beam, Copy]^
+HW |S1000 TEMP [How, Temperature]^
+FB |S1000 SRI [Fine business, Sorry]^
+SIG |S1000 BEAM [Signal, Beam]^
+TEMP |S1000 CPI [Temperature, Copy]^
+FB |S1000 TEMP [Fine business, Temperature]^
+DX |S1000 BTU [D X, Back to you]^
+TEMP |S1000 CPY [Temperature, Copy]^
+QRN |S1000 TNX [Noise, Thanks]^
+ANT |S1000 RIG [Antenna, Rig]^
+QSB |S1000 SRI [Fading, Sorry]^
+QRN |S1000 TEMP [Noise, Temperature]^
+PWR |S1000 TEMP [Power, Temperature]^
+BEAM |S1000 FB [Beam, Fine business]^
+TEMP |S1000 QSB [Temperature, Fading]^
+TEMP |S1000 GL [Temperature, Good luck]^
+DX |S1000 QRN [D X, Noise]^
+TEMP |S1000 QRN [Temperature, Noise]^
+TEMP |S1000 XYL [Temperature, Wife]^
+TEMP |S1000 CPI [Temperature, Copy]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+QRN |S1000 TEMP [Noise, Temperature]^
+CPY |S1000 SIG [Copy, Signal]^
+FB |S1000 TEMP [Fine business, Temperature]^
+HW |S1000 TEMP [How, Temperature]^
+RIG |S1000 TEMP [Rig, Temperature]^
+XYL |S1000 TEMP [Wife, Temperature]^
+HPE |S1000 TEMP [Hope, Temperature]^
+SRI |S1000 TEMP [Sorry, Temperature]^
+QRL |S1000 TNX [Busy, Thanks]^
+SRI |S1000 HPE [Sorry, Hope]^
+BTU |S1000 TEMP [Back to you, Temperature]^
+PWR |S1000 TEMP [Power, Temperature]^
+DX |S1000 GL [D X, Good luck]^
+FB |S1000 TEMP [Fine business, Temperature]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+QRN |S1000 XYL [Noise, Wife]^
+TEMP |S1000 CPI [Temperature, Copy]^
+TEMP |S1000 CPY [Temperature, Copy]^
+TEMP |S1000 CPI [Temperature, Copy]^
+BEAM |S1000 QRL [Beam, Busy]^
+TEMP |S1000 GL [Temperature, Good luck]^
+HPE |S1000 CUL [Hope, See you later]^
+TEMP |S1000 HPE [Temperature, Hope]^
+SRI |S1000 TEMP [Sorry, Temperature]^
+BTU |S1000 CPI [Back to you, Copy]^
+TEMP |S1000 QRL [Temperature, Busy]^
+TEMP |S1000 DIPOLE [Temperature, Dipole]^
+TEMP |S1000 TNX [Temperature, Thanks]^
+SIG |S1000 XYL [Signal, Wife]^
+TEMP |S1000 XYL [Temperature, Wife]^
+DX |S1000 HW [D X, How]^
+TEMP |S1000 XYL [Temperature, Wife]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+FB |S1000 DX [Fine business, D X]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+TEMP |S1000 HPE [Temperature, Hope]^
+SRI |S1000 TEMP [Sorry, Temperature]^
+CPI |S1000 QSB [Copy, Fading]^
+TEMP |S1000 CPI [Temperature, Copy]^
+QRL |S1000 BTU [Busy, Back to you]^
+TEMP |S1000 BEAM [Temperature, Beam]^
+TEMP |S1000 PWR [Temperature, Power]^
+FB |S1000 CPY [Fine business, Copy]^
+CUL |S1000 CPI [See you later, Copy]^
+ANT |S1000 HW [Antenna, How]^
+XYL |S1000 OM [Wife, Old man]^
+CUL |S1000 ANT [See you later, Antenna]^
+BTU |S1000 HPE [Back to you, Hope]^
+XYL |S1000 CUL [Wife, See you later]^
+SIG |S1000 TEMP [Signal, Temperature]^
+ANT |S1000 TEMP [Antenna, Temperature]^
+HPE |S1000 TEMP [Hope, Temperature]^
+CPY |S1000 TEMP [Copy, Temperature]^
+BTU |S1000 TEMP [Back to you, Temperature]^
+CPY |S1000 DX [Copy, D X]^
+CUL |S1000 TEMP [See you later, Temperature]^
+HW |S1000 TEMP [How, Temperature]^
+RIG |S1000 FB [Rig, Fine business]^
+OM |S1000 QSB [Old man, Fading]^
+TEMP |S1000 OM [Temperature, Old man]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+OM |S1000 TEMP [Old man, Temperature]^
+BTU |S1000 TNX [Back to you, Thanks]^
+BEAM |S1000 QSB [Beam, Fading]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+CPI |S1000 SRI [Copy, Sorry]^
+CPI |S1000 TEMP [Copy, Temperature]^
+QRL |S1000 TEMP [Busy, Temperature]^
+QRL |S1000 PWR [Busy, Power]^
+TEMP |S1000 SRI [Temperature, Sorry]^
+TEMP |S1000 XYL [Temperature, Wife]^
+FB |S1000 TNX [Fine business, Thanks]^
+PWR |S1000 QRN [Power, Noise]^
+CPY |S1000 TEMP [Copy, Temperature]^
+GL |S1000 FB [Good luck, Fine business]^
+TEMP |S1000 CPY [Temperature, Copy]^
+HW |S1000 CPI [How, Copy]^
+SRI |S1000 TEMP [Sorry, Temperature]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+PWR |S1000 TEMP [Power, Temperature]^
+QRN |S1000 TEMP [Noise, Temperature]^
+BEAM |S1000 CPY [Beam, Copy]^
+SIG |S1000 TEMP [Signal, Temperature]^
+OM |S1000 XYL [Old man, Wife]^
+TEMP |S1000 DIPOLE [Temperature, Dipole]^
+QSB |S1000 TEMP [Fading, Temperature]^
+DIPOLE |S1000 TEMP [Dipole, Temperature]^
+QRL |S1000 TEMP [Busy, Temperature]^
+QSB |S1000 TEMP [Fading, Temperature]^
+CPY |S1000 GL [Copy, Good luck]^
+TEMP |S1000 QSB [Temperature, Fading]^
+TEMP |S1000 QSB [Temperature, Fading]^
+TEMP |S1000 CUL [Temperature, See you later]^
+FB |S1000 QRL [Fine business, Busy]^
+TEMP |S1000 SRI [Temperature, Sorry]^
+TEMP |S1000 QSB [Temperature, Fading]^
+TEMP |S1000 QRL [Temperature, Busy]^
+TEMP |S1000 PWR [Temperature, Power]^
+TEMP |S1000 PWR [Temperature, Power]^
+DIPOLE |S1000 TEMP [Dipole, Temperature]^
+XYL |S1000 TEMP [Wife, Temperature]^
+QRL |S1000 FB [Busy, Fine business]^
+CPI |S1000 TEMP [Copy, Temperature]^
+PWR |S1000 ANT [Power, Antenna]^
+XYL |S1000 CUL [Wife, See you later]^
+TEMP |S1000 CPY [Temperature, Copy]^
+TEMP |S1000 DX [Temperature, D X]^
+TEMP |S1000 SRI [Temperature, Sorry]^
+HW |S1000 CPI [How, Copy]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+TNX |S1000 BTU [Thanks, Back to you]^
+OM |S1000 HPE [Old man, Hope]^
+TEMP |S1000 QRN [Temperature, Noise]^
+ANT |S1000 TEMP [Antenna, Temperature]^
+QRN |S1000 XYL [Noise, Wife]^
+TEMP |S1000 QRN [Temperature, Noise]^
+QRL |S1000 TEMP [Busy, Temperature]^
+BEAM |S1000 CUL [Beam, See you later]^
+CPI |S1000 QRN [Copy, Noise]^
+OM |S1000 TEMP [Old man, Temperature]^
+GL |S1000 QSB [Good luck, Fading]^
+TEMP |S1000 GL [Temperature, Good luck]^
+TEMP |S1000 CUL [Temperature, See you later]^
+QSB |S1000 BTU [Fading, Back to you]^
+QSB |S1000 FB [Fading, Fine business]^
+HPE |S1000 TEMP [Hope, Temperature]^
+ANT |S1000 CUL [Antenna, See you later]^
+CPI |S1000 TEMP [Copy, Temperature]^
+FB |S1000 CUL [Fine business, See you later]^
+TNX |S1000 RIG [Thanks, Rig]^
+QRN |S1000 TEMP [Noise, Temperature]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+TEMP |S1000 PWR [Temperature, Power]^
+TEMP |S1000 PWR [Temperature, Power]^
+TEMP |S1000 DIPOLE [Temperature, Dipole]^
+QSB |S1000 TEMP [Fading, Temperature]^
+FB |S1000 TEMP [Fine business, Temperature]^
+HPE |S1000 SIG [Hope, Signal]^
+TEMP |S1000 SRI [Temperature, Sorry]^
+TEMP |S1000 CPI [Temperature, Copy]^
+TEMP |S1000 QRN [Temperature, Noise]^
+TEMP |S1000 QRN [Temperature, Noise]^
+FB |S1000 TEMP [Fine business, Temperature]^
+SIG |S1000 TNX [Signal, Thanks]^
+PWR |S1000 TEMP [Power, Temperature]^
+DX |S1000 TEMP [D X, Temperature]^
+QRN |S1000 QSB [Noise, Fading]^
+TEMP |S1000 QSB [Temperature, Fading]^
+TEMP |S1000 DIPOLE [Temperature, Dipole]^
+TEMP |S1000 GL [Temperature, Good luck]^
+HPE |S1000 TEMP [Hope, Temperature]^
+XYL |S1000 CPI [Wife, Copy]^
+SIG |S1000 TEMP [Signal, Temperature]^
+XYL |S1000 HW [Wife, How]^
+DX |S1000 CPI [D X, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+DIPOLE |S1000 TEMP [Dipole, Temperature]^
+ANT |S1000 TEMP [Antenna, Temperature]^
+ANT |S1000 SRI [Antenna, Sorry]^
+QRN |S1000 TEMP [Noise, Temperature]^
+HW |S1000 SRI [How, Sorry]^
+HW |S1000 TEMP [How, Temperature]^
+QSB |S1000 HPE [Fading, Hope]^
+TEMP |S1000 HW [Temperature, How]^
+DX |S1000 HW [D X, How]^
+TEMP |S1000 XYL [Temperature, Wife]^
+GL |S1000 PWR [Good luck, Power]^
+TEMP |S1000 BEAM [Temperature, Beam]^
+TEMP |S1000 DX [Temperature, D X]^
+TEMP |S1000 QRL [Temperature, Busy]^
+QSB |S1000 TEMP [Fading, Temperature]^
+GL |S1000 TEMP [Good luck, Temperature]^
+GL |S1000 OM [Good luck, Old man]^
+TEMP |S1000 DIPOLE [Temperature, Dipole]^
+TEMP |S1000 QRL [Temperature, Busy]^
+TEMP |S1000 QSB [Temperature, Fading]^
+TEMP |S1000 QRN [Temperature, Noise]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+QSB |S1000 CPY [Fading, Copy]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+GL |S1000 XYL [Good luck, Wife]^
+TEMP |S1000 CUL [Temperature, See you later]^
+TEMP |S1000 CPY [Temperature, Copy]^
+SIG |S1000 OM [Signal, Old man]^
+RIG |S1000 TEMP [Rig, Temperature]^
+GL |S1000 TEMP [Good luck, Temperature]^
+QRN |S1000 RIG [Noise, Rig]^
+TEMP |S1000 PWR [Temperature, Power]^
+SRI |S1000 HPE [Sorry, Hope]^
+PWR |S1000 OM [Power, Old man]^
+TEMP |S1000 HPE [Temperature, Hope]^
+DX |S1000 TEMP [D X, Temperature]^
+ANT |S1000 OM [Antenna, Old man]^
+TEMP |S1000 TNX [Temperature, Thanks]^
+GL |S1000 SIG [Good luck, Signal]^
+CPI |S1000 SRI [Copy, Sorry]^
+BEAM |S1000 TNX [Beam, Thanks]^
+TEMP |S1000 SIG [Temperature, Signal]^
+TEMP |S1000 OM [Temperature, Old man]^
+SIG |S1000 QRN [Signal, Noise]^
+TEMP |S1000 GL [Temperature, Good luck]^
+TEMP |S1000 DX [Temperature, D X]^
+QRL |S1000 CUL [Busy, See you later]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+QRL |S1000 QRN [Busy, Noise]^
+TEMP |S1000 XYL [Temperature, Wife]^
+ANT |S1000 PWR [Antenna, Power]^
+SIG |S1000 TEMP [Signal, Temperature]^
+ANT |S1000 TEMP [Antenna, Temperature]^
+RIG |S1000 TEMP [Rig, Temperature]^
+QRL |S1000 TEMP [Busy, Temperature]^
+SIG |S1000 CUL [Signal, See you later]^
+HW |S1000 TEMP [How, Temperature]^
+HW |S1000 TEMP [How, Temperature]^
+HPE |S1000 CPI [Hope, Copy]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+TEMP |S1000 HPE [Temperature, Hope]^
+TEMP |S1000 CPI [Temperature, Copy]^
+TEMP |S1000 TNX [Temperature, Thanks]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+XYL |S1000 TEMP [Wife, Temperature]^
+QSB |S1000 PWR [Fading, Power]^
+OM |S1000 TEMP [Old man, Temperature]^
+XYL |S1000 TEMP [Wife, Temperature]^
+HPE |S1000 TEMP [Hope, Temperature]^
+DX |S1000 PWR [D X, Power]^
+TEMP |S1000 DX [Temperature, D X]^
+GL |S1000 RIG [Good luck, Rig]^
+SIG |S1000 BEAM [Signal, Beam]^
+SRI |S1000 SIG [Sorry, Signal]^
+DX |S1000 TEMP [D X, Temperature]^
+HPE |S1000 BTU [Hope, Back to you]^
+CPI |S1000 TEMP [Copy, Temperature]^
+QRN |S1000 TEMP [Noise, Temperature]^
+FB |S1000 PWR [Fine business, Power]^
+CUL |S1000 PWR [See you later, Power]^
+HW |S1000 TEMP [How, Temperature]^
+DX |S1000 CPY [D X, Copy]^
+RIG |S1000 SRI [Rig, Sorry]^
+TEMP |S1000 GL [Temperature, Good luck]^
+BTU |S1000 HPE [Back to you, Hope]^
+CPY |S1000 BTU [Copy, Back to you]^
+CUL |S1000 TEMP [See you later, Temperature]^
+QSB |S1000 BEAM [Fading, Beam]^
+CPI |S1000 TEMP [Copy, Temperature]^
+HW |S1000 DX [How, D X]^
+TEMP |S1000 CUL [Temperature, See you later]^
+TEMP |S1000 TNX [Temperature, Thanks]^
+DX |S1000 GL [D X, Good luck]^
+XYL |S1000 DX [Wife, D X]^
+GL |S1000 OM [Good luck, Old man]^
+TEMP |S1000 GL [Temperature, Good luck]^
+TEMP |S1000 CPI [Temperature, Copy]^
+TEMP |S1000 RIG [Temperature, Rig]^
+HW |S1000 TEMP [How, Temperature]^
+SIG |S1000 HPE [Signal, Hope]^
+DX |S1000 ANT [D X, Antenna]^
+PWR |S1000 DX [Power, D X]^
+TEMP |S1000 HW [Temperature, How]^
+CPY |S1000 CPI [Copy, Copy]^
+TNX |S1000 XYL [Thanks, Wife]^
+CUL |S1000 TEMP [See you later, Temperature]^
+HPE |S1000 TEMP [Hope, Temperature]^
+SRI |S1000 CPI [Sorry, Copy]^
+PWR |S1000 TEMP [Power, Temperature]^
+FB |S1000 BTU [Fine business, Back to you]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+TEMP |S1000 SRI [Temperature, Sorry]^
+CPI |S1000 HPE [Copy, Hope]^
+BTU |S1000 SIG [Back to you, Signal]^
+HW |S1000 HPE [How, Hope]^
+DX |S1000 BTU [D X, Back to you]^
+FB |S1000 TEMP [Fine business, Temperature]^
+BTU |S1000 TEMP [Back to you, Temperature]^
+CPI |S1000 TEMP [Copy, Temperature]^
+FB |S1000 TEMP [Fine business, Temperature]^
+ANT |S1000 SRI [Antenna, Sorry]^
+RIG |S1000 BEAM [Rig, Beam]^
+GL |S1000 TEMP [Good luck, Temperature]^
+TNX |S1000 TEMP [Thanks, Temperature]^
+FB |S1000 BEAM [Fine business, Beam]^
+TNX |S1000 QSB [Thanks, Fading]^
+BEAM |S1000 TEMP [Beam, Temperature]^
+DX |S1000 TEMP [D X, Temperature]^
+CPI |S1000 CUL [Copy, See you later]^
+BEAM |S1000 RIG [Beam, Rig]^
+BEAM |S1000 TEMP [Beam, Temperature]^
+ANT |S1000 TEMP [Antenna, Temperature]^
+HPE |S1000 ANT [Hope, Antenna]^
+PWR |S1000 ANT [Power, Antenna]^
+TEMP |S1000 HW [Temperature, How]^
+TEMP |S1000 SIG [Temperature, Signal]^
+TEMP |S1000 SRI [Temperature, Sorry]^
+TEMP |S1000 SRI [Temperature, Sorry]^
+XYL |S1000 ANT [Wife, Antenna]^
+TEMP |S1000 CPY [Temperature, Copy]^
+TEMP |S1000 GL [Temperature, Good luck]^
+TEMP |S1000 BEAM [Temperature, Beam]^
+CUL |S1000 CPI [See you later, Copy]^
+TEMP |S1000 HPE [Temperature, Hope]^
+DIPOLE |S1000 TEMP [Dipole, Temperature]^
+GL |S1000 QSB [Good luck, Fading]^
+TEMP |S1000 SIG [Temperature, Signal]^
+QSB |S1000 CUL [Fading, See you later]^
+HW |S1000 DX [How, D X]^
+QRL |S1000 BTU [Busy, Back to you]^
+SRI |S1000 TNX [Sorry, Thanks]^
+BTU |S1000 SIG [Back to you, Signal]^
+TEMP |S1000 SIG [Temperature, Signal]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+QRL |S1000 QRN [Busy, Noise]^
+CPY |S1000 TEMP [Copy, Temperature]^
+HPE |S1000 SRI [Hope, Sorry]^
+OM |S1000 TEMP [Old man, Temperature]^
+FB |S1000 TEMP [Fine business, Temperature]^
+PWR |S1000 TNX [Power, Thanks]^
+TEMP |S1000 DIPOLE [Temperature, Dipole]^
+FB |S1000 TEMP [Fine business, Temperature]^
+CUL |S1000 TEMP [See you later, Temperature]^
+HPE |S1000 GL [Hope, Good luck]^
+TEMP |S1000 XYL [Temperature, Wife]^
+SRI |S1000 SIG [Sorry, Signal]^
+TEMP |S1000 QRL [Temperature, Busy]^
+TEMP |S1000 SIG [Temperature, Signal]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+TEMP |S1000 GL [Temperature, Good luck]^
+HW |S1000 CPI [How, Copy]^
+SIG |S1000 PWR [Signal, Power]^
+TEMP |S1000 PWR [Temperature, Power]^
+QRN |S1000 SRI [Noise, Sorry]^
+TEMP |S1000 GL [Temperature, Good luck]^
+BTU |S1000 ANT [Back to you, Antenna]^
+BTU |S1000 CUL [Back to you, See you later]^
+TEMP |S1000 TNX [Temperature, Thanks]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+TNX |S1000 TEMP [Thanks, Temperature]^
+OM |S1000 TEMP [Old man, Temperature]^
+QSB |S1000 HW [Fading, How]^
+DIPOLE |S1000 RIG [Dipole, Rig]^
+HPE |S1000 PWR [Hope, Power]^
+HPE |S1000 CUL [Hope, See you later]^
+TEMP |S1000 CPY [Temperature, Copy]^
+HPE |S1000 TEMP [Hope, Temperature]^
+QRN |S1000 BEAM [Noise, Beam]^
+CPI |S1000 TEMP [Copy, Temperature]^
+DX |S1000 TEMP [D X, Temperature]^
+QSB |S1000 GL [Fading, Good luck]^
+OM |S1000 RIG [Old man, Rig]^
+TEMP |S1000 SIG [Temperature, Signal]^
+QRN |S1000 ANT [Noise, Antenna]^
+TEMP |S1000 CPY [Temperature, Copy]^
+TEMP |S1000 TNX [Temperature, Thanks]^
+CPI |S1000 HPE [Copy, Hope]^
+TEMP |S1000 HW [Temperature, How]^
+TEMP |S1000 DIPOLE [Temperature, Dipole]^
+QSB |S1000 GL [Fading, Good luck]^
+FB |S1000 RIG [Fine business, Rig]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+TEMP |S1000 CPI [Temperature, Copy]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+QRN |S1000 GL [Noise, Good luck]^
+PWR |S1000 QRL [Power, Busy]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+CPI |S1000 RIG [Copy, Rig]^
+TEMP |S1000 CPY [Temperature, Copy]^
+CPI |S1000 ANT [Copy, Antenna]^
+QRL |S1000 QSB [Busy, Fading]^
+TEMP |S1000 GL [Temperature, Good luck]^
+CPY |S1000 TEMP [Copy, Temperature]^
+CPY |S1000 GL [Copy, Good luck]^
+SRI |S1000 HW [Sorry, How]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+QRL |S1000 TEMP [Busy, Temperature]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+TEMP |S1000 CPY [Temperature, Copy]^
+TEMP |S1000 QRL [Temperature, Busy]^
+TEMP |S1000 SIG [Temperature, Signal]^
+ANT |S1000 BEAM [Antenna, Beam]^
+CUL |S1000 BEAM [See you later, Beam]^
+ANT |S1000 TEMP [Antenna, Temperature]^
+QRL |S1000 TEMP [Busy, Temperature]^
+CPI |S1000 TEMP [Copy, Temperature]^
+PWR |S1000 HPE [Power, Hope]^
+CPY |S1000 TEMP [Copy, Temperature]^
+HW |S1000 CPY [How, Copy]^
+QRL |S1000 TEMP [Busy, Temperature]^
+CPI |S1000 TEMP [Copy, Temperature]^
+DIPOLE |S1000 TEMP [Dipole, Temperature]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+ANT |S1000 CPI [Antenna, Copy]^
+HPE |S1000 SIG [Hope, Signal]^
+BTU |S1000 RIG [Back to you, Rig]^
+GL |S1000 OM [Good luck, Old man]^
+TNX |S1000 XYL [Thanks, Wife]^
+TEMP |S1000 XYL [Temperature, Wife]^
+BTU |S1000 QSB [Back to you, Fading]^
+TEMP |S1000 ANT [Temperature, Antenna]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+TNX |S1000 TEMP [Thanks, Temperature]^
+CUL |S1000 TEMP [See you later, Temperature]^
+QSB |S1000 ANT [Fading, Antenna]^
+RIG |S1000 DIPOLE [Rig, Dipole]^
+OM |S1000 TEMP [Old man, Temperature]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+TEMP |S1000 TNX [Temperature, Thanks]^
+TEMP |S1000 DX [Temperature, D X]^
+RIG |S1000 PWR [Rig, Power]^
+TEMP |S1000 DX [Temperature, D X]^
+FB |S1000 GL [Fine business, Good luck]^
+TEMP |S1000 FB [Temperature, Fine business]^
+OM |S1000 TEMP [Old man, Temperature]^
+GL |S1000 TEMP [Good luck, Temperature]^
+QSB |S1000 TEMP [Fading, Temperature]^
+CPY |S1000 QRN [Copy, Noise]^
+SRI |S1000 TEMP [Sorry, Temperature]^
+SIG |S1000 CPI [Signal, Copy]^
+TEMP |S1000 HW [Temperature, How]^
+TEMP |S1000 BTU [Temperature, Back to you]^
+TEMP |S1000 SRI [Temperature, Sorry]^
+QRN |S1000 TNX [Noise, Thanks]^
+CUL |S1000 PWR [See you later, Power]^
+TEMP |S1000 QRL [Temperature, Busy]^
+SIG |S1000 TEMP [Signal, Temperature]^
+FB |S1000 RIG [Fine business, Rig]^
+GL |S1000 FB [Good luck, Fine business]^
+BEAM |S1000 QSB [Beam, Fading]^

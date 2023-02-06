@@ -1,0 +1,600 @@
+SIG |S1000 QRL [Signal, Busy]^
+QSB |S1000 SIG [Fading, Signal]^
+BEAM |S1000 SIG [Beam, Signal]^
+BEAM |S1000 HPE [Beam, Hope]^
+CUL |S1000 SIG [See you later, Signal]^
+DX |S1000 BTU [D X, Back to you]^
+HW |S1000 SIG [How, Signal]^
+DX |S1000 BTU [D X, Back to you]^
+SIG |S1000 DX [Signal, D X]^
+HPE |S1000 SIG [Hope, Signal]^
+HPE |S1000 SIG [Hope, Signal]^
+CUL |S1000 SRI [See you later, Sorry]^
+QRL |S1000 CPI [Busy, Copy]^
+QRL |S1000 SIG [Busy, Signal]^
+BTU |S1000 SIG [Back to you, Signal]^
+HW |S1000 SIG [How, Signal]^
+HW |S1000 CUL [How, See you later]^
+SIG |S1000 QSB [Signal, Fading]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+QSB |S1000 SIG [Fading, Signal]^
+QRL |S1000 SIG [Busy, Signal]^
+CUL |S1000 SIG [See you later, Signal]^
+CPI |S1000 CPY [Copy, Copy]^
+QSB |S1000 SIG [Fading, Signal]^
+CUL |S1000 HW [See you later, How]^
+SIG |S1000 TNX [Signal, Thanks]^
+SIG |S1000 BTU [Signal, Back to you]^
+HW |S1000 SIG [How, Signal]^
+BEAM |S1000 SIG [Beam, Signal]^
+CUL |S1000 FB [See you later, Fine business]^
+SRI |S1000 SIG [Sorry, Signal]^
+FB |S1000 SIG [Fine business, Signal]^
+DX |S1000 BEAM [D X, Beam]^
+DX |S1000 SIG [D X, Signal]^
+SRI |S1000 SIG [Sorry, Signal]^
+QRL |S1000 DX [Busy, D X]^
+SRI |S1000 TNX [Sorry, Thanks]^
+SIG |S1000 HPE [Signal, Hope]^
+SIG |S1000 CUL [Signal, See you later]^
+CPI |S1000 SIG [Copy, Signal]^
+HW |S1000 DX [How, D X]^
+BEAM |S1000 CUL [Beam, See you later]^
+SIG |S1000 QRL [Signal, Busy]^
+SIG |S1000 CUL [Signal, See you later]^
+SIG |S1000 CPY [Signal, Copy]^
+SIG |S1000 CPY [Signal, Copy]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+SIG |S1000 BTU [Signal, Back to you]^
+SIG |S1000 BTU [Signal, Back to you]^
+SRI |S1000 HW [Sorry, How]^
+HPE |S1000 SIG [Hope, Signal]^
+BTU |S1000 SIG [Back to you, Signal]^
+CUL |S1000 QSB [See you later, Fading]^
+FB |S1000 SIG [Fine business, Signal]^
+QSB |S1000 HW [Fading, How]^
+SIG |S1000 QSB [Signal, Fading]^
+SIG |S1000 QSB [Signal, Fading]^
+CUL |S1000 SIG [See you later, Signal]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+QRL |S1000 HPE [Busy, Hope]^
+SIG |S1000 HW [Signal, How]^
+CUL |S1000 SIG [See you later, Signal]^
+CPI |S1000 CPY [Copy, Copy]^
+HW |S1000 HPE [How, Hope]^
+SRI |S1000 DX [Sorry, D X]^
+SRI |S1000 SIG [Sorry, Signal]^
+BTU |S1000 SRI [Back to you, Sorry]^
+SIG |S1000 BTU [Signal, Back to you]^
+SIG |S1000 TNX [Signal, Thanks]^
+QSB |S1000 QRL [Fading, Busy]^
+SRI |S1000 SIG [Sorry, Signal]^
+BTU |S1000 QSB [Back to you, Fading]^
+SIG |S1000 HPE [Signal, Hope]^
+BTU |S1000 SIG [Back to you, Signal]^
+HW |S1000 CPY [How, Copy]^
+SIG |S1000 HW [Signal, How]^
+SRI |S1000 BTU [Sorry, Back to you]^
+QRL |S1000 HPE [Busy, Hope]^
+SIG |S1000 CPY [Signal, Copy]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+QRL |S1000 SIG [Busy, Signal]^
+DX |S1000 HPE [D X, Hope]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+QRL |S1000 SIG [Busy, Signal]^
+BTU |S1000 FB [Back to you, Fine business]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+SRI |S1000 CUL [Sorry, See you later]^
+SIG |S1000 HW [Signal, How]^
+CPI |S1000 CPY [Copy, Copy]^
+HW |S1000 TNX [How, Thanks]^
+SIG |S1000 FB [Signal, Fine business]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 SIG [Fading, Signal]^
+QRL |S1000 SIG [Busy, Signal]^
+CPY |S1000 BTU [Copy, Back to you]^
+DX |S1000 QRL [D X, Busy]^
+BEAM |S1000 BTU [Beam, Back to you]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+SIG |S1000 BEAM [Signal, Beam]^
+SIG |S1000 QSB [Signal, Fading]^
+TNX |S1000 HW [Thanks, How]^
+SIG |S1000 BEAM [Signal, Beam]^
+SIG |S1000 QRL [Signal, Busy]^
+SIG |S1000 QRL [Signal, Busy]^
+SIG |S1000 CPY [Signal, Copy]^
+BEAM |S1000 SIG [Beam, Signal]^
+FB |S1000 SIG [Fine business, Signal]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+SIG |S1000 FB [Signal, Fine business]^
+QRL |S1000 SIG [Busy, Signal]^
+FB |S1000 SRI [Fine business, Sorry]^
+QSB |S1000 SIG [Fading, Signal]^
+CPI |S1000 HW [Copy, How]^
+SIG |S1000 HW [Signal, How]^
+CPI |S1000 QSB [Copy, Fading]^
+SRI |S1000 SIG [Sorry, Signal]^
+BTU |S1000 HW [Back to you, How]^
+CUL |S1000 TNX [See you later, Thanks]^
+CPY |S1000 DX [Copy, D X]^
+SIG |S1000 CUL [Signal, See you later]^
+SIG |S1000 QRL [Signal, Busy]^
+SIG |S1000 HW [Signal, How]^
+BTU |S1000 SIG [Back to you, Signal]^
+SRI |S1000 SIG [Sorry, Signal]^
+BTU |S1000 CPI [Back to you, Copy]^
+HW |S1000 FB [How, Fine business]^
+SIG |S1000 DX [Signal, D X]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+HW |S1000 SIG [How, Signal]^
+CPI |S1000 HPE [Copy, Hope]^
+CPI |S1000 HPE [Copy, Hope]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+QRL |S1000 SIG [Busy, Signal]^
+CPY |S1000 SIG [Copy, Signal]^
+QSB |S1000 SIG [Fading, Signal]^
+CPY |S1000 HW [Copy, How]^
+SIG |S1000 BEAM [Signal, Beam]^
+CUL |S1000 QRL [See you later, Busy]^
+HW |S1000 SIG [How, Signal]^
+DIPOLE |S1000 DX [Dipole, D X]^
+CUL |S1000 SIG [See you later, Signal]^
+HPE |S1000 SIG [Hope, Signal]^
+CPI |S1000 HPE [Copy, Hope]^
+QSB |S1000 SIG [Fading, Signal]^
+BEAM |S1000 SIG [Beam, Signal]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+CPY |S1000 SIG [Copy, Signal]^
+QSB |S1000 SIG [Fading, Signal]^
+BTU |S1000 SIG [Back to you, Signal]^
+CPI |S1000 CUL [Copy, See you later]^
+DX |S1000 QSB [D X, Fading]^
+SIG |S1000 HPE [Signal, Hope]^
+BTU |S1000 BEAM [Back to you, Beam]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+SIG |S1000 FB [Signal, Fine business]^
+QRL |S1000 SIG [Busy, Signal]^
+HW |S1000 QSB [How, Fading]^
+CUL |S1000 SIG [See you later, Signal]^
+CUL |S1000 SIG [See you later, Signal]^
+CPI |S1000 SIG [Copy, Signal]^
+TNX |S1000 CPY [Thanks, Copy]^
+SIG |S1000 CPY [Signal, Copy]^
+BTU |S1000 HPE [Back to you, Hope]^
+TNX |S1000 SIG [Thanks, Signal]^
+HPE |S1000 QRL [Hope, Busy]^
+SIG |S1000 CPI [Signal, Copy]^
+QSB |S1000 BTU [Fading, Back to you]^
+SIG |S1000 BTU [Signal, Back to you]^
+FB |S1000 SRI [Fine business, Sorry]^
+HPE |S1000 SIG [Hope, Signal]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+SIG |S1000 CUL [Signal, See you later]^
+FB |S1000 SIG [Fine business, Signal]^
+DX |S1000 SIG [D X, Signal]^
+BEAM |S1000 SIG [Beam, Signal]^
+HPE |S1000 SIG [Hope, Signal]^
+DIPOLE |S1000 DX [Dipole, D X]^
+QRL |S1000 HPE [Busy, Hope]^
+CPY |S1000 CUL [Copy, See you later]^
+HPE |S1000 SIG [Hope, Signal]^
+FB |S1000 CPI [Fine business, Copy]^
+FB |S1000 HPE [Fine business, Hope]^
+HW |S1000 QRL [How, Busy]^
+HW |S1000 TNX [How, Thanks]^
+BEAM |S1000 CPI [Beam, Copy]^
+SIG |S1000 CPI [Signal, Copy]^
+HW |S1000 SIG [How, Signal]^
+HPE |S1000 CPY [Hope, Copy]^
+SRI |S1000 SIG [Sorry, Signal]^
+SRI |S1000 HW [Sorry, How]^
+SIG |S1000 DX [Signal, D X]^
+SIG |S1000 HW [Signal, How]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+BTU |S1000 SIG [Back to you, Signal]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+DIPOLE |S1000 QRL [Dipole, Busy]^
+FB |S1000 CPY [Fine business, Copy]^
+HW |S1000 SIG [How, Signal]^
+DX |S1000 BTU [D X, Back to you]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+CPY |S1000 BTU [Copy, Back to you]^
+CUL |S1000 SIG [See you later, Signal]^
+QRL |S1000 QSB [Busy, Fading]^
+SIG |S1000 QSB [Signal, Fading]^
+SIG |S1000 SRI [Signal, Sorry]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+CPI |S1000 CUL [Copy, See you later]^
+SIG |S1000 BEAM [Signal, Beam]^
+SIG |S1000 HW [Signal, How]^
+BTU |S1000 CUL [Back to you, See you later]^
+QRL |S1000 HW [Busy, How]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+DX |S1000 SIG [D X, Signal]^
+SRI |S1000 SIG [Sorry, Signal]^
+CPI |S1000 SIG [Copy, Signal]^
+FB |S1000 SIG [Fine business, Signal]^
+CPY |S1000 FB [Copy, Fine business]^
+DIPOLE |S1000 QSB [Dipole, Fading]^
+SRI |S1000 SIG [Sorry, Signal]^
+BTU |S1000 CUL [Back to you, See you later]^
+TNX |S1000 DX [Thanks, D X]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+CUL |S1000 SIG [See you later, Signal]^
+HPE |S1000 CPI [Hope, Copy]^
+SIG |S1000 TNX [Signal, Thanks]^
+QSB |S1000 SIG [Fading, Signal]^
+FB |S1000 SIG [Fine business, Signal]^
+CPY |S1000 CUL [Copy, See you later]^
+SIG |S1000 BTU [Signal, Back to you]^
+BEAM |S1000 DIPOLE [Beam, Dipole]^
+SIG |S1000 FB [Signal, Fine business]^
+SIG |S1000 TNX [Signal, Thanks]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+HPE |S1000 SIG [Hope, Signal]^
+DX |S1000 FB [D X, Fine business]^
+CPY |S1000 SIG [Copy, Signal]^
+BTU |S1000 SIG [Back to you, Signal]^
+CPY |S1000 CPI [Copy, Copy]^
+SIG |S1000 BTU [Signal, Back to you]^
+DX |S1000 BTU [D X, Back to you]^
+TNX |S1000 SIG [Thanks, Signal]^
+CPI |S1000 SIG [Copy, Signal]^
+SRI |S1000 CPI [Sorry, Copy]^
+BEAM |S1000 HPE [Beam, Hope]^
+QRL |S1000 QSB [Busy, Fading]^
+SIG |S1000 QRL [Signal, Busy]^
+SIG |S1000 CPI [Signal, Copy]^
+DX |S1000 TNX [D X, Thanks]^
+HPE |S1000 CPI [Hope, Copy]^
+SIG |S1000 BTU [Signal, Back to you]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+HPE |S1000 SIG [Hope, Signal]^
+QRL |S1000 SIG [Busy, Signal]^
+FB |S1000 HPE [Fine business, Hope]^
+CPI |S1000 SIG [Copy, Signal]^
+FB |S1000 DX [Fine business, D X]^
+CPY |S1000 SIG [Copy, Signal]^
+CPY |S1000 SRI [Copy, Sorry]^
+SIG |S1000 TNX [Signal, Thanks]^
+QSB |S1000 HW [Fading, How]^
+SIG |S1000 CPI [Signal, Copy]^
+QSB |S1000 SRI [Fading, Sorry]^
+SIG |S1000 DX [Signal, D X]^
+BTU |S1000 SIG [Back to you, Signal]^
+CPI |S1000 SIG [Copy, Signal]^
+TNX |S1000 SIG [Thanks, Signal]^
+CUL |S1000 QRL [See you later, Busy]^
+SIG |S1000 FB [Signal, Fine business]^
+SIG |S1000 HW [Signal, How]^
+SIG |S1000 CPY [Signal, Copy]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+QSB |S1000 BTU [Fading, Back to you]^
+CPI |S1000 SRI [Copy, Sorry]^
+QSB |S1000 CUL [Fading, See you later]^
+QRL |S1000 CPY [Busy, Copy]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+HPE |S1000 CUL [Hope, See you later]^
+SIG |S1000 QRL [Signal, Busy]^
+DIPOLE |S1000 QRL [Dipole, Busy]^
+SIG |S1000 QSB [Signal, Fading]^
+SIG |S1000 SRI [Signal, Sorry]^
+SIG |S1000 BTU [Signal, Back to you]^
+SIG |S1000 QSB [Signal, Fading]^
+QRL |S1000 SRI [Busy, Sorry]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+CPY |S1000 TNX [Copy, Thanks]^
+SIG |S1000 HW [Signal, How]^
+SIG |S1000 SRI [Signal, Sorry]^
+SIG |S1000 SRI [Signal, Sorry]^
+QRL |S1000 SIG [Busy, Signal]^
+DIPOLE |S1000 QSB [Dipole, Fading]^
+TNX |S1000 BTU [Thanks, Back to you]^
+SIG |S1000 QRL [Signal, Busy]^
+HPE |S1000 TNX [Hope, Thanks]^
+FB |S1000 SIG [Fine business, Signal]^
+FB |S1000 HW [Fine business, How]^
+SRI |S1000 DX [Sorry, D X]^
+SIG |S1000 FB [Signal, Fine business]^
+QRL |S1000 SIG [Busy, Signal]^
+HW |S1000 CPI [How, Copy]^
+SIG |S1000 CPY [Signal, Copy]^
+QRL |S1000 HW [Busy, How]^
+SIG |S1000 DX [Signal, D X]^
+BTU |S1000 SIG [Back to you, Signal]^
+DX |S1000 HW [D X, How]^
+SIG |S1000 CPI [Signal, Copy]^
+FB |S1000 CUL [Fine business, See you later]^
+HPE |S1000 SIG [Hope, Signal]^
+BEAM |S1000 SIG [Beam, Signal]^
+HPE |S1000 TNX [Hope, Thanks]^
+QSB |S1000 SIG [Fading, Signal]^
+SRI |S1000 QSB [Sorry, Fading]^
+CPY |S1000 CUL [Copy, See you later]^
+SIG |S1000 HPE [Signal, Hope]^
+SIG |S1000 FB [Signal, Fine business]^
+HW |S1000 SIG [How, Signal]^
+FB |S1000 SIG [Fine business, Signal]^
+DX |S1000 SIG [D X, Signal]^
+CPY |S1000 SIG [Copy, Signal]^
+HPE |S1000 SIG [Hope, Signal]^
+QRL |S1000 SIG [Busy, Signal]^
+BTU |S1000 BEAM [Back to you, Beam]^
+SIG |S1000 QSB [Signal, Fading]^
+QRL |S1000 BEAM [Busy, Beam]^
+SIG |S1000 DX [Signal, D X]^
+CUL |S1000 BEAM [See you later, Beam]^
+QSB |S1000 DX [Fading, D X]^
+TNX |S1000 HW [Thanks, How]^
+SIG |S1000 QSB [Signal, Fading]^
+CPY |S1000 CUL [Copy, See you later]^
+SIG |S1000 DX [Signal, D X]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+TNX |S1000 SIG [Thanks, Signal]^
+HW |S1000 TNX [How, Thanks]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+HW |S1000 SIG [How, Signal]^
+DX |S1000 CPY [D X, Copy]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+BEAM |S1000 CUL [Beam, See you later]^
+SIG |S1000 BTU [Signal, Back to you]^
+SIG |S1000 CUL [Signal, See you later]^
+DX |S1000 SIG [D X, Signal]^
+SRI |S1000 SIG [Sorry, Signal]^
+CPI |S1000 SIG [Copy, Signal]^
+CPY |S1000 CUL [Copy, See you later]^
+TNX |S1000 SIG [Thanks, Signal]^
+DX |S1000 CPI [D X, Copy]^
+BTU |S1000 SIG [Back to you, Signal]^
+DX |S1000 SIG [D X, Signal]^
+CUL |S1000 QRL [See you later, Busy]^
+SIG |S1000 HW [Signal, How]^
+SRI |S1000 HPE [Sorry, Hope]^
+BTU |S1000 CPI [Back to you, Copy]^
+HW |S1000 DIPOLE [How, Dipole]^
+SIG |S1000 HPE [Signal, Hope]^
+SIG |S1000 CPI [Signal, Copy]^
+SRI |S1000 QSB [Sorry, Fading]^
+SIG |S1000 TNX [Signal, Thanks]^
+CPI |S1000 SIG [Copy, Signal]^
+FB |S1000 DX [Fine business, D X]^
+SIG |S1000 HW [Signal, How]^
+FB |S1000 BTU [Fine business, Back to you]^
+HPE |S1000 BTU [Hope, Back to you]^
+FB |S1000 SIG [Fine business, Signal]^
+TNX |S1000 SIG [Thanks, Signal]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+TNX |S1000 BEAM [Thanks, Beam]^
+CUL |S1000 BTU [See you later, Back to you]^
+SIG |S1000 FB [Signal, Fine business]^
+SRI |S1000 FB [Sorry, Fine business]^
+DX |S1000 SIG [D X, Signal]^
+QSB |S1000 SIG [Fading, Signal]^
+BTU |S1000 CPY [Back to you, Copy]^
+SIG |S1000 HW [Signal, How]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+QSB |S1000 SRI [Fading, Sorry]^
+BEAM |S1000 SIG [Beam, Signal]^
+BTU |S1000 DX [Back to you, D X]^
+CPI |S1000 TNX [Copy, Thanks]^
+SRI |S1000 CPI [Sorry, Copy]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+BTU |S1000 HW [Back to you, How]^
+HPE |S1000 CUL [Hope, See you later]^
+SIG |S1000 DX [Signal, D X]^
+SIG |S1000 FB [Signal, Fine business]^
+SIG |S1000 FB [Signal, Fine business]^
+DX |S1000 CUL [D X, See you later]^
+SIG |S1000 FB [Signal, Fine business]^
+SIG |S1000 CPY [Signal, Copy]^
+QSB |S1000 SIG [Fading, Signal]^
+TNX |S1000 SIG [Thanks, Signal]^
+HPE |S1000 SIG [Hope, Signal]^
+DX |S1000 FB [D X, Fine business]^
+DX |S1000 QSB [D X, Fading]^
+SIG |S1000 CPI [Signal, Copy]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+CPI |S1000 SIG [Copy, Signal]^
+BEAM |S1000 SIG [Beam, Signal]^
+HPE |S1000 SIG [Hope, Signal]^
+HW |S1000 SIG [How, Signal]^
+HW |S1000 SIG [How, Signal]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+SIG |S1000 HW [Signal, How]^
+BTU |S1000 DX [Back to you, D X]^
+SIG |S1000 DX [Signal, D X]^
+CPY |S1000 SIG [Copy, Signal]^
+QRL |S1000 SRI [Busy, Sorry]^
+HW |S1000 SIG [How, Signal]^
+QRL |S1000 SIG [Busy, Signal]^
+CUL |S1000 SIG [See you later, Signal]^
+BTU |S1000 SIG [Back to you, Signal]^
+SRI |S1000 SIG [Sorry, Signal]^
+CPY |S1000 SIG [Copy, Signal]^
+HW |S1000 SIG [How, Signal]^
+FB |S1000 TNX [Fine business, Thanks]^
+SIG |S1000 CPI [Signal, Copy]^
+SIG |S1000 FB [Signal, Fine business]^
+HPE |S1000 SIG [Hope, Signal]^
+QRL |S1000 SIG [Busy, Signal]^
+DX |S1000 SIG [D X, Signal]^
+SRI |S1000 HW [Sorry, How]^
+SIG |S1000 BEAM [Signal, Beam]^
+HW |S1000 HPE [How, Hope]^
+CPY |S1000 SIG [Copy, Signal]^
+SRI |S1000 SIG [Sorry, Signal]^
+CUL |S1000 SIG [See you later, Signal]^
+TNX |S1000 SIG [Thanks, Signal]^
+CPY |S1000 SIG [Copy, Signal]^
+FB |S1000 BTU [Fine business, Back to you]^
+HPE |S1000 SIG [Hope, Signal]^
+SRI |S1000 HPE [Sorry, Hope]^
+BTU |S1000 SIG [Back to you, Signal]^
+DX |S1000 DIPOLE [D X, Dipole]^
+FB |S1000 SIG [Fine business, Signal]^
+SRI |S1000 BTU [Sorry, Back to you]^
+SIG |S1000 CUL [Signal, See you later]^
+TNX |S1000 QRL [Thanks, Busy]^
+SIG |S1000 DX [Signal, D X]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+SIG |S1000 CPI [Signal, Copy]^
+SIG |S1000 HW [Signal, How]^
+SIG |S1000 BTU [Signal, Back to you]^
+BEAM |S1000 SIG [Beam, Signal]^
+BEAM |S1000 SIG [Beam, Signal]^
+CUL |S1000 SIG [See you later, Signal]^
+BEAM |S1000 QSB [Beam, Fading]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+FB |S1000 SIG [Fine business, Signal]^
+CUL |S1000 CPI [See you later, Copy]^
+HPE |S1000 DX [Hope, D X]^
+SIG |S1000 QRL [Signal, Busy]^
+SRI |S1000 HPE [Sorry, Hope]^
+QRL |S1000 HPE [Busy, Hope]^
+HW |S1000 CPI [How, Copy]^
+SIG |S1000 SRI [Signal, Sorry]^
+TNX |S1000 QSB [Thanks, Fading]^
+BEAM |S1000 SIG [Beam, Signal]^
+HW |S1000 FB [How, Fine business]^
+HPE |S1000 SIG [Hope, Signal]^
+BEAM |S1000 DX [Beam, D X]^
+BTU |S1000 SIG [Back to you, Signal]^
+QRL |S1000 SIG [Busy, Signal]^
+HPE |S1000 DX [Hope, D X]^
+HW |S1000 SIG [How, Signal]^
+DX |S1000 SIG [D X, Signal]^
+BTU |S1000 HPE [Back to you, Hope]^
+SIG |S1000 QRL [Signal, Busy]^
+SIG |S1000 BTU [Signal, Back to you]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+HPE |S1000 SIG [Hope, Signal]^
+CPI |S1000 FB [Copy, Fine business]^
+SIG |S1000 FB [Signal, Fine business]^
+CPY |S1000 QRL [Copy, Busy]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+FB |S1000 CUL [Fine business, See you later]^
+SIG |S1000 FB [Signal, Fine business]^
+SIG |S1000 CPY [Signal, Copy]^
+TNX |S1000 QRL [Thanks, Busy]^
+HW |S1000 QRL [How, Busy]^
+SIG |S1000 BEAM [Signal, Beam]^
+SIG |S1000 CUL [Signal, See you later]^
+BTU |S1000 CPI [Back to you, Copy]^
+SIG |S1000 FB [Signal, Fine business]^
+SIG |S1000 SRI [Signal, Sorry]^
+SIG |S1000 FB [Signal, Fine business]^
+SIG |S1000 CPY [Signal, Copy]^
+SIG |S1000 QSB [Signal, Fading]^
+CPY |S1000 DX [Copy, D X]^
+SIG |S1000 BEAM [Signal, Beam]^
+SIG |S1000 SRI [Signal, Sorry]^
+SIG |S1000 CPY [Signal, Copy]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+SIG |S1000 CUL [Signal, See you later]^
+DIPOLE |S1000 QRL [Dipole, Busy]^
+SIG |S1000 FB [Signal, Fine business]^
+SIG |S1000 HPE [Signal, Hope]^
+SIG |S1000 CPY [Signal, Copy]^
+SRI |S1000 SIG [Sorry, Signal]^
+CUL |S1000 BEAM [See you later, Beam]^
+SIG |S1000 HW [Signal, How]^
+CUL |S1000 SIG [See you later, Signal]^
+QRL |S1000 QSB [Busy, Fading]^
+HW |S1000 QSB [How, Fading]^
+SIG |S1000 HPE [Signal, Hope]^
+SIG |S1000 CUL [Signal, See you later]^
+SIG |S1000 BTU [Signal, Back to you]^
+HW |S1000 SIG [How, Signal]^
+QSB |S1000 BTU [Fading, Back to you]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+QRL |S1000 TNX [Busy, Thanks]^
+SIG |S1000 FB [Signal, Fine business]^
+BEAM |S1000 DX [Beam, D X]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+CUL |S1000 HPE [See you later, Hope]^
+SIG |S1000 BEAM [Signal, Beam]^
+SIG |S1000 CPI [Signal, Copy]^
+DIPOLE |S1000 QRL [Dipole, Busy]^
+SIG |S1000 FB [Signal, Fine business]^
+SRI |S1000 SIG [Sorry, Signal]^
+FB |S1000 SIG [Fine business, Signal]^
+CUL |S1000 SIG [See you later, Signal]^
+HPE |S1000 QRL [Hope, Busy]^
+CUL |S1000 CPY [See you later, Copy]^
+SIG |S1000 FB [Signal, Fine business]^
+HW |S1000 FB [How, Fine business]^
+SIG |S1000 QRL [Signal, Busy]^
+SIG |S1000 HPE [Signal, Hope]^
+QRL |S1000 BEAM [Busy, Beam]^
+CPI |S1000 FB [Copy, Fine business]^
+SIG |S1000 BEAM [Signal, Beam]^
+SRI |S1000 HPE [Sorry, Hope]^
+DX |S1000 CPY [D X, Copy]^
+DX |S1000 QRL [D X, Busy]^
+SIG |S1000 FB [Signal, Fine business]^
+SIG |S1000 TNX [Signal, Thanks]^
+QRL |S1000 QSB [Busy, Fading]^
+SIG |S1000 CPI [Signal, Copy]^
+TNX |S1000 CPI [Thanks, Copy]^
+HW |S1000 CPI [How, Copy]^
+CUL |S1000 SRI [See you later, Sorry]^
+SIG |S1000 CPI [Signal, Copy]^
+CPY |S1000 TNX [Copy, Thanks]^
+SIG |S1000 TNX [Signal, Thanks]^
+SIG |S1000 CPY [Signal, Copy]^
+SIG |S1000 FB [Signal, Fine business]^
+BEAM |S1000 SIG [Beam, Signal]^
+FB |S1000 SIG [Fine business, Signal]^
+BEAM |S1000 FB [Beam, Fine business]^
+CUL |S1000 SIG [See you later, Signal]^
+DX |S1000 HW [D X, How]^
+BTU |S1000 SIG [Back to you, Signal]^
+QSB |S1000 DX [Fading, D X]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+CPY |S1000 HW [Copy, How]^
+BEAM |S1000 CUL [Beam, See you later]^
+FB |S1000 SIG [Fine business, Signal]^
+DX |S1000 CUL [D X, See you later]^
+CPY |S1000 SIG [Copy, Signal]^
+HW |S1000 CPI [How, Copy]^
+QSB |S1000 SIG [Fading, Signal]^
+CPI |S1000 SIG [Copy, Signal]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+QSB |S1000 TNX [Fading, Thanks]^
+CPY |S1000 BEAM [Copy, Beam]^
+BTU |S1000 SIG [Back to you, Signal]^
+QRL |S1000 SIG [Busy, Signal]^
+BTU |S1000 SIG [Back to you, Signal]^
+CUL |S1000 DIPOLE [See you later, Dipole]^
+QSB |S1000 DIPOLE [Fading, Dipole]^
+CPY |S1000 BTU [Copy, Back to you]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+QRL |S1000 SIG [Busy, Signal]^
+DX |S1000 QSB [D X, Fading]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+SRI |S1000 SIG [Sorry, Signal]^
+SRI |S1000 SIG [Sorry, Signal]^
+HW |S1000 SIG [How, Signal]^
+CPI |S1000 SIG [Copy, Signal]^
+HW |S1000 DIPOLE [How, Dipole]^
+CPI |S1000 SIG [Copy, Signal]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+CPI |S1000 BEAM [Copy, Beam]^
+DX |S1000 SIG [D X, Signal]^
+DX |S1000 SIG [D X, Signal]^
+QSB |S1000 QRL [Fading, Busy]^
+SRI |S1000 SIG [Sorry, Signal]^
+BTU |S1000 FB [Back to you, Fine business]^
+CPY |S1000 DX [Copy, D X]^
+SIG |S1000 HW [Signal, How]^
+FB |S1000 CUL [Fine business, See you later]^
+HPE |S1000 QSB [Hope, Fading]^
+HW |S1000 SIG [How, Signal]^
+BEAM |S1000 SRI [Beam, Sorry]^
+BEAM |S1000 SIG [Beam, Signal]^
+TNX |S1000 SIG [Thanks, Signal]^
+HW |S1000 SIG [How, Signal]^
+HPE |S1000 CPY [Hope, Copy]^
+SIG |S1000 HW [Signal, How]^

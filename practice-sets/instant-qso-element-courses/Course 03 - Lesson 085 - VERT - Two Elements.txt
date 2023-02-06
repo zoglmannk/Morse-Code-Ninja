@@ -1,0 +1,600 @@
+VERT |S1000 PSE [Vertical, Please]^
+QRS |S1000 VERT [Slow speed, Vertical]^
+QSL |S1000 QRS [Confirm, Slow speed]^
+QRP |S1000 QRQ [Low power, High speed]^
+QRS |S1000 EL [Slow speed, Element]^
+HW\? |S1000 VERT [How copy\?, Vertical]^
+PSE |S1000 VERT [Please, Vertical]^
+BURO |S1000 OP [bureau, Operator]^
+CFM |S1000 OP [Confirm, Operator]^
+VERT |S1000 BURO [Vertical, bureau]^
+VERT |S1000 QRS [Vertical, Slow speed]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+QSL |S1000 VERT [Confirm, Vertical]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+QRS |S1000 MNI [Slow speed, Many]^
+CFM |S1000 QSY [Confirm, Change frequency]^
+PSE |S1000 BCNU [Please, Be seeing you]^
+QSY |S1000 QSL [Change frequency, Confirm]^
+VERT |S1000 OP [Vertical, Operator]^
+HW\? |S1000 VERT [How copy\?, Vertical]^
+OP |S1000 VERT [Operator, Vertical]^
+EL |S1000 QRP [Element, Low power]^
+MNI |S1000 VERT [Many, Vertical]^
+RX |S1000 VERT [Receive, Vertical]^
+CFM |S1000 DR [Confirm, Dear]^
+PSE |S1000 RX [Please, Receive]^
+OP |S1000 VERT [Operator, Vertical]^
+OP |S1000 QSL [Operator, Confirm]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+FT |S1000 PSE [Feet, Please]^
+VERT |S1000 BURO [Vertical, bureau]^
+QRQ |S1000 EL [High speed, Element]^
+PLS |S1000 VERT [Please, Vertical]^
+FT |S1000 VERT [Feet, Vertical]^
+HW\? |S1000 OP [How copy\?, Operator]^
+VERT |S1000 OP [Vertical, Operator]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+HR |S1000 RX [Hear, Receive]^
+EFHW |S1000 HR [End fed, half-wave, Hear]^
+MNI |S1000 CFM [Many, Confirm]^
+HW\? |S1000 VERT [How copy\?, Vertical]^
+DR |S1000 BCNU [Dear, Be seeing you]^
+FT |S1000 VERT [Feet, Vertical]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+MNI |S1000 VERT [Many, Vertical]^
+BURO |S1000 DR [bureau, Dear]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+RX |S1000 HW\? [Receive, How copy\?]^
+VERT |S1000 MNI [Vertical, Many]^
+BURO |S1000 QSL [bureau, Confirm]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+VERT |S1000 QRS [Vertical, Slow speed]^
+EL |S1000 VERT [Element, Vertical]^
+PLS |S1000 YL [Please, Young lady]^
+EL |S1000 PLS [Element, Please]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+VERT |S1000 HR [Vertical, Hear]^
+RX |S1000 BCNU [Receive, Be seeing you]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+VERT |S1000 TX [Vertical, Transmit]^
+PSE |S1000 QSY [Please, Change frequency]^
+VERT |S1000 OP [Vertical, Operator]^
+VERT |S1000 YL [Vertical, Young lady]^
+QRP |S1000 VERT [Low power, Vertical]^
+PLS |S1000 PSE [Please, Please]^
+EL |S1000 VERT [Element, Vertical]^
+PSE |S1000 QSL [Please, Confirm]^
+VERT |S1000 EL [Vertical, Element]^
+VERT |S1000 MNI [Vertical, Many]^
+VERT |S1000 QRS [Vertical, Slow speed]^
+DR |S1000 BURO [Dear, bureau]^
+VERT |S1000 QSY [Vertical, Change frequency]^
+QRP |S1000 QSY [Low power, Change frequency]^
+QRQ |S1000 HR [High speed, Hear]^
+VERT |S1000 CFM [Vertical, Confirm]^
+HW\? |S1000 BCNU [How copy\?, Be seeing you]^
+FT |S1000 VERT [Feet, Vertical]^
+RX |S1000 BURO [Receive, bureau]^
+VERT |S1000 PSE [Vertical, Please]^
+VERT |S1000 BURO [Vertical, bureau]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+HR |S1000 QSL [Hear, Confirm]^
+TX |S1000 VERT [Transmit, Vertical]^
+OP |S1000 PLS [Operator, Please]^
+VERT |S1000 BURO [Vertical, bureau]^
+QSL |S1000 PSE [Confirm, Please]^
+BURO |S1000 QRQ [bureau, High speed]^
+VERT |S1000 CFM [Vertical, Confirm]^
+HW\? |S1000 BCNU [How copy\?, Be seeing you]^
+EL |S1000 QRS [Element, Slow speed]^
+QRP |S1000 VERT [Low power, Vertical]^
+QSL |S1000 PSE [Confirm, Please]^
+VERT |S1000 PSE [Vertical, Please]^
+PLS |S1000 FT [Please, Feet]^
+VERT |S1000 PLS [Vertical, Please]^
+MNI |S1000 PSE [Many, Please]^
+YL |S1000 PLS [Young lady, Please]^
+VERT |S1000 PLS [Vertical, Please]^
+PSE |S1000 HR [Please, Hear]^
+YL |S1000 VERT [Young lady, Vertical]^
+QSY |S1000 VERT [Change frequency, Vertical]^
+BURO |S1000 VERT [bureau, Vertical]^
+PLS |S1000 VERT [Please, Vertical]^
+BURO |S1000 VERT [bureau, Vertical]^
+BURO |S1000 PSE [bureau, Please]^
+BURO |S1000 MNI [bureau, Many]^
+VERT |S1000 DR [Vertical, Dear]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+CFM |S1000 VERT [Confirm, Vertical]^
+MNI |S1000 VERT [Many, Vertical]^
+QRQ |S1000 VERT [High speed, Vertical]^
+TX |S1000 VERT [Transmit, Vertical]^
+FT |S1000 RX [Feet, Receive]^
+CFM |S1000 YL [Confirm, Young lady]^
+QSY |S1000 VERT [Change frequency, Vertical]^
+QSL |S1000 PLS [Confirm, Please]^
+VERT |S1000 RX [Vertical, Receive]^
+VERT |S1000 PSE [Vertical, Please]^
+MNI |S1000 QRP [Many, Low power]^
+YL |S1000 VERT [Young lady, Vertical]^
+QSL |S1000 DR [Confirm, Dear]^
+FT |S1000 VERT [Feet, Vertical]^
+OP |S1000 VERT [Operator, Vertical]^
+BURO |S1000 QSY [bureau, Change frequency]^
+VERT |S1000 RX [Vertical, Receive]^
+VERT |S1000 QRQ [Vertical, High speed]^
+VERT |S1000 BURO [Vertical, bureau]^
+EL |S1000 TX [Element, Transmit]^
+VERT |S1000 EL [Vertical, Element]^
+YL |S1000 VERT [Young lady, Vertical]^
+RX |S1000 QSL [Receive, Confirm]^
+VERT |S1000 QSY [Vertical, Change frequency]^
+VERT |S1000 EL [Vertical, Element]^
+QRQ |S1000 VERT [High speed, Vertical]^
+QRQ |S1000 VERT [High speed, Vertical]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+TX |S1000 BURO [Transmit, bureau]^
+QSL |S1000 PSE [Confirm, Please]^
+MNI |S1000 VERT [Many, Vertical]^
+EL |S1000 EFHW [Element, End fed, half-wave]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+VERT |S1000 OP [Vertical, Operator]^
+VERT |S1000 HW\? [Vertical, How copy\?]^
+VERT |S1000 PSE [Vertical, Please]^
+OP |S1000 VERT [Operator, Vertical]^
+EL |S1000 OP [Element, Operator]^
+FT |S1000 PLS [Feet, Please]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+MNI |S1000 YL [Many, Young lady]^
+VERT |S1000 CFM [Vertical, Confirm]^
+VERT |S1000 QRQ [Vertical, High speed]^
+VERT |S1000 DR [Vertical, Dear]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+QRS |S1000 VERT [Slow speed, Vertical]^
+YL |S1000 QSL [Young lady, Confirm]^
+QRP |S1000 QRS [Low power, Slow speed]^
+RX |S1000 VERT [Receive, Vertical]^
+RX |S1000 BCNU [Receive, Be seeing you]^
+VERT |S1000 EL [Vertical, Element]^
+VERT |S1000 PLS [Vertical, Please]^
+QSY |S1000 HR [Change frequency, Hear]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+QRQ |S1000 QSL [High speed, Confirm]^
+VERT |S1000 QSY [Vertical, Change frequency]^
+BURO |S1000 DR [bureau, Dear]^
+EL |S1000 VERT [Element, Vertical]^
+EFHW |S1000 PSE [End fed, half-wave, Please]^
+CFM |S1000 QSY [Confirm, Change frequency]^
+DR |S1000 VERT [Dear, Vertical]^
+RX |S1000 EL [Receive, Element]^
+BURO |S1000 CFM [bureau, Confirm]^
+VERT |S1000 FT [Vertical, Feet]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+VERT |S1000 PSE [Vertical, Please]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+YL |S1000 BURO [Young lady, bureau]^
+VERT |S1000 TX [Vertical, Transmit]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+QSY |S1000 VERT [Change frequency, Vertical]^
+QSL |S1000 HR [Confirm, Hear]^
+VERT |S1000 QSL [Vertical, Confirm]^
+VERT |S1000 EL [Vertical, Element]^
+VERT |S1000 TX [Vertical, Transmit]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+PSE |S1000 RX [Please, Receive]^
+VERT |S1000 QSY [Vertical, Change frequency]^
+QRP |S1000 QSY [Low power, Change frequency]^
+HW\? |S1000 QRQ [How copy\?, High speed]^
+QSL |S1000 TX [Confirm, Transmit]^
+VERT |S1000 OP [Vertical, Operator]^
+VERT |S1000 PSE [Vertical, Please]^
+PLS |S1000 VERT [Please, Vertical]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+VERT |S1000 FT [Vertical, Feet]^
+VERT |S1000 EL [Vertical, Element]^
+VERT |S1000 QRQ [Vertical, High speed]^
+MNI |S1000 QRP [Many, Low power]^
+OP |S1000 PSE [Operator, Please]^
+VERT |S1000 TX [Vertical, Transmit]^
+OP |S1000 PSE [Operator, Please]^
+TX |S1000 VERT [Transmit, Vertical]^
+CFM |S1000 VERT [Confirm, Vertical]^
+PSE |S1000 VERT [Please, Vertical]^
+RX |S1000 QRP [Receive, Low power]^
+CFM |S1000 BCNU [Confirm, Be seeing you]^
+CFM |S1000 TX [Confirm, Transmit]^
+VERT |S1000 CFM [Vertical, Confirm]^
+VERT |S1000 YL [Vertical, Young lady]^
+EL |S1000 OP [Element, Operator]^
+VERT |S1000 PLS [Vertical, Please]^
+VERT |S1000 OP [Vertical, Operator]^
+VERT |S1000 DR [Vertical, Dear]^
+VERT |S1000 FT [Vertical, Feet]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+VERT |S1000 QRS [Vertical, Slow speed]^
+VERT |S1000 DR [Vertical, Dear]^
+VERT |S1000 DR [Vertical, Dear]^
+FT |S1000 VERT [Feet, Vertical]^
+EL |S1000 TX [Element, Transmit]^
+PLS |S1000 QRP [Please, Low power]^
+QRQ |S1000 HW\? [High speed, How copy\?]^
+VERT |S1000 CFM [Vertical, Confirm]^
+VERT |S1000 HR [Vertical, Hear]^
+VERT |S1000 DR [Vertical, Dear]^
+QRQ |S1000 PLS [High speed, Please]^
+FT |S1000 QRQ [Feet, High speed]^
+VERT |S1000 QSL [Vertical, Confirm]^
+BURO |S1000 VERT [bureau, Vertical]^
+BURO |S1000 VERT [bureau, Vertical]^
+BURO |S1000 VERT [bureau, Vertical]^
+DR |S1000 VERT [Dear, Vertical]^
+HR |S1000 QRS [Hear, Slow speed]^
+VERT |S1000 QSY [Vertical, Change frequency]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+EFHW |S1000 MNI [End fed, half-wave, Many]^
+QSY |S1000 VERT [Change frequency, Vertical]^
+EL |S1000 VERT [Element, Vertical]^
+QRQ |S1000 VERT [High speed, Vertical]^
+HW\? |S1000 MNI [How copy\?, Many]^
+VERT |S1000 QSL [Vertical, Confirm]^
+VERT |S1000 FT [Vertical, Feet]^
+DR |S1000 OP [Dear, Operator]^
+VERT |S1000 RX [Vertical, Receive]^
+VERT |S1000 QRS [Vertical, Slow speed]^
+VERT |S1000 QRP [Vertical, Low power]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+VERT |S1000 QRP [Vertical, Low power]^
+YL |S1000 VERT [Young lady, Vertical]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+VERT |S1000 CFM [Vertical, Confirm]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+HW\? |S1000 BCNU [How copy\?, Be seeing you]^
+CFM |S1000 BURO [Confirm, bureau]^
+QRP |S1000 EFHW [Low power, End fed, half-wave]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+PSE |S1000 VERT [Please, Vertical]^
+QRP |S1000 RX [Low power, Receive]^
+PSE |S1000 TX [Please, Transmit]^
+QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+MNI |S1000 CFM [Many, Confirm]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+EL |S1000 VERT [Element, Vertical]^
+QSL |S1000 BURO [Confirm, bureau]^
+VERT |S1000 DR [Vertical, Dear]^
+VERT |S1000 YL [Vertical, Young lady]^
+DR |S1000 PLS [Dear, Please]^
+QRQ |S1000 PSE [High speed, Please]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+VERT |S1000 HR [Vertical, Hear]^
+PLS |S1000 QRQ [Please, High speed]^
+EL |S1000 VERT [Element, Vertical]^
+MNI |S1000 HR [Many, Hear]^
+VERT |S1000 EL [Vertical, Element]^
+VERT |S1000 OP [Vertical, Operator]^
+VERT |S1000 DR [Vertical, Dear]^
+FT |S1000 VERT [Feet, Vertical]^
+EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
+HR |S1000 VERT [Hear, Vertical]^
+HR |S1000 PLS [Hear, Please]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+DR |S1000 EFHW [Dear, End fed, half-wave]^
+HW\? |S1000 VERT [How copy\?, Vertical]^
+HR |S1000 VERT [Hear, Vertical]^
+QRS |S1000 FT [Slow speed, Feet]^
+VERT |S1000 PSE [Vertical, Please]^
+QRQ |S1000 QRP [High speed, Low power]^
+MNI |S1000 TX [Many, Transmit]^
+PSE |S1000 VERT [Please, Vertical]^
+QRS |S1000 VERT [Slow speed, Vertical]^
+FT |S1000 VERT [Feet, Vertical]^
+QSY |S1000 VERT [Change frequency, Vertical]^
+QSY |S1000 DR [Change frequency, Dear]^
+HR |S1000 BCNU [Hear, Be seeing you]^
+VERT |S1000 QRP [Vertical, Low power]^
+VERT |S1000 QSL [Vertical, Confirm]^
+VERT |S1000 OP [Vertical, Operator]^
+EL |S1000 VERT [Element, Vertical]^
+QRP |S1000 HW\? [Low power, How copy\?]^
+OP |S1000 VERT [Operator, Vertical]^
+HW\? |S1000 MNI [How copy\?, Many]^
+VERT |S1000 RX [Vertical, Receive]^
+MNI |S1000 PLS [Many, Please]^
+VERT |S1000 QSL [Vertical, Confirm]^
+VERT |S1000 EL [Vertical, Element]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+VERT |S1000 RX [Vertical, Receive]^
+VERT |S1000 HR [Vertical, Hear]^
+CFM |S1000 DR [Confirm, Dear]^
+PSE |S1000 EL [Please, Element]^
+VERT |S1000 PLS [Vertical, Please]^
+QRP |S1000 BCNU [Low power, Be seeing you]^
+DR |S1000 FT [Dear, Feet]^
+YL |S1000 OP [Young lady, Operator]^
+VERT |S1000 BURO [Vertical, bureau]^
+VERT |S1000 MNI [Vertical, Many]^
+HR |S1000 VERT [Hear, Vertical]^
+QRS |S1000 VERT [Slow speed, Vertical]^
+YL |S1000 MNI [Young lady, Many]^
+VERT |S1000 PLS [Vertical, Please]^
+QRP |S1000 VERT [Low power, Vertical]^
+QRS |S1000 VERT [Slow speed, Vertical]^
+TX |S1000 BURO [Transmit, bureau]^
+RX |S1000 VERT [Receive, Vertical]^
+QSY |S1000 EL [Change frequency, Element]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+EL |S1000 PLS [Element, Please]^
+OP |S1000 QRP [Operator, Low power]^
+TX |S1000 VERT [Transmit, Vertical]^
+OP |S1000 VERT [Operator, Vertical]^
+OP |S1000 VERT [Operator, Vertical]^
+EL |S1000 HW\? [Element, How copy\?]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+MNI |S1000 QRS [Many, Slow speed]^
+PLS |S1000 FT [Please, Feet]^
+HW\? |S1000 VERT [How copy\?, Vertical]^
+EL |S1000 VERT [Element, Vertical]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+TX |S1000 BCNU [Transmit, Be seeing you]^
+PSE |S1000 VERT [Please, Vertical]^
+PSE |S1000 VERT [Please, Vertical]^
+BURO |S1000 OP [bureau, Operator]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+VERT |S1000 HW\? [Vertical, How copy\?]^
+QSL |S1000 VERT [Confirm, Vertical]^
+QSY |S1000 VERT [Change frequency, Vertical]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+QRS |S1000 DR [Slow speed, Dear]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+RX |S1000 EL [Receive, Element]^
+HW\? |S1000 QSY [How copy\?, Change frequency]^
+VERT |S1000 QRS [Vertical, Slow speed]^
+VERT |S1000 QSL [Vertical, Confirm]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+QRS |S1000 VERT [Slow speed, Vertical]^
+PSE |S1000 VERT [Please, Vertical]^
+QRP |S1000 PLS [Low power, Please]^
+VERT |S1000 RX [Vertical, Receive]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+EL |S1000 VERT [Element, Vertical]^
+FT |S1000 CFM [Feet, Confirm]^
+HR |S1000 BURO [Hear, bureau]^
+QRQ |S1000 QRP [High speed, Low power]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+VERT |S1000 QRP [Vertical, Low power]^
+QRQ |S1000 VERT [High speed, Vertical]^
+PLS |S1000 VERT [Please, Vertical]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+PLS |S1000 FT [Please, Feet]^
+VERT |S1000 DR [Vertical, Dear]^
+QSY |S1000 VERT [Change frequency, Vertical]^
+YL |S1000 VERT [Young lady, Vertical]^
+OP |S1000 VERT [Operator, Vertical]^
+QRP |S1000 CFM [Low power, Confirm]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+VERT |S1000 HR [Vertical, Hear]^
+RX |S1000 VERT [Receive, Vertical]^
+QSL |S1000 YL [Confirm, Young lady]^
+OP |S1000 TX [Operator, Transmit]^
+VERT |S1000 RX [Vertical, Receive]^
+QRQ |S1000 EFHW [High speed, End fed, half-wave]^
+YL |S1000 HR [Young lady, Hear]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+FT |S1000 RX [Feet, Receive]^
+DR |S1000 VERT [Dear, Vertical]^
+QRP |S1000 VERT [Low power, Vertical]^
+CFM |S1000 QRS [Confirm, Slow speed]^
+HR |S1000 MNI [Hear, Many]^
+VERT |S1000 RX [Vertical, Receive]^
+VERT |S1000 PLS [Vertical, Please]^
+VERT |S1000 CFM [Vertical, Confirm]^
+QSL |S1000 RX [Confirm, Receive]^
+YL |S1000 PLS [Young lady, Please]^
+BCNU |S1000 MNI [Be seeing you, Many]^
+YL |S1000 EL [Young lady, Element]^
+HR |S1000 VERT [Hear, Vertical]^
+HW\? |S1000 QRS [How copy\?, Slow speed]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+TX |S1000 RX [Transmit, Receive]^
+VERT |S1000 DR [Vertical, Dear]^
+TX |S1000 VERT [Transmit, Vertical]^
+CFM |S1000 QSL [Confirm, Confirm]^
+VERT |S1000 FT [Vertical, Feet]^
+BCNU |S1000 EL [Be seeing you, Element]^
+VERT |S1000 QRS [Vertical, Slow speed]^
+VERT |S1000 PLS [Vertical, Please]^
+YL |S1000 TX [Young lady, Transmit]^
+VERT |S1000 PSE [Vertical, Please]^
+PLS |S1000 YL [Please, Young lady]^
+VERT |S1000 TX [Vertical, Transmit]^
+HR |S1000 VERT [Hear, Vertical]^
+EL |S1000 OP [Element, Operator]^
+VERT |S1000 QRS [Vertical, Slow speed]^
+FT |S1000 TX [Feet, Transmit]^
+VERT |S1000 QSY [Vertical, Change frequency]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+RX |S1000 QSY [Receive, Change frequency]^
+PLS |S1000 VERT [Please, Vertical]^
+QRS |S1000 VERT [Slow speed, Vertical]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+VERT |S1000 QRP [Vertical, Low power]^
+CFM |S1000 PSE [Confirm, Please]^
+VERT |S1000 PSE [Vertical, Please]^
+QRP |S1000 OP [Low power, Operator]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+VERT |S1000 MNI [Vertical, Many]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+CFM |S1000 VERT [Confirm, Vertical]^
+QSY |S1000 QSL [Change frequency, Confirm]^
+QSY |S1000 TX [Change frequency, Transmit]^
+VERT |S1000 RX [Vertical, Receive]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+DR |S1000 OP [Dear, Operator]^
+VERT |S1000 BURO [Vertical, bureau]^
+PSE |S1000 BCNU [Please, Be seeing you]^
+MNI |S1000 VERT [Many, Vertical]^
+QSY |S1000 MNI [Change frequency, Many]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+OP |S1000 VERT [Operator, Vertical]^
+FT |S1000 VERT [Feet, Vertical]^
+CFM |S1000 VERT [Confirm, Vertical]^
+QRQ |S1000 VERT [High speed, Vertical]^
+OP |S1000 PSE [Operator, Please]^
+QSY |S1000 VERT [Change frequency, Vertical]^
+RX |S1000 QSL [Receive, Confirm]^
+MNI |S1000 VERT [Many, Vertical]^
+FT |S1000 BURO [Feet, bureau]^
+BCNU |S1000 QRP [Be seeing you, Low power]^
+BCNU |S1000 QRP [Be seeing you, Low power]^
+VERT |S1000 MNI [Vertical, Many]^
+QSY |S1000 VERT [Change frequency, Vertical]^
+HR |S1000 BURO [Hear, bureau]^
+VERT |S1000 PLS [Vertical, Please]^
+VERT |S1000 EL [Vertical, Element]^
+VERT |S1000 QSY [Vertical, Change frequency]^
+QRQ |S1000 VERT [High speed, Vertical]^
+HR |S1000 VERT [Hear, Vertical]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+HR |S1000 VERT [Hear, Vertical]^
+FT |S1000 EL [Feet, Element]^
+QRQ |S1000 VERT [High speed, Vertical]^
+PLS |S1000 HW\? [Please, How copy\?]^
+TX |S1000 VERT [Transmit, Vertical]^
+QSY |S1000 VERT [Change frequency, Vertical]^
+HR |S1000 VERT [Hear, Vertical]^
+PSE |S1000 BCNU [Please, Be seeing you]^
+VERT |S1000 PLS [Vertical, Please]^
+VERT |S1000 HW\? [Vertical, How copy\?]^
+VERT |S1000 HW\? [Vertical, How copy\?]^
+QRQ |S1000 QSL [High speed, Confirm]^
+QRP |S1000 QRS [Low power, Slow speed]^
+DR |S1000 QSY [Dear, Change frequency]^
+PSE |S1000 VERT [Please, Vertical]^
+BCNU |S1000 QRQ [Be seeing you, High speed]^
+HW\? |S1000 VERT [How copy\?, Vertical]^
+TX |S1000 PSE [Transmit, Please]^
+VERT |S1000 QSY [Vertical, Change frequency]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+DR |S1000 QSY [Dear, Change frequency]^
+RX |S1000 PLS [Receive, Please]^
+VERT |S1000 YL [Vertical, Young lady]^
+EL |S1000 VERT [Element, Vertical]^
+QSY |S1000 EFHW [Change frequency, End fed, half-wave]^
+QSY |S1000 YL [Change frequency, Young lady]^
+BURO |S1000 VERT [bureau, Vertical]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+TX |S1000 VERT [Transmit, Vertical]^
+HW\? |S1000 QRP [How copy\?, Low power]^
+VERT |S1000 TX [Vertical, Transmit]^
+VERT |S1000 CFM [Vertical, Confirm]^
+VERT |S1000 RX [Vertical, Receive]^
+VERT |S1000 YL [Vertical, Young lady]^
+HW\? |S1000 PLS [How copy\?, Please]^
+VERT |S1000 QRQ [Vertical, High speed]^
+VERT |S1000 QSY [Vertical, Change frequency]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+VERT |S1000 QRQ [Vertical, High speed]^
+PLS |S1000 QRS [Please, Slow speed]^
+VERT |S1000 DR [Vertical, Dear]^
+QSL |S1000 VERT [Confirm, Vertical]^
+PSE |S1000 HW\? [Please, How copy\?]^
+QSL |S1000 VERT [Confirm, Vertical]^
+QRP |S1000 VERT [Low power, Vertical]^
+PSE |S1000 OP [Please, Operator]^
+EL |S1000 VERT [Element, Vertical]^
+RX |S1000 VERT [Receive, Vertical]^
+PSE |S1000 QRP [Please, Low power]^
+QRS |S1000 VERT [Slow speed, Vertical]^
+EL |S1000 FT [Element, Feet]^
+CFM |S1000 VERT [Confirm, Vertical]^
+BURO |S1000 VERT [bureau, Vertical]^
+QSL |S1000 MNI [Confirm, Many]^
+QRP |S1000 VERT [Low power, Vertical]^
+RX |S1000 PLS [Receive, Please]^
+QSL |S1000 VERT [Confirm, Vertical]^
+RX |S1000 QRQ [Receive, High speed]^
+QRS |S1000 VERT [Slow speed, Vertical]^
+HR |S1000 VERT [Hear, Vertical]^
+OP |S1000 EFHW [Operator, End fed, half-wave]^
+VERT |S1000 DR [Vertical, Dear]^
+QRQ |S1000 VERT [High speed, Vertical]^
+BURO |S1000 QSY [bureau, Change frequency]^
+VERT |S1000 TX [Vertical, Transmit]^
+PLS |S1000 BCNU [Please, Be seeing you]^
+VERT |S1000 HR [Vertical, Hear]^
+EFHW |S1000 QRQ [End fed, half-wave, High speed]^
+MNI |S1000 PSE [Many, Please]^
+VERT |S1000 QRP [Vertical, Low power]^
+VERT |S1000 RX [Vertical, Receive]^
+TX |S1000 PSE [Transmit, Please]^
+OP |S1000 HW\? [Operator, How copy\?]^
+VERT |S1000 YL [Vertical, Young lady]^
+OP |S1000 VERT [Operator, Vertical]^
+DR |S1000 TX [Dear, Transmit]^
+QSL |S1000 HW\? [Confirm, How copy\?]^
+VERT |S1000 DR [Vertical, Dear]^
+VERT |S1000 QSY [Vertical, Change frequency]^
+BURO |S1000 QRQ [bureau, High speed]^
+VERT |S1000 QRP [Vertical, Low power]^
+VERT |S1000 QRP [Vertical, Low power]^
+VERT |S1000 TX [Vertical, Transmit]^
+VERT |S1000 PSE [Vertical, Please]^
+MNI |S1000 QSY [Many, Change frequency]^
+DR |S1000 VERT [Dear, Vertical]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+QRP |S1000 QRS [Low power, Slow speed]^
+HW\? |S1000 VERT [How copy\?, Vertical]^
+PSE |S1000 VERT [Please, Vertical]^
+EFHW |S1000 QRS [End fed, half-wave, Slow speed]^
+YL |S1000 QRP [Young lady, Low power]^
+VERT |S1000 YL [Vertical, Young lady]^
+HR |S1000 QRP [Hear, Low power]^
+BCNU |S1000 PLS [Be seeing you, Please]^
+QRP |S1000 TX [Low power, Transmit]^
+HW\? |S1000 VERT [How copy\?, Vertical]^
+MNI |S1000 OP [Many, Operator]^
+QRP |S1000 VERT [Low power, Vertical]^
+TX |S1000 VERT [Transmit, Vertical]^
+QSL |S1000 VERT [Confirm, Vertical]^
+BCNU |S1000 QRS [Be seeing you, Slow speed]^
+VERT |S1000 FT [Vertical, Feet]^
+YL |S1000 VERT [Young lady, Vertical]^
+BCNU |S1000 VERT [Be seeing you, Vertical]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+RX |S1000 VERT [Receive, Vertical]^
+QRP |S1000 MNI [Low power, Many]^
+QRS |S1000 CFM [Slow speed, Confirm]^
+EL |S1000 BURO [Element, bureau]^
+QRQ |S1000 EL [High speed, Element]^
+PSE |S1000 QRP [Please, Low power]^
+VERT |S1000 PSE [Vertical, Please]^
+FT |S1000 VERT [Feet, Vertical]^
+QSL |S1000 VERT [Confirm, Vertical]^
+PLS |S1000 DR [Please, Dear]^
+VERT |S1000 PSE [Vertical, Please]^
+VERT |S1000 HW\? [Vertical, How copy\?]^
+VERT |S1000 TX [Vertical, Transmit]^
+OP |S1000 QSY [Operator, Change frequency]^
+EFHW |S1000 VERT [End fed, half-wave, Vertical]^
+BCNU |S1000 OP [Be seeing you, Operator]^
+EL |S1000 VERT [Element, Vertical]^
+QRQ |S1000 VERT [High speed, Vertical]^
+EFHW |S1000 RX [End fed, half-wave, Receive]^
+CFM |S1000 VERT [Confirm, Vertical]^
+QRP |S1000 MNI [Low power, Many]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+VERT |S1000 BURO [Vertical, bureau]^
+EL |S1000 QSL [Element, Confirm]^
+CFM |S1000 BCNU [Confirm, Be seeing you]^
+QSY |S1000 BURO [Change frequency, bureau]^
+VERT |S1000 TX [Vertical, Transmit]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+VERT |S1000 CFM [Vertical, Confirm]^
