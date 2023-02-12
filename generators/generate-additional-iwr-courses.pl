@@ -328,7 +328,7 @@ sub generate_course {
 print $WRITE_RENDER_FH "#!/bin/bash\n\n";
 print $WRITE_RENDER_FH "\n\n# Watch output\n";
 print $WRITE_RENDER_FH "# watch '/bin/ls -1 Course*.mp3 | grep Course | tail -n 20'\n\n";
-for($course_num = 2; $course_num <= 8; $course_num++) {
+for($course_num = 2; $course_num <= 15; $course_num++) {
     load_words_for_course($course_num);
     load_sentences($course_num);
     generate_course();
