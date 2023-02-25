@@ -1,600 +1,600 @@
-599 |S1000 DE [5 9 9, From]^
-ES |S1000 599 [And, 5 9 9]^
-UR |S1000 UP [Your, Up]^
-ES |S1000 UR [And, Your]^
-VY |S1000 73 [Very, 73]^
-QRM |S1000 UR [Interference, Your]^
-5NN |S1000 UR [5 N N, Your]^
-RST |S1000 UR [R S T, Your]^
-73 |S1000 RST [73, R S T]^
-UR |S1000 5NN [Your, 5 N N]^
-599 |S1000 UP [5 9 9, Up]^
-QRZ |S1000 CQ [Q R Zed, C Q]^
-QRZ |S1000 UP [Q R Zed, Up]^
-UR |S1000 UP [Your, Up]^
-UR |S1000 WX [Your, Weather]^
-UR |S1000 QRM [Your, Interference]^
-UR |S1000 CQ [Your, C Q]^
-WX |S1000 QRM [Weather, Interference]^
-UR |S1000 ES [Your, And]^
-UR |S1000 VY [Your, Very]^
-RST |S1000 NAME [R S T, Name]^
-UR |S1000 NAME [Your, Name]^
-UR |S1000 CQ [Your, C Q]^
-QRZ |S1000 UR [Q R Zed, Your]^
-599 |S1000 5NN [5 9 9, 5 N N]^
-UR |S1000 5NN [Your, 5 N N]^
-NAME |S1000 DE [Name, From]^
-UR |S1000 NR [Your, Number]^
-UR |S1000 5NN [Your, 5 N N]^
-UR |S1000 VY [Your, Very]^
-5NN |S1000 UR [5 N N, Your]^
-NAME |S1000 UR [Name, Your]^
-WX |S1000 UR [Weather, Your]^
-WX |S1000 UP [Weather, Up]^
-QRM |S1000 UR [Interference, Your]^
-UP |S1000 UR [Up, Your]^
-CQ |S1000 559 [C Q, 5 5 9]^
-DE |S1000 UR [From, Your]^
-CQ |S1000 DE [C Q, From]^
-NAME |S1000 5NN [Name, 5 N N]^
-UP |S1000 QRM [Up, Interference]^
-UR |S1000 599 [Your, 5 9 9]^
-UR |S1000 QRM [Your, Interference]^
-UR |S1000 RST [Your, R S T]^
-DE |S1000 QRM [From, Interference]^
-QRZ |S1000 UR [Q R Zed, Your]^
-NAME |S1000 73 [Name, 73]^
-RST |S1000 QRZ [R S T, Q R Zed]^
-559 |S1000 RST [5 5 9, R S T]^
-UR |S1000 QRM [Your, Interference]^
-UR |S1000 ES [Your, And]^
-559 |S1000 UP [5 5 9, Up]^
-UR |S1000 DE [Your, From]^
-UR |S1000 NR [Your, Number]^
-UR |S1000 ES [Your, And]^
-UR |S1000 CQ [Your, C Q]^
-UR |S1000 NR [Your, Number]^
-UR |S1000 CQ [Your, C Q]^
-UR |S1000 CQ [Your, C Q]^
-599 |S1000 QRM [5 9 9, Interference]^
-RST |S1000 DE [R S T, From]^
-CQ |S1000 UR [C Q, Your]^
-ES |S1000 UR [And, Your]^
-CQ |S1000 WX [C Q, Weather]^
-UR |S1000 UP [Your, Up]^
-73 |S1000 UR [73, Your]^
-NR |S1000 QRZ [Number, Q R Zed]^
-UR |S1000 NAME [Your, Name]^
-RST |S1000 ES [R S T, And]^
-73 |S1000 WX [73, Weather]^
-QRZ |S1000 ES [Q R Zed, And]^
-QRZ |S1000 UR [Q R Zed, Your]^
-WX |S1000 QRM [Weather, Interference]^
-ES |S1000 599 [And, 5 9 9]^
-CQ |S1000 WX [C Q, Weather]^
-UR |S1000 73 [Your, 73]^
-UR |S1000 NR [Your, Number]^
-UR |S1000 NAME [Your, Name]^
-QRZ |S1000 UR [Q R Zed, Your]^
-WX |S1000 UP [Weather, Up]^
-UR |S1000 599 [Your, 5 9 9]^
-UR |S1000 CQ [Your, C Q]^
-UR |S1000 QRM [Your, Interference]^
-NR |S1000 VY [Number, Very]^
-NAME |S1000 599 [Name, 5 9 9]^
-ES |S1000 UR [And, Your]^
-559 |S1000 UR [5 5 9, Your]^
-QRM |S1000 UR [Interference, Your]^
-WX |S1000 UR [Weather, Your]^
-WX |S1000 UR [Weather, Your]^
-RST |S1000 NR [R S T, Number]^
-UR |S1000 UP [Your, Up]^
-UR |S1000 NR [Your, Number]^
-5NN |S1000 UR [5 N N, Your]^
-QRM |S1000 UR [Interference, Your]^
-DE |S1000 599 [From, 5 9 9]^
-WX |S1000 VY [Weather, Very]^
-599 |S1000 UR [5 9 9, Your]^
-UP |S1000 NR [Up, Number]^
-559 |S1000 599 [5 5 9, 5 9 9]^
-UR |S1000 QRZ [Your, Q R Zed]^
-DE |S1000 5NN [From, 5 N N]^
-NR |S1000 UR [Number, Your]^
-UP |S1000 ES [Up, And]^
-CQ |S1000 DE [C Q, From]^
-UP |S1000 QRZ [Up, Q R Zed]^
-QRM |S1000 UR [Interference, Your]^
-CQ |S1000 UR [C Q, Your]^
-599 |S1000 UR [5 9 9, Your]^
-UP |S1000 UR [Up, Your]^
-73 |S1000 DE [73, From]^
-UR |S1000 599 [Your, 5 9 9]^
-UP |S1000 QRM [Up, Interference]^
-ES |S1000 UR [And, Your]^
-RST |S1000 UR [R S T, Your]^
-NAME |S1000 599 [Name, 5 9 9]^
-5NN |S1000 ES [5 N N, And]^
-UP |S1000 UR [Up, Your]^
-QRZ |S1000 UR [Q R Zed, Your]^
-WX |S1000 NR [Weather, Number]^
-UR |S1000 QRM [Your, Interference]^
-UR |S1000 ES [Your, And]^
-UR |S1000 ES [Your, And]^
-5NN |S1000 NAME [5 N N, Name]^
-UR |S1000 ES [Your, And]^
-UR |S1000 NR [Your, Number]^
-UR |S1000 599 [Your, 5 9 9]^
-NAME |S1000 UR [Name, Your]^
-ES |S1000 559 [And, 5 5 9]^
-599 |S1000 UR [5 9 9, Your]^
-ES |S1000 VY [And, Very]^
-UR |S1000 QRM [Your, Interference]^
-UR |S1000 QRZ [Your, Q R Zed]^
-UP |S1000 NR [Up, Number]^
-RST |S1000 UR [R S T, Your]^
-NR |S1000 UR [Number, Your]^
-CQ |S1000 RST [C Q, R S T]^
-UR |S1000 CQ [Your, C Q]^
-WX |S1000 UR [Weather, Your]^
-73 |S1000 UR [73, Your]^
-DE |S1000 VY [From, Very]^
-UR |S1000 RST [Your, R S T]^
-UR |S1000 NAME [Your, Name]^
-UR |S1000 UP [Your, Up]^
-UR |S1000 VY [Your, Very]^
-UP |S1000 UR [Up, Your]^
-73 |S1000 UR [73, Your]^
-DE |S1000 NR [From, Number]^
-NAME |S1000 UR [Name, Your]^
-NR |S1000 UR [Number, Your]^
-559 |S1000 UR [5 5 9, Your]^
-UP |S1000 UR [Up, Your]^
-QRZ |S1000 UR [Q R Zed, Your]^
-VY |S1000 CQ [Very, C Q]^
-UR |S1000 73 [Your, 73]^
-ES |S1000 UR [And, Your]^
-CQ |S1000 ES [C Q, And]^
-RST |S1000 NR [R S T, Number]^
-WX |S1000 NAME [Weather, Name]^
-DE |S1000 559 [From, 5 5 9]^
-NR |S1000 WX [Number, Weather]^
-QRM |S1000 CQ [Interference, C Q]^
-UR |S1000 QRZ [Your, Q R Zed]^
-UR |S1000 UP [Your, Up]^
-UR |S1000 VY [Your, Very]^
-UR |S1000 DE [Your, From]^
-NAME |S1000 UR [Name, Your]^
-DE |S1000 UR [From, Your]^
-RST |S1000 QRZ [R S T, Q R Zed]^
-UR |S1000 WX [Your, Weather]^
-599 |S1000 UR [5 9 9, Your]^
-NAME |S1000 UR [Name, Your]^
-QRM |S1000 UR [Interference, Your]^
-WX |S1000 UR [Weather, Your]^
-5NN |S1000 UR [5 N N, Your]^
-WX |S1000 UR [Weather, Your]^
-NR |S1000 NAME [Number, Name]^
-DE |S1000 UR [From, Your]^
-WX |S1000 73 [Weather, 73]^
-QRM |S1000 UR [Interference, Your]^
-VY |S1000 WX [Very, Weather]^
-UP |S1000 UR [Up, Your]^
-QRZ |S1000 UR [Q R Zed, Your]^
-599 |S1000 WX [5 9 9, Weather]^
-QRM |S1000 ES [Interference, And]^
-UR |S1000 UP [Your, Up]^
-NAME |S1000 UR [Name, Your]^
-DE |S1000 QRZ [From, Q R Zed]^
-UR |S1000 599 [Your, 5 9 9]^
-UR |S1000 5NN [Your, 5 N N]^
-CQ |S1000 VY [C Q, Very]^
-DE |S1000 QRZ [From, Q R Zed]^
-UR |S1000 QRM [Your, Interference]^
-CQ |S1000 5NN [C Q, 5 N N]^
-UR |S1000 ES [Your, And]^
-VY |S1000 UR [Very, Your]^
-VY |S1000 UR [Very, Your]^
-NR |S1000 UR [Number, Your]^
-WX |S1000 RST [Weather, R S T]^
-ES |S1000 DE [And, From]^
-NR |S1000 WX [Number, Weather]^
-UR |S1000 WX [Your, Weather]^
-UR |S1000 DE [Your, From]^
-UR |S1000 QRM [Your, Interference]^
-UR |S1000 UP [Your, Up]^
-UR |S1000 QRZ [Your, Q R Zed]^
-UR |S1000 UP [Your, Up]^
-559 |S1000 RST [5 5 9, R S T]^
-UR |S1000 CQ [Your, C Q]^
-NR |S1000 UR [Number, Your]^
-559 |S1000 NAME [5 5 9, Name]^
-UP |S1000 NAME [Up, Name]^
-UR |S1000 CQ [Your, C Q]^
-NR |S1000 UR [Number, Your]^
-NAME |S1000 UR [Name, Your]^
-UP |S1000 NAME [Up, Name]^
-QRM |S1000 UR [Interference, Your]^
-73 |S1000 UR [73, Your]^
-73 |S1000 UR [73, Your]^
-VY |S1000 QRM [Very, Interference]^
-ES |S1000 UR [And, Your]^
-UP |S1000 ES [Up, And]^
-NR |S1000 UR [Number, Your]^
-QRZ |S1000 UR [Q R Zed, Your]^
-QRM |S1000 CQ [Interference, C Q]^
-UR |S1000 599 [Your, 5 9 9]^
-UR |S1000 599 [Your, 5 9 9]^
-DE |S1000 UR [From, Your]^
-ES |S1000 UR [And, Your]^
-559 |S1000 UR [5 5 9, Your]^
-VY |S1000 DE [Very, From]^
-CQ |S1000 5NN [C Q, 5 N N]^
-DE |S1000 UR [From, Your]^
-5NN |S1000 RST [5 N N, R S T]^
-73 |S1000 DE [73, From]^
-NAME |S1000 5NN [Name, 5 N N]^
-QRZ |S1000 73 [Q R Zed, 73]^
-CQ |S1000 UR [C Q, Your]^
-NAME |S1000 UR [Name, Your]^
-QRZ |S1000 UR [Q R Zed, Your]^
-NAME |S1000 VY [Name, Very]^
+5NN |S1000 UP [5 N N, Up]^
 ES |S1000 UR [And, Your]^
 ES |S1000 UR [And, Your]^
-DE |S1000 UR [From, Your]^
-CQ |S1000 VY [C Q, Very]^
-DE |S1000 UR [From, Your]^
-ES |S1000 CQ [And, C Q]^
-5NN |S1000 RST [5 N N, R S T]^
-UR |S1000 UP [Your, Up]^
-UR |S1000 WX [Your, Weather]^
-UR |S1000 UP [Your, Up]^
-UR |S1000 5NN [Your, 5 N N]^
-UR |S1000 599 [Your, 5 9 9]^
-WX |S1000 ES [Weather, And]^
-UR |S1000 VY [Your, Very]^
-UR |S1000 CQ [Your, C Q]^
-73 |S1000 UR [73, Your]^
-RST |S1000 DE [R S T, From]^
-NR |S1000 UR [Number, Your]^
-599 |S1000 UR [5 9 9, Your]^
-QRM |S1000 UR [Interference, Your]^
-WX |S1000 UR [Weather, Your]^
-UP |S1000 73 [Up, 73]^
-UR |S1000 559 [Your, 5 5 9]^
-QRM |S1000 UR [Interference, Your]^
-559 |S1000 UR [5 5 9, Your]^
-WX |S1000 UP [Weather, Up]^
-UR |S1000 5NN [Your, 5 N N]^
-UR |S1000 RST [Your, R S T]^
-UR |S1000 CQ [Your, C Q]^
-NAME |S1000 73 [Name, 73]^
-UR |S1000 DE [Your, From]^
-VY |S1000 599 [Very, 5 9 9]^
-VY |S1000 UP [Very, Up]^
-UR |S1000 NR [Your, Number]^
-CQ |S1000 DE [C Q, From]^
-NR |S1000 599 [Number, 5 9 9]^
-UR |S1000 UP [Your, Up]^
-UR |S1000 5NN [Your, 5 N N]^
-NR |S1000 NAME [Number, Name]^
-QRM |S1000 UR [Interference, Your]^
-QRM |S1000 UR [Interference, Your]^
-5NN |S1000 UR [5 N N, Your]^
-DE |S1000 QRZ [From, Q R Zed]^
-UR |S1000 RST [Your, R S T]^
-73 |S1000 UR [73, Your]^
-73 |S1000 5NN [73, 5 N N]^
-73 |S1000 NAME [73, Name]^
-WX |S1000 CQ [Weather, C Q]^
-UR |S1000 CQ [Your, C Q]^
-UR |S1000 NR [Your, Number]^
-UR |S1000 RST [Your, R S T]^
-UR |S1000 WX [Your, Weather]^
-QRZ |S1000 599 [Q R Zed, 5 9 9]^
-UR |S1000 559 [Your, 5 5 9]^
-UR |S1000 NR [Your, Number]^
-UR |S1000 599 [Your, 5 9 9]^
-UR |S1000 CQ [Your, C Q]^
-UR |S1000 VY [Your, Very]^
-UR |S1000 73 [Your, 73]^
-UR |S1000 QRZ [Your, Q R Zed]^
-VY |S1000 UR [Very, Your]^
-VY |S1000 RST [Very, R S T]^
-DE |S1000 CQ [From, C Q]^
-DE |S1000 UR [From, Your]^
-WX |S1000 559 [Weather, 5 5 9]^
-UR |S1000 559 [Your, 5 5 9]^
-UR |S1000 QRM [Your, Interference]^
-UR |S1000 RST [Your, R S T]^
-UR |S1000 CQ [Your, C Q]^
-599 |S1000 ES [5 9 9, And]^
-UR |S1000 73 [Your, 73]^
-CQ |S1000 WX [C Q, Weather]^
-UR |S1000 73 [Your, 73]^
-UR |S1000 NR [Your, Number]^
-73 |S1000 WX [73, Weather]^
-RST |S1000 UR [R S T, Your]^
-QRM |S1000 UR [Interference, Your]^
-QRM |S1000 DE [Interference, From]^
-WX |S1000 QRM [Weather, Interference]^
-UR |S1000 559 [Your, 5 5 9]^
-UR |S1000 559 [Your, 5 5 9]^
-QRM |S1000 DE [Interference, From]^
-5NN |S1000 QRM [5 N N, Interference]^
-UP |S1000 QRM [Up, Interference]^
-UP |S1000 NAME [Up, Name]^
-599 |S1000 NR [5 9 9, Number]^
-UR |S1000 CQ [Your, C Q]^
-UR |S1000 VY [Your, Very]^
-UR |S1000 NR [Your, Number]^
-73 |S1000 UR [73, Your]^
-QRM |S1000 UR [Interference, Your]^
-559 |S1000 73 [5 5 9, 73]^
-ES |S1000 QRZ [And, Q R Zed]^
-UR |S1000 559 [Your, 5 5 9]^
-DE |S1000 UR [From, Your]^
-QRM |S1000 UP [Interference, Up]^
-73 |S1000 UR [73, Your]^
-CQ |S1000 UR [C Q, Your]^
-5NN |S1000 QRZ [5 N N, Q R Zed]^
-QRM |S1000 UR [Interference, Your]^
-UP |S1000 UR [Up, Your]^
-559 |S1000 QRZ [5 5 9, Q R Zed]^
-73 |S1000 QRM [73, Interference]^
-UR |S1000 WX [Your, Weather]^
-559 |S1000 QRZ [5 5 9, Q R Zed]^
-73 |S1000 UR [73, Your]^
-VY |S1000 5NN [Very, 5 N N]^
-UR |S1000 NR [Your, Number]^
-VY |S1000 UR [Very, Your]^
-WX |S1000 73 [Weather, 73]^
-UR |S1000 QRZ [Your, Q R Zed]^
-73 |S1000 599 [73, 5 9 9]^
-CQ |S1000 DE [C Q, From]^
-QRZ |S1000 NAME [Q R Zed, Name]^
-DE |S1000 UR [From, Your]^
-VY |S1000 UR [Very, Your]^
-QRM |S1000 UR [Interference, Your]^
-NR |S1000 QRM [Number, Interference]^
-UR |S1000 VY [Your, Very]^
-UP |S1000 UR [Up, Your]^
-CQ |S1000 UR [C Q, Your]^
-ES |S1000 UP [And, Up]^
-RST |S1000 UR [R S T, Your]^
-QRZ |S1000 UR [Q R Zed, Your]^
-559 |S1000 UR [5 5 9, Your]^
-UP |S1000 UR [Up, Your]^
-NR |S1000 WX [Number, Weather]^
-QRZ |S1000 UR [Q R Zed, Your]^
-CQ |S1000 NAME [C Q, Name]^
-UR |S1000 5NN [Your, 5 N N]^
-UR |S1000 QRM [Your, Interference]^
-NR |S1000 599 [Number, 5 9 9]^
-VY |S1000 NR [Very, Number]^
-NAME |S1000 UR [Name, Your]^
-VY |S1000 UR [Very, Your]^
-NAME |S1000 599 [Name, 5 9 9]^
-UR |S1000 NR [Your, Number]^
-QRM |S1000 UR [Interference, Your]^
-599 |S1000 5NN [5 9 9, 5 N N]^
-UR |S1000 599 [Your, 5 9 9]^
-UR |S1000 73 [Your, 73]^
-UR |S1000 599 [Your, 5 9 9]^
-UR |S1000 NR [Your, Number]^
-WX |S1000 DE [Weather, From]^
-UR |S1000 ES [Your, And]^
-UR |S1000 ES [Your, And]^
-NAME |S1000 UR [Name, Your]^
-VY |S1000 UR [Very, Your]^
-NR |S1000 5NN [Number, 5 N N]^
-UR |S1000 559 [Your, 5 5 9]^
-QRM |S1000 UR [Interference, Your]^
-ES |S1000 RST [And, R S T]^
-UR |S1000 73 [Your, 73]^
-ES |S1000 NR [And, Number]^
-73 |S1000 DE [73, From]^
-UR |S1000 599 [Your, 5 9 9]^
-559 |S1000 RST [5 5 9, R S T]^
-UR |S1000 QRZ [Your, Q R Zed]^
-599 |S1000 UR [5 9 9, Your]^
-5NN |S1000 UR [5 N N, Your]^
-CQ |S1000 ES [C Q, And]^
-UR |S1000 WX [Your, Weather]^
-559 |S1000 599 [5 5 9, 5 9 9]^
-RST |S1000 QRM [R S T, Interference]^
-5NN |S1000 NR [5 N N, Number]^
-73 |S1000 DE [73, From]^
-5NN |S1000 UR [5 N N, Your]^
-WX |S1000 UR [Weather, Your]^
-5NN |S1000 UR [5 N N, Your]^
-UP |S1000 559 [Up, 5 5 9]^
-5NN |S1000 UR [5 N N, Your]^
-ES |S1000 UP [And, Up]^
-5NN |S1000 UR [5 N N, Your]^
-QRZ |S1000 VY [Q R Zed, Very]^
-UR |S1000 QRM [Your, Interference]^
-VY |S1000 UR [Very, Your]^
-UP |S1000 UR [Up, Your]^
-ES |S1000 UR [And, Your]^
-DE |S1000 UR [From, Your]^
-VY |S1000 UR [Very, Your]^
-UP |S1000 CQ [Up, C Q]^
-NR |S1000 VY [Number, Very]^
-UR |S1000 559 [Your, 5 5 9]^
-UR |S1000 ES [Your, And]^
-QRM |S1000 559 [Interference, 5 5 9]^
-UR |S1000 5NN [Your, 5 N N]^
-UR |S1000 WX [Your, Weather]^
-UR |S1000 QRM [Your, Interference]^
-DE |S1000 5NN [From, 5 N N]^
-599 |S1000 VY [5 9 9, Very]^
-CQ |S1000 VY [C Q, Very]^
-QRM |S1000 UR [Interference, Your]^
-NR |S1000 5NN [Number, 5 N N]^
-UR |S1000 73 [Your, 73]^
-UR |S1000 CQ [Your, C Q]^
-NAME |S1000 UR [Name, Your]^
 CQ |S1000 NR [C Q, Number]^
-599 |S1000 UR [5 9 9, Your]^
-NAME |S1000 UR [Name, Your]^
-RST |S1000 UP [R S T, Up]^
-ES |S1000 NR [And, Number]^
-ES |S1000 73 [And, 73]^
-UR |S1000 VY [Your, Very]^
+UR |S1000 559 [Your, 5 5 9]^
 QRM |S1000 UR [Interference, Your]^
-WX |S1000 UR [Weather, Your]^
-VY |S1000 UR [Very, Your]^
-ES |S1000 559 [And, 5 5 9]^
-UR |S1000 WX [Your, Weather]^
-73 |S1000 RST [73, R S T]^
-UR |S1000 599 [Your, 5 9 9]^
-UR |S1000 5NN [Your, 5 N N]^
-UR |S1000 QRM [Your, Interference]^
-UR |S1000 599 [Your, 5 9 9]^
-NAME |S1000 QRM [Name, Interference]^
-UR |S1000 5NN [Your, 5 N N]^
-599 |S1000 UR [5 9 9, Your]^
-VY |S1000 UP [Very, Up]^
-5NN |S1000 ES [5 N N, And]^
-73 |S1000 UR [73, Your]^
-RST |S1000 UR [R S T, Your]^
+5NN |S1000 DE [5 N N, From]^
 WX |S1000 UR [Weather, Your]^
 559 |S1000 UR [5 5 9, Your]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+5NN |S1000 NAME [5 N N, Name]^
+559 |S1000 DE [5 5 9, From]^
+UR |S1000 599 [Your, 5 9 9]^
+RST |S1000 559 [R S T, 5 5 9]^
+5NN |S1000 RST [5 N N, R S T]^
+UR |S1000 ES [Your, And]^
+559 |S1000 NR [5 5 9, Number]^
+UR |S1000 RST [Your, R S T]^
+QRM |S1000 ES [Interference, And]^
+NAME |S1000 NR [Name, Number]^
+UR |S1000 5NN [Your, 5 N N]^
+UR |S1000 QRZ [Your, Q R Zed]^
+UR |S1000 5NN [Your, 5 N N]^
+RST |S1000 UR [R S T, Your]^
+NR |S1000 QRM [Number, Interference]^
+NAME |S1000 UR [Name, Your]^
+5NN |S1000 UR [5 N N, Your]^
+73 |S1000 UR [73, Your]^
+WX |S1000 DE [Weather, From]^
+ES |S1000 UR [And, Your]^
+QRM |S1000 UR [Interference, Your]^
+599 |S1000 UR [5 9 9, Your]^
+VY |S1000 UP [Very, Up]^
+UR |S1000 73 [Your, 73]^
+559 |S1000 UR [5 5 9, Your]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+UR |S1000 WX [Your, Weather]^
+UR |S1000 VY [Your, Very]^
+QRZ |S1000 VY [Q R Zed, Very]^
+73 |S1000 NR [73, Number]^
+RST |S1000 DE [R S T, From]^
+UR |S1000 NAME [Your, Name]^
+UR |S1000 CQ [Your, C Q]^
+QRM |S1000 UR [Interference, Your]^
+NAME |S1000 UR [Name, Your]^
+CQ |S1000 QRZ [C Q, Q R Zed]^
+VY |S1000 DE [Very, From]^
+UR |S1000 599 [Your, 5 9 9]^
+ES |S1000 UR [And, Your]^
+DE |S1000 VY [From, Very]^
+CQ |S1000 QRZ [C Q, Q R Zed]^
+73 |S1000 UR [73, Your]^
+599 |S1000 UR [5 9 9, Your]^
+WX |S1000 UP [Weather, Up]^
+RST |S1000 559 [R S T, 5 5 9]^
+599 |S1000 NR [5 9 9, Number]^
+QRZ |S1000 WX [Q R Zed, Weather]^
+UR |S1000 UP [Your, Up]^
+UR |S1000 QRZ [Your, Q R Zed]^
+ES |S1000 UR [And, Your]^
+QRZ |S1000 73 [Q R Zed, 73]^
+QRZ |S1000 UR [Q R Zed, Your]^
+WX |S1000 ES [Weather, And]^
+QRZ |S1000 UR [Q R Zed, Your]^
+NR |S1000 QRZ [Number, Q R Zed]^
+WX |S1000 599 [Weather, 5 9 9]^
+UR |S1000 73 [Your, 73]^
+UR |S1000 73 [Your, 73]^
+UR |S1000 NAME [Your, Name]^
 DE |S1000 UR [From, Your]^
 CQ |S1000 UR [C Q, Your]^
-5NN |S1000 ES [5 N N, And]^
-UR |S1000 DE [Your, From]^
-599 |S1000 QRM [5 9 9, Interference]^
-UR |S1000 73 [Your, 73]^
-UR |S1000 QRZ [Your, Q R Zed]^
-UR |S1000 WX [Your, Weather]^
-RST |S1000 UR [R S T, Your]^
-ES |S1000 WX [And, Weather]^
-5NN |S1000 UR [5 N N, Your]^
-QRZ |S1000 5NN [Q R Zed, 5 N N]^
-QRZ |S1000 NR [Q R Zed, Number]^
-UP |S1000 QRZ [Up, Q R Zed]^
-UP |S1000 UR [Up, Your]^
-599 |S1000 WX [5 9 9, Weather]^
-ES |S1000 WX [And, Weather]^
-NAME |S1000 UR [Name, Your]^
-599 |S1000 UR [5 9 9, Your]^
-559 |S1000 DE [5 5 9, From]^
-599 |S1000 73 [5 9 9, 73]^
-QRZ |S1000 UR [Q R Zed, Your]^
-QRM |S1000 73 [Interference, 73]^
+RST |S1000 559 [R S T, 5 5 9]^
+VY |S1000 UR [Very, Your]^
+559 |S1000 WX [5 5 9, Weather]^
+73 |S1000 VY [73, Very]^
 599 |S1000 CQ [5 9 9, C Q]^
-73 |S1000 QRM [73, Interference]^
-NR |S1000 UR [Number, Your]^
-ES |S1000 UR [And, Your]^
-DE |S1000 UR [From, Your]^
-NAME |S1000 UR [Name, Your]^
-559 |S1000 5NN [5 5 9, 5 N N]^
+UR |S1000 DE [Your, From]^
 UR |S1000 NAME [Your, Name]^
-UR |S1000 QRZ [Your, Q R Zed]^
-73 |S1000 UR [73, Your]^
+UR |S1000 UP [Your, Up]^
+UR |S1000 RST [Your, R S T]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+VY |S1000 559 [Very, 5 5 9]^
+5NN |S1000 NR [5 N N, Number]^
+WX |S1000 73 [Weather, 73]^
+5NN |S1000 NR [5 N N, Number]^
+599 |S1000 ES [5 9 9, And]^
+UP |S1000 UR [Up, Your]^
+599 |S1000 QRZ [5 9 9, Q R Zed]^
+UP |S1000 NAME [Up, Name]^
+UR |S1000 599 [Your, 5 9 9]^
+UR |S1000 599 [Your, 5 9 9]^
+QRM |S1000 ES [Interference, And]^
+VY |S1000 UR [Very, Your]^
+VY |S1000 73 [Very, 73]^
+5NN |S1000 CQ [5 N N, C Q]^
+RST |S1000 CQ [R S T, C Q]^
+UR |S1000 73 [Your, 73]^
+RST |S1000 NR [R S T, Number]^
+UR |S1000 VY [Your, Very]^
+UR |S1000 DE [Your, From]^
+UR |S1000 RST [Your, R S T]^
+UR |S1000 599 [Your, 5 9 9]^
+UR |S1000 73 [Your, 73]^
+ES |S1000 559 [And, 5 5 9]^
+RST |S1000 UR [R S T, Your]^
+73 |S1000 ES [73, And]^
+UR |S1000 WX [Your, Weather]^
+599 |S1000 UR [5 9 9, Your]^
 DE |S1000 UR [From, Your]^
-RST |S1000 73 [R S T, 73]^
-UR |S1000 NAME [Your, Name]^
-UR |S1000 559 [Your, 5 5 9]^
-NAME |S1000 UR [Name, Your]^
+5NN |S1000 WX [5 N N, Weather]^
+VY |S1000 559 [Very, 5 5 9]^
+UR |S1000 73 [Your, 73]^
 QRZ |S1000 UR [Q R Zed, Your]^
-ES |S1000 UR [And, Your]^
+DE |S1000 559 [From, 5 5 9]^
+CQ |S1000 UR [C Q, Your]^
+QRM |S1000 UR [Interference, Your]^
+CQ |S1000 5NN [C Q, 5 N N]^
+WX |S1000 5NN [Weather, 5 N N]^
+UR |S1000 ES [Your, And]^
+DE |S1000 UR [From, Your]^
+73 |S1000 CQ [73, C Q]^
+5NN |S1000 559 [5 N N, 5 5 9]^
+RST |S1000 UR [R S T, Your]^
 QRZ |S1000 UR [Q R Zed, Your]^
-5NN |S1000 UR [5 N N, Your]^
+QRZ |S1000 UR [Q R Zed, Your]^
+UP |S1000 QRZ [Up, Q R Zed]^
+UP |S1000 NAME [Up, Name]^
+UR |S1000 599 [Your, 5 9 9]^
+QRM |S1000 UR [Interference, Your]^
+WX |S1000 DE [Weather, From]^
+UR |S1000 5NN [Your, 5 N N]^
+UR |S1000 73 [Your, 73]^
+VY |S1000 UR [Very, Your]^
 QRM |S1000 5NN [Interference, 5 N N]^
+73 |S1000 UR [73, Your]^
+VY |S1000 599 [Very, 5 9 9]^
+UP |S1000 QRM [Up, Interference]^
+UR |S1000 CQ [Your, C Q]^
+599 |S1000 5NN [5 9 9, 5 N N]^
+UR |S1000 QRM [Your, Interference]^
+QRZ |S1000 UR [Q R Zed, Your]^
+QRZ |S1000 UR [Q R Zed, Your]^
+599 |S1000 UR [5 9 9, Your]^
+NAME |S1000 UR [Name, Your]^
+73 |S1000 UR [73, Your]^
+QRZ |S1000 UR [Q R Zed, Your]^
+WX |S1000 73 [Weather, 73]^
+NAME |S1000 CQ [Name, C Q]^
+UR |S1000 73 [Your, 73]^
 UR |S1000 UP [Your, Up]^
 QRM |S1000 RST [Interference, R S T]^
-599 |S1000 ES [5 9 9, And]^
-NR |S1000 UR [Number, Your]^
-NR |S1000 NAME [Number, Name]^
-CQ |S1000 ES [C Q, And]^
-UR |S1000 ES [Your, And]^
-DE |S1000 QRM [From, Interference]^
-UR |S1000 NAME [Your, Name]^
-UR |S1000 UP [Your, Up]^
-ES |S1000 UR [And, Your]^
-599 |S1000 CQ [5 9 9, C Q]^
-599 |S1000 UR [5 9 9, Your]^
-DE |S1000 CQ [From, C Q]^
-UR |S1000 WX [Your, Weather]^
 UR |S1000 WX [Your, Weather]^
 599 |S1000 WX [5 9 9, Weather]^
-599 |S1000 5NN [5 9 9, 5 N N]^
-UR |S1000 CQ [Your, C Q]^
-UR |S1000 NR [Your, Number]^
-WX |S1000 CQ [Weather, C Q]^
+RST |S1000 UR [R S T, Your]^
+QRZ |S1000 UR [Q R Zed, Your]^
+CQ |S1000 UP [C Q, Up]^
+NR |S1000 WX [Number, Weather]^
+UR |S1000 WX [Your, Weather]^
+UR |S1000 NAME [Your, Name]^
+UR |S1000 ES [Your, And]^
+73 |S1000 UR [73, Your]^
+QRZ |S1000 UR [Q R Zed, Your]^
+73 |S1000 NR [73, Number]^
+599 |S1000 QRZ [5 9 9, Q R Zed]^
 UR |S1000 RST [Your, R S T]^
-QRZ |S1000 73 [Q R Zed, 73]^
-UR |S1000 QRM [Your, Interference]^
-UR |S1000 5NN [Your, 5 N N]^
-DE |S1000 UR [From, Your]^
-5NN |S1000 559 [5 N N, 5 5 9]^
-UR |S1000 VY [Your, Very]^
-UR |S1000 73 [Your, 73]^
-DE |S1000 599 [From, 5 9 9]^
-UR |S1000 DE [Your, From]^
-QRM |S1000 NR [Interference, Number]^
-DE |S1000 ES [From, And]^
-RST |S1000 VY [R S T, Very]^
+73 |S1000 UR [73, Your]^
+ES |S1000 VY [And, Very]^
+UR |S1000 NAME [Your, Name]^
 UR |S1000 73 [Your, 73]^
 UR |S1000 559 [Your, 5 5 9]^
-UR |S1000 ES [Your, And]^
-UP |S1000 QRM [Up, Interference]^
-NR |S1000 ES [Number, And]^
-599 |S1000 UR [5 9 9, Your]^
-559 |S1000 ES [5 5 9, And]^
-599 |S1000 UR [5 9 9, Your]^
-599 |S1000 5NN [5 9 9, 5 N N]^
-599 |S1000 QRM [5 9 9, Interference]^
-UR |S1000 WX [Your, Weather]^
-QRM |S1000 DE [Interference, From]^
-NR |S1000 559 [Number, 5 5 9]^
-599 |S1000 UR [5 9 9, Your]^
-NAME |S1000 UP [Name, Up]^
-RST |S1000 559 [R S T, 5 5 9]^
-RST |S1000 599 [R S T, 5 9 9]^
-559 |S1000 NAME [5 5 9, Name]^
-UR |S1000 WX [Your, Weather]^
-599 |S1000 UR [5 9 9, Your]^
-559 |S1000 CQ [5 5 9, C Q]^
-73 |S1000 RST [73, R S T]^
-UR |S1000 UP [Your, Up]^
-UR |S1000 NAME [Your, Name]^
-UR |S1000 WX [Your, Weather]^
-UR |S1000 599 [Your, 5 9 9]^
-UR |S1000 WX [Your, Weather]^
-QRZ |S1000 73 [Q R Zed, 73]^
 UR |S1000 QRZ [Your, Q R Zed]^
 UR |S1000 NR [Your, Number]^
-UR |S1000 VY [Your, Very]^
-UR |S1000 DE [Your, From]^
-ES |S1000 VY [And, Very]^
-559 |S1000 ES [5 5 9, And]^
-RST |S1000 UR [R S T, Your]^
-VY |S1000 NR [Very, Number]^
-WX |S1000 UR [Weather, Your]^
-ES |S1000 UR [And, Your]^
-DE |S1000 UR [From, Your]^
+RST |S1000 NR [R S T, Number]^
+5NN |S1000 CQ [5 N N, C Q]^
+UR |S1000 NAME [Your, Name]^
+559 |S1000 QRZ [5 5 9, Q R Zed]^
+UR |S1000 599 [Your, 5 9 9]^
+RST |S1000 DE [R S T, From]^
 73 |S1000 UR [73, Your]^
+WX |S1000 559 [Weather, 5 5 9]^
+NAME |S1000 UR [Name, Your]^
+559 |S1000 WX [5 5 9, Weather]^
+UR |S1000 ES [Your, And]^
+UR |S1000 NR [Your, Number]^
+559 |S1000 QRM [5 5 9, Interference]^
+UR |S1000 NAME [Your, Name]^
+73 |S1000 559 [73, 5 5 9]^
+NAME |S1000 CQ [Name, C Q]^
+UR |S1000 5NN [Your, 5 N N]^
+NR |S1000 DE [Number, From]^
 WX |S1000 UR [Weather, Your]^
-QRZ |S1000 VY [Q R Zed, Very]^
-73 |S1000 RST [73, R S T]^
+NAME |S1000 5NN [Name, 5 N N]^
+WX |S1000 UR [Weather, Your]^
+UP |S1000 UR [Up, Your]^
+ES |S1000 NAME [And, Name]^
+QRZ |S1000 UR [Q R Zed, Your]^
+QRZ |S1000 599 [Q R Zed, 5 9 9]^
+UR |S1000 ES [Your, And]^
+NR |S1000 QRZ [Number, Q R Zed]^
+UR |S1000 QRZ [Your, Q R Zed]^
+NAME |S1000 NR [Name, Number]^
+UR |S1000 CQ [Your, C Q]^
 UR |S1000 WX [Your, Weather]^
+NAME |S1000 UR [Name, Your]^
+WX |S1000 NR [Weather, Number]^
+ES |S1000 5NN [And, 5 N N]^
+UR |S1000 73 [Your, 73]^
+UR |S1000 5NN [Your, 5 N N]^
+UP |S1000 NR [Up, Number]^
+UR |S1000 VY [Your, Very]^
+UR |S1000 RST [Your, R S T]^
+NR |S1000 5NN [Number, 5 N N]^
+UR |S1000 5NN [Your, 5 N N]^
+CQ |S1000 73 [C Q, 73]^
+UR |S1000 CQ [Your, C Q]^
+UR |S1000 5NN [Your, 5 N N]^
+CQ |S1000 UR [C Q, Your]^
+WX |S1000 73 [Weather, 73]^
+UR |S1000 DE [Your, From]^
+VY |S1000 RST [Very, R S T]^
+NAME |S1000 CQ [Name, C Q]^
+VY |S1000 CQ [Very, C Q]^
+NR |S1000 UR [Number, Your]^
+ES |S1000 UP [And, Up]^
+NR |S1000 UR [Number, Your]^
+DE |S1000 UR [From, Your]^
+5NN |S1000 UR [5 N N, Your]^
+UP |S1000 UR [Up, Your]^
+DE |S1000 VY [From, Very]^
+5NN |S1000 73 [5 N N, 73]^
+RST |S1000 599 [R S T, 5 9 9]^
+UR |S1000 CQ [Your, C Q]^
+UR |S1000 VY [Your, Very]^
+UP |S1000 DE [Up, From]^
+UR |S1000 5NN [Your, 5 N N]^
+UR |S1000 WX [Your, Weather]^
+UR |S1000 QRZ [Your, Q R Zed]^
+UR |S1000 WX [Your, Weather]^
+ES |S1000 UR [And, Your]^
+QRM |S1000 ES [Interference, And]^
+599 |S1000 UP [5 9 9, Up]^
+UR |S1000 UP [Your, Up]^
+UR |S1000 CQ [Your, C Q]^
+UR |S1000 73 [Your, 73]^
+5NN |S1000 559 [5 N N, 5 5 9]^
+UR |S1000 UP [Your, Up]^
+559 |S1000 CQ [5 5 9, C Q]^
+RST |S1000 UR [R S T, Your]^
+NR |S1000 UR [Number, Your]^
+WX |S1000 5NN [Weather, 5 N N]^
+UP |S1000 UR [Up, Your]^
+NR |S1000 QRM [Number, Interference]^
+NAME |S1000 UR [Name, Your]^
+NR |S1000 RST [Number, R S T]^
+QRM |S1000 UP [Interference, Up]^
+WX |S1000 UR [Weather, Your]^
+QRZ |S1000 UR [Q R Zed, Your]^
+VY |S1000 UR [Very, Your]^
+DE |S1000 NAME [From, Name]^
+UR |S1000 ES [Your, And]^
+CQ |S1000 UR [C Q, Your]^
+5NN |S1000 UP [5 N N, Up]^
+5NN |S1000 UR [5 N N, Your]^
+599 |S1000 UR [5 9 9, Your]^
+NAME |S1000 73 [Name, 73]^
+UR |S1000 599 [Your, 5 9 9]^
+NAME |S1000 5NN [Name, 5 N N]^
+QRM |S1000 559 [Interference, 5 5 9]^
+UR |S1000 UP [Your, Up]^
+QRZ |S1000 UR [Q R Zed, Your]^
+UP |S1000 UR [Up, Your]^
+WX |S1000 UR [Weather, Your]^
+NAME |S1000 UP [Name, Up]^
+NR |S1000 UR [Number, Your]^
+ES |S1000 599 [And, 5 9 9]^
+UR |S1000 QRM [Your, Interference]^
+UR |S1000 QRM [Your, Interference]^
+73 |S1000 WX [73, Weather]^
+UR |S1000 599 [Your, 5 9 9]^
+ES |S1000 NR [And, Number]^
+ES |S1000 CQ [And, C Q]^
+UR |S1000 NAME [Your, Name]^
+UR |S1000 DE [Your, From]^
+ES |S1000 UR [And, Your]^
+QRM |S1000 UR [Interference, Your]^
+QRZ |S1000 RST [Q R Zed, R S T]^
+UR |S1000 ES [Your, And]^
+QRM |S1000 UP [Interference, Up]^
+UR |S1000 ES [Your, And]^
+UR |S1000 UP [Your, Up]^
+599 |S1000 73 [5 9 9, 73]^
+CQ |S1000 UR [C Q, Your]^
+NR |S1000 UR [Number, Your]^
+UP |S1000 UR [Up, Your]^
+VY |S1000 DE [Very, From]^
+UR |S1000 CQ [Your, C Q]^
+UR |S1000 CQ [Your, C Q]^
+QRM |S1000 DE [Interference, From]^
+599 |S1000 UR [5 9 9, Your]^
+CQ |S1000 UR [C Q, Your]^
+VY |S1000 559 [Very, 5 5 9]^
+UR |S1000 599 [Your, 5 9 9]^
+NAME |S1000 QRZ [Name, Q R Zed]^
+NR |S1000 UR [Number, Your]^
+DE |S1000 RST [From, R S T]^
+UR |S1000 NR [Your, Number]^
+UR |S1000 NAME [Your, Name]^
+UR |S1000 QRM [Your, Interference]^
+UR |S1000 599 [Your, 5 9 9]^
+UR |S1000 CQ [Your, C Q]^
+559 |S1000 VY [5 5 9, Very]^
+QRZ |S1000 UR [Q R Zed, Your]^
+QRZ |S1000 559 [Q R Zed, 5 5 9]^
+RST |S1000 UR [R S T, Your]^
+QRZ |S1000 UP [Q R Zed, Up]^
+QRZ |S1000 UR [Q R Zed, Your]^
+ES |S1000 QRM [And, Interference]^
+UR |S1000 NAME [Your, Name]^
+UR |S1000 73 [Your, 73]^
+UR |S1000 5NN [Your, 5 N N]^
+UR |S1000 NR [Your, Number]^
+QRM |S1000 UR [Interference, Your]^
+DE |S1000 5NN [From, 5 N N]^
+UR |S1000 NR [Your, Number]^
+UR |S1000 UP [Your, Up]^
+73 |S1000 UR [73, Your]^
+QRM |S1000 599 [Interference, 5 9 9]^
+UR |S1000 73 [Your, 73]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+UR |S1000 599 [Your, 5 9 9]^
+UR |S1000 QRM [Your, Interference]^
+NR |S1000 UR [Number, Your]^
+QRZ |S1000 599 [Q R Zed, 5 9 9]^
+NR |S1000 UR [Number, Your]^
+ES |S1000 WX [And, Weather]^
+UR |S1000 DE [Your, From]^
+ES |S1000 UP [And, Up]^
+CQ |S1000 QRM [C Q, Interference]^
+CQ |S1000 DE [C Q, From]^
+UR |S1000 QRM [Your, Interference]^
+UR |S1000 CQ [Your, C Q]^
+UR |S1000 RST [Your, R S T]^
+UR |S1000 CQ [Your, C Q]^
+UR |S1000 NAME [Your, Name]^
+73 |S1000 UR [73, Your]^
+RST |S1000 5NN [R S T, 5 N N]^
+VY |S1000 UP [Very, Up]^
+CQ |S1000 UR [C Q, Your]^
+NAME |S1000 UR [Name, Your]^
+WX |S1000 UR [Weather, Your]^
+WX |S1000 NR [Weather, Number]^
+DE |S1000 599 [From, 5 9 9]^
+UR |S1000 RST [Your, R S T]^
+QRZ |S1000 UR [Q R Zed, Your]^
+5NN |S1000 UR [5 N N, Your]^
+559 |S1000 UR [5 5 9, Your]^
+NAME |S1000 WX [Name, Weather]^
+QRM |S1000 5NN [Interference, 5 N N]^
+UR |S1000 DE [Your, From]^
+599 |S1000 VY [5 9 9, Very]^
+RST |S1000 UR [R S T, Your]^
+ES |S1000 NAME [And, Name]^
+UR |S1000 73 [Your, 73]^
+ES |S1000 NAME [And, Name]^
+UR |S1000 DE [Your, From]^
+UR |S1000 73 [Your, 73]^
+UR |S1000 VY [Your, Very]^
+WX |S1000 VY [Weather, Very]^
+NR |S1000 NAME [Number, Name]^
+UR |S1000 UP [Your, Up]^
+UR |S1000 73 [Your, 73]^
+CQ |S1000 UR [C Q, Your]^
+ES |S1000 UR [And, Your]^
+599 |S1000 QRM [5 9 9, Interference]^
+UR |S1000 599 [Your, 5 9 9]^
+UR |S1000 QRZ [Your, Q R Zed]^
+73 |S1000 UR [73, Your]^
+NR |S1000 CQ [Number, C Q]^
+NAME |S1000 RST [Name, R S T]^
+5NN |S1000 UR [5 N N, Your]^
+5NN |S1000 UR [5 N N, Your]^
+559 |S1000 UR [5 5 9, Your]^
+CQ |S1000 UR [C Q, Your]^
+VY |S1000 73 [Very, 73]^
+UR |S1000 5NN [Your, 5 N N]^
+UR |S1000 QRZ [Your, Q R Zed]^
+5NN |S1000 NR [5 N N, Number]^
+UR |S1000 5NN [Your, 5 N N]^
+DE |S1000 ES [From, And]^
+UR |S1000 NAME [Your, Name]^
+UR |S1000 QRZ [Your, Q R Zed]^
+NR |S1000 UR [Number, Your]^
+DE |S1000 UR [From, Your]^
+5NN |S1000 CQ [5 N N, C Q]^
+NR |S1000 UR [Number, Your]^
+VY |S1000 5NN [Very, 5 N N]^
+NAME |S1000 CQ [Name, C Q]^
+NR |S1000 RST [Number, R S T]^
+UP |S1000 UR [Up, Your]^
+599 |S1000 5NN [5 9 9, 5 N N]^
+VY |S1000 UR [Very, Your]^
+WX |S1000 UR [Weather, Your]^
+599 |S1000 UR [5 9 9, Your]^
+RST |S1000 559 [R S T, 5 5 9]^
+UR |S1000 73 [Your, 73]^
+QRM |S1000 QRZ [Interference, Q R Zed]^
+UR |S1000 NR [Your, Number]^
+NAME |S1000 UR [Name, Your]^
+559 |S1000 QRZ [5 5 9, Q R Zed]^
+UP |S1000 ES [Up, And]^
+73 |S1000 UP [73, Up]^
+QRM |S1000 NAME [Interference, Name]^
+UR |S1000 VY [Your, Very]^
+QRZ |S1000 ES [Q R Zed, And]^
+UR |S1000 QRM [Your, Interference]^
+UR |S1000 NR [Your, Number]^
+QRZ |S1000 UR [Q R Zed, Your]^
+73 |S1000 UR [73, Your]^
+73 |S1000 NAME [73, Name]^
+QRZ |S1000 UR [Q R Zed, Your]^
+CQ |S1000 559 [C Q, 5 5 9]^
+CQ |S1000 UR [C Q, Your]^
+ES |S1000 WX [And, Weather]^
+UR |S1000 NR [Your, Number]^
+UR |S1000 RST [Your, R S T]^
+UR |S1000 RST [Your, R S T]^
+5NN |S1000 QRM [5 N N, Interference]^
+DE |S1000 UR [From, Your]^
+NR |S1000 DE [Number, From]^
+UR |S1000 NR [Your, Number]^
+599 |S1000 RST [5 9 9, R S T]^
+UR |S1000 UP [Your, Up]^
+73 |S1000 UR [73, Your]^
+5NN |S1000 UR [5 N N, Your]^
+5NN |S1000 UR [5 N N, Your]^
+QRM |S1000 UR [Interference, Your]^
+UP |S1000 ES [Up, And]^
+CQ |S1000 WX [C Q, Weather]^
+UR |S1000 RST [Your, R S T]^
+UR |S1000 599 [Your, 5 9 9]^
+RST |S1000 UR [R S T, Your]^
+RST |S1000 UP [R S T, Up]^
+WX |S1000 UR [Weather, Your]^
+NR |S1000 UR [Number, Your]^
+DE |S1000 599 [From, 5 9 9]^
+UP |S1000 599 [Up, 5 9 9]^
+UR |S1000 QRZ [Your, Q R Zed]^
+5NN |S1000 UR [5 N N, Your]^
+NR |S1000 559 [Number, 5 5 9]^
+UR |S1000 QRZ [Your, Q R Zed]^
+UR |S1000 599 [Your, 5 9 9]^
+DE |S1000 UR [From, Your]^
+5NN |S1000 NAME [5 N N, Name]^
+CQ |S1000 UR [C Q, Your]^
+NAME |S1000 5NN [Name, 5 N N]^
+UR |S1000 NR [Your, Number]^
+QRM |S1000 WX [Interference, Weather]^
+73 |S1000 559 [73, 5 5 9]^
+UR |S1000 CQ [Your, C Q]^
+5NN |S1000 UR [5 N N, Your]^
+UP |S1000 599 [Up, 5 9 9]^
+QRM |S1000 UR [Interference, Your]^
+QRM |S1000 ES [Interference, And]^
+UR |S1000 QRZ [Your, Q R Zed]^
+UR |S1000 UP [Your, Up]^
+DE |S1000 ES [From, And]^
+UR |S1000 VY [Your, Very]^
+ES |S1000 UR [And, Your]^
+CQ |S1000 559 [C Q, 5 5 9]^
+UR |S1000 WX [Your, Weather]^
+DE |S1000 73 [From, 73]^
+WX |S1000 UR [Weather, Your]^
+NAME |S1000 DE [Name, From]^
+NR |S1000 RST [Number, R S T]^
+QRZ |S1000 RST [Q R Zed, R S T]^
+WX |S1000 QRZ [Weather, Q R Zed]^
+NAME |S1000 WX [Name, Weather]^
+UP |S1000 UR [Up, Your]^
+73 |S1000 559 [73, 5 5 9]^
+CQ |S1000 UR [C Q, Your]^
+VY |S1000 UR [Very, Your]^
+599 |S1000 NR [5 9 9, Number]^
+UR |S1000 NR [Your, Number]^
+UR |S1000 599 [Your, 5 9 9]^
+WX |S1000 NAME [Weather, Name]^
+UR |S1000 QRM [Your, Interference]^
+599 |S1000 VY [5 9 9, Very]^
+UR |S1000 DE [Your, From]^
+UR |S1000 73 [Your, 73]^
+5NN |S1000 599 [5 N N, 5 9 9]^
+UR |S1000 ES [Your, And]^
+UR |S1000 DE [Your, From]^
+559 |S1000 RST [5 5 9, R S T]^
+QRZ |S1000 UR [Q R Zed, Your]^
+QRZ |S1000 ES [Q R Zed, And]^
+NR |S1000 73 [Number, 73]^
+UR |S1000 DE [Your, From]^
+NAME |S1000 UR [Name, Your]^
+VY |S1000 UR [Very, Your]^
+NR |S1000 5NN [Number, 5 N N]^
+QRM |S1000 5NN [Interference, 5 N N]^
+ES |S1000 WX [And, Weather]^
+UR |S1000 VY [Your, Very]^
+599 |S1000 DE [5 9 9, From]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+NAME |S1000 WX [Name, Weather]^
+NAME |S1000 UR [Name, Your]^
+599 |S1000 ES [5 9 9, And]^
+599 |S1000 WX [5 9 9, Weather]^
+RST |S1000 NAME [R S T, Name]^
+UR |S1000 QRM [Your, Interference]^
+UR |S1000 DE [Your, From]^
+NR |S1000 UR [Number, Your]^
+RST |S1000 UR [R S T, Your]^
+599 |S1000 RST [5 9 9, R S T]^
+NAME |S1000 UR [Name, Your]^
+DE |S1000 UR [From, Your]^
+5NN |S1000 DE [5 N N, From]^
+RST |S1000 559 [R S T, 5 5 9]^
 UR |S1000 VY [Your, Very]^
 UR |S1000 WX [Your, Weather]^
+UR |S1000 73 [Your, 73]^
+UP |S1000 UR [Up, Your]^
 CQ |S1000 UR [C Q, Your]^
-WX |S1000 NAME [Weather, Name]^
-CQ |S1000 VY [C Q, Very]^
-UR |S1000 559 [Your, 5 5 9]^
-NAME |S1000 5NN [Name, 5 N N]^
+QRZ |S1000 UR [Q R Zed, Your]^
+UP |S1000 QRZ [Up, Q R Zed]^
 UR |S1000 DE [Your, From]^
-UR |S1000 NR [Your, Number]^
-CQ |S1000 ES [C Q, And]^
-73 |S1000 5NN [73, 5 N N]^
-UR |S1000 DE [Your, From]^
-QRM |S1000 559 [Interference, 5 5 9]^
-CQ |S1000 DE [C Q, From]^
-UR |S1000 RST [Your, R S T]^
+5NN |S1000 UP [5 N N, Up]^
+5NN |S1000 ES [5 N N, And]^
+UR |S1000 WX [Your, Weather]^
 UR |S1000 QRM [Your, Interference]^
+UR |S1000 ES [Your, And]^
+UR |S1000 RST [Your, R S T]^
+UR |S1000 QRZ [Your, Q R Zed]^
+UR |S1000 DE [Your, From]^
+559 |S1000 UR [5 5 9, Your]^
+5NN |S1000 559 [5 N N, 5 5 9]^
+DE |S1000 QRZ [From, Q R Zed]^
+UR |S1000 CQ [Your, C Q]^
+UR |S1000 5NN [Your, 5 N N]^
+VY |S1000 QRZ [Very, Q R Zed]^
+73 |S1000 VY [73, Very]^
+NR |S1000 WX [Number, Weather]^
+NAME |S1000 NR [Name, Number]^
+UR |S1000 73 [Your, 73]^
+UR |S1000 WX [Your, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+NR |S1000 73 [Number, 73]^
+UP |S1000 QRZ [Up, Q R Zed]^
+599 |S1000 NAME [5 9 9, Name]^
+NR |S1000 UR [Number, Your]^
+DE |S1000 CQ [From, C Q]^
+QRM |S1000 UR [Interference, Your]^
+VY |S1000 ES [Very, And]^
+QRM |S1000 5NN [Interference, 5 N N]^
+NR |S1000 UR [Number, Your]^
+599 |S1000 NAME [5 9 9, Name]^
+UR |S1000 NR [Your, Number]^
+UR |S1000 QRM [Your, Interference]^
+UR |S1000 559 [Your, 5 5 9]^
+UR |S1000 QRM [Your, Interference]^
+UR |S1000 WX [Your, Weather]^
+UR |S1000 UP [Your, Up]^
+RST |S1000 UR [R S T, Your]^
+WX |S1000 UR [Weather, Your]^
+CQ |S1000 UR [C Q, Your]^
+559 |S1000 UR [5 5 9, Your]^
+VY |S1000 UP [Very, Up]^
+599 |S1000 UR [5 9 9, Your]^
+DE |S1000 UR [From, Your]^
+NAME |S1000 UR [Name, Your]^
+NAME |S1000 5NN [Name, 5 N N]^
+UR |S1000 ES [Your, And]^
+UR |S1000 73 [Your, 73]^
+UR |S1000 NR [Your, Number]^
+5NN |S1000 UR [5 N N, Your]^
+559 |S1000 UR [5 5 9, Your]^
+5NN |S1000 UR [5 N N, Your]^
+DE |S1000 UR [From, Your]^
+QRM |S1000 UP [Interference, Up]^
+UR |S1000 DE [Your, From]^
+559 |S1000 NAME [5 5 9, Name]^
+ES |S1000 WX [And, Weather]^
+UR |S1000 73 [Your, 73]^
+UR |S1000 559 [Your, 5 5 9]^
+ES |S1000 UR [And, Your]^
+NAME |S1000 5NN [Name, 5 N N]^
+RST |S1000 UR [R S T, Your]^
+DE |S1000 UR [From, Your]^
+UP |S1000 DE [Up, From]^
+ES |S1000 VY [And, Very]^
+UR |S1000 QRZ [Your, Q R Zed]^
+559 |S1000 QRM [5 5 9, Interference]^
+UR |S1000 DE [Your, From]^
+UR |S1000 QRZ [Your, Q R Zed]^
+DE |S1000 UR [From, Your]^
+DE |S1000 WX [From, Weather]^
+5NN |S1000 UR [5 N N, Your]^
+NR |S1000 QRZ [Number, Q R Zed]^
+5NN |S1000 UR [5 N N, Your]^

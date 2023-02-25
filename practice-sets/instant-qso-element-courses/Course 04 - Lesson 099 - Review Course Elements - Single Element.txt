@@ -1,600 +1,600 @@
-SWR [S W R]^
-479 [4 7 9]^
-QRX [Standby]^
-72 [72]^
-QRZ\? [Who is calling\?]^
-579 [5 7 9]^
-GB [Goodbye]^
-579 [5 7 9]^
-GN [Good night]^
-LOOP [Loop]^
-RPRT [Report]^
-579 [5 7 9]^
-88 [88]^
-72 [72]^
-LOOP [Loop]^
-QRZ\? [Who is calling\?]^
 NW [Now]^
-SSB [Single Side Band]^
-WATT [Watt]^
-SSB [Single Side Band]^
-GN [Good night]^
-OCF [Off-center fed dipole]^
 INFO [Information]^
-LOOP [Loop]^
-479 [4 7 9]^
-RPT [Report]^
-INFO [Information]^
-OCF [Off-center fed dipole]^
-QRL\? [Are you busy\?]^
-589 [5 8 9]^
-GN [Good night]^
-WIRE [Wire]^
-QRL\? [Are you busy\?]^
-GB [Goodbye]^
-QRL\? [Are you busy\?]^
-489 [4 8 9]^
-OCF [Off-center fed dipole]^
-88 [88]^
-CW [C W]^
-GB [Goodbye]^
-LOOP [Loop]^
-GN [Good night]^
-OCF [Off-center fed dipole]^
-LOOP [Loop]^
-RPRT [Report]^
-GD [Good]^
-72 [72]^
-NW [Now]^
-CW [C W]^
-RPT [Report]^
-88 [88]^
-NW [Now]^
-SSB [Single Side Band]^
-GN [Good night]^
-QRZ\? [Who is calling\?]^
-NW [Now]^
-579 [5 7 9]^
-QRX [Standby]^
-579 [5 7 9]^
-OCF [Off-center fed dipole]^
-RPRT [Report]^
-SWR [S W R]^
-72 [72]^
-589 [5 8 9]^
-479 [4 7 9]^
-1TT [100]^
-88 [88]^
-489 [4 8 9]^
-QRL\? [Are you busy\?]^
-RPT [Report]^
-GD [Good]^
-1TT [100]^
-LOOP [Loop]^
-SSB [Single Side Band]^
-88 [88]^
-OCF [Off-center fed dipole]^
-479 [4 7 9]^
-LOOP [Loop]^
-RPRT [Report]^
-WATT [Watt]^
-INFO [Information]^
-QRL\? [Are you busy\?]^
-CW [C W]^
-INFO [Information]^
-SSB [Single Side Band]^
-OCF [Off-center fed dipole]^
-579 [5 7 9]^
-QRZ\? [Who is calling\?]^
-88 [88]^
-589 [5 8 9]^
-72 [72]^
-WATT [Watt]^
 359 [3 5 9]^
-589 [5 8 9]^
-RPRT [Report]^
-QRX [Standby]^
-RPRT [Report]^
-CW [C W]^
+QRX [Q R X]^
+QRT [Q R T]^
 GB [Goodbye]^
 589 [5 8 9]^
-SWR [S W R]^
 WATT [Watt]^
+OCF [Off-center fed dipole]^
 RPT [Report]^
-GB [Goodbye]^
-OCF [Off-center fed dipole]^
-QRZ\? [Who is calling\?]^
-489 [4 8 9]^
-QRX [Standby]^
-72 [72]^
-SSB [Single Side Band]^
-QRL\? [Are you busy\?]^
-OCF [Off-center fed dipole]^
-579 [5 7 9]^
-479 [4 7 9]^
+WATT [Watt]^
 GN [Good night]^
-479 [4 7 9]^
-GD [Good]^
-1TT [100]^
-CW [C W]^
-NW [Now]^
-489 [4 8 9]^
-QRX [Standby]^
 SWR [S W R]^
-72 [72]^
-GD [Good]^
-RPRT [Report]^
-72 [72]^
-88 [88]^
-INFO [Information]^
-QRZ\? [Who is calling\?]^
 359 [3 5 9]^
-72 [72]^
-1TT [100]^
+579 [5 7 9]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+SSB [Single Side Band]^
+QRT [Q R T]^
+GN [Good night]^
+88 [88]^
+CW [C W]^
+RPT [Report]^
+RPRT [Report]^
+WATT [Watt]^
+SWR [S W R]^
+GN [Good night]^
+489 [4 8 9]^
 SSB [Single Side Band]^
 GD [Good]^
-1TT [100]^
-359 [3 5 9]^
-SSB [Single Side Band]^
-88 [88]^
-LOOP [Loop]^
-GB [Goodbye]^
-479 [4 7 9]^
-489 [4 8 9]^
-589 [5 8 9]^
-1TT [100]^
-WIRE [Wire]^
-SSB [Single Side Band]^
-LOOP [Loop]^
-QRL\? [Are you busy\?]^
-1TT [100]^
-579 [5 7 9]^
-72 [72]^
-RPT [Report]^
-SSB [Single Side Band]^
-LOOP [Loop]^
-SWR [S W R]^
-QRL\? [Are you busy\?]^
-1TT [100]^
-WIRE [Wire]^
-1TT [100]^
-OCF [Off-center fed dipole]^
-QRX [Standby]^
-QRL\? [Are you busy\?]^
-489 [4 8 9]^
-GB [Goodbye]^
-GN [Good night]^
-489 [4 8 9]^
-WATT [Watt]^
-CW [C W]^
-OCF [Off-center fed dipole]^
-359 [3 5 9]^
-QRL\? [Are you busy\?]^
-SWR [S W R]^
-359 [3 5 9]^
-QRL\? [Are you busy\?]^
-589 [5 8 9]^
-GN [Good night]^
-SSB [Single Side Band]^
-CW [C W]^
-579 [5 7 9]^
-NW [Now]^
-88 [88]^
-589 [5 8 9]^
-579 [5 7 9]^
-489 [4 8 9]^
-NW [Now]^
-QRL\? [Are you busy\?]^
-589 [5 8 9]^
-WIRE [Wire]^
-NW [Now]^
-GD [Good]^
-OCF [Off-center fed dipole]^
-479 [4 7 9]^
-WATT [Watt]^
-RPRT [Report]^
-LOOP [Loop]^
-SWR [S W R]^
-WATT [Watt]^
-OCF [Off-center fed dipole]^
-GD [Good]^
-NW [Now]^
-QRZ\? [Who is calling\?]^
-359 [3 5 9]^
-GB [Goodbye]^
-359 [3 5 9]^
-QRX [Standby]^
-359 [3 5 9]^
-WATT [Watt]^
-SWR [S W R]^
-479 [4 7 9]^
-QRL\? [Are you busy\?]^
-QRZ\? [Who is calling\?]^
-WIRE [Wire]^
-SWR [S W R]^
-WIRE [Wire]^
-479 [4 7 9]^
-CW [C W]^
-72 [72]^
-WATT [Watt]^
-GD [Good]^
-479 [4 7 9]^
-359 [3 5 9]^
-GN [Good night]^
-QRZ\? [Who is calling\?]^
-SSB [Single Side Band]^
-CW [C W]^
-489 [4 8 9]^
-SWR [S W R]^
-72 [72]^
-RPRT [Report]^
-GN [Good night]^
-RPT [Report]^
-SSB [Single Side Band]^
-579 [5 7 9]^
-SWR [S W R]^
-GN [Good night]^
-589 [5 8 9]^
-579 [5 7 9]^
-NW [Now]^
-OCF [Off-center fed dipole]^
-359 [3 5 9]^
-LOOP [Loop]^
-QRL\? [Are you busy\?]^
-GD [Good]^
-579 [5 7 9]^
-WIRE [Wire]^
-SWR [S W R]^
-SSB [Single Side Band]^
-GD [Good]^
-589 [5 8 9]^
-489 [4 8 9]^
-INFO [Information]^
-NW [Now]^
-GB [Goodbye]^
-88 [88]^
-579 [5 7 9]^
-QRZ\? [Who is calling\?]^
-INFO [Information]^
-OCF [Off-center fed dipole]^
-589 [5 8 9]^
-GN [Good night]^
-579 [5 7 9]^
-479 [4 7 9]^
-RPRT [Report]^
-QRL\? [Are you busy\?]^
-589 [5 8 9]^
-QRL\? [Are you busy\?]^
-1TT [100]^
-LOOP [Loop]^
-479 [4 7 9]^
-489 [4 8 9]^
-479 [4 7 9]^
-GD [Good]^
-72 [72]^
-GB [Goodbye]^
-QRL\? [Are you busy\?]^
-RPT [Report]^
-72 [72]^
-489 [4 8 9]^
-SSB [Single Side Band]^
-NW [Now]^
-489 [4 8 9]^
-SSB [Single Side Band]^
-NW [Now]^
-72 [72]^
-88 [88]^
-589 [5 8 9]^
-1TT [100]^
-QRZ\? [Who is calling\?]^
-489 [4 8 9]^
-NW [Now]^
-OCF [Off-center fed dipole]^
-NW [Now]^
-QRZ\? [Who is calling\?]^
-CW [C W]^
-RPT [Report]^
-479 [4 7 9]^
-88 [88]^
-QRL\? [Are you busy\?]^
-GB [Goodbye]^
-489 [4 8 9]^
-NW [Now]^
-RPT [Report]^
-OCF [Off-center fed dipole]^
-GB [Goodbye]^
-RPT [Report]^
-QRZ\? [Who is calling\?]^
-SSB [Single Side Band]^
-CW [C W]^
-LOOP [Loop]^
-WIRE [Wire]^
-NW [Now]^
-SWR [S W R]^
-589 [5 8 9]^
-CW [C W]^
-1TT [100]^
-NW [Now]^
-GD [Good]^
-QRZ\? [Who is calling\?]^
-579 [5 7 9]^
-QRZ\? [Who is calling\?]^
-489 [4 8 9]^
-72 [72]^
-WIRE [Wire]^
-359 [3 5 9]^
-479 [4 7 9]^
-489 [4 8 9]^
-72 [72]^
-NW [Now]^
-RPRT [Report]^
-SWR [S W R]^
-GN [Good night]^
-579 [5 7 9]^
-NW [Now]^
-QRZ\? [Who is calling\?]^
-RPRT [Report]^
-SSB [Single Side Band]^
-579 [5 7 9]^
-SWR [S W R]^
-RPT [Report]^
-NW [Now]^
-WATT [Watt]^
-72 [72]^
-GN [Good night]^
-RPRT [Report]^
-QRL\? [Are you busy\?]^
-GN [Good night]^
-OCF [Off-center fed dipole]^
-1TT [100]^
-489 [4 8 9]^
-CW [C W]^
-RPRT [Report]^
-1TT [100]^
-WIRE [Wire]^
-72 [72]^
-OCF [Off-center fed dipole]^
-589 [5 8 9]^
-QRZ\? [Who is calling\?]^
-RPT [Report]^
-QRZ\? [Who is calling\?]^
-GN [Good night]^
-489 [4 8 9]^
-88 [88]^
-WIRE [Wire]^
-RPT [Report]^
-579 [5 7 9]^
-GN [Good night]^
-QRX [Standby]^
-88 [88]^
-GB [Goodbye]^
-QRZ\? [Who is calling\?]^
-479 [4 7 9]^
-NW [Now]^
-579 [5 7 9]^
-QRZ\? [Who is calling\?]^
-INFO [Information]^
-QRZ\? [Who is calling\?]^
-WIRE [Wire]^
-RPRT [Report]^
-WIRE [Wire]^
-72 [72]^
-QRZ\? [Who is calling\?]^
-INFO [Information]^
-489 [4 8 9]^
-NW [Now]^
-GB [Goodbye]^
-88 [88]^
-589 [5 8 9]^
-SWR [S W R]^
-GB [Goodbye]^
-LOOP [Loop]^
-SWR [S W R]^
-72 [72]^
-QRX [Standby]^
-479 [4 7 9]^
-589 [5 8 9]^
-GB [Goodbye]^
-RPT [Report]^
-SWR [S W R]^
-GB [Goodbye]^
-589 [5 8 9]^
-1TT [100]^
-QRX [Standby]^
-SSB [Single Side Band]^
-RPT [Report]^
-WIRE [Wire]^
-479 [4 7 9]^
-QRZ\? [Who is calling\?]^
-88 [88]^
-579 [5 7 9]^
-359 [3 5 9]^
-QRL\? [Are you busy\?]^
-489 [4 8 9]^
-GN [Good night]^
-QRX [Standby]^
-88 [88]^
-1TT [100]^
-589 [5 8 9]^
-INFO [Information]^
-589 [5 8 9]^
-NW [Now]^
-CW [C W]^
-WATT [Watt]^
-INFO [Information]^
-GN [Good night]^
-NW [Now]^
-CW [C W]^
-GB [Goodbye]^
-LOOP [Loop]^
-WATT [Watt]^
-88 [88]^
-QRX [Standby]^
-CW [C W]^
-GN [Good night]^
-WATT [Watt]^
-QRZ\? [Who is calling\?]^
-QRX [Standby]^
-GB [Goodbye]^
-WATT [Watt]^
-OCF [Off-center fed dipole]^
-CW [C W]^
-SWR [S W R]^
-QRZ\? [Who is calling\?]^
-RPT [Report]^
-GD [Good]^
-LOOP [Loop]^
-INFO [Information]^
-SWR [S W R]^
-72 [72]^
-GB [Goodbye]^
-1TT [100]^
-OCF [Off-center fed dipole]^
-589 [5 8 9]^
-479 [4 7 9]^
-NW [Now]^
-QRL\? [Are you busy\?]^
-SWR [S W R]^
-RPT [Report]^
-OCF [Off-center fed dipole]^
-88 [88]^
-QRX [Standby]^
-GN [Good night]^
-GD [Good]^
-72 [72]^
-1TT [100]^
-OCF [Off-center fed dipole]^
-WATT [Watt]^
-GN [Good night]^
-NW [Now]^
-359 [3 5 9]^
-NW [Now]^
-579 [5 7 9]^
-LOOP [Loop]^
-WIRE [Wire]^
-QRX [Standby]^
-CW [C W]^
-QRZ\? [Who is calling\?]^
-WIRE [Wire]^
-489 [4 8 9]^
-GN [Good night]^
-OCF [Off-center fed dipole]^
-QRX [Standby]^
-RPRT [Report]^
-359 [3 5 9]^
-RPT [Report]^
-SWR [S W R]^
-489 [4 8 9]^
-QRX [Standby]^
-GN [Good night]^
-88 [88]^
-589 [5 8 9]^
-479 [4 7 9]^
-1TT [100]^
-INFO [Information]^
-GD [Good]^
-88 [88]^
-WATT [Watt]^
-SSB [Single Side Band]^
-72 [72]^
-359 [3 5 9]^
-GB [Goodbye]^
-QRL\? [Are you busy\?]^
-SWR [S W R]^
-QRL\? [Are you busy\?]^
-579 [5 7 9]^
-RPRT [Report]^
-589 [5 8 9]^
-CW [C W]^
-NW [Now]^
-SWR [S W R]^
-GN [Good night]^
-479 [4 7 9]^
-WIRE [Wire]^
-CW [C W]^
-72 [72]^
-479 [4 7 9]^
-589 [5 8 9]^
-QRX [Standby]^
-88 [88]^
-QRX [Standby]^
-LOOP [Loop]^
-88 [88]^
-1TT [100]^
-WATT [Watt]^
-QRZ\? [Who is calling\?]^
-GB [Goodbye]^
-LOOP [Loop]^
-INFO [Information]^
-579 [5 7 9]^
-INFO [Information]^
-489 [4 8 9]^
-WIRE [Wire]^
-72 [72]^
-QRZ\? [Who is calling\?]^
-QRL\? [Are you busy\?]^
-589 [5 8 9]^
-WIRE [Wire]^
-589 [5 8 9]^
-QRX [Standby]^
-QRZ\? [Who is calling\?]^
-OCF [Off-center fed dipole]^
-WATT [Watt]^
-RPT [Report]^
-WATT [Watt]^
-579 [5 7 9]^
-LOOP [Loop]^
-589 [5 8 9]^
-GD [Good]^
-72 [72]^
-GN [Good night]^
-SSB [Single Side Band]^
-LOOP [Loop]^
-WIRE [Wire]^
-489 [4 8 9]^
-GN [Good night]^
-WATT [Watt]^
-589 [5 8 9]^
-CW [C W]^
-RPT [Report]^
-359 [3 5 9]^
-GB [Goodbye]^
-LOOP [Loop]^
-489 [4 8 9]^
-NW [Now]^
-88 [88]^
-LOOP [Loop]^
-GN [Good night]^
-QRZ\? [Who is calling\?]^
-OCF [Off-center fed dipole]^
-579 [5 7 9]^
-SWR [S W R]^
-OCF [Off-center fed dipole]^
-RPRT [Report]^
-1TT [100]^
-CW [C W]^
-SSB [Single Side Band]^
-RPRT [Report]^
-SSB [Single Side Band]^
-RPRT [Report]^
 LOOP [Loop]^
 RPRT [Report]^
-OCF [Off-center fed dipole]^
+GN [Good night]^
+NW [Now]^
+RPRT [Report]^
+579 [5 7 9]^
 WATT [Watt]^
-OCF [Off-center fed dipole]^
-GB [Goodbye]^
+NW [Now]^
+GN [Good night]^
+WATT [Watt]^
 SSB [Single Side Band]^
 INFO [Information]^
-SWR [S W R]^
-NW [Now]^
 88 [88]^
-SWR [S W R]^
-RPRT [Report]^
-88 [88]^
-CW [C W]^
+589 [5 8 9]^
+LOOP [Loop]^
 359 [3 5 9]^
-579 [5 7 9]^
-RPT [Report]^
 WATT [Watt]^
+AGE [Age]^
+CW [C W]^
+GN [Good night]^
+72 [72]^
+OCF [Off-center fed dipole]^
+359 [3 5 9]^
+LOOP [Loop]^
+RPRT [Report]^
+CW [C W]^
+AGE [Age]^
+GD [Good]^
+RPT [Report]^
+AGE [Age]^
+579 [5 7 9]^
+QRX [Q R X]^
+579 [5 7 9]^
+WIRE [Wire]^
+SWR [S W R]^
+579 [5 7 9]^
+RPRT [Report]^
+589 [5 8 9]^
+88 [88]^
+QRT [Q R T]^
+359 [3 5 9]^
+AGE [Age]^
+72 [72]^
+589 [5 8 9]^
+479 [4 7 9]^
+QRT [Q R T]^
+479 [4 7 9]^
+589 [5 8 9]^
+CW [C W]^
+SWR [S W R]^
+AGE [Age]^
+72 [72]^
+479 [4 7 9]^
+SWR [S W R]^
+1TT [100]^
+AGE [Age]^
+1TT [100]^
+SSB [Single Side Band]^
+WATT [Watt]^
+QRT [Q R T]^
+INFO [Information]^
+359 [3 5 9]^
+INFO [Information]^
+CW [C W]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+88 [88]^
+RPRT [Report]^
+72 [72]^
+88 [88]^
+QRT [Q R T]^
+1TT [100]^
 359 [3 5 9]^
 WIRE [Wire]^
+GB [Goodbye]^
+579 [5 7 9]^
+QRT [Q R T]^
+AGE [Age]^
+CW [C W]^
+LOOP [Loop]^
+GB [Goodbye]^
+RPRT [Report]^
+SSB [Single Side Band]^
+INFO [Information]^
+1TT [100]^
+INFO [Information]^
+CW [C W]^
+72 [72]^
+QRT [Q R T]^
+RPRT [Report]^
+72 [72]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+489 [4 8 9]^
+CW [C W]^
+359 [3 5 9]^
+NW [Now]^
+88 [88]^
+QRX [Q R X]^
+88 [88]^
+589 [5 8 9]^
+OCF [Off-center fed dipole]^
+WATT [Watt]^
+CW [C W]^
+359 [3 5 9]^
+589 [5 8 9]^
+CW [C W]^
+489 [4 8 9]^
+RPRT [Report]^
+579 [5 7 9]^
+1TT [100]^
+88 [88]^
+GD [Good]^
+RPRT [Report]^
+579 [5 7 9]^
+359 [3 5 9]^
+NW [Now]^
+AGE [Age]^
+CW [C W]^
+579 [5 7 9]^
+LOOP [Loop]^
+CW [C W]^
+88 [88]^
+CW [C W]^
+WATT [Watt]^
+NW [Now]^
+1TT [100]^
+GD [Good]^
+RPT [Report]^
+NW [Now]^
+INFO [Information]^
+CW [C W]^
+INFO [Information]^
+GD [Good]^
+1TT [100]^
+489 [4 8 9]^
+359 [3 5 9]^
+QRT [Q R T]^
+WATT [Watt]^
+SWR [S W R]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+88 [88]^
+WIRE [Wire]^
+GB [Goodbye]^
+QRX [Q R X]^
+GD [Good]^
+LOOP [Loop]^
+GB [Goodbye]^
+LOOP [Loop]^
+88 [88]^
+SWR [S W R]^
+589 [5 8 9]^
+LOOP [Loop]^
+489 [4 8 9]^
+LOOP [Loop]^
+SSB [Single Side Band]^
+RPRT [Report]^
+SSB [Single Side Band]^
+WATT [Watt]^
+SSB [Single Side Band]^
+489 [4 8 9]^
+1TT [100]^
+72 [72]^
+GB [Goodbye]^
+72 [72]^
+579 [5 7 9]^
+QRX [Q R X]^
+479 [4 7 9]^
+GN [Good night]^
+SSB [Single Side Band]^
+AGE [Age]^
+SWR [S W R]^
+579 [5 7 9]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+QRX [Q R X]^
+QRT [Q R T]^
+88 [88]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+WATT [Watt]^
+NW [Now]^
+QRT [Q R T]^
+NW [Now]^
+GB [Goodbye]^
+RPT [Report]^
+CW [C W]^
+GN [Good night]^
+SSB [Single Side Band]^
+1TT [100]^
+AGE [Age]^
+RPRT [Report]^
+489 [4 8 9]^
+WATT [Watt]^
+GN [Good night]^
+INFO [Information]^
+LOOP [Loop]^
+SSB [Single Side Band]^
+SWR [S W R]^
+GN [Good night]^
+88 [88]^
+WIRE [Wire]^
+RPRT [Report]^
+SWR [S W R]^
+589 [5 8 9]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+489 [4 8 9]^
+LOOP [Loop]^
+WATT [Watt]^
+SWR [S W R]^
+RPT [Report]^
+QRT [Q R T]^
+589 [5 8 9]^
+OCF [Off-center fed dipole]^
+QRX [Q R X]^
+RPRT [Report]^
+579 [5 7 9]^
+72 [72]^
+CW [C W]^
+479 [4 7 9]^
+589 [5 8 9]^
+RPT [Report]^
+INFO [Information]^
+359 [3 5 9]^
+INFO [Information]^
+GB [Goodbye]^
+LOOP [Loop]^
+579 [5 7 9]^
+589 [5 8 9]^
+OCF [Off-center fed dipole]^
+AGE [Age]^
+WATT [Watt]^
+489 [4 8 9]^
+AGE [Age]^
+589 [5 8 9]^
+WIRE [Wire]^
+SWR [S W R]^
+INFO [Information]^
+579 [5 7 9]^
+359 [3 5 9]^
+INFO [Information]^
+579 [5 7 9]^
+RPT [Report]^
+LOOP [Loop]^
+359 [3 5 9]^
+WATT [Watt]^
+GB [Goodbye]^
+QRX [Q R X]^
+WIRE [Wire]^
+72 [72]^
+1TT [100]^
+SWR [S W R]^
+72 [72]^
+SWR [S W R]^
+GD [Good]^
+88 [88]^
+AGE [Age]^
+579 [5 7 9]^
+CW [C W]^
+NW [Now]^
+489 [4 8 9]^
+INFO [Information]^
+GD [Good]^
+579 [5 7 9]^
+GB [Goodbye]^
+QRX [Q R X]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+WIRE [Wire]^
+88 [88]^
+GD [Good]^
+489 [4 8 9]^
+589 [5 8 9]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+SSB [Single Side Band]^
+AGE [Age]^
+489 [4 8 9]^
+GN [Good night]^
+589 [5 8 9]^
+INFO [Information]^
+SSB [Single Side Band]^
+359 [3 5 9]^
+1TT [100]^
+479 [4 7 9]^
+88 [88]^
+72 [72]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+GD [Good]^
+479 [4 7 9]^
+QRT [Q R T]^
+579 [5 7 9]^
+RPT [Report]^
+479 [4 7 9]^
+WIRE [Wire]^
+489 [4 8 9]^
+GD [Good]^
+QRX [Q R X]^
+AGE [Age]^
+LOOP [Loop]^
+359 [3 5 9]^
+579 [5 7 9]^
+479 [4 7 9]^
+QRX [Q R X]^
+RPT [Report]^
+WATT [Watt]^
+88 [88]^
+INFO [Information]^
+489 [4 8 9]^
+359 [3 5 9]^
+88 [88]^
+GD [Good]^
+579 [5 7 9]^
+AGE [Age]^
+QRX [Q R X]^
+SSB [Single Side Band]^
+NW [Now]^
+RPT [Report]^
+SSB [Single Side Band]^
+72 [72]^
+QRX [Q R X]^
+SWR [S W R]^
+479 [4 7 9]^
+489 [4 8 9]^
+QRT [Q R T]^
+88 [88]^
+QRT [Q R T]^
+GB [Goodbye]^
+72 [72]^
+1TT [100]^
+CW [C W]^
+RPT [Report]^
+88 [88]^
+489 [4 8 9]^
+CW [C W]^
+72 [72]^
+INFO [Information]^
+GB [Goodbye]^
+WATT [Watt]^
+WIRE [Wire]^
+GB [Goodbye]^
+QRX [Q R X]^
+SWR [S W R]^
+AGE [Age]^
+GD [Good]^
+WIRE [Wire]^
+GN [Good night]^
+589 [5 8 9]^
+INFO [Information]^
+GN [Good night]^
+GD [Good]^
+GB [Goodbye]^
+CW [C W]^
+WATT [Watt]^
+72 [72]^
+QRX [Q R X]^
+589 [5 8 9]^
+CW [C W]^
+72 [72]^
+489 [4 8 9]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+WIRE [Wire]^
+CW [C W]^
+1TT [100]^
+88 [88]^
+LOOP [Loop]^
+SSB [Single Side Band]^
+72 [72]^
+RPRT [Report]^
+489 [4 8 9]^
+579 [5 7 9]^
+GN [Good night]^
+AGE [Age]^
+INFO [Information]^
+SWR [S W R]^
+359 [3 5 9]^
+INFO [Information]^
+SSB [Single Side Band]^
+1TT [100]^
+579 [5 7 9]^
+AGE [Age]^
+1TT [100]^
+88 [88]^
+WIRE [Wire]^
+579 [5 7 9]^
+GB [Goodbye]^
+NW [Now]^
+CW [C W]^
+GB [Goodbye]^
+QRT [Q R T]^
+589 [5 8 9]^
+479 [4 7 9]^
+RPT [Report]^
+WATT [Watt]^
+RPT [Report]^
+NW [Now]^
+WIRE [Wire]^
+QRX [Q R X]^
+SSB [Single Side Band]^
+SWR [S W R]^
+WATT [Watt]^
+NW [Now]^
+579 [5 7 9]^
+LOOP [Loop]^
+1TT [100]^
+489 [4 8 9]^
+WIRE [Wire]^
+AGE [Age]^
+WATT [Watt]^
+NW [Now]^
+AGE [Age]^
+NW [Now]^
+RPT [Report]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+359 [3 5 9]^
+RPRT [Report]^
+INFO [Information]^
+1TT [100]^
+589 [5 8 9]^
+RPRT [Report]^
+1TT [100]^
+SWR [S W R]^
+LOOP [Loop]^
+GB [Goodbye]^
+INFO [Information]^
+AGE [Age]^
+88 [88]^
+359 [3 5 9]^
+LOOP [Loop]^
+489 [4 8 9]^
+LOOP [Loop]^
+SSB [Single Side Band]^
+GD [Good]^
+SSB [Single Side Band]^
+CW [C W]^
+AGE [Age]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+1TT [100]^
+GD [Good]^
+589 [5 8 9]^
+INFO [Information]^
+GN [Good night]^
+359 [3 5 9]^
+GB [Goodbye]^
+359 [3 5 9]^
+SSB [Single Side Band]^
+LOOP [Loop]^
+GD [Good]^
+SWR [S W R]^
+WATT [Watt]^
+589 [5 8 9]^
+RPRT [Report]^
+RPT [Report]^
+88 [88]^
+NW [Now]^
+489 [4 8 9]^
+RPT [Report]^
+489 [4 8 9]^
+579 [5 7 9]^
+QRT [Q R T]^
+NW [Now]^
+589 [5 8 9]^
+RPRT [Report]^
+1TT [100]^
+CW [C W]^
+GB [Goodbye]^
+SWR [S W R]^
+SSB [Single Side Band]^
+WIRE [Wire]^
+1TT [100]^
+QRX [Q R X]^
+359 [3 5 9]^
+SWR [S W R]^
+WATT [Watt]^
+479 [4 7 9]^
+WIRE [Wire]^
+QRX [Q R X]^
+72 [72]^
+QRT [Q R T]^
+GD [Good]^
+SSB [Single Side Band]^
+GN [Good night]^
+AGE [Age]^
+CW [C W]^
+SSB [Single Side Band]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+RPT [Report]^
+GD [Good]^
+WATT [Watt]^
+GN [Good night]^
+CW [C W]^
+SSB [Single Side Band]^
+GD [Good]^
+479 [4 7 9]^
+WATT [Watt]^
+LOOP [Loop]^
+489 [4 8 9]^
+SSB [Single Side Band]^
+GB [Goodbye]^
+579 [5 7 9]^
+CW [C W]^
+QRT [Q R T]^
+RPRT [Report]^
+489 [4 8 9]^
+INFO [Information]^
+GB [Goodbye]^
+72 [72]^
+GB [Goodbye]^
+INFO [Information]^
+AGE [Age]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+QRT [Q R T]^
+GB [Goodbye]^
+QRT [Q R T]^
+479 [4 7 9]^
+QRX [Q R X]^
+579 [5 7 9]^
+88 [88]^
+AGE [Age]^
+579 [5 7 9]^
+479 [4 7 9]^
+489 [4 8 9]^
+RPRT [Report]^
+589 [5 8 9]^
+CW [C W]^
+GD [Good]^
+AGE [Age]^
+GD [Good]^
+WIRE [Wire]^
+AGE [Age]^
+489 [4 8 9]^
+AGE [Age]^
+72 [72]^
+479 [4 7 9]^
+NW [Now]^
+QRT [Q R T]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+589 [5 8 9]^
+GB [Goodbye]^
+589 [5 8 9]^
+INFO [Information]^
+CW [C W]^
+QRT [Q R T]^
+589 [5 8 9]^
+GD [Good]^
+AGE [Age]^
+CW [C W]^
+WIRE [Wire]^
+72 [72]^
+RPRT [Report]^
+LOOP [Loop]^
+589 [5 8 9]^
+QRT [Q R T]^
+CW [C W]^
+AGE [Age]^
+GN [Good night]^

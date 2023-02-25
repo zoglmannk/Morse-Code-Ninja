@@ -1,600 +1,600 @@
-QSB |S1000 CPY [Fading, Copy]^
-HPE |S1000 QRL [Hope, Busy]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-QSB |S1000 HW [Fading, How]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
 DIPOLE |S1000 HW [Dipole, How]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-FB |S1000 CPY [Fine business, Copy]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DX |S1000 DIPOLE [D X, Dipole]^
-DX |S1000 DIPOLE [D X, Dipole]^
-CPY |S1000 TNX [Copy, Thanks]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DIPOLE |S1000 DX [Dipole, D X]^
-HW |S1000 BTU [How, Back to you]^
-QSB |S1000 BTU [Fading, Back to you]^
-FB |S1000 QRL [Fine business, Busy]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-HW |S1000 CPY [How, Copy]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-TNX |S1000 FB [Thanks, Fine business]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-FB |S1000 DX [Fine business, D X]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-QSB |S1000 DX [Fading, D X]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-TNX |S1000 DX [Thanks, D X]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-SRI |S1000 BTU [Sorry, Back to you]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-DIPOLE |S1000 DX [Dipole, D X]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DIPOLE |S1000 DX [Dipole, D X]^
-QRL |S1000 CPY [Busy, Copy]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-HPE |S1000 TNX [Hope, Thanks]^
-DX |S1000 BTU [D X, Back to you]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-BTU |S1000 CPY [Back to you, Copy]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-DX |S1000 SRI [D X, Sorry]^
-DIPOLE |S1000 DX [Dipole, D X]^
-BTU |S1000 FB [Back to you, Fine business]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-FB |S1000 BTU [Fine business, Back to you]^
-QSB |S1000 DX [Fading, D X]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-FB |S1000 BTU [Fine business, Back to you]^
-CPY |S1000 QSB [Copy, Fading]^
-DIPOLE |S1000 HW [Dipole, How]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-CPY |S1000 FB [Copy, Fine business]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-BTU |S1000 TNX [Back to you, Thanks]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-BTU |S1000 HW [Back to you, How]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-HW |S1000 DIPOLE [How, Dipole]^
-CPY |S1000 QSB [Copy, Fading]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-DX |S1000 DIPOLE [D X, Dipole]^
-DX |S1000 DIPOLE [D X, Dipole]^
-TNX |S1000 FB [Thanks, Fine business]^
-HW |S1000 DIPOLE [How, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-BTU |S1000 FB [Back to you, Fine business]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-TNX |S1000 BTU [Thanks, Back to you]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-QSB |S1000 QRL [Fading, Busy]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DX |S1000 QRL [D X, Busy]^
-QSB |S1000 BTU [Fading, Back to you]^
-HPE |S1000 QRL [Hope, Busy]^
-DIPOLE |S1000 HW [Dipole, How]^
-TNX |S1000 DX [Thanks, D X]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-QSB |S1000 QRL [Fading, Busy]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-TNX |S1000 HW [Thanks, How]^
-QRL |S1000 SRI [Busy, Sorry]^
-TNX |S1000 CPY [Thanks, Copy]^
-HW |S1000 BTU [How, Back to you]^
-QSB |S1000 CPY [Fading, Copy]^
-DX |S1000 DIPOLE [D X, Dipole]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-FB |S1000 QRL [Fine business, Busy]^
-HW |S1000 DIPOLE [How, Dipole]^
-TNX |S1000 HPE [Thanks, Hope]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-BTU |S1000 QSB [Back to you, Fading]^
-TNX |S1000 CPY [Thanks, Copy]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DX |S1000 QSB [D X, Fading]^
-FB |S1000 QSB [Fine business, Fading]^
-QRL |S1000 HW [Busy, How]^
-SRI |S1000 BTU [Sorry, Back to you]^
-QSB |S1000 SRI [Fading, Sorry]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-BTU |S1000 HPE [Back to you, Hope]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-BTU |S1000 HPE [Back to you, Hope]^
-TNX |S1000 QSB [Thanks, Fading]^
-DX |S1000 HPE [D X, Hope]^
-SRI |S1000 QRL [Sorry, Busy]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-HPE |S1000 QSB [Hope, Fading]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-CPY |S1000 QSB [Copy, Fading]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-SRI |S1000 HPE [Sorry, Hope]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-HPE |S1000 CPY [Hope, Copy]^
-DX |S1000 QRL [D X, Busy]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-FB |S1000 DX [Fine business, D X]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-CPY |S1000 HPE [Copy, Hope]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-DX |S1000 BTU [D X, Back to you]^
-DIPOLE |S1000 HW [Dipole, How]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-CPY |S1000 TNX [Copy, Thanks]^
-BTU |S1000 SRI [Back to you, Sorry]^
-DIPOLE |S1000 DX [Dipole, D X]^
-HW |S1000 DIPOLE [How, Dipole]^
-CPY |S1000 TNX [Copy, Thanks]^
-DIPOLE |S1000 HW [Dipole, How]^
-BTU |S1000 QRL [Back to you, Busy]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-FB |S1000 TNX [Fine business, Thanks]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DIPOLE |S1000 DX [Dipole, D X]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-HW |S1000 DIPOLE [How, Dipole]^
-BTU |S1000 QRL [Back to you, Busy]^
-FB |S1000 QRL [Fine business, Busy]^
-FB |S1000 BTU [Fine business, Back to you]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-HW |S1000 DIPOLE [How, Dipole]^
-DX |S1000 DIPOLE [D X, Dipole]^
-FB |S1000 HPE [Fine business, Hope]^
-CPY |S1000 QRL [Copy, Busy]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DX |S1000 DIPOLE [D X, Dipole]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-BTU |S1000 HW [Back to you, How]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-HW |S1000 DIPOLE [How, Dipole]^
-FB |S1000 HPE [Fine business, Hope]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-HW |S1000 SRI [How, Sorry]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-TNX |S1000 HW [Thanks, How]^
-DIPOLE |S1000 DX [Dipole, D X]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-SRI |S1000 HPE [Sorry, Hope]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-HW |S1000 TNX [How, Thanks]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-DX |S1000 DIPOLE [D X, Dipole]^
-QRL |S1000 HW [Busy, How]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-SRI |S1000 HW [Sorry, How]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-HPE |S1000 DX [Hope, D X]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-CPY |S1000 QSB [Copy, Fading]^
-DIPOLE |S1000 DX [Dipole, D X]^
-QRL |S1000 QSB [Busy, Fading]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-HW |S1000 QRL [How, Busy]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-QRL |S1000 SRI [Busy, Sorry]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-HW |S1000 BTU [How, Back to you]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DIPOLE |S1000 HW [Dipole, How]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-HPE |S1000 HW [Hope, How]^
-DIPOLE |S1000 HW [Dipole, How]^
-DX |S1000 TNX [D X, Thanks]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-DIPOLE |S1000 HW [Dipole, How]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-DX |S1000 QRL [D X, Busy]^
-DX |S1000 HPE [D X, Hope]^
-CPY |S1000 SRI [Copy, Sorry]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-HW |S1000 DIPOLE [How, Dipole]^
-HW |S1000 DIPOLE [How, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-DX |S1000 DIPOLE [D X, Dipole]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
 SRI |S1000 FB [Sorry, Fine business]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 DX [Dipole, D X]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+HPE |S1000 FB [Hope, Fine business]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
 DIPOLE |S1000 HPE [Dipole, Hope]^
-SRI |S1000 DX [Sorry, D X]^
-HPE |S1000 QSB [Hope, Fading]^
-BTU |S1000 HPE [Back to you, Hope]^
-DIPOLE |S1000 HW [Dipole, How]^
+DIPOLE |S1000 DX [Dipole, D X]^
+QSB |S1000 QRL [Q S B, Q R L]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
 SRI |S1000 DIPOLE [Sorry, Dipole]^
 DX |S1000 DIPOLE [D X, Dipole]^
-TNX |S1000 SRI [Thanks, Sorry]^
 DX |S1000 DIPOLE [D X, Dipole]^
-HPE |S1000 BTU [Hope, Back to you]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-BTU |S1000 QRL [Back to you, Busy]^
-FB |S1000 BTU [Fine business, Back to you]^
-HW |S1000 DIPOLE [How, Dipole]^
-TNX |S1000 CPY [Thanks, Copy]^
+QRL |S1000 HW [Q R L, How]^
+HPE |S1000 QSB [Hope, Q S B]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 BTU [Copy, Back to you]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+CPY |S1000 HW [Copy, How]^
+DIPOLE |S1000 HW [Dipole, How]^
 DX |S1000 HW [D X, How]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-DX |S1000 QRL [D X, Busy]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+QRL |S1000 FB [Q R L, Fine business]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+DX |S1000 DIPOLE [D X, Dipole]^
+TNX |S1000 BTU [Thanks, Back to you]^
+HW |S1000 DIPOLE [How, Dipole]^
+HW |S1000 QRL [How, Q R L]^
+FB |S1000 SRI [Fine business, Sorry]^
+BTU |S1000 HPE [Back to you, Hope]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+DX |S1000 CPY [D X, Copy]^
+FB |S1000 TNX [Fine business, Thanks]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
 DIPOLE |S1000 BTU [Dipole, Back to you]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-SRI |S1000 QRL [Sorry, Busy]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-HW |S1000 TNX [How, Thanks]^
-DIPOLE |S1000 DX [Dipole, D X]^
-HW |S1000 BTU [How, Back to you]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
 DIPOLE |S1000 FB [Dipole, Fine business]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+DX |S1000 SRI [D X, Sorry]^
+FB |S1000 QSB [Fine business, Q S B]^
+DIPOLE |S1000 HW [Dipole, How]^
+FB |S1000 CPY [Fine business, Copy]^
 DIPOLE |S1000 HPE [Dipole, Hope]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-TNX |S1000 QSB [Thanks, Fading]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
 HPE |S1000 DIPOLE [Hope, Dipole]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-CPY |S1000 HPE [Copy, Hope]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-QRL |S1000 TNX [Busy, Thanks]^
-HW |S1000 DX [How, D X]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-CPY |S1000 TNX [Copy, Thanks]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+BTU |S1000 HW [Back to you, How]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
 DIPOLE |S1000 BTU [Dipole, Back to you]^
 DIPOLE |S1000 CPY [Dipole, Copy]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+FB |S1000 QRL [Fine business, Q R L]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+DX |S1000 FB [D X, Fine business]^
+TNX |S1000 QRL [Thanks, Q R L]^
+HPE |S1000 SRI [Hope, Sorry]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+HPE |S1000 HW [Hope, How]^
+BTU |S1000 CPY [Back to you, Copy]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+QSB |S1000 BTU [Q S B, Back to you]^
+SRI |S1000 CPY [Sorry, Copy]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+FB |S1000 BTU [Fine business, Back to you]^
+HW |S1000 DIPOLE [How, Dipole]^
+DX |S1000 TNX [D X, Thanks]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+HW |S1000 SRI [How, Sorry]^
+HW |S1000 DIPOLE [How, Dipole]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+HW |S1000 QSB [How, Q S B]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+HW |S1000 CPY [How, Copy]^
+HW |S1000 FB [How, Fine business]^
+TNX |S1000 BTU [Thanks, Back to you]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+QSB |S1000 DX [Q S B, D X]^
+SRI |S1000 DX [Sorry, D X]^
+QSB |S1000 HW [Q S B, How]^
 HPE |S1000 DIPOLE [Hope, Dipole]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
+TNX |S1000 FB [Thanks, Fine business]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+SRI |S1000 DX [Sorry, D X]^
+FB |S1000 QRL [Fine business, Q R L]^
+DX |S1000 DIPOLE [D X, Dipole]^
+DX |S1000 SRI [D X, Sorry]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+FB |S1000 SRI [Fine business, Sorry]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+BTU |S1000 DX [Back to you, D X]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+HW |S1000 QRL [How, Q R L]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+HPE |S1000 CPY [Hope, Copy]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+DX |S1000 CPY [D X, Copy]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DX |S1000 FB [D X, Fine business]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+FB |S1000 BTU [Fine business, Back to you]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+QRL |S1000 TNX [Q R L, Thanks]^
+QRL |S1000 HPE [Q R L, Hope]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 HW [Dipole, How]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+DIPOLE |S1000 HW [Dipole, How]^
+TNX |S1000 QRL [Thanks, Q R L]^
+SRI |S1000 QSB [Sorry, Q S B]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+TNX |S1000 HW [Thanks, How]^
+TNX |S1000 QSB [Thanks, Q S B]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+BTU |S1000 CPY [Back to you, Copy]^
+TNX |S1000 QSB [Thanks, Q S B]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+SRI |S1000 DX [Sorry, D X]^
+DIPOLE |S1000 HW [Dipole, How]^
+DX |S1000 QSB [D X, Q S B]^
+QRL |S1000 CPY [Q R L, Copy]^
+QRL |S1000 TNX [Q R L, Thanks]^
+BTU |S1000 HPE [Back to you, Hope]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+DX |S1000 DIPOLE [D X, Dipole]^
+DX |S1000 TNX [D X, Thanks]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+DIPOLE |S1000 DX [Dipole, D X]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+DX |S1000 TNX [D X, Thanks]^
+DX |S1000 CPY [D X, Copy]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+BTU |S1000 HPE [Back to you, Hope]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+BTU |S1000 CPY [Back to you, Copy]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+TNX |S1000 HPE [Thanks, Hope]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DX |S1000 DIPOLE [D X, Dipole]^
+HPE |S1000 QRL [Hope, Q R L]^
+DX |S1000 DIPOLE [D X, Dipole]^
+FB |S1000 DX [Fine business, D X]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+QRL |S1000 BTU [Q R L, Back to you]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+HW |S1000 QRL [How, Q R L]^
+HW |S1000 DX [How, D X]^
+HPE |S1000 CPY [Hope, Copy]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+QRL |S1000 FB [Q R L, Fine business]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+HW |S1000 HPE [How, Hope]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+QRL |S1000 HPE [Q R L, Hope]^
+DIPOLE |S1000 DX [Dipole, D X]^
+DIPOLE |S1000 DX [Dipole, D X]^
+FB |S1000 QRL [Fine business, Q R L]^
+HW |S1000 QSB [How, Q S B]^
+HW |S1000 DIPOLE [How, Dipole]^
+BTU |S1000 FB [Back to you, Fine business]^
+DX |S1000 DIPOLE [D X, Dipole]^
+FB |S1000 BTU [Fine business, Back to you]^
+SRI |S1000 QRL [Sorry, Q R L]^
+HW |S1000 TNX [How, Thanks]^
+QRL |S1000 HPE [Q R L, Hope]^
+FB |S1000 HW [Fine business, How]^
 FB |S1000 DIPOLE [Fine business, Dipole]^
 CPY |S1000 DIPOLE [Copy, Dipole]^
-TNX |S1000 HW [Thanks, How]^
-FB |S1000 QRL [Fine business, Busy]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-CPY |S1000 QSB [Copy, Fading]^
-HW |S1000 BTU [How, Back to you]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
 HW |S1000 DIPOLE [How, Dipole]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+QRL |S1000 SRI [Q R L, Sorry]^
+HW |S1000 DIPOLE [How, Dipole]^
+TNX |S1000 SRI [Thanks, Sorry]^
+DIPOLE |S1000 HW [Dipole, How]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+DX |S1000 DIPOLE [D X, Dipole]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+QRL |S1000 QSB [Q R L, Q S B]^
+DIPOLE |S1000 HW [Dipole, How]^
+QRL |S1000 DX [Q R L, D X]^
+FB |S1000 HW [Fine business, How]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+HPE |S1000 DX [Hope, D X]^
+BTU |S1000 QSB [Back to you, Q S B]^
+DIPOLE |S1000 HW [Dipole, How]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+TNX |S1000 BTU [Thanks, Back to you]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
 HW |S1000 DIPOLE [How, Dipole]^
 SRI |S1000 HPE [Sorry, Hope]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DIPOLE |S1000 DX [Dipole, D X]^
-CPY |S1000 FB [Copy, Fine business]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-FB |S1000 CPY [Fine business, Copy]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-QRL |S1000 HPE [Busy, Hope]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-DIPOLE |S1000 HW [Dipole, How]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
 DIPOLE |S1000 CPY [Dipole, Copy]^
-SRI |S1000 BTU [Sorry, Back to you]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-DX |S1000 QSB [D X, Fading]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-QRL |S1000 HPE [Busy, Hope]^
 SRI |S1000 DIPOLE [Sorry, Dipole]^
-CPY |S1000 HW [Copy, How]^
-HPE |S1000 DX [Hope, D X]^
-DIPOLE |S1000 TNX [Dipole, Thanks]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-QRL |S1000 DX [Busy, D X]^
-HPE |S1000 HW [Hope, How]^
-DIPOLE |S1000 DX [Dipole, D X]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-QSB |S1000 FB [Fading, Fine business]^
-DIPOLE |S1000 DX [Dipole, D X]^
-SRI |S1000 TNX [Sorry, Thanks]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-DX |S1000 DIPOLE [D X, Dipole]^
-FB |S1000 HW [Fine business, How]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-TNX |S1000 SRI [Thanks, Sorry]^
-HW |S1000 DX [How, D X]^
-HPE |S1000 QSB [Hope, Fading]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-TNX |S1000 SRI [Thanks, Sorry]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-HW |S1000 QRL [How, Busy]^
-CPY |S1000 QSB [Copy, Fading]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DIPOLE |S1000 HW [Dipole, How]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+CPY |S1000 QSB [Copy, Q S B]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+QRL |S1000 QSB [Q R L, Q S B]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+SRI |S1000 QRL [Sorry, Q R L]^
 SRI |S1000 CPY [Sorry, Copy]^
-QRL |S1000 CPY [Busy, Copy]^
-DIPOLE |S1000 HW [Dipole, How]^
-DX |S1000 CPY [D X, Copy]^
-QSB |S1000 DX [Fading, D X]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-DIPOLE |S1000 HW [Dipole, How]^
+DX |S1000 DIPOLE [D X, Dipole]^
+CPY |S1000 DX [Copy, D X]^
 DIPOLE |S1000 HPE [Dipole, Hope]^
-HW |S1000 DIPOLE [How, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-BTU |S1000 FB [Back to you, Fine business]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-FB |S1000 QRL [Fine business, Busy]^
-TNX |S1000 QRL [Thanks, Busy]^
-HW |S1000 QRL [How, Busy]^
-FB |S1000 CPY [Fine business, Copy]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-BTU |S1000 QSB [Back to you, Fading]^
-FB |S1000 HW [Fine business, How]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-SRI |S1000 TNX [Sorry, Thanks]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-HW |S1000 DIPOLE [How, Dipole]^
-HPE |S1000 HW [Hope, How]^
-QRL |S1000 TNX [Busy, Thanks]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-HW |S1000 QSB [How, Fading]^
-QRL |S1000 HPE [Busy, Hope]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-HW |S1000 DIPOLE [How, Dipole]^
-CPY |S1000 HPE [Copy, Hope]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-TNX |S1000 FB [Thanks, Fine business]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-TNX |S1000 SRI [Thanks, Sorry]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-QRL |S1000 TNX [Busy, Thanks]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-DX |S1000 DIPOLE [D X, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-SRI |S1000 QRL [Sorry, Busy]^
-DIPOLE |S1000 HW [Dipole, How]^
 DIPOLE |S1000 DX [Dipole, D X]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-QSB |S1000 DX [Fading, D X]^
-HPE |S1000 TNX [Hope, Thanks]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-QRL |S1000 BTU [Busy, Back to you]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-DX |S1000 DIPOLE [D X, Dipole]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-FB |S1000 HW [Fine business, How]^
-FB |S1000 TNX [Fine business, Thanks]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
 DIPOLE |S1000 HW [Dipole, How]^
-CPY |S1000 SRI [Copy, Sorry]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-CPY |S1000 QSB [Copy, Fading]^
-QRL |S1000 CPY [Busy, Copy]^
-QSB |S1000 QRL [Fading, Busy]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-DX |S1000 DIPOLE [D X, Dipole]^
-HW |S1000 TNX [How, Thanks]^
-DIPOLE |S1000 HW [Dipole, How]^
-BTU |S1000 HPE [Back to you, Hope]^
-DIPOLE |S1000 DX [Dipole, D X]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-BTU |S1000 QSB [Back to you, Fading]^
 DIPOLE |S1000 CPY [Dipole, Copy]^
+DIPOLE |S1000 DX [Dipole, D X]^
 FB |S1000 DIPOLE [Fine business, Dipole]^
-SRI |S1000 QSB [Sorry, Fading]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-HPE |S1000 DX [Hope, D X]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-CPY |S1000 TNX [Copy, Thanks]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
+HW |S1000 DIPOLE [How, Dipole]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+SRI |S1000 HPE [Sorry, Hope]^
+HW |S1000 DIPOLE [How, Dipole]^
+HW |S1000 QSB [How, Q S B]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DX |S1000 DIPOLE [D X, Dipole]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+DX |S1000 QSB [D X, Q S B]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+SRI |S1000 DX [Sorry, D X]^
+QSB |S1000 TNX [Q S B, Thanks]^
+FB |S1000 DX [Fine business, D X]^
+HPE |S1000 BTU [Hope, Back to you]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+HPE |S1000 CPY [Hope, Copy]^
 DIPOLE |S1000 TNX [Dipole, Thanks]^
-QRL |S1000 FB [Busy, Fine business]^
-CPY |S1000 HW [Copy, How]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-QSB |S1000 HPE [Fading, Hope]^
-DX |S1000 DIPOLE [D X, Dipole]^
-TNX |S1000 QRL [Thanks, Busy]^
-DX |S1000 HPE [D X, Hope]^
+QRL |S1000 TNX [Q R L, Thanks]^
+HW |S1000 DX [How, D X]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+FB |S1000 CPY [Fine business, Copy]^
 DIPOLE |S1000 BTU [Dipole, Back to you]^
-FB |S1000 BTU [Fine business, Back to you]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-HW |S1000 FB [How, Fine business]^
-BTU |S1000 DX [Back to you, D X]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-SRI |S1000 FB [Sorry, Fine business]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
+DIPOLE |S1000 DX [Dipole, D X]^
+DIPOLE |S1000 DX [Dipole, D X]^
+CPY |S1000 HPE [Copy, Hope]^
+BTU |S1000 QRL [Back to you, Q R L]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+HW |S1000 DIPOLE [How, Dipole]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+FB |S1000 QSB [Fine business, Q S B]^
+HPE |S1000 FB [Hope, Fine business]^
+QRL |S1000 TNX [Q R L, Thanks]^
+DX |S1000 HW [D X, How]^
+BTU |S1000 HW [Back to you, How]^
+HPE |S1000 QRL [Hope, Q R L]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DX |S1000 DIPOLE [D X, Dipole]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+QRL |S1000 SRI [Q R L, Sorry]^
+HW |S1000 CPY [How, Copy]^
 HPE |S1000 CPY [Hope, Copy]^
 DIPOLE |S1000 DX [Dipole, D X]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
 SRI |S1000 DX [Sorry, D X]^
-FB |S1000 QSB [Fine business, Fading]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-QRL |S1000 BTU [Busy, Back to you]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-QSB |S1000 BTU [Fading, Back to you]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-DIPOLE |S1000 FB [Dipole, Fine business]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
+HPE |S1000 SRI [Hope, Sorry]^
 DIPOLE |S1000 HPE [Dipole, Hope]^
-DX |S1000 HPE [D X, Hope]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
 HPE |S1000 DIPOLE [Hope, Dipole]^
-BTU |S1000 TNX [Back to you, Thanks]^
-QRL |S1000 HW [Busy, How]^
-DIPOLE |S1000 BTU [Dipole, Back to you]^
-QRL |S1000 TNX [Busy, Thanks]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-BTU |S1000 TNX [Back to you, Thanks]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
+QRL |S1000 CPY [Q R L, Copy]^
 DIPOLE |S1000 TNX [Dipole, Thanks]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-CPY |S1000 TNX [Copy, Thanks]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-SRI |S1000 CPY [Sorry, Copy]^
-TNX |S1000 QSB [Thanks, Fading]^
-BTU |S1000 DX [Back to you, D X]^
-DIPOLE |S1000 HW [Dipole, How]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-HW |S1000 DIPOLE [How, Dipole]^
-HW |S1000 CPY [How, Copy]^
-DIPOLE |S1000 DX [Dipole, D X]^
 DIPOLE |S1000 HPE [Dipole, Hope]^
+SRI |S1000 CPY [Sorry, Copy]^
 DIPOLE |S1000 HW [Dipole, How]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+HW |S1000 DIPOLE [How, Dipole]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+QSB |S1000 SRI [Q S B, Sorry]^
+DIPOLE |S1000 DX [Dipole, D X]^
+HPE |S1000 DX [Hope, D X]^
+FB |S1000 QRL [Fine business, Q R L]^
 DIPOLE |S1000 BTU [Dipole, Back to you]^
 HW |S1000 DIPOLE [How, Dipole]^
-QSB |S1000 DX [Fading, D X]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-FB |S1000 QRL [Fine business, Busy]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-CPY |S1000 FB [Copy, Fine business]^
-DX |S1000 DIPOLE [D X, Dipole]^
-QSB |S1000 CPY [Fading, Copy]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-TNX |S1000 BTU [Thanks, Back to you]^
-DX |S1000 DIPOLE [D X, Dipole]^
-BTU |S1000 DX [Back to you, D X]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-DX |S1000 DIPOLE [D X, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-HW |S1000 QRL [How, Busy]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+TNX |S1000 QSB [Thanks, Q S B]^
 DIPOLE |S1000 DX [Dipole, D X]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-TNX |S1000 DX [Thanks, D X]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-FB |S1000 DIPOLE [Fine business, Dipole]^
-HW |S1000 HPE [How, Hope]^
-HW |S1000 FB [How, Fine business]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-QRL |S1000 HW [Busy, How]^
-DIPOLE |S1000 HW [Dipole, How]^
 DIPOLE |S1000 SRI [Dipole, Sorry]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-CPY |S1000 TNX [Copy, Thanks]^
-BTU |S1000 DIPOLE [Back to you, Dipole]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-HW |S1000 BTU [How, Back to you]^
-DIPOLE |S1000 HW [Dipole, How]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-DX |S1000 DIPOLE [D X, Dipole]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+SRI |S1000 CPY [Sorry, Copy]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
 FB |S1000 DIPOLE [Fine business, Dipole]^
-FB |S1000 HPE [Fine business, Hope]^
-QSB |S1000 DX [Fading, D X]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
+BTU |S1000 FB [Back to you, Fine business]^
+DIPOLE |S1000 HW [Dipole, How]^
+BTU |S1000 SRI [Back to you, Sorry]^
+BTU |S1000 FB [Back to you, Fine business]^
+DIPOLE |S1000 HW [Dipole, How]^
+QSB |S1000 SRI [Q S B, Sorry]^
+FB |S1000 DX [Fine business, D X]^
 HPE |S1000 DIPOLE [Hope, Dipole]^
-DX |S1000 QSB [D X, Fading]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+CPY |S1000 QRL [Copy, Q R L]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
 SRI |S1000 TNX [Sorry, Thanks]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
+DIPOLE |S1000 DX [Dipole, D X]^
+HW |S1000 DIPOLE [How, Dipole]^
+QRL |S1000 FB [Q R L, Fine business]^
+DX |S1000 QRL [D X, Q R L]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+TNX |S1000 CPY [Thanks, Copy]^
+DX |S1000 DIPOLE [D X, Dipole]^
+HW |S1000 DIPOLE [How, Dipole]^
+FB |S1000 DX [Fine business, D X]^
+QRL |S1000 QSB [Q R L, Q S B]^
+CPY |S1000 BTU [Copy, Back to you]^
+HPE |S1000 QSB [Hope, Q S B]^
+TNX |S1000 DX [Thanks, D X]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+BTU |S1000 TNX [Back to you, Thanks]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DX |S1000 QSB [D X, Q S B]^
+HPE |S1000 QSB [Hope, Q S B]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+QRL |S1000 FB [Q R L, Fine business]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 HW [Dipole, How]^
+DX |S1000 QSB [D X, Q S B]^
+CPY |S1000 QRL [Copy, Q R L]^
+DIPOLE |S1000 HW [Dipole, How]^
 DIPOLE |S1000 SRI [Dipole, Sorry]^
-CPY |S1000 DIPOLE [Copy, Dipole]^
-BTU |S1000 QRL [Back to you, Busy]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+CPY |S1000 QRL [Copy, Q R L]^
+DX |S1000 BTU [D X, Back to you]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
 BTU |S1000 DIPOLE [Back to you, Dipole]^
-TNX |S1000 BTU [Thanks, Back to you]^
-SRI |S1000 QRL [Sorry, Busy]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+DX |S1000 FB [D X, Fine business]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+DIPOLE |S1000 DX [Dipole, D X]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+QSB |S1000 HW [Q S B, How]^
+DX |S1000 DIPOLE [D X, Dipole]^
+QSB |S1000 HW [Q S B, How]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+QSB |S1000 QRL [Q S B, Q R L]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+QSB |S1000 BTU [Q S B, Back to you]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 DX [Dipole, D X]^
+DIPOLE |S1000 DX [Dipole, D X]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+DX |S1000 HPE [D X, Hope]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+TNX |S1000 DX [Thanks, D X]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+TNX |S1000 QSB [Thanks, Q S B]^
+HW |S1000 DIPOLE [How, Dipole]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+HW |S1000 BTU [How, Back to you]^
+HW |S1000 DIPOLE [How, Dipole]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+HW |S1000 CPY [How, Copy]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+HW |S1000 TNX [How, Thanks]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+HPE |S1000 HW [Hope, How]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+BTU |S1000 QRL [Back to you, Q R L]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
 DIPOLE |S1000 FB [Dipole, Fine business]^
 DIPOLE |S1000 BTU [Dipole, Back to you]^
-DIPOLE |S1000 DX [Dipole, D X]^
-HW |S1000 DX [How, D X]^
-QRL |S1000 CPY [Busy, Copy]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
 DX |S1000 DIPOLE [D X, Dipole]^
-BTU |S1000 QRL [Back to you, Busy]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+FB |S1000 QSB [Fine business, Q S B]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
 SRI |S1000 DIPOLE [Sorry, Dipole]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+BTU |S1000 DX [Back to you, D X]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+SRI |S1000 QSB [Sorry, Q S B]^
+SRI |S1000 DX [Sorry, D X]^
+SRI |S1000 HPE [Sorry, Hope]^
+DIPOLE |S1000 HW [Dipole, How]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+HW |S1000 TNX [How, Thanks]^
+DX |S1000 DIPOLE [D X, Dipole]^
+HW |S1000 QSB [How, Q S B]^
+DX |S1000 DIPOLE [D X, Dipole]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+TNX |S1000 FB [Thanks, Fine business]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+TNX |S1000 QSB [Thanks, Q S B]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+SRI |S1000 TNX [Sorry, Thanks]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+QRL |S1000 CPY [Q R L, Copy]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+DIPOLE |S1000 DX [Dipole, D X]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 DX [Dipole, D X]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+SRI |S1000 HW [Sorry, How]^
+CPY |S1000 TNX [Copy, Thanks]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+DX |S1000 TNX [D X, Thanks]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+DX |S1000 DIPOLE [D X, Dipole]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+CPY |S1000 HPE [Copy, Hope]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+BTU |S1000 FB [Back to you, Fine business]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+TNX |S1000 BTU [Thanks, Back to you]^
+FB |S1000 QRL [Fine business, Q R L]^
+DIPOLE |S1000 HW [Dipole, How]^
+BTU |S1000 SRI [Back to you, Sorry]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
 CPY |S1000 DIPOLE [Copy, Dipole]^
-HPE |S1000 HW [Hope, How]^
-QSB |S1000 DX [Fading, D X]^
-DIPOLE |S1000 DX [Dipole, D X]^
-CPY |S1000 SRI [Copy, Sorry]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
+BTU |S1000 FB [Back to you, Fine business]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+HW |S1000 QRL [How, Q R L]^
+DIPOLE |S1000 HW [Dipole, How]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+DX |S1000 QSB [D X, Q S B]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+HPE |S1000 BTU [Hope, Back to you]^
+DIPOLE |S1000 HW [Dipole, How]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+TNX |S1000 CPY [Thanks, Copy]^
+BTU |S1000 QSB [Back to you, Q S B]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+DIPOLE |S1000 HW [Dipole, How]^
+DX |S1000 BTU [D X, Back to you]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+BTU |S1000 SRI [Back to you, Sorry]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
 BTU |S1000 DIPOLE [Back to you, Dipole]^
-CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+HW |S1000 QRL [How, Q R L]^
+CPY |S1000 SRI [Copy, Sorry]^
+DIPOLE |S1000 HW [Dipole, How]^
+DIPOLE |S1000 HW [Dipole, How]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+DX |S1000 DIPOLE [D X, Dipole]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+FB |S1000 TNX [Fine business, Thanks]^
+QSB |S1000 SRI [Q S B, Sorry]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+BTU |S1000 DX [Back to you, D X]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+BTU |S1000 HPE [Back to you, Hope]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 HW [Dipole, How]^
+QRL |S1000 HPE [Q R L, Hope]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
 SRI |S1000 DIPOLE [Sorry, Dipole]^
+TNX |S1000 DX [Thanks, D X]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DX |S1000 QRL [D X, Q R L]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+QRL |S1000 TNX [Q R L, Thanks]^
+HPE |S1000 SRI [Hope, Sorry]^
+HPE |S1000 QRL [Hope, Q R L]^
+DIPOLE |S1000 HW [Dipole, How]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+DX |S1000 FB [D X, Fine business]^
+BTU |S1000 TNX [Back to you, Thanks]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+DX |S1000 TNX [D X, Thanks]^
+QRL |S1000 QSB [Q R L, Q S B]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+DX |S1000 QSB [D X, Q S B]^
+QRL |S1000 HW [Q R L, How]^
+QRL |S1000 SRI [Q R L, Sorry]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+HW |S1000 DIPOLE [How, Dipole]^
+FB |S1000 CPY [Fine business, Copy]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
 FB |S1000 SRI [Fine business, Sorry]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+HW |S1000 QSB [How, Q S B]^
+HW |S1000 TNX [How, Thanks]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+SRI |S1000 QRL [Sorry, Q R L]^
+FB |S1000 QRL [Fine business, Q R L]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+TNX |S1000 BTU [Thanks, Back to you]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+DX |S1000 DIPOLE [D X, Dipole]^
+CPY |S1000 HW [Copy, How]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+HW |S1000 FB [How, Fine business]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+TNX |S1000 BTU [Thanks, Back to you]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
 SRI |S1000 DIPOLE [Sorry, Dipole]^
 DX |S1000 DIPOLE [D X, Dipole]^
+SRI |S1000 HPE [Sorry, Hope]^
+DX |S1000 DIPOLE [D X, Dipole]^
 BTU |S1000 DIPOLE [Back to you, Dipole]^
+HW |S1000 CPY [How, Copy]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+HPE |S1000 SRI [Hope, Sorry]^
+HW |S1000 DIPOLE [How, Dipole]^
+CPY |S1000 DX [Copy, D X]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+BTU |S1000 QRL [Back to you, Q R L]^
+CPY |S1000 SRI [Copy, Sorry]^
+HW |S1000 DIPOLE [How, Dipole]^
+HW |S1000 SRI [How, Sorry]^
+DX |S1000 DIPOLE [D X, Dipole]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+DX |S1000 DIPOLE [D X, Dipole]^
+CPY |S1000 DX [Copy, D X]^

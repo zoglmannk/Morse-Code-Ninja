@@ -16,10 +16,10 @@ WIRE [Wire]^
 359 [3 5 9]^
 479 [4 7 9]^
 489 [4 8 9]^
-QRL\? [Are you busy\?]^
-QRZ\? [Who is calling\?]^
 579 [5 7 9]^
 589 [5 8 9]^
 RPRT [Report]^
 RPT [Report]^
-QRX [Standby]^
+QRX [Q R X]^
+AGE [Age]^
+QRT [Q R T]^

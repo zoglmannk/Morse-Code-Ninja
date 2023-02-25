@@ -1,600 +1,600 @@
-AGN |S1000 NAME [Again, Name]^
-NR |S1000 AGN [Number, Again]^
-NAME |S1000 QRM [Name, Interference]^
-73 |S1000 NAME [73, Name]^
-599 |S1000 559 [5 9 9, 5 5 9]^
-TEST |S1000 559 [Contest, 5 5 9]^
-AGN |S1000 QRM [Again, Interference]^
-599 |S1000 AGN [5 9 9, Again]^
-UR |S1000 NAME [Your, Name]^
-599 |S1000 AGN [5 9 9, Again]^
-559 |S1000 DE [5 5 9, From]^
-UR |S1000 CQ [Your, C Q]^
-UP |S1000 5NN [Up, 5 N N]^
-AGN |S1000 UP [Again, Up]^
-AGN |S1000 ES [Again, And]^
-QRM |S1000 RST [Interference, R S T]^
-QRZ |S1000 NR [Q R Zed, Number]^
-AGN |S1000 5NN [Again, 5 N N]^
-CQ |S1000 AGN [C Q, Again]^
-ES |S1000 599 [And, 5 9 9]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-UP |S1000 UR [Up, Your]^
-QRZ |S1000 NR [Q R Zed, Number]^
-CQ |S1000 TEST [C Q, Contest]^
-599 |S1000 NAME [5 9 9, Name]^
-CQ |S1000 QRZ [C Q, Q R Zed]^
-AGN |S1000 TEST [Again, Contest]^
-AGN |S1000 DE [Again, From]^
-AGN |S1000 VY [Again, Very]^
-AGN |S1000 CQ [Again, C Q]^
-RST |S1000 UR [R S T, Your]^
-AGN |S1000 TEST [Again, Contest]^
-WX |S1000 VY [Weather, Very]^
-AGN |S1000 ES [Again, And]^
-RST |S1000 AGN [R S T, Again]^
-UR |S1000 UP [Your, Up]^
-AGN |S1000 TEST [Again, Contest]^
-CQ |S1000 AGN [C Q, Again]^
-559 |S1000 QRZ [5 5 9, Q R Zed]^
-AGN |S1000 ES [Again, And]^
-5NN |S1000 AGN [5 N N, Again]^
-559 |S1000 AGN [5 5 9, Again]^
-UP |S1000 DE [Up, From]^
-AGN |S1000 QRM [Again, Interference]^
-73 |S1000 RST [73, R S T]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-NAME |S1000 WX [Name, Weather]^
-UR |S1000 AGN [Your, Again]^
-NAME |S1000 AGN [Name, Again]^
-UR |S1000 5NN [Your, 5 N N]^
-599 |S1000 AGN [5 9 9, Again]^
-QRM |S1000 UR [Interference, Your]^
-73 |S1000 QRZ [73, Q R Zed]^
-AGN |S1000 5NN [Again, 5 N N]^
-WX |S1000 AGN [Weather, Again]^
-VY |S1000 AGN [Very, Again]^
-UP |S1000 AGN [Up, Again]^
-73 |S1000 AGN [73, Again]^
-ES |S1000 5NN [And, 5 N N]^
-AGN |S1000 NR [Again, Number]^
-QRM |S1000 AGN [Interference, Again]^
-NAME |S1000 AGN [Name, Again]^
-UP |S1000 AGN [Up, Again]^
-CQ |S1000 UR [C Q, Your]^
-AGN |S1000 5NN [Again, 5 N N]^
-ES |S1000 73 [And, 73]^
-NAME |S1000 DE [Name, From]^
-AGN |S1000 QRM [Again, Interference]^
-DE |S1000 AGN [From, Again]^
-599 |S1000 WX [5 9 9, Weather]^
-AGN |S1000 ES [Again, And]^
-CQ |S1000 AGN [C Q, Again]^
-RST |S1000 UR [R S T, Your]^
-AGN |S1000 WX [Again, Weather]^
-NAME |S1000 UP [Name, Up]^
-AGN |S1000 TEST [Again, Contest]^
-AGN |S1000 NR [Again, Number]^
-CQ |S1000 AGN [C Q, Again]^
-559 |S1000 QRZ [5 5 9, Q R Zed]^
-AGN |S1000 559 [Again, 5 5 9]^
-AGN |S1000 WX [Again, Weather]^
-DE |S1000 AGN [From, Again]^
-CQ |S1000 AGN [C Q, Again]^
-RST |S1000 AGN [R S T, Again]^
-599 |S1000 AGN [5 9 9, Again]^
-VY |S1000 UR [Very, Your]^
-VY |S1000 599 [Very, 5 9 9]^
-AGN |S1000 UP [Again, Up]^
-AGN |S1000 DE [Again, From]^
-73 |S1000 NR [73, Number]^
-AGN |S1000 VY [Again, Very]^
-QRM |S1000 599 [Interference, 5 9 9]^
-CQ |S1000 AGN [C Q, Again]^
-NR |S1000 UR [Number, Your]^
-AGN |S1000 QRM [Again, Interference]^
-5NN |S1000 CQ [5 N N, C Q]^
-AGN |S1000 NAME [Again, Name]^
-UR |S1000 TEST [Your, Contest]^
-AGN |S1000 WX [Again, Weather]^
-CQ |S1000 AGN [C Q, Again]^
-73 |S1000 AGN [73, Again]^
-UR |S1000 5NN [Your, 5 N N]^
-559 |S1000 AGN [5 5 9, Again]^
-UR |S1000 VY [Your, Very]^
-AGN |S1000 ES [Again, And]^
-AGN |S1000 QRM [Again, Interference]^
-AGN |S1000 NAME [Again, Name]^
-CQ |S1000 WX [C Q, Weather]^
-NAME |S1000 ES [Name, And]^
-RST |S1000 AGN [R S T, Again]^
-ES |S1000 AGN [And, Again]^
-ES |S1000 AGN [And, Again]^
-NAME |S1000 AGN [Name, Again]^
-DE |S1000 559 [From, 5 5 9]^
-RST |S1000 CQ [R S T, C Q]^
-DE |S1000 AGN [From, Again]^
-WX |S1000 599 [Weather, 5 9 9]^
-NR |S1000 QRZ [Number, Q R Zed]^
-AGN |S1000 5NN [Again, 5 N N]^
-599 |S1000 AGN [5 9 9, Again]^
-RST |S1000 AGN [R S T, Again]^
-UP |S1000 559 [Up, 5 5 9]^
-CQ |S1000 599 [C Q, 5 9 9]^
-QRM |S1000 TEST [Interference, Contest]^
-ES |S1000 AGN [And, Again]^
-5NN |S1000 AGN [5 N N, Again]^
-559 |S1000 DE [5 5 9, From]^
-AGN |S1000 599 [Again, 5 9 9]^
-DE |S1000 5NN [From, 5 N N]^
-AGN |S1000 UR [Again, Your]^
-73 |S1000 WX [73, Weather]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-WX |S1000 5NN [Weather, 5 N N]^
-AGN |S1000 QRM [Again, Interference]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-DE |S1000 UP [From, Up]^
-AGN |S1000 UP [Again, Up]^
-QRM |S1000 AGN [Interference, Again]^
-NR |S1000 AGN [Number, Again]^
-599 |S1000 ES [5 9 9, And]^
-WX |S1000 AGN [Weather, Again]^
-QRZ |S1000 RST [Q R Zed, R S T]^
-559 |S1000 AGN [5 5 9, Again]^
-UR |S1000 599 [Your, 5 9 9]^
-ES |S1000 AGN [And, Again]^
-DE |S1000 CQ [From, C Q]^
-AGN |S1000 UR [Again, Your]^
-AGN |S1000 DE [Again, From]^
-AGN |S1000 RST [Again, R S T]^
-AGN |S1000 DE [Again, From]^
-73 |S1000 AGN [73, Again]^
-NR |S1000 VY [Number, Very]^
-CQ |S1000 AGN [C Q, Again]^
-73 |S1000 UR [73, Your]^
-NR |S1000 AGN [Number, Again]^
-QRZ |S1000 RST [Q R Zed, R S T]^
-5NN |S1000 VY [5 N N, Very]^
-TEST |S1000 5NN [Contest, 5 N N]^
-AGN |S1000 DE [Again, From]^
-QRM |S1000 AGN [Interference, Again]^
-RST |S1000 NAME [R S T, Name]^
-NR |S1000 WX [Number, Weather]^
-TEST |S1000 VY [Contest, Very]^
-QRZ |S1000 CQ [Q R Zed, C Q]^
-UR |S1000 5NN [Your, 5 N N]^
-AGN |S1000 73 [Again, 73]^
-AGN |S1000 UP [Again, Up]^
-73 |S1000 DE [73, From]^
-AGN |S1000 599 [Again, 5 9 9]^
-ES |S1000 WX [And, Weather]^
-AGN |S1000 RST [Again, R S T]^
-VY |S1000 5NN [Very, 5 N N]^
-RST |S1000 73 [R S T, 73]^
-AGN |S1000 VY [Again, Very]^
 TEST |S1000 AGN [Contest, Again]^
-WX |S1000 AGN [Weather, Again]^
-VY |S1000 AGN [Very, Again]^
-UP |S1000 AGN [Up, Again]^
-TEST |S1000 RST [Contest, R S T]^
-AGN |S1000 UP [Again, Up]^
-VY |S1000 CQ [Very, C Q]^
-AGN |S1000 DE [Again, From]^
-NAME |S1000 AGN [Name, Again]^
-ES |S1000 559 [And, 5 5 9]^
-AGN |S1000 QRM [Again, Interference]^
-UR |S1000 AGN [Your, Again]^
-ES |S1000 RST [And, R S T]^
-AGN |S1000 VY [Again, Very]^
-RST |S1000 AGN [R S T, Again]^
-NR |S1000 AGN [Number, Again]^
-QRM |S1000 CQ [Interference, C Q]^
-559 |S1000 QRM [5 5 9, Interference]^
-AGN |S1000 TEST [Again, Contest]^
-QRM |S1000 AGN [Interference, Again]^
-ES |S1000 VY [And, Very]^
-DE |S1000 AGN [From, Again]^
-RST |S1000 AGN [R S T, Again]^
-QRZ |S1000 73 [Q R Zed, 73]^
-AGN |S1000 UR [Again, Your]^
-VY |S1000 UR [Very, Your]^
-AGN |S1000 CQ [Again, C Q]^
-AGN |S1000 599 [Again, 5 9 9]^
-AGN |S1000 559 [Again, 5 5 9]^
-599 |S1000 TEST [5 9 9, Contest]^
-AGN |S1000 VY [Again, Very]^
-AGN |S1000 UR [Again, Your]^
-UP |S1000 QRZ [Up, Q R Zed]^
-ES |S1000 AGN [And, Again]^
-73 |S1000 DE [73, From]^
-NR |S1000 AGN [Number, Again]^
-DE |S1000 AGN [From, Again]^
-CQ |S1000 AGN [C Q, Again]^
-QRM |S1000 CQ [Interference, C Q]^
-RST |S1000 AGN [R S T, Again]^
-QRM |S1000 DE [Interference, From]^
-TEST |S1000 AGN [Contest, Again]^
-CQ |S1000 TEST [C Q, Contest]^
-AGN |S1000 73 [Again, 73]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-CQ |S1000 5NN [C Q, 5 N N]^
-DE |S1000 NR [From, Number]^
-QRM |S1000 VY [Interference, Very]^
-NR |S1000 AGN [Number, Again]^
-NR |S1000 5NN [Number, 5 N N]^
-73 |S1000 AGN [73, Again]^
-ES |S1000 VY [And, Very]^
-559 |S1000 AGN [5 5 9, Again]^
-UR |S1000 AGN [Your, Again]^
-NR |S1000 WX [Number, Weather]^
-AGN |S1000 DE [Again, From]^
-AGN |S1000 73 [Again, 73]^
-AGN |S1000 CQ [Again, C Q]^
-DE |S1000 ES [From, And]^
-AGN |S1000 DE [Again, From]^
-AGN |S1000 CQ [Again, C Q]^
-QRM |S1000 AGN [Interference, Again]^
-NR |S1000 AGN [Number, Again]^
-VY |S1000 AGN [Very, Again]^
-RST |S1000 AGN [R S T, Again]^
-WX |S1000 UP [Weather, Up]^
-UR |S1000 UP [Your, Up]^
-AGN |S1000 RST [Again, R S T]^
-AGN |S1000 73 [Again, 73]^
-5NN |S1000 UR [5 N N, Your]^
-599 |S1000 UR [5 9 9, Your]^
-599 |S1000 DE [5 9 9, From]^
-73 |S1000 CQ [73, C Q]^
-RST |S1000 AGN [R S T, Again]^
-RST |S1000 VY [R S T, Very]^
-DE |S1000 AGN [From, Again]^
-DE |S1000 AGN [From, Again]^
-5NN |S1000 AGN [5 N N, Again]^
-VY |S1000 ES [Very, And]^
-AGN |S1000 WX [Again, Weather]^
-QRM |S1000 TEST [Interference, Contest]^
-559 |S1000 AGN [5 5 9, Again]^
-DE |S1000 559 [From, 5 5 9]^
-RST |S1000 NR [R S T, Number]^
-AGN |S1000 NAME [Again, Name]^
-AGN |S1000 NR [Again, Number]^
-AGN |S1000 73 [Again, 73]^
-UP |S1000 AGN [Up, Again]^
-VY |S1000 QRM [Very, Interference]^
-DE |S1000 AGN [From, Again]^
-DE |S1000 RST [From, R S T]^
-73 |S1000 WX [73, Weather]^
-AGN |S1000 DE [Again, From]^
-AGN |S1000 ES [Again, And]^
-AGN |S1000 UP [Again, Up]^
-AGN |S1000 5NN [Again, 5 N N]^
-NR |S1000 559 [Number, 5 5 9]^
-AGN |S1000 ES [Again, And]^
-UP |S1000 QRZ [Up, Q R Zed]^
-VY |S1000 AGN [Very, Again]^
-DE |S1000 TEST [From, Contest]^
-AGN |S1000 RST [Again, R S T]^
-ES |S1000 AGN [And, Again]^
-73 |S1000 QRZ [73, Q R Zed]^
-AGN |S1000 QRM [Again, Interference]^
-ES |S1000 AGN [And, Again]^
-TEST |S1000 559 [Contest, 5 5 9]^
-73 |S1000 AGN [73, Again]^
-QRZ |S1000 AGN [Q R Zed, Again]^
-ES |S1000 QRZ [And, Q R Zed]^
-RST |S1000 5NN [R S T, 5 N N]^
-RST |S1000 AGN [R S T, Again]^
-NR |S1000 VY [Number, Very]^
-UP |S1000 AGN [Up, Again]^
-5NN |S1000 AGN [5 N N, Again]^
-VY |S1000 ES [Very, And]^
-AGN |S1000 73 [Again, 73]^
-TEST |S1000 AGN [Contest, Again]^
-NR |S1000 CQ [Number, C Q]^
-559 |S1000 WX [5 5 9, Weather]^
-DE |S1000 UP [From, Up]^
-AGN |S1000 DE [Again, From]^
-AGN |S1000 UR [Again, Your]^
-RST |S1000 UP [R S T, Up]^
-ES |S1000 AGN [And, Again]^
-UR |S1000 CQ [Your, C Q]^
-DE |S1000 AGN [From, Again]^
-559 |S1000 DE [5 5 9, From]^
-AGN |S1000 599 [Again, 5 9 9]^
-AGN |S1000 CQ [Again, C Q]^
-DE |S1000 VY [From, Very]^
-AGN |S1000 559 [Again, 5 5 9]^
-UR |S1000 ES [Your, And]^
+TEST |S1000 ES [Contest, And]^
 NAME |S1000 QRZ [Name, Q R Zed]^
-AGN |S1000 TEST [Again, Contest]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-AGN |S1000 UR [Again, Your]^
-AGN |S1000 DE [Again, From]^
+AGN |S1000 ES [Again, And]^
 AGN |S1000 559 [Again, 5 5 9]^
-AGN |S1000 559 [Again, 5 5 9]^
-DE |S1000 559 [From, 5 5 9]^
-AGN |S1000 VY [Again, Very]^
-QRZ |S1000 QRM [Q R Zed, Interference]^
-5NN |S1000 AGN [5 N N, Again]^
-CQ |S1000 AGN [C Q, Again]^
-559 |S1000 ES [5 5 9, And]^
-5NN |S1000 AGN [5 N N, Again]^
-73 |S1000 AGN [73, Again]^
-DE |S1000 AGN [From, Again]^
-UP |S1000 RST [Up, R S T]^
-UP |S1000 DE [Up, From]^
-AGN |S1000 QRM [Again, Interference]^
-UP |S1000 AGN [Up, Again]^
-WX |S1000 AGN [Weather, Again]^
-WX |S1000 559 [Weather, 5 5 9]^
-AGN |S1000 RST [Again, R S T]^
-UR |S1000 AGN [Your, Again]^
-QRZ |S1000 599 [Q R Zed, 5 9 9]^
-UR |S1000 QRM [Your, Interference]^
-AGN |S1000 UR [Again, Your]^
-AGN |S1000 UR [Again, Your]^
-NAME |S1000 TEST [Name, Contest]^
-NR |S1000 QRZ [Number, Q R Zed]^
-AGN |S1000 73 [Again, 73]^
-RST |S1000 CQ [R S T, C Q]^
-NAME |S1000 NR [Name, Number]^
-AGN |S1000 RST [Again, R S T]^
-AGN |S1000 NAME [Again, Name]^
-NR |S1000 NAME [Number, Name]^
-ES |S1000 AGN [And, Again]^
-VY |S1000 73 [Very, 73]^
-TEST |S1000 AGN [Contest, Again]^
-CQ |S1000 VY [C Q, Very]^
-AGN |S1000 559 [Again, 5 5 9]^
-DE |S1000 AGN [From, Again]^
-UP |S1000 DE [Up, From]^
-5NN |S1000 AGN [5 N N, Again]^
-599 |S1000 UR [5 9 9, Your]^
-AGN |S1000 5NN [Again, 5 N N]^
-CQ |S1000 AGN [C Q, Again]^
-RST |S1000 AGN [R S T, Again]^
-73 |S1000 CQ [73, C Q]^
-DE |S1000 QRM [From, Interference]^
-AGN |S1000 VY [Again, Very]^
-UP |S1000 NR [Up, Number]^
-RST |S1000 AGN [R S T, Again]^
-UP |S1000 NAME [Up, Name]^
-UR |S1000 AGN [Your, Again]^
-ES |S1000 NAME [And, Name]^
-AGN |S1000 UP [Again, Up]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-WX |S1000 AGN [Weather, Again]^
-VY |S1000 AGN [Very, Again]^
-73 |S1000 5NN [73, 5 N N]^
-RST |S1000 5NN [R S T, 5 N N]^
-559 |S1000 AGN [5 5 9, Again]^
-559 |S1000 UP [5 5 9, Up]^
-TEST |S1000 AGN [Contest, Again]^
-5NN |S1000 AGN [5 N N, Again]^
-RST |S1000 AGN [R S T, Again]^
-599 |S1000 AGN [5 9 9, Again]^
-NR |S1000 VY [Number, Very]^
-NR |S1000 AGN [Number, Again]^
-TEST |S1000 AGN [Contest, Again]^
-599 |S1000 ES [5 9 9, And]^
-AGN |S1000 UP [Again, Up]^
-599 |S1000 RST [5 9 9, R S T]^
-AGN |S1000 5NN [Again, 5 N N]^
-WX |S1000 559 [Weather, 5 5 9]^
-AGN |S1000 DE [Again, From]^
-AGN |S1000 WX [Again, Weather]^
-AGN |S1000 UP [Again, Up]^
-AGN |S1000 5NN [Again, 5 N N]^
-AGN |S1000 VY [Again, Very]^
-AGN |S1000 QRM [Again, Interference]^
-AGN |S1000 UP [Again, Up]^
-AGN |S1000 73 [Again, 73]^
-CQ |S1000 AGN [C Q, Again]^
-CQ |S1000 599 [C Q, 5 9 9]^
-AGN |S1000 73 [Again, 73]^
-AGN |S1000 VY [Again, Very]^
-AGN |S1000 NAME [Again, Name]^
-TEST |S1000 5NN [Contest, 5 N N]^
-UP |S1000 AGN [Up, Again]^
-DE |S1000 AGN [From, Again]^
-ES |S1000 VY [And, Very]^
-RST |S1000 DE [R S T, From]^
-599 |S1000 AGN [5 9 9, Again]^
-UP |S1000 TEST [Up, Contest]^
-AGN |S1000 VY [Again, Very]^
-UP |S1000 DE [Up, From]^
-NAME |S1000 AGN [Name, Again]^
-599 |S1000 NAME [5 9 9, Name]^
-AGN |S1000 559 [Again, 5 5 9]^
-AGN |S1000 QRM [Again, Interference]^
-AGN |S1000 CQ [Again, C Q]^
-UR |S1000 DE [Your, From]^
-73 |S1000 AGN [73, Again]^
-5NN |S1000 AGN [5 N N, Again]^
-NR |S1000 5NN [Number, 5 N N]^
-WX |S1000 599 [Weather, 5 9 9]^
-AGN |S1000 UP [Again, Up]^
-AGN |S1000 QRM [Again, Interference]^
-AGN |S1000 73 [Again, 73]^
-UP |S1000 73 [Up, 73]^
-AGN |S1000 73 [Again, 73]^
-QRZ |S1000 UP [Q R Zed, Up]^
-DE |S1000 UR [From, Your]^
-AGN |S1000 DE [Again, From]^
-UP |S1000 QRM [Up, Interference]^
-AGN |S1000 WX [Again, Weather]^
-AGN |S1000 UP [Again, Up]^
-AGN |S1000 QRM [Again, Interference]^
-UP |S1000 AGN [Up, Again]^
-WX |S1000 AGN [Weather, Again]^
-TEST |S1000 AGN [Contest, Again]^
-559 |S1000 ES [5 5 9, And]^
-AGN |S1000 QRZ [Again, Q R Zed]^
+ES |S1000 73 [And, 73]^
+559 |S1000 NAME [5 5 9, Name]^
+AGN |S1000 NR [Again, Number]^
 AGN |S1000 599 [Again, 5 9 9]^
-NAME |S1000 AGN [Name, Again]^
-5NN |S1000 AGN [5 N N, Again]^
-ES |S1000 NR [And, Number]^
-AGN |S1000 UP [Again, Up]^
-5NN |S1000 ES [5 N N, And]^
-RST |S1000 AGN [R S T, Again]^
-559 |S1000 UP [5 5 9, Up]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-NR |S1000 AGN [Number, Again]^
-559 |S1000 UR [5 5 9, Your]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-599 |S1000 DE [5 9 9, From]^
-ES |S1000 AGN [And, Again]^
-UP |S1000 NR [Up, Number]^
-VY |S1000 QRM [Very, Interference]^
-VY |S1000 AGN [Very, Again]^
-ES |S1000 AGN [And, Again]^
-599 |S1000 73 [5 9 9, 73]^
-AGN |S1000 UR [Again, Your]^
-AGN |S1000 ES [Again, And]^
-AGN |S1000 CQ [Again, C Q]^
-VY |S1000 AGN [Very, Again]^
-NAME |S1000 DE [Name, From]^
-TEST |S1000 5NN [Contest, 5 N N]^
-AGN |S1000 NAME [Again, Name]^
-AGN |S1000 UR [Again, Your]^
-599 |S1000 5NN [5 9 9, 5 N N]^
-UR |S1000 QRZ [Your, Q R Zed]^
-AGN |S1000 VY [Again, Very]^
-AGN |S1000 TEST [Again, Contest]^
-QRZ |S1000 UR [Q R Zed, Your]^
-AGN |S1000 RST [Again, R S T]^
-CQ |S1000 AGN [C Q, Again]^
-QRZ |S1000 AGN [Q R Zed, Again]^
-DE |S1000 ES [From, And]^
-DE |S1000 AGN [From, Again]^
-ES |S1000 AGN [And, Again]^
-QRZ |S1000 AGN [Q R Zed, Again]^
-QRM |S1000 73 [Interference, 73]^
-AGN |S1000 TEST [Again, Contest]^
-WX |S1000 73 [Weather, 73]^
-AGN |S1000 73 [Again, 73]^
-AGN |S1000 DE [Again, From]^
-AGN |S1000 73 [Again, 73]^
-AGN |S1000 DE [Again, From]^
-CQ |S1000 AGN [C Q, Again]^
-WX |S1000 AGN [Weather, Again]^
-QRZ |S1000 AGN [Q R Zed, Again]^
-WX |S1000 73 [Weather, 73]^
-WX |S1000 AGN [Weather, Again]^
-NAME |S1000 AGN [Name, Again]^
-WX |S1000 UR [Weather, Your]^
-UP |S1000 RST [Up, R S T]^
-NAME |S1000 AGN [Name, Again]^
-QRZ |S1000 AGN [Q R Zed, Again]^
-ES |S1000 DE [And, From]^
-AGN |S1000 TEST [Again, Contest]^
-QRM |S1000 UR [Interference, Your]^
-RST |S1000 AGN [R S T, Again]^
-ES |S1000 AGN [And, Again]^
-WX |S1000 AGN [Weather, Again]^
-73 |S1000 VY [73, Very]^
-599 |S1000 AGN [5 9 9, Again]^
-QRZ |S1000 AGN [Q R Zed, Again]^
-QRZ |S1000 RST [Q R Zed, R S T]^
-AGN |S1000 RST [Again, R S T]^
-AGN |S1000 NAME [Again, Name]^
-AGN |S1000 RST [Again, R S T]^
-AGN |S1000 CQ [Again, C Q]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-WX |S1000 ES [Weather, And]^
+UR |S1000 AGN [Your, Again]^
+559 |S1000 QRM [5 5 9, Interference]^
 TEST |S1000 559 [Contest, 5 5 9]^
-VY |S1000 AGN [Very, Again]^
-TEST |S1000 AGN [Contest, Again]^
-QRM |S1000 AGN [Interference, Again]^
-DE |S1000 QRZ [From, Q R Zed]^
-UR |S1000 NAME [Your, Name]^
-WX |S1000 QRM [Weather, Interference]^
-AGN |S1000 UR [Again, Your]^
-AGN |S1000 UR [Again, Your]^
-NAME |S1000 TEST [Name, Contest]^
-AGN |S1000 DE [Again, From]^
+AGN |S1000 WX [Again, Weather]^
 UP |S1000 AGN [Up, Again]^
-QRM |S1000 DE [Interference, From]^
-ES |S1000 AGN [And, Again]^
-QRZ |S1000 NR [Q R Zed, Number]^
-AGN |S1000 CQ [Again, C Q]^
-AGN |S1000 CQ [Again, C Q]^
-AGN |S1000 73 [Again, 73]^
-AGN |S1000 NR [Again, Number]^
-AGN |S1000 NAME [Again, Name]^
-AGN |S1000 RST [Again, R S T]^
+UP |S1000 AGN [Up, Again]^
+WX |S1000 TEST [Weather, Contest]^
+UR |S1000 AGN [Your, Again]^
+TEST |S1000 AGN [Contest, Again]^
+UP |S1000 AGN [Up, Again]^
+UP |S1000 DE [Up, From]^
+AGN |S1000 5NN [Again, 5 N N]^
 599 |S1000 AGN [5 9 9, Again]^
-VY |S1000 AGN [Very, Again]^
-WX |S1000 AGN [Weather, Again]^
-5NN |S1000 UP [5 N N, Up]^
-AGN |S1000 ES [Again, And]^
-559 |S1000 UR [5 5 9, Your]^
-73 |S1000 VY [73, Very]^
-73 |S1000 AGN [73, Again]^
-73 |S1000 UR [73, Your]^
-AGN |S1000 5NN [Again, 5 N N]^
-AGN |S1000 73 [Again, 73]^
-UR |S1000 AGN [Your, Again]^
-NR |S1000 NAME [Number, Name]^
-ES |S1000 AGN [And, Again]^
-WX |S1000 AGN [Weather, Again]^
-73 |S1000 CQ [73, C Q]^
-AGN |S1000 RST [Again, R S T]^
-559 |S1000 AGN [5 5 9, Again]^
-DE |S1000 WX [From, Weather]^
-AGN |S1000 5NN [Again, 5 N N]^
-AGN |S1000 ES [Again, And]^
-AGN |S1000 RST [Again, R S T]^
-AGN |S1000 73 [Again, 73]^
-AGN |S1000 UP [Again, Up]^
-AGN |S1000 NAME [Again, Name]^
-RST |S1000 UP [R S T, Up]^
-NR |S1000 599 [Number, 5 9 9]^
-VY |S1000 NAME [Very, Name]^
-QRZ |S1000 UP [Q R Zed, Up]^
-UR |S1000 QRM [Your, Interference]^
-UR |S1000 RST [Your, R S T]^
-ES |S1000 559 [And, 5 5 9]^
-QRM |S1000 CQ [Interference, C Q]^
-73 |S1000 5NN [73, 5 N N]^
-QRM |S1000 559 [Interference, 5 5 9]^
-AGN |S1000 NR [Again, Number]^
-AGN |S1000 NR [Again, Number]^
-WX |S1000 CQ [Weather, C Q]^
-QRZ |S1000 DE [Q R Zed, From]^
-599 |S1000 QRM [5 9 9, Interference]^
-559 |S1000 73 [5 5 9, 73]^
-AGN |S1000 NAME [Again, Name]^
-QRM |S1000 UR [Interference, Your]^
-559 |S1000 AGN [5 5 9, Again]^
-VY |S1000 UP [Very, Up]^
-ES |S1000 AGN [And, Again]^
-UP |S1000 ES [Up, And]^
-AGN |S1000 UR [Again, Your]^
-NR |S1000 DE [Number, From]^
-5NN |S1000 AGN [5 N N, Again]^
-NAME |S1000 AGN [Name, Again]^
+CQ |S1000 ES [C Q, And]^
+TEST |S1000 559 [Contest, 5 5 9]^
 RST |S1000 AGN [R S T, Again]^
-UR |S1000 UP [Your, Up]^
-AGN |S1000 73 [Again, 73]^
-AGN |S1000 UP [Again, Up]^
+UP |S1000 73 [Up, 73]^
+UR |S1000 5NN [Your, 5 N N]^
+TEST |S1000 ES [Contest, And]^
+AGN |S1000 QRZ [Again, Q R Zed]^
+AGN |S1000 VY [Again, Very]^
+AGN |S1000 UR [Again, Your]^
+VY |S1000 AGN [Very, Again]^
+NAME |S1000 AGN [Name, Again]^
+73 |S1000 UP [73, Up]^
+AGN |S1000 RST [Again, R S T]^
+AGN |S1000 599 [Again, 5 9 9]^
+AGN |S1000 UR [Again, Your]^
 QRM |S1000 AGN [Interference, Again]^
+599 |S1000 AGN [5 9 9, Again]^
+QRZ |S1000 AGN [Q R Zed, Again]^
+599 |S1000 DE [5 9 9, From]^
+UR |S1000 559 [Your, 5 5 9]^
+NR |S1000 AGN [Number, Again]^
+UP |S1000 73 [Up, 73]^
+AGN |S1000 559 [Again, 5 5 9]^
+73 |S1000 UP [73, Up]^
+AGN |S1000 ES [Again, And]^
+WX |S1000 AGN [Weather, Again]^
+NAME |S1000 AGN [Name, Again]^
+599 |S1000 QRM [5 9 9, Interference]^
+VY |S1000 599 [Very, 5 9 9]^
+73 |S1000 UP [73, Up]^
+TEST |S1000 AGN [Contest, Again]^
+5NN |S1000 VY [5 N N, Very]^
+AGN |S1000 QRZ [Again, Q R Zed]^
+5NN |S1000 WX [5 N N, Weather]^
+AGN |S1000 NAME [Again, Name]^
+AGN |S1000 ES [Again, And]^
+QRM |S1000 AGN [Interference, Again]^
+599 |S1000 73 [5 9 9, 73]^
+DE |S1000 559 [From, 5 5 9]^
+VY |S1000 5NN [Very, 5 N N]^
+AGN |S1000 CQ [Again, C Q]^
+AGN |S1000 UP [Again, Up]^
+73 |S1000 DE [73, From]^
+UR |S1000 WX [Your, Weather]^
+AGN |S1000 ES [Again, And]^
+559 |S1000 73 [5 5 9, 73]^
+DE |S1000 QRM [From, Interference]^
+AGN |S1000 RST [Again, R S T]^
+AGN |S1000 559 [Again, 5 5 9]^
+AGN |S1000 NAME [Again, Name]^
+QRM |S1000 RST [Interference, R S T]^
+TEST |S1000 AGN [Contest, Again]^
+ES |S1000 DE [And, From]^
+AGN |S1000 ES [Again, And]^
+AGN |S1000 NR [Again, Number]^
+AGN |S1000 UR [Again, Your]^
+AGN |S1000 559 [Again, 5 5 9]^
+AGN |S1000 RST [Again, R S T]^
+AGN |S1000 DE [Again, From]^
+5NN |S1000 AGN [5 N N, Again]^
+TEST |S1000 ES [Contest, And]^
+UP |S1000 QRZ [Up, Q R Zed]^
 UR |S1000 AGN [Your, Again]^
+QRZ |S1000 5NN [Q R Zed, 5 N N]^
+QRZ |S1000 AGN [Q R Zed, Again]^
+UR |S1000 AGN [Your, Again]^
+NAME |S1000 TEST [Name, Contest]^
+559 |S1000 NR [5 5 9, Number]^
+AGN |S1000 UP [Again, Up]^
+DE |S1000 AGN [From, Again]^
+73 |S1000 AGN [73, Again]^
+UR |S1000 NAME [Your, Name]^
+5NN |S1000 73 [5 N N, 73]^
+UP |S1000 AGN [Up, Again]^
+QRZ |S1000 AGN [Q R Zed, Again]^
+NR |S1000 RST [Number, R S T]^
+AGN |S1000 NAME [Again, Name]^
+QRZ |S1000 VY [Q R Zed, Very]^
+DE |S1000 VY [From, Very]^
+NR |S1000 AGN [Number, Again]^
+VY |S1000 WX [Very, Weather]^
+UP |S1000 AGN [Up, Again]^
+NAME |S1000 QRM [Name, Interference]^
+UR |S1000 AGN [Your, Again]^
+DE |S1000 QRM [From, Interference]^
+599 |S1000 73 [5 9 9, 73]^
+CQ |S1000 AGN [C Q, Again]^
+RST |S1000 UR [R S T, Your]^
+QRZ |S1000 AGN [Q R Zed, Again]^
+TEST |S1000 NAME [Contest, Name]^
+559 |S1000 QRZ [5 5 9, Q R Zed]^
+AGN |S1000 RST [Again, R S T]^
+CQ |S1000 TEST [C Q, Contest]^
+AGN |S1000 UP [Again, Up]^
+5NN |S1000 NR [5 N N, Number]^
+TEST |S1000 AGN [Contest, Again]^
+559 |S1000 TEST [5 5 9, Contest]^
+AGN |S1000 QRM [Again, Interference]^
+RST |S1000 599 [R S T, 5 9 9]^
+CQ |S1000 UR [C Q, Your]^
+AGN |S1000 DE [Again, From]^
+599 |S1000 AGN [5 9 9, Again]^
+UP |S1000 QRM [Up, Interference]^
+AGN |S1000 QRM [Again, Interference]^
+WX |S1000 5NN [Weather, 5 N N]^
+AGN |S1000 RST [Again, R S T]^
+AGN |S1000 QRM [Again, Interference]^
+AGN |S1000 QRM [Again, Interference]^
+TEST |S1000 ES [Contest, And]^
+WX |S1000 AGN [Weather, Again]^
+CQ |S1000 UP [C Q, Up]^
+AGN |S1000 QRM [Again, Interference]^
+TEST |S1000 599 [Contest, 5 9 9]^
+UR |S1000 AGN [Your, Again]^
+DE |S1000 CQ [From, C Q]^
+AGN |S1000 WX [Again, Weather]^
+AGN |S1000 NAME [Again, Name]^
+VY |S1000 RST [Very, R S T]^
+AGN |S1000 CQ [Again, C Q]^
+AGN |S1000 NAME [Again, Name]^
+TEST |S1000 WX [Contest, Weather]^
+TEST |S1000 AGN [Contest, Again]^
+WX |S1000 QRM [Weather, Interference]^
 ES |S1000 AGN [And, Again]^
+RST |S1000 73 [R S T, 73]^
+UP |S1000 AGN [Up, Again]^
+NR |S1000 UR [Number, Your]^
+559 |S1000 73 [5 5 9, 73]^
+RST |S1000 AGN [R S T, Again]^
+RST |S1000 CQ [R S T, C Q]^
+NR |S1000 AGN [Number, Again]^
+CQ |S1000 WX [C Q, Weather]^
+ES |S1000 WX [And, Weather]^
+AGN |S1000 NR [Again, Number]^
+AGN |S1000 UP [Again, Up]^
+AGN |S1000 UP [Again, Up]^
+AGN |S1000 599 [Again, 5 9 9]^
+AGN |S1000 NR [Again, Number]^
+599 |S1000 5NN [5 9 9, 5 N N]^
+AGN |S1000 UR [Again, Your]^
+NR |S1000 ES [Number, And]^
+VY |S1000 AGN [Very, Again]^
+599 |S1000 73 [5 9 9, 73]^
+RST |S1000 ES [R S T, And]^
+AGN |S1000 73 [Again, 73]^
+UP |S1000 AGN [Up, Again]^
+UR |S1000 AGN [Your, Again]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+559 |S1000 AGN [5 5 9, Again]^
+DE |S1000 AGN [From, Again]^
+CQ |S1000 AGN [C Q, Again]^
+ES |S1000 AGN [And, Again]^
+UR |S1000 NR [Your, Number]^
+AGN |S1000 5NN [Again, 5 N N]^
+599 |S1000 QRZ [5 9 9, Q R Zed]^
+UP |S1000 NR [Up, Number]^
+ES |S1000 AGN [And, Again]^
+NAME |S1000 AGN [Name, Again]^
+UR |S1000 599 [Your, 5 9 9]^
+CQ |S1000 AGN [C Q, Again]^
+UR |S1000 CQ [Your, C Q]^
+AGN |S1000 73 [Again, 73]^
+AGN |S1000 WX [Again, Weather]^
+AGN |S1000 QRM [Again, Interference]^
+AGN |S1000 599 [Again, 5 9 9]^
+TEST |S1000 AGN [Contest, Again]^
+599 |S1000 AGN [5 9 9, Again]^
+559 |S1000 AGN [5 5 9, Again]^
+QRZ |S1000 AGN [Q R Zed, Again]^
+RST |S1000 559 [R S T, 5 5 9]^
+AGN |S1000 QRM [Again, Interference]^
+AGN |S1000 UP [Again, Up]^
+CQ |S1000 ES [C Q, And]^
+RST |S1000 NR [R S T, Number]^
+VY |S1000 CQ [Very, C Q]^
+AGN |S1000 ES [Again, And]^
+AGN |S1000 CQ [Again, C Q]^
+DE |S1000 AGN [From, Again]^
+TEST |S1000 DE [Contest, From]^
+599 |S1000 AGN [5 9 9, Again]^
+TEST |S1000 QRM [Contest, Interference]^
+AGN |S1000 WX [Again, Weather]^
+ES |S1000 AGN [And, Again]^
+599 |S1000 5NN [5 9 9, 5 N N]^
+VY |S1000 RST [Very, R S T]^
+NR |S1000 AGN [Number, Again]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+UR |S1000 ES [Your, And]^
+559 |S1000 AGN [5 5 9, Again]^
+CQ |S1000 ES [C Q, And]^
+AGN |S1000 NAME [Again, Name]^
+QRM |S1000 VY [Interference, Very]^
+AGN |S1000 73 [Again, 73]^
+UP |S1000 AGN [Up, Again]^
+5NN |S1000 599 [5 N N, 5 9 9]^
+QRM |S1000 AGN [Interference, Again]^
+DE |S1000 WX [From, Weather]^
+599 |S1000 TEST [5 9 9, Contest]^
+AGN |S1000 73 [Again, 73]^
+AGN |S1000 5NN [Again, 5 N N]^
+WX |S1000 AGN [Weather, Again]^
+TEST |S1000 CQ [Contest, C Q]^
+RST |S1000 WX [R S T, Weather]^
+5NN |S1000 559 [5 N N, 5 5 9]^
+QRM |S1000 AGN [Interference, Again]^
+DE |S1000 599 [From, 5 9 9]^
+NAME |S1000 CQ [Name, C Q]^
+AGN |S1000 DE [Again, From]^
+5NN |S1000 AGN [5 N N, Again]^
+5NN |S1000 AGN [5 N N, Again]^
+RST |S1000 TEST [R S T, Contest]^
+ES |S1000 AGN [And, Again]^
+599 |S1000 QRZ [5 9 9, Q R Zed]^
+TEST |S1000 ES [Contest, And]^
+AGN |S1000 DE [Again, From]^
+NR |S1000 AGN [Number, Again]^
+UP |S1000 AGN [Up, Again]^
+NR |S1000 CQ [Number, C Q]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+AGN |S1000 ES [Again, And]^
+AGN |S1000 ES [Again, And]^
+AGN |S1000 RST [Again, R S T]^
+TEST |S1000 559 [Contest, 5 5 9]^
+RST |S1000 AGN [R S T, Again]^
+559 |S1000 QRM [5 5 9, Interference]^
+QRZ |S1000 NAME [Q R Zed, Name]^
+AGN |S1000 QRM [Again, Interference]^
+AGN |S1000 5NN [Again, 5 N N]^
+UP |S1000 AGN [Up, Again]^
+73 |S1000 RST [73, R S T]^
+TEST |S1000 AGN [Contest, Again]^
+UP |S1000 UR [Up, Your]^
+RST |S1000 AGN [R S T, Again]^
+559 |S1000 NR [5 5 9, Number]^
+AGN |S1000 5NN [Again, 5 N N]^
+73 |S1000 AGN [73, Again]^
+5NN |S1000 AGN [5 N N, Again]^
+WX |S1000 AGN [Weather, Again]^
+UP |S1000 73 [Up, 73]^
+599 |S1000 RST [5 9 9, R S T]^
+73 |S1000 AGN [73, Again]^
 559 |S1000 UP [5 5 9, Up]^
-WX |S1000 NAME [Weather, Name]^
-5NN |S1000 QRZ [5 N N, Q R Zed]^
+NR |S1000 AGN [Number, Again]^
+73 |S1000 QRM [73, Interference]^
+NAME |S1000 559 [Name, 5 5 9]^
+AGN |S1000 DE [Again, From]^
+UP |S1000 NR [Up, Number]^
+AGN |S1000 599 [Again, 5 9 9]^
+559 |S1000 AGN [5 5 9, Again]^
+DE |S1000 AGN [From, Again]^
+599 |S1000 UR [5 9 9, Your]^
+AGN |S1000 NR [Again, Number]^
+AGN |S1000 559 [Again, 5 5 9]^
+WX |S1000 AGN [Weather, Again]^
+DE |S1000 TEST [From, Contest]^
+5NN |S1000 QRM [5 N N, Interference]^
+NAME |S1000 AGN [Name, Again]^
+TEST |S1000 AGN [Contest, Again]^
+TEST |S1000 AGN [Contest, Again]^
+UR |S1000 AGN [Your, Again]^
+599 |S1000 NAME [5 9 9, Name]^
+AGN |S1000 CQ [Again, C Q]^
+AGN |S1000 559 [Again, 5 5 9]^
+AGN |S1000 NAME [Again, Name]^
+NR |S1000 AGN [Number, Again]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+ES |S1000 AGN [And, Again]^
+UP |S1000 559 [Up, 5 5 9]^
+AGN |S1000 ES [Again, And]^
+UR |S1000 AGN [Your, Again]^
+WX |S1000 AGN [Weather, Again]^
+QRM |S1000 UP [Interference, Up]^
+AGN |S1000 RST [Again, R S T]^
+DE |S1000 AGN [From, Again]^
+QRM |S1000 73 [Interference, 73]^
+559 |S1000 QRM [5 5 9, Interference]^
+AGN |S1000 DE [Again, From]^
+AGN |S1000 5NN [Again, 5 N N]^
+73 |S1000 DE [73, From]^
+AGN |S1000 5NN [Again, 5 N N]^
+VY |S1000 5NN [Very, 5 N N]^
+73 |S1000 AGN [73, Again]^
+559 |S1000 UP [5 5 9, Up]^
+AGN |S1000 559 [Again, 5 5 9]^
+AGN |S1000 NAME [Again, Name]^
+AGN |S1000 RST [Again, R S T]^
+AGN |S1000 DE [Again, From]^
+AGN |S1000 VY [Again, Very]^
+AGN |S1000 VY [Again, Very]^
+AGN |S1000 UR [Again, Your]^
+VY |S1000 AGN [Very, Again]^
+VY |S1000 TEST [Very, Contest]^
+QRM |S1000 AGN [Interference, Again]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+VY |S1000 559 [Very, 5 5 9]^
+599 |S1000 NR [5 9 9, Number]^
+QRZ |S1000 AGN [Q R Zed, Again]^
+559 |S1000 AGN [5 5 9, Again]^
+ES |S1000 VY [And, Very]^
+AGN |S1000 QRM [Again, Interference]^
+DE |S1000 WX [From, Weather]^
+AGN |S1000 599 [Again, 5 9 9]^
+QRM |S1000 CQ [Interference, C Q]^
 AGN |S1000 NAME [Again, Name]^
 AGN |S1000 73 [Again, 73]^
-ES |S1000 QRZ [And, Q R Zed]^
-AGN |S1000 QRM [Again, Interference]^
-TEST |S1000 5NN [Contest, 5 N N]^
-UR |S1000 599 [Your, 5 9 9]^
-559 |S1000 AGN [5 5 9, Again]^
-VY |S1000 AGN [Very, Again]^
-VY |S1000 AGN [Very, Again]^
-QRZ |S1000 QRM [Q R Zed, Interference]^
-AGN |S1000 CQ [Again, C Q]^
-NR |S1000 73 [Number, 73]^
+WX |S1000 AGN [Weather, Again]^
+UP |S1000 NR [Up, Number]^
+AGN |S1000 73 [Again, 73]^
+559 |S1000 UP [5 5 9, Up]^
+AGN |S1000 NR [Again, Number]^
+73 |S1000 559 [73, 5 5 9]^
+UP |S1000 599 [Up, 5 9 9]^
+AGN |S1000 VY [Again, Very]^
+DE |S1000 CQ [From, C Q]^
+AGN |S1000 DE [Again, From]^
+CQ |S1000 AGN [C Q, Again]^
+599 |S1000 AGN [5 9 9, Again]^
+TEST |S1000 QRM [Contest, Interference]^
+CQ |S1000 AGN [C Q, Again]^
+QRZ |S1000 AGN [Q R Zed, Again]^
 NR |S1000 AGN [Number, Again]^
-RST |S1000 CQ [R S T, C Q]^
+73 |S1000 UP [73, Up]^
+599 |S1000 WX [5 9 9, Weather]^
+VY |S1000 AGN [Very, Again]^
+559 |S1000 RST [5 5 9, R S T]^
+AGN |S1000 TEST [Again, Contest]^
+AGN |S1000 559 [Again, 5 5 9]^
+DE |S1000 TEST [From, Contest]^
+5NN |S1000 AGN [5 N N, Again]^
+NAME |S1000 RST [Name, R S T]^
+AGN |S1000 559 [Again, 5 5 9]^
+ES |S1000 AGN [And, Again]^
+559 |S1000 599 [5 5 9, 5 9 9]^
+AGN |S1000 WX [Again, Weather]^
+NAME |S1000 AGN [Name, Again]^
+QRM |S1000 AGN [Interference, Again]^
+UP |S1000 ES [Up, And]^
+NR |S1000 AGN [Number, Again]^
+559 |S1000 NR [5 5 9, Number]^
+CQ |S1000 AGN [C Q, Again]^
+NR |S1000 RST [Number, R S T]^
+AGN |S1000 559 [Again, 5 5 9]^
+5NN |S1000 TEST [5 N N, Contest]^
+AGN |S1000 NR [Again, Number]^
+QRM |S1000 AGN [Interference, Again]^
+QRZ |S1000 NR [Q R Zed, Number]^
+5NN |S1000 AGN [5 N N, Again]^
+73 |S1000 TEST [73, Contest]^
+AGN |S1000 NR [Again, Number]^
+TEST |S1000 73 [Contest, 73]^
+AGN |S1000 ES [Again, And]^
+UP |S1000 AGN [Up, Again]^
+ES |S1000 CQ [And, C Q]^
+559 |S1000 AGN [5 5 9, Again]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+AGN |S1000 RST [Again, R S T]^
+NAME |S1000 WX [Name, Weather]^
+AGN |S1000 QRM [Again, Interference]^
+559 |S1000 AGN [5 5 9, Again]^
+NAME |S1000 AGN [Name, Again]^
+QRM |S1000 NAME [Interference, Name]^
+AGN |S1000 UP [Again, Up]^
+TEST |S1000 AGN [Contest, Again]^
+DE |S1000 AGN [From, Again]^
+NR |S1000 AGN [Number, Again]^
+5NN |S1000 AGN [5 N N, Again]^
+UR |S1000 NR [Your, Number]^
+AGN |S1000 5NN [Again, 5 N N]^
+VY |S1000 5NN [Very, 5 N N]^
+NAME |S1000 NR [Name, Number]^
+599 |S1000 NAME [5 9 9, Name]^
+DE |S1000 VY [From, Very]^
+ES |S1000 TEST [And, Contest]^
+599 |S1000 AGN [5 9 9, Again]^
+73 |S1000 AGN [73, Again]^
+QRZ |S1000 VY [Q R Zed, Very]^
+AGN |S1000 NR [Again, Number]^
+AGN |S1000 UP [Again, Up]^
+VY |S1000 RST [Very, R S T]^
+AGN |S1000 QRZ [Again, Q R Zed]^
+73 |S1000 AGN [73, Again]^
+RST |S1000 QRM [R S T, Interference]^
+QRZ |S1000 UR [Q R Zed, Your]^
+DE |S1000 AGN [From, Again]^
+QRM |S1000 NR [Interference, Number]^
+RST |S1000 AGN [R S T, Again]^
+CQ |S1000 AGN [C Q, Again]^
+RST |S1000 5NN [R S T, 5 N N]^
+ES |S1000 TEST [And, Contest]^
+WX |S1000 UR [Weather, Your]^
+VY |S1000 AGN [Very, Again]^
+DE |S1000 559 [From, 5 5 9]^
+AGN |S1000 NR [Again, Number]^
+AGN |S1000 559 [Again, 5 5 9]^
+AGN |S1000 CQ [Again, C Q]^
+73 |S1000 559 [73, 5 5 9]^
+ES |S1000 QRM [And, Interference]^
+AGN |S1000 VY [Again, Very]^
+AGN |S1000 RST [Again, R S T]^
+AGN |S1000 RST [Again, R S T]^
+5NN |S1000 CQ [5 N N, C Q]^
+AGN |S1000 CQ [Again, C Q]^
+AGN |S1000 NR [Again, Number]^
+AGN |S1000 DE [Again, From]^
+AGN |S1000 QRM [Again, Interference]^
+DE |S1000 AGN [From, Again]^
+UP |S1000 VY [Up, Very]^
+AGN |S1000 CQ [Again, C Q]^
+NAME |S1000 NR [Name, Number]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+AGN |S1000 VY [Again, Very]^
+AGN |S1000 ES [Again, And]^
+AGN |S1000 559 [Again, 5 5 9]^
+NR |S1000 AGN [Number, Again]^
+ES |S1000 WX [And, Weather]^
+ES |S1000 RST [And, R S T]^
+AGN |S1000 559 [Again, 5 5 9]^
+AGN |S1000 VY [Again, Very]^
+WX |S1000 AGN [Weather, Again]^
+UP |S1000 DE [Up, From]^
+UR |S1000 AGN [Your, Again]^
+VY |S1000 AGN [Very, Again]^
+CQ |S1000 DE [C Q, From]^
+AGN |S1000 QRM [Again, Interference]^
+UP |S1000 AGN [Up, Again]^
+UP |S1000 AGN [Up, Again]^
+RST |S1000 AGN [R S T, Again]^
+QRM |S1000 AGN [Interference, Again]^
+DE |S1000 599 [From, 5 9 9]^
+CQ |S1000 AGN [C Q, Again]^
+UP |S1000 AGN [Up, Again]^
+TEST |S1000 WX [Contest, Weather]^
+ES |S1000 AGN [And, Again]^
+UR |S1000 AGN [Your, Again]^
+CQ |S1000 599 [C Q, 5 9 9]^
+UR |S1000 AGN [Your, Again]^
+ES |S1000 559 [And, 5 5 9]^
+UP |S1000 AGN [Up, Again]^
+599 |S1000 VY [5 9 9, Very]^
+559 |S1000 AGN [5 5 9, Again]^
+DE |S1000 UR [From, Your]^
+CQ |S1000 WX [C Q, Weather]^
+559 |S1000 NR [5 5 9, Number]^
+DE |S1000 QRZ [From, Q R Zed]^
+73 |S1000 DE [73, From]^
+AGN |S1000 WX [Again, Weather]^
+UR |S1000 AGN [Your, Again]^
+NR |S1000 AGN [Number, Again]^
+CQ |S1000 UR [C Q, Your]^
+73 |S1000 AGN [73, Again]^
+TEST |S1000 73 [Contest, 73]^
+AGN |S1000 QRM [Again, Interference]^
+CQ |S1000 AGN [C Q, Again]^
+DE |S1000 CQ [From, C Q]^
+ES |S1000 QRZ [And, Q R Zed]^
+CQ |S1000 VY [C Q, Very]^
+ES |S1000 AGN [And, Again]^
+NR |S1000 AGN [Number, Again]^
+5NN |S1000 VY [5 N N, Very]^
+ES |S1000 VY [And, Very]^
+CQ |S1000 DE [C Q, From]^
+AGN |S1000 DE [Again, From]^
+QRZ |S1000 559 [Q R Zed, 5 5 9]^
+ES |S1000 AGN [And, Again]^
+NAME |S1000 DE [Name, From]^
+QRM |S1000 WX [Interference, Weather]^
+QRM |S1000 NR [Interference, Number]^
+TEST |S1000 559 [Contest, 5 5 9]^
+AGN |S1000 WX [Again, Weather]^
+73 |S1000 AGN [73, Again]^
+ES |S1000 TEST [And, Contest]^
+AGN |S1000 CQ [Again, C Q]^
+AGN |S1000 559 [Again, 5 5 9]^
+AGN |S1000 73 [Again, 73]^
+AGN |S1000 CQ [Again, C Q]^
+NAME |S1000 AGN [Name, Again]^
+DE |S1000 AGN [From, Again]^
+599 |S1000 AGN [5 9 9, Again]^
+QRZ |S1000 UP [Q R Zed, Up]^
+73 |S1000 ES [73, And]^
+CQ |S1000 RST [C Q, R S T]^
+AGN |S1000 RST [Again, R S T]^
+DE |S1000 559 [From, 5 5 9]^
+599 |S1000 CQ [5 9 9, C Q]^
+NAME |S1000 AGN [Name, Again]^
+UR |S1000 AGN [Your, Again]^
+73 |S1000 AGN [73, Again]^
+ES |S1000 AGN [And, Again]^
+5NN |S1000 AGN [5 N N, Again]^
+ES |S1000 AGN [And, Again]^
+NAME |S1000 559 [Name, 5 5 9]^
+AGN |S1000 QRZ [Again, Q R Zed]^
+559 |S1000 AGN [5 5 9, Again]^
+QRZ |S1000 UR [Q R Zed, Your]^
+AGN |S1000 TEST [Again, Contest]^
+599 |S1000 UR [5 9 9, Your]^
+AGN |S1000 CQ [Again, C Q]^
+AGN |S1000 CQ [Again, C Q]^
+AGN |S1000 VY [Again, Very]^
+NAME |S1000 559 [Name, 5 5 9]^
+73 |S1000 TEST [73, Contest]^
+AGN |S1000 QRZ [Again, Q R Zed]^
+AGN |S1000 NAME [Again, Name]^
+AGN |S1000 73 [Again, 73]^
+RST |S1000 NAME [R S T, Name]^
+VY |S1000 TEST [Very, Contest]^
+AGN |S1000 NAME [Again, Name]^
+AGN |S1000 QRZ [Again, Q R Zed]^
+UR |S1000 AGN [Your, Again]^
+NR |S1000 599 [Number, 5 9 9]^
+CQ |S1000 RST [C Q, R S T]^
+AGN |S1000 QRM [Again, Interference]^
+NAME |S1000 AGN [Name, Again]^
+RST |S1000 599 [R S T, 5 9 9]^
+AGN |S1000 CQ [Again, C Q]^
+AGN |S1000 DE [Again, From]^
+TEST |S1000 DE [Contest, From]^
+5NN |S1000 AGN [5 N N, Again]^
+TEST |S1000 AGN [Contest, Again]^
+QRZ |S1000 AGN [Q R Zed, Again]^
+QRZ |S1000 AGN [Q R Zed, Again]^
+QRZ |S1000 AGN [Q R Zed, Again]^
+WX |S1000 NAME [Weather, Name]^
+UR |S1000 AGN [Your, Again]^
+UP |S1000 AGN [Up, Again]^
+TEST |S1000 AGN [Contest, Again]^
+QRZ |S1000 5NN [Q R Zed, 5 N N]^
+AGN |S1000 UR [Again, Your]^
+TEST |S1000 WX [Contest, Weather]^
+AGN |S1000 559 [Again, 5 5 9]^
+AGN |S1000 ES [Again, And]^
+AGN |S1000 UP [Again, Up]^
+AGN |S1000 QRZ [Again, Q R Zed]^
+VY |S1000 AGN [Very, Again]^
+NR |S1000 AGN [Number, Again]^
+73 |S1000 UR [73, Your]^
+AGN |S1000 UP [Again, Up]^
+AGN |S1000 599 [Again, 5 9 9]^
+AGN |S1000 5NN [Again, 5 N N]^
+WX |S1000 CQ [Weather, C Q]^
+AGN |S1000 5NN [Again, 5 N N]^
+599 |S1000 UP [5 9 9, Up]^
+UR |S1000 5NN [Your, 5 N N]^
+AGN |S1000 WX [Again, Weather]^
+RST |S1000 559 [R S T, 5 5 9]^
+QRM |S1000 AGN [Interference, Again]^
+ES |S1000 AGN [And, Again]^
+DE |S1000 599 [From, 5 9 9]^
+WX |S1000 QRZ [Weather, Q R Zed]^
+AGN |S1000 NAME [Again, Name]^
+UP |S1000 73 [Up, 73]^
+AGN |S1000 QRM [Again, Interference]^
+AGN |S1000 VY [Again, Very]^
+AGN |S1000 UP [Again, Up]^
+NAME |S1000 AGN [Name, Again]^
+DE |S1000 VY [From, Very]^
+ES |S1000 AGN [And, Again]^
+73 |S1000 AGN [73, Again]^
+NR |S1000 TEST [Number, Contest]^
+AGN |S1000 5NN [Again, 5 N N]^
+NR |S1000 599 [Number, 5 9 9]^
+AGN |S1000 ES [Again, And]^
+UP |S1000 ES [Up, And]^
+AGN |S1000 QRZ [Again, Q R Zed]^
+AGN |S1000 NAME [Again, Name]^
+QRZ |S1000 VY [Q R Zed, Very]^
+559 |S1000 AGN [5 5 9, Again]^
+559 |S1000 WX [5 5 9, Weather]^
+QRM |S1000 AGN [Interference, Again]^
+CQ |S1000 QRM [C Q, Interference]^
+AGN |S1000 73 [Again, 73]^
+AGN |S1000 NAME [Again, Name]^
+AGN |S1000 RST [Again, R S T]^
+AGN |S1000 73 [Again, 73]^
+TEST |S1000 73 [Contest, 73]^
+DE |S1000 UR [From, Your]^
+599 |S1000 NAME [5 9 9, Name]^
+NR |S1000 QRZ [Number, Q R Zed]^

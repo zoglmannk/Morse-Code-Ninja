@@ -1,600 +1,600 @@
-VERT |S1000 QRQ [Vertical, High speed]^
-CFM |S1000 YAGI [Confirm, Yagi]^
-HW\? |S1000 PSE [How copy\?, Please]^
-QSL |S1000 YAGI [Confirm, Yagi]^
-CFM |S1000 YL [Confirm, Young lady]^
-QSY |S1000 YAGI [Change frequency, Yagi]^
-CFM |S1000 MNI [Confirm, Many]^
-DR |S1000 TX [Dear, Transmit]^
-YAGI |S1000 QRP [Yagi, Low power]^
-BURO |S1000 YAGI [bureau, Yagi]^
-EL |S1000 PSE [Element, Please]^
-QRQ |S1000 YAGI [High speed, Yagi]^
-FT |S1000 EFHW [Feet, End fed, half-wave]^
-YAGI |S1000 EL [Yagi, Element]^
-QRP |S1000 YL [Low power, Young lady]^
-QSY |S1000 EL [Change frequency, Element]^
-YAGI |S1000 VERT [Yagi, Vertical]^
-YL |S1000 YAGI [Young lady, Yagi]^
-MNI |S1000 PSE [Many, Please]^
-YAGI |S1000 FT [Yagi, Feet]^
-RX |S1000 FT [Receive, Feet]^
-YAGI |S1000 QRP [Yagi, Low power]^
-YAGI |S1000 VERT [Yagi, Vertical]^
-YAGI |S1000 EL [Yagi, Element]^
-YAGI |S1000 CFM [Yagi, Confirm]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-QSY |S1000 YAGI [Change frequency, Yagi]^
-BURO |S1000 YAGI [bureau, Yagi]^
-QRQ |S1000 YAGI [High speed, Yagi]^
-QSL |S1000 EL [Confirm, Element]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-OP |S1000 YAGI [Operator, Yagi]^
-RX |S1000 YAGI [Receive, Yagi]^
-VERT |S1000 YAGI [Vertical, Yagi]^
-CFM |S1000 YAGI [Confirm, Yagi]^
-QSL |S1000 PSE [Confirm, Please]^
-YAGI |S1000 PSE [Yagi, Please]^
-BCNU |S1000 HW\? [Be seeing you, How copy\?]^
-YAGI |S1000 BURO [Yagi, bureau]^
-YAGI |S1000 QRP [Yagi, Low power]^
 YAGI |S1000 MNI [Yagi, Many]^
-PSE |S1000 YAGI [Please, Yagi]^
-DR |S1000 QSL [Dear, Confirm]^
-YAGI |S1000 QRP [Yagi, Low power]^
-QRS |S1000 EFHW [Slow speed, End fed, half-wave]^
-YAGI |S1000 HR [Yagi, Hear]^
-OP |S1000 EFHW [Operator, End fed, half-wave]^
-FT |S1000 QRQ [Feet, High speed]^
-BURO |S1000 YAGI [bureau, Yagi]^
-EL |S1000 YAGI [Element, Yagi]^
-BURO |S1000 QRQ [bureau, High speed]^
-YAGI |S1000 FT [Yagi, Feet]^
-BURO |S1000 DR [bureau, Dear]^
-VERT |S1000 TX [Vertical, Transmit]^
-DR |S1000 EL [Dear, Element]^
-YAGI |S1000 MNI [Yagi, Many]^
-YAGI |S1000 QRS [Yagi, Slow speed]^
-QRP |S1000 HR [Low power, Hear]^
-QRP |S1000 QRS [Low power, Slow speed]^
-YAGI |S1000 HR [Yagi, Hear]^
-MNI |S1000 YAGI [Many, Yagi]^
-PSE |S1000 EL [Please, Element]^
-YAGI |S1000 HR [Yagi, Hear]^
-YAGI |S1000 HW\? [Yagi, How copy\?]^
-YAGI |S1000 OP [Yagi, Operator]^
-EL |S1000 YL [Element, Young lady]^
-YAGI |S1000 EL [Yagi, Element]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-EL |S1000 YAGI [Element, Yagi]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-QRP |S1000 QRS [Low power, Slow speed]^
-YAGI |S1000 YL [Yagi, Young lady]^
-YAGI |S1000 HR [Yagi, Hear]^
-FT |S1000 YAGI [Feet, Yagi]^
-FT |S1000 YAGI [Feet, Yagi]^
-EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-PLS |S1000 YAGI [Please, Yagi]^
-RX |S1000 YAGI [Receive, Yagi]^
-VERT |S1000 QSY [Vertical, Change frequency]^
-VERT |S1000 QRP [Vertical, Low power]^
-YAGI |S1000 QRQ [Yagi, High speed]^
-YAGI |S1000 FT [Yagi, Feet]^
-TX |S1000 PSE [Transmit, Please]^
-CFM |S1000 PSE [Confirm, Please]^
-BURO |S1000 HW\? [bureau, How copy\?]^
-YAGI |S1000 CFM [Yagi, Confirm]^
-YAGI |S1000 HR [Yagi, Hear]^
-DR |S1000 QSY [Dear, Change frequency]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-PSE |S1000 YAGI [Please, Yagi]^
-FT |S1000 QSY [Feet, Change frequency]^
-DR |S1000 YAGI [Dear, Yagi]^
-QRS |S1000 QRQ [Slow speed, High speed]^
-QRP |S1000 HW\? [Low power, How copy\?]^
-TX |S1000 QSL [Transmit, Confirm]^
-BCNU |S1000 QRP [Be seeing you, Low power]^
-CFM |S1000 TX [Confirm, Transmit]^
-YAGI |S1000 QRQ [Yagi, High speed]^
-QRS |S1000 PLS [Slow speed, Please]^
-YAGI |S1000 QRQ [Yagi, High speed]^
-YAGI |S1000 PLS [Yagi, Please]^
-HR |S1000 EFHW [Hear, End fed, half-wave]^
-VERT |S1000 HR [Vertical, Hear]^
-DR |S1000 FT [Dear, Feet]^
-QRQ |S1000 FT [High speed, Feet]^
-QSY |S1000 YAGI [Change frequency, Yagi]^
-PLS |S1000 VERT [Please, Vertical]^
-PLS |S1000 YAGI [Please, Yagi]^
-QRP |S1000 YAGI [Low power, Yagi]^
-QRP |S1000 QRS [Low power, Slow speed]^
-YAGI |S1000 HW\? [Yagi, How copy\?]^
-YAGI |S1000 PLS [Yagi, Please]^
-YAGI |S1000 DR [Yagi, Dear]^
-BCNU |S1000 FT [Be seeing you, Feet]^
-QRS |S1000 VERT [Slow speed, Vertical]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-YL |S1000 HW\? [Young lady, How copy\?]^
-YAGI |S1000 YL [Yagi, Young lady]^
-QSL |S1000 YAGI [Confirm, Yagi]^
-EL |S1000 YAGI [Element, Yagi]^
-OP |S1000 YL [Operator, Young lady]^
-EL |S1000 QRP [Element, Low power]^
-YAGI |S1000 PSE [Yagi, Please]^
-YAGI |S1000 OP [Yagi, Operator]^
-YAGI |S1000 TX [Yagi, Transmit]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-DR |S1000 YAGI [Dear, Yagi]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-YL |S1000 YAGI [Young lady, Yagi]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-HW\? |S1000 YL [How copy\?, Young lady]^
-YAGI |S1000 EL [Yagi, Element]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-RX |S1000 OP [Receive, Operator]^
-QRQ |S1000 BCNU [High speed, Be seeing you]^
-YAGI |S1000 QRS [Yagi, Slow speed]^
-QRP |S1000 YAGI [Low power, Yagi]^
-PLS |S1000 TX [Please, Transmit]^
-RX |S1000 YAGI [Receive, Yagi]^
-DR |S1000 YAGI [Dear, Yagi]^
-TX |S1000 VERT [Transmit, Vertical]^
-QRS |S1000 EL [Slow speed, Element]^
-HW\? |S1000 RX [How copy\?, Receive]^
-PSE |S1000 YAGI [Please, Yagi]^
-MNI |S1000 YAGI [Many, Yagi]^
-DR |S1000 QRP [Dear, Low power]^
-YAGI |S1000 RX [Yagi, Receive]^
-YAGI |S1000 EFHW [Yagi, End fed, half-wave]^
-TX |S1000 RX [Transmit, Receive]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-MNI |S1000 QSL [Many, Confirm]^
-YAGI |S1000 DR [Yagi, Dear]^
-YAGI |S1000 EL [Yagi, Element]^
-CFM |S1000 MNI [Confirm, Many]^
-YAGI |S1000 EFHW [Yagi, End fed, half-wave]^
-TX |S1000 PSE [Transmit, Please]^
-BURO |S1000 YAGI [bureau, Yagi]^
-VERT |S1000 YAGI [Vertical, Yagi]^
-QRP |S1000 EL [Low power, Element]^
-RX |S1000 YAGI [Receive, Yagi]^
-VERT |S1000 QRS [Vertical, Slow speed]^
-YAGI |S1000 QRS [Yagi, Slow speed]^
-CFM |S1000 RX [Confirm, Receive]^
-FT |S1000 QRP [Feet, Low power]^
-YAGI |S1000 QRS [Yagi, Slow speed]^
-MNI |S1000 QSL [Many, Confirm]^
-YAGI |S1000 YL [Yagi, Young lady]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-YAGI |S1000 EL [Yagi, Element]^
-YL |S1000 YAGI [Young lady, Yagi]^
-YL |S1000 YAGI [Young lady, Yagi]^
-QRP |S1000 DR [Low power, Dear]^
-YAGI |S1000 QRP [Yagi, Low power]^
-EL |S1000 YAGI [Element, Yagi]^
-QRQ |S1000 FT [High speed, Feet]^
-YAGI |S1000 PLS [Yagi, Please]^
-VERT |S1000 TX [Vertical, Transmit]^
-EL |S1000 YAGI [Element, Yagi]^
-EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
-QRP |S1000 YAGI [Low power, Yagi]^
-RX |S1000 OP [Receive, Operator]^
-YAGI |S1000 DR [Yagi, Dear]^
-BURO |S1000 HR [bureau, Hear]^
-MNI |S1000 CFM [Many, Confirm]^
-YL |S1000 QSL [Young lady, Confirm]^
-YAGI |S1000 EL [Yagi, Element]^
-FT |S1000 PLS [Feet, Please]^
-VERT |S1000 YAGI [Vertical, Yagi]^
-QRP |S1000 FT [Low power, Feet]^
-CFM |S1000 YAGI [Confirm, Yagi]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-DR |S1000 YAGI [Dear, Yagi]^
-QRQ |S1000 QRP [High speed, Low power]^
-YAGI |S1000 MNI [Yagi, Many]^
-YAGI |S1000 CFM [Yagi, Confirm]^
-MNI |S1000 BURO [Many, bureau]^
-FT |S1000 TX [Feet, Transmit]^
-MNI |S1000 YAGI [Many, Yagi]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-EL |S1000 YAGI [Element, Yagi]^
-YL |S1000 YAGI [Young lady, Yagi]^
-PLS |S1000 CFM [Please, Confirm]^
-YAGI |S1000 MNI [Yagi, Many]^
-YAGI |S1000 BURO [Yagi, bureau]^
-YAGI |S1000 EL [Yagi, Element]^
-YAGI |S1000 PSE [Yagi, Please]^
-YAGI |S1000 BURO [Yagi, bureau]^
-QRS |S1000 OP [Slow speed, Operator]^
-EL |S1000 PLS [Element, Please]^
-FT |S1000 HW\? [Feet, How copy\?]^
-YAGI |S1000 HR [Yagi, Hear]^
-BURO |S1000 YAGI [bureau, Yagi]^
-RX |S1000 YAGI [Receive, Yagi]^
-EL |S1000 YAGI [Element, Yagi]^
-QSY |S1000 QRP [Change frequency, Low power]^
-VERT |S1000 YAGI [Vertical, Yagi]^
-PSE |S1000 EFHW [Please, End fed, half-wave]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-QSL |S1000 HW\? [Confirm, How copy\?]^
-RX |S1000 YAGI [Receive, Yagi]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-YAGI |S1000 HR [Yagi, Hear]^
-QRS |S1000 OP [Slow speed, Operator]^
-YAGI |S1000 CFM [Yagi, Confirm]^
-YAGI |S1000 QRP [Yagi, Low power]^
-PLS |S1000 EFHW [Please, End fed, half-wave]^
-QRP |S1000 EFHW [Low power, End fed, half-wave]^
-PLS |S1000 YAGI [Please, Yagi]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-PSE |S1000 YAGI [Please, Yagi]^
-EL |S1000 YAGI [Element, Yagi]^
-EFHW |S1000 QRQ [End fed, half-wave, High speed]^
-BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
-PLS |S1000 TX [Please, Transmit]^
-YAGI |S1000 BURO [Yagi, bureau]^
-YAGI |S1000 EL [Yagi, Element]^
-YAGI |S1000 EL [Yagi, Element]^
-DR |S1000 YAGI [Dear, Yagi]^
-RX |S1000 YAGI [Receive, Yagi]^
-VERT |S1000 YAGI [Vertical, Yagi]^
-HW\? |S1000 QRQ [How copy\?, High speed]^
-HR |S1000 MNI [Hear, Many]^
-DR |S1000 FT [Dear, Feet]^
-PLS |S1000 YAGI [Please, Yagi]^
-HR |S1000 YAGI [Hear, Yagi]^
-HR |S1000 YAGI [Hear, Yagi]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-DR |S1000 YL [Dear, Young lady]^
-YAGI |S1000 PLS [Yagi, Please]^
-YAGI |S1000 RX [Yagi, Receive]^
-BCNU |S1000 OP [Be seeing you, Operator]^
-QSY |S1000 CFM [Change frequency, Confirm]^
-TX |S1000 QRS [Transmit, Slow speed]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-QSL |S1000 YAGI [Confirm, Yagi]^
-CFM |S1000 VERT [Confirm, Vertical]^
-PSE |S1000 QRS [Please, Slow speed]^
-YAGI |S1000 MNI [Yagi, Many]^
-YAGI |S1000 MNI [Yagi, Many]^
-CFM |S1000 TX [Confirm, Transmit]^
-PSE |S1000 BURO [Please, bureau]^
-DR |S1000 HR [Dear, Hear]^
-YAGI |S1000 QRS [Yagi, Slow speed]^
-EL |S1000 TX [Element, Transmit]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-YL |S1000 YAGI [Young lady, Yagi]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-EL |S1000 YAGI [Element, Yagi]^
-QSY |S1000 YAGI [Change frequency, Yagi]^
-MNI |S1000 YAGI [Many, Yagi]^
-FT |S1000 YAGI [Feet, Yagi]^
-EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
-EFHW |S1000 VERT [End fed, half-wave, Vertical]^
-EL |S1000 YAGI [Element, Yagi]^
-QRQ |S1000 QSL [High speed, Confirm]^
-QRQ |S1000 QRP [High speed, Low power]^
-YAGI |S1000 QRP [Yagi, Low power]^
-CFM |S1000 YAGI [Confirm, Yagi]^
-QSL |S1000 YAGI [Confirm, Yagi]^
-OP |S1000 QRQ [Operator, High speed]^
-RX |S1000 YAGI [Receive, Yagi]^
-QSY |S1000 TX [Change frequency, Transmit]^
-YAGI |S1000 PLS [Yagi, Please]^
-DR |S1000 FT [Dear, Feet]^
-QSL |S1000 PLS [Confirm, Please]^
-YAGI |S1000 CFM [Yagi, Confirm]^
-HR |S1000 YAGI [Hear, Yagi]^
-BURO |S1000 QRS [bureau, Slow speed]^
-QRP |S1000 YAGI [Low power, Yagi]^
-MNI |S1000 RX [Many, Receive]^
-YAGI |S1000 OP [Yagi, Operator]^
-QSY |S1000 EFHW [Change frequency, End fed, half-wave]^
-CFM |S1000 YAGI [Confirm, Yagi]^
-QSY |S1000 YAGI [Change frequency, Yagi]^
-EL |S1000 QRP [Element, Low power]^
-PLS |S1000 TX [Please, Transmit]^
-DR |S1000 HR [Dear, Hear]^
-EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
-TX |S1000 PLS [Transmit, Please]^
-HR |S1000 FT [Hear, Feet]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-FT |S1000 YAGI [Feet, Yagi]^
-VERT |S1000 YAGI [Vertical, Yagi]^
-QRP |S1000 QRQ [Low power, High speed]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-PSE |S1000 YAGI [Please, Yagi]^
-RX |S1000 YAGI [Receive, Yagi]^
-QRQ |S1000 EL [High speed, Element]^
-YAGI |S1000 TX [Yagi, Transmit]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-OP |S1000 RX [Operator, Receive]^
-YAGI |S1000 BCNU [Yagi, Be seeing you]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-VERT |S1000 YAGI [Vertical, Yagi]^
-VERT |S1000 QSY [Vertical, Change frequency]^
-QSL |S1000 YAGI [Confirm, Yagi]^
-YL |S1000 YAGI [Young lady, Yagi]^
-QSL |S1000 YL [Confirm, Young lady]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-YAGI |S1000 FT [Yagi, Feet]^
-YAGI |S1000 YL [Yagi, Young lady]^
-RX |S1000 HR [Receive, Hear]^
-YAGI |S1000 EL [Yagi, Element]^
-YL |S1000 QSL [Young lady, Confirm]^
-EFHW |S1000 QSL [End fed, half-wave, Confirm]^
-YAGI |S1000 BCNU [Yagi, Be seeing you]^
-CFM |S1000 YAGI [Confirm, Yagi]^
-PLS |S1000 HR [Please, Hear]^
-YAGI |S1000 QRQ [Yagi, High speed]^
-RX |S1000 YAGI [Receive, Yagi]^
-QSL |S1000 RX [Confirm, Receive]^
-YAGI |S1000 MNI [Yagi, Many]^
-YAGI |S1000 HW\? [Yagi, How copy\?]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-EFHW |S1000 PSE [End fed, half-wave, Please]^
-YL |S1000 FT [Young lady, Feet]^
-QRQ |S1000 YAGI [High speed, Yagi]^
-PLS |S1000 HR [Please, Hear]^
-YAGI |S1000 DR [Yagi, Dear]^
-YAGI |S1000 BURO [Yagi, bureau]^
-YAGI |S1000 VERT [Yagi, Vertical]^
-YAGI |S1000 TX [Yagi, Transmit]^
-YAGI |S1000 EL [Yagi, Element]^
-YL |S1000 PLS [Young lady, Please]^
-RX |S1000 YL [Receive, Young lady]^
-DR |S1000 QSY [Dear, Change frequency]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-BURO |S1000 VERT [bureau, Vertical]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-TX |S1000 YAGI [Transmit, Yagi]^
-QRP |S1000 FT [Low power, Feet]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-MNI |S1000 YAGI [Many, Yagi]^
-PSE |S1000 MNI [Please, Many]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-YAGI |S1000 HW\? [Yagi, How copy\?]^
-YAGI |S1000 OP [Yagi, Operator]^
-QSL |S1000 CFM [Confirm, Confirm]^
-YAGI |S1000 YL [Yagi, Young lady]^
-YAGI |S1000 OP [Yagi, Operator]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-BURO |S1000 YAGI [bureau, Yagi]^
-QSY |S1000 YL [Change frequency, Young lady]^
-BURO |S1000 HW\? [bureau, How copy\?]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-MNI |S1000 TX [Many, Transmit]^
-OP |S1000 YAGI [Operator, Yagi]^
-QSL |S1000 YAGI [Confirm, Yagi]^
-QRP |S1000 HR [Low power, Hear]^
-QSY |S1000 RX [Change frequency, Receive]^
-HR |S1000 YAGI [Hear, Yagi]^
-EFHW |S1000 OP [End fed, half-wave, Operator]^
-VERT |S1000 RX [Vertical, Receive]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-QRQ |S1000 YAGI [High speed, Yagi]^
-QRS |S1000 DR [Slow speed, Dear]^
-QRQ |S1000 QSL [High speed, Confirm]^
-TX |S1000 BCNU [Transmit, Be seeing you]^
-VERT |S1000 EFHW [Vertical, End fed, half-wave]^
-YL |S1000 VERT [Young lady, Vertical]^
-EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
-PSE |S1000 YAGI [Please, Yagi]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-TX |S1000 YAGI [Transmit, Yagi]^
-DR |S1000 QSY [Dear, Change frequency]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-YAGI |S1000 OP [Yagi, Operator]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-RX |S1000 HR [Receive, Hear]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-OP |S1000 EL [Operator, Element]^
-YAGI |S1000 CFM [Yagi, Confirm]^
-OP |S1000 TX [Operator, Transmit]^
-RX |S1000 YAGI [Receive, Yagi]^
-QRQ |S1000 PLS [High speed, Please]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-YAGI |S1000 MNI [Yagi, Many]^
-BCNU |S1000 MNI [Be seeing you, Many]^
-BURO |S1000 YAGI [bureau, Yagi]^
-EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-BCNU |S1000 DR [Be seeing you, Dear]^
-QRQ |S1000 MNI [High speed, Many]^
-EFHW |S1000 CFM [End fed, half-wave, Confirm]^
-QRQ |S1000 TX [High speed, Transmit]^
-QSL |S1000 DR [Confirm, Dear]^
-YAGI |S1000 HR [Yagi, Hear]^
-DR |S1000 YAGI [Dear, Yagi]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-BCNU |S1000 FT [Be seeing you, Feet]^
-EFHW |S1000 FT [End fed, half-wave, Feet]^
-EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
-BURO |S1000 YAGI [bureau, Yagi]^
-MNI |S1000 BCNU [Many, Be seeing you]^
-MNI |S1000 YL [Many, Young lady]^
-RX |S1000 YAGI [Receive, Yagi]^
-HR |S1000 YAGI [Hear, Yagi]^
-FT |S1000 TX [Feet, Transmit]^
-YAGI |S1000 HR [Yagi, Hear]^
-OP |S1000 MNI [Operator, Many]^
-HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
-BURO |S1000 YAGI [bureau, Yagi]^
-PSE |S1000 YAGI [Please, Yagi]^
-PSE |S1000 CFM [Please, Confirm]^
-YAGI |S1000 OP [Yagi, Operator]^
-HR |S1000 DR [Hear, Dear]^
-HW\? |S1000 BCNU [How copy\?, Be seeing you]^
-YAGI |S1000 BURO [Yagi, bureau]^
-QSY |S1000 CFM [Change frequency, Confirm]^
-YL |S1000 OP [Young lady, Operator]^
-QRS |S1000 MNI [Slow speed, Many]^
-FT |S1000 TX [Feet, Transmit]^
-QSL |S1000 BCNU [Confirm, Be seeing you]^
-YAGI |S1000 TX [Yagi, Transmit]^
-QSL |S1000 YAGI [Confirm, Yagi]^
-PLS |S1000 QRQ [Please, High speed]^
-BURO |S1000 BCNU [bureau, Be seeing you]^
-EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
-BURO |S1000 YL [bureau, Young lady]^
-YAGI |S1000 VERT [Yagi, Vertical]^
-QRS |S1000 BCNU [Slow speed, Be seeing you]^
-BURO |S1000 YAGI [bureau, Yagi]^
-BURO |S1000 HR [bureau, Hear]^
-QRP |S1000 YAGI [Low power, Yagi]^
-QRP |S1000 MNI [Low power, Many]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-BURO |S1000 YL [bureau, Young lady]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-YAGI |S1000 OP [Yagi, Operator]^
-VERT |S1000 PLS [Vertical, Please]^
-YAGI |S1000 VERT [Yagi, Vertical]^
-YAGI |S1000 MNI [Yagi, Many]^
-CFM |S1000 YAGI [Confirm, Yagi]^
-EL |S1000 DR [Element, Dear]^
-YAGI |S1000 BCNU [Yagi, Be seeing you]^
-YAGI |S1000 HR [Yagi, Hear]^
-QRP |S1000 YAGI [Low power, Yagi]^
-OP |S1000 YAGI [Operator, Yagi]^
-QSY |S1000 YAGI [Change frequency, Yagi]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-YL |S1000 BURO [Young lady, bureau]^
-PSE |S1000 YAGI [Please, Yagi]^
-RX |S1000 MNI [Receive, Many]^
-YAGI |S1000 FT [Yagi, Feet]^
-EFHW |S1000 PLS [End fed, half-wave, Please]^
-VERT |S1000 FT [Vertical, Feet]^
-QRP |S1000 DR [Low power, Dear]^
-YAGI |S1000 VERT [Yagi, Vertical]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-OP |S1000 PLS [Operator, Please]^
-YAGI |S1000 BCNU [Yagi, Be seeing you]^
-TX |S1000 YAGI [Transmit, Yagi]^
-PLS |S1000 YAGI [Please, Yagi]^
-CFM |S1000 HW\? [Confirm, How copy\?]^
-YL |S1000 YAGI [Young lady, Yagi]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-MNI |S1000 RX [Many, Receive]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-DR |S1000 YAGI [Dear, Yagi]^
-CFM |S1000 YAGI [Confirm, Yagi]^
-EFHW |S1000 QRP [End fed, half-wave, Low power]^
-YAGI |S1000 CFM [Yagi, Confirm]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-QRS |S1000 YAGI [Slow speed, Yagi]^
-QSL |S1000 QRQ [Confirm, High speed]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-HW\? |S1000 HR [How copy\?, Hear]^
-FT |S1000 EL [Feet, Element]^
-OP |S1000 BCNU [Operator, Be seeing you]^
-YAGI |S1000 OP [Yagi, Operator]^
-BCNU |S1000 RX [Be seeing you, Receive]^
-FT |S1000 QSY [Feet, Change frequency]^
-CFM |S1000 YL [Confirm, Young lady]^
-QRS |S1000 QRQ [Slow speed, High speed]^
-YAGI |S1000 HR [Yagi, Hear]^
-YAGI |S1000 QRP [Yagi, Low power]^
-EFHW |S1000 YL [End fed, half-wave, Young lady]^
-YAGI |S1000 YL [Yagi, Young lady]^
-RX |S1000 YAGI [Receive, Yagi]^
-EL |S1000 YAGI [Element, Yagi]^
-MNI |S1000 QSY [Many, Change frequency]^
-HR |S1000 YAGI [Hear, Yagi]^
-TX |S1000 QRS [Transmit, Slow speed]^
-YAGI |S1000 DR [Yagi, Dear]^
-EFHW |S1000 YL [End fed, half-wave, Young lady]^
-QRS |S1000 BURO [Slow speed, bureau]^
-YAGI |S1000 EFHW [Yagi, End fed, half-wave]^
-YAGI |S1000 BCNU [Yagi, Be seeing you]^
-YAGI |S1000 OP [Yagi, Operator]^
-YAGI |S1000 QRP [Yagi, Low power]^
-YAGI |S1000 BURO [Yagi, bureau]^
-YAGI |S1000 PSE [Yagi, Please]^
-QSY |S1000 BCNU [Change frequency, Be seeing you]^
-PLS |S1000 QRS [Please, Slow speed]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-EL |S1000 RX [Element, Receive]^
-YAGI |S1000 QRP [Yagi, Low power]^
-BURO |S1000 EFHW [bureau, End fed, half-wave]^
-DR |S1000 YAGI [Dear, Yagi]^
-EFHW |S1000 QRS [End fed, half-wave, Slow speed]^
-YAGI |S1000 HR [Yagi, Hear]^
-YAGI |S1000 TX [Yagi, Transmit]^
-HW\? |S1000 YAGI [How copy\?, Yagi]^
-EFHW |S1000 QRP [End fed, half-wave, Low power]^
-FT |S1000 QRP [Feet, Low power]^
-HR |S1000 QSL [Hear, Confirm]^
-YAGI |S1000 YL [Yagi, Young lady]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-BCNU |S1000 YAGI [Be seeing you, Yagi]^
-QRP |S1000 QSL [Low power, Confirm]^
-RX |S1000 YAGI [Receive, Yagi]^
-PSE |S1000 BURO [Please, bureau]^
-QRP |S1000 CFM [Low power, Confirm]^
-YAGI |S1000 VERT [Yagi, Vertical]^
-TX |S1000 YAGI [Transmit, Yagi]^
-BCNU |S1000 QRS [Be seeing you, Slow speed]^
-YL |S1000 PSE [Young lady, Please]^
-QRS |S1000 OP [Slow speed, Operator]^
-YAGI |S1000 YL [Yagi, Young lady]^
-HR |S1000 HW\? [Hear, How copy\?]^
-YAGI |S1000 BURO [Yagi, bureau]^
-DR |S1000 YAGI [Dear, Yagi]^
-TX |S1000 YAGI [Transmit, Yagi]^
-OP |S1000 HW\? [Operator, How copy\?]^
-OP |S1000 YAGI [Operator, Yagi]^
-RX |S1000 EL [Receive, Element]^
-YAGI |S1000 HW\? [Yagi, How copy\?]^
-QRQ |S1000 YAGI [High speed, Yagi]^
-DR |S1000 YAGI [Dear, Yagi]^
-EL |S1000 YAGI [Element, Yagi]^
-OP |S1000 BCNU [Operator, Be seeing you]^
-YAGI |S1000 HR [Yagi, Hear]^
-DR |S1000 YAGI [Dear, Yagi]^
-QRP |S1000 YAGI [Low power, Yagi]^
-CFM |S1000 PSE [Confirm, Please]^
-YAGI |S1000 PLS [Yagi, Please]^
-QRQ |S1000 YAGI [High speed, Yagi]^
-BCNU |S1000 RX [Be seeing you, Receive]^
-YAGI |S1000 TX [Yagi, Transmit]^
-RX |S1000 QSY [Receive, Change frequency]^
-EFHW |S1000 QSY [End fed, half-wave, Change frequency]^
-HR |S1000 MNI [Hear, Many]^
-YAGI |S1000 PLS [Yagi, Please]^
-YAGI |S1000 QRQ [Yagi, High speed]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-YAGI |S1000 QSY [Yagi, Change frequency]^
-YAGI |S1000 HR [Yagi, Hear]^
-BCNU |S1000 FT [Be seeing you, Feet]^
-YAGI |S1000 PLS [Yagi, Please]^
-YAGI |S1000 QSL [Yagi, Confirm]^
-YAGI |S1000 QRQ [Yagi, High speed]^
-YAGI |S1000 HW\? [Yagi, How copy\?]^
-EFHW |S1000 QSL [End fed, half-wave, Confirm]^
-VERT |S1000 PLS [Vertical, Please]^
-TX |S1000 QSL [Transmit, Confirm]^
-MNI |S1000 YAGI [Many, Yagi]^
-QRQ |S1000 EL [High speed, Element]^
-YAGI |S1000 BCNU [Yagi, Be seeing you]^
-YL |S1000 YAGI [Young lady, Yagi]^
-EL |S1000 RX [Element, Receive]^
-YAGI |S1000 QRP [Yagi, Low power]^
-OP |S1000 HR [Operator, Hear]^
-CFM |S1000 YAGI [Confirm, Yagi]^
-TX |S1000 PLS [Transmit, Please]^
-EL |S1000 YAGI [Element, Yagi]^
 EL |S1000 BCNU [Element, Be seeing you]^
-YAGI |S1000 FT [Yagi, Feet]^
-RX |S1000 PSE [Receive, Please]^
+QSY |S1000 YAGI [Q S Y, Yagi]^
+BURO |S1000 QSL [bureau, Q S L]^
+FT |S1000 BURO [Feet, bureau]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+QSY |S1000 BCNU [Q S Y, Be seeing you]^
+QRP |S1000 QRQ [Q R P, Q R Q]^
+YAGI |S1000 QRP [Yagi, Q R P]^
+DR |S1000 HR [Dear, Hear]^
 YAGI |S1000 RX [Yagi, Receive]^
+HW\? |S1000 VERT [How copy\?, Vertical]^
+FT |S1000 CFM [Feet, Confirm]^
+QRP |S1000 CFM [Q R P, Confirm]^
 YAGI |S1000 HW\? [Yagi, How copy\?]^
-OP |S1000 YAGI [Operator, Yagi]^
+YAGI |S1000 OP [Yagi, Operator]^
+PSE |S1000 QSL [Please, Q S L]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+BURO |S1000 HR [bureau, Hear]^
+DR |S1000 YAGI [Dear, Yagi]^
 HR |S1000 YAGI [Hear, Yagi]^
+QRP |S1000 HR [Q R P, Hear]^
+YL |S1000 YAGI [Young lady, Yagi]^
+HW\? |S1000 YAGI [How copy\?, Yagi]^
+QSL |S1000 HR [Q S L, Hear]^
+YAGI |S1000 QSY [Yagi, Q S Y]^
+YAGI |S1000 BCNU [Yagi, Be seeing you]^
+DR |S1000 YAGI [Dear, Yagi]^
+MNI |S1000 OP [Many, Operator]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+YL |S1000 BCNU [Young lady, Be seeing you]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+YAGI |S1000 HW\? [Yagi, How copy\?]^
+OP |S1000 BURO [Operator, bureau]^
+YAGI |S1000 QSY [Yagi, Q S Y]^
+FT |S1000 QRQ [Feet, Q R Q]^
+YAGI |S1000 QRQ [Yagi, Q R Q]^
+PSE |S1000 YAGI [Please, Yagi]^
+RX |S1000 YAGI [Receive, Yagi]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+YAGI |S1000 HW\? [Yagi, How copy\?]^
+VERT |S1000 RX [Vertical, Receive]^
+TX |S1000 BURO [Transmit, bureau]^
+EL |S1000 TX [Element, Transmit]^
+QRP |S1000 PLS [Q R P, Please]^
+QSL |S1000 QRQ [Q S L, Q R Q]^
+PLS |S1000 DR [Please, Dear]^
+PLS |S1000 FT [Please, Feet]^
+DR |S1000 OP [Dear, Operator]^
+YL |S1000 YAGI [Young lady, Yagi]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+QRS |S1000 EFHW [Q R S, End fed, half-wave]^
+YAGI |S1000 RX [Yagi, Receive]^
+BURO |S1000 YAGI [bureau, Yagi]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+RX |S1000 YAGI [Receive, Yagi]^
+EL |S1000 YAGI [Element, Yagi]^
+PLS |S1000 FT [Please, Feet]^
+YAGI |S1000 PLS [Yagi, Please]^
+DR |S1000 BURO [Dear, bureau]^
+EL |S1000 DR [Element, Dear]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+QSL |S1000 YL [Q S L, Young lady]^
+HW\? |S1000 PLS [How copy\?, Please]^
+CFM |S1000 HR [Confirm, Hear]^
+OP |S1000 HR [Operator, Hear]^
+YL |S1000 YAGI [Young lady, Yagi]^
+HR |S1000 YAGI [Hear, Yagi]^
+MNI |S1000 YL [Many, Young lady]^
+YAGI |S1000 RX [Yagi, Receive]^
+YAGI |S1000 BURO [Yagi, bureau]^
+YAGI |S1000 QSY [Yagi, Q S Y]^
+QRQ |S1000 CFM [Q R Q, Confirm]^
+YAGI |S1000 QRP [Yagi, Q R P]^
+YAGI |S1000 HW\? [Yagi, How copy\?]^
+OP |S1000 PLS [Operator, Please]^
+OP |S1000 YAGI [Operator, Yagi]^
+FT |S1000 QSL [Feet, Q S L]^
+YAGI |S1000 RX [Yagi, Receive]^
+HW\? |S1000 MNI [How copy\?, Many]^
+QSL |S1000 FT [Q S L, Feet]^
+YAGI |S1000 RX [Yagi, Receive]^
+OP |S1000 RX [Operator, Receive]^
+FT |S1000 YAGI [Feet, Yagi]^
+BCNU |S1000 MNI [Be seeing you, Many]^
+YAGI |S1000 QRQ [Yagi, Q R Q]^
+EFHW |S1000 QRS [End fed, half-wave, Q R S]^
+YAGI |S1000 TX [Yagi, Transmit]^
+YAGI |S1000 OP [Yagi, Operator]^
+QSY |S1000 YAGI [Q S Y, Yagi]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+BURO |S1000 YAGI [bureau, Yagi]^
+FT |S1000 YAGI [Feet, Yagi]^
+HR |S1000 PLS [Hear, Please]^
+YAGI |S1000 QRQ [Yagi, Q R Q]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+BURO |S1000 OP [bureau, Operator]^
+EL |S1000 PLS [Element, Please]^
+QSL |S1000 OP [Q S L, Operator]^
+MNI |S1000 BURO [Many, bureau]^
+YAGI |S1000 PSE [Yagi, Please]^
+YAGI |S1000 RX [Yagi, Receive]^
+HR |S1000 YAGI [Hear, Yagi]^
+YL |S1000 OP [Young lady, Operator]^
+PLS |S1000 TX [Please, Transmit]^
+CFM |S1000 YAGI [Confirm, Yagi]^
+PLS |S1000 HR [Please, Hear]^
+YAGI |S1000 QRP [Yagi, Q R P]^
+CFM |S1000 PSE [Confirm, Please]^
+CFM |S1000 PSE [Confirm, Please]^
+YAGI |S1000 HR [Yagi, Hear]^
+MNI |S1000 QRP [Many, Q R P]^
+VERT |S1000 YAGI [Vertical, Yagi]^
+QRS |S1000 VERT [Q R S, Vertical]^
+YAGI |S1000 MNI [Yagi, Many]^
+YAGI |S1000 RX [Yagi, Receive]^
+YAGI |S1000 DR [Yagi, Dear]^
+TX |S1000 YAGI [Transmit, Yagi]^
+YL |S1000 YAGI [Young lady, Yagi]^
+QSL |S1000 HW\? [Q S L, How copy\?]^
+YAGI |S1000 BCNU [Yagi, Be seeing you]^
+YAGI |S1000 EFHW [Yagi, End fed, half-wave]^
+YAGI |S1000 MNI [Yagi, Many]^
+EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
+YL |S1000 YAGI [Young lady, Yagi]^
+CFM |S1000 YAGI [Confirm, Yagi]^
+BCNU |S1000 QSY [Be seeing you, Q S Y]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+TX |S1000 YAGI [Transmit, Yagi]^
+QRP |S1000 QRS [Q R P, Q R S]^
+BURO |S1000 FT [bureau, Feet]^
+YAGI |S1000 HR [Yagi, Hear]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+MNI |S1000 QRQ [Many, Q R Q]^
+PLS |S1000 PSE [Please, Please]^
+YAGI |S1000 YL [Yagi, Young lady]^
+YAGI |S1000 QRQ [Yagi, Q R Q]^
+EFHW |S1000 YL [End fed, half-wave, Young lady]^
+YAGI |S1000 RX [Yagi, Receive]^
+YAGI |S1000 BURO [Yagi, bureau]^
+YAGI |S1000 OP [Yagi, Operator]^
+RX |S1000 QSY [Receive, Q S Y]^
+BCNU |S1000 QSY [Be seeing you, Q S Y]^
+BURO |S1000 QSL [bureau, Q S L]^
+YAGI |S1000 RX [Yagi, Receive]^
+VERT |S1000 EL [Vertical, Element]^
+HR |S1000 YL [Hear, Young lady]^
+YAGI |S1000 MNI [Yagi, Many]^
+YAGI |S1000 OP [Yagi, Operator]^
+EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
+PSE |S1000 MNI [Please, Many]^
+YAGI |S1000 BURO [Yagi, bureau]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+VERT |S1000 YAGI [Vertical, Yagi]^
+CFM |S1000 YAGI [Confirm, Yagi]^
 BCNU |S1000 CFM [Be seeing you, Confirm]^
-DR |S1000 QSY [Dear, Change frequency]^
+YAGI |S1000 MNI [Yagi, Many]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+OP |S1000 YAGI [Operator, Yagi]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+BURO |S1000 RX [bureau, Receive]^
+YAGI |S1000 QRQ [Yagi, Q R Q]^
+HW\? |S1000 FT [How copy\?, Feet]^
+MNI |S1000 YAGI [Many, Yagi]^
+QRP |S1000 YAGI [Q R P, Yagi]^
+PLS |S1000 YAGI [Please, Yagi]^
+PLS |S1000 YAGI [Please, Yagi]^
+DR |S1000 RX [Dear, Receive]^
+MNI |S1000 YAGI [Many, Yagi]^
+QSY |S1000 EL [Q S Y, Element]^
+FT |S1000 BURO [Feet, bureau]^
+TX |S1000 PLS [Transmit, Please]^
+YAGI |S1000 YL [Yagi, Young lady]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+PSE |S1000 TX [Please, Transmit]^
+YAGI |S1000 YL [Yagi, Young lady]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+YAGI |S1000 CFM [Yagi, Confirm]^
+YAGI |S1000 HW\? [Yagi, How copy\?]^
+YAGI |S1000 YL [Yagi, Young lady]^
+QRP |S1000 YAGI [Q R P, Yagi]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+YAGI |S1000 RX [Yagi, Receive]^
+OP |S1000 YAGI [Operator, Yagi]^
+PSE |S1000 YAGI [Please, Yagi]^
+VERT |S1000 HR [Vertical, Hear]^
+YAGI |S1000 CFM [Yagi, Confirm]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+MNI |S1000 YAGI [Many, Yagi]^
+TX |S1000 BCNU [Transmit, Be seeing you]^
+BURO |S1000 OP [bureau, Operator]^
+YAGI |S1000 PLS [Yagi, Please]^
+DR |S1000 YAGI [Dear, Yagi]^
+MNI |S1000 YAGI [Many, Yagi]^
+TX |S1000 YL [Transmit, Young lady]^
+HW\? |S1000 YAGI [How copy\?, Yagi]^
+CFM |S1000 FT [Confirm, Feet]^
+CFM |S1000 YAGI [Confirm, Yagi]^
+VERT |S1000 YAGI [Vertical, Yagi]^
+HR |S1000 OP [Hear, Operator]^
+TX |S1000 PLS [Transmit, Please]^
+QSY |S1000 YAGI [Q S Y, Yagi]^
+DR |S1000 BCNU [Dear, Be seeing you]^
+QRP |S1000 BCNU [Q R P, Be seeing you]^
+VERT |S1000 OP [Vertical, Operator]^
+RX |S1000 YAGI [Receive, Yagi]^
+EFHW |S1000 OP [End fed, half-wave, Operator]^
+YAGI |S1000 DR [Yagi, Dear]^
+MNI |S1000 QSY [Many, Q S Y]^
+EL |S1000 PLS [Element, Please]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+FT |S1000 QRP [Feet, Q R P]^
+PLS |S1000 YAGI [Please, Yagi]^
+QSY |S1000 YAGI [Q S Y, Yagi]^
+QSY |S1000 EFHW [Q S Y, End fed, half-wave]^
+EL |S1000 RX [Element, Receive]^
+YAGI |S1000 QRP [Yagi, Q R P]^
+MNI |S1000 EFHW [Many, End fed, half-wave]^
+YAGI |S1000 DR [Yagi, Dear]^
+YAGI |S1000 HW\? [Yagi, How copy\?]^
+YAGI |S1000 BCNU [Yagi, Be seeing you]^
+QRQ |S1000 PLS [Q R Q, Please]^
+YAGI |S1000 BCNU [Yagi, Be seeing you]^
+QSL |S1000 DR [Q S L, Dear]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+YAGI |S1000 EL [Yagi, Element]^
+YAGI |S1000 PSE [Yagi, Please]^
+YAGI |S1000 QSY [Yagi, Q S Y]^
+YAGI |S1000 CFM [Yagi, Confirm]^
+HW\? |S1000 YAGI [How copy\?, Yagi]^
+QSL |S1000 BCNU [Q S L, Be seeing you]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+PSE |S1000 YAGI [Please, Yagi]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+QRP |S1000 YAGI [Q R P, Yagi]^
+HR |S1000 YAGI [Hear, Yagi]^
+FT |S1000 EL [Feet, Element]^
+TX |S1000 QRQ [Transmit, Q R Q]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+PLS |S1000 RX [Please, Receive]^
+YAGI |S1000 QRP [Yagi, Q R P]^
+YAGI |S1000 HW\? [Yagi, How copy\?]^
+YAGI |S1000 DR [Yagi, Dear]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+TX |S1000 YL [Transmit, Young lady]^
+BURO |S1000 OP [bureau, Operator]^
+YAGI |S1000 HR [Yagi, Hear]^
+QSY |S1000 MNI [Q S Y, Many]^
+YAGI |S1000 EL [Yagi, Element]^
+OP |S1000 QRP [Operator, Q R P]^
+BURO |S1000 MNI [bureau, Many]^
+YL |S1000 TX [Young lady, Transmit]^
+HW\? |S1000 YAGI [How copy\?, Yagi]^
+HW\? |S1000 YAGI [How copy\?, Yagi]^
+EFHW |S1000 PSE [End fed, half-wave, Please]^
+BCNU |S1000 TX [Be seeing you, Transmit]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+YAGI |S1000 YL [Yagi, Young lady]^
+RX |S1000 BURO [Receive, bureau]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+VERT |S1000 HW\? [Vertical, How copy\?]^
+DR |S1000 YAGI [Dear, Yagi]^
+EL |S1000 HW\? [Element, How copy\?]^
+YAGI |S1000 PSE [Yagi, Please]^
+YAGI |S1000 PSE [Yagi, Please]^
+VERT |S1000 QSY [Vertical, Q S Y]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+RX |S1000 QSL [Receive, Q S L]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+BCNU |S1000 PSE [Be seeing you, Please]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+YAGI |S1000 QRQ [Yagi, Q R Q]^
+YAGI |S1000 EL [Yagi, Element]^
+EFHW |S1000 EL [End fed, half-wave, Element]^
+YAGI |S1000 OP [Yagi, Operator]^
+VERT |S1000 PLS [Vertical, Please]^
+YL |S1000 YAGI [Young lady, Yagi]^
+QRS |S1000 VERT [Q R S, Vertical]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+YAGI |S1000 OP [Yagi, Operator]^
+QRP |S1000 HR [Q R P, Hear]^
+YAGI |S1000 RX [Yagi, Receive]^
+QRQ |S1000 QSL [Q R Q, Q S L]^
+FT |S1000 RX [Feet, Receive]^
+HW\? |S1000 PSE [How copy\?, Please]^
+YAGI |S1000 PSE [Yagi, Please]^
+FT |S1000 VERT [Feet, Vertical]^
+PLS |S1000 YAGI [Please, Yagi]^
+HW\? |S1000 YAGI [How copy\?, Yagi]^
+EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
+EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+YAGI |S1000 FT [Yagi, Feet]^
+CFM |S1000 YAGI [Confirm, Yagi]^
+OP |S1000 YAGI [Operator, Yagi]^
+MNI |S1000 YAGI [Many, Yagi]^
+TX |S1000 EL [Transmit, Element]^
+TX |S1000 YAGI [Transmit, Yagi]^
+OP |S1000 YAGI [Operator, Yagi]^
+EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+PSE |S1000 PLS [Please, Please]^
+YAGI |S1000 OP [Yagi, Operator]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+YAGI |S1000 OP [Yagi, Operator]^
+EL |S1000 YAGI [Element, Yagi]^
+HW\? |S1000 YAGI [How copy\?, Yagi]^
+YL |S1000 QRS [Young lady, Q R S]^
+YAGI |S1000 TX [Yagi, Transmit]^
+YAGI |S1000 EFHW [Yagi, End fed, half-wave]^
+YAGI |S1000 PLS [Yagi, Please]^
+DR |S1000 MNI [Dear, Many]^
+TX |S1000 CFM [Transmit, Confirm]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+QRS |S1000 BCNU [Q R S, Be seeing you]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+CFM |S1000 YAGI [Confirm, Yagi]^
+QSY |S1000 YAGI [Q S Y, Yagi]^
+TX |S1000 EL [Transmit, Element]^
+YAGI |S1000 BCNU [Yagi, Be seeing you]^
+YAGI |S1000 CFM [Yagi, Confirm]^
+BCNU |S1000 QRP [Be seeing you, Q R P]^
+FT |S1000 QRQ [Feet, Q R Q]^
+YAGI |S1000 BURO [Yagi, bureau]^
+YAGI |S1000 CFM [Yagi, Confirm]^
+EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
+FT |S1000 YAGI [Feet, Yagi]^
+RX |S1000 HW\? [Receive, How copy\?]^
+YAGI |S1000 OP [Yagi, Operator]^
+YAGI |S1000 QRP [Yagi, Q R P]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+YAGI |S1000 QSY [Yagi, Q S Y]^
+EL |S1000 YAGI [Element, Yagi]^
+PSE |S1000 HW\? [Please, How copy\?]^
+QRS |S1000 PSE [Q R S, Please]^
+TX |S1000 EL [Transmit, Element]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+CFM |S1000 BURO [Confirm, bureau]^
+YAGI |S1000 EL [Yagi, Element]^
+QRP |S1000 YAGI [Q R P, Yagi]^
+BCNU |S1000 DR [Be seeing you, Dear]^
+HR |S1000 HW\? [Hear, How copy\?]^
+YAGI |S1000 YL [Yagi, Young lady]^
+PSE |S1000 PLS [Please, Please]^
+YL |S1000 YAGI [Young lady, Yagi]^
+HR |S1000 YAGI [Hear, Yagi]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+VERT |S1000 BCNU [Vertical, Be seeing you]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+YAGI |S1000 RX [Yagi, Receive]^
+YAGI |S1000 CFM [Yagi, Confirm]^
+BURO |S1000 DR [bureau, Dear]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+VERT |S1000 YAGI [Vertical, Yagi]^
+EL |S1000 HR [Element, Hear]^
+CFM |S1000 BURO [Confirm, bureau]^
+YAGI |S1000 RX [Yagi, Receive]^
+BURO |S1000 YAGI [bureau, Yagi]^
+BURO |S1000 QRP [bureau, Q R P]^
+YAGI |S1000 MNI [Yagi, Many]^
+QSL |S1000 RX [Q S L, Receive]^
+QRP |S1000 YAGI [Q R P, Yagi]^
+FT |S1000 OP [Feet, Operator]^
+FT |S1000 YAGI [Feet, Yagi]^
+VERT |S1000 RX [Vertical, Receive]^
+CFM |S1000 PSE [Confirm, Please]^
+QRQ |S1000 EFHW [Q R Q, End fed, half-wave]^
+FT |S1000 YAGI [Feet, Yagi]^
+HR |S1000 RX [Hear, Receive]^
+YAGI |S1000 PLS [Yagi, Please]^
+YAGI |S1000 BURO [Yagi, bureau]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+TX |S1000 QSL [Transmit, Q S L]^
+EL |S1000 YAGI [Element, Yagi]^
+RX |S1000 YL [Receive, Young lady]^
+YAGI |S1000 QRQ [Yagi, Q R Q]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+EFHW |S1000 QSL [End fed, half-wave, Q S L]^
+YAGI |S1000 QRQ [Yagi, Q R Q]^
+YAGI |S1000 PLS [Yagi, Please]^
+CFM |S1000 QRS [Confirm, Q R S]^
+YAGI |S1000 BURO [Yagi, bureau]^
+QSL |S1000 QRQ [Q S L, Q R Q]^
+YAGI |S1000 BURO [Yagi, bureau]^
+YAGI |S1000 DR [Yagi, Dear]^
+HW\? |S1000 DR [How copy\?, Dear]^
+QRP |S1000 YAGI [Q R P, Yagi]^
+QSY |S1000 EL [Q S Y, Element]^
+TX |S1000 BURO [Transmit, bureau]^
+YAGI |S1000 HW\? [Yagi, How copy\?]^
+YAGI |S1000 EFHW [Yagi, End fed, half-wave]^
+OP |S1000 PLS [Operator, Please]^
+YAGI |S1000 PSE [Yagi, Please]^
+DR |S1000 QSY [Dear, Q S Y]^
+PLS |S1000 BURO [Please, bureau]^
+YAGI |S1000 HR [Yagi, Hear]^
+YAGI |S1000 HR [Yagi, Hear]^
+YAGI |S1000 QSY [Yagi, Q S Y]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+OP |S1000 QRS [Operator, Q R S]^
+YAGI |S1000 TX [Yagi, Transmit]^
+YAGI |S1000 MNI [Yagi, Many]^
+PLS |S1000 YAGI [Please, Yagi]^
+VERT |S1000 CFM [Vertical, Confirm]^
+YAGI |S1000 CFM [Yagi, Confirm]^
+FT |S1000 YAGI [Feet, Yagi]^
+RX |S1000 YAGI [Receive, Yagi]^
+QRS |S1000 QRQ [Q R S, Q R Q]^
+PLS |S1000 YAGI [Please, Yagi]^
+EL |S1000 FT [Element, Feet]^
+HR |S1000 YAGI [Hear, Yagi]^
+PSE |S1000 YAGI [Please, Yagi]^
+EL |S1000 VERT [Element, Vertical]^
+YAGI |S1000 TX [Yagi, Transmit]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+PLS |S1000 QRQ [Please, Q R Q]^
+YAGI |S1000 BURO [Yagi, bureau]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+YAGI |S1000 RX [Yagi, Receive]^
+EL |S1000 HR [Element, Hear]^
+YAGI |S1000 QRQ [Yagi, Q R Q]^
+FT |S1000 YAGI [Feet, Yagi]^
+BURO |S1000 PLS [bureau, Please]^
+YAGI |S1000 BURO [Yagi, bureau]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+RX |S1000 QSY [Receive, Q S Y]^
+VERT |S1000 YAGI [Vertical, Yagi]^
+RX |S1000 BCNU [Receive, Be seeing you]^
+YAGI |S1000 YL [Yagi, Young lady]^
+EFHW |S1000 QRP [End fed, half-wave, Q R P]^
+YAGI |S1000 OP [Yagi, Operator]^
+EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+HW\? |S1000 YAGI [How copy\?, Yagi]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+CFM |S1000 YAGI [Confirm, Yagi]^
+PSE |S1000 YAGI [Please, Yagi]^
+CFM |S1000 EL [Confirm, Element]^
+YAGI |S1000 RX [Yagi, Receive]^
+HW\? |S1000 MNI [How copy\?, Many]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+YAGI |S1000 BURO [Yagi, bureau]^
+YL |S1000 CFM [Young lady, Confirm]^
+YAGI |S1000 BCNU [Yagi, Be seeing you]^
+DR |S1000 MNI [Dear, Many]^
+YAGI |S1000 BCNU [Yagi, Be seeing you]^
+YAGI |S1000 QRP [Yagi, Q R P]^
+CFM |S1000 BCNU [Confirm, Be seeing you]^
+YAGI |S1000 EFHW [Yagi, End fed, half-wave]^
+YAGI |S1000 DR [Yagi, Dear]^
+FT |S1000 YAGI [Feet, Yagi]^
+QSL |S1000 DR [Q S L, Dear]^
+YAGI |S1000 BCNU [Yagi, Be seeing you]^
 EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+YAGI |S1000 PLS [Yagi, Please]^
+TX |S1000 QSY [Transmit, Q S Y]^
+RX |S1000 BURO [Receive, bureau]^
+PSE |S1000 YAGI [Please, Yagi]^
+FT |S1000 RX [Feet, Receive]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+EFHW |S1000 YAGI [End fed, half-wave, Yagi]^
+OP |S1000 YAGI [Operator, Yagi]^
+PLS |S1000 QRS [Please, Q R S]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+YAGI |S1000 RX [Yagi, Receive]^
+YAGI |S1000 QSY [Yagi, Q S Y]^
+YL |S1000 DR [Young lady, Dear]^
+VERT |S1000 OP [Vertical, Operator]^
+QRP |S1000 PLS [Q R P, Please]^
+YAGI |S1000 CFM [Yagi, Confirm]^
+PLS |S1000 QSL [Please, Q S L]^
+YAGI |S1000 HR [Yagi, Hear]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+YL |S1000 OP [Young lady, Operator]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+DR |S1000 EL [Dear, Element]^
+FT |S1000 YAGI [Feet, Yagi]^
+CFM |S1000 PSE [Confirm, Please]^
+YAGI |S1000 TX [Yagi, Transmit]^
+YAGI |S1000 HR [Yagi, Hear]^
+TX |S1000 YAGI [Transmit, Yagi]^
+TX |S1000 YAGI [Transmit, Yagi]^
+RX |S1000 OP [Receive, Operator]^
+PSE |S1000 BURO [Please, bureau]^
+YAGI |S1000 FT [Yagi, Feet]^
+BURO |S1000 YAGI [bureau, Yagi]^
+EL |S1000 OP [Element, Operator]^
+QRP |S1000 TX [Q R P, Transmit]^
+YAGI |S1000 PLS [Yagi, Please]^
+YAGI |S1000 QRP [Yagi, Q R P]^
+YAGI |S1000 CFM [Yagi, Confirm]^
+YAGI |S1000 PSE [Yagi, Please]^
+QRP |S1000 VERT [Q R P, Vertical]^
+YAGI |S1000 OP [Yagi, Operator]^
+EL |S1000 YAGI [Element, Yagi]^
+DR |S1000 YAGI [Dear, Yagi]^
+OP |S1000 QSL [Operator, Q S L]^
+YAGI |S1000 OP [Yagi, Operator]^
+YAGI |S1000 MNI [Yagi, Many]^
+HW\? |S1000 YAGI [How copy\?, Yagi]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+YL |S1000 VERT [Young lady, Vertical]^
+TX |S1000 YAGI [Transmit, Yagi]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+MNI |S1000 YAGI [Many, Yagi]^
+DR |S1000 BCNU [Dear, Be seeing you]^
+YAGI |S1000 PLS [Yagi, Please]^
+YAGI |S1000 PLS [Yagi, Please]^
+QRS |S1000 EFHW [Q R S, End fed, half-wave]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+RX |S1000 FT [Receive, Feet]^
+YAGI |S1000 YL [Yagi, Young lady]^
+PLS |S1000 EL [Please, Element]^
+CFM |S1000 HR [Confirm, Hear]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+QRS |S1000 HR [Q R S, Hear]^
+YAGI |S1000 BURO [Yagi, bureau]^
+PLS |S1000 BURO [Please, bureau]^
+FT |S1000 YAGI [Feet, Yagi]^
+TX |S1000 YAGI [Transmit, Yagi]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+HW\? |S1000 HR [How copy\?, Hear]^
+YAGI |S1000 EL [Yagi, Element]^
+PSE |S1000 YAGI [Please, Yagi]^
+FT |S1000 QSL [Feet, Q S L]^
+QRS |S1000 QRP [Q R S, Q R P]^
+YAGI |S1000 HR [Yagi, Hear]^
+YAGI |S1000 HR [Yagi, Hear]^
+YAGI |S1000 BURO [Yagi, bureau]^
+VERT |S1000 OP [Vertical, Operator]^
+YAGI |S1000 MNI [Yagi, Many]^
+DR |S1000 QRP [Dear, Q R P]^
+DR |S1000 YAGI [Dear, Yagi]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+PLS |S1000 QRP [Please, Q R P]^
+YAGI |S1000 EFHW [Yagi, End fed, half-wave]^
+QRP |S1000 YAGI [Q R P, Yagi]^
+FT |S1000 QRP [Feet, Q R P]^
+YAGI |S1000 PSE [Yagi, Please]^
+CFM |S1000 PLS [Confirm, Please]^
+DR |S1000 PLS [Dear, Please]^
+YAGI |S1000 QRP [Yagi, Q R P]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+QRP |S1000 BCNU [Q R P, Be seeing you]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+BCNU |S1000 EFHW [Be seeing you, End fed, half-wave]^
+YAGI |S1000 OP [Yagi, Operator]^
+YAGI |S1000 HR [Yagi, Hear]^
+EFHW |S1000 QSY [End fed, half-wave, Q S Y]^
+YAGI |S1000 QRS [Yagi, Q R S]^
+QSY |S1000 BURO [Q S Y, bureau]^
+YAGI |S1000 BURO [Yagi, bureau]^
+HW\? |S1000 PSE [How copy\?, Please]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+YL |S1000 YAGI [Young lady, Yagi]^
+MNI |S1000 YAGI [Many, Yagi]^
+DR |S1000 PSE [Dear, Please]^
+YAGI |S1000 BURO [Yagi, bureau]^
+DR |S1000 YAGI [Dear, Yagi]^
+HR |S1000 QRQ [Hear, Q R Q]^
+YAGI |S1000 TX [Yagi, Transmit]^
+YAGI |S1000 QRP [Yagi, Q R P]^
+YL |S1000 RX [Young lady, Receive]^
+CFM |S1000 MNI [Confirm, Many]^
+EFHW |S1000 PLS [End fed, half-wave, Please]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+FT |S1000 BURO [Feet, bureau]^
+RX |S1000 YAGI [Receive, Yagi]^
+QRQ |S1000 QRP [Q R Q, Q R P]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+FT |S1000 YAGI [Feet, Yagi]^
+EL |S1000 HR [Element, Hear]^
+YAGI |S1000 FT [Yagi, Feet]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+RX |S1000 HR [Receive, Hear]^
+YAGI |S1000 QRQ [Yagi, Q R Q]^
+MNI |S1000 YAGI [Many, Yagi]^
+BURO |S1000 TX [bureau, Transmit]^
+EL |S1000 YAGI [Element, Yagi]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+YAGI |S1000 YL [Yagi, Young lady]^
+YAGI |S1000 DR [Yagi, Dear]^
+YAGI |S1000 YL [Yagi, Young lady]^
+YAGI |S1000 CFM [Yagi, Confirm]^

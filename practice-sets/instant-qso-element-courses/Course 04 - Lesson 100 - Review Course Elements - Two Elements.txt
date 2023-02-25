@@ -1,600 +1,600 @@
-GN |S1000 NW [Good night, Now]^
-GN |S1000 QRZ\? [Good night, Who is calling\?]^
-WATT |S1000 OCF [Watt, Off-center fed dipole]^
-489 |S1000 NW [4 8 9, Now]^
-589 |S1000 RPRT [5 8 9, Report]^
-SSB |S1000 SWR [Single Side Band, S W R]^
-489 |S1000 OCF [4 8 9, Off-center fed dipole]^
-QRL\? |S1000 OCF [Are you busy\?, Off-center fed dipole]^
-LOOP |S1000 1TT [Loop, 100]^
-589 |S1000 SSB [5 8 9, Single Side Band]^
-WATT |S1000 QRL\? [Watt, Are you busy\?]^
-CW |S1000 SSB [C W, Single Side Band]^
-LOOP |S1000 489 [Loop, 4 8 9]^
-WATT |S1000 SSB [Watt, Single Side Band]^
-489 |S1000 1TT [4 8 9, 100]^
-589 |S1000 72 [5 8 9, 72]^
-579 |S1000 479 [5 7 9, 4 7 9]^
-GB |S1000 GD [Goodbye, Good]^
-SWR |S1000 1TT [S W R, 100]^
-72 |S1000 LOOP [72, Loop]^
-OCF |S1000 GD [Off-center fed dipole, Good]^
-88 |S1000 SSB [88, Single Side Band]^
-1TT |S1000 WATT [100, Watt]^
-OCF |S1000 LOOP [Off-center fed dipole, Loop]^
-SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
-SWR |S1000 GN [S W R, Good night]^
-SSB |S1000 LOOP [Single Side Band, Loop]^
-INFO |S1000 RPRT [Information, Report]^
-579 |S1000 CW [5 7 9, C W]^
-QRX |S1000 GB [Standby, Goodbye]^
-QRX |S1000 GD [Standby, Good]^
-GB |S1000 GD [Goodbye, Good]^
-RPT |S1000 479 [Report, 4 7 9]^
-CW |S1000 GD [C W, Good]^
-GN |S1000 WATT [Good night, Watt]^
-CW |S1000 WIRE [C W, Wire]^
-SSB |S1000 GB [Single Side Band, Goodbye]^
-88 |S1000 72 [88, 72]^
-1TT |S1000 QRX [100, Standby]^
-NW |S1000 RPRT [Now, Report]^
-LOOP |S1000 QRX [Loop, Standby]^
-589 |S1000 479 [5 8 9, 4 7 9]^
-88 |S1000 WATT [88, Watt]^
-GD |S1000 INFO [Good, Information]^
-489 |S1000 GD [4 8 9, Good]^
-WIRE |S1000 359 [Wire, 3 5 9]^
-QRX |S1000 589 [Standby, 5 8 9]^
-RPRT |S1000 INFO [Report, Information]^
-SSB |S1000 589 [Single Side Band, 5 8 9]^
-SSB |S1000 479 [Single Side Band, 4 7 9]^
-CW |S1000 RPT [C W, Report]^
-489 |S1000 RPT [4 8 9, Report]^
-NW |S1000 589 [Now, 5 8 9]^
-479 |S1000 SSB [4 7 9, Single Side Band]^
-WIRE |S1000 QRL\? [Wire, Are you busy\?]^
-72 |S1000 QRZ\? [72, Who is calling\?]^
-OCF |S1000 489 [Off-center fed dipole, 4 8 9]^
-RPRT |S1000 72 [Report, 72]^
-CW |S1000 INFO [C W, Information]^
-QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
-72 |S1000 1TT [72, 100]^
-72 |S1000 359 [72, 3 5 9]^
-INFO |S1000 1TT [Information, 100]^
-GN |S1000 SSB [Good night, Single Side Band]^
-WIRE |S1000 GB [Wire, Goodbye]^
-72 |S1000 WIRE [72, Wire]^
-RPT |S1000 479 [Report, 4 7 9]^
-1TT |S1000 359 [100, 3 5 9]^
-LOOP |S1000 NW [Loop, Now]^
-88 |S1000 GB [88, Goodbye]^
-359 |S1000 589 [3 5 9, 5 8 9]^
-479 |S1000 QRL\? [4 7 9, Are you busy\?]^
-GN |S1000 QRL\? [Good night, Are you busy\?]^
-RPT |S1000 GB [Report, Goodbye]^
-SSB |S1000 INFO [Single Side Band, Information]^
-479 |S1000 INFO [4 7 9, Information]^
-NW |S1000 72 [Now, 72]^
-489 |S1000 QRL\? [4 8 9, Are you busy\?]^
-589 |S1000 359 [5 8 9, 3 5 9]^
-INFO |S1000 GN [Information, Good night]^
-489 |S1000 1TT [4 8 9, 100]^
-QRX |S1000 NW [Standby, Now]^
-INFO |S1000 QRZ\? [Information, Who is calling\?]^
-1TT |S1000 QRX [100, Standby]^
-GD |S1000 QRZ\? [Good, Who is calling\?]^
-GB |S1000 72 [Goodbye, 72]^
-LOOP |S1000 88 [Loop, 88]^
-OCF |S1000 SSB [Off-center fed dipole, Single Side Band]^
-NW |S1000 72 [Now, 72]^
-579 |S1000 QRX [5 7 9, Standby]^
-GN |S1000 QRZ\? [Good night, Who is calling\?]^
-WATT |S1000 88 [Watt, 88]^
-GB |S1000 SSB [Goodbye, Single Side Band]^
-72 |S1000 RPT [72, Report]^
-RPRT |S1000 WATT [Report, Watt]^
-SSB |S1000 WIRE [Single Side Band, Wire]^
-QRZ\? |S1000 1TT [Who is calling\?, 100]^
-INFO |S1000 72 [Information, 72]^
-RPT |S1000 579 [Report, 5 7 9]^
-OCF |S1000 579 [Off-center fed dipole, 5 7 9]^
-WIRE |S1000 589 [Wire, 5 8 9]^
-72 |S1000 QRL\? [72, Are you busy\?]^
-QRZ\? |S1000 INFO [Who is calling\?, Information]^
-GD |S1000 QRL\? [Good, Are you busy\?]^
-QRX |S1000 589 [Standby, 5 8 9]^
-GB |S1000 GD [Goodbye, Good]^
-LOOP |S1000 NW [Loop, Now]^
-RPRT |S1000 QRL\? [Report, Are you busy\?]^
-72 |S1000 QRL\? [72, Are you busy\?]^
-OCF |S1000 INFO [Off-center fed dipole, Information]^
-RPT |S1000 489 [Report, 4 8 9]^
-72 |S1000 CW [72, C W]^
-72 |S1000 88 [72, 88]^
-479 |S1000 489 [4 7 9, 4 8 9]^
-CW |S1000 579 [C W, 5 7 9]^
-479 |S1000 INFO [4 7 9, Information]^
-RPRT |S1000 WATT [Report, Watt]^
-SSB |S1000 489 [Single Side Band, 4 8 9]^
-INFO |S1000 GB [Information, Goodbye]^
-WATT |S1000 589 [Watt, 5 8 9]^
-WATT |S1000 WIRE [Watt, Wire]^
-SSB |S1000 WIRE [Single Side Band, Wire]^
-INFO |S1000 WIRE [Information, Wire]^
-QRX |S1000 GN [Standby, Good night]^
-WATT |S1000 359 [Watt, 3 5 9]^
-QRX |S1000 579 [Standby, 5 7 9]^
-359 |S1000 SSB [3 5 9, Single Side Band]^
-GB |S1000 479 [Goodbye, 4 7 9]^
-QRX |S1000 WATT [Standby, Watt]^
-SSB |S1000 479 [Single Side Band, 4 7 9]^
-RPRT |S1000 359 [Report, 3 5 9]^
-579 |S1000 GD [5 7 9, Good]^
-INFO |S1000 QRZ\? [Information, Who is calling\?]^
-LOOP |S1000 RPT [Loop, Report]^
-88 |S1000 489 [88, 4 8 9]^
-589 |S1000 SSB [5 8 9, Single Side Band]^
-WATT |S1000 CW [Watt, C W]^
-589 |S1000 LOOP [5 8 9, Loop]^
-479 |S1000 RPRT [4 7 9, Report]^
-SSB |S1000 579 [Single Side Band, 5 7 9]^
-1TT |S1000 359 [100, 3 5 9]^
-GB |S1000 RPT [Goodbye, Report]^
-NW |S1000 RPT [Now, Report]^
-WATT |S1000 489 [Watt, 4 8 9]^
-579 |S1000 1TT [5 7 9, 100]^
-NW |S1000 579 [Now, 5 7 9]^
-GN |S1000 WATT [Good night, Watt]^
-QRZ\? |S1000 1TT [Who is calling\?, 100]^
-INFO |S1000 88 [Information, 88]^
-QRZ\? |S1000 QRX [Who is calling\?, Standby]^
-GB |S1000 WIRE [Goodbye, Wire]^
-1TT |S1000 SWR [100, S W R]^
-SSB |S1000 WIRE [Single Side Band, Wire]^
-LOOP |S1000 SWR [Loop, S W R]^
-359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
-QRX |S1000 SSB [Standby, Single Side Band]^
-CW |S1000 72 [C W, 72]^
-GN |S1000 RPRT [Good night, Report]^
-479 |S1000 GD [4 7 9, Good]^
-RPRT |S1000 359 [Report, 3 5 9]^
-489 |S1000 RPRT [4 8 9, Report]^
-GD |S1000 INFO [Good, Information]^
-QRX |S1000 CW [Standby, C W]^
-WATT |S1000 QRX [Watt, Standby]^
-GB |S1000 WIRE [Goodbye, Wire]^
-589 |S1000 NW [5 8 9, Now]^
-1TT |S1000 479 [100, 4 7 9]^
-GN |S1000 WATT [Good night, Watt]^
-579 |S1000 RPRT [5 7 9, Report]^
-579 |S1000 QRZ\? [5 7 9, Who is calling\?]^
-GB |S1000 OCF [Goodbye, Off-center fed dipole]^
-NW |S1000 479 [Now, 4 7 9]^
-1TT |S1000 SSB [100, Single Side Band]^
-SWR |S1000 SSB [S W R, Single Side Band]^
-QRL\? |S1000 GB [Are you busy\?, Goodbye]^
-INFO |S1000 72 [Information, 72]^
-359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
-LOOP |S1000 OCF [Loop, Off-center fed dipole]^
-NW |S1000 88 [Now, 88]^
-WATT |S1000 88 [Watt, 88]^
-INFO |S1000 479 [Information, 4 7 9]^
-489 |S1000 NW [4 8 9, Now]^
-359 |S1000 RPT [3 5 9, Report]^
-359 |S1000 RPRT [3 5 9, Report]^
-WATT |S1000 INFO [Watt, Information]^
-RPT |S1000 INFO [Report, Information]^
-579 |S1000 NW [5 7 9, Now]^
-72 |S1000 359 [72, 3 5 9]^
-SWR |S1000 OCF [S W R, Off-center fed dipole]^
-489 |S1000 589 [4 8 9, 5 8 9]^
-OCF |S1000 88 [Off-center fed dipole, 88]^
-LOOP |S1000 489 [Loop, 4 8 9]^
-GB |S1000 QRX [Goodbye, Standby]^
-LOOP |S1000 NW [Loop, Now]^
-589 |S1000 479 [5 8 9, 4 7 9]^
-GD |S1000 WATT [Good, Watt]^
-NW |S1000 GD [Now, Good]^
-WIRE |S1000 72 [Wire, 72]^
-589 |S1000 QRZ\? [5 8 9, Who is calling\?]^
-LOOP |S1000 QRX [Loop, Standby]^
-579 |S1000 1TT [5 7 9, 100]^
-QRZ\? |S1000 RPRT [Who is calling\?, Report]^
-SWR |S1000 NW [S W R, Now]^
-QRZ\? |S1000 88 [Who is calling\?, 88]^
-GB |S1000 589 [Goodbye, 5 8 9]^
-GN |S1000 NW [Good night, Now]^
-INFO |S1000 QRZ\? [Information, Who is calling\?]^
-OCF |S1000 INFO [Off-center fed dipole, Information]^
-359 |S1000 479 [3 5 9, 4 7 9]^
-GB |S1000 RPT [Goodbye, Report]^
-579 |S1000 GD [5 7 9, Good]^
-WIRE |S1000 QRL\? [Wire, Are you busy\?]^
+QRT |S1000 GB [Q R T, Goodbye]^
+GD |S1000 QRX [Good, Q R X]^
 LOOP |S1000 589 [Loop, 5 8 9]^
-SWR |S1000 72 [S W R, 72]^
-359 |S1000 SSB [3 5 9, Single Side Band]^
-RPRT |S1000 1TT [Report, 100]^
-QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
-OCF |S1000 SWR [Off-center fed dipole, S W R]^
-88 |S1000 CW [88, C W]^
-GD |S1000 RPRT [Good, Report]^
-SWR |S1000 479 [S W R, 4 7 9]^
-WATT |S1000 RPT [Watt, Report]^
-SSB |S1000 RPRT [Single Side Band, Report]^
-72 |S1000 GD [72, Good]^
-479 |S1000 72 [4 7 9, 72]^
-359 |S1000 RPT [3 5 9, Report]^
-WIRE |S1000 GD [Wire, Good]^
-RPT |S1000 QRZ\? [Report, Who is calling\?]^
-579 |S1000 RPRT [5 7 9, Report]^
-88 |S1000 GB [88, Goodbye]^
-WIRE |S1000 QRX [Wire, Standby]^
-OCF |S1000 CW [Off-center fed dipole, C W]^
-359 |S1000 WIRE [3 5 9, Wire]^
-OCF |S1000 QRX [Off-center fed dipole, Standby]^
-479 |S1000 LOOP [4 7 9, Loop]^
-QRZ\? |S1000 WATT [Who is calling\?, Watt]^
-579 |S1000 WIRE [5 7 9, Wire]^
-479 |S1000 QRZ\? [4 7 9, Who is calling\?]^
-359 |S1000 1TT [3 5 9, 100]^
-RPT |S1000 QRX [Report, Standby]^
-GD |S1000 1TT [Good, 100]^
-579 |S1000 WATT [5 7 9, Watt]^
-88 |S1000 72 [88, 72]^
-SSB |S1000 88 [Single Side Band, 88]^
-359 |S1000 OCF [3 5 9, Off-center fed dipole]^
-LOOP |S1000 RPT [Loop, Report]^
-RPRT |S1000 579 [Report, 5 7 9]^
-NW |S1000 WATT [Now, Watt]^
-88 |S1000 QRX [88, Standby]^
-GN |S1000 SWR [Good night, S W R]^
-LOOP |S1000 QRX [Loop, Standby]^
-489 |S1000 GD [4 8 9, Good]^
-479 |S1000 QRX [4 7 9, Standby]^
-72 |S1000 489 [72, 4 8 9]^
-GB |S1000 1TT [Goodbye, 100]^
-QRX |S1000 RPRT [Standby, Report]^
-GN |S1000 CW [Good night, C W]^
-GD |S1000 RPRT [Good, Report]^
-WATT |S1000 GB [Watt, Goodbye]^
-WIRE |S1000 SWR [Wire, S W R]^
-WATT |S1000 CW [Watt, C W]^
-RPRT |S1000 489 [Report, 4 8 9]^
-72 |S1000 359 [72, 3 5 9]^
-489 |S1000 QRX [4 8 9, Standby]^
-RPRT |S1000 GN [Report, Good night]^
-479 |S1000 72 [4 7 9, 72]^
-WIRE |S1000 SWR [Wire, S W R]^
-479 |S1000 QRL\? [4 7 9, Are you busy\?]^
-88 |S1000 QRL\? [88, Are you busy\?]^
-NW |S1000 RPRT [Now, Report]^
-WIRE |S1000 72 [Wire, 72]^
-QRX |S1000 WATT [Standby, Watt]^
-CW |S1000 579 [C W, 5 7 9]^
-SSB |S1000 GB [Single Side Band, Goodbye]^
-GN |S1000 88 [Good night, 88]^
-479 |S1000 GN [4 7 9, Good night]^
-RPRT |S1000 GN [Report, Good night]^
-WATT |S1000 1TT [Watt, 100]^
-359 |S1000 SSB [3 5 9, Single Side Band]^
-1TT |S1000 OCF [100, Off-center fed dipole]^
-479 |S1000 QRL\? [4 7 9, Are you busy\?]^
-INFO |S1000 LOOP [Information, Loop]^
-QRL\? |S1000 QRX [Are you busy\?, Standby]^
-479 |S1000 CW [4 7 9, C W]^
-88 |S1000 WATT [88, Watt]^
-72 |S1000 1TT [72, 100]^
-RPRT |S1000 SSB [Report, Single Side Band]^
-WIRE |S1000 1TT [Wire, 100]^
-CW |S1000 LOOP [C W, Loop]^
-QRZ\? |S1000 RPT [Who is calling\?, Report]^
-1TT |S1000 QRX [100, Standby]^
-LOOP |S1000 SWR [Loop, S W R]^
-579 |S1000 QRL\? [5 7 9, Are you busy\?]^
-QRX |S1000 1TT [Standby, 100]^
-GD |S1000 489 [Good, 4 8 9]^
-GD |S1000 479 [Good, 4 7 9]^
-LOOP |S1000 WIRE [Loop, Wire]^
-479 |S1000 SWR [4 7 9, S W R]^
-LOOP |S1000 GB [Loop, Goodbye]^
-OCF |S1000 579 [Off-center fed dipole, 5 7 9]^
-QRZ\? |S1000 WATT [Who is calling\?, Watt]^
-72 |S1000 QRL\? [72, Are you busy\?]^
-NW |S1000 579 [Now, 5 7 9]^
-359 |S1000 QRX [3 5 9, Standby]^
-GD |S1000 359 [Good, 3 5 9]^
-QRL\? |S1000 489 [Are you busy\?, 4 8 9]^
-NW |S1000 QRX [Now, Standby]^
-WIRE |S1000 INFO [Wire, Information]^
-479 |S1000 RPRT [4 7 9, Report]^
-GB |S1000 QRX [Goodbye, Standby]^
-1TT |S1000 WIRE [100, Wire]^
-88 |S1000 GN [88, Good night]^
-LOOP |S1000 RPRT [Loop, Report]^
-QRL\? |S1000 SSB [Are you busy\?, Single Side Band]^
-QRX |S1000 QRL\? [Standby, Are you busy\?]^
-589 |S1000 579 [5 8 9, 5 7 9]^
-SSB |S1000 GD [Single Side Band, Good]^
-579 |S1000 GD [5 7 9, Good]^
-LOOP |S1000 88 [Loop, 88]^
-WIRE |S1000 LOOP [Wire, Loop]^
-GD |S1000 SWR [Good, S W R]^
-1TT |S1000 RPRT [100, Report]^
-72 |S1000 SWR [72, S W R]^
-QRZ\? |S1000 GN [Who is calling\?, Good night]^
-QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
-WIRE |S1000 QRL\? [Wire, Are you busy\?]^
-GB |S1000 359 [Goodbye, 3 5 9]^
-SWR |S1000 72 [S W R, 72]^
-RPRT |S1000 359 [Report, 3 5 9]^
-589 |S1000 88 [5 8 9, 88]^
-CW |S1000 RPRT [C W, Report]^
-WATT |S1000 GB [Watt, Goodbye]^
-GD |S1000 GB [Good, Goodbye]^
-SWR |S1000 QRX [S W R, Standby]^
-589 |S1000 INFO [5 8 9, Information]^
-RPRT |S1000 GN [Report, Good night]^
-GD |S1000 QRL\? [Good, Are you busy\?]^
-RPRT |S1000 479 [Report, 4 7 9]^
-CW |S1000 489 [C W, 4 8 9]^
-CW |S1000 LOOP [C W, Loop]^
-WIRE |S1000 SWR [Wire, S W R]^
-579 |S1000 QRX [5 7 9, Standby]^
-RPT |S1000 QRX [Report, Standby]^
-GN |S1000 GB [Good night, Goodbye]^
-489 |S1000 QRZ\? [4 8 9, Who is calling\?]^
-88 |S1000 RPRT [88, Report]^
-QRX |S1000 489 [Standby, 4 8 9]^
-NW |S1000 WATT [Now, Watt]^
-72 |S1000 GN [72, Good night]^
-359 |S1000 479 [3 5 9, 4 7 9]^
-RPRT |S1000 489 [Report, 4 8 9]^
-QRX |S1000 72 [Standby, 72]^
-NW |S1000 OCF [Now, Off-center fed dipole]^
-359 |S1000 QRZ\? [3 5 9, Who is calling\?]^
-88 |S1000 1TT [88, 100]^
-579 |S1000 1TT [5 7 9, 100]^
-CW |S1000 SWR [C W, S W R]^
-QRL\? |S1000 359 [Are you busy\?, 3 5 9]^
-INFO |S1000 479 [Information, 4 7 9]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 WIRE [Now, Wire]^
-INFO |S1000 CW [Information, C W]^
-579 |S1000 GD [5 7 9, Good]^
-72 |S1000 OCF [72, Off-center fed dipole]^
-579 |S1000 NW [5 7 9, Now]^
-RPT |S1000 GB [Report, Goodbye]^
-GN |S1000 INFO [Good night, Information]^
-489 |S1000 QRL\? [4 8 9, Are you busy\?]^
-RPRT |S1000 CW [Report, C W]^
-OCF |S1000 RPT [Off-center fed dipole, Report]^
-QRX |S1000 RPRT [Standby, Report]^
-QRL\? |S1000 GB [Are you busy\?, Goodbye]^
-SSB |S1000 LOOP [Single Side Band, Loop]^
-479 |S1000 72 [4 7 9, 72]^
-CW |S1000 NW [C W, Now]^
-INFO |S1000 CW [Information, C W]^
-QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
-SSB |S1000 QRZ\? [Single Side Band, Who is calling\?]^
-SSB |S1000 NW [Single Side Band, Now]^
-WATT |S1000 579 [Watt, 5 7 9]^
-WATT |S1000 LOOP [Watt, Loop]^
-579 |S1000 INFO [5 7 9, Information]^
-WIRE |S1000 359 [Wire, 3 5 9]^
-589 |S1000 479 [5 8 9, 4 7 9]^
-WATT |S1000 GN [Watt, Good night]^
-1TT |S1000 GN [100, Good night]^
-GB |S1000 SWR [Goodbye, S W R]^
-RPT |S1000 GN [Report, Good night]^
-CW |S1000 479 [C W, 4 7 9]^
-NW |S1000 QRX [Now, Standby]^
-GN |S1000 359 [Good night, 3 5 9]^
-GN |S1000 INFO [Good night, Information]^
-479 |S1000 579 [4 7 9, 5 7 9]^
-RPRT |S1000 579 [Report, 5 7 9]^
-GN |S1000 GB [Good night, Goodbye]^
-359 |S1000 489 [3 5 9, 4 8 9]^
-NW |S1000 SWR [Now, S W R]^
-OCF |S1000 SWR [Off-center fed dipole, S W R]^
-CW |S1000 WATT [C W, Watt]^
-QRX |S1000 WIRE [Standby, Wire]^
-SSB |S1000 RPT [Single Side Band, Report]^
-INFO |S1000 72 [Information, 72]^
-LOOP |S1000 NW [Loop, Now]^
-GN |S1000 88 [Good night, 88]^
-INFO |S1000 GN [Information, Good night]^
-579 |S1000 GB [5 7 9, Goodbye]^
-579 |S1000 SWR [5 7 9, S W R]^
-QRZ\? |S1000 GN [Who is calling\?, Good night]^
-CW |S1000 OCF [C W, Off-center fed dipole]^
-WATT |S1000 CW [Watt, C W]^
-RPRT |S1000 RPT [Report, Report]^
-OCF |S1000 RPRT [Off-center fed dipole, Report]^
-1TT |S1000 579 [100, 5 7 9]^
-WATT |S1000 OCF [Watt, Off-center fed dipole]^
-579 |S1000 OCF [5 7 9, Off-center fed dipole]^
-479 |S1000 1TT [4 7 9, 100]^
-GN |S1000 RPT [Good night, Report]^
-72 |S1000 1TT [72, 100]^
-LOOP |S1000 SSB [Loop, Single Side Band]^
-INFO |S1000 OCF [Information, Off-center fed dipole]^
-LOOP |S1000 589 [Loop, 5 8 9]^
-359 |S1000 QRL\? [3 5 9, Are you busy\?]^
-QRZ\? |S1000 SSB [Who is calling\?, Single Side Band]^
-LOOP |S1000 579 [Loop, 5 7 9]^
-OCF |S1000 88 [Off-center fed dipole, 88]^
-489 |S1000 QRX [4 8 9, Standby]^
-589 |S1000 QRL\? [5 8 9, Are you busy\?]^
-SWR |S1000 479 [S W R, 4 7 9]^
-589 |S1000 1TT [5 8 9, 100]^
-QRZ\? |S1000 RPRT [Who is calling\?, Report]^
-OCF |S1000 CW [Off-center fed dipole, C W]^
-1TT |S1000 72 [100, 72]^
-RPT |S1000 LOOP [Report, Loop]^
-GB |S1000 GD [Goodbye, Good]^
-SSB |S1000 LOOP [Single Side Band, Loop]^
-72 |S1000 QRL\? [72, Are you busy\?]^
-RPRT |S1000 GB [Report, Goodbye]^
-579 |S1000 SSB [5 7 9, Single Side Band]^
-479 |S1000 88 [4 7 9, 88]^
-RPRT |S1000 NW [Report, Now]^
-OCF |S1000 589 [Off-center fed dipole, 5 8 9]^
-SSB |S1000 489 [Single Side Band, 4 8 9]^
-72 |S1000 QRX [72, Standby]^
-GD |S1000 LOOP [Good, Loop]^
-QRL\? |S1000 RPRT [Are you busy\?, Report]^
-GD |S1000 WIRE [Good, Wire]^
-WATT |S1000 GB [Watt, Goodbye]^
-QRZ\? |S1000 359 [Who is calling\?, 3 5 9]^
-589 |S1000 QRZ\? [5 8 9, Who is calling\?]^
-NW |S1000 579 [Now, 5 7 9]^
-359 |S1000 579 [3 5 9, 5 7 9]^
-QRZ\? |S1000 GN [Who is calling\?, Good night]^
-589 |S1000 INFO [5 8 9, Information]^
-589 |S1000 GB [5 8 9, Goodbye]^
-QRZ\? |S1000 GD [Who is calling\?, Good]^
-RPT |S1000 SSB [Report, Single Side Band]^
-NW |S1000 SWR [Now, S W R]^
-QRZ\? |S1000 OCF [Who is calling\?, Off-center fed dipole]^
-88 |S1000 OCF [88, Off-center fed dipole]^
-CW |S1000 88 [C W, 88]^
-NW |S1000 589 [Now, 5 8 9]^
-GD |S1000 GN [Good, Good night]^
-479 |S1000 72 [4 7 9, 72]^
-QRL\? |S1000 SSB [Are you busy\?, Single Side Band]^
-GB |S1000 WIRE [Goodbye, Wire]^
-479 |S1000 SWR [4 7 9, S W R]^
-QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
-QRX |S1000 SWR [Standby, S W R]^
-RPT |S1000 GB [Report, Goodbye]^
-LOOP |S1000 CW [Loop, C W]^
-RPRT |S1000 QRX [Report, Standby]^
-1TT |S1000 589 [100, 5 8 9]^
-GN |S1000 72 [Good night, 72]^
-LOOP |S1000 QRZ\? [Loop, Who is calling\?]^
-WIRE |S1000 INFO [Wire, Information]^
-88 |S1000 359 [88, 3 5 9]^
-479 |S1000 RPT [4 7 9, Report]^
-589 |S1000 SWR [5 8 9, S W R]^
-1TT |S1000 RPT [100, Report]^
-359 |S1000 489 [3 5 9, 4 8 9]^
-QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
-RPT |S1000 479 [Report, 4 7 9]^
-OCF |S1000 SWR [Off-center fed dipole, S W R]^
-GN |S1000 359 [Good night, 3 5 9]^
-GD |S1000 RPRT [Good, Report]^
-1TT |S1000 489 [100, 4 8 9]^
-GD |S1000 GN [Good, Good night]^
-INFO |S1000 WIRE [Information, Wire]^
-INFO |S1000 1TT [Information, 100]^
-SSB |S1000 479 [Single Side Band, 4 7 9]^
-579 |S1000 QRZ\? [5 7 9, Who is calling\?]^
-OCF |S1000 589 [Off-center fed dipole, 5 8 9]^
-88 |S1000 72 [88, 72]^
-LOOP |S1000 1TT [Loop, 100]^
-88 |S1000 OCF [88, Off-center fed dipole]^
-72 |S1000 WATT [72, Watt]^
-GN |S1000 QRX [Good night, Standby]^
-GB |S1000 OCF [Goodbye, Off-center fed dipole]^
-579 |S1000 RPT [5 7 9, Report]^
-LOOP |S1000 WIRE [Loop, Wire]^
-RPRT |S1000 GN [Report, Good night]^
-GD |S1000 RPT [Good, Report]^
-479 |S1000 RPRT [4 7 9, Report]^
-INFO |S1000 589 [Information, 5 8 9]^
-QRX |S1000 SWR [Standby, S W R]^
-88 |S1000 72 [88, 72]^
-INFO |S1000 579 [Information, 5 7 9]^
-QRL\? |S1000 489 [Are you busy\?, 4 8 9]^
-NW |S1000 WIRE [Now, Wire]^
-QRZ\? |S1000 579 [Who is calling\?, 5 7 9]^
-479 |S1000 SWR [4 7 9, S W R]^
-QRL\? |S1000 GN [Are you busy\?, Good night]^
-489 |S1000 SWR [4 8 9, S W R]^
-589 |S1000 WIRE [5 8 9, Wire]^
-1TT |S1000 SWR [100, S W R]^
-QRL\? |S1000 GB [Are you busy\?, Goodbye]^
-1TT |S1000 579 [100, 5 7 9]^
-1TT |S1000 WIRE [100, Wire]^
-WATT |S1000 SWR [Watt, S W R]^
-489 |S1000 72 [4 8 9, 72]^
-WATT |S1000 GD [Watt, Good]^
-SSB |S1000 LOOP [Single Side Band, Loop]^
-88 |S1000 489 [88, 4 8 9]^
-GD |S1000 QRX [Good, Standby]^
-WATT |S1000 RPRT [Watt, Report]^
-INFO |S1000 72 [Information, 72]^
-LOOP |S1000 QRL\? [Loop, Are you busy\?]^
-589 |S1000 GN [5 8 9, Good night]^
-OCF |S1000 GB [Off-center fed dipole, Goodbye]^
-GD |S1000 OCF [Good, Off-center fed dipole]^
-88 |S1000 359 [88, 3 5 9]^
-SWR |S1000 CW [S W R, C W]^
-579 |S1000 88 [5 7 9, 88]^
-CW |S1000 OCF [C W, Off-center fed dipole]^
-1TT |S1000 GN [100, Good night]^
-GD |S1000 589 [Good, 5 8 9]^
-WIRE |S1000 579 [Wire, 5 7 9]^
-GD |S1000 LOOP [Good, Loop]^
-489 |S1000 RPRT [4 8 9, Report]^
-579 |S1000 QRX [5 7 9, Standby]^
-RPRT |S1000 LOOP [Report, Loop]^
-SWR |S1000 1TT [S W R, 100]^
-WATT |S1000 589 [Watt, 5 8 9]^
-1TT |S1000 589 [100, 5 8 9]^
-359 |S1000 RPRT [3 5 9, Report]^
-359 |S1000 NW [3 5 9, Now]^
-SSB |S1000 GD [Single Side Band, Good]^
-OCF |S1000 579 [Off-center fed dipole, 5 7 9]^
-WATT |S1000 QRZ\? [Watt, Who is calling\?]^
-GN |S1000 INFO [Good night, Information]^
-QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
-NW |S1000 SWR [Now, S W R]^
-WATT |S1000 INFO [Watt, Information]^
-WIRE |S1000 359 [Wire, 3 5 9]^
-GN |S1000 NW [Good night, Now]^
-1TT |S1000 359 [100, 3 5 9]^
-QRL\? |S1000 QRZ\? [Are you busy\?, Who is calling\?]^
-QRL\? |S1000 359 [Are you busy\?, 3 5 9]^
-589 |S1000 GN [5 8 9, Good night]^
-489 |S1000 88 [4 8 9, 88]^
-NW |S1000 OCF [Now, Off-center fed dipole]^
-589 |S1000 QRX [5 8 9, Standby]^
-489 |S1000 359 [4 8 9, 3 5 9]^
-SSB |S1000 RPRT [Single Side Band, Report]^
-359 |S1000 OCF [3 5 9, Off-center fed dipole]^
-88 |S1000 SSB [88, Single Side Band]^
-LOOP |S1000 INFO [Loop, Information]^
-WIRE |S1000 SSB [Wire, Single Side Band]^
-1TT |S1000 SSB [100, Single Side Band]^
-OCF |S1000 QRL\? [Off-center fed dipole, Are you busy\?]^
-72 |S1000 OCF [72, Off-center fed dipole]^
-RPT |S1000 OCF [Report, Off-center fed dipole]^
-479 |S1000 RPT [4 7 9, Report]^
-88 |S1000 SSB [88, Single Side Band]^
-WATT |S1000 SWR [Watt, S W R]^
-CW |S1000 72 [C W, 72]^
-CW |S1000 QRL\? [C W, Are you busy\?]^
-GD |S1000 CW [Good, C W]^
-479 |S1000 INFO [4 7 9, Information]^
-SSB |S1000 LOOP [Single Side Band, Loop]^
-72 |S1000 OCF [72, Off-center fed dipole]^
-SSB |S1000 QRL\? [Single Side Band, Are you busy\?]^
-359 |S1000 SWR [3 5 9, S W R]^
-WIRE |S1000 88 [Wire, 88]^
-GN |S1000 SWR [Good night, S W R]^
-489 |S1000 88 [4 8 9, 88]^
-QRL\? |S1000 GB [Are you busy\?, Goodbye]^
-72 |S1000 QRX [72, Standby]^
-WATT |S1000 GD [Watt, Good]^
-GB |S1000 359 [Goodbye, 3 5 9]^
-QRX |S1000 GN [Standby, Good night]^
+489 |S1000 SSB [4 8 9, Single Side Band]^
+RPT |S1000 1TT [Report, 100]^
+RPT |S1000 589 [Report, 5 8 9]^
 SWR |S1000 GD [S W R, Good]^
-QRL\? |S1000 479 [Are you busy\?, 4 7 9]^
-RPT |S1000 GD [Report, Good]^
-QRZ\? |S1000 479 [Who is calling\?, 4 7 9]^
-WIRE |S1000 QRL\? [Wire, Are you busy\?]^
-WATT |S1000 359 [Watt, 3 5 9]^
-QRZ\? |S1000 489 [Who is calling\?, 4 8 9]^
+SWR |S1000 GD [S W R, Good]^
+CW |S1000 489 [C W, 4 8 9]^
+CW |S1000 579 [C W, 5 7 9]^
+SWR |S1000 WIRE [S W R, Wire]^
+CW |S1000 1TT [C W, 100]^
+SSB |S1000 72 [Single Side Band, 72]^
+OCF |S1000 GN [Off-center fed dipole, Good night]^
+GB |S1000 RPT [Goodbye, Report]^
+72 |S1000 SSB [72, Single Side Band]^
+WATT |S1000 CW [Watt, C W]^
+489 |S1000 SWR [4 8 9, S W R]^
+579 |S1000 INFO [5 7 9, Information]^
+CW |S1000 GD [C W, Good]^
+GN |S1000 QRX [Good night, Q R X]^
+489 |S1000 GD [4 8 9, Good]^
+88 |S1000 1TT [88, 100]^
+489 |S1000 WIRE [4 8 9, Wire]^
+RPRT |S1000 GD [Report, Good]^
+479 |S1000 INFO [4 7 9, Information]^
+RPT |S1000 GB [Report, Goodbye]^
+489 |S1000 RPRT [4 8 9, Report]^
+OCF |S1000 INFO [Off-center fed dipole, Information]^
+WIRE |S1000 88 [Wire, 88]^
+GB |S1000 CW [Goodbye, C W]^
+359 |S1000 589 [3 5 9, 5 8 9]^
+489 |S1000 INFO [4 8 9, Information]^
+WIRE |S1000 WATT [Wire, Watt]^
+359 |S1000 AGE [3 5 9, Age]^
+72 |S1000 RPT [72, Report]^
+88 |S1000 359 [88, 3 5 9]^
+WATT |S1000 RPT [Watt, Report]^
+72 |S1000 489 [72, 4 8 9]^
+SSB |S1000 589 [Single Side Band, 5 8 9]^
+RPT |S1000 SSB [Report, Single Side Band]^
+479 |S1000 NW [4 7 9, Now]^
+359 |S1000 589 [3 5 9, 5 8 9]^
+GD |S1000 GN [Good, Good night]^
+GB |S1000 QRT [Goodbye, Q R T]^
+489 |S1000 479 [4 8 9, 4 7 9]^
+LOOP |S1000 88 [Loop, 88]^
+489 |S1000 GD [4 8 9, Good]^
+QRX |S1000 88 [Q R X, 88]^
+QRT |S1000 GN [Q R T, Good night]^
+AGE |S1000 72 [Age, 72]^
+GN |S1000 WIRE [Good night, Wire]^
+NW |S1000 579 [Now, 5 7 9]^
+OCF |S1000 QRT [Off-center fed dipole, Q R T]^
+72 |S1000 RPRT [72, Report]^
+SWR |S1000 QRT [S W R, Q R T]^
+489 |S1000 359 [4 8 9, 3 5 9]^
+AGE |S1000 489 [Age, 4 8 9]^
+QRX |S1000 NW [Q R X, Now]^
+SWR |S1000 GN [S W R, Good night]^
+LOOP |S1000 OCF [Loop, Off-center fed dipole]^
+579 |S1000 RPRT [5 7 9, Report]^
+359 |S1000 88 [3 5 9, 88]^
+INFO |S1000 QRX [Information, Q R X]^
+GD |S1000 OCF [Good, Off-center fed dipole]^
+589 |S1000 WATT [5 8 9, Watt]^
+GB |S1000 GN [Goodbye, Good night]^
+WATT |S1000 WIRE [Watt, Wire]^
+GN |S1000 INFO [Good night, Information]^
+QRX |S1000 INFO [Q R X, Information]^
+GB |S1000 QRX [Goodbye, Q R X]^
+GD |S1000 WIRE [Good, Wire]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+QRT |S1000 AGE [Q R T, Age]^
+589 |S1000 SWR [5 8 9, S W R]^
+GD |S1000 INFO [Good, Information]^
+SSB |S1000 NW [Single Side Band, Now]^
+INFO |S1000 NW [Information, Now]^
+SWR |S1000 QRX [S W R, Q R X]^
+88 |S1000 CW [88, C W]^
+NW |S1000 589 [Now, 5 8 9]^
+LOOP |S1000 WIRE [Loop, Wire]^
+479 |S1000 NW [4 7 9, Now]^
+479 |S1000 88 [4 7 9, 88]^
+589 |S1000 GN [5 8 9, Good night]^
+SWR |S1000 LOOP [S W R, Loop]^
+359 |S1000 SSB [3 5 9, Single Side Band]^
+AGE |S1000 RPT [Age, Report]^
+QRX |S1000 GB [Q R X, Goodbye]^
+GD |S1000 SWR [Good, S W R]^
+479 |S1000 GN [4 7 9, Good night]^
+589 |S1000 SWR [5 8 9, S W R]^
+479 |S1000 WATT [4 7 9, Watt]^
+579 |S1000 1TT [5 7 9, 100]^
+QRX |S1000 479 [Q R X, 4 7 9]^
+NW |S1000 WATT [Now, Watt]^
+GN |S1000 INFO [Good night, Information]^
+GD |S1000 72 [Good, 72]^
+88 |S1000 QRT [88, Q R T]^
+SSB |S1000 GN [Single Side Band, Good night]^
+359 |S1000 OCF [3 5 9, Off-center fed dipole]^
+GD |S1000 589 [Good, 5 8 9]^
+479 |S1000 INFO [4 7 9, Information]^
+589 |S1000 NW [5 8 9, Now]^
+88 |S1000 RPT [88, Report]^
+1TT |S1000 LOOP [100, Loop]^
+WATT |S1000 CW [Watt, C W]^
+SWR |S1000 CW [S W R, C W]^
+88 |S1000 579 [88, 5 7 9]^
+WATT |S1000 589 [Watt, 5 8 9]^
+GD |S1000 AGE [Good, Age]^
+589 |S1000 CW [5 8 9, C W]^
+72 |S1000 579 [72, 5 7 9]^
+GN |S1000 359 [Good night, 3 5 9]^
+QRT |S1000 72 [Q R T, 72]^
+589 |S1000 CW [5 8 9, C W]^
+579 |S1000 SWR [5 7 9, S W R]^
+GN |S1000 AGE [Good night, Age]^
+QRT |S1000 AGE [Q R T, Age]^
+WIRE |S1000 CW [Wire, C W]^
+RPT |S1000 QRT [Report, Q R T]^
+OCF |S1000 GD [Off-center fed dipole, Good]^
+GB |S1000 QRX [Goodbye, Q R X]^
+589 |S1000 72 [5 8 9, 72]^
+88 |S1000 589 [88, 5 8 9]^
+GD |S1000 RPRT [Good, Report]^
+NW |S1000 WIRE [Now, Wire]^
+88 |S1000 359 [88, 3 5 9]^
+QRX |S1000 OCF [Q R X, Off-center fed dipole]^
+SSB |S1000 AGE [Single Side Band, Age]^
+88 |S1000 1TT [88, 100]^
+GB |S1000 LOOP [Goodbye, Loop]^
+489 |S1000 OCF [4 8 9, Off-center fed dipole]^
+489 |S1000 INFO [4 8 9, Information]^
+GN |S1000 579 [Good night, 5 7 9]^
+GB |S1000 RPRT [Goodbye, Report]^
+QRX |S1000 1TT [Q R X, 100]^
+LOOP |S1000 INFO [Loop, Information]^
+NW |S1000 WIRE [Now, Wire]^
+INFO |S1000 72 [Information, 72]^
+WATT |S1000 88 [Watt, 88]^
+INFO |S1000 QRT [Information, Q R T]^
+GD |S1000 579 [Good, 5 7 9]^
+AGE |S1000 479 [Age, 4 7 9]^
+589 |S1000 CW [5 8 9, C W]^
+OCF |S1000 479 [Off-center fed dipole, 4 7 9]^
+589 |S1000 RPRT [5 8 9, Report]^
+GN |S1000 88 [Good night, 88]^
+CW |S1000 INFO [C W, Information]^
+589 |S1000 QRT [5 8 9, Q R T]^
+359 |S1000 QRX [3 5 9, Q R X]^
+GN |S1000 WIRE [Good night, Wire]^
+589 |S1000 479 [5 8 9, 4 7 9]^
+489 |S1000 INFO [4 8 9, Information]^
+NW |S1000 359 [Now, 3 5 9]^
+GB |S1000 72 [Goodbye, 72]^
+NW |S1000 CW [Now, C W]^
+WATT |S1000 RPT [Watt, Report]^
+479 |S1000 QRT [4 7 9, Q R T]^
+359 |S1000 WATT [3 5 9, Watt]^
+1TT |S1000 GD [100, Good]^
+INFO |S1000 72 [Information, 72]^
+WATT |S1000 QRX [Watt, Q R X]^
+1TT |S1000 WIRE [100, Wire]^
+589 |S1000 CW [5 8 9, C W]^
+359 |S1000 CW [3 5 9, C W]^
+LOOP |S1000 1TT [Loop, 100]^
+WATT |S1000 GD [Watt, Good]^
+579 |S1000 LOOP [5 7 9, Loop]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+SSB |S1000 CW [Single Side Band, C W]^
 RPRT |S1000 RPT [Report, Report]^
-589 |S1000 QRL\? [5 8 9, Are you busy\?]^
+WATT |S1000 88 [Watt, 88]^
+QRX |S1000 88 [Q R X, 88]^
+SSB |S1000 SWR [Single Side Band, S W R]^
+RPT |S1000 72 [Report, 72]^
+88 |S1000 WIRE [88, Wire]^
+GN |S1000 489 [Good night, 4 8 9]^
+SSB |S1000 QRT [Single Side Band, Q R T]^
+AGE |S1000 359 [Age, 3 5 9]^
+QRT |S1000 AGE [Q R T, Age]^
+GD |S1000 359 [Good, 3 5 9]^
+479 |S1000 88 [4 7 9, 88]^
+WIRE |S1000 72 [Wire, 72]^
+589 |S1000 579 [5 8 9, 5 7 9]^
+WATT |S1000 RPRT [Watt, Report]^
+479 |S1000 GB [4 7 9, Goodbye]^
+479 |S1000 RPRT [4 7 9, Report]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+LOOP |S1000 QRX [Loop, Q R X]^
+GB |S1000 1TT [Goodbye, 100]^
+RPRT |S1000 WATT [Report, Watt]^
+479 |S1000 INFO [4 7 9, Information]^
+RPRT |S1000 OCF [Report, Off-center fed dipole]^
+1TT |S1000 AGE [100, Age]^
+OCF |S1000 GD [Off-center fed dipole, Good]^
+479 |S1000 CW [4 7 9, C W]^
+GB |S1000 WATT [Goodbye, Watt]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+SSB |S1000 579 [Single Side Band, 5 7 9]^
+SSB |S1000 GN [Single Side Band, Good night]^
+OCF |S1000 QRT [Off-center fed dipole, Q R T]^
+CW |S1000 QRX [C W, Q R X]^
+359 |S1000 1TT [3 5 9, 100]^
+QRT |S1000 589 [Q R T, 5 8 9]^
+579 |S1000 NW [5 7 9, Now]^
+LOOP |S1000 GN [Loop, Good night]^
+WIRE |S1000 CW [Wire, C W]^
+NW |S1000 72 [Now, 72]^
+QRT |S1000 GB [Q R T, Goodbye]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+SSB |S1000 GN [Single Side Band, Good night]^
+WIRE |S1000 INFO [Wire, Information]^
+SSB |S1000 359 [Single Side Band, 3 5 9]^
+WATT |S1000 579 [Watt, 5 7 9]^
+CW |S1000 579 [C W, 5 7 9]^
+RPRT |S1000 GN [Report, Good night]^
+AGE |S1000 RPT [Age, Report]^
+SWR |S1000 CW [S W R, C W]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+NW |S1000 QRX [Now, Q R X]^
+GN |S1000 72 [Good night, 72]^
+INFO |S1000 579 [Information, 5 7 9]^
+INFO |S1000 LOOP [Information, Loop]^
+SSB |S1000 72 [Single Side Band, 72]^
+RPRT |S1000 QRX [Report, Q R X]^
+GD |S1000 589 [Good, 5 8 9]^
+LOOP |S1000 1TT [Loop, 100]^
+579 |S1000 GN [5 7 9, Good night]^
+INFO |S1000 359 [Information, 3 5 9]^
+SSB |S1000 1TT [Single Side Band, 100]^
+WIRE |S1000 1TT [Wire, 100]^
+589 |S1000 489 [5 8 9, 4 8 9]^
+SSB |S1000 NW [Single Side Band, Now]^
+OCF |S1000 LOOP [Off-center fed dipole, Loop]^
+OCF |S1000 359 [Off-center fed dipole, 3 5 9]^
+RPT |S1000 589 [Report, 5 8 9]^
+72 |S1000 359 [72, 3 5 9]^
+QRT |S1000 OCF [Q R T, Off-center fed dipole]^
+WIRE |S1000 489 [Wire, 4 8 9]^
+GD |S1000 CW [Good, C W]^
+489 |S1000 LOOP [4 8 9, Loop]^
+1TT |S1000 479 [100, 4 7 9]^
+WATT |S1000 NW [Watt, Now]^
+LOOP |S1000 WIRE [Loop, Wire]^
+SWR |S1000 WIRE [S W R, Wire]^
+RPT |S1000 AGE [Report, Age]^
+RPT |S1000 LOOP [Report, Loop]^
+QRX |S1000 489 [Q R X, 4 8 9]^
+479 |S1000 AGE [4 7 9, Age]^
+479 |S1000 SWR [4 7 9, S W R]^
+WATT |S1000 589 [Watt, 5 8 9]^
+WIRE |S1000 LOOP [Wire, Loop]^
+GD |S1000 LOOP [Good, Loop]^
+RPRT |S1000 AGE [Report, Age]^
+72 |S1000 SSB [72, Single Side Band]^
+RPT |S1000 72 [Report, 72]^
+88 |S1000 GD [88, Good]^
+NW |S1000 SWR [Now, S W R]^
+RPT |S1000 479 [Report, 4 7 9]^
+489 |S1000 SSB [4 8 9, Single Side Band]^
+489 |S1000 GD [4 8 9, Good]^
+589 |S1000 88 [5 8 9, 88]^
+NW |S1000 589 [Now, 5 8 9]^
+WIRE |S1000 LOOP [Wire, Loop]^
+OCF |S1000 589 [Off-center fed dipole, 5 8 9]^
+1TT |S1000 88 [100, 88]^
+RPRT |S1000 INFO [Report, Information]^
+88 |S1000 GD [88, Good]^
+72 |S1000 WATT [72, Watt]^
+489 |S1000 RPRT [4 8 9, Report]^
+QRX |S1000 RPT [Q R X, Report]^
+SWR |S1000 72 [S W R, 72]^
+CW |S1000 WATT [C W, Watt]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+GD |S1000 SSB [Good, Single Side Band]^
+INFO |S1000 489 [Information, 4 8 9]^
+479 |S1000 RPT [4 7 9, Report]^
+SWR |S1000 INFO [S W R, Information]^
+WIRE |S1000 NW [Wire, Now]^
+LOOP |S1000 GN [Loop, Good night]^
+479 |S1000 NW [4 7 9, Now]^
+SSB |S1000 72 [Single Side Band, 72]^
+QRX |S1000 GD [Q R X, Good]^
+QRX |S1000 WIRE [Q R X, Wire]^
+LOOP |S1000 SSB [Loop, Single Side Band]^
+CW |S1000 72 [C W, 72]^
+579 |S1000 RPT [5 7 9, Report]^
+589 |S1000 579 [5 8 9, 5 7 9]^
+88 |S1000 RPT [88, Report]^
+GD |S1000 359 [Good, 3 5 9]^
+SSB |S1000 1TT [Single Side Band, 100]^
+SSB |S1000 CW [Single Side Band, C W]^
+QRT |S1000 489 [Q R T, 4 8 9]^
+WIRE |S1000 RPT [Wire, Report]^
+88 |S1000 589 [88, 5 8 9]^
+CW |S1000 579 [C W, 5 7 9]^
+QRX |S1000 SSB [Q R X, Single Side Band]^
+GN |S1000 QRT [Good night, Q R T]^
+CW |S1000 QRX [C W, Q R X]^
+NW |S1000 RPRT [Now, Report]^
+1TT |S1000 CW [100, C W]^
+579 |S1000 WIRE [5 7 9, Wire]^
+GD |S1000 SWR [Good, S W R]^
+589 |S1000 1TT [5 8 9, 100]^
+SWR |S1000 WIRE [S W R, Wire]^
+INFO |S1000 579 [Information, 5 7 9]^
+QRT |S1000 SSB [Q R T, Single Side Band]^
+589 |S1000 479 [5 8 9, 4 7 9]^
+GD |S1000 GN [Good, Good night]^
+88 |S1000 479 [88, 4 7 9]^
+GD |S1000 359 [Good, 3 5 9]^
+GN |S1000 GB [Good night, Goodbye]^
+88 |S1000 GN [88, Good night]^
+OCF |S1000 CW [Off-center fed dipole, C W]^
+QRX |S1000 GD [Q R X, Good]^
+WIRE |S1000 GD [Wire, Good]^
+479 |S1000 SWR [4 7 9, S W R]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+GD |S1000 RPT [Good, Report]^
+88 |S1000 NW [88, Now]^
+72 |S1000 WATT [72, Watt]^
+AGE |S1000 WIRE [Age, Wire]^
+AGE |S1000 GB [Age, Goodbye]^
+AGE |S1000 WIRE [Age, Wire]^
+LOOP |S1000 AGE [Loop, Age]^
+WATT |S1000 359 [Watt, 3 5 9]^
+NW |S1000 CW [Now, C W]^
+359 |S1000 QRX [3 5 9, Q R X]^
+CW |S1000 GN [C W, Good night]^
+579 |S1000 WATT [5 7 9, Watt]^
+INFO |S1000 72 [Information, 72]^
+SSB |S1000 CW [Single Side Band, C W]^
+QRT |S1000 WATT [Q R T, Watt]^
+NW |S1000 GB [Now, Goodbye]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+GD |S1000 INFO [Good, Information]^
+489 |S1000 NW [4 8 9, Now]^
+88 |S1000 GB [88, Goodbye]^
+WATT |S1000 1TT [Watt, 100]^
+SSB |S1000 AGE [Single Side Band, Age]^
+GN |S1000 GB [Good night, Goodbye]^
+SWR |S1000 1TT [S W R, 100]^
+INFO |S1000 RPT [Information, Report]^
+AGE |S1000 RPT [Age, Report]^
+SSB |S1000 359 [Single Side Band, 3 5 9]^
+579 |S1000 479 [5 7 9, 4 7 9]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+GN |S1000 WIRE [Good night, Wire]^
+CW |S1000 GN [C W, Good night]^
+RPRT |S1000 479 [Report, 4 7 9]^
+GB |S1000 88 [Goodbye, 88]^
+1TT |S1000 LOOP [100, Loop]^
+489 |S1000 WIRE [4 8 9, Wire]^
+359 |S1000 WATT [3 5 9, Watt]^
+SSB |S1000 489 [Single Side Band, 4 8 9]^
+AGE |S1000 479 [Age, 4 7 9]^
+GD |S1000 LOOP [Good, Loop]^
+RPRT |S1000 CW [Report, C W]^
+AGE |S1000 WATT [Age, Watt]^
+1TT |S1000 579 [100, 5 7 9]^
+1TT |S1000 AGE [100, Age]^
+1TT |S1000 WIRE [100, Wire]^
+SWR |S1000 88 [S W R, 88]^
+RPT |S1000 WATT [Report, Watt]^
+WIRE |S1000 NW [Wire, Now]^
+72 |S1000 GD [72, Good]^
+72 |S1000 GD [72, Good]^
+WIRE |S1000 NW [Wire, Now]^
+88 |S1000 GD [88, Good]^
+OCF |S1000 589 [Off-center fed dipole, 5 8 9]^
+1TT |S1000 579 [100, 5 7 9]^
+RPRT |S1000 SSB [Report, Single Side Band]^
+WIRE |S1000 OCF [Wire, Off-center fed dipole]^
+88 |S1000 72 [88, 72]^
+GN |S1000 479 [Good night, 4 7 9]^
+489 |S1000 359 [4 8 9, 3 5 9]^
+GB |S1000 88 [Goodbye, 88]^
+LOOP |S1000 72 [Loop, 72]^
+GD |S1000 SWR [Good, S W R]^
+479 |S1000 RPT [4 7 9, Report]^
+WATT |S1000 359 [Watt, 3 5 9]^
+579 |S1000 QRX [5 7 9, Q R X]^
+SSB |S1000 QRX [Single Side Band, Q R X]^
+589 |S1000 SSB [5 8 9, Single Side Band]^
+GB |S1000 CW [Goodbye, C W]^
+SWR |S1000 QRT [S W R, Q R T]^
+INFO |S1000 GB [Information, Goodbye]^
+INFO |S1000 479 [Information, 4 7 9]^
+GB |S1000 72 [Goodbye, 72]^
+LOOP |S1000 WATT [Loop, Watt]^
+GD |S1000 QRX [Good, Q R X]^
+LOOP |S1000 1TT [Loop, 100]^
+NW |S1000 1TT [Now, 100]^
+SSB |S1000 QRX [Single Side Band, Q R X]^
+QRT |S1000 NW [Q R T, Now]^
+CW |S1000 88 [C W, 88]^
+LOOP |S1000 CW [Loop, C W]^
+QRX |S1000 359 [Q R X, 3 5 9]^
+WATT |S1000 589 [Watt, 5 8 9]^
+GB |S1000 SSB [Goodbye, Single Side Band]^
+589 |S1000 88 [5 8 9, 88]^
+CW |S1000 489 [C W, 4 8 9]^
+QRT |S1000 CW [Q R T, C W]^
+479 |S1000 CW [4 7 9, C W]^
+INFO |S1000 479 [Information, 4 7 9]^
+1TT |S1000 GN [100, Good night]^
+GD |S1000 SSB [Good, Single Side Band]^
+1TT |S1000 AGE [100, Age]^
+88 |S1000 CW [88, C W]^
+SWR |S1000 579 [S W R, 5 7 9]^
+359 |S1000 INFO [3 5 9, Information]^
+WATT |S1000 OCF [Watt, Off-center fed dipole]^
+INFO |S1000 88 [Information, 88]^
+OCF |S1000 WATT [Off-center fed dipole, Watt]^
+OCF |S1000 RPT [Off-center fed dipole, Report]^
+GD |S1000 579 [Good, 5 7 9]^
+WIRE |S1000 SSB [Wire, Single Side Band]^
+GD |S1000 LOOP [Good, Loop]^
+GN |S1000 RPT [Good night, Report]^
+OCF |S1000 72 [Off-center fed dipole, 72]^
+NW |S1000 RPRT [Now, Report]^
+NW |S1000 QRX [Now, Q R X]^
+RPT |S1000 AGE [Report, Age]^
+INFO |S1000 RPRT [Information, Report]^
+AGE |S1000 72 [Age, 72]^
+RPRT |S1000 589 [Report, 5 8 9]^
+359 |S1000 CW [3 5 9, C W]^
+359 |S1000 589 [3 5 9, 5 8 9]^
+OCF |S1000 CW [Off-center fed dipole, C W]^
+GD |S1000 GN [Good, Good night]^
+GB |S1000 CW [Goodbye, C W]^
+GB |S1000 WATT [Goodbye, Watt]^
+GD |S1000 SWR [Good, S W R]^
+INFO |S1000 72 [Information, 72]^
+WATT |S1000 AGE [Watt, Age]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+RPRT |S1000 WIRE [Report, Wire]^
+AGE |S1000 479 [Age, 4 7 9]^
+72 |S1000 NW [72, Now]^
+GB |S1000 489 [Goodbye, 4 8 9]^
+579 |S1000 489 [5 7 9, 4 8 9]^
+88 |S1000 CW [88, C W]^
+88 |S1000 AGE [88, Age]^
+579 |S1000 SSB [5 7 9, Single Side Band]^
+479 |S1000 NW [4 7 9, Now]^
+72 |S1000 489 [72, 4 8 9]^
+589 |S1000 WATT [5 8 9, Watt]^
+WIRE |S1000 359 [Wire, 3 5 9]^
+QRX |S1000 QRT [Q R X, Q R T]^
+GN |S1000 589 [Good night, 5 8 9]^
+WIRE |S1000 CW [Wire, C W]^
+359 |S1000 AGE [3 5 9, Age]^
+CW |S1000 489 [C W, 4 8 9]^
+NW |S1000 SWR [Now, S W R]^
+RPRT |S1000 SWR [Report, S W R]^
+AGE |S1000 LOOP [Age, Loop]^
+489 |S1000 GD [4 8 9, Good]^
+359 |S1000 OCF [3 5 9, Off-center fed dipole]^
+359 |S1000 88 [3 5 9, 88]^
+GD |S1000 SWR [Good, S W R]^
+LOOP |S1000 359 [Loop, 3 5 9]^
+GN |S1000 88 [Good night, 88]^
+RPT |S1000 GB [Report, Goodbye]^
+SSB |S1000 1TT [Single Side Band, 100]^
+479 |S1000 LOOP [4 7 9, Loop]^
+QRT |S1000 589 [Q R T, 5 8 9]^
+GD |S1000 NW [Good, Now]^
+GN |S1000 88 [Good night, 88]^
+RPT |S1000 WIRE [Report, Wire]^
+QRT |S1000 88 [Q R T, 88]^
+QRT |S1000 GN [Q R T, Good night]^
+SSB |S1000 AGE [Single Side Band, Age]^
+RPT |S1000 CW [Report, C W]^
+72 |S1000 OCF [72, Off-center fed dipole]^
+88 |S1000 INFO [88, Information]^
+72 |S1000 WIRE [72, Wire]^
+OCF |S1000 GN [Off-center fed dipole, Good night]^
+479 |S1000 QRX [4 7 9, Q R X]^
+AGE |S1000 INFO [Age, Information]^
+QRT |S1000 72 [Q R T, 72]^
+579 |S1000 1TT [5 7 9, 100]^
+QRX |S1000 SSB [Q R X, Single Side Band]^
+AGE |S1000 489 [Age, 4 8 9]^
+AGE |S1000 RPT [Age, Report]^
+LOOP |S1000 359 [Loop, 3 5 9]^
+479 |S1000 CW [4 7 9, C W]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+579 |S1000 479 [5 7 9, 4 7 9]^
+CW |S1000 GD [C W, Good]^
+72 |S1000 RPRT [72, Report]^
+72 |S1000 GD [72, Good]^
+SSB |S1000 GN [Single Side Band, Good night]^
+489 |S1000 589 [4 8 9, 5 8 9]^
+WIRE |S1000 RPRT [Wire, Report]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+88 |S1000 WATT [88, Watt]^
+NW |S1000 AGE [Now, Age]^
+RPT |S1000 QRT [Report, Q R T]^
+479 |S1000 RPT [4 7 9, Report]^
+INFO |S1000 WATT [Information, Watt]^
+359 |S1000 RPT [3 5 9, Report]^
+QRT |S1000 1TT [Q R T, 100]^
+479 |S1000 579 [4 7 9, 5 7 9]^
+LOOP |S1000 1TT [Loop, 100]^
+WATT |S1000 359 [Watt, 3 5 9]^
+GB |S1000 SSB [Goodbye, Single Side Band]^
+WIRE |S1000 CW [Wire, C W]^
+GN |S1000 LOOP [Good night, Loop]^
+WATT |S1000 QRX [Watt, Q R X]^
+RPT |S1000 589 [Report, 5 8 9]^
+WIRE |S1000 LOOP [Wire, Loop]^
+579 |S1000 489 [5 7 9, 4 8 9]^
+88 |S1000 SSB [88, Single Side Band]^
+1TT |S1000 359 [100, 3 5 9]^
+GB |S1000 LOOP [Goodbye, Loop]^
+QRT |S1000 GN [Q R T, Good night]^
+GB |S1000 QRT [Goodbye, Q R T]^
+SWR |S1000 NW [S W R, Now]^
+WIRE |S1000 WATT [Wire, Watt]^
+OCF |S1000 359 [Off-center fed dipole, 3 5 9]^
+1TT |S1000 589 [100, 5 8 9]^
+RPT |S1000 479 [Report, 4 7 9]^
+AGE |S1000 WIRE [Age, Wire]^
+489 |S1000 WIRE [4 8 9, Wire]^
+AGE |S1000 CW [Age, C W]^
+GB |S1000 WATT [Goodbye, Watt]^
+QRX |S1000 1TT [Q R X, 100]^
+SSB |S1000 RPRT [Single Side Band, Report]^
+SSB |S1000 AGE [Single Side Band, Age]^
+WATT |S1000 SWR [Watt, S W R]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+RPRT |S1000 479 [Report, 4 7 9]^
+AGE |S1000 RPRT [Age, Report]^
+GN |S1000 88 [Good night, 88]^
+GD |S1000 QRT [Good, Q R T]^
+72 |S1000 WATT [72, Watt]^
+LOOP |S1000 QRT [Loop, Q R T]^
+1TT |S1000 GN [100, Good night]^
+QRT |S1000 WATT [Q R T, Watt]^
+88 |S1000 1TT [88, 100]^
+72 |S1000 589 [72, 5 8 9]^
+72 |S1000 489 [72, 4 8 9]^
+QRT |S1000 479 [Q R T, 4 7 9]^
+GD |S1000 88 [Good, 88]^
+WATT |S1000 SWR [Watt, S W R]^
+AGE |S1000 WATT [Age, Watt]^
+QRX |S1000 GD [Q R X, Good]^
+OCF |S1000 NW [Off-center fed dipole, Now]^
+359 |S1000 AGE [3 5 9, Age]^
+LOOP |S1000 NW [Loop, Now]^
+RPT |S1000 SSB [Report, Single Side Band]^
+OCF |S1000 WIRE [Off-center fed dipole, Wire]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+1TT |S1000 WIRE [100, Wire]^
+QRX |S1000 579 [Q R X, 5 7 9]^
+RPRT |S1000 OCF [Report, Off-center fed dipole]^
+72 |S1000 SWR [72, S W R]^
+479 |S1000 489 [4 7 9, 4 8 9]^
+SSB |S1000 GN [Single Side Band, Good night]^
+589 |S1000 SSB [5 8 9, Single Side Band]^
+LOOP |S1000 WATT [Loop, Watt]^
+NW |S1000 RPRT [Now, Report]^
+SWR |S1000 WIRE [S W R, Wire]^
+LOOP |S1000 QRX [Loop, Q R X]^
+AGE |S1000 SWR [Age, S W R]^
+LOOP |S1000 GN [Loop, Good night]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+SSB |S1000 SWR [Single Side Band, S W R]^
+AGE |S1000 CW [Age, C W]^
+88 |S1000 WIRE [88, Wire]^
+GB |S1000 88 [Goodbye, 88]^
+RPT |S1000 QRT [Report, Q R T]^
+479 |S1000 RPT [4 7 9, Report]^
+479 |S1000 CW [4 7 9, C W]^
+GD |S1000 GN [Good, Good night]^
+479 |S1000 72 [4 7 9, 72]^
+489 |S1000 NW [4 8 9, Now]^
+WIRE |S1000 AGE [Wire, Age]^
+479 |S1000 GN [4 7 9, Good night]^
+579 |S1000 SSB [5 7 9, Single Side Band]^
+QRX |S1000 SWR [Q R X, S W R]^
+SSB |S1000 GN [Single Side Band, Good night]^
+LOOP |S1000 579 [Loop, 5 7 9]^
+1TT |S1000 INFO [100, Information]^
+CW |S1000 NW [C W, Now]^
+OCF |S1000 GN [Off-center fed dipole, Good night]^
+INFO |S1000 1TT [Information, 100]^
+CW |S1000 479 [C W, 4 7 9]^
+SWR |S1000 489 [S W R, 4 8 9]^
+LOOP |S1000 WIRE [Loop, Wire]^
+RPT |S1000 72 [Report, 72]^
+GB |S1000 AGE [Goodbye, Age]^
+359 |S1000 QRX [3 5 9, Q R X]^
+GB |S1000 NW [Goodbye, Now]^
+QRX |S1000 CW [Q R X, C W]^
+489 |S1000 INFO [4 8 9, Information]^
+579 |S1000 WATT [5 7 9, Watt]^
+CW |S1000 LOOP [C W, Loop]^
+GN |S1000 479 [Good night, 4 7 9]^

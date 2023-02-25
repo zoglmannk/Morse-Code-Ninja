@@ -1,600 +1,600 @@
-BEAM |S1000 CPI [Beam, Copy]^
-QRL |S1000 BEAM [Busy, Beam]^
-TNX |S1000 CPI [Thanks, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
-HPE |S1000 CPY [Hope, Copy]^
-DX |S1000 CPI [D X, Copy]^
-QRL |S1000 DX [Busy, D X]^
-FB |S1000 BEAM [Fine business, Beam]^
-HW |S1000 DX [How, D X]^
-SRI |S1000 DX [Sorry, D X]^
-QSB |S1000 CPI [Fading, Copy]^
-SRI |S1000 QRL [Sorry, Busy]^
-CPI |S1000 HPE [Copy, Hope]^
-SRI |S1000 HPE [Sorry, Hope]^
-TNX |S1000 HPE [Thanks, Hope]^
-BEAM |S1000 CPI [Beam, Copy]^
-CPY |S1000 HW [Copy, How]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPI |S1000 FB [Copy, Fine business]^
-QRL |S1000 BTU [Busy, Back to you]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-SRI |S1000 CPI [Sorry, Copy]^
-DX |S1000 FB [D X, Fine business]^
-TNX |S1000 CPI [Thanks, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
-SRI |S1000 TNX [Sorry, Thanks]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPY |S1000 QRL [Copy, Busy]^
-CPI |S1000 QSB [Copy, Fading]^
-CPI |S1000 DX [Copy, D X]^
-CPI |S1000 BEAM [Copy, Beam]^
+CPI |S1000 BTU [Copy, Back to you]^
 CPI |S1000 HW [Copy, How]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 DX [Copy, D X]^
-CPI |S1000 FB [Copy, Fine business]^
-CPI |S1000 DX [Copy, D X]^
-CPI |S1000 HW [Copy, How]^
-QRL |S1000 CPI [Busy, Copy]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-SRI |S1000 CPI [Sorry, Copy]^
-HW |S1000 FB [How, Fine business]^
-HPE |S1000 QSB [Hope, Fading]^
-CPY |S1000 CPI [Copy, Copy]^
-BEAM |S1000 CPI [Beam, Copy]^
-HW |S1000 CPI [How, Copy]^
-HW |S1000 CPI [How, Copy]^
-HW |S1000 CPI [How, Copy]^
-HW |S1000 CPI [How, Copy]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-BEAM |S1000 CPI [Beam, Copy]^
-QSB |S1000 DX [Fading, D X]^
-QSB |S1000 CPI [Fading, Copy]^
-HW |S1000 CPI [How, Copy]^
-QRL |S1000 BEAM [Busy, Beam]^
-CPI |S1000 DX [Copy, D X]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CPI |S1000 QSB [Copy, Q S B]^
 CPI |S1000 DIPOLE [Copy, Dipole]^
+QRL |S1000 DX [Q R L, D X]^
+SRI |S1000 HW [Sorry, How]^
+HPE |S1000 CPI [Hope, Copy]^
+SRI |S1000 BEAM [Sorry, Beam]^
+CPI |S1000 DX [Copy, D X]^
+TNX |S1000 CPI [Thanks, Copy]^
+TNX |S1000 CPI [Thanks, Copy]^
 DX |S1000 CPI [D X, Copy]^
-HW |S1000 BEAM [How, Beam]^
-DIPOLE |S1000 QRL [Dipole, Busy]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPI |S1000 TNX [Copy, Thanks]^
-SRI |S1000 BTU [Sorry, Back to you]^
-CPI |S1000 HPE [Copy, Hope]^
-TNX |S1000 FB [Thanks, Fine business]^
-CPY |S1000 BEAM [Copy, Beam]^
-CPI |S1000 QRL [Copy, Busy]^
-FB |S1000 CPI [Fine business, Copy]^
 HPE |S1000 DX [Hope, D X]^
-BEAM |S1000 CPY [Beam, Copy]^
-CPI |S1000 DIPOLE [Copy, Dipole]^
-HW |S1000 CPI [How, Copy]^
-BEAM |S1000 QRL [Beam, Busy]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-SRI |S1000 CPI [Sorry, Copy]^
-BEAM |S1000 CPI [Beam, Copy]^
+HPE |S1000 DX [Hope, D X]^
+CPI |S1000 QSB [Copy, Q S B]^
+CPI |S1000 BTU [Copy, Back to you]^
 DIPOLE |S1000 CPI [Dipole, Copy]^
-CPY |S1000 CPI [Copy, Copy]^
-QRL |S1000 HPE [Busy, Hope]^
-CPI |S1000 CPY [Copy, Copy]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPI |S1000 DX [Copy, D X]^
-CPI |S1000 FB [Copy, Fine business]^
+BTU |S1000 BEAM [Back to you, Beam]^
+CPI |S1000 QRL [Copy, Q R L]^
 CPI |S1000 TNX [Copy, Thanks]^
-CPI |S1000 DIPOLE [Copy, Dipole]^
-QSB |S1000 HW [Fading, How]^
-CPI |S1000 FB [Copy, Fine business]^
-CPI |S1000 QSB [Copy, Fading]^
-TNX |S1000 CPI [Thanks, Copy]^
-TNX |S1000 DX [Thanks, D X]^
-CPY |S1000 CPI [Copy, Copy]^
+CPI |S1000 HW [Copy, How]^
+QSB |S1000 QRL [Q S B, Q R L]^
+BEAM |S1000 QSB [Beam, Q S B]^
+CPI |S1000 HW [Copy, How]^
+TNX |S1000 HPE [Thanks, Hope]^
+HW |S1000 DIPOLE [How, Dipole]^
 HPE |S1000 CPI [Hope, Copy]^
-FB |S1000 QRL [Fine business, Busy]^
-CPI |S1000 BTU [Copy, Back to you]^
-TNX |S1000 FB [Thanks, Fine business]^
-SRI |S1000 FB [Sorry, Fine business]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-CPI |S1000 TNX [Copy, Thanks]^
-CPI |S1000 CPY [Copy, Copy]^
-CPI |S1000 HPE [Copy, Hope]^
-FB |S1000 CPI [Fine business, Copy]^
-QRL |S1000 DX [Busy, D X]^
-CPI |S1000 BTU [Copy, Back to you]^
-CPI |S1000 DX [Copy, D X]^
-QRL |S1000 CPI [Busy, Copy]^
-QRL |S1000 CPI [Busy, Copy]^
-TNX |S1000 CPI [Thanks, Copy]^
-SRI |S1000 CPI [Sorry, Copy]^
-HPE |S1000 CPY [Hope, Copy]^
-CPI |S1000 SRI [Copy, Sorry]^
-HW |S1000 SRI [How, Sorry]^
-HW |S1000 CPI [How, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
-FB |S1000 CPI [Fine business, Copy]^
-BEAM |S1000 SRI [Beam, Sorry]^
-DX |S1000 BEAM [D X, Beam]^
-CPI |S1000 DIPOLE [Copy, Dipole]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-CPI |S1000 HW [Copy, How]^
-BTU |S1000 CPY [Back to you, Copy]^
-BTU |S1000 CPI [Back to you, Copy]^
-HPE |S1000 CPI [Hope, Copy]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-FB |S1000 BTU [Fine business, Back to you]^
-SRI |S1000 CPI [Sorry, Copy]^
-HPE |S1000 SRI [Hope, Sorry]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 HPE [Copy, Hope]^
-BTU |S1000 CPI [Back to you, Copy]^
-HPE |S1000 QSB [Hope, Fading]^
+QSB |S1000 CPI [Q S B, Copy]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
 CPI |S1000 FB [Copy, Fine business]^
-BEAM |S1000 HW [Beam, How]^
-CPI |S1000 FB [Copy, Fine business]^
-DX |S1000 TNX [D X, Thanks]^
-CPY |S1000 CPI [Copy, Copy]^
-DX |S1000 CPY [D X, Copy]^
-SRI |S1000 CPI [Sorry, Copy]^
-SRI |S1000 CPI [Sorry, Copy]^
-QSB |S1000 TNX [Fading, Thanks]^
-CPI |S1000 BTU [Copy, Back to you]^
-CPI |S1000 QRL [Copy, Busy]^
-CPI |S1000 HPE [Copy, Hope]^
-CPI |S1000 SRI [Copy, Sorry]^
-DX |S1000 HW [D X, How]^
-BTU |S1000 QSB [Back to you, Fading]^
-FB |S1000 CPI [Fine business, Copy]^
-BTU |S1000 CPI [Back to you, Copy]^
-BTU |S1000 DX [Back to you, D X]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 FB [Copy, Fine business]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-SRI |S1000 CPI [Sorry, Copy]^
-HW |S1000 BEAM [How, Beam]^
-CPI |S1000 BEAM [Copy, Beam]^
+HW |S1000 TNX [How, Thanks]^
 DX |S1000 BTU [D X, Back to you]^
-BEAM |S1000 CPI [Beam, Copy]^
-TNX |S1000 QSB [Thanks, Fading]^
-CPI |S1000 SRI [Copy, Sorry]^
-QRL |S1000 CPI [Busy, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-QSB |S1000 CPI [Fading, Copy]^
-CPY |S1000 BEAM [Copy, Beam]^
-CPI |S1000 SRI [Copy, Sorry]^
-CPI |S1000 DIPOLE [Copy, Dipole]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 BTU [Copy, Back to you]^
 CPI |S1000 BEAM [Copy, Beam]^
+CPY |S1000 FB [Copy, Fine business]^
+QSB |S1000 TNX [Q S B, Thanks]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+BTU |S1000 BEAM [Back to you, Beam]^
+HW |S1000 DX [How, D X]^
+QSB |S1000 CPI [Q S B, Copy]^
+SRI |S1000 CPI [Sorry, Copy]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+CPI |S1000 TNX [Copy, Thanks]^
+CPI |S1000 QRL [Copy, Q R L]^
 CPI |S1000 SRI [Copy, Sorry]^
+DIPOLE |S1000 DX [Dipole, D X]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+CPY |S1000 BTU [Copy, Back to you]^
+CPI |S1000 BTU [Copy, Back to you]^
+SRI |S1000 QRL [Sorry, Q R L]^
+TNX |S1000 CPI [Thanks, Copy]^
+QRL |S1000 CPI [Q R L, Copy]^
+SRI |S1000 CPI [Sorry, Copy]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+CPI |S1000 DX [Copy, D X]^
+FB |S1000 SRI [Fine business, Sorry]^
+CPI |S1000 QRL [Copy, Q R L]^
+CPI |S1000 DX [Copy, D X]^
+CPY |S1000 DX [Copy, D X]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 HW [Copy, How]^
+BEAM |S1000 CPI [Beam, Copy]^
+FB |S1000 CPI [Fine business, Copy]^
+DX |S1000 HW [D X, How]^
+CPI |S1000 FB [Copy, Fine business]^
+HPE |S1000 CPI [Hope, Copy]^
+BEAM |S1000 DX [Beam, D X]^
+CPI |S1000 HPE [Copy, Hope]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CPI |S1000 TNX [Copy, Thanks]^
+FB |S1000 TNX [Fine business, Thanks]^
+BEAM |S1000 HW [Beam, How]^
+QSB |S1000 CPI [Q S B, Copy]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+TNX |S1000 CPI [Thanks, Copy]^
+HW |S1000 HPE [How, Hope]^
+CPY |S1000 CPI [Copy, Copy]^
+CPY |S1000 CPI [Copy, Copy]^
+HW |S1000 CPI [How, Copy]^
+FB |S1000 HPE [Fine business, Hope]^
+QRL |S1000 CPI [Q R L, Copy]^
+BTU |S1000 QRL [Back to you, Q R L]^
+BTU |S1000 CPI [Back to you, Copy]^
+CPY |S1000 CPI [Copy, Copy]^
+QSB |S1000 HW [Q S B, How]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+FB |S1000 CPI [Fine business, Copy]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPI |S1000 TNX [Copy, Thanks]^
+BTU |S1000 HW [Back to you, How]^
+TNX |S1000 QRL [Thanks, Q R L]^
+DX |S1000 CPI [D X, Copy]^
+HW |S1000 CPI [How, Copy]^
+BEAM |S1000 DX [Beam, D X]^
+BEAM |S1000 CPI [Beam, Copy]^
+QRL |S1000 CPI [Q R L, Copy]^
+FB |S1000 SRI [Fine business, Sorry]^
+CPI |S1000 BTU [Copy, Back to you]^
+QSB |S1000 CPI [Q S B, Copy]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+BEAM |S1000 HW [Beam, How]^
+DX |S1000 CPI [D X, Copy]^
+DX |S1000 BTU [D X, Back to you]^
+DX |S1000 CPI [D X, Copy]^
+TNX |S1000 HPE [Thanks, Hope]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+QRL |S1000 HW [Q R L, How]^
+QSB |S1000 CPI [Q S B, Copy]^
+DX |S1000 HW [D X, How]^
+QSB |S1000 CPI [Q S B, Copy]^
+HPE |S1000 TNX [Hope, Thanks]^
+CPI |S1000 SRI [Copy, Sorry]^
+CPI |S1000 CPY [Copy, Copy]^
+HPE |S1000 CPI [Hope, Copy]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+FB |S1000 SRI [Fine business, Sorry]^
+CPI |S1000 FB [Copy, Fine business]^
+CPI |S1000 FB [Copy, Fine business]^
+TNX |S1000 BEAM [Thanks, Beam]^
+QSB |S1000 CPY [Q S B, Copy]^
+BTU |S1000 HW [Back to you, How]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 DX [Copy, D X]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+CPI |S1000 SRI [Copy, Sorry]^
+FB |S1000 CPI [Fine business, Copy]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+CPI |S1000 SRI [Copy, Sorry]^
+CPI |S1000 SRI [Copy, Sorry]^
+CPI |S1000 FB [Copy, Fine business]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+HPE |S1000 SRI [Hope, Sorry]^
+QRL |S1000 CPI [Q R L, Copy]^
+HW |S1000 CPI [How, Copy]^
+TNX |S1000 DX [Thanks, D X]^
+BTU |S1000 CPI [Back to you, Copy]^
+BEAM |S1000 DIPOLE [Beam, Dipole]^
+CPI |S1000 TNX [Copy, Thanks]^
+SRI |S1000 HPE [Sorry, Hope]^
+CPY |S1000 FB [Copy, Fine business]^
+CPI |S1000 BTU [Copy, Back to you]^
+FB |S1000 CPI [Fine business, Copy]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+CPY |S1000 HW [Copy, How]^
+CPI |S1000 DX [Copy, D X]^
+SRI |S1000 FB [Sorry, Fine business]^
+HPE |S1000 CPI [Hope, Copy]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+HW |S1000 CPI [How, Copy]^
+DX |S1000 CPI [D X, Copy]^
+BTU |S1000 CPI [Back to you, Copy]^
+HW |S1000 CPI [How, Copy]^
+BEAM |S1000 CPI [Beam, Copy]^
 BEAM |S1000 CPY [Beam, Copy]^
-HW |S1000 BEAM [How, Beam]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+BEAM |S1000 DIPOLE [Beam, Dipole]^
+QSB |S1000 HPE [Q S B, Hope]^
+CPI |S1000 HPE [Copy, Hope]^
+CPI |S1000 BTU [Copy, Back to you]^
+SRI |S1000 FB [Sorry, Fine business]^
+DX |S1000 CPI [D X, Copy]^
+TNX |S1000 HPE [Thanks, Hope]^
+CPI |S1000 SRI [Copy, Sorry]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 CPY [Copy, Copy]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+FB |S1000 HPE [Fine business, Hope]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 BEAM [Copy, Beam]^
+CPI |S1000 FB [Copy, Fine business]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+BEAM |S1000 CPY [Beam, Copy]^
+BTU |S1000 CPI [Back to you, Copy]^
+SRI |S1000 BTU [Sorry, Back to you]^
+HW |S1000 HPE [How, Hope]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 CPY [Copy, Copy]^
+HW |S1000 CPY [How, Copy]^
+QRL |S1000 CPI [Q R L, Copy]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+FB |S1000 CPI [Fine business, Copy]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+CPI |S1000 CPY [Copy, Copy]^
+BEAM |S1000 SRI [Beam, Sorry]^
+DX |S1000 CPI [D X, Copy]^
+FB |S1000 CPI [Fine business, Copy]^
+FB |S1000 BEAM [Fine business, Beam]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+TNX |S1000 CPI [Thanks, Copy]^
+BTU |S1000 CPI [Back to you, Copy]^
+BTU |S1000 CPI [Back to you, Copy]^
+HPE |S1000 CPI [Hope, Copy]^
+HW |S1000 CPI [How, Copy]^
+QRL |S1000 CPY [Q R L, Copy]^
+BEAM |S1000 HPE [Beam, Hope]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+CPI |S1000 HPE [Copy, Hope]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 CPY [Copy, Copy]^
+DX |S1000 QRL [D X, Q R L]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+CPI |S1000 HPE [Copy, Hope]^
+DX |S1000 CPI [D X, Copy]^
+BTU |S1000 CPI [Back to you, Copy]^
+HW |S1000 CPI [How, Copy]^
+BEAM |S1000 CPI [Beam, Copy]^
+FB |S1000 BTU [Fine business, Back to you]^
+HW |S1000 TNX [How, Thanks]^
+CPY |S1000 CPI [Copy, Copy]^
+BTU |S1000 QRL [Back to you, Q R L]^
+CPI |S1000 SRI [Copy, Sorry]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+TNX |S1000 CPI [Thanks, Copy]^
+HPE |S1000 CPI [Hope, Copy]^
+TNX |S1000 BEAM [Thanks, Beam]^
+QSB |S1000 CPI [Q S B, Copy]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+SRI |S1000 HPE [Sorry, Hope]^
+CPY |S1000 CPI [Copy, Copy]^
+HW |S1000 SRI [How, Sorry]^
+QSB |S1000 CPI [Q S B, Copy]^
+SRI |S1000 CPI [Sorry, Copy]^
 DX |S1000 CPI [D X, Copy]^
 DX |S1000 DIPOLE [D X, Dipole]^
-CPI |S1000 BEAM [Copy, Beam]^
-TNX |S1000 DX [Thanks, D X]^
-HW |S1000 BTU [How, Back to you]^
-CPI |S1000 CPY [Copy, Copy]^
-CPI |S1000 HPE [Copy, Hope]^
-SRI |S1000 FB [Sorry, Fine business]^
-TNX |S1000 DX [Thanks, D X]^
-CPI |S1000 HPE [Copy, Hope]^
-CPI |S1000 CPY [Copy, Copy]^
-BTU |S1000 TNX [Back to you, Thanks]^
-DX |S1000 CPI [D X, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
-FB |S1000 BEAM [Fine business, Beam]^
-CPI |S1000 QSB [Copy, Fading]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-FB |S1000 DX [Fine business, D X]^
-CPI |S1000 BEAM [Copy, Beam]^
-SRI |S1000 CPI [Sorry, Copy]^
-HW |S1000 CPI [How, Copy]^
 TNX |S1000 CPI [Thanks, Copy]^
-DX |S1000 CPY [D X, Copy]^
-CPI |S1000 QSB [Copy, Fading]^
-CPI |S1000 DX [Copy, D X]^
-CPI |S1000 DX [Copy, D X]^
-FB |S1000 QRL [Fine business, Busy]^
-CPI |S1000 HPE [Copy, Hope]^
-BEAM |S1000 CPI [Beam, Copy]^
-SRI |S1000 QRL [Sorry, Busy]^
-CPI |S1000 SRI [Copy, Sorry]^
-CPI |S1000 SRI [Copy, Sorry]^
-CPI |S1000 HPE [Copy, Hope]^
-CPI |S1000 HPE [Copy, Hope]^
-CPI |S1000 DIPOLE [Copy, Dipole]^
-CPI |S1000 QRL [Copy, Busy]^
-CPI |S1000 FB [Copy, Fine business]^
+QRL |S1000 TNX [Q R L, Thanks]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
+CPY |S1000 CPI [Copy, Copy]^
+HPE |S1000 CPI [Hope, Copy]^
+HW |S1000 DIPOLE [How, Dipole]^
+QRL |S1000 CPI [Q R L, Copy]^
+DX |S1000 BEAM [D X, Beam]^
+CPI |S1000 HW [Copy, How]^
+CPI |S1000 HW [Copy, How]^
+QRL |S1000 CPI [Q R L, Copy]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+CPI |S1000 HW [Copy, How]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+QSB |S1000 CPI [Q S B, Copy]^
 CPY |S1000 SRI [Copy, Sorry]^
-BEAM |S1000 HW [Beam, How]^
-BEAM |S1000 BTU [Beam, Back to you]^
-CPI |S1000 CPY [Copy, Copy]^
-CPI |S1000 DX [Copy, D X]^
-CPI |S1000 CPY [Copy, Copy]^
-QRL |S1000 BEAM [Busy, Beam]^
-CPI |S1000 DX [Copy, D X]^
-HW |S1000 DX [How, D X]^
-CPI |S1000 QSB [Copy, Fading]^
-BEAM |S1000 DX [Beam, D X]^
-CPI |S1000 DX [Copy, D X]^
-QSB |S1000 CPI [Fading, Copy]^
-FB |S1000 DX [Fine business, D X]^
-BTU |S1000 TNX [Back to you, Thanks]^
-QSB |S1000 FB [Fading, Fine business]^
-CPI |S1000 BTU [Copy, Back to you]^
-BEAM |S1000 TNX [Beam, Thanks]^
 BEAM |S1000 CPI [Beam, Copy]^
-BTU |S1000 CPI [Back to you, Copy]^
-SRI |S1000 DX [Sorry, D X]^
-CPI |S1000 DX [Copy, D X]^
-QSB |S1000 FB [Fading, Fine business]^
-CPI |S1000 TNX [Copy, Thanks]^
-CPI |S1000 SRI [Copy, Sorry]^
-CPI |S1000 QSB [Copy, Fading]^
-HW |S1000 QRL [How, Busy]^
-HW |S1000 CPI [How, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
-SRI |S1000 TNX [Sorry, Thanks]^
-HW |S1000 CPI [How, Copy]^
-DIPOLE |S1000 BEAM [Dipole, Beam]^
-DIPOLE |S1000 HW [Dipole, How]^
-CPI |S1000 DX [Copy, D X]^
-QRL |S1000 DX [Busy, D X]^
-CPI |S1000 DX [Copy, D X]^
-CPI |S1000 TNX [Copy, Thanks]^
-DX |S1000 FB [D X, Fine business]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
+QSB |S1000 TNX [Q S B, Thanks]^
 FB |S1000 CPI [Fine business, Copy]^
-DIPOLE |S1000 BEAM [Dipole, Beam]^
-HPE |S1000 CPI [Hope, Copy]^
-HW |S1000 DX [How, D X]^
-BEAM |S1000 CPI [Beam, Copy]^
-FB |S1000 CPY [Fine business, Copy]^
-CPI |S1000 QRL [Copy, Busy]^
-HW |S1000 CPI [How, Copy]^
-CPY |S1000 BTU [Copy, Back to you]^
-CPY |S1000 QSB [Copy, Fading]^
-HW |S1000 CPI [How, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
-TNX |S1000 BTU [Thanks, Back to you]^
-CPI |S1000 HW [Copy, How]^
-QRL |S1000 CPI [Busy, Copy]^
-FB |S1000 CPI [Fine business, Copy]^
-HPE |S1000 CPI [Hope, Copy]^
-HPE |S1000 CPI [Hope, Copy]^
-FB |S1000 CPI [Fine business, Copy]^
-TNX |S1000 FB [Thanks, Fine business]^
-CPI |S1000 FB [Copy, Fine business]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-BEAM |S1000 CPI [Beam, Copy]^
-FB |S1000 BEAM [Fine business, Beam]^
-FB |S1000 CPY [Fine business, Copy]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 CPY [Copy, Copy]^
-CPI |S1000 BTU [Copy, Back to you]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-SRI |S1000 BTU [Sorry, Back to you]^
-BEAM |S1000 HW [Beam, How]^
-QRL |S1000 CPI [Busy, Copy]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-CPI |S1000 BTU [Copy, Back to you]^
-DX |S1000 CPI [D X, Copy]^
-HPE |S1000 CPI [Hope, Copy]^
-QRL |S1000 CPI [Busy, Copy]^
-QRL |S1000 BTU [Busy, Back to you]^
-DIPOLE |S1000 HPE [Dipole, Hope]^
-SRI |S1000 HW [Sorry, How]^
-CPY |S1000 CPI [Copy, Copy]^
-QRL |S1000 CPI [Busy, Copy]^
-TNX |S1000 BTU [Thanks, Back to you]^
-DX |S1000 CPY [D X, Copy]^
-CPI |S1000 BEAM [Copy, Beam]^
-QRL |S1000 BEAM [Busy, Beam]^
-SRI |S1000 CPI [Sorry, Copy]^
-HPE |S1000 CPI [Hope, Copy]^
-CPY |S1000 CPI [Copy, Copy]^
-HW |S1000 QSB [How, Fading]^
-CPI |S1000 FB [Copy, Fine business]^
-CPI |S1000 DX [Copy, D X]^
-CPI |S1000 QSB [Copy, Fading]^
-CPI |S1000 QSB [Copy, Fading]^
-CPI |S1000 BEAM [Copy, Beam]^
-QSB |S1000 CPI [Fading, Copy]^
-CPY |S1000 QSB [Copy, Fading]^
-HPE |S1000 CPI [Hope, Copy]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-CPI |S1000 HW [Copy, How]^
-BEAM |S1000 CPY [Beam, Copy]^
-BEAM |S1000 SRI [Beam, Sorry]^
-CPI |S1000 QSB [Copy, Fading]^
-CPI |S1000 QSB [Copy, Fading]^
-CPI |S1000 HW [Copy, How]^
-CPY |S1000 BTU [Copy, Back to you]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-CPY |S1000 BTU [Copy, Back to you]^
-CPI |S1000 TNX [Copy, Thanks]^
-CPI |S1000 BEAM [Copy, Beam]^
-QRL |S1000 HW [Busy, How]^
-BTU |S1000 CPI [Back to you, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
-FB |S1000 CPI [Fine business, Copy]^
-HPE |S1000 QSB [Hope, Fading]^
-HPE |S1000 CPI [Hope, Copy]^
-HPE |S1000 QRL [Hope, Busy]^
-CPY |S1000 HPE [Copy, Hope]^
-FB |S1000 CPY [Fine business, Copy]^
-CPI |S1000 HPE [Copy, Hope]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 QRL [Copy, Busy]^
-FB |S1000 CPI [Fine business, Copy]^
-SRI |S1000 BTU [Sorry, Back to you]^
-CPI |S1000 DIPOLE [Copy, Dipole]^
-CPY |S1000 CPI [Copy, Copy]^
-BTU |S1000 CPI [Back to you, Copy]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-CPI |S1000 HPE [Copy, Hope]^
-DX |S1000 FB [D X, Fine business]^
-CPI |S1000 BEAM [Copy, Beam]^
-DX |S1000 FB [D X, Fine business]^
-QRL |S1000 CPI [Busy, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-HW |S1000 CPY [How, Copy]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-TNX |S1000 CPY [Thanks, Copy]^
-HPE |S1000 CPI [Hope, Copy]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-HW |S1000 FB [How, Fine business]^
-CPY |S1000 TNX [Copy, Thanks]^
-CPI |S1000 HPE [Copy, Hope]^
+BEAM |S1000 FB [Beam, Fine business]^
 TNX |S1000 CPI [Thanks, Copy]^
-CPY |S1000 CPI [Copy, Copy]^
-FB |S1000 SRI [Fine business, Sorry]^
-DX |S1000 CPI [D X, Copy]^
-DX |S1000 FB [D X, Fine business]^
-BEAM |S1000 CPI [Beam, Copy]^
-BTU |S1000 HPE [Back to you, Hope]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
 HW |S1000 CPI [How, Copy]^
-TNX |S1000 BEAM [Thanks, Beam]^
-CPI |S1000 FB [Copy, Fine business]^
-QSB |S1000 BTU [Fading, Back to you]^
+TNX |S1000 CPI [Thanks, Copy]^
+DX |S1000 BTU [D X, Back to you]^
+CPI |S1000 QSB [Copy, Q S B]^
+CPI |S1000 QRL [Copy, Q R L]^
+SRI |S1000 FB [Sorry, Fine business]^
+CPI |S1000 DX [Copy, D X]^
+HPE |S1000 CPI [Hope, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
+HPE |S1000 BTU [Hope, Back to you]^
+CPY |S1000 BTU [Copy, Back to you]^
+FB |S1000 HW [Fine business, How]^
+FB |S1000 HPE [Fine business, Hope]^
 CPI |S1000 SRI [Copy, Sorry]^
-TNX |S1000 QRL [Thanks, Busy]^
-CPI |S1000 FB [Copy, Fine business]^
+CPI |S1000 DX [Copy, D X]^
+QRL |S1000 CPY [Q R L, Copy]^
+CPI |S1000 CPY [Copy, Copy]^
+CPI |S1000 BTU [Copy, Back to you]^
+SRI |S1000 FB [Sorry, Fine business]^
+CPI |S1000 TNX [Copy, Thanks]^
+BTU |S1000 QRL [Back to you, Q R L]^
+CPI |S1000 QSB [Copy, Q S B]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+HPE |S1000 CPY [Hope, Copy]^
+HW |S1000 FB [How, Fine business]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 BTU [Copy, Back to you]^
+FB |S1000 HPE [Fine business, Hope]^
+CPI |S1000 DX [Copy, D X]^
+BTU |S1000 SRI [Back to you, Sorry]^
+QRL |S1000 CPI [Q R L, Copy]^
+CPY |S1000 SRI [Copy, Sorry]^
 CPI |S1000 HPE [Copy, Hope]^
-HW |S1000 CPI [How, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+QSB |S1000 BEAM [Q S B, Beam]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 BTU [Copy, Back to you]^
+TNX |S1000 SRI [Thanks, Sorry]^
+CPI |S1000 DX [Copy, D X]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+BTU |S1000 CPI [Back to you, Copy]^
+HPE |S1000 TNX [Hope, Thanks]^
+QSB |S1000 CPI [Q S B, Copy]^
+CPY |S1000 CPI [Copy, Copy]^
+QRL |S1000 CPI [Q R L, Copy]^
+TNX |S1000 BTU [Thanks, Back to you]^
+HW |S1000 CPY [How, Copy]^
+TNX |S1000 CPI [Thanks, Copy]^
+DX |S1000 HPE [D X, Hope]^
+FB |S1000 CPY [Fine business, Copy]^
+CPI |S1000 FB [Copy, Fine business]^
+CPI |S1000 HW [Copy, How]^
+SRI |S1000 FB [Sorry, Fine business]^
 BTU |S1000 CPY [Back to you, Copy]^
-BEAM |S1000 HPE [Beam, Hope]^
+SRI |S1000 HPE [Sorry, Hope]^
+CPI |S1000 HW [Copy, How]^
+BTU |S1000 DX [Back to you, D X]^
+QRL |S1000 CPI [Q R L, Copy]^
+QRL |S1000 QSB [Q R L, Q S B]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+CPI |S1000 QRL [Copy, Q R L]^
+CPI |S1000 CPY [Copy, Copy]^
+CPI |S1000 DX [Copy, D X]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+QRL |S1000 BTU [Q R L, Back to you]^
+CPI |S1000 FB [Copy, Fine business]^
+CPY |S1000 CPI [Copy, Copy]^
+DX |S1000 FB [D X, Fine business]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+QSB |S1000 SRI [Q S B, Sorry]^
+BTU |S1000 CPI [Back to you, Copy]^
+DX |S1000 BTU [D X, Back to you]^
+CPI |S1000 CPY [Copy, Copy]^
+FB |S1000 CPI [Fine business, Copy]^
+HPE |S1000 CPI [Hope, Copy]^
+DX |S1000 CPI [D X, Copy]^
+QSB |S1000 TNX [Q S B, Thanks]^
+CPY |S1000 HW [Copy, How]^
+HPE |S1000 DX [Hope, D X]^
+BEAM |S1000 TNX [Beam, Thanks]^
+CPI |S1000 QRL [Copy, Q R L]^
+BTU |S1000 SRI [Back to you, Sorry]^
+TNX |S1000 HW [Thanks, How]^
+QSB |S1000 CPY [Q S B, Copy]^
+CPI |S1000 SRI [Copy, Sorry]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 BEAM [Copy, Beam]^
+HPE |S1000 QRL [Hope, Q R L]^
+CPY |S1000 CPI [Copy, Copy]^
+BTU |S1000 TNX [Back to you, Thanks]^
+CPI |S1000 DX [Copy, D X]^
+SRI |S1000 HW [Sorry, How]^
+CPI |S1000 SRI [Copy, Sorry]^
+CPI |S1000 HW [Copy, How]^
+CPY |S1000 HPE [Copy, Hope]^
+CPI |S1000 HPE [Copy, Hope]^
+QRL |S1000 CPY [Q R L, Copy]^
+CPI |S1000 HW [Copy, How]^
+SRI |S1000 CPI [Sorry, Copy]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+QSB |S1000 CPI [Q S B, Copy]^
+HPE |S1000 BEAM [Hope, Beam]^
+SRI |S1000 CPI [Sorry, Copy]^
+BTU |S1000 SRI [Back to you, Sorry]^
+CPI |S1000 CPY [Copy, Copy]^
+BEAM |S1000 BTU [Beam, Back to you]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 SRI [Copy, Sorry]^
+HPE |S1000 QSB [Hope, Q S B]^
+QRL |S1000 FB [Q R L, Fine business]^
+CPI |S1000 HW [Copy, How]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 BEAM [Copy, Beam]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+TNX |S1000 BEAM [Thanks, Beam]^
+BTU |S1000 HPE [Back to you, Hope]^
+CPI |S1000 TNX [Copy, Thanks]^
+BTU |S1000 CPI [Back to you, Copy]^
+FB |S1000 BEAM [Fine business, Beam]^
+TNX |S1000 CPI [Thanks, Copy]^
+QRL |S1000 CPI [Q R L, Copy]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+TNX |S1000 FB [Thanks, Fine business]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 HW [Copy, How]^
+QSB |S1000 HPE [Q S B, Hope]^
+QRL |S1000 TNX [Q R L, Thanks]^
+CPI |S1000 SRI [Copy, Sorry]^
+CPI |S1000 QSB [Copy, Q S B]^
+HW |S1000 QSB [How, Q S B]^
+HW |S1000 QRL [How, Q R L]^
+SRI |S1000 CPI [Sorry, Copy]^
+CPY |S1000 FB [Copy, Fine business]^
+CPI |S1000 BEAM [Copy, Beam]^
+QSB |S1000 HW [Q S B, How]^
+CPI |S1000 FB [Copy, Fine business]^
+HPE |S1000 CPI [Hope, Copy]^
+SRI |S1000 CPI [Sorry, Copy]^
+HPE |S1000 DX [Hope, D X]^
+CPI |S1000 SRI [Copy, Sorry]^
+TNX |S1000 HW [Thanks, How]^
+CPI |S1000 DX [Copy, D X]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+CPI |S1000 HW [Copy, How]^
+QRL |S1000 SRI [Q R L, Sorry]^
 CPI |S1000 SRI [Copy, Sorry]^
 DX |S1000 HPE [D X, Hope]^
-QRL |S1000 TNX [Busy, Thanks]^
-QRL |S1000 BEAM [Busy, Beam]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPI |S1000 BEAM [Copy, Beam]^
-HPE |S1000 HW [Hope, How]^
+CPI |S1000 FB [Copy, Fine business]^
+BTU |S1000 CPI [Back to you, Copy]^
+FB |S1000 CPI [Fine business, Copy]^
+DX |S1000 CPI [D X, Copy]^
+QRL |S1000 CPI [Q R L, Copy]^
+BTU |S1000 TNX [Back to you, Thanks]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+TNX |S1000 BEAM [Thanks, Beam]^
+CPI |S1000 QRL [Copy, Q R L]^
+CPY |S1000 CPI [Copy, Copy]^
+TNX |S1000 BTU [Thanks, Back to you]^
+CPI |S1000 FB [Copy, Fine business]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 QRL [Copy, Q R L]^
+HPE |S1000 TNX [Hope, Thanks]^
+CPI |S1000 SRI [Copy, Sorry]^
+FB |S1000 CPI [Fine business, Copy]^
+FB |S1000 CPI [Fine business, Copy]^
+BTU |S1000 TNX [Back to you, Thanks]^
+FB |S1000 CPI [Fine business, Copy]^
+DX |S1000 CPI [D X, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 DX [Copy, D X]^
+QRL |S1000 CPY [Q R L, Copy]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+QSB |S1000 CPI [Q S B, Copy]^
+TNX |S1000 HW [Thanks, How]^
+CPY |S1000 BEAM [Copy, Beam]^
+QSB |S1000 BTU [Q S B, Back to you]^
+CPI |S1000 HW [Copy, How]^
+CPI |S1000 TNX [Copy, Thanks]^
+BEAM |S1000 CPI [Beam, Copy]^
+HW |S1000 DIPOLE [How, Dipole]^
+CPI |S1000 CPY [Copy, Copy]^
+QRL |S1000 SRI [Q R L, Sorry]^
+TNX |S1000 CPY [Thanks, Copy]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 FB [Copy, Fine business]^
+CPI |S1000 BTU [Copy, Back to you]^
+CPI |S1000 SRI [Copy, Sorry]^
+QSB |S1000 HW [Q S B, How]^
+QSB |S1000 CPI [Q S B, Copy]^
+BTU |S1000 FB [Back to you, Fine business]^
+TNX |S1000 FB [Thanks, Fine business]^
+TNX |S1000 BEAM [Thanks, Beam]^
+QRL |S1000 CPI [Q R L, Copy]^
+BTU |S1000 CPI [Back to you, Copy]^
+SRI |S1000 CPI [Sorry, Copy]^
+QSB |S1000 BTU [Q S B, Back to you]^
+BEAM |S1000 CPI [Beam, Copy]^
+DIPOLE |S1000 HW [Dipole, How]^
+BEAM |S1000 CPI [Beam, Copy]^
+CPY |S1000 CPI [Copy, Copy]^
+CPY |S1000 BEAM [Copy, Beam]^
+CPI |S1000 DX [Copy, D X]^
+BTU |S1000 CPY [Back to you, Copy]^
+HPE |S1000 SRI [Hope, Sorry]^
+CPI |S1000 CPY [Copy, Copy]^
 TNX |S1000 CPI [Thanks, Copy]^
+SRI |S1000 CPI [Sorry, Copy]^
+HW |S1000 CPY [How, Copy]^
+CPI |S1000 HW [Copy, How]^
+BTU |S1000 HW [Back to you, How]^
+DX |S1000 BEAM [D X, Beam]^
+QRL |S1000 BTU [Q R L, Back to you]^
+SRI |S1000 CPI [Sorry, Copy]^
+CPY |S1000 FB [Copy, Fine business]^
+QSB |S1000 BTU [Q S B, Back to you]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+BEAM |S1000 DX [Beam, D X]^
+SRI |S1000 CPI [Sorry, Copy]^
+CPY |S1000 HW [Copy, How]^
+TNX |S1000 HPE [Thanks, Hope]^
+CPY |S1000 HW [Copy, How]^
+CPI |S1000 CPY [Copy, Copy]^
+BTU |S1000 CPI [Back to you, Copy]^
+CPY |S1000 BTU [Copy, Back to you]^
+CPI |S1000 HPE [Copy, Hope]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 CPY [Copy, Copy]^
+BTU |S1000 HW [Back to you, How]^
+HPE |S1000 CPY [Hope, Copy]^
+CPI |S1000 QSB [Copy, Q S B]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+BEAM |S1000 CPI [Beam, Copy]^
+SRI |S1000 HPE [Sorry, Hope]^
+CPI |S1000 FB [Copy, Fine business]^
+CPI |S1000 BEAM [Copy, Beam]^
+CPI |S1000 HW [Copy, How]^
+QSB |S1000 CPI [Q S B, Copy]^
+HPE |S1000 CPI [Hope, Copy]^
+QRL |S1000 CPI [Q R L, Copy]^
+BTU |S1000 CPI [Back to you, Copy]^
+QRL |S1000 CPI [Q R L, Copy]^
+CPY |S1000 CPI [Copy, Copy]^
+TNX |S1000 SRI [Thanks, Sorry]^
+CPI |S1000 TNX [Copy, Thanks]^
+SRI |S1000 CPI [Sorry, Copy]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
+CPI |S1000 HW [Copy, How]^
+CPI |S1000 SRI [Copy, Sorry]^
 CPY |S1000 CPI [Copy, Copy]^
 HPE |S1000 CPY [Hope, Copy]^
-CPI |S1000 DX [Copy, D X]^
-CPI |S1000 CPY [Copy, Copy]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-HPE |S1000 DX [Hope, D X]^
-CPI |S1000 FB [Copy, Fine business]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-DIPOLE |S1000 HW [Dipole, How]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPI |S1000 TNX [Copy, Thanks]^
 CPI |S1000 HPE [Copy, Hope]^
-FB |S1000 CPI [Fine business, Copy]^
-HW |S1000 CPI [How, Copy]^
-CPY |S1000 CPI [Copy, Copy]^
-FB |S1000 QRL [Fine business, Busy]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 CPY [Copy, Copy]^
-CPI |S1000 QRL [Copy, Busy]^
-HW |S1000 CPI [How, Copy]^
-FB |S1000 CPI [Fine business, Copy]^
-TNX |S1000 HPE [Thanks, Hope]^
-TNX |S1000 CPI [Thanks, Copy]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-QRL |S1000 CPI [Busy, Copy]^
-QRL |S1000 CPI [Busy, Copy]^
-CPY |S1000 CPI [Copy, Copy]^
-HPE |S1000 CPI [Hope, Copy]^
-HPE |S1000 CPI [Hope, Copy]^
-CPY |S1000 CPI [Copy, Copy]^
-SRI |S1000 QRL [Sorry, Busy]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-TNX |S1000 CPI [Thanks, Copy]^
-TNX |S1000 CPI [Thanks, Copy]^
-SRI |S1000 DX [Sorry, D X]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPY |S1000 CPI [Copy, Copy]^
-DIPOLE |S1000 QSB [Dipole, Fading]^
-CPI |S1000 TNX [Copy, Thanks]^
-HPE |S1000 HW [Hope, How]^
-CPI |S1000 HPE [Copy, Hope]^
-BEAM |S1000 CPI [Beam, Copy]^
-FB |S1000 CPI [Fine business, Copy]^
-FB |S1000 SRI [Fine business, Sorry]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-DX |S1000 TNX [D X, Thanks]^
 CPI |S1000 DX [Copy, D X]^
-TNX |S1000 DIPOLE [Thanks, Dipole]^
-CPI |S1000 QRL [Copy, Busy]^
-HW |S1000 FB [How, Fine business]^
-BTU |S1000 QSB [Back to you, Fading]^
-CPI |S1000 FB [Copy, Fine business]^
-CPI |S1000 BEAM [Copy, Beam]^
 CPI |S1000 SRI [Copy, Sorry]^
-CPI |S1000 DIPOLE [Copy, Dipole]^
-QRL |S1000 CPI [Busy, Copy]^
-HW |S1000 CPI [How, Copy]^
-SRI |S1000 CPY [Sorry, Copy]^
-BTU |S1000 CPI [Back to you, Copy]^
-DX |S1000 CPI [D X, Copy]^
-CPY |S1000 CPI [Copy, Copy]^
-QSB |S1000 FB [Fading, Fine business]^
-BEAM |S1000 HW [Beam, How]^
-CPI |S1000 QSB [Copy, Fading]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-DIPOLE |S1000 BEAM [Dipole, Beam]^
-TNX |S1000 CPI [Thanks, Copy]^
-BEAM |S1000 SRI [Beam, Sorry]^
-CPY |S1000 TNX [Copy, Thanks]^
-FB |S1000 CPI [Fine business, Copy]^
-QRL |S1000 CPY [Busy, Copy]^
-HW |S1000 CPI [How, Copy]^
-QSB |S1000 SRI [Fading, Sorry]^
-CPY |S1000 BEAM [Copy, Beam]^
-CPI |S1000 SRI [Copy, Sorry]^
-BTU |S1000 CPI [Back to you, Copy]^
-BTU |S1000 CPI [Back to you, Copy]^
-CPY |S1000 HW [Copy, How]^
-CPI |S1000 SRI [Copy, Sorry]^
-BTU |S1000 CPI [Back to you, Copy]^
-BTU |S1000 CPI [Back to you, Copy]^
-CPY |S1000 CPI [Copy, Copy]^
-DX |S1000 CPI [D X, Copy]^
-SRI |S1000 BEAM [Sorry, Beam]^
-CPI |S1000 HW [Copy, How]^
-HPE |S1000 QSB [Hope, Fading]^
-TNX |S1000 SRI [Thanks, Sorry]^
-CPI |S1000 QSB [Copy, Fading]^
-CPI |S1000 FB [Copy, Fine business]^
-HPE |S1000 BEAM [Hope, Beam]^
-QRL |S1000 BTU [Busy, Back to you]^
-CPI |S1000 TNX [Copy, Thanks]^
-DX |S1000 CPY [D X, Copy]^
-SRI |S1000 DIPOLE [Sorry, Dipole]^
-CPI |S1000 FB [Copy, Fine business]^
-CPI |S1000 TNX [Copy, Thanks]^
-CPI |S1000 DX [Copy, D X]^
-HW |S1000 CPI [How, Copy]^
-CPY |S1000 DX [Copy, D X]^
-SRI |S1000 DX [Sorry, D X]^
-CPI |S1000 BEAM [Copy, Beam]^
-QRL |S1000 CPI [Busy, Copy]^
-BEAM |S1000 HW [Beam, How]^
-BEAM |S1000 DX [Beam, D X]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 SRI [Copy, Sorry]^
-TNX |S1000 CPI [Thanks, Copy]^
-HW |S1000 CPI [How, Copy]^
-HW |S1000 TNX [How, Thanks]^
-BTU |S1000 CPI [Back to you, Copy]^
-CPY |S1000 QRL [Copy, Busy]^
-CPI |S1000 QRL [Copy, Busy]^
-HPE |S1000 QSB [Hope, Fading]^
-CPI |S1000 QSB [Copy, Fading]^
-HPE |S1000 BTU [Hope, Back to you]^
-TNX |S1000 HW [Thanks, How]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 FB [Copy, Fine business]^
-CPI |S1000 CPY [Copy, Copy]^
-DIPOLE |S1000 HW [Dipole, How]^
-BEAM |S1000 SRI [Beam, Sorry]^
-CPI |S1000 FB [Copy, Fine business]^
-CPI |S1000 BEAM [Copy, Beam]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-HW |S1000 FB [How, Fine business]^
-DX |S1000 FB [D X, Fine business]^
-QSB |S1000 CPI [Fading, Copy]^
-QRL |S1000 DIPOLE [Busy, Dipole]^
-QRL |S1000 CPI [Busy, Copy]^
-SRI |S1000 CPI [Sorry, Copy]^
-BEAM |S1000 HPE [Beam, Hope]^
-BEAM |S1000 HW [Beam, How]^
-BEAM |S1000 CPI [Beam, Copy]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-CPI |S1000 TNX [Copy, Thanks]^
-QRL |S1000 CPI [Busy, Copy]^
-DX |S1000 CPI [D X, Copy]^
-SRI |S1000 CPI [Sorry, Copy]^
-QRL |S1000 CPI [Busy, Copy]^
-QRL |S1000 CPI [Busy, Copy]^
-FB |S1000 QRL [Fine business, Busy]^
-BEAM |S1000 DX [Beam, D X]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 DIPOLE [Copy, Dipole]^
-FB |S1000 DX [Fine business, D X]^
-CPI |S1000 FB [Copy, Fine business]^
-DIPOLE |S1000 SRI [Dipole, Sorry]^
-CPI |S1000 TNX [Copy, Thanks]^
-HW |S1000 BEAM [How, Beam]^
-BTU |S1000 FB [Back to you, Fine business]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 SRI [Copy, Sorry]^
-CPI |S1000 FB [Copy, Fine business]^
-HPE |S1000 SRI [Hope, Sorry]^
-FB |S1000 CPI [Fine business, Copy]^
-FB |S1000 CPI [Fine business, Copy]^
-FB |S1000 QRL [Fine business, Busy]^
-BEAM |S1000 DX [Beam, D X]^
-HPE |S1000 TNX [Hope, Thanks]^
-HW |S1000 CPI [How, Copy]^
-DX |S1000 HPE [D X, Hope]^
-CPY |S1000 CPI [Copy, Copy]^
-BTU |S1000 QRL [Back to you, Busy]^
-BEAM |S1000 DIPOLE [Beam, Dipole]^
-CPI |S1000 QRL [Copy, Busy]^
-FB |S1000 BTU [Fine business, Back to you]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPI |S1000 HPE [Copy, Hope]^
-CPI |S1000 FB [Copy, Fine business]^
-QSB |S1000 DIPOLE [Fading, Dipole]^
-CPI |S1000 QSB [Copy, Fading]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 HW [Copy, How]^
-CPY |S1000 TNX [Copy, Thanks]^
-CPI |S1000 QSB [Copy, Fading]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
 BEAM |S1000 TNX [Beam, Thanks]^
-CPI |S1000 FB [Copy, Fine business]^
-CPI |S1000 HPE [Copy, Hope]^
-FB |S1000 CPI [Fine business, Copy]^
-QSB |S1000 CPI [Fading, Copy]^
 CPY |S1000 CPI [Copy, Copy]^
-BEAM |S1000 CPI [Beam, Copy]^
-SRI |S1000 FB [Sorry, Fine business]^
-BEAM |S1000 CPI [Beam, Copy]^
-SRI |S1000 QSB [Sorry, Fading]^
+HPE |S1000 CPI [Hope, Copy]^
+SRI |S1000 BTU [Sorry, Back to you]^
+HW |S1000 FB [How, Fine business]^
 CPI |S1000 DIPOLE [Copy, Dipole]^
-DX |S1000 BTU [D X, Back to you]^
+CPI |S1000 FB [Copy, Fine business]^
+QRL |S1000 CPI [Q R L, Copy]^
+BEAM |S1000 CPI [Beam, Copy]^
+DX |S1000 QSB [D X, Q S B]^
+HPE |S1000 DX [Hope, D X]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
 CPI |S1000 TNX [Copy, Thanks]^
-CPI |S1000 BEAM [Copy, Beam]^
-QSB |S1000 CPI [Fading, Copy]^
-TNX |S1000 QSB [Thanks, Fading]^
+SRI |S1000 FB [Sorry, Fine business]^
+SRI |S1000 CPI [Sorry, Copy]^
+CPY |S1000 CPI [Copy, Copy]^
+TNX |S1000 CPI [Thanks, Copy]^
+HW |S1000 DX [How, D X]^
+CPI |S1000 CPY [Copy, Copy]^
+CPI |S1000 HW [Copy, How]^
+CPI |S1000 SRI [Copy, Sorry]^
+CPI |S1000 FB [Copy, Fine business]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+CPI |S1000 BTU [Copy, Back to you]^
+SRI |S1000 QRL [Sorry, Q R L]^
+BEAM |S1000 CPI [Beam, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+HW |S1000 BEAM [How, Beam]^
+CPY |S1000 CPI [Copy, Copy]^
+TNX |S1000 SRI [Thanks, Sorry]^
+CPI |S1000 SRI [Copy, Sorry]^
+CPI |S1000 TNX [Copy, Thanks]^
+CPI |S1000 DX [Copy, D X]^
+CPI |S1000 HPE [Copy, Hope]^
+CPI |S1000 TNX [Copy, Thanks]^
+CPI |S1000 QSB [Copy, Q S B]^
+CPI |S1000 QRL [Copy, Q R L]^
+BEAM |S1000 CPY [Beam, Copy]^
+QSB |S1000 CPI [Q S B, Copy]^
+CPY |S1000 FB [Copy, Fine business]^
+CPI |S1000 QRL [Copy, Q R L]^
+BEAM |S1000 QRL [Beam, Q R L]^
+TNX |S1000 CPI [Thanks, Copy]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+QSB |S1000 QRL [Q S B, Q R L]^
+CPI |S1000 HPE [Copy, Hope]^
+BEAM |S1000 CPI [Beam, Copy]^
+HPE |S1000 CPI [Hope, Copy]^
+HW |S1000 DIPOLE [How, Dipole]^
+CPI |S1000 QRL [Copy, Q R L]^
+CPI |S1000 SRI [Copy, Sorry]^
+DX |S1000 SRI [D X, Sorry]^
+CPI |S1000 BTU [Copy, Back to you]^
+DX |S1000 CPI [D X, Copy]^
+HPE |S1000 DX [Hope, D X]^
+DIPOLE |S1000 BTU [Dipole, Back to you]^
+CPI |S1000 HW [Copy, How]^
+DX |S1000 CPI [D X, Copy]^
+BEAM |S1000 SRI [Beam, Sorry]^
+CPI |S1000 HPE [Copy, Hope]^
+BEAM |S1000 CPI [Beam, Copy]^
+HW |S1000 SRI [How, Sorry]^
+QRL |S1000 BEAM [Q R L, Beam]^
+TNX |S1000 BEAM [Thanks, Beam]^
+BTU |S1000 CPI [Back to you, Copy]^
+HPE |S1000 BTU [Hope, Back to you]^
 BEAM |S1000 CPI [Beam, Copy]^
 TNX |S1000 CPI [Thanks, Copy]^
-SRI |S1000 QSB [Sorry, Fading]^
-CPI |S1000 DIPOLE [Copy, Dipole]^
-QSB |S1000 TNX [Fading, Thanks]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPI |S1000 QSB [Copy, Fading]^
+CPY |S1000 QRL [Copy, Q R L]^
+HPE |S1000 CPY [Hope, Copy]^
+HW |S1000 QSB [How, Q S B]^
 DIPOLE |S1000 CPI [Dipole, Copy]^
-TNX |S1000 CPY [Thanks, Copy]^
-CPI |S1000 HW [Copy, How]^
-CPI |S1000 QRL [Copy, Busy]^
-HW |S1000 CPI [How, Copy]^
-HPE |S1000 DIPOLE [Hope, Dipole]^
-CPI |S1000 QRL [Copy, Busy]^
-DIPOLE |S1000 CPI [Dipole, Copy]^
-DX |S1000 BEAM [D X, Beam]^
-SRI |S1000 QRL [Sorry, Busy]^
-CPI |S1000 CPY [Copy, Copy]^
-QSB |S1000 DX [Fading, D X]^
-QRL |S1000 CPI [Busy, Copy]^
-HPE |S1000 CPI [Hope, Copy]^
-DX |S1000 CPY [D X, Copy]^
-CPI |S1000 BTU [Copy, Back to you]^
-CPI |S1000 BEAM [Copy, Beam]^
-CPI |S1000 DX [Copy, D X]^
-QRL |S1000 CPI [Busy, Copy]^
-DIPOLE |S1000 CPY [Dipole, Copy]^
-CPI |S1000 DX [Copy, D X]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPI |S1000 HPE [Copy, Hope]^
 CPI |S1000 SRI [Copy, Sorry]^
-CPI |S1000 DIPOLE [Copy, Dipole]^
-QRL |S1000 HW [Busy, How]^
-CPI |S1000 BEAM [Copy, Beam]^
+HW |S1000 TNX [How, Thanks]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+HW |S1000 CPI [How, Copy]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+QSB |S1000 TNX [Q S B, Thanks]^
+CPI |S1000 QSB [Copy, Q S B]^
+CPI |S1000 QRL [Copy, Q R L]^
+CPI |S1000 HPE [Copy, Hope]^

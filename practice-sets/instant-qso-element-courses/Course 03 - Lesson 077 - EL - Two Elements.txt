@@ -1,600 +1,600 @@
+PSE |S1000 QRQ [Please, Q R Q]^
+FT |S1000 EL [Feet, Element]^
+QRQ |S1000 EL [Q R Q, Element]^
+YL |S1000 BCNU [Young lady, Be seeing you]^
+EL |S1000 PSE [Element, Please]^
+EL |S1000 QSY [Element, Q S Y]^
+MNI |S1000 EL [Many, Element]^
+HW\? |S1000 QSL [How copy\?, Q S L]^
+QRP |S1000 EL [Q R P, Element]^
+QRQ |S1000 TX [Q R Q, Transmit]^
+QRQ |S1000 YL [Q R Q, Young lady]^
+QSY |S1000 EL [Q S Y, Element]^
+DR |S1000 PSE [Dear, Please]^
+EL |S1000 FT [Element, Feet]^
 PLS |S1000 EL [Please, Element]^
-QSL |S1000 QRQ [Confirm, High speed]^
-QSL |S1000 QRS [Confirm, Slow speed]^
-EL |S1000 QSY [Element, Change frequency]^
-OP |S1000 DR [Operator, Dear]^
-QRQ |S1000 EL [High speed, Element]^
-QSL |S1000 EL [Confirm, Element]^
-QRS |S1000 PLS [Slow speed, Please]^
-EL |S1000 QSL [Element, Confirm]^
-HW\? |S1000 EL [How copy\?, Element]^
-YL |S1000 PSE [Young lady, Please]^
-RX |S1000 EL [Receive, Element]^
-QSY |S1000 OP [Change frequency, Operator]^
-DR |S1000 EL [Dear, Element]^
-RX |S1000 EL [Receive, Element]^
-QRS |S1000 EL [Slow speed, Element]^
-DR |S1000 HR [Dear, Hear]^
-EL |S1000 QRP [Element, Low power]^
-EL |S1000 QSY [Element, Change frequency]^
-PSE |S1000 MNI [Please, Many]^
-EL |S1000 QRQ [Element, High speed]^
+CFM |S1000 EL [Confirm, Element]^
+OP |S1000 MNI [Operator, Many]^
+EL |S1000 HW\? [Element, How copy\?]^
+FT |S1000 EL [Feet, Element]^
+HR |S1000 TX [Hear, Transmit]^
+EL |S1000 HW\? [Element, How copy\?]^
+EL |S1000 BURO [Element, bureau]^
+EL |S1000 HR [Element, Hear]^
+BCNU |S1000 YL [Be seeing you, Young lady]^
+QRP |S1000 PLS [Q R P, Please]^
+QRS |S1000 EL [Q R S, Element]^
+QRS |S1000 QSL [Q R S, Q S L]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+PSE |S1000 OP [Please, Operator]^
+QSY |S1000 EL [Q S Y, Element]^
+OP |S1000 BURO [Operator, bureau]^
+EL |S1000 QSY [Element, Q S Y]^
+PSE |S1000 RX [Please, Receive]^
+EL |S1000 OP [Element, Operator]^
+BURO |S1000 RX [bureau, Receive]^
+EL |S1000 BCNU [Element, Be seeing you]^
+BURO |S1000 QSL [bureau, Q S L]^
+TX |S1000 QRS [Transmit, Q R S]^
+EL |S1000 HW\? [Element, How copy\?]^
+EL |S1000 TX [Element, Transmit]^
 EL |S1000 CFM [Element, Confirm]^
-QSL |S1000 PSE [Confirm, Please]^
+HW\? |S1000 EL [How copy\?, Element]^
+OP |S1000 FT [Operator, Feet]^
+QSL |S1000 EL [Q S L, Element]^
+QSL |S1000 OP [Q S L, Operator]^
+CFM |S1000 EL [Confirm, Element]^
+HR |S1000 PSE [Hear, Please]^
+EL |S1000 OP [Element, Operator]^
+QRP |S1000 HW\? [Q R P, How copy\?]^
+YL |S1000 QSL [Young lady, Q S L]^
+EL |S1000 HW\? [Element, How copy\?]^
+QRQ |S1000 EL [Q R Q, Element]^
+DR |S1000 FT [Dear, Feet]^
+EL |S1000 PSE [Element, Please]^
+CFM |S1000 EL [Confirm, Element]^
+DR |S1000 QSY [Dear, Q S Y]^
+OP |S1000 EL [Operator, Element]^
+QRS |S1000 FT [Q R S, Feet]^
+YL |S1000 PSE [Young lady, Please]^
+EL |S1000 QSL [Element, Q S L]^
+EL |S1000 HR [Element, Hear]^
+QRQ |S1000 EL [Q R Q, Element]^
+QRQ |S1000 EL [Q R Q, Element]^
+CFM |S1000 EL [Confirm, Element]^
+OP |S1000 EL [Operator, Element]^
+OP |S1000 PSE [Operator, Please]^
+PLS |S1000 CFM [Please, Confirm]^
+QSY |S1000 EL [Q S Y, Element]^
+RX |S1000 PLS [Receive, Please]^
+EL |S1000 OP [Element, Operator]^
+EL |S1000 YL [Element, Young lady]^
+HR |S1000 RX [Hear, Receive]^
+EL |S1000 DR [Element, Dear]^
+EL |S1000 OP [Element, Operator]^
 TX |S1000 EL [Transmit, Element]^
-QSY |S1000 PLS [Change frequency, Please]^
-EL |S1000 QRP [Element, Low power]^
+TX |S1000 YL [Transmit, Young lady]^
+HR |S1000 EL [Hear, Element]^
+HR |S1000 EL [Hear, Element]^
+MNI |S1000 QSY [Many, Q S Y]^
+FT |S1000 EL [Feet, Element]^
+QRQ |S1000 HR [Q R Q, Hear]^
+EL |S1000 BURO [Element, bureau]^
+EL |S1000 QRP [Element, Q R P]^
+QRS |S1000 PLS [Q R S, Please]^
+EL |S1000 TX [Element, Transmit]^
+DR |S1000 EL [Dear, Element]^
+CFM |S1000 PLS [Confirm, Please]^
+QRQ |S1000 EL [Q R Q, Element]^
+PSE |S1000 PLS [Please, Please]^
+HW\? |S1000 QSL [How copy\?, Q S L]^
+EL |S1000 BCNU [Element, Be seeing you]^
+EL |S1000 BURO [Element, bureau]^
+QSY |S1000 EL [Q S Y, Element]^
+QSL |S1000 QRP [Q S L, Q R P]^
+HR |S1000 EL [Hear, Element]^
+PLS |S1000 EL [Please, Element]^
+BURO |S1000 EL [bureau, Element]^
+FT |S1000 EL [Feet, Element]^
+QRP |S1000 YL [Q R P, Young lady]^
+PSE |S1000 EL [Please, Element]^
+QSL |S1000 QSY [Q S L, Q S Y]^
 EL |S1000 PLS [Element, Please]^
-EL |S1000 QSY [Element, Change frequency]^
+BURO |S1000 EL [bureau, Element]^
+PSE |S1000 HR [Please, Hear]^
+QRP |S1000 RX [Q R P, Receive]^
+EL |S1000 BCNU [Element, Be seeing you]^
+DR |S1000 EL [Dear, Element]^
+QRP |S1000 EL [Q R P, Element]^
+QRP |S1000 OP [Q R P, Operator]^
+BCNU |S1000 RX [Be seeing you, Receive]^
+EL |S1000 PSE [Element, Please]^
+QRQ |S1000 EL [Q R Q, Element]^
+HW\? |S1000 EL [How copy\?, Element]^
+YL |S1000 EL [Young lady, Element]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+BURO |S1000 EL [bureau, Element]^
+OP |S1000 BCNU [Operator, Be seeing you]^
+QRQ |S1000 CFM [Q R Q, Confirm]^
+RX |S1000 BCNU [Receive, Be seeing you]^
+HR |S1000 EL [Hear, Element]^
+BURO |S1000 EL [bureau, Element]^
+QRQ |S1000 EL [Q R Q, Element]^
+QSY |S1000 QSL [Q S Y, Q S L]^
+EL |S1000 QRP [Element, Q R P]^
+MNI |S1000 EL [Many, Element]^
+MNI |S1000 EL [Many, Element]^
+CFM |S1000 RX [Confirm, Receive]^
+TX |S1000 YL [Transmit, Young lady]^
+EL |S1000 QSL [Element, Q S L]^
+DR |S1000 EL [Dear, Element]^
+TX |S1000 EL [Transmit, Element]^
+QRS |S1000 EL [Q R S, Element]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+DR |S1000 EL [Dear, Element]^
+MNI |S1000 EL [Many, Element]^
+PLS |S1000 TX [Please, Transmit]^
+YL |S1000 FT [Young lady, Feet]^
+EL |S1000 QRS [Element, Q R S]^
+EL |S1000 DR [Element, Dear]^
+EL |S1000 HR [Element, Hear]^
+EL |S1000 MNI [Element, Many]^
+HR |S1000 EL [Hear, Element]^
+YL |S1000 EL [Young lady, Element]^
+HR |S1000 BCNU [Hear, Be seeing you]^
+PSE |S1000 EL [Please, Element]^
+PSE |S1000 HW\? [Please, How copy\?]^
+YL |S1000 EL [Young lady, Element]^
+QSL |S1000 YL [Q S L, Young lady]^
+EL |S1000 QRS [Element, Q R S]^
+FT |S1000 CFM [Feet, Confirm]^
+EL |S1000 QRP [Element, Q R P]^
+EL |S1000 QRP [Element, Q R P]^
+QRQ |S1000 QSL [Q R Q, Q S L]^
+PSE |S1000 EL [Please, Element]^
+CFM |S1000 EL [Confirm, Element]^
+PSE |S1000 EL [Please, Element]^
+QSL |S1000 YL [Q S L, Young lady]^
+EL |S1000 HW\? [Element, How copy\?]^
+EL |S1000 RX [Element, Receive]^
+BURO |S1000 EL [bureau, Element]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+OP |S1000 EL [Operator, Element]^
+QRP |S1000 BURO [Q R P, bureau]^
+EL |S1000 FT [Element, Feet]^
+EL |S1000 CFM [Element, Confirm]^
+EL |S1000 BURO [Element, bureau]^
+EL |S1000 QRQ [Element, Q R Q]^
+EL |S1000 QRQ [Element, Q R Q]^
+EL |S1000 QRS [Element, Q R S]^
+EL |S1000 RX [Element, Receive]^
+EL |S1000 HR [Element, Hear]^
+DR |S1000 QSY [Dear, Q S Y]^
+EL |S1000 RX [Element, Receive]^
+EL |S1000 QRQ [Element, Q R Q]^
+MNI |S1000 TX [Many, Transmit]^
+EL |S1000 QRS [Element, Q R S]^
+EL |S1000 PLS [Element, Please]^
+FT |S1000 EL [Feet, Element]^
+PSE |S1000 EL [Please, Element]^
+RX |S1000 CFM [Receive, Confirm]^
+PLS |S1000 EL [Please, Element]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+EL |S1000 QRS [Element, Q R S]^
+QSY |S1000 OP [Q S Y, Operator]^
+QRP |S1000 EL [Q R P, Element]^
+TX |S1000 QSY [Transmit, Q S Y]^
+EL |S1000 TX [Element, Transmit]^
+DR |S1000 EL [Dear, Element]^
+TX |S1000 EL [Transmit, Element]^
+QRP |S1000 OP [Q R P, Operator]^
+EL |S1000 BCNU [Element, Be seeing you]^
+CFM |S1000 DR [Confirm, Dear]^
+FT |S1000 EL [Feet, Element]^
+QSL |S1000 EL [Q S L, Element]^
+HR |S1000 EL [Hear, Element]^
+YL |S1000 BCNU [Young lady, Be seeing you]^
+EL |S1000 HR [Element, Hear]^
+EL |S1000 CFM [Element, Confirm]^
+EL |S1000 RX [Element, Receive]^
+EL |S1000 QRP [Element, Q R P]^
+PLS |S1000 YL [Please, Young lady]^
+EL |S1000 DR [Element, Dear]^
+RX |S1000 EL [Receive, Element]^
+QSL |S1000 EL [Q S L, Element]^
+BURO |S1000 EL [bureau, Element]^
+RX |S1000 BCNU [Receive, Be seeing you]^
+EL |S1000 YL [Element, Young lady]^
+EL |S1000 TX [Element, Transmit]^
+EL |S1000 MNI [Element, Many]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+BURO |S1000 QSY [bureau, Q S Y]^
+EL |S1000 OP [Element, Operator]^
+BCNU |S1000 EL [Be seeing you, Element]^
+YL |S1000 QRS [Young lady, Q R S]^
+HR |S1000 QSL [Hear, Q S L]^
+EL |S1000 HW\? [Element, How copy\?]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+EL |S1000 DR [Element, Dear]^
+QSY |S1000 EL [Q S Y, Element]^
+TX |S1000 BURO [Transmit, bureau]^
+EL |S1000 OP [Element, Operator]^
+PLS |S1000 RX [Please, Receive]^
+HR |S1000 EL [Hear, Element]^
+QRQ |S1000 EL [Q R Q, Element]^
+OP |S1000 EL [Operator, Element]^
+PLS |S1000 EL [Please, Element]^
+QSL |S1000 PLS [Q S L, Please]^
+QRP |S1000 HR [Q R P, Hear]^
+QRQ |S1000 BURO [Q R Q, bureau]^
+PLS |S1000 EL [Please, Element]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+EL |S1000 FT [Element, Feet]^
+PLS |S1000 QRS [Please, Q R S]^
+QRP |S1000 EL [Q R P, Element]^
+PLS |S1000 EL [Please, Element]^
+OP |S1000 BURO [Operator, bureau]^
+QRQ |S1000 QRS [Q R Q, Q R S]^
+BURO |S1000 EL [bureau, Element]^
+QSY |S1000 EL [Q S Y, Element]^
+PLS |S1000 CFM [Please, Confirm]^
+EL |S1000 DR [Element, Dear]^
+EL |S1000 PSE [Element, Please]^
+DR |S1000 EL [Dear, Element]^
+OP |S1000 EL [Operator, Element]^
+PLS |S1000 EL [Please, Element]^
+BURO |S1000 EL [bureau, Element]^
+MNI |S1000 OP [Many, Operator]^
+EL |S1000 PSE [Element, Please]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+QSL |S1000 FT [Q S L, Feet]^
+EL |S1000 BURO [Element, bureau]^
+QRP |S1000 EL [Q R P, Element]^
+QRQ |S1000 TX [Q R Q, Transmit]^
+EL |S1000 QSY [Element, Q S Y]^
+RX |S1000 EL [Receive, Element]^
+PSE |S1000 TX [Please, Transmit]^
+QSL |S1000 EL [Q S L, Element]^
+MNI |S1000 PLS [Many, Please]^
+EL |S1000 PLS [Element, Please]^
+DR |S1000 EL [Dear, Element]^
+QRP |S1000 EL [Q R P, Element]^
+QSY |S1000 QSL [Q S Y, Q S L]^
+BURO |S1000 EL [bureau, Element]^
+DR |S1000 QRQ [Dear, Q R Q]^
+MNI |S1000 QRP [Many, Q R P]^
+EL |S1000 FT [Element, Feet]^
+EL |S1000 QSL [Element, Q S L]^
+FT |S1000 PSE [Feet, Please]^
+EL |S1000 TX [Element, Transmit]^
+QRP |S1000 PLS [Q R P, Please]^
+PSE |S1000 EL [Please, Element]^
+YL |S1000 DR [Young lady, Dear]^
+QRS |S1000 HW\? [Q R S, How copy\?]^
+EL |S1000 DR [Element, Dear]^
+EL |S1000 BCNU [Element, Be seeing you]^
+EL |S1000 FT [Element, Feet]^
+OP |S1000 EL [Operator, Element]^
+PLS |S1000 EL [Please, Element]^
+QSY |S1000 PSE [Q S Y, Please]^
+OP |S1000 CFM [Operator, Confirm]^
+DR |S1000 EL [Dear, Element]^
+OP |S1000 EL [Operator, Element]^
+BURO |S1000 EL [bureau, Element]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+EL |S1000 PLS [Element, Please]^
+EL |S1000 MNI [Element, Many]^
+FT |S1000 YL [Feet, Young lady]^
+EL |S1000 QRS [Element, Q R S]^
+HW\? |S1000 PLS [How copy\?, Please]^
+EL |S1000 YL [Element, Young lady]^
+DR |S1000 EL [Dear, Element]^
+QRP |S1000 EL [Q R P, Element]^
+CFM |S1000 EL [Confirm, Element]^
+HW\? |S1000 EL [How copy\?, Element]^
+QSL |S1000 EL [Q S L, Element]^
+DR |S1000 QRQ [Dear, Q R Q]^
+PSE |S1000 BCNU [Please, Be seeing you]^
+QRP |S1000 OP [Q R P, Operator]^
+EL |S1000 YL [Element, Young lady]^
+MNI |S1000 EL [Many, Element]^
+TX |S1000 OP [Transmit, Operator]^
+EL |S1000 YL [Element, Young lady]^
+EL |S1000 RX [Element, Receive]^
+CFM |S1000 EL [Confirm, Element]^
+HW\? |S1000 QRS [How copy\?, Q R S]^
+BCNU |S1000 EL [Be seeing you, Element]^
+OP |S1000 BCNU [Operator, Be seeing you]^
+YL |S1000 EL [Young lady, Element]^
+QSL |S1000 EL [Q S L, Element]^
+CFM |S1000 EL [Confirm, Element]^
+QRQ |S1000 EL [Q R Q, Element]^
+PLS |S1000 EL [Please, Element]^
+YL |S1000 QRP [Young lady, Q R P]^
+YL |S1000 EL [Young lady, Element]^
+YL |S1000 EL [Young lady, Element]^
+MNI |S1000 OP [Many, Operator]^
+HW\? |S1000 MNI [How copy\?, Many]^
+FT |S1000 EL [Feet, Element]^
+MNI |S1000 EL [Many, Element]^
+QSL |S1000 EL [Q S L, Element]^
+BURO |S1000 EL [bureau, Element]^
+TX |S1000 EL [Transmit, Element]^
+BCNU |S1000 EL [Be seeing you, Element]^
+OP |S1000 YL [Operator, Young lady]^
+HW\? |S1000 FT [How copy\?, Feet]^
+HR |S1000 QSL [Hear, Q S L]^
+FT |S1000 OP [Feet, Operator]^
+EL |S1000 MNI [Element, Many]^
+QRP |S1000 PSE [Q R P, Please]^
+BURO |S1000 FT [bureau, Feet]^
+EL |S1000 QRS [Element, Q R S]^
+BCNU |S1000 QRP [Be seeing you, Q R P]^
+RX |S1000 PLS [Receive, Please]^
+YL |S1000 QRQ [Young lady, Q R Q]^
+QRP |S1000 DR [Q R P, Dear]^
+EL |S1000 QRS [Element, Q R S]^
+QRQ |S1000 DR [Q R Q, Dear]^
+EL |S1000 PLS [Element, Please]^
+QSY |S1000 PLS [Q S Y, Please]^
+HR |S1000 EL [Hear, Element]^
+YL |S1000 BCNU [Young lady, Be seeing you]^
+EL |S1000 PLS [Element, Please]^
+EL |S1000 QRQ [Element, Q R Q]^
+EL |S1000 QRQ [Element, Q R Q]^
+TX |S1000 BCNU [Transmit, Be seeing you]^
+EL |S1000 PLS [Element, Please]^
+CFM |S1000 EL [Confirm, Element]^
+MNI |S1000 OP [Many, Operator]^
+PLS |S1000 EL [Please, Element]^
+QSL |S1000 EL [Q S L, Element]^
+PLS |S1000 YL [Please, Young lady]^
+MNI |S1000 OP [Many, Operator]^
+HR |S1000 OP [Hear, Operator]^
+EL |S1000 PLS [Element, Please]^
+QRP |S1000 EL [Q R P, Element]^
+CFM |S1000 YL [Confirm, Young lady]^
+EL |S1000 FT [Element, Feet]^
+CFM |S1000 EL [Confirm, Element]^
+BCNU |S1000 EL [Be seeing you, Element]^
+CFM |S1000 FT [Confirm, Feet]^
+EL |S1000 TX [Element, Transmit]^
+EL |S1000 FT [Element, Feet]^
+HW\? |S1000 MNI [How copy\?, Many]^
+HR |S1000 HW\? [Hear, How copy\?]^
+PLS |S1000 EL [Please, Element]^
+FT |S1000 PSE [Feet, Please]^
+BURO |S1000 EL [bureau, Element]^
+RX |S1000 DR [Receive, Dear]^
+PSE |S1000 CFM [Please, Confirm]^
+TX |S1000 BCNU [Transmit, Be seeing you]^
+QRQ |S1000 OP [Q R Q, Operator]^
+EL |S1000 RX [Element, Receive]^
+MNI |S1000 OP [Many, Operator]^
+QSL |S1000 EL [Q S L, Element]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+TX |S1000 EL [Transmit, Element]^
+RX |S1000 BCNU [Receive, Be seeing you]^
+EL |S1000 OP [Element, Operator]^
+EL |S1000 QSY [Element, Q S Y]^
+FT |S1000 EL [Feet, Element]^
+BCNU |S1000 EL [Be seeing you, Element]^
+CFM |S1000 DR [Confirm, Dear]^
+OP |S1000 EL [Operator, Element]^
+HW\? |S1000 PSE [How copy\?, Please]^
+EL |S1000 PSE [Element, Please]^
+EL |S1000 FT [Element, Feet]^
 YL |S1000 MNI [Young lady, Many]^
 EL |S1000 PLS [Element, Please]^
-EL |S1000 CFM [Element, Confirm]^
-TX |S1000 EL [Transmit, Element]^
-PLS |S1000 EL [Please, Element]^
-QRP |S1000 HR [Low power, Hear]^
-EL |S1000 FT [Element, Feet]^
-EL |S1000 CFM [Element, Confirm]^
-PSE |S1000 EL [Please, Element]^
-TX |S1000 EL [Transmit, Element]^
-CFM |S1000 YL [Confirm, Young lady]^
-CFM |S1000 BCNU [Confirm, Be seeing you]^
-EL |S1000 QSY [Element, Change frequency]^
-EL |S1000 PLS [Element, Please]^
-EL |S1000 QRP [Element, Low power]^
-QSY |S1000 EL [Change frequency, Element]^
-TX |S1000 PSE [Transmit, Please]^
-EL |S1000 QSY [Element, Change frequency]^
-EL |S1000 QSL [Element, Confirm]^
-EL |S1000 QSY [Element, Change frequency]^
-EL |S1000 FT [Element, Feet]^
-EL |S1000 TX [Element, Transmit]^
-MNI |S1000 EL [Many, Element]^
-DR |S1000 EL [Dear, Element]^
-BCNU |S1000 EL [Be seeing you, Element]^
-QSL |S1000 EL [Confirm, Element]^
-TX |S1000 QRS [Transmit, Slow speed]^
-EL |S1000 QRS [Element, Slow speed]^
-DR |S1000 QRS [Dear, Slow speed]^
-EL |S1000 FT [Element, Feet]^
-PSE |S1000 DR [Please, Dear]^
-QRS |S1000 MNI [Slow speed, Many]^
 EL |S1000 PSE [Element, Please]^
-EL |S1000 CFM [Element, Confirm]^
-QRQ |S1000 PSE [High speed, Please]^
-BURO |S1000 DR [bureau, Dear]^
-EL |S1000 MNI [Element, Many]^
-CFM |S1000 EL [Confirm, Element]^
-QRQ |S1000 OP [High speed, Operator]^
-QRP |S1000 EL [Low power, Element]^
-MNI |S1000 BCNU [Many, Be seeing you]^
-EL |S1000 PLS [Element, Please]^
-EL |S1000 DR [Element, Dear]^
-EL |S1000 YL [Element, Young lady]^
-QRS |S1000 EL [Slow speed, Element]^
-PLS |S1000 OP [Please, Operator]^
-EL |S1000 QRP [Element, Low power]^
-PSE |S1000 YL [Please, Young lady]^
-EL |S1000 QRQ [Element, High speed]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-FT |S1000 EL [Feet, Element]^
-HW\? |S1000 PLS [How copy\?, Please]^
-EL |S1000 MNI [Element, Many]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-EL |S1000 PLS [Element, Please]^
-MNI |S1000 EL [Many, Element]^
-QSL |S1000 EL [Confirm, Element]^
-QSL |S1000 PSE [Confirm, Please]^
-EL |S1000 HR [Element, Hear]^
-OP |S1000 MNI [Operator, Many]^
-EL |S1000 PSE [Element, Please]^
-FT |S1000 QRP [Feet, Low power]^
-RX |S1000 OP [Receive, Operator]^
-HW\? |S1000 EL [How copy\?, Element]^
-BCNU |S1000 EL [Be seeing you, Element]^
-QSY |S1000 QRS [Change frequency, Slow speed]^
-RX |S1000 YL [Receive, Young lady]^
-FT |S1000 OP [Feet, Operator]^
+RX |S1000 BURO [Receive, bureau]^
+EL |S1000 OP [Element, Operator]^
 YL |S1000 EL [Young lady, Element]^
-QRS |S1000 FT [Slow speed, Feet]^
 PSE |S1000 EL [Please, Element]^
-MNI |S1000 QSL [Many, Confirm]^
-MNI |S1000 FT [Many, Feet]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-QSY |S1000 CFM [Change frequency, Confirm]^
-QSL |S1000 PSE [Confirm, Please]^
-DR |S1000 QRQ [Dear, High speed]^
-TX |S1000 EL [Transmit, Element]^
-BURO |S1000 BCNU [bureau, Be seeing you]^
-QRS |S1000 EL [Slow speed, Element]^
-OP |S1000 QRS [Operator, Slow speed]^
-EL |S1000 YL [Element, Young lady]^
-PLS |S1000 QRQ [Please, High speed]^
-CFM |S1000 MNI [Confirm, Many]^
-EL |S1000 QSL [Element, Confirm]^
-CFM |S1000 HR [Confirm, Hear]^
-EL |S1000 OP [Element, Operator]^
-CFM |S1000 QRP [Confirm, Low power]^
-BURO |S1000 QSL [bureau, Confirm]^
-PSE |S1000 EL [Please, Element]^
-MNI |S1000 QRS [Many, Slow speed]^
-EL |S1000 OP [Element, Operator]^
-QRP |S1000 EL [Low power, Element]^
-QRS |S1000 EL [Slow speed, Element]^
-QRP |S1000 CFM [Low power, Confirm]^
-EL |S1000 PSE [Element, Please]^
-EL |S1000 PSE [Element, Please]^
-EL |S1000 QRS [Element, Slow speed]^
-EL |S1000 HW\? [Element, How copy\?]^
-HR |S1000 EL [Hear, Element]^
-QRP |S1000 EL [Low power, Element]^
-QRQ |S1000 BURO [High speed, bureau]^
-CFM |S1000 QRS [Confirm, Slow speed]^
-EL |S1000 QSY [Element, Change frequency]^
-EL |S1000 PLS [Element, Please]^
-EL |S1000 DR [Element, Dear]^
-EL |S1000 HR [Element, Hear]^
-EL |S1000 HR [Element, Hear]^
-EL |S1000 OP [Element, Operator]^
-HR |S1000 RX [Hear, Receive]^
-BURO |S1000 RX [bureau, Receive]^
-QSL |S1000 FT [Confirm, Feet]^
-RX |S1000 EL [Receive, Element]^
-BURO |S1000 QSL [bureau, Confirm]^
-EL |S1000 BCNU [Element, Be seeing you]^
-EL |S1000 BCNU [Element, Be seeing you]^
-EL |S1000 QSL [Element, Confirm]^
-EL |S1000 OP [Element, Operator]^
-PLS |S1000 EL [Please, Element]^
-HR |S1000 YL [Hear, Young lady]^
-QRQ |S1000 EL [High speed, Element]^
-QRQ |S1000 BCNU [High speed, Be seeing you]^
-EL |S1000 QRS [Element, Slow speed]^
-PSE |S1000 FT [Please, Feet]^
-QRP |S1000 EL [Low power, Element]^
-HR |S1000 EL [Hear, Element]^
-DR |S1000 EL [Dear, Element]^
-YL |S1000 QRP [Young lady, Low power]^
-QSY |S1000 TX [Change frequency, Transmit]^
-EL |S1000 YL [Element, Young lady]^
-PSE |S1000 QSY [Please, Change frequency]^
-QRP |S1000 YL [Low power, Young lady]^
-MNI |S1000 EL [Many, Element]^
-PLS |S1000 QRQ [Please, High speed]^
-OP |S1000 EL [Operator, Element]^
-DR |S1000 HR [Dear, Hear]^
-QRS |S1000 RX [Slow speed, Receive]^
-HR |S1000 RX [Hear, Receive]^
-DR |S1000 MNI [Dear, Many]^
+QSL |S1000 HW\? [Q S L, How copy\?]^
 EL |S1000 MNI [Element, Many]^
-TX |S1000 EL [Transmit, Element]^
-PSE |S1000 RX [Please, Receive]^
-MNI |S1000 EL [Many, Element]^
-PSE |S1000 CFM [Please, Confirm]^
-PLS |S1000 QRS [Please, Slow speed]^
-EL |S1000 QRQ [Element, High speed]^
+HW\? |S1000 CFM [How copy\?, Confirm]^
 EL |S1000 PSE [Element, Please]^
-EL |S1000 HR [Element, Hear]^
-EL |S1000 RX [Element, Receive]^
-EL |S1000 TX [Element, Transmit]^
-QSL |S1000 EL [Confirm, Element]^
-TX |S1000 RX [Transmit, Receive]^
-QSY |S1000 EL [Change frequency, Element]^
-QSL |S1000 EL [Confirm, Element]^
-CFM |S1000 EL [Confirm, Element]^
-QSY |S1000 HW\? [Change frequency, How copy\?]^
-EL |S1000 CFM [Element, Confirm]^
-QRP |S1000 QRQ [Low power, High speed]^
-EL |S1000 QRQ [Element, High speed]^
-QRS |S1000 EL [Slow speed, Element]^
-FT |S1000 PSE [Feet, Please]^
-EL |S1000 CFM [Element, Confirm]^
-EL |S1000 BCNU [Element, Be seeing you]^
-EL |S1000 QRP [Element, Low power]^
-EL |S1000 QSL [Element, Confirm]^
-TX |S1000 PLS [Transmit, Please]^
-FT |S1000 HW\? [Feet, How copy\?]^
-EL |S1000 FT [Element, Feet]^
-TX |S1000 HR [Transmit, Hear]^
-OP |S1000 EL [Operator, Element]^
-QSY |S1000 EL [Change frequency, Element]^
-HR |S1000 FT [Hear, Feet]^
-QSL |S1000 DR [Confirm, Dear]^
-EL |S1000 QRP [Element, Low power]^
-EL |S1000 QSL [Element, Confirm]^
-EL |S1000 HR [Element, Hear]^
-OP |S1000 EL [Operator, Element]^
-RX |S1000 EL [Receive, Element]^
-YL |S1000 EL [Young lady, Element]^
-RX |S1000 EL [Receive, Element]^
-PLS |S1000 MNI [Please, Many]^
-EL |S1000 QRQ [Element, High speed]^
-EL |S1000 PSE [Element, Please]^
-DR |S1000 PSE [Dear, Please]^
-EL |S1000 FT [Element, Feet]^
-OP |S1000 PSE [Operator, Please]^
-QRP |S1000 HW\? [Low power, How copy\?]^
+QRP |S1000 CFM [Q R P, Confirm]^
+QSY |S1000 EL [Q S Y, Element]^
+QSY |S1000 EL [Q S Y, Element]^
 PLS |S1000 PSE [Please, Please]^
-BURO |S1000 EL [bureau, Element]^
-BURO |S1000 EL [bureau, Element]^
-PLS |S1000 EL [Please, Element]^
-BCNU |S1000 EL [Be seeing you, Element]^
-HR |S1000 EL [Hear, Element]^
-OP |S1000 EL [Operator, Element]^
-CFM |S1000 QRQ [Confirm, High speed]^
-EL |S1000 MNI [Element, Many]^
-EL |S1000 PSE [Element, Please]^
-EL |S1000 QSY [Element, Change frequency]^
-FT |S1000 EL [Feet, Element]^
-HR |S1000 EL [Hear, Element]^
-PSE |S1000 CFM [Please, Confirm]^
-BCNU |S1000 PLS [Be seeing you, Please]^
-DR |S1000 PLS [Dear, Please]^
-EL |S1000 HR [Element, Hear]^
-PSE |S1000 EL [Please, Element]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-EL |S1000 CFM [Element, Confirm]^
-EL |S1000 QSL [Element, Confirm]^
-TX |S1000 EL [Transmit, Element]^
-HW\? |S1000 TX [How copy\?, Transmit]^
-EL |S1000 QSL [Element, Confirm]^
-TX |S1000 YL [Transmit, Young lady]^
-EL |S1000 RX [Element, Receive]^
-MNI |S1000 RX [Many, Receive]^
-OP |S1000 PLS [Operator, Please]^
-CFM |S1000 EL [Confirm, Element]^
-QSL |S1000 QRS [Confirm, Slow speed]^
-EL |S1000 QRQ [Element, High speed]^
-HW\? |S1000 QRP [How copy\?, Low power]^
-QRS |S1000 EL [Slow speed, Element]^
-QRP |S1000 RX [Low power, Receive]^
-EL |S1000 OP [Element, Operator]^
-EL |S1000 QSY [Element, Change frequency]^
-PSE |S1000 EL [Please, Element]^
-OP |S1000 EL [Operator, Element]^
-QSY |S1000 EL [Change frequency, Element]^
-MNI |S1000 PSE [Many, Please]^
-EL |S1000 QRQ [Element, High speed]^
-EL |S1000 TX [Element, Transmit]^
-BCNU |S1000 HW\? [Be seeing you, How copy\?]^
-EL |S1000 HW\? [Element, How copy\?]^
-EL |S1000 OP [Element, Operator]^
-EL |S1000 RX [Element, Receive]^
-OP |S1000 EL [Operator, Element]^
-FT |S1000 BURO [Feet, bureau]^
-EL |S1000 QSY [Element, Change frequency]^
-EL |S1000 RX [Element, Receive]^
-DR |S1000 RX [Dear, Receive]^
-EL |S1000 CFM [Element, Confirm]^
-BURO |S1000 DR [bureau, Dear]^
-EL |S1000 OP [Element, Operator]^
-EL |S1000 MNI [Element, Many]^
-EL |S1000 HW\? [Element, How copy\?]^
-EL |S1000 DR [Element, Dear]^
-CFM |S1000 EL [Confirm, Element]^
-QRQ |S1000 HW\? [High speed, How copy\?]^
-EL |S1000 QRQ [Element, High speed]^
-EL |S1000 FT [Element, Feet]^
-EL |S1000 MNI [Element, Many]^
-EL |S1000 BURO [Element, bureau]^
-HR |S1000 PLS [Hear, Please]^
-EL |S1000 CFM [Element, Confirm]^
-EL |S1000 QRQ [Element, High speed]^
+YL |S1000 QSL [Young lady, Q S L]^
 MNI |S1000 EL [Many, Element]^
-HR |S1000 QSL [Hear, Confirm]^
-PLS |S1000 FT [Please, Feet]^
-EL |S1000 MNI [Element, Many]^
-CFM |S1000 EL [Confirm, Element]^
-PLS |S1000 OP [Please, Operator]^
-YL |S1000 QRQ [Young lady, High speed]^
-FT |S1000 QSL [Feet, Confirm]^
-EL |S1000 HW\? [Element, How copy\?]^
-PLS |S1000 EL [Please, Element]^
-DR |S1000 QRQ [Dear, High speed]^
-EL |S1000 QSL [Element, Confirm]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-PSE |S1000 DR [Please, Dear]^
-QRS |S1000 HW\? [Slow speed, How copy\?]^
-EL |S1000 DR [Element, Dear]^
-EL |S1000 PSE [Element, Please]^
-QSY |S1000 BURO [Change frequency, bureau]^
-EL |S1000 HW\? [Element, How copy\?]^
-DR |S1000 EL [Dear, Element]^
-PLS |S1000 EL [Please, Element]^
-MNI |S1000 BURO [Many, bureau]^
-PLS |S1000 EL [Please, Element]^
-CFM |S1000 EL [Confirm, Element]^
-QSL |S1000 PSE [Confirm, Please]^
-EL |S1000 QSY [Element, Change frequency]^
-CFM |S1000 TX [Confirm, Transmit]^
-CFM |S1000 EL [Confirm, Element]^
-PLS |S1000 TX [Please, Transmit]^
-QSL |S1000 EL [Confirm, Element]^
-CFM |S1000 QSL [Confirm, Confirm]^
-QRQ |S1000 EL [High speed, Element]^
-CFM |S1000 EL [Confirm, Element]^
-QSL |S1000 QRQ [Confirm, High speed]^
-QRP |S1000 HW\? [Low power, How copy\?]^
-HR |S1000 EL [Hear, Element]^
-RX |S1000 MNI [Receive, Many]^
-BURO |S1000 PLS [bureau, Please]^
-EL |S1000 PSE [Element, Please]^
-FT |S1000 EL [Feet, Element]^
-CFM |S1000 HW\? [Confirm, How copy\?]^
-HR |S1000 EL [Hear, Element]^
-BURO |S1000 QRP [bureau, Low power]^
-FT |S1000 QRP [Feet, Low power]^
-QRQ |S1000 EL [High speed, Element]^
-QRP |S1000 EL [Low power, Element]^
-MNI |S1000 QSL [Many, Confirm]^
-DR |S1000 YL [Dear, Young lady]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-EL |S1000 MNI [Element, Many]^
-CFM |S1000 EL [Confirm, Element]^
-QRQ |S1000 FT [High speed, Feet]^
-EL |S1000 MNI [Element, Many]^
-RX |S1000 EL [Receive, Element]^
-HR |S1000 QSY [Hear, Change frequency]^
-PLS |S1000 MNI [Please, Many]^
-BURO |S1000 BCNU [bureau, Be seeing you]^
+MNI |S1000 QRP [Many, Q R P]^
 YL |S1000 EL [Young lady, Element]^
-QSY |S1000 OP [Change frequency, Operator]^
-BURO |S1000 PLS [bureau, Please]^
-TX |S1000 HW\? [Transmit, How copy\?]^
-TX |S1000 DR [Transmit, Dear]^
-EL |S1000 MNI [Element, Many]^
-QRS |S1000 EL [Slow speed, Element]^
-QRP |S1000 EL [Low power, Element]^
-DR |S1000 EL [Dear, Element]^
-TX |S1000 EL [Transmit, Element]^
-QSY |S1000 BURO [Change frequency, bureau]^
-QRS |S1000 EL [Slow speed, Element]^
-DR |S1000 QSL [Dear, Confirm]^
-HR |S1000 MNI [Hear, Many]^
-BURO |S1000 EL [bureau, Element]^
-PSE |S1000 EL [Please, Element]^
-HW\? |S1000 EL [How copy\?, Element]^
-BCNU |S1000 EL [Be seeing you, Element]^
 FT |S1000 EL [Feet, Element]^
-DR |S1000 EL [Dear, Element]^
-CFM |S1000 DR [Confirm, Dear]^
-EL |S1000 QSL [Element, Confirm]^
-FT |S1000 BURO [Feet, bureau]^
-HR |S1000 EL [Hear, Element]^
-QRP |S1000 BURO [Low power, bureau]^
-PSE |S1000 YL [Please, Young lady]^
-EL |S1000 QRP [Element, Low power]^
-BURO |S1000 PLS [bureau, Please]^
-EL |S1000 FT [Element, Feet]^
-PLS |S1000 QRP [Please, Low power]^
-RX |S1000 HW\? [Receive, How copy\?]^
-EL |S1000 QRS [Element, Slow speed]^
+PLS |S1000 QRP [Please, Q R P]^
+EL |S1000 CFM [Element, Confirm]^
 EL |S1000 RX [Element, Receive]^
-QRS |S1000 EL [Slow speed, Element]^
+EL |S1000 FT [Element, Feet]^
+HR |S1000 QRP [Hear, Q R P]^
+EL |S1000 FT [Element, Feet]^
+BCNU |S1000 EL [Be seeing you, Element]^
+BCNU |S1000 EL [Be seeing you, Element]^
+QRS |S1000 EL [Q R S, Element]^
+HR |S1000 QRS [Hear, Q R S]^
+EL |S1000 YL [Element, Young lady]^
+EL |S1000 PLS [Element, Please]^
+PSE |S1000 QRP [Please, Q R P]^
+EL |S1000 PLS [Element, Please]^
+OP |S1000 EL [Operator, Element]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+EL |S1000 OP [Element, Operator]^
 BURO |S1000 YL [bureau, Young lady]^
-EL |S1000 DR [Element, Dear]^
-OP |S1000 QRS [Operator, Slow speed]^
-RX |S1000 HW\? [Receive, How copy\?]^
+EL |S1000 RX [Element, Receive]^
+EL |S1000 FT [Element, Feet]^
+QRQ |S1000 PSE [Q R Q, Please]^
+OP |S1000 EL [Operator, Element]^
+HR |S1000 QSL [Hear, Q S L]^
+QRQ |S1000 BURO [Q R Q, bureau]^
+QSL |S1000 EL [Q S L, Element]^
+QRP |S1000 YL [Q R P, Young lady]^
+BURO |S1000 EL [bureau, Element]^
+BCNU |S1000 CFM [Be seeing you, Confirm]^
+QRQ |S1000 EL [Q R Q, Element]^
+QSL |S1000 EL [Q S L, Element]^
+HR |S1000 PLS [Hear, Please]^
+YL |S1000 BCNU [Young lady, Be seeing you]^
+EL |S1000 OP [Element, Operator]^
+EL |S1000 BCNU [Element, Be seeing you]^
 MNI |S1000 EL [Many, Element]^
-QSL |S1000 QRP [Confirm, Low power]^
-EL |S1000 YL [Element, Young lady]^
-EL |S1000 YL [Element, Young lady]^
+YL |S1000 QRS [Young lady, Q R S]^
+QRP |S1000 EL [Q R P, Element]^
+RX |S1000 DR [Receive, Dear]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+YL |S1000 OP [Young lady, Operator]^
+BURO |S1000 TX [bureau, Transmit]^
+MNI |S1000 FT [Many, Feet]^
+EL |S1000 FT [Element, Feet]^
 OP |S1000 EL [Operator, Element]^
 BCNU |S1000 EL [Be seeing you, Element]^
-BURO |S1000 EL [bureau, Element]^
-RX |S1000 EL [Receive, Element]^
-PLS |S1000 EL [Please, Element]^
-RX |S1000 DR [Receive, Dear]^
-EL |S1000 QRS [Element, Slow speed]^
-EL |S1000 YL [Element, Young lady]^
-CFM |S1000 FT [Confirm, Feet]^
+QRP |S1000 EL [Q R P, Element]^
+HW\? |S1000 QRP [How copy\?, Q R P]^
+EL |S1000 CFM [Element, Confirm]^
 HW\? |S1000 EL [How copy\?, Element]^
-MNI |S1000 QRS [Many, Slow speed]^
-EL |S1000 BURO [Element, bureau]^
-EL |S1000 TX [Element, Transmit]^
-CFM |S1000 QRS [Confirm, Slow speed]^
-QRQ |S1000 EL [High speed, Element]^
-QRS |S1000 BURO [Slow speed, bureau]^
-YL |S1000 CFM [Young lady, Confirm]^
-BURO |S1000 PLS [bureau, Please]^
-EL |S1000 QSY [Element, Change frequency]^
-YL |S1000 EL [Young lady, Element]^
-CFM |S1000 OP [Confirm, Operator]^
-EL |S1000 QRP [Element, Low power]^
-RX |S1000 DR [Receive, Dear]^
 OP |S1000 EL [Operator, Element]^
-QRS |S1000 EL [Slow speed, Element]^
-MNI |S1000 EL [Many, Element]^
-PLS |S1000 TX [Please, Transmit]^
-OP |S1000 EL [Operator, Element]^
-BCNU |S1000 EL [Be seeing you, Element]^
-QSL |S1000 QRS [Confirm, Slow speed]^
-PLS |S1000 BURO [Please, bureau]^
-EL |S1000 MNI [Element, Many]^
-EL |S1000 MNI [Element, Many]^
-EL |S1000 OP [Element, Operator]^
-EL |S1000 OP [Element, Operator]^
-BCNU |S1000 PSE [Be seeing you, Please]^
-BURO |S1000 HR [bureau, Hear]^
-QRQ |S1000 DR [High speed, Dear]^
-EL |S1000 BCNU [Element, Be seeing you]^
-EL |S1000 BCNU [Element, Be seeing you]^
-EL |S1000 CFM [Element, Confirm]^
-EL |S1000 HR [Element, Hear]^
-RX |S1000 EL [Receive, Element]^
-FT |S1000 EL [Feet, Element]^
-BURO |S1000 EL [bureau, Element]^
-TX |S1000 CFM [Transmit, Confirm]^
-QRS |S1000 EL [Slow speed, Element]^
-QRS |S1000 EL [Slow speed, Element]^
-MNI |S1000 EL [Many, Element]^
-YL |S1000 EL [Young lady, Element]^
-HR |S1000 HW\? [Hear, How copy\?]^
-MNI |S1000 TX [Many, Transmit]^
-EL |S1000 CFM [Element, Confirm]^
-EL |S1000 RX [Element, Receive]^
-CFM |S1000 RX [Confirm, Receive]^
-FT |S1000 EL [Feet, Element]^
-TX |S1000 BCNU [Transmit, Be seeing you]^
-CFM |S1000 EL [Confirm, Element]^
-PSE |S1000 HW\? [Please, How copy\?]^
-MNI |S1000 EL [Many, Element]^
-YL |S1000 QSY [Young lady, Change frequency]^
-EL |S1000 PSE [Element, Please]^
-EL |S1000 QRP [Element, Low power]^
-EL |S1000 QSL [Element, Confirm]^
-EL |S1000 DR [Element, Dear]^
-BURO |S1000 EL [bureau, Element]^
-FT |S1000 EL [Feet, Element]^
-HR |S1000 QRP [Hear, Low power]^
-OP |S1000 EL [Operator, Element]^
-CFM |S1000 FT [Confirm, Feet]^
-QRQ |S1000 EL [High speed, Element]^
-QRQ |S1000 EL [High speed, Element]^
-QSL |S1000 EL [Confirm, Element]^
-BURO |S1000 EL [bureau, Element]^
-BCNU |S1000 QRP [Be seeing you, Low power]^
-EL |S1000 BCNU [Element, Be seeing you]^
-EL |S1000 BURO [Element, bureau]^
-EL |S1000 BURO [Element, bureau]^
-EL |S1000 QRP [Element, Low power]^
-QRQ |S1000 TX [High speed, Transmit]^
-EL |S1000 HR [Element, Hear]^
-QSL |S1000 OP [Confirm, Operator]^
-EL |S1000 HR [Element, Hear]^
-RX |S1000 EL [Receive, Element]^
-OP |S1000 QSL [Operator, Confirm]^
-MNI |S1000 EL [Many, Element]^
-BURO |S1000 HR [bureau, Hear]^
-QRQ |S1000 EL [High speed, Element]^
-CFM |S1000 OP [Confirm, Operator]^
-QSL |S1000 EL [Confirm, Element]^
-PSE |S1000 OP [Please, Operator]^
-EL |S1000 RX [Element, Receive]^
-EL |S1000 HW\? [Element, How copy\?]^
-QSL |S1000 MNI [Confirm, Many]^
-EL |S1000 RX [Element, Receive]^
-BCNU |S1000 EL [Be seeing you, Element]^
-RX |S1000 EL [Receive, Element]^
-RX |S1000 EL [Receive, Element]^
-QRP |S1000 HW\? [Low power, How copy\?]^
-EL |S1000 BURO [Element, bureau]^
-MNI |S1000 EL [Many, Element]^
-PLS |S1000 EL [Please, Element]^
-MNI |S1000 EL [Many, Element]^
-YL |S1000 RX [Young lady, Receive]^
-YL |S1000 EL [Young lady, Element]^
-HR |S1000 QRS [Hear, Slow speed]^
-EL |S1000 PSE [Element, Please]^
-QRQ |S1000 CFM [High speed, Confirm]^
-QRS |S1000 FT [Slow speed, Feet]^
-HR |S1000 BCNU [Hear, Be seeing you]^
-YL |S1000 EL [Young lady, Element]^
-QRP |S1000 CFM [Low power, Confirm]^
-DR |S1000 EL [Dear, Element]^
-BCNU |S1000 BURO [Be seeing you, bureau]^
-MNI |S1000 EL [Many, Element]^
-RX |S1000 EL [Receive, Element]^
-RX |S1000 DR [Receive, Dear]^
-YL |S1000 EL [Young lady, Element]^
-MNI |S1000 EL [Many, Element]^
-RX |S1000 BCNU [Receive, Be seeing you]^
-EL |S1000 HR [Element, Hear]^
-BURO |S1000 CFM [bureau, Confirm]^
-OP |S1000 QSY [Operator, Change frequency]^
-PSE |S1000 EL [Please, Element]^
-BCNU |S1000 FT [Be seeing you, Feet]^
-OP |S1000 EL [Operator, Element]^
-OP |S1000 TX [Operator, Transmit]^
-DR |S1000 QSY [Dear, Change frequency]^
-EL |S1000 HW\? [Element, How copy\?]^
-QSL |S1000 HR [Confirm, Hear]^
-CFM |S1000 EL [Confirm, Element]^
-DR |S1000 HR [Dear, Hear]^
-PSE |S1000 MNI [Please, Many]^
-HW\? |S1000 PSE [How copy\?, Please]^
-RX |S1000 QSY [Receive, Change frequency]^
-EL |S1000 BURO [Element, bureau]^
-EL |S1000 BURO [Element, bureau]^
-BCNU |S1000 EL [Be seeing you, Element]^
-RX |S1000 BCNU [Receive, Be seeing you]^
-QSL |S1000 EL [Confirm, Element]^
-HR |S1000 RX [Hear, Receive]^
-QSY |S1000 DR [Change frequency, Dear]^
-EL |S1000 YL [Element, Young lady]^
-TX |S1000 QRP [Transmit, Low power]^
-OP |S1000 EL [Operator, Element]^
-QSY |S1000 FT [Change frequency, Feet]^
-OP |S1000 QSL [Operator, Confirm]^
-EL |S1000 YL [Element, Young lady]^
-TX |S1000 EL [Transmit, Element]^
-YL |S1000 EL [Young lady, Element]^
-QRP |S1000 QRQ [Low power, High speed]^
-PLS |S1000 EL [Please, Element]^
-BURO |S1000 CFM [bureau, Confirm]^
-QRS |S1000 EL [Slow speed, Element]^
-BURO |S1000 QRS [bureau, Slow speed]^
 HR |S1000 EL [Hear, Element]^
-YL |S1000 QSL [Young lady, Confirm]^
-DR |S1000 PSE [Dear, Please]^
-EL |S1000 PSE [Element, Please]^
-EL |S1000 PLS [Element, Please]^
-PSE |S1000 OP [Please, Operator]^
-EL |S1000 RX [Element, Receive]^
-CFM |S1000 EL [Confirm, Element]^
-YL |S1000 EL [Young lady, Element]^
-HR |S1000 YL [Hear, Young lady]^
-EL |S1000 OP [Element, Operator]^
-EL |S1000 MNI [Element, Many]^
-HR |S1000 HW\? [Hear, How copy\?]^
-MNI |S1000 EL [Many, Element]^
-RX |S1000 EL [Receive, Element]^
-CFM |S1000 EL [Confirm, Element]^
-MNI |S1000 EL [Many, Element]^
-QRP |S1000 EL [Low power, Element]^
-PSE |S1000 YL [Please, Young lady]^
-EL |S1000 HR [Element, Hear]^
-OP |S1000 EL [Operator, Element]^
-RX |S1000 FT [Receive, Feet]^
-PLS |S1000 MNI [Please, Many]^
-BCNU |S1000 HR [Be seeing you, Hear]^
-EL |S1000 MNI [Element, Many]^
-EL |S1000 PLS [Element, Please]^
-EL |S1000 PLS [Element, Please]^
-PSE |S1000 FT [Please, Feet]^
-EL |S1000 PLS [Element, Please]^
-EL |S1000 PLS [Element, Please]^
-HW\? |S1000 YL [How copy\?, Young lady]^
-EL |S1000 MNI [Element, Many]^
-EL |S1000 HW\? [Element, How copy\?]^
-DR |S1000 EL [Dear, Element]^
-BURO |S1000 FT [bureau, Feet]^
-EL |S1000 QSY [Element, Change frequency]^
-DR |S1000 BCNU [Dear, Be seeing you]^
-TX |S1000 YL [Transmit, Young lady]^
-EL |S1000 HR [Element, Hear]^
-EL |S1000 HW\? [Element, How copy\?]^
-YL |S1000 EL [Young lady, Element]^
-YL |S1000 EL [Young lady, Element]^
-FT |S1000 CFM [Feet, Confirm]^
-YL |S1000 BURO [Young lady, bureau]^
-HW\? |S1000 RX [How copy\?, Receive]^
-HW\? |S1000 FT [How copy\?, Feet]^
-EL |S1000 QSL [Element, Confirm]^
-CFM |S1000 PSE [Confirm, Please]^
-EL |S1000 TX [Element, Transmit]^
-EL |S1000 QRP [Element, Low power]^
-CFM |S1000 HR [Confirm, Hear]^
-EL |S1000 CFM [Element, Confirm]^
-BURO |S1000 QRP [bureau, Low power]^
-EL |S1000 QRP [Element, Low power]^
-DR |S1000 EL [Dear, Element]^
-HR |S1000 QRQ [Hear, High speed]^
-EL |S1000 CFM [Element, Confirm]^
-HW\? |S1000 QRS [How copy\?, Slow speed]^
-EL |S1000 QSL [Element, Confirm]^
-MNI |S1000 CFM [Many, Confirm]^
+OP |S1000 YL [Operator, Young lady]^
+BURO |S1000 EL [bureau, Element]^
 TX |S1000 EL [Transmit, Element]^
-RX |S1000 EL [Receive, Element]^
-PSE |S1000 QRS [Please, Slow speed]^
-MNI |S1000 DR [Many, Dear]^
-FT |S1000 PLS [Feet, Please]^
+TX |S1000 EL [Transmit, Element]^
+QRQ |S1000 FT [Q R Q, Feet]^
+EL |S1000 QRP [Element, Q R P]^
+EL |S1000 HR [Element, Hear]^
+YL |S1000 BURO [Young lady, bureau]^
+QSY |S1000 EL [Q S Y, Element]^
+HR |S1000 EL [Hear, Element]^
+MNI |S1000 QSY [Many, Q S Y]^
+HW\? |S1000 YL [How copy\?, Young lady]^
+EL |S1000 HR [Element, Hear]^
+RX |S1000 TX [Receive, Transmit]^
+QRQ |S1000 QSL [Q R Q, Q S L]^
+EL |S1000 HR [Element, Hear]^
+YL |S1000 MNI [Young lady, Many]^
+EL |S1000 BCNU [Element, Be seeing you]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+PLS |S1000 EL [Please, Element]^
+OP |S1000 HR [Operator, Hear]^
+QRQ |S1000 FT [Q R Q, Feet]^
+YL |S1000 EL [Young lady, Element]^
+QRP |S1000 EL [Q R P, Element]^
+QRS |S1000 EL [Q R S, Element]^
+BURO |S1000 EL [bureau, Element]^
+YL |S1000 OP [Young lady, Operator]^
+EL |S1000 PSE [Element, Please]^
+QRP |S1000 RX [Q R P, Receive]^
+EL |S1000 PSE [Element, Please]^
+EL |S1000 OP [Element, Operator]^
+EL |S1000 PSE [Element, Please]^
+TX |S1000 EL [Transmit, Element]^
+TX |S1000 EL [Transmit, Element]^
+PSE |S1000 EL [Please, Element]^
+OP |S1000 EL [Operator, Element]^
+QRS |S1000 CFM [Q R S, Confirm]^
+EL |S1000 CFM [Element, Confirm]^
+QSL |S1000 EL [Q S L, Element]^
+BCNU |S1000 BURO [Be seeing you, bureau]^
+YL |S1000 HR [Young lady, Hear]^
+BCNU |S1000 CFM [Be seeing you, Confirm]^
+EL |S1000 PLS [Element, Please]^
+EL |S1000 QRP [Element, Q R P]^
+EL |S1000 QRS [Element, Q R S]^
+HR |S1000 EL [Hear, Element]^
+FT |S1000 OP [Feet, Operator]^
+EL |S1000 QSY [Element, Q S Y]^
+EL |S1000 MNI [Element, Many]^
+EL |S1000 MNI [Element, Many]^
+EL |S1000 PSE [Element, Please]^
+EL |S1000 CFM [Element, Confirm]^
+EL |S1000 HR [Element, Hear]^
+FT |S1000 QRS [Feet, Q R S]^
+QSL |S1000 EL [Q S L, Element]^
+QRQ |S1000 QRS [Q R Q, Q R S]^
+BURO |S1000 MNI [bureau, Many]^
+EL |S1000 YL [Element, Young lady]^
+EL |S1000 RX [Element, Receive]^
+EL |S1000 PLS [Element, Please]^
+HR |S1000 BURO [Hear, bureau]^
+YL |S1000 EL [Young lady, Element]^
+QRQ |S1000 FT [Q R Q, Feet]^
+EL |S1000 QRS [Element, Q R S]^
+EL |S1000 QRQ [Element, Q R Q]^
+EL |S1000 PLS [Element, Please]^
+HR |S1000 EL [Hear, Element]^
+QRQ |S1000 QRS [Q R Q, Q R S]^
+YL |S1000 EL [Young lady, Element]^
+QSL |S1000 DR [Q S L, Dear]^
+QSY |S1000 EL [Q S Y, Element]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+EL |S1000 HW\? [Element, How copy\?]^
+HR |S1000 QRS [Hear, Q R S]^
+EL |S1000 RX [Element, Receive]^
+EL |S1000 BURO [Element, bureau]^
+EL |S1000 OP [Element, Operator]^
+DR |S1000 EL [Dear, Element]^
+QRS |S1000 EL [Q R S, Element]^
+PLS |S1000 EL [Please, Element]^
+QRP |S1000 YL [Q R P, Young lady]^
+BCNU |S1000 QSY [Be seeing you, Q S Y]^
+EL |S1000 PSE [Element, Please]^
+QSY |S1000 QSL [Q S Y, Q S L]^
+QRS |S1000 EL [Q R S, Element]^
+DR |S1000 EL [Dear, Element]^
+FT |S1000 EL [Feet, Element]^
+YL |S1000 PSE [Young lady, Please]^
+CFM |S1000 TX [Confirm, Transmit]^
+EL |S1000 QRP [Element, Q R P]^
+CFM |S1000 EL [Confirm, Element]^
+MNI |S1000 FT [Many, Feet]^
+DR |S1000 EL [Dear, Element]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+YL |S1000 QSL [Young lady, Q S L]^
+EL |S1000 MNI [Element, Many]^
+CFM |S1000 PLS [Confirm, Please]^
+QSL |S1000 EL [Q S L, Element]^
+MNI |S1000 PLS [Many, Please]^
+EL |S1000 QRP [Element, Q R P]^
+EL |S1000 QRP [Element, Q R P]^
+PSE |S1000 EL [Please, Element]^
+YL |S1000 QRP [Young lady, Q R P]^
+HW\? |S1000 MNI [How copy\?, Many]^
+EL |S1000 BURO [Element, bureau]^
+EL |S1000 QSL [Element, Q S L]^
+EL |S1000 QRQ [Element, Q R Q]^
+EL |S1000 CFM [Element, Confirm]^
+EL |S1000 DR [Element, Dear]^
+EL |S1000 BURO [Element, bureau]^
+OP |S1000 EL [Operator, Element]^
+FT |S1000 EL [Feet, Element]^
+DR |S1000 EL [Dear, Element]^
+DR |S1000 BURO [Dear, bureau]^
+EL |S1000 HR [Element, Hear]^
+QSL |S1000 EL [Q S L, Element]^
+BURO |S1000 EL [bureau, Element]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+DR |S1000 EL [Dear, Element]^
+MNI |S1000 QSY [Many, Q S Y]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+EL |S1000 QSY [Element, Q S Y]^
+BURO |S1000 EL [bureau, Element]^
+QRS |S1000 EL [Q R S, Element]^
+BURO |S1000 OP [bureau, Operator]^
+QRQ |S1000 HR [Q R Q, Hear]^
+EL |S1000 RX [Element, Receive]^
+QSY |S1000 EL [Q S Y, Element]^
+BCNU |S1000 EL [Be seeing you, Element]^
+HR |S1000 EL [Hear, Element]^
+BURO |S1000 BCNU [bureau, Be seeing you]^
+QSY |S1000 EL [Q S Y, Element]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+EL |S1000 OP [Element, Operator]^
+EL |S1000 CFM [Element, Confirm]^
+EL |S1000 HR [Element, Hear]^
+DR |S1000 EL [Dear, Element]^
+MNI |S1000 YL [Many, Young lady]^
+EL |S1000 FT [Element, Feet]^
+HR |S1000 QRQ [Hear, Q R Q]^
+EL |S1000 PLS [Element, Please]^
+OP |S1000 EL [Operator, Element]^
+QSL |S1000 CFM [Q S L, Confirm]^

@@ -1,415 +1,182 @@
 MNI [Many]^
+DR [Dear]^
 RX [Receive]^
+OP [Operator]^
+YL [Young lady]^
+RX [Receive]^
+PSE [Please]^
+RX [Receive]^
+YL [Young lady]^
+HW\? [How copy\?]^
+RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+HW\? [How copy\?]^
+RX [Receive]^
+CFM [Confirm]^
+PSE [Please]^
+RX [Receive]^
+MNI [Many]^
+TX [Transmit]^
+RX [Receive]^
+PLS [Please]^
+TX [Transmit]^
+YL [Young lady]^
+MNI [Many]^
 HR [Hear]^
+PSE [Please]^
+PLS [Please]^
+RX [Receive]^
+TX [Transmit]^
+RX [Receive]^
+PLS [Please]^
+TX [Transmit]^
+HW\? [How copy\?]^
+PSE [Please]^
 RX [Receive]^
 OP [Operator]^
 RX [Receive]^
-DR [Dear]^
-RX [Receive]^
-PSE [Please]^
-HW\? [How copy\?]^
-PSE [Please]^
-RX [Receive]^
-OP [Operator]^
-MNI [Many]^
-DR [Dear]^
-RX [Receive]^
-YL [Young lady]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-TX [Transmit]^
-CFM [Confirm]^
-RX [Receive]^
-TX [Transmit]^
-PLS [Please]^
-RX [Receive]^
-PSE [Please]^
-DR [Dear]^
-RX [Receive]^
-PSE [Please]^
-RX [Receive]^
 OP [Operator]^
 RX [Receive]^
-PLS [Please]^
-RX [Receive]^
-MNI [Many]^
-RX [Receive]^
-YL [Young lady]^
-HW\? [How copy\?]^
-RX [Receive]^
-HW\? [How copy\?]^
-YL [Young lady]^
-DR [Dear]^
-TX [Transmit]^
-RX [Receive]^
-DR [Dear]^
-TX [Transmit]^
-RX [Receive]^
-PLS [Please]^
-TX [Transmit]^
-PLS [Please]^
-RX [Receive]^
-MNI [Many]^
-CFM [Confirm]^
-RX [Receive]^
-PLS [Please]^
-TX [Transmit]^
-OP [Operator]^
-RX [Receive]^
-CFM [Confirm]^
-DR [Dear]^
-RX [Receive]^
-HW\? [How copy\?]^
-RX [Receive]^
-PLS [Please]^
-RX [Receive]^
-HW\? [How copy\?]^
-RX [Receive]^
-HW\? [How copy\?]^
-OP [Operator]^
-CFM [Confirm]^
-TX [Transmit]^
-HW\? [How copy\?]^
-PLS [Please]^
-TX [Transmit]^
-RX [Receive]^
-HR [Hear]^
-OP [Operator]^
-HW\? [How copy\?]^
-YL [Young lady]^
-TX [Transmit]^
-RX [Receive]^
-PLS [Please]^
-RX [Receive]^
-MNI [Many]^
-RX [Receive]^
-CFM [Confirm]^
-TX [Transmit]^
-PSE [Please]^
-RX [Receive]^
-YL [Young lady]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-PSE [Please]^
-DR [Dear]^
-MNI [Many]^
-CFM [Confirm]^
-RX [Receive]^
-HR [Hear]^
-RX [Receive]^
-HW\? [How copy\?]^
-TX [Transmit]^
-PSE [Please]^
-DR [Dear]^
-RX [Receive]^
-TX [Transmit]^
-RX [Receive]^
-HR [Hear]^
-CFM [Confirm]^
-PLS [Please]^
-RX [Receive]^
-YL [Young lady]^
-RX [Receive]^
-PSE [Please]^
-RX [Receive]^
-DR [Dear]^
-CFM [Confirm]^
-DR [Dear]^
-YL [Young lady]^
-MNI [Many]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-HW\? [How copy\?]^
-PLS [Please]^
-YL [Young lady]^
-HW\? [How copy\?]^
-PSE [Please]^
-DR [Dear]^
-OP [Operator]^
-HW\? [How copy\?]^
-DR [Dear]^
-MNI [Many]^
-RX [Receive]^
-HR [Hear]^
-HW\? [How copy\?]^
-RX [Receive]^
-DR [Dear]^
-CFM [Confirm]^
-HW\? [How copy\?]^
-TX [Transmit]^
-RX [Receive]^
-TX [Transmit]^
-RX [Receive]^
-PLS [Please]^
-RX [Receive]^
-HR [Hear]^
-RX [Receive]^
-HR [Hear]^
-RX [Receive]^
-DR [Dear]^
-RX [Receive]^
-PSE [Please]^
-RX [Receive]^
-MNI [Many]^
-RX [Receive]^
-HW\? [How copy\?]^
-HR [Hear]^
-CFM [Confirm]^
-PSE [Please]^
-RX [Receive]^
-OP [Operator]^
-PLS [Please]^
-RX [Receive]^
-DR [Dear]^
-RX [Receive]^
-DR [Dear]^
-RX [Receive]^
-MNI [Many]^
-RX [Receive]^
-DR [Dear]^
-TX [Transmit]^
-HR [Hear]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-HR [Hear]^
-RX [Receive]^
-OP [Operator]^
-HW\? [How copy\?]^
-PSE [Please]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-PLS [Please]^
-PSE [Please]^
-RX [Receive]^
-PLS [Please]^
-TX [Transmit]^
-YL [Young lady]^
-RX [Receive]^
-YL [Young lady]^
-RX [Receive]^
-PSE [Please]^
-RX [Receive]^
-HR [Hear]^
-RX [Receive]^
-YL [Young lady]^
-HR [Hear]^
-RX [Receive]^
-OP [Operator]^
-HR [Hear]^
-PLS [Please]^
-MNI [Many]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
 HR [Hear]^
 PSE [Please]^
-HR [Hear]^
-RX [Receive]^
-HR [Hear]^
 RX [Receive]^
 CFM [Confirm]^
+RX [Receive]^
+PLS [Please]^
+DR [Dear]^
+RX [Receive]^
+HW\? [How copy\?]^
+CFM [Confirm]^
+HW\? [How copy\?]^
 MNI [Many]^
 RX [Receive]^
 PSE [Please]^
-HW\? [How copy\?]^
-PSE [Please]^
 RX [Receive]^
-DR [Dear]^
+HR [Hear]^
+YL [Young lady]^
+RX [Receive]^
+MNI [Many]^
+PSE [Please]^
+HR [Hear]^
 RX [Receive]^
 CFM [Confirm]^
-PSE [Please]^
-RX [Receive]^
-PSE [Please]^
-MNI [Many]^
-RX [Receive]^
-PSE [Please]^
-YL [Young lady]^
-RX [Receive]^
-HW\? [How copy\?]^
-RX [Receive]^
-DR [Dear]^
 PLS [Please]^
-DR [Dear]^
+RX [Receive]^
 HW\? [How copy\?]^
-YL [Young lady]^
 RX [Receive]^
 OP [Operator]^
 RX [Receive]^
+YL [Young lady]^
+HW\? [How copy\?]^
+CFM [Confirm]^
+YL [Young lady]^
+RX [Receive]^
+PSE [Please]^
+HW\? [How copy\?]^
+HR [Hear]^
+OP [Operator]^
 CFM [Confirm]^
 RX [Receive]^
+PLS [Please]^
+OP [Operator]^
+RX [Receive]^
+OP [Operator]^
+CFM [Confirm]^
+YL [Young lady]^
+RX [Receive]^
+YL [Young lady]^
+RX [Receive]^
+CFM [Confirm]^
+HW\? [How copy\?]^
+YL [Young lady]^
+HW\? [How copy\?]^
+RX [Receive]^
+HR [Hear]^
+RX [Receive]^
+HW\? [How copy\?]^
+HR [Hear]^
+RX [Receive]^
+CFM [Confirm]^
+RX [Receive]^
+PSE [Please]^
+RX [Receive]^
 MNI [Many]^
+RX [Receive]^
+PSE [Please]^
+YL [Young lady]^
+DR [Dear]^
+RX [Receive]^
+TX [Transmit]^
+RX [Receive]^
+TX [Transmit]^
+HW\? [How copy\?]^
+RX [Receive]^
+PLS [Please]^
+RX [Receive]^
+CFM [Confirm]^
+RX [Receive]^
+PLS [Please]^
+RX [Receive]^
+DR [Dear]^
+OP [Operator]^
+RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+YL [Young lady]^
+PLS [Please]^
+RX [Receive]^
+OP [Operator]^
+RX [Receive]^
+HW\? [How copy\?]^
+YL [Young lady]^
+PSE [Please]^
+RX [Receive]^
+MNI [Many]^
+PSE [Please]^
+DR [Dear]^
+RX [Receive]^
+DR [Dear]^
+HW\? [How copy\?]^
+RX [Receive]^
+OP [Operator]^
+CFM [Confirm]^
+PSE [Please]^
+YL [Young lady]^
+PSE [Please]^
+RX [Receive]^
+PSE [Please]^
+MNI [Many]^
+RX [Receive]^
+PLS [Please]^
+MNI [Many]^
+CFM [Confirm]^
+HR [Hear]^
+RX [Receive]^
+PLS [Please]^
+YL [Young lady]^
+RX [Receive]^
+TX [Transmit]^
+RX [Receive]^
+OP [Operator]^
+YL [Young lady]^
+PLS [Please]^
+RX [Receive]^
+CFM [Confirm]^
 RX [Receive]^
 OP [Operator]^
 RX [Receive]^
 YL [Young lady]^
 RX [Receive]^
-PSE [Please]^
-MNI [Many]^
-RX [Receive]^
-MNI [Many]^
-HW\? [How copy\?]^
-CFM [Confirm]^
-RX [Receive]^
-YL [Young lady]^
-RX [Receive]^
-CFM [Confirm]^
-PSE [Please]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-OP [Operator]^
-HW\? [How copy\?]^
-PSE [Please]^
-RX [Receive]^
-HR [Hear]^
-RX [Receive]^
-YL [Young lady]^
 OP [Operator]^
 HR [Hear]^
 OP [Operator]^
-DR [Dear]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
 PLS [Please]^
-PSE [Please]^
-CFM [Confirm]^
-MNI [Many]^
-DR [Dear]^
-PLS [Please]^
-HR [Hear]^
-RX [Receive]^
-CFM [Confirm]^
-DR [Dear]^
-YL [Young lady]^
-RX [Receive]^
-OP [Operator]^
-MNI [Many]^
-RX [Receive]^
-HR [Hear]^
-RX [Receive]^
-DR [Dear]^
-RX [Receive]^
-OP [Operator]^
-TX [Transmit]^
-HR [Hear]^
-DR [Dear]^
-PLS [Please]^
-TX [Transmit]^
-HR [Hear]^
-DR [Dear]^
-RX [Receive]^
-PLS [Please]^
-RX [Receive]^
-PLS [Please]^
-RX [Receive]^
-MNI [Many]^
-PLS [Please]^
-HR [Hear]^
-HW\? [How copy\?]^
-MNI [Many]^
-PLS [Please]^
-YL [Young lady]^
-PLS [Please]^
-CFM [Confirm]^
-RX [Receive]^
-HR [Hear]^
-TX [Transmit]^
-RX [Receive]^
-HR [Hear]^
-RX [Receive]^
-PSE [Please]^
-OP [Operator]^
-HW\? [How copy\?]^
-TX [Transmit]^
-RX [Receive]^
-PLS [Please]^
-MNI [Many]^
-CFM [Confirm]^
-MNI [Many]^
-YL [Young lady]^
-PLS [Please]^
-HR [Hear]^
-RX [Receive]^
-DR [Dear]^
-TX [Transmit]^
-HW\? [How copy\?]^
-CFM [Confirm]^
-YL [Young lady]^
-TX [Transmit]^
-RX [Receive]^
-OP [Operator]^
-HR [Hear]^
-HW\? [How copy\?]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-PLS [Please]^
-YL [Young lady]^
-OP [Operator]^
-PSE [Please]^
-TX [Transmit]^
-RX [Receive]^
-TX [Transmit]^
-MNI [Many]^
-RX [Receive]^
-YL [Young lady]^
-TX [Transmit]^
-DR [Dear]^
-PSE [Please]^
-YL [Young lady]^
-MNI [Many]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-YL [Young lady]^
-TX [Transmit]^
-RX [Receive]^
-YL [Young lady]^
-OP [Operator]^
-MNI [Many]^
-PSE [Please]^
-CFM [Confirm]^
-MNI [Many]^
-OP [Operator]^
-RX [Receive]^
-PSE [Please]^
-OP [Operator]^
-RX [Receive]^
-HR [Hear]^
-HW\? [How copy\?]^
-OP [Operator]^
-RX [Receive]^
-PLS [Please]^
-RX [Receive]^
-MNI [Many]^
-CFM [Confirm]^
-PLS [Please]^
-RX [Receive]^
-PSE [Please]^
-RX [Receive]^
-OP [Operator]^
-RX [Receive]^
-HW\? [How copy\?]^
 TX [Transmit]^
 PLS [Please]^
 HR [Hear]^
 RX [Receive]^
-DR [Dear]^
-CFM [Confirm]^
-RX [Receive]^
-PLS [Please]^
-RX [Receive]^
-DR [Dear]^
-PSE [Please]^
-RX [Receive]^
-DR [Dear]^
-PLS [Please]^
+OP [Operator]^
 RX [Receive]^
 YL [Young lady]^
 RX [Receive]^
@@ -417,184 +184,417 @@ PLS [Please]^
 RX [Receive]^
 PSE [Please]^
 RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+TX [Transmit]^
 YL [Young lady]^
+RX [Receive]^
+DR [Dear]^
+MNI [Many]^
+RX [Receive]^
+PSE [Please]^
+CFM [Confirm]^
+PLS [Please]^
+RX [Receive]^
+YL [Young lady]^
+HR [Hear]^
+HW\? [How copy\?]^
+MNI [Many]^
+PSE [Please]^
+RX [Receive]^
+DR [Dear]^
+RX [Receive]^
+HW\? [How copy\?]^
+RX [Receive]^
+PSE [Please]^
+TX [Transmit]^
+RX [Receive]^
+YL [Young lady]^
+HR [Hear]^
+PSE [Please]^
+RX [Receive]^
+PSE [Please]^
+OP [Operator]^
+HR [Hear]^
+RX [Receive]^
+OP [Operator]^
+RX [Receive]^
+HW\? [How copy\?]^
+HR [Hear]^
+PSE [Please]^
+RX [Receive]^
+PLS [Please]^
+RX [Receive]^
+YL [Young lady]^
+DR [Dear]^
+RX [Receive]^
+DR [Dear]^
+RX [Receive]^
+DR [Dear]^
+RX [Receive]^
+CFM [Confirm]^
+TX [Transmit]^
+RX [Receive]^
+TX [Transmit]^
+HR [Hear]^
+DR [Dear]^
+RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+PLS [Please]^
+MNI [Many]^
+CFM [Confirm]^
+RX [Receive]^
+PSE [Please]^
+RX [Receive]^
+DR [Dear]^
+TX [Transmit]^
+OP [Operator]^
+DR [Dear]^
+PSE [Please]^
+TX [Transmit]^
+PSE [Please]^
+TX [Transmit]^
+RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+PLS [Please]^
+RX [Receive]^
+HR [Hear]^
+RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+DR [Dear]^
+MNI [Many]^
+YL [Young lady]^
+HR [Hear]^
+RX [Receive]^
+CFM [Confirm]^
+PLS [Please]^
+MNI [Many]^
+RX [Receive]^
+PSE [Please]^
+HR [Hear]^
+CFM [Confirm]^
+TX [Transmit]^
+RX [Receive]^
+TX [Transmit]^
+HW\? [How copy\?]^
+RX [Receive]^
+PSE [Please]^
+RX [Receive]^
+PSE [Please]^
+DR [Dear]^
+RX [Receive]^
+DR [Dear]^
+HR [Hear]^
+YL [Young lady]^
+OP [Operator]^
+CFM [Confirm]^
+YL [Young lady]^
+MNI [Many]^
+RX [Receive]^
+PLS [Please]^
+OP [Operator]^
+YL [Young lady]^
+RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+PSE [Please]^
+RX [Receive]^
+DR [Dear]^
+CFM [Confirm]^
+RX [Receive]^
+TX [Transmit]^
+YL [Young lady]^
+MNI [Many]^
 RX [Receive]^
 CFM [Confirm]^
 RX [Receive]^
+YL [Young lady]^
+RX [Receive]^
+MNI [Many]^
+HR [Hear]^
+RX [Receive]^
+TX [Transmit]^
+RX [Receive]^
+CFM [Confirm]^
+HR [Hear]^
+YL [Young lady]^
+RX [Receive]^
+HW\? [How copy\?]^
+RX [Receive]^
+CFM [Confirm]^
+RX [Receive]^
+TX [Transmit]^
+PLS [Please]^
 OP [Operator]^
+MNI [Many]^
+HR [Hear]^
+OP [Operator]^
+RX [Receive]^
+PLS [Please]^
+HW\? [How copy\?]^
+DR [Dear]^
+RX [Receive]^
+TX [Transmit]^
+MNI [Many]^
+PLS [Please]^
+RX [Receive]^
+HW\? [How copy\?]^
+OP [Operator]^
+DR [Dear]^
+YL [Young lady]^
+HR [Hear]^
+CFM [Confirm]^
+RX [Receive]^
+DR [Dear]^
+RX [Receive]^
+PSE [Please]^
+YL [Young lady]^
+RX [Receive]^
+HR [Hear]^
+HW\? [How copy\?]^
+RX [Receive]^
+HR [Hear]^
+RX [Receive]^
+PLS [Please]^
+CFM [Confirm]^
+RX [Receive]^
+DR [Dear]^
+PLS [Please]^
+MNI [Many]^
+CFM [Confirm]^
+HR [Hear]^
+RX [Receive]^
+PLS [Please]^
+OP [Operator]^
+HW\? [How copy\?]^
+RX [Receive]^
+OP [Operator]^
+DR [Dear]^
+RX [Receive]^
+YL [Young lady]^
+HW\? [How copy\?]^
+TX [Transmit]^
+PSE [Please]^
+RX [Receive]^
+HW\? [How copy\?]^
+RX [Receive]^
+PLS [Please]^
+PSE [Please]^
+CFM [Confirm]^
+RX [Receive]^
+PSE [Please]^
+RX [Receive]^
+PSE [Please]^
+MNI [Many]^
+RX [Receive]^
+PSE [Please]^
+HR [Hear]^
+RX [Receive]^
+TX [Transmit]^
+RX [Receive]^
+DR [Dear]^
+RX [Receive]^
+MNI [Many]^
+PLS [Please]^
+CFM [Confirm]^
+PSE [Please]^
+MNI [Many]^
+HR [Hear]^
+PSE [Please]^
+CFM [Confirm]^
+RX [Receive]^
+OP [Operator]^
+PLS [Please]^
+TX [Transmit]^
+PLS [Please]^
+RX [Receive]^
+CFM [Confirm]^
+YL [Young lady]^
+HW\? [How copy\?]^
+PLS [Please]^
+MNI [Many]^
+HW\? [How copy\?]^
+HR [Hear]^
+DR [Dear]^
+OP [Operator]^
+RX [Receive]^
+PSE [Please]^
+HW\? [How copy\?]^
+RX [Receive]^
+HR [Hear]^
+RX [Receive]^
+PSE [Please]^
+CFM [Confirm]^
+HW\? [How copy\?]^
+RX [Receive]^
+CFM [Confirm]^
+RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+MNI [Many]^
+CFM [Confirm]^
+PLS [Please]^
+HR [Hear]^
+RX [Receive]^
+PLS [Please]^
+RX [Receive]^
+TX [Transmit]^
+PSE [Please]^
+OP [Operator]^
+HW\? [How copy\?]^
+HR [Hear]^
+OP [Operator]^
+RX [Receive]^
+OP [Operator]^
+MNI [Many]^
+CFM [Confirm]^
+TX [Transmit]^
+OP [Operator]^
+RX [Receive]^
+HR [Hear]^
+RX [Receive]^
+OP [Operator]^
+CFM [Confirm]^
+OP [Operator]^
+CFM [Confirm]^
+RX [Receive]^
+PSE [Please]^
+RX [Receive]^
+YL [Young lady]^
+OP [Operator]^
+PLS [Please]^
+HR [Hear]^
+RX [Receive]^
+HW\? [How copy\?]^
+CFM [Confirm]^
+HR [Hear]^
+RX [Receive]^
+TX [Transmit]^
+HW\? [How copy\?]^
+CFM [Confirm]^
+DR [Dear]^
+OP [Operator]^
+RX [Receive]^
+TX [Transmit]^
+DR [Dear]^
+RX [Receive]^
+TX [Transmit]^
+YL [Young lady]^
+RX [Receive]^
+PLS [Please]^
+HW\? [How copy\?]^
+TX [Transmit]^
+PSE [Please]^
+RX [Receive]^
+CFM [Confirm]^
+RX [Receive]^
+MNI [Many]^
+RX [Receive]^
+PSE [Please]^
+YL [Young lady]^
+RX [Receive]^
+HW\? [How copy\?]^
+PSE [Please]^
+HW\? [How copy\?]^
+RX [Receive]^
+CFM [Confirm]^
+TX [Transmit]^
+PSE [Please]^
+RX [Receive]^
+PSE [Please]^
+RX [Receive]^
+MNI [Many]^
+CFM [Confirm]^
+HR [Hear]^
+PLS [Please]^
+RX [Receive]^
+PSE [Please]^
+RX [Receive]^
+MNI [Many]^
+HR [Hear]^
+TX [Transmit]^
 RX [Receive]^
 DR [Dear]^
 RX [Receive]^
 OP [Operator]^
 RX [Receive]^
-HR [Hear]^
-PLS [Please]^
+MNI [Many]^
 RX [Receive]^
+YL [Young lady]^
+RX [Receive]^
+PSE [Please]^
 DR [Dear]^
 YL [Young lady]^
-HW\? [How copy\?]^
-RX [Receive]^
-YL [Young lady]^
-HR [Hear]^
-OP [Operator]^
 RX [Receive]^
 PLS [Please]^
-RX [Receive]^
+DR [Dear]^
 PSE [Please]^
-RX [Receive]^
 TX [Transmit]^
-PLS [Please]^
+MNI [Many]^
+RX [Receive]^
+HW\? [How copy\?]^
+YL [Young lady]^
+TX [Transmit]^
 RX [Receive]^
 PLS [Please]^
+TX [Transmit]^
 HR [Hear]^
 RX [Receive]^
-PSE [Please]^
+HR [Hear]^
 RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-PSE [Please]^
-RX [Receive]^
-OP [Operator]^
-CFM [Confirm]^
-RX [Receive]^
+HW\? [How copy\?]^
 MNI [Many]^
-CFM [Confirm]^
 RX [Receive]^
 DR [Dear]^
 PSE [Please]^
 RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-MNI [Many]^
-CFM [Confirm]^
-DR [Dear]^
 MNI [Many]^
 RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-DR [Dear]^
+OP [Operator]^
+HW\? [How copy\?]^
 TX [Transmit]^
-MNI [Many]^
-HR [Hear]^
+RX [Receive]^
+CFM [Confirm]^
 PLS [Please]^
+RX [Receive]^
+DR [Dear]^
+PSE [Please]^
+RX [Receive]^
+DR [Dear]^
+RX [Receive]^
+CFM [Confirm]^
+DR [Dear]^
 RX [Receive]^
 OP [Operator]^
 RX [Receive]^
+CFM [Confirm]^
 PLS [Please]^
-TX [Transmit]^
-RX [Receive]^
-PLS [Please]^
-TX [Transmit]^
 MNI [Many]^
+RX [Receive]^
+OP [Operator]^
+RX [Receive]^
+HW\? [How copy\?]^
+DR [Dear]^
+RX [Receive]^
+YL [Young lady]^
 PSE [Please]^
-MNI [Many]^
-CFM [Confirm]^
 PLS [Please]^
-HR [Hear]^
 RX [Receive]^
-MNI [Many]^
-CFM [Confirm]^
-RX [Receive]^
-MNI [Many]^
-RX [Receive]^
-HW\? [How copy\?]^
-RX [Receive]^
-TX [Transmit]^
-HW\? [How copy\?]^
-TX [Transmit]^
+DR [Dear]^
 RX [Receive]^
 YL [Young lady]^
 RX [Receive]^
 HW\? [How copy\?]^
-RX [Receive]^
 PSE [Please]^
-HR [Hear]^
-PLS [Please]^
-RX [Receive]^
-PLS [Please]^
-RX [Receive]^
-PSE [Please]^
-RX [Receive]^
-MNI [Many]^
-TX [Transmit]^
-CFM [Confirm]^
-PSE [Please]^
-HR [Hear]^
-DR [Dear]^
-OP [Operator]^
-TX [Transmit]^
-CFM [Confirm]^
-TX [Transmit]^
-RX [Receive]^
-PSE [Please]^
-YL [Young lady]^
-HW\? [How copy\?]^
-RX [Receive]^
-HW\? [How copy\?]^
-HR [Hear]^
-PSE [Please]^
-HW\? [How copy\?]^
 OP [Operator]^
 RX [Receive]^
-TX [Transmit]^
-DR [Dear]^
-RX [Receive]^
-PSE [Please]^
-CFM [Confirm]^
-TX [Transmit]^
-HW\? [How copy\?]^
 OP [Operator]^
-HR [Hear]^
-RX [Receive]^
-YL [Young lady]^
-PSE [Please]^
-TX [Transmit]^
-RX [Receive]^
-CFM [Confirm]^
-RX [Receive]^
-YL [Young lady]^
-HW\? [How copy\?]^
-HR [Hear]^
-RX [Receive]^
-PSE [Please]^
-DR [Dear]^
-OP [Operator]^
-RX [Receive]^
-PSE [Please]^
-HR [Hear]^
-RX [Receive]^
-OP [Operator]^
-MNI [Many]^
-CFM [Confirm]^
 RX [Receive]^
 HR [Hear]^
-RX [Receive]^
-OP [Operator]^
-MNI [Many]^
-RX [Receive]^
-YL [Young lady]^
-OP [Operator]^
-CFM [Confirm]^
-MNI [Many]^
-CFM [Confirm]^
-OP [Operator]^
-PLS [Please]^
-HR [Hear]^
-PLS [Please]^
-HW\? [How copy\?]^
-RX [Receive]^
-HR [Hear]^
-HW\? [How copy\?]^
-CFM [Confirm]^
-RX [Receive]^
-DR [Dear]^
-RX [Receive]^
-OP [Operator]^
-PLS [Please]^
-RX [Receive]^
-YL [Young lady]^
-MNI [Many]^
-TX [Transmit]^
-MNI [Many]^

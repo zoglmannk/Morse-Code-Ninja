@@ -1,600 +1,600 @@
-559 |S1000 NAME [5 5 9, Name]^
-73 |S1000 NAME [73, Name]^
-WX |S1000 DE [Weather, From]^
+WX |S1000 ES [Weather, And]^
+WX |S1000 559 [Weather, 5 5 9]^
+CQ |S1000 WX [C Q, Weather]^
 RST |S1000 WX [R S T, Weather]^
-5NN |S1000 VY [5 N N, Very]^
-WX |S1000 73 [Weather, 73]^
-UP |S1000 NAME [Up, Name]^
-73 |S1000 WX [73, Weather]^
-VY |S1000 WX [Very, Weather]^
-NR |S1000 WX [Number, Weather]^
-ES |S1000 NR [And, Number]^
-73 |S1000 WX [73, Weather]^
-ES |S1000 NR [And, Number]^
-WX |S1000 UP [Weather, Up]^
-DE |S1000 WX [From, Weather]^
-VY |S1000 DE [Very, From]^
-559 |S1000 5NN [5 5 9, 5 N N]^
-WX |S1000 DE [Weather, From]^
-CQ |S1000 WX [C Q, Weather]^
-RST |S1000 559 [R S T, 5 5 9]^
-73 |S1000 599 [73, 5 9 9]^
-CQ |S1000 WX [C Q, Weather]^
-599 |S1000 VY [5 9 9, Very]^
-NR |S1000 WX [Number, Weather]^
-599 |S1000 WX [5 9 9, Weather]^
-RST |S1000 DE [R S T, From]^
-WX |S1000 DE [Weather, From]^
-CQ |S1000 NR [C Q, Number]^
-RST |S1000 WX [R S T, Weather]^
-RST |S1000 WX [R S T, Weather]^
-5NN |S1000 NAME [5 N N, Name]^
-WX |S1000 DE [Weather, From]^
-RST |S1000 ES [R S T, And]^
-WX |S1000 NAME [Weather, Name]^
-599 |S1000 WX [5 9 9, Weather]^
-599 |S1000 VY [5 9 9, Very]^
-WX |S1000 UP [Weather, Up]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 ES [Weather, And]^
-NAME |S1000 RST [Name, R S T]^
-VY |S1000 CQ [Very, C Q]^
-VY |S1000 WX [Very, Weather]^
-5NN |S1000 WX [5 N N, Weather]^
-UP |S1000 VY [Up, Very]^
-CQ |S1000 ES [C Q, And]^
-CQ |S1000 ES [C Q, And]^
-WX |S1000 NAME [Weather, Name]^
-DE |S1000 559 [From, 5 5 9]^
-ES |S1000 DE [And, From]^
-VY |S1000 NAME [Very, Name]^
-RST |S1000 WX [R S T, Weather]^
-559 |S1000 CQ [5 5 9, C Q]^
-WX |S1000 DE [Weather, From]^
-WX |S1000 NAME [Weather, Name]^
-WX |S1000 5NN [Weather, 5 N N]^
-NR |S1000 UP [Number, Up]^
-NR |S1000 WX [Number, Weather]^
-NR |S1000 WX [Number, Weather]^
-559 |S1000 WX [5 5 9, Weather]^
-CQ |S1000 VY [C Q, Very]^
-WX |S1000 NAME [Weather, Name]^
-UP |S1000 WX [Up, Weather]^
-UP |S1000 NR [Up, Number]^
-UP |S1000 WX [Up, Weather]^
-UP |S1000 WX [Up, Weather]^
-NR |S1000 WX [Number, Weather]^
-DE |S1000 VY [From, Very]^
-WX |S1000 NR [Weather, Number]^
-WX |S1000 RST [Weather, R S T]^
-73 |S1000 559 [73, 5 5 9]^
-WX |S1000 CQ [Weather, C Q]^
-WX |S1000 RST [Weather, R S T]^
-VY |S1000 73 [Very, 73]^
-WX |S1000 559 [Weather, 5 5 9]^
-VY |S1000 RST [Very, R S T]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 559 [Weather, 5 5 9]^
-WX |S1000 599 [Weather, 5 9 9]^
-559 |S1000 WX [5 5 9, Weather]^
-VY |S1000 WX [Very, Weather]^
-UP |S1000 599 [Up, 5 9 9]^
-WX |S1000 73 [Weather, 73]^
-WX |S1000 NR [Weather, Number]^
-WX |S1000 73 [Weather, 73]^
-WX |S1000 NAME [Weather, Name]^
-WX |S1000 NAME [Weather, Name]^
-WX |S1000 5NN [Weather, 5 N N]^
-RST |S1000 73 [R S T, 73]^
-WX |S1000 NAME [Weather, Name]^
-VY |S1000 WX [Very, Weather]^
-DE |S1000 WX [From, Weather]^
-73 |S1000 WX [73, Weather]^
-ES |S1000 5NN [And, 5 N N]^
-WX |S1000 599 [Weather, 5 9 9]^
-NR |S1000 WX [Number, Weather]^
-UP |S1000 599 [Up, 5 9 9]^
-559 |S1000 DE [5 5 9, From]^
-NR |S1000 WX [Number, Weather]^
-5NN |S1000 599 [5 N N, 5 9 9]^
-NAME |S1000 UP [Name, Up]^
-599 |S1000 DE [5 9 9, From]^
-WX |S1000 5NN [Weather, 5 N N]^
-NAME |S1000 WX [Name, Weather]^
-NR |S1000 WX [Number, Weather]^
-NAME |S1000 5NN [Name, 5 N N]^
-WX |S1000 VY [Weather, Very]^
-CQ |S1000 5NN [C Q, 5 N N]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 599 [Weather, 5 9 9]^
-559 |S1000 RST [5 5 9, R S T]^
-DE |S1000 WX [From, Weather]^
-ES |S1000 WX [And, Weather]^
-NR |S1000 VY [Number, Very]^
-5NN |S1000 559 [5 N N, 5 5 9]^
-WX |S1000 559 [Weather, 5 5 9]^
-ES |S1000 WX [And, Weather]^
-5NN |S1000 WX [5 N N, Weather]^
-NAME |S1000 WX [Name, Weather]^
-5NN |S1000 RST [5 N N, R S T]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 RST [Weather, R S T]^
-WX |S1000 NR [Weather, Number]^
-WX |S1000 CQ [Weather, C Q]^
-VY |S1000 5NN [Very, 5 N N]^
-WX |S1000 NAME [Weather, Name]^
-CQ |S1000 WX [C Q, Weather]^
-NAME |S1000 RST [Name, R S T]^
-WX |S1000 VY [Weather, Very]^
-WX |S1000 NAME [Weather, Name]^
-599 |S1000 WX [5 9 9, Weather]^
-599 |S1000 WX [5 9 9, Weather]^
-559 |S1000 NAME [5 5 9, Name]^
-5NN |S1000 ES [5 N N, And]^
-VY |S1000 73 [Very, 73]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 ES [Weather, And]^
-WX |S1000 ES [Weather, And]^
-NR |S1000 73 [Number, 73]^
-WX |S1000 73 [Weather, 73]^
-WX |S1000 UP [Weather, Up]^
-RST |S1000 WX [R S T, Weather]^
-559 |S1000 WX [5 5 9, Weather]^
-ES |S1000 WX [And, Weather]^
-559 |S1000 WX [5 5 9, Weather]^
-UP |S1000 5NN [Up, 5 N N]^
-559 |S1000 WX [5 5 9, Weather]^
-ES |S1000 559 [And, 5 5 9]^
-NAME |S1000 VY [Name, Very]^
-NAME |S1000 599 [Name, 5 9 9]^
-VY |S1000 NAME [Very, Name]^
-NR |S1000 73 [Number, 73]^
-DE |S1000 CQ [From, C Q]^
-ES |S1000 WX [And, Weather]^
-599 |S1000 CQ [5 9 9, C Q]^
-NAME |S1000 RST [Name, R S T]^
-WX |S1000 NR [Weather, Number]^
-WX |S1000 NR [Weather, Number]^
-WX |S1000 VY [Weather, Very]^
-WX |S1000 NAME [Weather, Name]^
-WX |S1000 CQ [Weather, C Q]^
-ES |S1000 WX [And, Weather]^
-559 |S1000 DE [5 5 9, From]^
-RST |S1000 NR [R S T, Number]^
-WX |S1000 VY [Weather, Very]^
-5NN |S1000 RST [5 N N, R S T]^
-5NN |S1000 NAME [5 N N, Name]^
-WX |S1000 NR [Weather, Number]^
-WX |S1000 VY [Weather, Very]^
-CQ |S1000 WX [C Q, Weather]^
-CQ |S1000 NR [C Q, Number]^
-WX |S1000 NR [Weather, Number]^
-73 |S1000 WX [73, Weather]^
-599 |S1000 WX [5 9 9, Weather]^
-559 |S1000 VY [5 5 9, Very]^
-UP |S1000 CQ [Up, C Q]^
-ES |S1000 WX [And, Weather]^
-ES |S1000 NR [And, Number]^
-VY |S1000 UP [Very, Up]^
-73 |S1000 DE [73, From]^
-WX |S1000 599 [Weather, 5 9 9]^
-559 |S1000 5NN [5 5 9, 5 N N]^
-WX |S1000 559 [Weather, 5 5 9]^
-WX |S1000 RST [Weather, R S T]^
-WX |S1000 73 [Weather, 73]^
-DE |S1000 VY [From, Very]^
-DE |S1000 NAME [From, Name]^
-CQ |S1000 VY [C Q, Very]^
-599 |S1000 ES [5 9 9, And]^
-5NN |S1000 UP [5 N N, Up]^
-559 |S1000 NR [5 5 9, Number]^
-CQ |S1000 NR [C Q, Number]^
-RST |S1000 VY [R S T, Very]^
-559 |S1000 NR [5 5 9, Number]^
-WX |S1000 UP [Weather, Up]^
-559 |S1000 WX [5 5 9, Weather]^
-CQ |S1000 VY [C Q, Very]^
-ES |S1000 NR [And, Number]^
-WX |S1000 NAME [Weather, Name]^
-WX |S1000 NR [Weather, Number]^
-73 |S1000 UP [73, Up]^
-NAME |S1000 WX [Name, Weather]^
-NR |S1000 599 [Number, 5 9 9]^
-ES |S1000 WX [And, Weather]^
-NR |S1000 WX [Number, Weather]^
-NR |S1000 WX [Number, Weather]^
-559 |S1000 WX [5 5 9, Weather]^
-599 |S1000 WX [5 9 9, Weather]^
-ES |S1000 NAME [And, Name]^
-73 |S1000 RST [73, R S T]^
-WX |S1000 DE [Weather, From]^
-73 |S1000 NR [73, Number]^
-CQ |S1000 WX [C Q, Weather]^
-UP |S1000 WX [Up, Weather]^
-NAME |S1000 73 [Name, 73]^
-WX |S1000 599 [Weather, 5 9 9]^
-ES |S1000 599 [And, 5 9 9]^
-WX |S1000 559 [Weather, 5 5 9]^
-WX |S1000 VY [Weather, Very]^
-WX |S1000 599 [Weather, 5 9 9]^
-ES |S1000 WX [And, Weather]^
-VY |S1000 73 [Very, 73]^
-WX |S1000 559 [Weather, 5 5 9]^
-CQ |S1000 WX [C Q, Weather]^
-559 |S1000 599 [5 5 9, 5 9 9]^
-WX |S1000 5NN [Weather, 5 N N]^
-DE |S1000 WX [From, Weather]^
-NR |S1000 WX [Number, Weather]^
-DE |S1000 WX [From, Weather]^
-NAME |S1000 RST [Name, R S T]^
-WX |S1000 559 [Weather, 5 5 9]^
-CQ |S1000 5NN [C Q, 5 N N]^
-WX |S1000 ES [Weather, And]^
-NR |S1000 WX [Number, Weather]^
-73 |S1000 DE [73, From]^
-WX |S1000 UP [Weather, Up]^
-NAME |S1000 ES [Name, And]^
-WX |S1000 NR [Weather, Number]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 599 [Weather, 5 9 9]^
-VY |S1000 CQ [Very, C Q]^
-599 |S1000 WX [5 9 9, Weather]^
-73 |S1000 WX [73, Weather]^
-ES |S1000 WX [And, Weather]^
-RST |S1000 WX [R S T, Weather]^
-DE |S1000 NAME [From, Name]^
-WX |S1000 ES [Weather, And]^
-WX |S1000 DE [Weather, From]^
-RST |S1000 WX [R S T, Weather]^
-RST |S1000 WX [R S T, Weather]^
-RST |S1000 559 [R S T, 5 5 9]^
-UP |S1000 559 [Up, 5 5 9]^
-WX |S1000 DE [Weather, From]^
-599 |S1000 5NN [5 9 9, 5 N N]^
-VY |S1000 RST [Very, R S T]^
-WX |S1000 559 [Weather, 5 5 9]^
-WX |S1000 UP [Weather, Up]^
-WX |S1000 ES [Weather, And]^
-73 |S1000 NAME [73, Name]^
-WX |S1000 NR [Weather, Number]^
-VY |S1000 NR [Very, Number]^
-559 |S1000 WX [5 5 9, Weather]^
-559 |S1000 NAME [5 5 9, Name]^
-WX |S1000 ES [Weather, And]^
-NAME |S1000 UP [Name, Up]^
-WX |S1000 DE [Weather, From]^
-WX |S1000 559 [Weather, 5 5 9]^
-WX |S1000 CQ [Weather, C Q]^
-WX |S1000 73 [Weather, 73]^
-5NN |S1000 NR [5 N N, Number]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 RST [Weather, R S T]^
-WX |S1000 CQ [Weather, C Q]^
-RST |S1000 559 [R S T, 5 5 9]^
-CQ |S1000 WX [C Q, Weather]^
-DE |S1000 VY [From, Very]^
-WX |S1000 NAME [Weather, Name]^
-CQ |S1000 VY [C Q, Very]^
-WX |S1000 599 [Weather, 5 9 9]^
-RST |S1000 WX [R S T, Weather]^
-NR |S1000 WX [Number, Weather]^
-RST |S1000 599 [R S T, 5 9 9]^
-ES |S1000 NAME [And, Name]^
-WX |S1000 DE [Weather, From]^
-WX |S1000 ES [Weather, And]^
-559 |S1000 WX [5 5 9, Weather]^
-CQ |S1000 DE [C Q, From]^
-73 |S1000 DE [73, From]^
-73 |S1000 559 [73, 5 5 9]^
-WX |S1000 559 [Weather, 5 5 9]^
-WX |S1000 73 [Weather, 73]^
-WX |S1000 5NN [Weather, 5 N N]^
-DE |S1000 WX [From, Weather]^
-599 |S1000 WX [5 9 9, Weather]^
-DE |S1000 VY [From, Very]^
-NAME |S1000 ES [Name, And]^
-UP |S1000 73 [Up, 73]^
-ES |S1000 599 [And, 5 9 9]^
-5NN |S1000 WX [5 N N, Weather]^
-DE |S1000 UP [From, Up]^
-WX |S1000 DE [Weather, From]^
-73 |S1000 WX [73, Weather]^
-5NN |S1000 RST [5 N N, R S T]^
-WX |S1000 ES [Weather, And]^
-WX |S1000 ES [Weather, And]^
-WX |S1000 DE [Weather, From]^
-WX |S1000 559 [Weather, 5 5 9]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 559 [Weather, 5 5 9]^
-NR |S1000 WX [Number, Weather]^
-UP |S1000 CQ [Up, C Q]^
-UP |S1000 5NN [Up, 5 N N]^
-DE |S1000 WX [From, Weather]^
-5NN |S1000 WX [5 N N, Weather]^
-RST |S1000 DE [R S T, From]^
-ES |S1000 WX [And, Weather]^
-CQ |S1000 WX [C Q, Weather]^
-5NN |S1000 CQ [5 N N, C Q]^
-ES |S1000 WX [And, Weather]^
-VY |S1000 5NN [Very, 5 N N]^
-WX |S1000 599 [Weather, 5 9 9]^
-WX |S1000 UP [Weather, Up]^
-CQ |S1000 WX [C Q, Weather]^
-73 |S1000 NAME [73, Name]^
-599 |S1000 WX [5 9 9, Weather]^
-DE |S1000 WX [From, Weather]^
-599 |S1000 VY [5 9 9, Very]^
-WX |S1000 RST [Weather, R S T]^
-VY |S1000 NR [Very, Number]^
-559 |S1000 5NN [5 5 9, 5 N N]^
-WX |S1000 DE [Weather, From]^
-559 |S1000 WX [5 5 9, Weather]^
-5NN |S1000 WX [5 N N, Weather]^
-UP |S1000 WX [Up, Weather]^
-73 |S1000 599 [73, 5 9 9]^
-ES |S1000 73 [And, 73]^
-WX |S1000 VY [Weather, Very]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 ES [Weather, And]^
-559 |S1000 ES [5 5 9, And]^
-WX |S1000 599 [Weather, 5 9 9]^
-73 |S1000 NR [73, Number]^
-WX |S1000 VY [Weather, Very]^
-RST |S1000 WX [R S T, Weather]^
-NR |S1000 ES [Number, And]^
-599 |S1000 WX [5 9 9, Weather]^
-DE |S1000 NAME [From, Name]^
-VY |S1000 559 [Very, 5 5 9]^
-CQ |S1000 WX [C Q, Weather]^
-VY |S1000 WX [Very, Weather]^
-VY |S1000 5NN [Very, 5 N N]^
-WX |S1000 559 [Weather, 5 5 9]^
-NAME |S1000 WX [Name, Weather]^
-CQ |S1000 WX [C Q, Weather]^
-NR |S1000 VY [Number, Very]^
-WX |S1000 RST [Weather, R S T]^
 559 |S1000 73 [5 5 9, 73]^
 WX |S1000 DE [Weather, From]^
-WX |S1000 ES [Weather, And]^
-WX |S1000 VY [Weather, Very]^
-WX |S1000 599 [Weather, 5 9 9]^
-WX |S1000 5NN [Weather, 5 N N]^
-UP |S1000 WX [Up, Weather]^
-NAME |S1000 559 [Name, 5 5 9]^
+599 |S1000 VY [5 9 9, Very]^
+5NN |S1000 WX [5 N N, Weather]^
+5NN |S1000 559 [5 N N, 5 5 9]^
 WX |S1000 UP [Weather, Up]^
-599 |S1000 WX [5 9 9, Weather]^
-73 |S1000 DE [73, From]^
-WX |S1000 559 [Weather, 5 5 9]^
-599 |S1000 WX [5 9 9, Weather]^
-NR |S1000 WX [Number, Weather]^
-NAME |S1000 UP [Name, Up]^
-WX |S1000 73 [Weather, 73]^
+5NN |S1000 WX [5 N N, Weather]^
+UP |S1000 WX [Up, Weather]^
+73 |S1000 CQ [73, C Q]^
+5NN |S1000 WX [5 N N, Weather]^
+NAME |S1000 WX [Name, Weather]^
+NAME |S1000 WX [Name, Weather]^
 VY |S1000 WX [Very, Weather]^
-5NN |S1000 599 [5 N N, 5 9 9]^
-NR |S1000 DE [Number, From]^
+RST |S1000 CQ [R S T, C Q]^
+NR |S1000 WX [Number, Weather]^
+NAME |S1000 CQ [Name, C Q]^
+VY |S1000 WX [Very, Weather]^
+73 |S1000 WX [73, Weather]^
+5NN |S1000 559 [5 N N, 5 5 9]^
+WX |S1000 RST [Weather, R S T]^
+ES |S1000 559 [And, 5 5 9]^
+WX |S1000 73 [Weather, 73]^
+CQ |S1000 NR [C Q, Number]^
+CQ |S1000 WX [C Q, Weather]^
+RST |S1000 NAME [R S T, Name]^
+5NN |S1000 UP [5 N N, Up]^
+WX |S1000 CQ [Weather, C Q]^
+WX |S1000 73 [Weather, 73]^
+NAME |S1000 RST [Name, R S T]^
+NR |S1000 WX [Number, Weather]^
+ES |S1000 73 [And, 73]^
+WX |S1000 ES [Weather, And]^
+WX |S1000 RST [Weather, R S T]^
+WX |S1000 ES [Weather, And]^
+599 |S1000 WX [5 9 9, Weather]^
+ES |S1000 WX [And, Weather]^
+NAME |S1000 CQ [Name, C Q]^
+ES |S1000 5NN [And, 5 N N]^
+NAME |S1000 WX [Name, Weather]^
+DE |S1000 73 [From, 73]^
+UP |S1000 73 [Up, 73]^
+WX |S1000 NAME [Weather, Name]^
+WX |S1000 599 [Weather, 5 9 9]^
+WX |S1000 UP [Weather, Up]^
+WX |S1000 DE [Weather, From]^
+WX |S1000 599 [Weather, 5 9 9]^
+ES |S1000 WX [And, Weather]^
+ES |S1000 599 [And, 5 9 9]^
+CQ |S1000 UP [C Q, Up]^
+WX |S1000 5NN [Weather, 5 N N]^
+WX |S1000 DE [Weather, From]^
+WX |S1000 73 [Weather, 73]^
+WX |S1000 599 [Weather, 5 9 9]^
+WX |S1000 ES [Weather, And]^
+WX |S1000 73 [Weather, 73]^
+599 |S1000 73 [5 9 9, 73]^
+599 |S1000 WX [5 9 9, Weather]^
+5NN |S1000 NR [5 N N, Number]^
+WX |S1000 UP [Weather, Up]^
+559 |S1000 5NN [5 5 9, 5 N N]^
+WX |S1000 ES [Weather, And]^
+UP |S1000 VY [Up, Very]^
+559 |S1000 WX [5 5 9, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+UP |S1000 CQ [Up, C Q]^
+VY |S1000 ES [Very, And]^
+NAME |S1000 WX [Name, Weather]^
 5NN |S1000 VY [5 N N, Very]^
-559 |S1000 ES [5 5 9, And]^
+NR |S1000 73 [Number, 73]^
+599 |S1000 VY [5 9 9, Very]^
+WX |S1000 DE [Weather, From]^
+WX |S1000 RST [Weather, R S T]^
+WX |S1000 559 [Weather, 5 5 9]^
+UP |S1000 WX [Up, Weather]^
+73 |S1000 RST [73, R S T]^
+NR |S1000 UP [Number, Up]^
+73 |S1000 WX [73, Weather]^
+559 |S1000 WX [5 5 9, Weather]^
+5NN |S1000 NAME [5 N N, Name]^
+RST |S1000 DE [R S T, From]^
+559 |S1000 5NN [5 5 9, 5 N N]^
+VY |S1000 599 [Very, 5 9 9]^
+73 |S1000 NR [73, Number]^
+RST |S1000 5NN [R S T, 5 N N]^
+WX |S1000 NAME [Weather, Name]^
+WX |S1000 73 [Weather, 73]^
+UP |S1000 ES [Up, And]^
+CQ |S1000 599 [C Q, 5 9 9]^
+ES |S1000 WX [And, Weather]^
+ES |S1000 WX [And, Weather]^
+73 |S1000 WX [73, Weather]^
+CQ |S1000 WX [C Q, Weather]^
+RST |S1000 WX [R S T, Weather]^
+ES |S1000 73 [And, 73]^
+DE |S1000 CQ [From, C Q]^
+WX |S1000 73 [Weather, 73]^
+ES |S1000 559 [And, 5 5 9]^
+599 |S1000 WX [5 9 9, Weather]^
+DE |S1000 5NN [From, 5 N N]^
+NAME |S1000 WX [Name, Weather]^
+DE |S1000 RST [From, R S T]^
+WX |S1000 UP [Weather, Up]^
+WX |S1000 ES [Weather, And]^
+WX |S1000 CQ [Weather, C Q]^
+UP |S1000 CQ [Up, C Q]^
+WX |S1000 599 [Weather, 5 9 9]^
+RST |S1000 73 [R S T, 73]^
+WX |S1000 ES [Weather, And]^
+NR |S1000 UP [Number, Up]^
+CQ |S1000 WX [C Q, Weather]^
+VY |S1000 UP [Very, Up]^
+ES |S1000 WX [And, Weather]^
+NR |S1000 DE [Number, From]^
+WX |S1000 559 [Weather, 5 5 9]^
+WX |S1000 CQ [Weather, C Q]^
+WX |S1000 CQ [Weather, C Q]^
+WX |S1000 NAME [Weather, Name]^
+WX |S1000 ES [Weather, And]^
+WX |S1000 ES [Weather, And]^
+DE |S1000 WX [From, Weather]^
+RST |S1000 559 [R S T, 5 5 9]^
+WX |S1000 DE [Weather, From]^
+ES |S1000 DE [And, From]^
+WX |S1000 599 [Weather, 5 9 9]^
+WX |S1000 73 [Weather, 73]^
+5NN |S1000 WX [5 N N, Weather]^
+NAME |S1000 CQ [Name, C Q]^
+NAME |S1000 WX [Name, Weather]^
+UP |S1000 559 [Up, 5 5 9]^
+599 |S1000 RST [5 9 9, R S T]^
+CQ |S1000 WX [C Q, Weather]^
+RST |S1000 WX [R S T, Weather]^
+ES |S1000 CQ [And, C Q]^
+73 |S1000 ES [73, And]^
+WX |S1000 NR [Weather, Number]^
+WX |S1000 5NN [Weather, 5 N N]^
+UP |S1000 VY [Up, Very]^
+NAME |S1000 599 [Name, 5 9 9]^
+CQ |S1000 WX [C Q, Weather]^
+UP |S1000 RST [Up, R S T]^
+WX |S1000 DE [Weather, From]^
+599 |S1000 CQ [5 9 9, C Q]^
+NAME |S1000 WX [Name, Weather]^
+CQ |S1000 WX [C Q, Weather]^
+ES |S1000 WX [And, Weather]^
+5NN |S1000 73 [5 N N, 73]^
+WX |S1000 73 [Weather, 73]^
+NR |S1000 DE [Number, From]^
+RST |S1000 CQ [R S T, C Q]^
+UP |S1000 WX [Up, Weather]^
+UP |S1000 ES [Up, And]^
+5NN |S1000 UP [5 N N, Up]^
+73 |S1000 559 [73, 5 5 9]^
+WX |S1000 CQ [Weather, C Q]^
 NR |S1000 WX [Number, Weather]^
 NR |S1000 NAME [Number, Name]^
-WX |S1000 VY [Weather, Very]^
-WX |S1000 VY [Weather, Very]^
+599 |S1000 73 [5 9 9, 73]^
 WX |S1000 RST [Weather, R S T]^
-WX |S1000 ES [Weather, And]^
-73 |S1000 WX [73, Weather]^
-UP |S1000 599 [Up, 5 9 9]^
-UP |S1000 VY [Up, Very]^
-WX |S1000 VY [Weather, Very]^
-WX |S1000 NR [Weather, Number]^
-WX |S1000 NAME [Weather, Name]^
-NR |S1000 ES [Number, And]^
+CQ |S1000 73 [C Q, 73]^
 WX |S1000 DE [Weather, From]^
-WX |S1000 VY [Weather, Very]^
-WX |S1000 559 [Weather, 5 5 9]^
-WX |S1000 DE [Weather, From]^
-VY |S1000 WX [Very, Weather]^
-5NN |S1000 WX [5 N N, Weather]^
-559 |S1000 WX [5 5 9, Weather]^
-VY |S1000 ES [Very, And]^
-DE |S1000 WX [From, Weather]^
-ES |S1000 WX [And, Weather]^
-73 |S1000 WX [73, Weather]^
-VY |S1000 WX [Very, Weather]^
-CQ |S1000 5NN [C Q, 5 N N]^
-UP |S1000 RST [Up, R S T]^
-5NN |S1000 UP [5 N N, Up]^
-WX |S1000 VY [Weather, Very]^
-DE |S1000 WX [From, Weather]^
 NR |S1000 WX [Number, Weather]^
-559 |S1000 WX [5 5 9, Weather]^
-599 |S1000 WX [5 9 9, Weather]^
-RST |S1000 VY [R S T, Very]^
-WX |S1000 NAME [Weather, Name]^
-WX |S1000 UP [Weather, Up]^
-RST |S1000 WX [R S T, Weather]^
-UP |S1000 WX [Up, Weather]^
-73 |S1000 WX [73, Weather]^
-5NN |S1000 WX [5 N N, Weather]^
-RST |S1000 WX [R S T, Weather]^
-VY |S1000 WX [Very, Weather]^
-599 |S1000 WX [5 9 9, Weather]^
-559 |S1000 NAME [5 5 9, Name]^
-WX |S1000 559 [Weather, 5 5 9]^
-599 |S1000 NAME [5 9 9, Name]^
-WX |S1000 NAME [Weather, Name]^
-UP |S1000 WX [Up, Weather]^
-NR |S1000 5NN [Number, 5 N N]^
-WX |S1000 VY [Weather, Very]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 DE [Weather, From]^
-WX |S1000 599 [Weather, 5 9 9]^
-5NN |S1000 RST [5 N N, R S T]^
-WX |S1000 RST [Weather, R S T]^
 ES |S1000 WX [And, Weather]^
-559 |S1000 WX [5 5 9, Weather]^
-UP |S1000 73 [Up, 73]^
+5NN |S1000 WX [5 N N, Weather]^
+ES |S1000 73 [And, 73]^
+599 |S1000 UP [5 9 9, Up]^
+5NN |S1000 RST [5 N N, R S T]^
+DE |S1000 VY [From, Very]^
+599 |S1000 WX [5 9 9, Weather]^
+UP |S1000 WX [Up, Weather]^
+599 |S1000 73 [5 9 9, 73]^
+CQ |S1000 5NN [C Q, 5 N N]^
+NAME |S1000 559 [Name, 5 5 9]^
+WX |S1000 NAME [Weather, Name]^
+WX |S1000 NAME [Weather, Name]^
 WX |S1000 73 [Weather, 73]^
 5NN |S1000 WX [5 N N, Weather]^
-VY |S1000 ES [Very, And]^
-CQ |S1000 DE [C Q, From]^
-559 |S1000 WX [5 5 9, Weather]^
-ES |S1000 WX [And, Weather]^
-5NN |S1000 WX [5 N N, Weather]^
-5NN |S1000 DE [5 N N, From]^
-VY |S1000 NR [Very, Number]^
-559 |S1000 RST [5 5 9, R S T]^
-UP |S1000 559 [Up, 5 5 9]^
-73 |S1000 WX [73, Weather]^
-DE |S1000 NR [From, Number]^
-5NN |S1000 WX [5 N N, Weather]^
-CQ |S1000 DE [C Q, From]^
-UP |S1000 RST [Up, R S T]^
-5NN |S1000 WX [5 N N, Weather]^
-NAME |S1000 WX [Name, Weather]^
-5NN |S1000 599 [5 N N, 5 9 9]^
-559 |S1000 WX [5 5 9, Weather]^
-CQ |S1000 UP [C Q, Up]^
-WX |S1000 CQ [Weather, C Q]^
-WX |S1000 DE [Weather, From]^
-UP |S1000 73 [Up, 73]^
-WX |S1000 DE [Weather, From]^
-RST |S1000 WX [R S T, Weather]^
-UP |S1000 WX [Up, Weather]^
-RST |S1000 NR [R S T, Number]^
-WX |S1000 UP [Weather, Up]^
-VY |S1000 WX [Very, Weather]^
-VY |S1000 WX [Very, Weather]^
+DE |S1000 CQ [From, C Q]^
+5NN |S1000 ES [5 N N, And]^
+VY |S1000 NAME [Very, Name]^
+WX |S1000 5NN [Weather, 5 N N]^
+WX |S1000 RST [Weather, R S T]^
+DE |S1000 UP [From, Up]^
+VY |S1000 5NN [Very, 5 N N]^
+WX |S1000 559 [Weather, 5 5 9]^
 599 |S1000 WX [5 9 9, Weather]^
-5NN |S1000 VY [5 N N, Very]^
-599 |S1000 559 [5 9 9, 5 5 9]^
+NAME |S1000 WX [Name, Weather]^
+559 |S1000 WX [5 5 9, Weather]^
+VY |S1000 WX [Very, Weather]^
+DE |S1000 ES [From, And]^
+WX |S1000 73 [Weather, 73]^
+WX |S1000 5NN [Weather, 5 N N]^
+73 |S1000 WX [73, Weather]^
+CQ |S1000 73 [C Q, 73]^
+WX |S1000 CQ [Weather, C Q]^
+WX |S1000 NR [Weather, Number]^
+73 |S1000 599 [73, 5 9 9]^
+WX |S1000 599 [Weather, 5 9 9]^
+NAME |S1000 WX [Name, Weather]^
+NR |S1000 599 [Number, 5 9 9]^
+UP |S1000 WX [Up, Weather]^
+599 |S1000 NAME [5 9 9, Name]^
+UP |S1000 WX [Up, Weather]^
+CQ |S1000 73 [C Q, 73]^
+WX |S1000 ES [Weather, And]^
+WX |S1000 RST [Weather, R S T]^
+ES |S1000 599 [And, 5 9 9]^
+NR |S1000 UP [Number, Up]^
+CQ |S1000 ES [C Q, And]^
+599 |S1000 DE [5 9 9, From]^
+RST |S1000 WX [R S T, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+NR |S1000 WX [Number, Weather]^
+UP |S1000 WX [Up, Weather]^
+UP |S1000 CQ [Up, C Q]^
+599 |S1000 RST [5 9 9, R S T]^
+5NN |S1000 WX [5 N N, Weather]^
+5NN |S1000 WX [5 N N, Weather]^
+NAME |S1000 73 [Name, 73]^
+DE |S1000 ES [From, And]^
+UP |S1000 WX [Up, Weather]^
+VY |S1000 WX [Very, Weather]^
+NAME |S1000 WX [Name, Weather]^
+NR |S1000 CQ [Number, C Q]^
+599 |S1000 DE [5 9 9, From]^
+VY |S1000 WX [Very, Weather]^
+VY |S1000 WX [Very, Weather]^
+UP |S1000 DE [Up, From]^
+599 |S1000 NR [5 9 9, Number]^
+UP |S1000 WX [Up, Weather]^
+RST |S1000 WX [R S T, Weather]^
+DE |S1000 WX [From, Weather]^
+CQ |S1000 WX [C Q, Weather]^
+73 |S1000 WX [73, Weather]^
+559 |S1000 VY [5 5 9, Very]^
+WX |S1000 73 [Weather, 73]^
+VY |S1000 WX [Very, Weather]^
+NAME |S1000 WX [Name, Weather]^
+DE |S1000 WX [From, Weather]^
+559 |S1000 NAME [5 5 9, Name]^
+WX |S1000 RST [Weather, R S T]^
+WX |S1000 UP [Weather, Up]^
+CQ |S1000 NAME [C Q, Name]^
 WX |S1000 UP [Weather, Up]^
 WX |S1000 5NN [Weather, 5 N N]^
-599 |S1000 WX [5 9 9, Weather]^
-NAME |S1000 73 [Name, 73]^
-UP |S1000 CQ [Up, C Q]^
-WX |S1000 DE [Weather, From]^
-WX |S1000 RST [Weather, R S T]^
-559 |S1000 VY [5 5 9, Very]^
+WX |S1000 UP [Weather, Up]^
+CQ |S1000 NAME [C Q, Name]^
+5NN |S1000 DE [5 N N, From]^
 WX |S1000 599 [Weather, 5 9 9]^
 ES |S1000 DE [And, From]^
-RST |S1000 WX [R S T, Weather]^
-NR |S1000 ES [Number, And]^
-WX |S1000 ES [Weather, And]^
-WX |S1000 DE [Weather, From]^
-73 |S1000 DE [73, From]^
-WX |S1000 599 [Weather, 5 9 9]^
-559 |S1000 NAME [5 5 9, Name]^
-WX |S1000 559 [Weather, 5 5 9]^
-WX |S1000 UP [Weather, Up]^
-WX |S1000 ES [Weather, And]^
-WX |S1000 UP [Weather, Up]^
-RST |S1000 WX [R S T, Weather]^
-73 |S1000 NAME [73, Name]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 559 [Weather, 5 5 9]^
-CQ |S1000 WX [C Q, Weather]^
-VY |S1000 599 [Very, 5 9 9]^
-ES |S1000 WX [And, Weather]^
-599 |S1000 WX [5 9 9, Weather]^
-NR |S1000 5NN [Number, 5 N N]^
-NAME |S1000 CQ [Name, C Q]^
-WX |S1000 559 [Weather, 5 5 9]^
-DE |S1000 599 [From, 5 9 9]^
-WX |S1000 5NN [Weather, 5 N N]^
-WX |S1000 ES [Weather, And]^
-CQ |S1000 WX [C Q, Weather]^
-NAME |S1000 WX [Name, Weather]^
-VY |S1000 WX [Very, Weather]^
-5NN |S1000 NR [5 N N, Number]^
-WX |S1000 DE [Weather, From]^
 UP |S1000 559 [Up, 5 5 9]^
-5NN |S1000 ES [5 N N, And]^
-WX |S1000 RST [Weather, R S T]^
-NR |S1000 73 [Number, 73]^
-CQ |S1000 WX [C Q, Weather]^
-UP |S1000 ES [Up, And]^
-NR |S1000 ES [Number, And]^
-WX |S1000 DE [Weather, From]^
-5NN |S1000 WX [5 N N, Weather]^
-DE |S1000 559 [From, 5 5 9]^
-ES |S1000 WX [And, Weather]^
-NR |S1000 DE [Number, From]^
-CQ |S1000 WX [C Q, Weather]^
-599 |S1000 73 [5 9 9, 73]^
-DE |S1000 WX [From, Weather]^
-599 |S1000 WX [5 9 9, Weather]^
-VY |S1000 WX [Very, Weather]^
-ES |S1000 CQ [And, C Q]^
-5NN |S1000 WX [5 N N, Weather]^
-UP |S1000 NR [Up, Number]^
-WX |S1000 CQ [Weather, C Q]^
-DE |S1000 WX [From, Weather]^
-RST |S1000 NAME [R S T, Name]^
-VY |S1000 DE [Very, From]^
-CQ |S1000 559 [C Q, 5 5 9]^
-WX |S1000 UP [Weather, Up]^
-ES |S1000 WX [And, Weather]^
-DE |S1000 599 [From, 5 9 9]^
-VY |S1000 5NN [Very, 5 N N]^
-UP |S1000 DE [Up, From]^
-5NN |S1000 WX [5 N N, Weather]^
-RST |S1000 WX [R S T, Weather]^
-VY |S1000 5NN [Very, 5 N N]^
-WX |S1000 ES [Weather, And]^
-559 |S1000 RST [5 5 9, R S T]^
-NAME |S1000 NR [Name, Number]^
-599 |S1000 559 [5 9 9, 5 5 9]^
-UP |S1000 599 [Up, 5 9 9]^
-73 |S1000 599 [73, 5 9 9]^
-WX |S1000 DE [Weather, From]^
-UP |S1000 73 [Up, 73]^
-WX |S1000 DE [Weather, From]^
-WX |S1000 NAME [Weather, Name]^
-DE |S1000 VY [From, Very]^
-73 |S1000 NAME [73, Name]^
-559 |S1000 5NN [5 5 9, 5 N N]^
+73 |S1000 WX [73, Weather]^
+UP |S1000 VY [Up, Very]^
 UP |S1000 WX [Up, Weather]^
+5NN |S1000 WX [5 N N, Weather]^
+VY |S1000 WX [Very, Weather]^
+5NN |S1000 UP [5 N N, Up]^
+5NN |S1000 WX [5 N N, Weather]^
 73 |S1000 WX [73, Weather]^
 RST |S1000 WX [R S T, Weather]^
-RST |S1000 ES [R S T, And]^
-VY |S1000 WX [Very, Weather]^
-NR |S1000 WX [Number, Weather]^
+UP |S1000 NR [Up, Number]^
+NAME |S1000 WX [Name, Weather]^
+UP |S1000 WX [Up, Weather]^
 ES |S1000 WX [And, Weather]^
-599 |S1000 DE [5 9 9, From]^
+ES |S1000 UP [And, Up]^
+73 |S1000 WX [73, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+UP |S1000 WX [Up, Weather]^
+NR |S1000 ES [Number, And]^
+DE |S1000 WX [From, Weather]^
 559 |S1000 WX [5 5 9, Weather]^
-ES |S1000 5NN [And, 5 N N]^
+DE |S1000 NAME [From, Name]^
+WX |S1000 73 [Weather, 73]^
+5NN |S1000 WX [5 N N, Weather]^
+559 |S1000 599 [5 5 9, 5 9 9]^
+WX |S1000 VY [Weather, Very]^
+ES |S1000 VY [And, Very]^
+ES |S1000 DE [And, From]^
+NR |S1000 ES [Number, And]^
+CQ |S1000 RST [C Q, R S T]^
+CQ |S1000 WX [C Q, Weather]^
+UP |S1000 WX [Up, Weather]^
+UP |S1000 WX [Up, Weather]^
+NAME |S1000 WX [Name, Weather]^
+UP |S1000 WX [Up, Weather]^
+5NN |S1000 WX [5 N N, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+CQ |S1000 WX [C Q, Weather]^
+VY |S1000 WX [Very, Weather]^
+599 |S1000 UP [5 9 9, Up]^
+WX |S1000 73 [Weather, 73]^
 WX |S1000 UP [Weather, Up]^
-NR |S1000 VY [Number, Very]^
-559 |S1000 DE [5 5 9, From]^
-559 |S1000 UP [5 5 9, Up]^
-NR |S1000 WX [Number, Weather]^
-599 |S1000 ES [5 9 9, And]^
-WX |S1000 NR [Weather, Number]^
-5NN |S1000 VY [5 N N, Very]^
 ES |S1000 WX [And, Weather]^
+RST |S1000 NAME [R S T, Name]^
+WX |S1000 559 [Weather, 5 5 9]^
+WX |S1000 CQ [Weather, C Q]^
+WX |S1000 NR [Weather, Number]^
+559 |S1000 ES [5 5 9, And]^
+CQ |S1000 WX [C Q, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+VY |S1000 559 [Very, 5 5 9]^
+WX |S1000 RST [Weather, R S T]^
+73 |S1000 UP [73, Up]^
+WX |S1000 RST [Weather, R S T]^
 DE |S1000 WX [From, Weather]^
 NR |S1000 WX [Number, Weather]^
-5NN |S1000 599 [5 N N, 5 9 9]^
-WX |S1000 559 [Weather, 5 5 9]^
-WX |S1000 VY [Weather, Very]^
-73 |S1000 CQ [73, C Q]^
-WX |S1000 DE [Weather, From]^
-WX |S1000 VY [Weather, Very]^
-599 |S1000 CQ [5 9 9, C Q]^
-559 |S1000 WX [5 5 9, Weather]^
-NR |S1000 WX [Number, Weather]^
-599 |S1000 WX [5 9 9, Weather]^
-UP |S1000 RST [Up, R S T]^
-NR |S1000 73 [Number, 73]^
-UP |S1000 DE [Up, From]^
+ES |S1000 WX [And, Weather]^
+559 |S1000 NR [5 5 9, Number]^
+WX |S1000 NR [Weather, Number]^
+UP |S1000 ES [Up, And]^
+CQ |S1000 RST [C Q, R S T]^
 UP |S1000 WX [Up, Weather]^
-NAME |S1000 599 [Name, 5 9 9]^
+NAME |S1000 559 [Name, 5 5 9]^
+WX |S1000 599 [Weather, 5 9 9]^
+WX |S1000 NAME [Weather, Name]^
+RST |S1000 DE [R S T, From]^
+NAME |S1000 WX [Name, Weather]^
+VY |S1000 NR [Very, Number]^
+CQ |S1000 73 [C Q, 73]^
 WX |S1000 73 [Weather, 73]^
-CQ |S1000 WX [C Q, Weather]^
-599 |S1000 559 [5 9 9, 5 5 9]^
-WX |S1000 73 [Weather, 73]^
-RST |S1000 WX [R S T, Weather]^
+WX |S1000 599 [Weather, 5 9 9]^
 VY |S1000 WX [Very, Weather]^
+DE |S1000 WX [From, Weather]^
+5NN |S1000 WX [5 N N, Weather]^
+RST |S1000 559 [R S T, 5 5 9]^
+NAME |S1000 DE [Name, From]^
+559 |S1000 UP [5 5 9, Up]^
+5NN |S1000 CQ [5 N N, C Q]^
+WX |S1000 RST [Weather, R S T]^
+WX |S1000 UP [Weather, Up]^
+WX |S1000 559 [Weather, 5 5 9]^
+WX |S1000 599 [Weather, 5 9 9]^
+ES |S1000 WX [And, Weather]^
+DE |S1000 WX [From, Weather]^
+UP |S1000 WX [Up, Weather]^
+5NN |S1000 599 [5 N N, 5 9 9]^
+ES |S1000 WX [And, Weather]^
+NAME |S1000 NR [Name, Number]^
+WX |S1000 5NN [Weather, 5 N N]^
+WX |S1000 NR [Weather, Number]^
+ES |S1000 RST [And, R S T]^
+WX |S1000 UP [Weather, Up]^
+WX |S1000 NAME [Weather, Name]^
+WX |S1000 CQ [Weather, C Q]^
 559 |S1000 WX [5 5 9, Weather]^
+5NN |S1000 NR [5 N N, Number]^
+WX |S1000 559 [Weather, 5 5 9]^
+DE |S1000 CQ [From, C Q]^
+5NN |S1000 ES [5 N N, And]^
+WX |S1000 NR [Weather, Number]^
+DE |S1000 WX [From, Weather]^
+73 |S1000 CQ [73, C Q]^
+DE |S1000 WX [From, Weather]^
+73 |S1000 VY [73, Very]^
+UP |S1000 NR [Up, Number]^
+WX |S1000 NAME [Weather, Name]^
+WX |S1000 73 [Weather, 73]^
+CQ |S1000 73 [C Q, 73]^
+UP |S1000 WX [Up, Weather]^
+ES |S1000 73 [And, 73]^
+CQ |S1000 559 [C Q, 5 5 9]^
+NR |S1000 RST [Number, R S T]^
+5NN |S1000 UP [5 N N, Up]^
+DE |S1000 WX [From, Weather]^
+5NN |S1000 NR [5 N N, Number]^
+RST |S1000 WX [R S T, Weather]^
+599 |S1000 CQ [5 9 9, C Q]^
+UP |S1000 73 [Up, 73]^
+NR |S1000 UP [Number, Up]^
+WX |S1000 599 [Weather, 5 9 9]^
+NR |S1000 WX [Number, Weather]^
+CQ |S1000 NR [C Q, Number]^
+DE |S1000 WX [From, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+RST |S1000 5NN [R S T, 5 N N]^
+VY |S1000 UP [Very, Up]^
+NR |S1000 WX [Number, Weather]^
+DE |S1000 WX [From, Weather]^
+73 |S1000 WX [73, Weather]^
+RST |S1000 DE [R S T, From]^
+5NN |S1000 WX [5 N N, Weather]^
+CQ |S1000 WX [C Q, Weather]^
+RST |S1000 WX [R S T, Weather]^
+VY |S1000 UP [Very, Up]^
+599 |S1000 WX [5 9 9, Weather]^
 ES |S1000 CQ [And, C Q]^
+WX |S1000 NR [Weather, Number]^
+WX |S1000 ES [Weather, And]^
+5NN |S1000 WX [5 N N, Weather]^
+NR |S1000 73 [Number, 73]^
+599 |S1000 WX [5 9 9, Weather]^
+RST |S1000 WX [R S T, Weather]^
+UP |S1000 ES [Up, And]^
+NR |S1000 WX [Number, Weather]^
+559 |S1000 5NN [5 5 9, 5 N N]^
+WX |S1000 NAME [Weather, Name]^
+CQ |S1000 WX [C Q, Weather]^
+NR |S1000 559 [Number, 5 5 9]^
+WX |S1000 CQ [Weather, C Q]^
+DE |S1000 CQ [From, C Q]^
+DE |S1000 WX [From, Weather]^
+DE |S1000 WX [From, Weather]^
+RST |S1000 WX [R S T, Weather]^
+5NN |S1000 WX [5 N N, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+NR |S1000 73 [Number, 73]^
+559 |S1000 WX [5 5 9, Weather]^
+NAME |S1000 WX [Name, Weather]^
+NR |S1000 559 [Number, 5 5 9]^
+599 |S1000 UP [5 9 9, Up]^
+NR |S1000 NAME [Number, Name]^
+ES |S1000 UP [And, Up]^
+5NN |S1000 WX [5 N N, Weather]^
+RST |S1000 73 [R S T, 73]^
+5NN |S1000 NR [5 N N, Number]^
+UP |S1000 599 [Up, 5 9 9]^
+WX |S1000 CQ [Weather, C Q]^
+WX |S1000 UP [Weather, Up]^
+WX |S1000 599 [Weather, 5 9 9]^
+559 |S1000 WX [5 5 9, Weather]^
+5NN |S1000 NAME [5 N N, Name]^
+VY |S1000 RST [Very, R S T]^
+WX |S1000 DE [Weather, From]^
+VY |S1000 WX [Very, Weather]^
+NAME |S1000 DE [Name, From]^
+NR |S1000 WX [Number, Weather]^
+73 |S1000 NR [73, Number]^
+VY |S1000 UP [Very, Up]^
+RST |S1000 VY [R S T, Very]^
+73 |S1000 599 [73, 5 9 9]^
+NAME |S1000 WX [Name, Weather]^
+CQ |S1000 WX [C Q, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+559 |S1000 5NN [5 5 9, 5 N N]^
+WX |S1000 NR [Weather, Number]^
+WX |S1000 NAME [Weather, Name]^
+WX |S1000 ES [Weather, And]^
+NR |S1000 WX [Number, Weather]^
+DE |S1000 NR [From, Number]^
+73 |S1000 5NN [73, 5 N N]^
+NR |S1000 73 [Number, 73]^
+RST |S1000 DE [R S T, From]^
+WX |S1000 RST [Weather, R S T]^
+5NN |S1000 599 [5 N N, 5 9 9]^
+WX |S1000 599 [Weather, 5 9 9]^
+WX |S1000 VY [Weather, Very]^
+599 |S1000 DE [5 9 9, From]^
+UP |S1000 WX [Up, Weather]^
+5NN |S1000 WX [5 N N, Weather]^
+559 |S1000 WX [5 5 9, Weather]^
+DE |S1000 RST [From, R S T]^
+WX |S1000 73 [Weather, 73]^
+WX |S1000 CQ [Weather, C Q]^
+WX |S1000 73 [Weather, 73]^
+UP |S1000 WX [Up, Weather]^
+599 |S1000 73 [5 9 9, 73]^
+WX |S1000 DE [Weather, From]^
+WX |S1000 599 [Weather, 5 9 9]^
+559 |S1000 WX [5 5 9, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+RST |S1000 UP [R S T, Up]^
+NR |S1000 WX [Number, Weather]^
+599 |S1000 ES [5 9 9, And]^
+WX |S1000 599 [Weather, 5 9 9]^
+WX |S1000 5NN [Weather, 5 N N]^
+559 |S1000 5NN [5 5 9, 5 N N]^
+DE |S1000 WX [From, Weather]^
+NR |S1000 ES [Number, And]^
+VY |S1000 WX [Very, Weather]^
+559 |S1000 UP [5 5 9, Up]^
+WX |S1000 UP [Weather, Up]^
+WX |S1000 NAME [Weather, Name]^
+ES |S1000 5NN [And, 5 N N]^
+WX |S1000 NAME [Weather, Name]^
+WX |S1000 5NN [Weather, 5 N N]^
+WX |S1000 NR [Weather, Number]^
+WX |S1000 599 [Weather, 5 9 9]^
+WX |S1000 RST [Weather, R S T]^
+VY |S1000 WX [Very, Weather]^
+ES |S1000 WX [And, Weather]^
+559 |S1000 WX [5 5 9, Weather]^
+RST |S1000 WX [R S T, Weather]^
+73 |S1000 WX [73, Weather]^
+73 |S1000 599 [73, 5 9 9]^
+WX |S1000 RST [Weather, R S T]^
+WX |S1000 73 [Weather, 73]^
+WX |S1000 559 [Weather, 5 5 9]^
+NAME |S1000 WX [Name, Weather]^
+DE |S1000 WX [From, Weather]^
+RST |S1000 DE [R S T, From]^
+599 |S1000 NAME [5 9 9, Name]^
+UP |S1000 WX [Up, Weather]^
+CQ |S1000 559 [C Q, 5 5 9]^
+VY |S1000 WX [Very, Weather]^
+599 |S1000 UP [5 9 9, Up]^
+5NN |S1000 WX [5 N N, Weather]^
+RST |S1000 WX [R S T, Weather]^
+CQ |S1000 599 [C Q, 5 9 9]^
+WX |S1000 599 [Weather, 5 9 9]^
+WX |S1000 5NN [Weather, 5 N N]^
+WX |S1000 ES [Weather, And]^
+WX |S1000 VY [Weather, Very]^
+UP |S1000 DE [Up, From]^
+WX |S1000 RST [Weather, R S T]^
+WX |S1000 5NN [Weather, 5 N N]^
+WX |S1000 DE [Weather, From]^
+WX |S1000 DE [Weather, From]^
+599 |S1000 WX [5 9 9, Weather]^
+NR |S1000 73 [Number, 73]^
+WX |S1000 UP [Weather, Up]^
+WX |S1000 RST [Weather, R S T]^
+WX |S1000 CQ [Weather, C Q]^
+WX |S1000 NAME [Weather, Name]^
+WX |S1000 ES [Weather, And]^
 NAME |S1000 UP [Name, Up]^
-NR |S1000 DE [Number, From]^
+NR |S1000 WX [Number, Weather]^
+DE |S1000 WX [From, Weather]^
+UP |S1000 73 [Up, 73]^
+WX |S1000 RST [Weather, R S T]^
+WX |S1000 559 [Weather, 5 5 9]^
+599 |S1000 WX [5 9 9, Weather]^
+5NN |S1000 ES [5 N N, And]^
+WX |S1000 RST [Weather, R S T]^
+DE |S1000 RST [From, R S T]^
+DE |S1000 NAME [From, Name]^
+UP |S1000 VY [Up, Very]^
+WX |S1000 73 [Weather, 73]^
+WX |S1000 599 [Weather, 5 9 9]^
+WX |S1000 5NN [Weather, 5 N N]^
+73 |S1000 WX [73, Weather]^
+CQ |S1000 ES [C Q, And]^
+WX |S1000 599 [Weather, 5 9 9]^
+73 |S1000 WX [73, Weather]^
+5NN |S1000 WX [5 N N, Weather]^
+5NN |S1000 UP [5 N N, Up]^
+WX |S1000 NR [Weather, Number]^
+WX |S1000 NR [Weather, Number]^
+WX |S1000 NR [Weather, Number]^
+WX |S1000 559 [Weather, 5 5 9]^
+ES |S1000 599 [And, 5 9 9]^
+WX |S1000 559 [Weather, 5 5 9]^
+VY |S1000 CQ [Very, C Q]^
+WX |S1000 UP [Weather, Up]^
+73 |S1000 WX [73, Weather]^
+NR |S1000 WX [Number, Weather]^
+NR |S1000 73 [Number, 73]^
+599 |S1000 NR [5 9 9, Number]^
+DE |S1000 5NN [From, 5 N N]^
+559 |S1000 WX [5 5 9, Weather]^
+73 |S1000 599 [73, 5 9 9]^
+DE |S1000 WX [From, Weather]^
+559 |S1000 73 [5 5 9, 73]^
+WX |S1000 559 [Weather, 5 5 9]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 WX [And, Weather]^
+559 |S1000 NAME [5 5 9, Name]^
+UP |S1000 599 [Up, 5 9 9]^
+WX |S1000 VY [Weather, Very]^
+DE |S1000 WX [From, Weather]^
+DE |S1000 WX [From, Weather]^
+ES |S1000 WX [And, Weather]^
+559 |S1000 73 [5 5 9, 73]^
+559 |S1000 CQ [5 5 9, C Q]^
+WX |S1000 RST [Weather, R S T]^
+WX |S1000 UP [Weather, Up]^
+559 |S1000 WX [5 5 9, Weather]^
+NR |S1000 UP [Number, Up]^
+559 |S1000 WX [5 5 9, Weather]^
+5NN |S1000 DE [5 N N, From]^
+5NN |S1000 NR [5 N N, Number]^
+WX |S1000 UP [Weather, Up]^
+NAME |S1000 CQ [Name, C Q]^
+VY |S1000 WX [Very, Weather]^
+559 |S1000 DE [5 5 9, From]^
+5NN |S1000 WX [5 N N, Weather]^
+NAME |S1000 WX [Name, Weather]^
+73 |S1000 559 [73, 5 5 9]^
+NAME |S1000 DE [Name, From]^
+WX |S1000 559 [Weather, 5 5 9]^
+WX |S1000 NR [Weather, Number]^
+WX |S1000 RST [Weather, R S T]^
+VY |S1000 ES [Very, And]^
+WX |S1000 5NN [Weather, 5 N N]^
+WX |S1000 ES [Weather, And]^
+WX |S1000 UP [Weather, Up]^
+599 |S1000 5NN [5 9 9, 5 N N]^
+599 |S1000 WX [5 9 9, Weather]^
+NR |S1000 WX [Number, Weather]^
+CQ |S1000 ES [C Q, And]^
+WX |S1000 559 [Weather, 5 5 9]^
+WX |S1000 RST [Weather, R S T]^
+VY |S1000 WX [Very, Weather]^
+599 |S1000 WX [5 9 9, Weather]^
+UP |S1000 NR [Up, Number]^
+WX |S1000 ES [Weather, And]^
+CQ |S1000 WX [C Q, Weather]^

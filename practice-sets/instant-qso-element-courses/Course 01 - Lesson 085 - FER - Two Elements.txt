@@ -1,600 +1,600 @@
-DE |S1000 QRZ [From, Q R Zed]^
-RST |S1000 UP [R S T, Up]^
-CQ |S1000 FER [C Q, For]^
-GA |S1000 599 [Good afternoon, 5 9 9]^
-FER |S1000 NR [For, Number]^
-599 |S1000 TEST [5 9 9, Contest]^
-73 |S1000 RST [73, R S T]^
-FER |S1000 UR [For, Your]^
-FER |S1000 GE [For, Good evening]^
-FER |S1000 VY [For, Very]^
-UP |S1000 VY [Up, Very]^
-FER |S1000 599 [For, 5 9 9]^
-TEST |S1000 GE [Contest, Good evening]^
-FER |S1000 AGN [For, Again]^
-FER |S1000 599 [For, 5 9 9]^
-QRZ |S1000 FER [Q R Zed, For]^
-599 |S1000 AGN [5 9 9, Again]^
-RST |S1000 QRM [R S T, Interference]^
-FER |S1000 UR [For, Your]^
-73 |S1000 5NN [73, 5 N N]^
-599 |S1000 GA [5 9 9, Good afternoon]^
-FER |S1000 NAME [For, Name]^
-73 |S1000 FER [73, For]^
-NAME |S1000 73 [Name, 73]^
-GA |S1000 FER [Good afternoon, For]^
-ES |S1000 73 [And, 73]^
-GM |S1000 FER [Good morning, For]^
-QRM |S1000 FER [Interference, For]^
-NAME |S1000 73 [Name, 73]^
-599 |S1000 FER [5 9 9, For]^
-CQ |S1000 FER [C Q, For]^
-ES |S1000 CQ [And, C Q]^
-FER |S1000 WX [For, Weather]^
-FER |S1000 5NN [For, 5 N N]^
-FER |S1000 CQ [For, C Q]^
-FER |S1000 599 [For, 5 9 9]^
-FER |S1000 QRM [For, Interference]^
-NR |S1000 UP [Number, Up]^
-FER |S1000 QRZ [For, Q R Zed]^
-FER |S1000 AGN [For, Again]^
-FER |S1000 CQ [For, C Q]^
-FER |S1000 WX [For, Weather]^
-599 |S1000 DE [5 9 9, From]^
-FER |S1000 NAME [For, Name]^
-FER |S1000 UP [For, Up]^
-UR |S1000 TEST [Your, Contest]^
-QRZ |S1000 559 [Q R Zed, 5 5 9]^
-FER |S1000 RST [For, R S T]^
-FER |S1000 TEST [For, Contest]^
-GM |S1000 GE [Good morning, Good evening]^
-GA |S1000 AGN [Good afternoon, Again]^
-FER |S1000 WX [For, Weather]^
-GA |S1000 FER [Good afternoon, For]^
-73 |S1000 NR [73, Number]^
-73 |S1000 GM [73, Good morning]^
-FER |S1000 WX [For, Weather]^
-FER |S1000 QRM [For, Interference]^
-5NN |S1000 NAME [5 N N, Name]^
-GE |S1000 QRZ [Good evening, Q R Zed]^
-FER |S1000 GA [For, Good afternoon]^
-FER |S1000 WX [For, Weather]^
-559 |S1000 FER [5 5 9, For]^
-WX |S1000 FER [Weather, For]^
-RST |S1000 QRZ [R S T, Q R Zed]^
-RST |S1000 DE [R S T, From]^
-FER |S1000 ES [For, And]^
-5NN |S1000 FER [5 N N, For]^
-GM |S1000 NR [Good morning, Number]^
-FER |S1000 NAME [For, Name]^
-GA |S1000 AGN [Good afternoon, Again]^
-FER |S1000 NR [For, Number]^
-FER |S1000 NR [For, Number]^
-GE |S1000 73 [Good evening, 73]^
-FER |S1000 WX [For, Weather]^
-5NN |S1000 FER [5 N N, For]^
-GM |S1000 DE [Good morning, From]^
-RST |S1000 GA [R S T, Good afternoon]^
-FER |S1000 GM [For, Good morning]^
-WX |S1000 DE [Weather, From]^
-FER |S1000 599 [For, 5 9 9]^
-559 |S1000 FER [5 5 9, For]^
-DE |S1000 FER [From, For]^
-73 |S1000 FER [73, For]^
-599 |S1000 FER [5 9 9, For]^
-ES |S1000 RST [And, R S T]^
-73 |S1000 WX [73, Weather]^
-FER |S1000 GM [For, Good morning]^
-GA |S1000 FER [Good afternoon, For]^
-73 |S1000 FER [73, For]^
-RST |S1000 CQ [R S T, C Q]^
-FER |S1000 GE [For, Good evening]^
-FER |S1000 VY [For, Very]^
-DE |S1000 CQ [From, C Q]^
-FER |S1000 QRM [For, Interference]^
-FER |S1000 QRM [For, Interference]^
-559 |S1000 RST [5 5 9, R S T]^
-FER |S1000 NAME [For, Name]^
-559 |S1000 FER [5 5 9, For]^
-WX |S1000 ES [Weather, And]^
-RST |S1000 FER [R S T, For]^
-GA |S1000 QRM [Good afternoon, Interference]^
+599 |S1000 GM [5 9 9, Good morning]^
 ES |S1000 FER [And, For]^
-5NN |S1000 FER [5 N N, For]^
-ES |S1000 QRZ [And, Q R Zed]^
-GA |S1000 QRZ [Good afternoon, Q R Zed]^
-FER |S1000 GA [For, Good afternoon]^
-QRZ |S1000 FER [Q R Zed, For]^
-GM |S1000 FER [Good morning, For]^
-AGN |S1000 5NN [Again, 5 N N]^
-VY |S1000 FER [Very, For]^
-UP |S1000 FER [Up, For]^
-WX |S1000 FER [Weather, For]^
-NAME |S1000 FER [Name, For]^
-QRM |S1000 FER [Interference, For]^
-UP |S1000 GA [Up, Good afternoon]^
-FER |S1000 WX [For, Weather]^
-CQ |S1000 FER [C Q, For]^
-NAME |S1000 73 [Name, 73]^
-FER |S1000 QRM [For, Interference]^
-VY |S1000 FER [Very, For]^
-GE |S1000 FER [Good evening, For]^
-ES |S1000 GM [And, Good morning]^
-CQ |S1000 GE [C Q, Good evening]^
-FER |S1000 DE [For, From]^
-UP |S1000 FER [Up, For]^
-ES |S1000 GM [And, Good morning]^
-GE |S1000 FER [Good evening, For]^
-ES |S1000 FER [And, For]^
-ES |S1000 FER [And, For]^
-NAME |S1000 AGN [Name, Again]^
-UR |S1000 ES [Your, And]^
-TEST |S1000 FER [Contest, For]^
-AGN |S1000 5NN [Again, 5 N N]^
-GM |S1000 FER [Good morning, For]^
-DE |S1000 GA [From, Good afternoon]^
-FER |S1000 559 [For, 5 5 9]^
-AGN |S1000 FER [Again, For]^
-UP |S1000 FER [Up, For]^
-QRZ |S1000 NAME [Q R Zed, Name]^
-ES |S1000 GE [And, Good evening]^
-FER |S1000 73 [For, 73]^
-CQ |S1000 GE [C Q, Good evening]^
-FER |S1000 UR [For, Your]^
-CQ |S1000 NR [C Q, Number]^
-FER |S1000 GA [For, Good afternoon]^
-AGN |S1000 FER [Again, For]^
-73 |S1000 FER [73, For]^
-GM |S1000 FER [Good morning, For]^
-CQ |S1000 QRZ [C Q, Q R Zed]^
-5NN |S1000 GE [5 N N, Good evening]^
-FER |S1000 RST [For, R S T]^
-FER |S1000 TEST [For, Contest]^
-FER |S1000 UR [For, Your]^
-UP |S1000 FER [Up, For]^
-AGN |S1000 VY [Again, Very]^
-TEST |S1000 FER [Contest, For]^
-559 |S1000 FER [5 5 9, For]^
-VY |S1000 TEST [Very, Contest]^
-5NN |S1000 FER [5 N N, For]^
-VY |S1000 FER [Very, For]^
-RST |S1000 GE [R S T, Good evening]^
-WX |S1000 UP [Weather, Up]^
-NAME |S1000 NR [Name, Number]^
-FER |S1000 GM [For, Good morning]^
-FER |S1000 UR [For, Your]^
-FER |S1000 73 [For, 73]^
-FER |S1000 UP [For, Up]^
-RST |S1000 FER [R S T, For]^
-CQ |S1000 FER [C Q, For]^
-CQ |S1000 DE [C Q, From]^
-73 |S1000 CQ [73, C Q]^
-NAME |S1000 FER [Name, For]^
-5NN |S1000 FER [5 N N, For]^
-559 |S1000 RST [5 5 9, R S T]^
-FER |S1000 WX [For, Weather]^
-FER |S1000 VY [For, Very]^
-73 |S1000 FER [73, For]^
-QRM |S1000 FER [Interference, For]^
-CQ |S1000 FER [C Q, For]^
-UP |S1000 NR [Up, Number]^
-VY |S1000 73 [Very, 73]^
-FER |S1000 GM [For, Good morning]^
-GE |S1000 DE [Good evening, From]^
-FER |S1000 NAME [For, Name]^
-FER |S1000 AGN [For, Again]^
-FER |S1000 559 [For, 5 5 9]^
-FER |S1000 CQ [For, C Q]^
-UR |S1000 FER [Your, For]^
-GA |S1000 FER [Good afternoon, For]^
-NR |S1000 FER [Number, For]^
-DE |S1000 FER [From, For]^
-GE |S1000 NAME [Good evening, Name]^
-FER |S1000 559 [For, 5 5 9]^
-FER |S1000 QRZ [For, Q R Zed]^
-FER |S1000 5NN [For, 5 N N]^
-599 |S1000 GE [5 9 9, Good evening]^
-NR |S1000 QRM [Number, Interference]^
-CQ |S1000 UP [C Q, Up]^
-ES |S1000 FER [And, For]^
-DE |S1000 599 [From, 5 9 9]^
-FER |S1000 ES [For, And]^
-FER |S1000 GE [For, Good evening]^
-QRZ |S1000 TEST [Q R Zed, Contest]^
-FER |S1000 WX [For, Weather]^
-FER |S1000 WX [For, Weather]^
-GE |S1000 GA [Good evening, Good afternoon]^
-UP |S1000 FER [Up, For]^
-ES |S1000 QRM [And, Interference]^
-FER |S1000 GM [For, Good morning]^
-ES |S1000 TEST [And, Contest]^
-FER |S1000 WX [For, Weather]^
-FER |S1000 UR [For, Your]^
-FER |S1000 NR [For, Number]^
-GA |S1000 NR [Good afternoon, Number]^
-GA |S1000 FER [Good afternoon, For]^
-TEST |S1000 FER [Contest, For]^
-559 |S1000 RST [5 5 9, R S T]^
-FER |S1000 NR [For, Number]^
-UR |S1000 FER [Your, For]^
-73 |S1000 FER [73, For]^
-GM |S1000 FER [Good morning, For]^
-GA |S1000 FER [Good afternoon, For]^
-NR |S1000 FER [Number, For]^
-ES |S1000 WX [And, Weather]^
-FER |S1000 QRM [For, Interference]^
-5NN |S1000 599 [5 N N, 5 9 9]^
-FER |S1000 5NN [For, 5 N N]^
-VY |S1000 QRM [Very, Interference]^
-FER |S1000 TEST [For, Contest]^
-UP |S1000 GM [Up, Good morning]^
-FER |S1000 CQ [For, C Q]^
-FER |S1000 NR [For, Number]^
-AGN |S1000 QRM [Again, Interference]^
-FER |S1000 TEST [For, Contest]^
-5NN |S1000 ES [5 N N, And]^
-GE |S1000 WX [Good evening, Weather]^
-TEST |S1000 CQ [Contest, C Q]^
-NAME |S1000 WX [Name, Weather]^
-FER |S1000 GE [For, Good evening]^
-FER |S1000 GE [For, Good evening]^
-FER |S1000 VY [For, Very]^
-GA |S1000 FER [Good afternoon, For]^
-TEST |S1000 FER [Contest, For]^
-73 |S1000 TEST [73, Contest]^
-FER |S1000 RST [For, R S T]^
-FER |S1000 RST [For, R S T]^
-FER |S1000 73 [For, 73]^
-GM |S1000 5NN [Good morning, 5 N N]^
-ES |S1000 VY [And, Very]^
-FER |S1000 RST [For, R S T]^
-FER |S1000 VY [For, Very]^
-FER |S1000 ES [For, And]^
-RST |S1000 FER [R S T, For]^
-WX |S1000 GA [Weather, Good afternoon]^
-FER |S1000 VY [For, Very]^
-GE |S1000 559 [Good evening, 5 5 9]^
-WX |S1000 FER [Weather, For]^
-UR |S1000 AGN [Your, Again]^
-WX |S1000 559 [Weather, 5 5 9]^
-FER |S1000 NAME [For, Name]^
-FER |S1000 ES [For, And]^
-DE |S1000 FER [From, For]^
-73 |S1000 FER [73, For]^
-VY |S1000 599 [Very, 5 9 9]^
-GA |S1000 5NN [Good afternoon, 5 N N]^
-ES |S1000 FER [And, For]^
+5NN |S1000 UR [5 N N, Your]^
 5NN |S1000 QRZ [5 N N, Q R Zed]^
-VY |S1000 FER [Very, For]^
-CQ |S1000 73 [C Q, 73]^
-NAME |S1000 559 [Name, 5 5 9]^
-AGN |S1000 GM [Again, Good morning]^
-FER |S1000 WX [For, Weather]^
+UP |S1000 NAME [Up, Name]^
+FER |S1000 73 [For, 73]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+QRM |S1000 FER [Interference, For]^
+UP |S1000 UR [Up, Your]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+FER |S1000 AGN [For, Again]^
+5NN |S1000 FER [5 N N, For]^
+QRM |S1000 NAME [Interference, Name]^
+ES |S1000 QRM [And, Interference]^
+QRZ |S1000 FER [Q R Zed, For]^
+QRZ |S1000 GM [Q R Zed, Good morning]^
 FER |S1000 GA [For, Good afternoon]^
-FER |S1000 599 [For, 5 9 9]^
-CQ |S1000 FER [C Q, For]^
-5NN |S1000 VY [5 N N, Very]^
+FER |S1000 DE [For, From]^
 FER |S1000 ES [For, And]^
-FER |S1000 CQ [For, C Q]^
+CQ |S1000 GA [C Q, Good afternoon]^
+DE |S1000 FER [From, For]^
+NR |S1000 ES [Number, And]^
+AGN |S1000 ES [Again, And]^
+UR |S1000 FER [Your, For]^
+GA |S1000 FER [Good afternoon, For]^
+73 |S1000 FER [73, For]^
+QRM |S1000 NR [Interference, Number]^
+FER |S1000 RST [For, R S T]^
+FER |S1000 599 [For, 5 9 9]^
+NAME |S1000 FER [Name, For]^
+NR |S1000 CQ [Number, C Q]^
+VY |S1000 GM [Very, Good morning]^
+559 |S1000 FER [5 5 9, For]^
+5NN |S1000 UR [5 N N, Your]^
+FER |S1000 DE [For, From]^
+FER |S1000 QRM [For, Interference]^
+ES |S1000 FER [And, For]^
+CQ |S1000 559 [C Q, 5 5 9]^
+FER |S1000 DE [For, From]^
+FER |S1000 TEST [For, Contest]^
+FER |S1000 UP [For, Up]^
+AGN |S1000 FER [Again, For]^
+QRM |S1000 VY [Interference, Very]^
+GM |S1000 FER [Good morning, For]^
+TEST |S1000 NAME [Contest, Name]^
+FER |S1000 ES [For, And]^
+VY |S1000 5NN [Very, 5 N N]^
+UP |S1000 FER [Up, For]^
+WX |S1000 FER [Weather, For]^
+AGN |S1000 FER [Again, For]^
+TEST |S1000 NAME [Contest, Name]^
+FER |S1000 5NN [For, 5 N N]^
+ES |S1000 FER [And, For]^
+AGN |S1000 UP [Again, Up]^
+599 |S1000 559 [5 9 9, 5 5 9]^
+73 |S1000 QRZ [73, Q R Zed]^
+UR |S1000 FER [Your, For]^
+559 |S1000 TEST [5 5 9, Contest]^
+599 |S1000 UR [5 9 9, Your]^
+DE |S1000 FER [From, For]^
+TEST |S1000 RST [Contest, R S T]^
+AGN |S1000 TEST [Again, Contest]^
+FER |S1000 ES [For, And]^
+FER |S1000 5NN [For, 5 N N]^
+FER |S1000 UP [For, Up]^
+GM |S1000 FER [Good morning, For]^
+DE |S1000 NAME [From, Name]^
+FER |S1000 GA [For, Good afternoon]^
+FER |S1000 GE [For, Good evening]^
+FER |S1000 QRZ [For, Q R Zed]^
+73 |S1000 599 [73, 5 9 9]^
+FER |S1000 VY [For, Very]^
+NR |S1000 UR [Number, Your]^
+NR |S1000 RST [Number, R S T]^
+FER |S1000 GA [For, Good afternoon]^
+QRZ |S1000 FER [Q R Zed, For]^
+UP |S1000 GE [Up, Good evening]^
+FER |S1000 DE [For, From]^
+CQ |S1000 FER [C Q, For]^
 GM |S1000 73 [Good morning, 73]^
+NR |S1000 FER [Number, For]^
+73 |S1000 FER [73, For]^
+QRZ |S1000 UR [Q R Zed, Your]^
+FER |S1000 RST [For, R S T]^
+UR |S1000 NAME [Your, Name]^
+DE |S1000 FER [From, For]^
+TEST |S1000 FER [Contest, For]^
+CQ |S1000 RST [C Q, R S T]^
+FER |S1000 QRM [For, Interference]^
+ES |S1000 FER [And, For]^
+73 |S1000 NR [73, Number]^
+FER |S1000 QRM [For, Interference]^
+FER |S1000 UR [For, Your]^
+GA |S1000 FER [Good afternoon, For]^
+73 |S1000 AGN [73, Again]^
+UP |S1000 599 [Up, 5 9 9]^
+559 |S1000 CQ [5 5 9, C Q]^
+ES |S1000 559 [And, 5 5 9]^
+DE |S1000 GE [From, Good evening]^
+CQ |S1000 TEST [C Q, Contest]^
+599 |S1000 FER [5 9 9, For]^
+73 |S1000 NR [73, Number]^
+FER |S1000 TEST [For, Contest]^
+599 |S1000 FER [5 9 9, For]^
+559 |S1000 ES [5 5 9, And]^
+CQ |S1000 TEST [C Q, Contest]^
+FER |S1000 NAME [For, Name]^
+FER |S1000 UP [For, Up]^
+FER |S1000 UP [For, Up]^
+VY |S1000 FER [Very, For]^
+QRZ |S1000 DE [Q R Zed, From]^
+GE |S1000 FER [Good evening, For]^
+GA |S1000 VY [Good afternoon, Very]^
+FER |S1000 GE [For, Good evening]^
+FER |S1000 VY [For, Very]^
+GE |S1000 FER [Good evening, For]^
+73 |S1000 DE [73, From]^
+FER |S1000 NR [For, Number]^
+CQ |S1000 FER [C Q, For]^
+TEST |S1000 NAME [Contest, Name]^
+UP |S1000 FER [Up, For]^
+WX |S1000 AGN [Weather, Again]^
+GM |S1000 FER [Good morning, For]^
+5NN |S1000 DE [5 N N, From]^
+UP |S1000 FER [Up, For]^
+VY |S1000 ES [Very, And]^
+UR |S1000 FER [Your, For]^
+NR |S1000 FER [Number, For]^
+AGN |S1000 FER [Again, For]^
+DE |S1000 UR [From, Your]^
+GA |S1000 FER [Good afternoon, For]^
+DE |S1000 FER [From, For]^
+599 |S1000 FER [5 9 9, For]^
+DE |S1000 UP [From, Up]^
+FER |S1000 RST [For, R S T]^
+FER |S1000 NR [For, Number]^
+FER |S1000 GE [For, Good evening]^
+FER |S1000 UP [For, Up]^
+FER |S1000 73 [For, 73]^
+UP |S1000 AGN [Up, Again]^
+ES |S1000 TEST [And, Contest]^
+RST |S1000 TEST [R S T, Contest]^
+GE |S1000 FER [Good evening, For]^
+TEST |S1000 GM [Contest, Good morning]^
+QRZ |S1000 FER [Q R Zed, For]^
+VY |S1000 5NN [Very, 5 N N]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+FER |S1000 GE [For, Good evening]^
+FER |S1000 AGN [For, Again]^
+5NN |S1000 FER [5 N N, For]^
+WX |S1000 NR [Weather, Number]^
+GE |S1000 AGN [Good evening, Again]^
+RST |S1000 UR [R S T, Your]^
+RST |S1000 UR [R S T, Your]^
+73 |S1000 FER [73, For]^
+QRZ |S1000 GM [Q R Zed, Good morning]^
+NAME |S1000 QRM [Name, Interference]^
+WX |S1000 FER [Weather, For]^
+UP |S1000 RST [Up, R S T]^
+FER |S1000 GE [For, Good evening]^
+AGN |S1000 CQ [Again, C Q]^
+FER |S1000 NAME [For, Name]^
+559 |S1000 FER [5 5 9, For]^
+WX |S1000 UR [Weather, Your]^
+FER |S1000 559 [For, 5 5 9]^
+FER |S1000 WX [For, Weather]^
+VY |S1000 UR [Very, Your]^
+TEST |S1000 DE [Contest, From]^
+73 |S1000 AGN [73, Again]^
+FER |S1000 NAME [For, Name]^
+FER |S1000 CQ [For, C Q]^
+GA |S1000 DE [Good afternoon, From]^
+FER |S1000 QRZ [For, Q R Zed]^
+FER |S1000 WX [For, Weather]^
+FER |S1000 TEST [For, Contest]^
+UR |S1000 UP [Your, Up]^
+FER |S1000 UR [For, Your]^
+FER |S1000 UP [For, Up]^
+FER |S1000 DE [For, From]^
+GA |S1000 UR [Good afternoon, Your]^
+CQ |S1000 AGN [C Q, Again]^
+WX |S1000 FER [Weather, For]^
+QRM |S1000 559 [Interference, 5 5 9]^
+TEST |S1000 FER [Contest, For]^
+NR |S1000 FER [Number, For]^
+WX |S1000 FER [Weather, For]^
+NAME |S1000 GA [Name, Good afternoon]^
+FER |S1000 WX [For, Weather]^
+TEST |S1000 NR [Contest, Number]^
+FER |S1000 AGN [For, Again]^
+FER |S1000 UP [For, Up]^
+RST |S1000 UP [R S T, Up]^
+FER |S1000 NR [For, Number]^
+UP |S1000 GA [Up, Good afternoon]^
+FER |S1000 599 [For, 5 9 9]^
+QRZ |S1000 GA [Q R Zed, Good afternoon]^
+FER |S1000 RST [For, R S T]^
+FER |S1000 CQ [For, C Q]^
+QRM |S1000 FER [Interference, For]^
+QRZ |S1000 RST [Q R Zed, R S T]^
+FER |S1000 UP [For, Up]^
+NR |S1000 GE [Number, Good evening]^
+NAME |S1000 FER [Name, For]^
+VY |S1000 NR [Very, Number]^
+FER |S1000 TEST [For, Contest]^
+559 |S1000 QRM [5 5 9, Interference]^
+FER |S1000 AGN [For, Again]^
+FER |S1000 UR [For, Your]^
+VY |S1000 FER [Very, For]^
+TEST |S1000 FER [Contest, For]^
+559 |S1000 FER [5 5 9, For]^
+GM |S1000 QRZ [Good morning, Q R Zed]^
+FER |S1000 QRM [For, Interference]^
+FER |S1000 NAME [For, Name]^
+FER |S1000 QRZ [For, Q R Zed]^
+QRM |S1000 FER [Interference, For]^
+RST |S1000 FER [R S T, For]^
+QRM |S1000 FER [Interference, For]^
+WX |S1000 AGN [Weather, Again]^
+DE |S1000 NR [From, Number]^
+UR |S1000 73 [Your, 73]^
+FER |S1000 559 [For, 5 5 9]^
+599 |S1000 FER [5 9 9, For]^
+599 |S1000 559 [5 9 9, 5 5 9]^
+FER |S1000 AGN [For, Again]^
+RST |S1000 73 [R S T, 73]^
+QRZ |S1000 RST [Q R Zed, R S T]^
+5NN |S1000 NR [5 N N, Number]^
+AGN |S1000 559 [Again, 5 5 9]^
+FER |S1000 TEST [For, Contest]^
+AGN |S1000 5NN [Again, 5 N N]^
+GA |S1000 QRM [Good afternoon, Interference]^
+FER |S1000 ES [For, And]^
+NR |S1000 QRZ [Number, Q R Zed]^
+GM |S1000 WX [Good morning, Weather]^
+FER |S1000 VY [For, Very]^
+UR |S1000 FER [Your, For]^
+GE |S1000 FER [Good evening, For]^
+TEST |S1000 AGN [Contest, Again]^
+TEST |S1000 WX [Contest, Weather]^
+FER |S1000 WX [For, Weather]^
+5NN |S1000 GM [5 N N, Good morning]^
+RST |S1000 FER [R S T, For]^
+QRZ |S1000 DE [Q R Zed, From]^
+CQ |S1000 FER [C Q, For]^
+QRZ |S1000 FER [Q R Zed, For]^
+73 |S1000 559 [73, 5 5 9]^
+FER |S1000 73 [For, 73]^
+5NN |S1000 FER [5 N N, For]^
+QRZ |S1000 VY [Q R Zed, Very]^
+559 |S1000 FER [5 5 9, For]^
+QRZ |S1000 FER [Q R Zed, For]^
+UP |S1000 FER [Up, For]^
+73 |S1000 599 [73, 5 9 9]^
+FER |S1000 ES [For, And]^
+FER |S1000 GM [For, Good morning]^
+DE |S1000 AGN [From, Again]^
+WX |S1000 UR [Weather, Your]^
+FER |S1000 UP [For, Up]^
+VY |S1000 FER [Very, For]^
+UP |S1000 FER [Up, For]^
+TEST |S1000 QRM [Contest, Interference]^
+FER |S1000 RST [For, R S T]^
+UR |S1000 FER [Your, For]^
+VY |S1000 FER [Very, For]^
+VY |S1000 599 [Very, 5 9 9]^
+GE |S1000 FER [Good evening, For]^
+TEST |S1000 UP [Contest, Up]^
+GE |S1000 FER [Good evening, For]^
+DE |S1000 AGN [From, Again]^
+FER |S1000 NAME [For, Name]^
+FER |S1000 5NN [For, 5 N N]^
+599 |S1000 WX [5 9 9, Weather]^
+FER |S1000 73 [For, 73]^
+NAME |S1000 FER [Name, For]^
+CQ |S1000 FER [C Q, For]^
+VY |S1000 TEST [Very, Contest]^
+QRM |S1000 FER [Interference, For]^
+QRZ |S1000 FER [Q R Zed, For]^
+ES |S1000 FER [And, For]^
+RST |S1000 599 [R S T, 5 9 9]^
+FER |S1000 5NN [For, 5 N N]^
+QRZ |S1000 VY [Q R Zed, Very]^
+QRM |S1000 FER [Interference, For]^
+NR |S1000 TEST [Number, Contest]^
+FER |S1000 WX [For, Weather]^
+QRZ |S1000 FER [Q R Zed, For]^
+5NN |S1000 DE [5 N N, From]^
+FER |S1000 599 [For, 5 9 9]^
+73 |S1000 GM [73, Good morning]^
+UR |S1000 FER [Your, For]^
+UP |S1000 FER [Up, For]^
+559 |S1000 NAME [5 5 9, Name]^
+FER |S1000 73 [For, 73]^
+QRM |S1000 FER [Interference, For]^
+VY |S1000 FER [Very, For]^
+TEST |S1000 ES [Contest, And]^
+RST |S1000 UP [R S T, Up]^
+QRZ |S1000 FER [Q R Zed, For]^
+AGN |S1000 NAME [Again, Name]^
+DE |S1000 FER [From, For]^
+73 |S1000 559 [73, 5 5 9]^
+FER |S1000 CQ [For, C Q]^
+NAME |S1000 FER [Name, For]^
+TEST |S1000 FER [Contest, For]^
+NAME |S1000 TEST [Name, Contest]^
+FER |S1000 RST [For, R S T]^
+WX |S1000 AGN [Weather, Again]^
+GA |S1000 FER [Good afternoon, For]^
+RST |S1000 FER [R S T, For]^
+CQ |S1000 FER [C Q, For]^
+DE |S1000 FER [From, For]^
+NR |S1000 NAME [Number, Name]^
+UR |S1000 FER [Your, For]^
+RST |S1000 FER [R S T, For]^
+5NN |S1000 FER [5 N N, For]^
+WX |S1000 GM [Weather, Good morning]^
+CQ |S1000 UP [C Q, Up]^
+FER |S1000 GM [For, Good morning]^
+CQ |S1000 5NN [C Q, 5 N N]^
+FER |S1000 RST [For, R S T]^
+5NN |S1000 QRM [5 N N, Interference]^
+FER |S1000 NR [For, Number]^
+FER |S1000 QRZ [For, Q R Zed]^
+FER |S1000 599 [For, 5 9 9]^
+UR |S1000 FER [Your, For]^
+NAME |S1000 UR [Name, Your]^
+FER |S1000 RST [For, R S T]^
+WX |S1000 NAME [Weather, Name]^
+FER |S1000 GM [For, Good morning]^
+WX |S1000 599 [Weather, 5 9 9]^
+FER |S1000 CQ [For, C Q]^
+AGN |S1000 FER [Again, For]^
+UR |S1000 NAME [Your, Name]^
+WX |S1000 UP [Weather, Up]^
+FER |S1000 UP [For, Up]^
+TEST |S1000 FER [Contest, For]^
+VY |S1000 FER [Very, For]^
+UP |S1000 WX [Up, Weather]^
+FER |S1000 CQ [For, C Q]^
+GM |S1000 CQ [Good morning, C Q]^
+FER |S1000 GM [For, Good morning]^
+QRZ |S1000 FER [Q R Zed, For]^
+QRM |S1000 GM [Interference, Good morning]^
+FER |S1000 DE [For, From]^
+FER |S1000 RST [For, R S T]^
+73 |S1000 599 [73, 5 9 9]^
+FER |S1000 UP [For, Up]^
+FER |S1000 NAME [For, Name]^
+FER |S1000 DE [For, From]^
+NAME |S1000 FER [Name, For]^
+QRM |S1000 FER [Interference, For]^
+RST |S1000 AGN [R S T, Again]^
+GM |S1000 FER [Good morning, For]^
+DE |S1000 FER [From, For]^
+NAME |S1000 AGN [Name, Again]^
+UR |S1000 FER [Your, For]^
+UR |S1000 DE [Your, From]^
+FER |S1000 GA [For, Good afternoon]^
+FER |S1000 CQ [For, C Q]^
+WX |S1000 FER [Weather, For]^
+599 |S1000 FER [5 9 9, For]^
+NR |S1000 TEST [Number, Contest]^
+FER |S1000 QRM [For, Interference]^
+FER |S1000 TEST [For, Contest]^
+FER |S1000 AGN [For, Again]^
+FER |S1000 QRM [For, Interference]^
+599 |S1000 AGN [5 9 9, Again]^
+FER |S1000 ES [For, And]^
+FER |S1000 VY [For, Very]^
+FER |S1000 GE [For, Good evening]^
+ES |S1000 FER [And, For]^
+599 |S1000 GM [5 9 9, Good morning]^
+FER |S1000 GE [For, Good evening]^
+FER |S1000 QRZ [For, Q R Zed]^
+TEST |S1000 FER [Contest, For]^
+UR |S1000 FER [Your, For]^
+TEST |S1000 FER [Contest, For]^
+ES |S1000 FER [And, For]^
+WX |S1000 FER [Weather, For]^
+TEST |S1000 FER [Contest, For]^
+RST |S1000 FER [R S T, For]^
+NR |S1000 FER [Number, For]^
+559 |S1000 TEST [5 5 9, Contest]^
+UR |S1000 FER [Your, For]^
+RST |S1000 NR [R S T, Number]^
+GM |S1000 559 [Good morning, 5 5 9]^
+NR |S1000 TEST [Number, Contest]^
+FER |S1000 QRM [For, Interference]^
+FER |S1000 ES [For, And]^
+UP |S1000 FER [Up, For]^
+QRM |S1000 73 [Interference, 73]^
+UP |S1000 NR [Up, Number]^
+UP |S1000 FER [Up, For]^
+VY |S1000 599 [Very, 5 9 9]^
+FER |S1000 GE [For, Good evening]^
+FER |S1000 QRZ [For, Q R Zed]^
+NR |S1000 73 [Number, 73]^
+599 |S1000 RST [5 9 9, R S T]^
+UR |S1000 UP [Your, Up]^
+UR |S1000 QRM [Your, Interference]^
+599 |S1000 VY [5 9 9, Very]^
+FER |S1000 CQ [For, C Q]^
+FER |S1000 VY [For, Very]^
+73 |S1000 QRM [73, Interference]^
+GM |S1000 FER [Good morning, For]^
+5NN |S1000 GM [5 N N, Good morning]^
+TEST |S1000 RST [Contest, R S T]^
+GE |S1000 UR [Good evening, Your]^
+5NN |S1000 FER [5 N N, For]^
+DE |S1000 FER [From, For]^
+5NN |S1000 TEST [5 N N, Contest]^
+559 |S1000 DE [5 5 9, From]^
+UR |S1000 559 [Your, 5 5 9]^
+GM |S1000 FER [Good morning, For]^
+NAME |S1000 5NN [Name, 5 N N]^
+FER |S1000 599 [For, 5 9 9]^
+VY |S1000 TEST [Very, Contest]^
+599 |S1000 FER [5 9 9, For]^
+CQ |S1000 FER [C Q, For]^
+WX |S1000 UR [Weather, Your]^
+VY |S1000 FER [Very, For]^
+599 |S1000 UR [5 9 9, Your]^
+FER |S1000 GA [For, Good afternoon]^
+NR |S1000 5NN [Number, 5 N N]^
+GM |S1000 FER [Good morning, For]^
+NAME |S1000 73 [Name, 73]^
+DE |S1000 RST [From, R S T]^
+VY |S1000 559 [Very, 5 5 9]^
+FER |S1000 TEST [For, Contest]^
+FER |S1000 GA [For, Good afternoon]^
+FER |S1000 QRZ [For, Q R Zed]^
+73 |S1000 FER [73, For]^
+UP |S1000 FER [Up, For]^
+QRM |S1000 UP [Interference, Up]^
+GM |S1000 UP [Good morning, Up]^
+5NN |S1000 GA [5 N N, Good afternoon]^
+TEST |S1000 ES [Contest, And]^
+NAME |S1000 NR [Name, Number]^
+FER |S1000 5NN [For, 5 N N]^
+FER |S1000 5NN [For, 5 N N]^
+TEST |S1000 599 [Contest, 5 9 9]^
+GE |S1000 FER [Good evening, For]^
+WX |S1000 VY [Weather, Very]^
+QRM |S1000 FER [Interference, For]^
+UR |S1000 AGN [Your, Again]^
+RST |S1000 FER [R S T, For]^
+5NN |S1000 DE [5 N N, From]^
+FER |S1000 VY [For, Very]^
+FER |S1000 QRM [For, Interference]^
+TEST |S1000 FER [Contest, For]^
+QRM |S1000 ES [Interference, And]^
+VY |S1000 FER [Very, For]^
+599 |S1000 QRM [5 9 9, Interference]^
+FER |S1000 599 [For, 5 9 9]^
+FER |S1000 QRM [For, Interference]^
+GE |S1000 FER [Good evening, For]^
+AGN |S1000 FER [Again, For]^
+UR |S1000 GM [Your, Good morning]^
+FER |S1000 NR [For, Number]^
+599 |S1000 CQ [5 9 9, C Q]^
+AGN |S1000 TEST [Again, Contest]^
+VY |S1000 FER [Very, For]^
+GE |S1000 WX [Good evening, Weather]^
+FER |S1000 AGN [For, Again]^
+FER |S1000 RST [For, R S T]^
+TEST |S1000 UP [Contest, Up]^
+TEST |S1000 FER [Contest, For]^
+VY |S1000 GE [Very, Good evening]^
+WX |S1000 FER [Weather, For]^
+GE |S1000 599 [Good evening, 5 9 9]^
+QRZ |S1000 DE [Q R Zed, From]^
+559 |S1000 UR [5 5 9, Your]^
+FER |S1000 5NN [For, 5 N N]^
+FER |S1000 UP [For, Up]^
+FER |S1000 TEST [For, Contest]^
+CQ |S1000 FER [C Q, For]^
+5NN |S1000 73 [5 N N, 73]^
+FER |S1000 TEST [For, Contest]^
+NAME |S1000 FER [Name, For]^
+RST |S1000 WX [R S T, Weather]^
+FER |S1000 5NN [For, 5 N N]^
+FER |S1000 QRZ [For, Q R Zed]^
 QRM |S1000 GM [Interference, Good morning]^
 FER |S1000 73 [For, 73]^
-FER |S1000 599 [For, 5 9 9]^
-GE |S1000 QRZ [Good evening, Q R Zed]^
-FER |S1000 559 [For, 5 5 9]^
-NAME |S1000 FER [Name, For]^
-AGN |S1000 NR [Again, Number]^
-UP |S1000 GM [Up, Good morning]^
-FER |S1000 599 [For, 5 9 9]^
-73 |S1000 559 [73, 5 5 9]^
-5NN |S1000 QRZ [5 N N, Q R Zed]^
-FER |S1000 WX [For, Weather]^
-CQ |S1000 QRM [C Q, Interference]^
-FER |S1000 QRM [For, Interference]^
-FER |S1000 559 [For, 5 5 9]^
-FER |S1000 GM [For, Good morning]^
-FER |S1000 QRM [For, Interference]^
-FER |S1000 5NN [For, 5 N N]^
-TEST |S1000 WX [Contest, Weather]^
-RST |S1000 FER [R S T, For]^
-NAME |S1000 FER [Name, For]^
-RST |S1000 QRM [R S T, Interference]^
-WX |S1000 FER [Weather, For]^
-AGN |S1000 QRM [Again, Interference]^
-FER |S1000 599 [For, 5 9 9]^
-559 |S1000 FER [5 5 9, For]^
-NAME |S1000 FER [Name, For]^
-GM |S1000 73 [Good morning, 73]^
-GE |S1000 UP [Good evening, Up]^
-TEST |S1000 5NN [Contest, 5 N N]^
-559 |S1000 FER [5 5 9, For]^
-VY |S1000 QRZ [Very, Q R Zed]^
-FER |S1000 GA [For, Good afternoon]^
-FER |S1000 599 [For, 5 9 9]^
-UR |S1000 QRZ [Your, Q R Zed]^
-NR |S1000 FER [Number, For]^
-GE |S1000 AGN [Good evening, Again]^
-FER |S1000 RST [For, R S T]^
-UP |S1000 GM [Up, Good morning]^
-QRZ |S1000 73 [Q R Zed, 73]^
-FER |S1000 UR [For, Your]^
-FER |S1000 UR [For, Your]^
-AGN |S1000 DE [Again, From]^
-FER |S1000 QRZ [For, Q R Zed]^
-FER |S1000 QRM [For, Interference]^
-GE |S1000 NR [Good evening, Number]^
-FER |S1000 CQ [For, C Q]^
-RST |S1000 FER [R S T, For]^
-QRZ |S1000 GA [Q R Zed, Good afternoon]^
-73 |S1000 DE [73, From]^
-FER |S1000 QRZ [For, Q R Zed]^
-WX |S1000 CQ [Weather, C Q]^
-FER |S1000 CQ [For, C Q]^
-FER |S1000 AGN [For, Again]^
-FER |S1000 AGN [For, Again]^
-FER |S1000 ES [For, And]^
-NR |S1000 UP [Number, Up]^
-QRM |S1000 DE [Interference, From]^
-73 |S1000 FER [73, For]^
-QRM |S1000 FER [Interference, For]^
-RST |S1000 FER [R S T, For]^
-QRM |S1000 DE [Interference, From]^
-TEST |S1000 FER [Contest, For]^
-DE |S1000 FER [From, For]^
-GA |S1000 FER [Good afternoon, For]^
-DE |S1000 TEST [From, Contest]^
-NAME |S1000 599 [Name, 5 9 9]^
-FER |S1000 NAME [For, Name]^
-QRZ |S1000 FER [Q R Zed, For]^
-DE |S1000 ES [From, And]^
-FER |S1000 UP [For, Up]^
-FER |S1000 NAME [For, Name]^
-FER |S1000 QRM [For, Interference]^
-ES |S1000 WX [And, Weather]^
-TEST |S1000 UP [Contest, Up]^
-5NN |S1000 UR [5 N N, Your]^
-559 |S1000 GM [5 5 9, Good morning]^
-WX |S1000 FER [Weather, For]^
-TEST |S1000 RST [Contest, R S T]^
-FER |S1000 559 [For, 5 5 9]^
-FER |S1000 GA [For, Good afternoon]^
-FER |S1000 UP [For, Up]^
-FER |S1000 UR [For, Your]^
-NAME |S1000 GM [Name, Good morning]^
-FER |S1000 TEST [For, Contest]^
-GE |S1000 FER [Good evening, For]^
-QRZ |S1000 FER [Q R Zed, For]^
-73 |S1000 FER [73, For]^
-GM |S1000 FER [Good morning, For]^
-73 |S1000 559 [73, 5 5 9]^
-FER |S1000 ES [For, And]^
-FER |S1000 ES [For, And]^
-FER |S1000 ES [For, And]^
-DE |S1000 FER [From, For]^
-TEST |S1000 FER [Contest, For]^
-559 |S1000 FER [5 5 9, For]^
-TEST |S1000 FER [Contest, For]^
-UP |S1000 599 [Up, 5 9 9]^
-FER |S1000 599 [For, 5 9 9]^
-FER |S1000 GM [For, Good morning]^
-559 |S1000 TEST [5 5 9, Contest]^
-GA |S1000 QRM [Good afternoon, Interference]^
-NR |S1000 FER [Number, For]^
-VY |S1000 TEST [Very, Contest]^
-FER |S1000 5NN [For, 5 N N]^
-FER |S1000 QRM [For, Interference]^
-FER |S1000 UR [For, Your]^
-FER |S1000 QRM [For, Interference]^
-VY |S1000 FER [Very, For]^
-QRM |S1000 GE [Interference, Good evening]^
-FER |S1000 NAME [For, Name]^
-FER |S1000 WX [For, Weather]^
-5NN |S1000 FER [5 N N, For]^
-RST |S1000 FER [R S T, For]^
-AGN |S1000 559 [Again, 5 5 9]^
-FER |S1000 QRM [For, Interference]^
-GA |S1000 NR [Good afternoon, Number]^
-UR |S1000 FER [Your, For]^
-CQ |S1000 GM [C Q, Good morning]^
-FER |S1000 GA [For, Good afternoon]^
-FER |S1000 599 [For, 5 9 9]^
-VY |S1000 FER [Very, For]^
-WX |S1000 FER [Weather, For]^
-5NN |S1000 TEST [5 N N, Contest]^
-GA |S1000 FER [Good afternoon, For]^
-VY |S1000 GA [Very, Good afternoon]^
-RST |S1000 TEST [R S T, Contest]^
-NR |S1000 FER [Number, For]^
-AGN |S1000 559 [Again, 5 5 9]^
-FER |S1000 AGN [For, Again]^
-FER |S1000 ES [For, And]^
-VY |S1000 WX [Very, Weather]^
-GE |S1000 UR [Good evening, Your]^
-FER |S1000 ES [For, And]^
-FER |S1000 CQ [For, C Q]^
-FER |S1000 599 [For, 5 9 9]^
-NAME |S1000 GM [Name, Good morning]^
-FER |S1000 WX [For, Weather]^
-FER |S1000 NAME [For, Name]^
-GE |S1000 NR [Good evening, Number]^
-DE |S1000 FER [From, For]^
-DE |S1000 FER [From, For]^
-TEST |S1000 GA [Contest, Good afternoon]^
-FER |S1000 GM [For, Good morning]^
-FER |S1000 QRZ [For, Q R Zed]^
-73 |S1000 FER [73, For]^
-VY |S1000 GE [Very, Good evening]^
-QRM |S1000 CQ [Interference, C Q]^
-AGN |S1000 FER [Again, For]^
-DE |S1000 VY [From, Very]^
-5NN |S1000 RST [5 N N, R S T]^
-NAME |S1000 UP [Name, Up]^
-WX |S1000 GA [Weather, Good afternoon]^
-RST |S1000 AGN [R S T, Again]^
-5NN |S1000 GA [5 N N, Good afternoon]^
-TEST |S1000 RST [Contest, R S T]^
-FER |S1000 GM [For, Good morning]^
-NR |S1000 5NN [Number, 5 N N]^
-FER |S1000 599 [For, 5 9 9]^
-WX |S1000 TEST [Weather, Contest]^
-FER |S1000 73 [For, 73]^
-FER |S1000 GA [For, Good afternoon]^
-FER |S1000 QRZ [For, Q R Zed]^
-FER |S1000 GA [For, Good afternoon]^
-GE |S1000 GM [Good evening, Good morning]^
-QRM |S1000 FER [Interference, For]^
-5NN |S1000 ES [5 N N, And]^
-UP |S1000 599 [Up, 5 9 9]^
-FER |S1000 AGN [For, Again]^
-FER |S1000 AGN [For, Again]^
-RST |S1000 599 [R S T, 5 9 9]^
-ES |S1000 VY [And, Very]^
-CQ |S1000 UP [C Q, Up]^
-GM |S1000 VY [Good morning, Very]^
-NR |S1000 FER [Number, For]^
-5NN |S1000 FER [5 N N, For]^
-ES |S1000 FER [And, For]^
-599 |S1000 FER [5 9 9, For]^
-NR |S1000 GE [Number, Good evening]^
-559 |S1000 UR [5 5 9, Your]^
-UP |S1000 GA [Up, Good afternoon]^
-5NN |S1000 UR [5 N N, Your]^
-FER |S1000 599 [For, 5 9 9]^
-GM |S1000 FER [Good morning, For]^
-559 |S1000 TEST [5 5 9, Contest]^
-UR |S1000 WX [Your, Weather]^
-599 |S1000 FER [5 9 9, For]^
-DE |S1000 FER [From, For]^
-QRZ |S1000 FER [Q R Zed, For]^
-5NN |S1000 GA [5 N N, Good afternoon]^
-FER |S1000 WX [For, Weather]^
-CQ |S1000 FER [C Q, For]^
-WX |S1000 559 [Weather, 5 5 9]^
-FER |S1000 RST [For, R S T]^
-GE |S1000 DE [Good evening, From]^
-UR |S1000 FER [Your, For]^
-QRM |S1000 FER [Interference, For]^
-NR |S1000 GE [Number, Good evening]^
-FER |S1000 AGN [For, Again]^
-ES |S1000 QRM [And, Interference]^
-FER |S1000 NAME [For, Name]^
-FER |S1000 VY [For, Very]^
-ES |S1000 599 [And, 5 9 9]^
-WX |S1000 599 [Weather, 5 9 9]^
-FER |S1000 5NN [For, 5 N N]^
-UP |S1000 FER [Up, For]^
-NAME |S1000 FER [Name, For]^
-599 |S1000 QRZ [5 9 9, Q R Zed]^
-GE |S1000 ES [Good evening, And]^
-NR |S1000 FER [Number, For]^
-QRZ |S1000 ES [Q R Zed, And]^
-GE |S1000 RST [Good evening, R S T]^
-FER |S1000 GE [For, Good evening]^
-TEST |S1000 FER [Contest, For]^
-QRM |S1000 FER [Interference, For]^
-GA |S1000 599 [Good afternoon, 5 9 9]^
-UP |S1000 WX [Up, Weather]^
-QRZ |S1000 599 [Q R Zed, 5 9 9]^
-5NN |S1000 FER [5 N N, For]^
-NAME |S1000 FER [Name, For]^
-DE |S1000 ES [From, And]^
-UR |S1000 QRM [Your, Interference]^
-559 |S1000 GM [5 5 9, Good morning]^
-QRZ |S1000 FER [Q R Zed, For]^
-QRM |S1000 VY [Interference, Very]^
-ES |S1000 RST [And, R S T]^
-FER |S1000 599 [For, 5 9 9]^
-FER |S1000 599 [For, 5 9 9]^
-VY |S1000 FER [Very, For]^
-QRM |S1000 AGN [Interference, Again]^
-GE |S1000 FER [Good evening, For]^
-AGN |S1000 FER [Again, For]^
-599 |S1000 GA [5 9 9, Good afternoon]^
-NAME |S1000 559 [Name, 5 5 9]^
-FER |S1000 GM [For, Good morning]^
-FER |S1000 CQ [For, C Q]^
-FER |S1000 AGN [For, Again]^
-599 |S1000 5NN [5 9 9, 5 N N]^
-GM |S1000 FER [Good morning, For]^
-GM |S1000 WX [Good morning, Weather]^
-FER |S1000 DE [For, From]^
-UP |S1000 FER [Up, For]^
-TEST |S1000 FER [Contest, For]^
-WX |S1000 RST [Weather, R S T]^
-FER |S1000 UP [For, Up]^
-FER |S1000 599 [For, 5 9 9]^
-FER |S1000 QRZ [For, Q R Zed]^
-CQ |S1000 FER [C Q, For]^
-TEST |S1000 FER [Contest, For]^
-5NN |S1000 FER [5 N N, For]^
 GM |S1000 AGN [Good morning, Again]^
-FER |S1000 NR [For, Number]^
-UR |S1000 FER [Your, For]^
-CQ |S1000 5NN [C Q, 5 N N]^
-GE |S1000 NAME [Good evening, Name]^
-FER |S1000 UP [For, Up]^
-ES |S1000 FER [And, For]^
-NR |S1000 NAME [Number, Name]^
-TEST |S1000 FER [Contest, For]^
-GE |S1000 FER [Good evening, For]^
-GE |S1000 FER [Good evening, For]^
-TEST |S1000 ES [Contest, And]^
-DE |S1000 ES [From, And]^
-FER |S1000 GA [For, Good afternoon]^
-559 |S1000 DE [5 5 9, From]^
-VY |S1000 FER [Very, For]^
-UP |S1000 FER [Up, For]^
-CQ |S1000 FER [C Q, For]^
+FER |S1000 CQ [For, C Q]^
+QRM |S1000 FER [Interference, For]^
 599 |S1000 FER [5 9 9, For]^
-RST |S1000 GA [R S T, Good afternoon]^
-559 |S1000 WX [5 5 9, Weather]^
-DE |S1000 FER [From, For]^
-NR |S1000 FER [Number, For]^
-559 |S1000 AGN [5 5 9, Again]^
-FER |S1000 ES [For, And]^
-GA |S1000 559 [Good afternoon, 5 5 9]^
-FER |S1000 NAME [For, Name]^
-NR |S1000 RST [Number, R S T]^
-QRZ |S1000 FER [Q R Zed, For]^
-CQ |S1000 FER [C Q, For]^
-WX |S1000 NR [Weather, Number]^
-FER |S1000 WX [For, Weather]^
-FER |S1000 QRM [For, Interference]^
-5NN |S1000 FER [5 N N, For]^
-QRM |S1000 UR [Interference, Your]^
-QRM |S1000 VY [Interference, Very]^
-TEST |S1000 FER [Contest, For]^
-UR |S1000 FER [Your, For]^
-WX |S1000 FER [Weather, For]^
-73 |S1000 FER [73, For]^
-5NN |S1000 FER [5 N N, For]^
-UR |S1000 QRM [Your, Interference]^
-FER |S1000 ES [For, And]^
-FER |S1000 599 [For, 5 9 9]^
-DE |S1000 73 [From, 73]^
-RST |S1000 FER [R S T, For]^
-RST |S1000 QRM [R S T, Interference]^
-UP |S1000 RST [Up, R S T]^
-GE |S1000 AGN [Good evening, Again]^
-559 |S1000 FER [5 5 9, For]^
-GE |S1000 DE [Good evening, From]^
-FER |S1000 VY [For, Very]^
+NR |S1000 VY [Number, Very]^
 GA |S1000 FER [Good afternoon, For]^
-GE |S1000 TEST [Good evening, Contest]^
-RST |S1000 FER [R S T, For]^
-QRZ |S1000 73 [Q R Zed, 73]^
-FER |S1000 GM [For, Good morning]^
+NAME |S1000 FER [Name, For]^
+NR |S1000 FER [Number, For]^
+WX |S1000 VY [Weather, Very]^
 FER |S1000 VY [For, Very]^
-FER |S1000 GA [For, Good afternoon]^
-TEST |S1000 FER [Contest, For]^
-DE |S1000 73 [From, 73]^
-FER |S1000 599 [For, 5 9 9]^
-559 |S1000 FER [5 5 9, For]^
-73 |S1000 TEST [73, Contest]^
-QRM |S1000 73 [Interference, 73]^
-RST |S1000 559 [R S T, 5 5 9]^
-QRZ |S1000 559 [Q R Zed, 5 5 9]^
-FER |S1000 73 [For, 73]^
 ES |S1000 CQ [And, C Q]^
-UR |S1000 NAME [Your, Name]^
+FER |S1000 NR [For, Number]^
+QRZ |S1000 RST [Q R Zed, R S T]^
+599 |S1000 TEST [5 9 9, Contest]^
+FER |S1000 GA [For, Good afternoon]^
+UR |S1000 FER [Your, For]^
+5NN |S1000 FER [5 N N, For]^
+DE |S1000 UR [From, Your]^
+DE |S1000 AGN [From, Again]^
+NAME |S1000 TEST [Name, Contest]^
+FER |S1000 NR [For, Number]^
+FER |S1000 GE [For, Good evening]^
+FER |S1000 AGN [For, Again]^
+FER |S1000 GE [For, Good evening]^
+ES |S1000 AGN [And, Again]^
+FER |S1000 VY [For, Very]^
+RST |S1000 GM [R S T, Good morning]^
+FER |S1000 UP [For, Up]^
+NAME |S1000 FER [Name, For]^
+QRM |S1000 FER [Interference, For]^
+5NN |S1000 FER [5 N N, For]^
+VY |S1000 FER [Very, For]^
+TEST |S1000 559 [Contest, 5 5 9]^
+DE |S1000 VY [From, Very]^
+599 |S1000 UR [5 9 9, Your]^
+ES |S1000 GE [And, Good evening]^
 CQ |S1000 FER [C Q, For]^
+NR |S1000 UP [Number, Up]^
+FER |S1000 73 [For, 73]^
+WX |S1000 RST [Weather, R S T]^
+FER |S1000 559 [For, 5 5 9]^
+RST |S1000 DE [R S T, From]^
+GA |S1000 TEST [Good afternoon, Contest]^
+559 |S1000 AGN [5 5 9, Again]^
+FER |S1000 QRZ [For, Q R Zed]^
+TEST |S1000 DE [Contest, From]^
+FER |S1000 559 [For, 5 5 9]^
+ES |S1000 RST [And, R S T]^
+FER |S1000 GM [For, Good morning]^
+UR |S1000 FER [Your, For]^
+GM |S1000 FER [Good morning, For]^
+QRZ |S1000 GA [Q R Zed, Good afternoon]^
+FER |S1000 NAME [For, Name]^
+FER |S1000 GA [For, Good afternoon]^
+AGN |S1000 DE [Again, From]^
+AGN |S1000 DE [Again, From]^
+FER |S1000 AGN [For, Again]^
+TEST |S1000 AGN [Contest, Again]^
+FER |S1000 GE [For, Good evening]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+FER |S1000 GM [For, Good morning]^
+NAME |S1000 FER [Name, For]^
+VY |S1000 FER [Very, For]^
+AGN |S1000 FER [Again, For]^
+QRM |S1000 FER [Interference, For]^
+559 |S1000 GE [5 5 9, Good evening]^
+FER |S1000 NAME [For, Name]^
+73 |S1000 CQ [73, C Q]^
+FER |S1000 73 [For, 73]^
+WX |S1000 FER [Weather, For]^
+TEST |S1000 FER [Contest, For]^
+RST |S1000 FER [R S T, For]^
+UR |S1000 FER [Your, For]^
+GA |S1000 FER [Good afternoon, For]^
+ES |S1000 FER [And, For]^
+559 |S1000 NAME [5 5 9, Name]^
+FER |S1000 5NN [For, 5 N N]^
+ES |S1000 FER [And, For]^
+GA |S1000 FER [Good afternoon, For]^
+CQ |S1000 FER [C Q, For]^
+AGN |S1000 GA [Again, Good afternoon]^
+WX |S1000 TEST [Weather, Contest]^
+RST |S1000 FER [R S T, For]^
+559 |S1000 FER [5 5 9, For]^
+QRZ |S1000 FER [Q R Zed, For]^
+TEST |S1000 FER [Contest, For]^
+WX |S1000 FER [Weather, For]^
+GA |S1000 FER [Good afternoon, For]^
+ES |S1000 FER [And, For]^
+UR |S1000 FER [Your, For]^
+TEST |S1000 FER [Contest, For]^
+TEST |S1000 VY [Contest, Very]^
+FER |S1000 RST [For, R S T]^
+FER |S1000 UR [For, Your]^
+ES |S1000 FER [And, For]^
+ES |S1000 TEST [And, Contest]^
+FER |S1000 AGN [For, Again]^
+GE |S1000 FER [Good evening, For]^
+QRZ |S1000 FER [Q R Zed, For]^
+73 |S1000 NAME [73, Name]^
+FER |S1000 5NN [For, 5 N N]^
+FER |S1000 QRM [For, Interference]^
+GA |S1000 WX [Good afternoon, Weather]^
+AGN |S1000 FER [Again, For]^
+ES |S1000 CQ [And, C Q]^
+UR |S1000 QRM [Your, Interference]^
+FER |S1000 NR [For, Number]^
+FER |S1000 NR [For, Number]^
+73 |S1000 FER [73, For]^
+599 |S1000 UR [5 9 9, Your]^
+GM |S1000 TEST [Good morning, Contest]^
+DE |S1000 VY [From, Very]^
+UR |S1000 FER [Your, For]^
+599 |S1000 FER [5 9 9, For]^
+QRZ |S1000 FER [Q R Zed, For]^

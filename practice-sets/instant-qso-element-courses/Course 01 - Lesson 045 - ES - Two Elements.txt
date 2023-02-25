@@ -1,600 +1,600 @@
-UP |S1000 ES [Up, And]^
-RST |S1000 UP [R S T, Up]^
+559 |S1000 ES [5 5 9, And]^
+NR |S1000 73 [Number, 73]^
+5NN |S1000 NAME [5 N N, Name]^
+ES |S1000 UP [And, Up]^
+ES |S1000 599 [And, 5 9 9]^
 ES |S1000 73 [And, 73]^
-ES |S1000 DE [And, From]^
-ES |S1000 NAME [And, Name]^
-RST |S1000 ES [R S T, And]^
-73 |S1000 599 [73, 5 9 9]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 5NN [And, 5 N N]^
-73 |S1000 NAME [73, Name]^
-599 |S1000 DE [5 9 9, From]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 73 [And, 73]^
+559 |S1000 ES [5 5 9, And]^
+RST |S1000 73 [R S T, 73]^
+5NN |S1000 ES [5 N N, And]^
+NAME |S1000 ES [Name, And]^
+NR |S1000 RST [Number, R S T]^
+559 |S1000 ES [5 5 9, And]^
+VY |S1000 559 [Very, 5 5 9]^
 ES |S1000 CQ [And, C Q]^
-NAME |S1000 CQ [Name, C Q]^
-ES |S1000 599 [And, 5 9 9]^
-ES |S1000 559 [And, 5 5 9]^
 ES |S1000 VY [And, Very]^
-ES |S1000 599 [And, 5 9 9]^
+ES |S1000 CQ [And, C Q]^
+DE |S1000 73 [From, 73]^
+559 |S1000 599 [5 5 9, 5 9 9]^
+73 |S1000 559 [73, 5 5 9]^
+NR |S1000 CQ [Number, C Q]^
+ES |S1000 UP [And, Up]^
+559 |S1000 5NN [5 5 9, 5 N N]^
+VY |S1000 559 [Very, 5 5 9]^
+73 |S1000 ES [73, And]^
+VY |S1000 NR [Very, Number]^
+ES |S1000 UP [And, Up]^
+ES |S1000 73 [And, 73]^
+NR |S1000 VY [Number, Very]^
+ES |S1000 CQ [And, C Q]^
+NAME |S1000 ES [Name, And]^
+NR |S1000 ES [Number, And]^
+CQ |S1000 ES [C Q, And]^
+559 |S1000 73 [5 5 9, 73]^
 ES |S1000 599 [And, 5 9 9]^
 ES |S1000 RST [And, R S T]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 559 [And, 5 5 9]^
-RST |S1000 ES [R S T, And]^
 CQ |S1000 VY [C Q, Very]^
-599 |S1000 559 [5 9 9, 5 5 9]^
+599 |S1000 RST [5 9 9, R S T]^
+559 |S1000 VY [5 5 9, Very]^
+ES |S1000 NAME [And, Name]^
+ES |S1000 DE [And, From]^
+CQ |S1000 559 [C Q, 5 5 9]^
+73 |S1000 5NN [73, 5 N N]^
+ES |S1000 599 [And, 5 9 9]^
+NR |S1000 DE [Number, From]^
+CQ |S1000 ES [C Q, And]^
+UP |S1000 NAME [Up, Name]^
+ES |S1000 NR [And, Number]^
+ES |S1000 VY [And, Very]^
+ES |S1000 NAME [And, Name]^
+ES |S1000 5NN [And, 5 N N]^
+VY |S1000 NAME [Very, Name]^
+599 |S1000 ES [5 9 9, And]^
+VY |S1000 UP [Very, Up]^
+559 |S1000 ES [5 5 9, And]^
+5NN |S1000 ES [5 N N, And]^
+599 |S1000 ES [5 9 9, And]^
+599 |S1000 CQ [5 9 9, C Q]^
+73 |S1000 ES [73, And]^
+UP |S1000 VY [Up, Very]^
+5NN |S1000 ES [5 N N, And]^
+DE |S1000 ES [From, And]^
+DE |S1000 5NN [From, 5 N N]^
+DE |S1000 73 [From, 73]^
+RST |S1000 73 [R S T, 73]^
+DE |S1000 CQ [From, C Q]^
+599 |S1000 CQ [5 9 9, C Q]^
+RST |S1000 559 [R S T, 5 5 9]^
+ES |S1000 73 [And, 73]^
+NAME |S1000 CQ [Name, C Q]^
+ES |S1000 NR [And, Number]^
+CQ |S1000 5NN [C Q, 5 N N]^
+ES |S1000 CQ [And, C Q]^
+ES |S1000 VY [And, Very]^
+ES |S1000 NR [And, Number]^
+RST |S1000 VY [R S T, Very]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 UP [And, Up]^
+5NN |S1000 559 [5 N N, 5 5 9]^
+ES |S1000 NAME [And, Name]^
+DE |S1000 ES [From, And]^
+UP |S1000 ES [Up, And]^
+5NN |S1000 73 [5 N N, 73]^
+ES |S1000 VY [And, Very]^
+CQ |S1000 VY [C Q, Very]^
+CQ |S1000 ES [C Q, And]^
+VY |S1000 UP [Very, Up]^
+ES |S1000 VY [And, Very]^
+ES |S1000 RST [And, R S T]^
+ES |S1000 599 [And, 5 9 9]^
+73 |S1000 599 [73, 5 9 9]^
+ES |S1000 599 [And, 5 9 9]^
+NR |S1000 RST [Number, R S T]^
+NR |S1000 UP [Number, Up]^
+ES |S1000 RST [And, R S T]^
+599 |S1000 CQ [5 9 9, C Q]^
+ES |S1000 VY [And, Very]^
+73 |S1000 RST [73, R S T]^
+DE |S1000 NR [From, Number]^
+UP |S1000 ES [Up, And]^
+559 |S1000 ES [5 5 9, And]^
+RST |S1000 ES [R S T, And]^
+5NN |S1000 RST [5 N N, R S T]^
+ES |S1000 CQ [And, C Q]^
+NAME |S1000 ES [Name, And]^
+599 |S1000 CQ [5 9 9, C Q]^
+ES |S1000 73 [And, 73]^
+UP |S1000 NAME [Up, Name]^
+DE |S1000 ES [From, And]^
+559 |S1000 NAME [5 5 9, Name]^
+UP |S1000 CQ [Up, C Q]^
+ES |S1000 UP [And, Up]^
+ES |S1000 DE [And, From]^
+CQ |S1000 73 [C Q, 73]^
+5NN |S1000 ES [5 N N, And]^
+UP |S1000 NR [Up, Number]^
+559 |S1000 73 [5 5 9, 73]^
+VY |S1000 NAME [Very, Name]^
+ES |S1000 NR [And, Number]^
+ES |S1000 73 [And, 73]^
+RST |S1000 ES [R S T, And]^
+UP |S1000 ES [Up, And]^
+NAME |S1000 CQ [Name, C Q]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 CQ [And, C Q]^
+DE |S1000 ES [From, And]^
+NR |S1000 599 [Number, 5 9 9]^
+NR |S1000 559 [Number, 5 5 9]^
+ES |S1000 UP [And, Up]^
+VY |S1000 ES [Very, And]^
+RST |S1000 599 [R S T, 5 9 9]^
+UP |S1000 599 [Up, 5 9 9]^
+ES |S1000 CQ [And, C Q]^
+73 |S1000 ES [73, And]^
+RST |S1000 ES [R S T, And]^
+CQ |S1000 ES [C Q, And]^
+599 |S1000 ES [5 9 9, And]^
+CQ |S1000 599 [C Q, 5 9 9]^
+ES |S1000 599 [And, 5 9 9]^
+559 |S1000 CQ [5 5 9, C Q]^
+ES |S1000 5NN [And, 5 N N]^
+NAME |S1000 ES [Name, And]^
+599 |S1000 ES [5 9 9, And]^
+VY |S1000 UP [Very, Up]^
+CQ |S1000 ES [C Q, And]^
+UP |S1000 CQ [Up, C Q]^
+RST |S1000 599 [R S T, 5 9 9]^
+UP |S1000 ES [Up, And]^
+73 |S1000 RST [73, R S T]^
+599 |S1000 ES [5 9 9, And]^
+NAME |S1000 ES [Name, And]^
+NR |S1000 ES [Number, And]^
+UP |S1000 ES [Up, And]^
+RST |S1000 73 [R S T, 73]^
 ES |S1000 599 [And, 5 9 9]^
 ES |S1000 5NN [And, 5 N N]^
-VY |S1000 NR [Very, Number]^
+ES |S1000 UP [And, Up]^
 DE |S1000 ES [From, And]^
-NR |S1000 DE [Number, From]^
-73 |S1000 599 [73, 5 9 9]^
+559 |S1000 ES [5 5 9, And]^
+5NN |S1000 NR [5 N N, Number]^
+UP |S1000 ES [Up, And]^
+599 |S1000 DE [5 9 9, From]^
+UP |S1000 ES [Up, And]^
+5NN |S1000 ES [5 N N, And]^
+73 |S1000 559 [73, 5 5 9]^
 ES |S1000 UP [And, Up]^
 ES |S1000 NR [And, Number]^
+559 |S1000 73 [5 5 9, 73]^
+559 |S1000 NR [5 5 9, Number]^
+ES |S1000 UP [And, Up]^
+ES |S1000 5NN [And, 5 N N]^
+559 |S1000 VY [5 5 9, Very]^
+RST |S1000 73 [R S T, 73]^
+ES |S1000 DE [And, From]^
+ES |S1000 73 [And, 73]^
+CQ |S1000 559 [C Q, 5 5 9]^
+ES |S1000 NR [And, Number]^
+RST |S1000 ES [R S T, And]^
+UP |S1000 NR [Up, Number]^
+ES |S1000 CQ [And, C Q]^
+5NN |S1000 ES [5 N N, And]^
+599 |S1000 VY [5 9 9, Very]^
+ES |S1000 RST [And, R S T]^
+ES |S1000 UP [And, Up]^
+ES |S1000 599 [And, 5 9 9]^
+UP |S1000 RST [Up, R S T]^
+NR |S1000 RST [Number, R S T]^
+UP |S1000 NAME [Up, Name]^
+559 |S1000 VY [5 5 9, Very]^
+ES |S1000 NAME [And, Name]^
+UP |S1000 ES [Up, And]^
+DE |S1000 ES [From, And]^
+599 |S1000 ES [5 9 9, And]^
+DE |S1000 CQ [From, C Q]^
+NAME |S1000 ES [Name, And]^
+CQ |S1000 ES [C Q, And]^
+559 |S1000 NAME [5 5 9, Name]^
+ES |S1000 599 [And, 5 9 9]^
 ES |S1000 559 [And, 5 5 9]^
+ES |S1000 NAME [And, Name]^
+ES |S1000 73 [And, 73]^
+DE |S1000 ES [From, And]^
 NR |S1000 ES [Number, And]^
-RST |S1000 599 [R S T, 5 9 9]^
-RST |S1000 DE [R S T, From]^
-NR |S1000 ES [Number, And]^
-RST |S1000 599 [R S T, 5 9 9]^
-NAME |S1000 DE [Name, From]^
-ES |S1000 VY [And, Very]^
-CQ |S1000 NAME [C Q, Name]^
+73 |S1000 UP [73, Up]^
+5NN |S1000 UP [5 N N, Up]^
+VY |S1000 NAME [Very, Name]^
+5NN |S1000 599 [5 N N, 5 9 9]^
 ES |S1000 559 [And, 5 5 9]^
 NR |S1000 599 [Number, 5 9 9]^
-VY |S1000 DE [Very, From]^
+RST |S1000 VY [R S T, Very]^
 NR |S1000 ES [Number, And]^
-559 |S1000 ES [5 5 9, And]^
-559 |S1000 ES [5 5 9, And]^
-VY |S1000 559 [Very, 5 5 9]^
-VY |S1000 ES [Very, And]^
-CQ |S1000 VY [C Q, Very]^
-CQ |S1000 VY [C Q, Very]^
-ES |S1000 UP [And, Up]^
-NAME |S1000 UP [Name, Up]^
-NR |S1000 ES [Number, And]^
-CQ |S1000 ES [C Q, And]^
-UP |S1000 ES [Up, And]^
+73 |S1000 VY [73, Very]^
+73 |S1000 ES [73, And]^
 RST |S1000 ES [R S T, And]^
-DE |S1000 ES [From, And]^
-UP |S1000 ES [Up, And]^
-RST |S1000 ES [R S T, And]^
-VY |S1000 CQ [Very, C Q]^
-ES |S1000 559 [And, 5 5 9]^
-5NN |S1000 ES [5 N N, And]^
 599 |S1000 DE [5 9 9, From]^
-ES |S1000 DE [And, From]^
-ES |S1000 DE [And, From]^
-599 |S1000 ES [5 9 9, And]^
-VY |S1000 559 [Very, 5 5 9]^
-ES |S1000 NR [And, Number]^
-UP |S1000 ES [Up, And]^
-CQ |S1000 ES [C Q, And]^
-DE |S1000 NAME [From, Name]^
-ES |S1000 VY [And, Very]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 NAME [And, Name]^
-VY |S1000 RST [Very, R S T]^
-ES |S1000 599 [And, 5 9 9]^
-ES |S1000 RST [And, R S T]^
-ES |S1000 DE [And, From]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 73 [And, 73]^
-NAME |S1000 NR [Name, Number]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 VY [And, Very]^
-NR |S1000 ES [Number, And]^
-NAME |S1000 ES [Name, And]^
-599 |S1000 ES [5 9 9, And]^
-NAME |S1000 599 [Name, 5 9 9]^
-NAME |S1000 ES [Name, And]^
-DE |S1000 ES [From, And]^
-NR |S1000 NAME [Number, Name]^
-5NN |S1000 ES [5 N N, And]^
-599 |S1000 ES [5 9 9, And]^
-DE |S1000 NAME [From, Name]^
-ES |S1000 RST [And, R S T]^
-ES |S1000 DE [And, From]^
-ES |S1000 DE [And, From]^
-ES |S1000 UP [And, Up]^
-ES |S1000 73 [And, 73]^
-ES |S1000 73 [And, 73]^
-VY |S1000 599 [Very, 5 9 9]^
-ES |S1000 RST [And, R S T]^
-NAME |S1000 ES [Name, And]^
-559 |S1000 ES [5 5 9, And]^
-NR |S1000 CQ [Number, C Q]^
-ES |S1000 NR [And, Number]^
+559 |S1000 CQ [5 5 9, C Q]^
 RST |S1000 ES [R S T, And]^
-CQ |S1000 NR [C Q, Number]^
-73 |S1000 ES [73, And]^
-73 |S1000 VY [73, Very]^
-DE |S1000 CQ [From, C Q]^
-VY |S1000 ES [Very, And]^
-73 |S1000 ES [73, And]^
-73 |S1000 DE [73, From]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 VY [And, Very]^
-ES |S1000 CQ [And, C Q]^
-NR |S1000 559 [Number, 5 5 9]^
-DE |S1000 NAME [From, Name]^
-559 |S1000 599 [5 5 9, 5 9 9]^
-ES |S1000 NR [And, Number]^
-599 |S1000 RST [5 9 9, R S T]^
-DE |S1000 559 [From, 5 5 9]^
-RST |S1000 UP [R S T, Up]^
-ES |S1000 UP [And, Up]^
-ES |S1000 599 [And, 5 9 9]^
-ES |S1000 5NN [And, 5 N N]^
-RST |S1000 559 [R S T, 5 5 9]^
-73 |S1000 VY [73, Very]^
-599 |S1000 ES [5 9 9, And]^
-VY |S1000 NAME [Very, Name]^
-ES |S1000 DE [And, From]^
-ES |S1000 599 [And, 5 9 9]^
-ES |S1000 CQ [And, C Q]^
-NR |S1000 DE [Number, From]^
-CQ |S1000 DE [C Q, From]^
-ES |S1000 RST [And, R S T]^
-ES |S1000 559 [And, 5 5 9]^
-NR |S1000 VY [Number, Very]^
-ES |S1000 5NN [And, 5 N N]^
-UP |S1000 ES [Up, And]^
-VY |S1000 599 [Very, 5 9 9]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 599 [And, 5 9 9]^
-5NN |S1000 NR [5 N N, Number]^
-599 |S1000 ES [5 9 9, And]^
-DE |S1000 NAME [From, Name]^
-UP |S1000 ES [Up, And]^
-RST |S1000 ES [R S T, And]^
-NR |S1000 ES [Number, And]^
-NAME |S1000 UP [Name, Up]^
-RST |S1000 ES [R S T, And]^
-599 |S1000 ES [5 9 9, And]^
-DE |S1000 ES [From, And]^
-CQ |S1000 559 [C Q, 5 5 9]^
-DE |S1000 ES [From, And]^
-73 |S1000 599 [73, 5 9 9]^
-DE |S1000 ES [From, And]^
-NR |S1000 73 [Number, 73]^
-ES |S1000 NR [And, Number]^
-ES |S1000 73 [And, 73]^
-ES |S1000 RST [And, R S T]^
-ES |S1000 73 [And, 73]^
-5NN |S1000 ES [5 N N, And]^
-559 |S1000 ES [5 5 9, And]^
-RST |S1000 ES [R S T, And]^
-RST |S1000 DE [R S T, From]^
-ES |S1000 5NN [And, 5 N N]^
-UP |S1000 ES [Up, And]^
-599 |S1000 ES [5 9 9, And]^
-CQ |S1000 ES [C Q, And]^
-DE |S1000 ES [From, And]^
-NAME |S1000 559 [Name, 5 5 9]^
-CQ |S1000 NR [C Q, Number]^
-ES |S1000 NR [And, Number]^
-ES |S1000 559 [And, 5 5 9]^
-CQ |S1000 ES [C Q, And]^
-VY |S1000 ES [Very, And]^
-599 |S1000 NAME [5 9 9, Name]^
-5NN |S1000 VY [5 N N, Very]^
-ES |S1000 NR [And, Number]^
-RST |S1000 ES [R S T, And]^
-NR |S1000 CQ [Number, C Q]^
-DE |S1000 ES [From, And]^
-5NN |S1000 ES [5 N N, And]^
-RST |S1000 NR [R S T, Number]^
-ES |S1000 5NN [And, 5 N N]^
-UP |S1000 5NN [Up, 5 N N]^
-RST |S1000 ES [R S T, And]^
-73 |S1000 ES [73, And]^
-NAME |S1000 559 [Name, 5 5 9]^
-ES |S1000 DE [And, From]^
-CQ |S1000 VY [C Q, Very]^
-NAME |S1000 NR [Name, Number]^
-ES |S1000 559 [And, 5 5 9]^
-5NN |S1000 ES [5 N N, And]^
-NR |S1000 DE [Number, From]^
-ES |S1000 VY [And, Very]^
-NR |S1000 ES [Number, And]^
-VY |S1000 73 [Very, 73]^
-599 |S1000 73 [5 9 9, 73]^
-ES |S1000 559 [And, 5 5 9]^
-UP |S1000 ES [Up, And]^
-VY |S1000 RST [Very, R S T]^
-5NN |S1000 NAME [5 N N, Name]^
-ES |S1000 599 [And, 5 9 9]^
-NAME |S1000 NR [Name, Number]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 599 [And, 5 9 9]^
-NAME |S1000 ES [Name, And]^
-5NN |S1000 ES [5 N N, And]^
-DE |S1000 599 [From, 5 9 9]^
-ES |S1000 UP [And, Up]^
-73 |S1000 DE [73, From]^
-NR |S1000 NAME [Number, Name]^
-ES |S1000 5NN [And, 5 N N]^
-559 |S1000 73 [5 5 9, 73]^
-UP |S1000 ES [Up, And]^
-5NN |S1000 RST [5 N N, R S T]^
-ES |S1000 5NN [And, 5 N N]^
-VY |S1000 5NN [Very, 5 N N]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 5NN [And, 5 N N]^
-ES |S1000 UP [And, Up]^
-ES |S1000 NAME [And, Name]^
-559 |S1000 UP [5 5 9, Up]^
-ES |S1000 559 [And, 5 5 9]^
-5NN |S1000 RST [5 N N, R S T]^
-ES |S1000 NAME [And, Name]^
-CQ |S1000 ES [C Q, And]^
-UP |S1000 ES [Up, And]^
-RST |S1000 ES [R S T, And]^
-NR |S1000 ES [Number, And]^
-599 |S1000 CQ [5 9 9, C Q]^
-DE |S1000 RST [From, R S T]^
-ES |S1000 VY [And, Very]^
-599 |S1000 VY [5 9 9, Very]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 RST [And, R S T]^
-ES |S1000 CQ [And, C Q]^
-NR |S1000 ES [Number, And]^
-RST |S1000 ES [R S T, And]^
-VY |S1000 ES [Very, And]^
-5NN |S1000 DE [5 N N, From]^
-ES |S1000 NR [And, Number]^
-ES |S1000 NAME [And, Name]^
-NR |S1000 RST [Number, R S T]^
-DE |S1000 CQ [From, C Q]^
-599 |S1000 NAME [5 9 9, Name]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 UP [And, Up]^
-73 |S1000 ES [73, And]^
-CQ |S1000 73 [C Q, 73]^
-VY |S1000 ES [Very, And]^
-CQ |S1000 ES [C Q, And]^
-UP |S1000 559 [Up, 5 5 9]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 UP [And, Up]^
-DE |S1000 5NN [From, 5 N N]^
-559 |S1000 ES [5 5 9, And]^
-559 |S1000 ES [5 5 9, And]^
-NAME |S1000 DE [Name, From]^
-VY |S1000 ES [Very, And]^
-VY |S1000 73 [Very, 73]^
 NAME |S1000 5NN [Name, 5 N N]^
-NAME |S1000 ES [Name, And]^
-NAME |S1000 UP [Name, Up]^
-DE |S1000 ES [From, And]^
-599 |S1000 DE [5 9 9, From]^
-5NN |S1000 NR [5 N N, Number]^
-ES |S1000 UP [And, Up]^
-ES |S1000 73 [And, 73]^
-599 |S1000 ES [5 9 9, And]^
-73 |S1000 ES [73, And]^
+ES |S1000 559 [And, 5 5 9]^
+ES |S1000 DE [And, From]^
+NR |S1000 RST [Number, R S T]^
 NR |S1000 ES [Number, And]^
-NAME |S1000 559 [Name, 5 5 9]^
-ES |S1000 NAME [And, Name]^
+599 |S1000 UP [5 9 9, Up]^
+NAME |S1000 ES [Name, And]^
+NR |S1000 599 [Number, 5 9 9]^
+5NN |S1000 ES [5 N N, And]^
+VY |S1000 CQ [Very, C Q]^
+599 |S1000 559 [5 9 9, 5 5 9]^
+VY |S1000 UP [Very, Up]^
+VY |S1000 NR [Very, Number]^
+ES |S1000 73 [And, 73]^
+ES |S1000 VY [And, Very]^
+ES |S1000 559 [And, 5 5 9]^
+UP |S1000 ES [Up, And]^
+RST |S1000 DE [R S T, From]^
+CQ |S1000 NAME [C Q, Name]^
+73 |S1000 ES [73, And]^
+599 |S1000 ES [5 9 9, And]^
 DE |S1000 ES [From, And]^
-559 |S1000 RST [5 5 9, R S T]^
-ES |S1000 NAME [And, Name]^
-73 |S1000 UP [73, Up]^
+73 |S1000 ES [73, And]^
+73 |S1000 ES [73, And]^
+DE |S1000 73 [From, 73]^
+ES |S1000 DE [And, From]^
+559 |S1000 NAME [5 5 9, Name]^
+73 |S1000 ES [73, And]^
+VY |S1000 559 [Very, 5 5 9]^
+73 |S1000 559 [73, 5 5 9]^
+ES |S1000 UP [And, Up]^
+ES |S1000 NR [And, Number]^
+ES |S1000 VY [And, Very]^
+ES |S1000 559 [And, 5 5 9]^
+DE |S1000 ES [From, And]^
+NR |S1000 ES [Number, And]^
+599 |S1000 ES [5 9 9, And]^
+5NN |S1000 CQ [5 N N, C Q]^
+VY |S1000 NAME [Very, Name]^
 DE |S1000 RST [From, R S T]^
+73 |S1000 ES [73, And]^
+5NN |S1000 ES [5 N N, And]^
+NR |S1000 VY [Number, Very]^
+ES |S1000 NR [And, Number]^
+ES |S1000 DE [And, From]^
+73 |S1000 RST [73, R S T]^
+NR |S1000 ES [Number, And]^
+5NN |S1000 DE [5 N N, From]^
+5NN |S1000 ES [5 N N, And]^
+VY |S1000 RST [Very, R S T]^
+NR |S1000 DE [Number, From]^
+NAME |S1000 599 [Name, 5 9 9]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 5NN [And, 5 N N]^
+NR |S1000 73 [Number, 73]^
+ES |S1000 559 [And, 5 5 9]^
+NAME |S1000 RST [Name, R S T]^
+CQ |S1000 5NN [C Q, 5 N N]^
+ES |S1000 DE [And, From]^
+VY |S1000 ES [Very, And]^
+RST |S1000 559 [R S T, 5 5 9]^
+VY |S1000 DE [Very, From]^
+559 |S1000 ES [5 5 9, And]^
+UP |S1000 ES [Up, And]^
+NAME |S1000 ES [Name, And]^
+NAME |S1000 ES [Name, And]^
+UP |S1000 ES [Up, And]^
+73 |S1000 NAME [73, Name]^
+599 |S1000 5NN [5 9 9, 5 N N]^
+UP |S1000 599 [Up, 5 9 9]^
+VY |S1000 73 [Very, 73]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 VY [And, Very]^
 ES |S1000 5NN [And, 5 N N]^
 NR |S1000 ES [Number, And]^
-NR |S1000 NAME [Number, Name]^
-DE |S1000 73 [From, 73]^
-ES |S1000 559 [And, 5 5 9]^
-NAME |S1000 ES [Name, And]^
-DE |S1000 UP [From, Up]^
-RST |S1000 ES [R S T, And]^
-VY |S1000 RST [Very, R S T]^
-73 |S1000 ES [73, And]^
-RST |S1000 ES [R S T, And]^
-NAME |S1000 DE [Name, From]^
+NAME |S1000 VY [Name, Very]^
+ES |S1000 DE [And, From]^
+ES |S1000 RST [And, R S T]^
 NR |S1000 73 [Number, 73]^
-ES |S1000 VY [And, Very]^
-RST |S1000 ES [R S T, And]^
-DE |S1000 RST [From, R S T]^
-ES |S1000 73 [And, 73]^
+DE |S1000 ES [From, And]^
+DE |S1000 NAME [From, Name]^
+599 |S1000 UP [5 9 9, Up]^
 DE |S1000 ES [From, And]^
 73 |S1000 559 [73, 5 5 9]^
+RST |S1000 5NN [R S T, 5 N N]^
+ES |S1000 73 [And, 73]^
+ES |S1000 73 [And, 73]^
+ES |S1000 NR [And, Number]^
+559 |S1000 ES [5 5 9, And]^
+DE |S1000 ES [From, And]^
+CQ |S1000 73 [C Q, 73]^
+NR |S1000 ES [Number, And]^
+RST |S1000 5NN [R S T, 5 N N]^
+ES |S1000 VY [And, Very]^
+5NN |S1000 ES [5 N N, And]^
+599 |S1000 DE [5 9 9, From]^
+599 |S1000 ES [5 9 9, And]^
+NR |S1000 ES [Number, And]^
+73 |S1000 NAME [73, Name]^
+559 |S1000 ES [5 5 9, And]^
+CQ |S1000 NAME [C Q, Name]^
+ES |S1000 73 [And, 73]^
+ES |S1000 559 [And, 5 5 9]^
+599 |S1000 ES [5 9 9, And]^
+CQ |S1000 DE [C Q, From]^
+ES |S1000 73 [And, 73]^
+UP |S1000 DE [Up, From]^
+73 |S1000 599 [73, 5 9 9]^
+VY |S1000 DE [Very, From]^
+73 |S1000 DE [73, From]^
+ES |S1000 CQ [And, C Q]^
+ES |S1000 VY [And, Very]^
+ES |S1000 VY [And, Very]^
+ES |S1000 UP [And, Up]^
+NR |S1000 ES [Number, And]^
+UP |S1000 DE [Up, From]^
+ES |S1000 VY [And, Very]^
+ES |S1000 NR [And, Number]^
+ES |S1000 CQ [And, C Q]^
+NAME |S1000 599 [Name, 5 9 9]^
+ES |S1000 559 [And, 5 5 9]^
+RST |S1000 VY [R S T, Very]^
+ES |S1000 DE [And, From]^
+ES |S1000 CQ [And, C Q]^
+ES |S1000 559 [And, 5 5 9]^
+ES |S1000 NR [And, Number]^
+ES |S1000 DE [And, From]^
+ES |S1000 RST [And, R S T]^
+ES |S1000 NR [And, Number]^
+5NN |S1000 ES [5 N N, And]^
+599 |S1000 CQ [5 9 9, C Q]^
+NAME |S1000 ES [Name, And]^
+VY |S1000 ES [Very, And]^
+RST |S1000 UP [R S T, Up]^
+559 |S1000 RST [5 5 9, R S T]^
+ES |S1000 DE [And, From]^
+ES |S1000 CQ [And, C Q]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 5NN [And, 5 N N]^
+ES |S1000 DE [And, From]^
+VY |S1000 ES [Very, And]^
+RST |S1000 ES [R S T, And]^
+559 |S1000 DE [5 5 9, From]^
+NAME |S1000 NR [Name, Number]^
+UP |S1000 NR [Up, Number]^
+ES |S1000 559 [And, 5 5 9]^
+CQ |S1000 NR [C Q, Number]^
+ES |S1000 559 [And, 5 5 9]^
+ES |S1000 VY [And, Very]^
+ES |S1000 73 [And, 73]^
+ES |S1000 NAME [And, Name]^
+ES |S1000 VY [And, Very]^
+CQ |S1000 RST [C Q, R S T]^
+559 |S1000 ES [5 5 9, And]^
+RST |S1000 73 [R S T, 73]^
+NR |S1000 599 [Number, 5 9 9]^
+ES |S1000 559 [And, 5 5 9]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 VY [And, Very]^
+559 |S1000 VY [5 5 9, Very]^
+ES |S1000 599 [And, 5 9 9]^
+559 |S1000 CQ [5 5 9, C Q]^
+ES |S1000 DE [And, From]^
+CQ |S1000 DE [C Q, From]^
+ES |S1000 RST [And, R S T]^
+ES |S1000 DE [And, From]^
+599 |S1000 UP [5 9 9, Up]^
+DE |S1000 ES [From, And]^
+CQ |S1000 VY [C Q, Very]^
+ES |S1000 RST [And, R S T]^
+ES |S1000 NAME [And, Name]^
+RST |S1000 ES [R S T, And]^
+RST |S1000 ES [R S T, And]^
+NAME |S1000 NR [Name, Number]^
+ES |S1000 5NN [And, 5 N N]^
+CQ |S1000 73 [C Q, 73]^
+ES |S1000 UP [And, Up]^
+ES |S1000 NR [And, Number]^
+UP |S1000 ES [Up, And]^
+RST |S1000 ES [R S T, And]^
+CQ |S1000 ES [C Q, And]^
+DE |S1000 73 [From, 73]^
+CQ |S1000 ES [C Q, And]^
+5NN |S1000 73 [5 N N, 73]^
+RST |S1000 ES [R S T, And]^
+599 |S1000 CQ [5 9 9, C Q]^
+ES |S1000 559 [And, 5 5 9]^
+73 |S1000 UP [73, Up]^
+ES |S1000 599 [And, 5 9 9]^
+NAME |S1000 NR [Name, Number]^
+73 |S1000 ES [73, And]^
 CQ |S1000 ES [C Q, And]^
 NR |S1000 CQ [Number, C Q]^
-ES |S1000 DE [And, From]^
-VY |S1000 ES [Very, And]^
+599 |S1000 559 [5 9 9, 5 5 9]^
 5NN |S1000 ES [5 N N, And]^
-RST |S1000 NR [R S T, Number]^
-DE |S1000 559 [From, 5 5 9]^
-73 |S1000 RST [73, R S T]^
-559 |S1000 ES [5 5 9, And]^
-UP |S1000 ES [Up, And]^
-73 |S1000 ES [73, And]^
-5NN |S1000 ES [5 N N, And]^
-5NN |S1000 ES [5 N N, And]^
-NR |S1000 ES [Number, And]^
-599 |S1000 ES [5 9 9, And]^
-RST |S1000 NAME [R S T, Name]^
-NR |S1000 ES [Number, And]^
-NR |S1000 NAME [Number, Name]^
-ES |S1000 NR [And, Number]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 5NN [And, 5 N N]^
-RST |S1000 73 [R S T, 73]^
-CQ |S1000 5NN [C Q, 5 N N]^
-73 |S1000 DE [73, From]^
-ES |S1000 DE [And, From]^
-599 |S1000 CQ [5 9 9, C Q]^
-ES |S1000 UP [And, Up]^
-RST |S1000 NAME [R S T, Name]^
+DE |S1000 RST [From, R S T]^
 ES |S1000 73 [And, 73]^
-ES |S1000 DE [And, From]^
-NAME |S1000 CQ [Name, C Q]^
-ES |S1000 5NN [And, 5 N N]^
+CQ |S1000 RST [C Q, R S T]^
 UP |S1000 ES [Up, And]^
-VY |S1000 ES [Very, And]^
-73 |S1000 ES [73, And]^
-NAME |S1000 559 [Name, 5 5 9]^
-ES |S1000 NR [And, Number]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 5NN [And, 5 N N]^
-VY |S1000 ES [Very, And]^
+DE |S1000 ES [From, And]^
+NR |S1000 RST [Number, R S T]^
+ES |S1000 559 [And, 5 5 9]^
+599 |S1000 ES [5 9 9, And]^
+CQ |S1000 DE [C Q, From]^
+CQ |S1000 73 [C Q, 73]^
+DE |S1000 VY [From, Very]^
+599 |S1000 ES [5 9 9, And]^
 CQ |S1000 ES [C Q, And]^
-DE |S1000 73 [From, 73]^
-VY |S1000 599 [Very, 5 9 9]^
-UP |S1000 CQ [Up, C Q]^
-NAME |S1000 UP [Name, Up]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 73 [And, 73]^
-ES |S1000 RST [And, R S T]^
-5NN |S1000 CQ [5 N N, C Q]^
-ES |S1000 NR [And, Number]^
-599 |S1000 ES [5 9 9, And]^
-VY |S1000 ES [Very, And]^
-559 |S1000 5NN [5 5 9, 5 N N]^
-ES |S1000 559 [And, 5 5 9]^
-599 |S1000 ES [5 9 9, And]^
-CQ |S1000 5NN [C Q, 5 N N]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 DE [And, From]^
-559 |S1000 5NN [5 5 9, 5 N N]^
-73 |S1000 DE [73, From]^
-ES |S1000 RST [And, R S T]^
-ES |S1000 559 [And, 5 5 9]^
-NAME |S1000 ES [Name, And]^
-5NN |S1000 ES [5 N N, And]^
-VY |S1000 599 [Very, 5 9 9]^
-73 |S1000 ES [73, And]^
-73 |S1000 599 [73, 5 9 9]^
-VY |S1000 ES [Very, And]^
-73 |S1000 ES [73, And]^
-599 |S1000 VY [5 9 9, Very]^
-599 |S1000 ES [5 9 9, And]^
-NAME |S1000 ES [Name, And]^
-559 |S1000 RST [5 5 9, R S T]^
-ES |S1000 NR [And, Number]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 RST [And, R S T]^
-5NN |S1000 559 [5 N N, 5 5 9]^
-5NN |S1000 ES [5 N N, And]^
-73 |S1000 UP [73, Up]^
-VY |S1000 599 [Very, 5 9 9]^
-NAME |S1000 ES [Name, And]^
-559 |S1000 5NN [5 5 9, 5 N N]^
-RST |S1000 NR [R S T, Number]^
-VY |S1000 ES [Very, And]^
 RST |S1000 ES [R S T, And]^
-CQ |S1000 ES [C Q, And]^
-VY |S1000 DE [Very, From]^
-UP |S1000 ES [Up, And]^
-73 |S1000 ES [73, And]^
+5NN |S1000 ES [5 N N, And]^
+NR |S1000 NAME [Number, Name]^
+DE |S1000 ES [From, And]^
+DE |S1000 UP [From, Up]^
+NR |S1000 ES [Number, And]^
+RST |S1000 NAME [R S T, Name]^
+599 |S1000 ES [5 9 9, And]^
+599 |S1000 5NN [5 9 9, 5 N N]^
+RST |S1000 ES [R S T, And]^
+5NN |S1000 NR [5 N N, Number]^
+5NN |S1000 VY [5 N N, Very]^
+NR |S1000 599 [Number, 5 9 9]^
+ES |S1000 VY [And, Very]^
+559 |S1000 NAME [5 5 9, Name]^
+RST |S1000 ES [R S T, And]^
+DE |S1000 73 [From, 73]^
+ES |S1000 DE [And, From]^
+599 |S1000 RST [5 9 9, R S T]^
+599 |S1000 RST [5 9 9, R S T]^
+ES |S1000 73 [And, 73]^
+ES |S1000 559 [And, 5 5 9]^
 DE |S1000 5NN [From, 5 N N]^
 ES |S1000 UP [And, Up]^
-NAME |S1000 ES [Name, And]^
-UP |S1000 ES [Up, And]^
-DE |S1000 ES [From, And]^
-NR |S1000 ES [Number, And]^
-5NN |S1000 ES [5 N N, And]^
-5NN |S1000 ES [5 N N, And]^
-VY |S1000 599 [Very, 5 9 9]^
-CQ |S1000 ES [C Q, And]^
-5NN |S1000 CQ [5 N N, C Q]^
-ES |S1000 DE [And, From]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 5NN [And, 5 N N]^
-NAME |S1000 VY [Name, Very]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 73 [And, 73]^
-NR |S1000 UP [Number, Up]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 NR [And, Number]^
-ES |S1000 VY [And, Very]^
-ES |S1000 599 [And, 5 9 9]^
-NR |S1000 ES [Number, And]^
-599 |S1000 ES [5 9 9, And]^
-NR |S1000 559 [Number, 5 5 9]^
-ES |S1000 559 [And, 5 5 9]^
-RST |S1000 DE [R S T, From]^
-NR |S1000 ES [Number, And]^
-73 |S1000 599 [73, 5 9 9]^
-NAME |S1000 ES [Name, And]^
-VY |S1000 CQ [Very, C Q]^
-ES |S1000 NAME [And, Name]^
-NR |S1000 73 [Number, 73]^
-ES |S1000 NR [And, Number]^
-NAME |S1000 RST [Name, R S T]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 5NN [And, 5 N N]^
-ES |S1000 NR [And, Number]^
-DE |S1000 RST [From, R S T]^
-UP |S1000 599 [Up, 5 9 9]^
-CQ |S1000 73 [C Q, 73]^
-ES |S1000 UP [And, Up]^
-NAME |S1000 ES [Name, And]^
-DE |S1000 ES [From, And]^
-NAME |S1000 DE [Name, From]^
-NAME |S1000 599 [Name, 5 9 9]^
-NAME |S1000 ES [Name, And]^
-CQ |S1000 NR [C Q, Number]^
-RST |S1000 73 [R S T, 73]^
-CQ |S1000 559 [C Q, 5 5 9]^
-DE |S1000 ES [From, And]^
-NAME |S1000 ES [Name, And]^
-599 |S1000 ES [5 9 9, And]^
-5NN |S1000 CQ [5 N N, C Q]^
-RST |S1000 ES [R S T, And]^
-599 |S1000 CQ [5 9 9, C Q]^
-5NN |S1000 ES [5 N N, And]^
-VY |S1000 559 [Very, 5 5 9]^
-NAME |S1000 ES [Name, And]^
-NAME |S1000 5NN [Name, 5 N N]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 VY [And, Very]^
-5NN |S1000 ES [5 N N, And]^
-599 |S1000 73 [5 9 9, 73]^
-NAME |S1000 RST [Name, R S T]^
-ES |S1000 NR [And, Number]^
+73 |S1000 ES [73, And]^
 VY |S1000 ES [Very, And]^
-NAME |S1000 73 [Name, 73]^
-DE |S1000 VY [From, Very]^
-599 |S1000 559 [5 9 9, 5 5 9]^
-599 |S1000 ES [5 9 9, And]^
-559 |S1000 NAME [5 5 9, Name]^
-559 |S1000 NR [5 5 9, Number]^
-VY |S1000 ES [Very, And]^
-RST |S1000 CQ [R S T, C Q]^
-ES |S1000 RST [And, R S T]^
-NR |S1000 RST [Number, R S T]^
-CQ |S1000 73 [C Q, 73]^
-NR |S1000 ES [Number, And]^
-VY |S1000 73 [Very, 73]^
-NAME |S1000 VY [Name, Very]^
-559 |S1000 ES [5 5 9, And]^
-NAME |S1000 599 [Name, 5 9 9]^
-ES |S1000 RST [And, R S T]^
-ES |S1000 599 [And, 5 9 9]^
-NR |S1000 559 [Number, 5 5 9]^
-73 |S1000 DE [73, From]^
-CQ |S1000 NR [C Q, Number]^
-DE |S1000 ES [From, And]^
-VY |S1000 UP [Very, Up]^
-599 |S1000 CQ [5 9 9, C Q]^
-NR |S1000 VY [Number, Very]^
+5NN |S1000 ES [5 N N, And]^
+5NN |S1000 VY [5 N N, Very]^
+5NN |S1000 UP [5 N N, Up]^
+NR |S1000 DE [Number, From]^
 73 |S1000 NR [73, Number]^
-NAME |S1000 ES [Name, And]^
-VY |S1000 ES [Very, And]^
-VY |S1000 ES [Very, And]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 RST [And, R S T]^
+ES |S1000 RST [And, R S T]^
+5NN |S1000 ES [5 N N, And]^
+NR |S1000 5NN [Number, 5 N N]^
+NR |S1000 RST [Number, R S T]^
+559 |S1000 VY [5 5 9, Very]^
+ES |S1000 VY [And, Very]^
+73 |S1000 559 [73, 5 5 9]^
+73 |S1000 UP [73, Up]^
+NR |S1000 CQ [Number, C Q]^
+ES |S1000 73 [And, 73]^
+ES |S1000 73 [And, 73]^
+CQ |S1000 VY [C Q, Very]^
+ES |S1000 NAME [And, Name]^
+ES |S1000 NR [And, Number]^
+DE |S1000 NR [From, Number]^
+73 |S1000 599 [73, 5 9 9]^
+CQ |S1000 ES [C Q, And]^
+RST |S1000 ES [R S T, And]^
+DE |S1000 ES [From, And]^
+559 |S1000 CQ [5 5 9, C Q]^
+ES |S1000 CQ [And, C Q]^
 5NN |S1000 RST [5 N N, R S T]^
+CQ |S1000 5NN [C Q, 5 N N]^
+UP |S1000 NAME [Up, Name]^
+ES |S1000 RST [And, R S T]^
+DE |S1000 559 [From, 5 5 9]^
+ES |S1000 VY [And, Very]^
+DE |S1000 RST [From, R S T]^
+ES |S1000 CQ [And, C Q]^
+5NN |S1000 599 [5 N N, 5 9 9]^
+ES |S1000 73 [And, 73]^
+559 |S1000 ES [5 5 9, And]^
+NAME |S1000 CQ [Name, C Q]^
+5NN |S1000 NAME [5 N N, Name]^
+559 |S1000 VY [5 5 9, Very]^
+73 |S1000 599 [73, 5 9 9]^
+73 |S1000 5NN [73, 5 N N]^
 ES |S1000 DE [And, From]^
+VY |S1000 NAME [Very, Name]^
+ES |S1000 DE [And, From]^
+ES |S1000 DE [And, From]^
+NAME |S1000 73 [Name, 73]^
+559 |S1000 ES [5 5 9, And]^
+NAME |S1000 VY [Name, Very]^
+559 |S1000 73 [5 5 9, 73]^
+ES |S1000 CQ [And, C Q]^
+ES |S1000 559 [And, 5 5 9]^
+CQ |S1000 UP [C Q, Up]^
+RST |S1000 73 [R S T, 73]^
+UP |S1000 VY [Up, Very]^
+ES |S1000 RST [And, R S T]^
+ES |S1000 RST [And, R S T]^
+CQ |S1000 NR [C Q, Number]^
 ES |S1000 NR [And, Number]^
 RST |S1000 5NN [R S T, 5 N N]^
-ES |S1000 NR [And, Number]^
-ES |S1000 73 [And, 73]^
-RST |S1000 UP [R S T, Up]^
-CQ |S1000 ES [C Q, And]^
-DE |S1000 73 [From, 73]^
-ES |S1000 DE [And, From]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 VY [And, Very]^
-559 |S1000 ES [5 5 9, And]^
-73 |S1000 NAME [73, Name]^
-VY |S1000 ES [Very, And]^
-CQ |S1000 VY [C Q, Very]^
-NAME |S1000 5NN [Name, 5 N N]^
-ES |S1000 599 [And, 5 9 9]^
 ES |S1000 CQ [And, C Q]^
-5NN |S1000 ES [5 N N, And]^
-5NN |S1000 CQ [5 N N, C Q]^
-ES |S1000 NR [And, Number]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 5NN [And, 5 N N]^
-RST |S1000 ES [R S T, And]^
-UP |S1000 RST [Up, R S T]^
-ES |S1000 VY [And, Very]^
-ES |S1000 NR [And, Number]^
-ES |S1000 VY [And, Very]^
-ES |S1000 5NN [And, 5 N N]^
-DE |S1000 ES [From, And]^
-5NN |S1000 DE [5 N N, From]^
-RST |S1000 ES [R S T, And]^
-DE |S1000 5NN [From, 5 N N]^
-ES |S1000 UP [And, Up]^
-ES |S1000 559 [And, 5 5 9]^
-ES |S1000 5NN [And, 5 N N]^
-73 |S1000 ES [73, And]^
-559 |S1000 ES [5 5 9, And]^
-VY |S1000 ES [Very, And]^
-NR |S1000 ES [Number, And]^
-73 |S1000 ES [73, And]^
-5NN |S1000 ES [5 N N, And]^
-CQ |S1000 ES [C Q, And]^
-DE |S1000 UP [From, Up]^
-ES |S1000 5NN [And, 5 N N]^
-ES |S1000 DE [And, From]^
-NR |S1000 NAME [Number, Name]^
-ES |S1000 UP [And, Up]^
-599 |S1000 5NN [5 9 9, 5 N N]^
-VY |S1000 ES [Very, And]^
-CQ |S1000 ES [C Q, And]^
-VY |S1000 ES [Very, And]^
-UP |S1000 ES [Up, And]^
-RST |S1000 ES [R S T, And]^
-DE |S1000 ES [From, And]^
-NR |S1000 ES [Number, And]^
-73 |S1000 ES [73, And]^
-VY |S1000 CQ [Very, C Q]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 5NN [And, 5 N N]^
-73 |S1000 NR [73, Number]^
-559 |S1000 ES [5 5 9, And]^
-73 |S1000 NAME [73, Name]^
-ES |S1000 NAME [And, Name]^
-ES |S1000 5NN [And, 5 N N]^
-73 |S1000 ES [73, And]^
-DE |S1000 UP [From, Up]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 RST [And, R S T]^
-559 |S1000 5NN [5 5 9, 5 N N]^
-ES |S1000 DE [And, From]^
-5NN |S1000 VY [5 N N, Very]^
-ES |S1000 NR [And, Number]^
-ES |S1000 VY [And, Very]^
-ES |S1000 CQ [And, C Q]^
-ES |S1000 CQ [And, C Q]^
-DE |S1000 NAME [From, Name]^
-559 |S1000 5NN [5 5 9, 5 N N]^
-DE |S1000 VY [From, Very]^
-CQ |S1000 5NN [C Q, 5 N N]^
-73 |S1000 ES [73, And]^
-NAME |S1000 UP [Name, Up]^
-ES |S1000 NR [And, Number]^
-UP |S1000 ES [Up, And]^
-CQ |S1000 NR [C Q, Number]^
-UP |S1000 VY [Up, Very]^
-5NN |S1000 VY [5 N N, Very]^
-599 |S1000 ES [5 9 9, And]^
 559 |S1000 NR [5 5 9, Number]^
-5NN |S1000 CQ [5 N N, C Q]^
-5NN |S1000 73 [5 N N, 73]^
-ES |S1000 CQ [And, C Q]^
-599 |S1000 NAME [5 9 9, Name]^
-ES |S1000 RST [And, R S T]^
-ES |S1000 NAME [And, Name]^
-VY |S1000 UP [Very, Up]^
-5NN |S1000 UP [5 N N, Up]^
+5NN |S1000 ES [5 N N, And]^
+CQ |S1000 VY [C Q, Very]^
+ES |S1000 599 [And, 5 9 9]^
+ES |S1000 VY [And, Very]^
+ES |S1000 599 [And, 5 9 9]^
 ES |S1000 UP [And, Up]^
+ES |S1000 CQ [And, C Q]^
 ES |S1000 RST [And, R S T]^
 NAME |S1000 ES [Name, And]^
+CQ |S1000 NR [C Q, Number]^
+599 |S1000 RST [5 9 9, R S T]^
+5NN |S1000 ES [5 N N, And]^
+559 |S1000 NAME [5 5 9, Name]^
+ES |S1000 VY [And, Very]^
+ES |S1000 VY [And, Very]^
+RST |S1000 ES [R S T, And]^
+RST |S1000 ES [R S T, And]^
+NAME |S1000 ES [Name, And]^
+VY |S1000 5NN [Very, 5 N N]^
+ES |S1000 73 [And, 73]^
+ES |S1000 73 [And, 73]^
+ES |S1000 RST [And, R S T]^
+CQ |S1000 599 [C Q, 5 9 9]^
+ES |S1000 CQ [And, C Q]^
+ES |S1000 CQ [And, C Q]^
+ES |S1000 CQ [And, C Q]^
+73 |S1000 DE [73, From]^
+559 |S1000 5NN [5 5 9, 5 N N]^
+ES |S1000 NR [And, Number]^
+RST |S1000 ES [R S T, And]^
+UP |S1000 ES [Up, And]^
+NAME |S1000 ES [Name, And]^
+RST |S1000 ES [R S T, And]^
+CQ |S1000 5NN [C Q, 5 N N]^
+559 |S1000 ES [5 5 9, And]^
+5NN |S1000 CQ [5 N N, C Q]^
 559 |S1000 NR [5 5 9, Number]^
+ES |S1000 NAME [And, Name]^
+NR |S1000 ES [Number, And]^
+NR |S1000 CQ [Number, C Q]^
+UP |S1000 ES [Up, And]^
+DE |S1000 RST [From, R S T]^
+ES |S1000 559 [And, 5 5 9]^
+ES |S1000 VY [And, Very]^
+DE |S1000 CQ [From, C Q]^
+5NN |S1000 ES [5 N N, And]^
+UP |S1000 ES [Up, And]^
+NR |S1000 5NN [Number, 5 N N]^
+NR |S1000 5NN [Number, 5 N N]^
+ES |S1000 599 [And, 5 9 9]^
+559 |S1000 NAME [5 5 9, Name]^
+ES |S1000 RST [And, R S T]^
+ES |S1000 VY [And, Very]^
+DE |S1000 ES [From, And]^
+UP |S1000 559 [Up, 5 5 9]^
+NR |S1000 ES [Number, And]^
+DE |S1000 ES [From, And]^
+RST |S1000 ES [R S T, And]^
+RST |S1000 ES [R S T, And]^
+DE |S1000 VY [From, Very]^
+ES |S1000 73 [And, 73]^
+NAME |S1000 ES [Name, And]^
+599 |S1000 RST [5 9 9, R S T]^
+5NN |S1000 NR [5 N N, Number]^
+VY |S1000 ES [Very, And]^
+559 |S1000 CQ [5 5 9, C Q]^
+ES |S1000 CQ [And, C Q]^
+ES |S1000 CQ [And, C Q]^
+VY |S1000 ES [Very, And]^
+73 |S1000 UP [73, Up]^
+ES |S1000 NAME [And, Name]^
 ES |S1000 UP [And, Up]^
-ES |S1000 DE [And, From]^
+73 |S1000 ES [73, And]^
+DE |S1000 UP [From, Up]^
+5NN |S1000 ES [5 N N, And]^
+NR |S1000 ES [Number, And]^
+VY |S1000 CQ [Very, C Q]^
+DE |S1000 NAME [From, Name]^
+DE |S1000 NR [From, Number]^
+599 |S1000 ES [5 9 9, And]^
+DE |S1000 ES [From, And]^
+559 |S1000 ES [5 5 9, And]^
+73 |S1000 ES [73, And]^
+NR |S1000 ES [Number, And]^
+VY |S1000 ES [Very, And]^
+5NN |S1000 NAME [5 N N, Name]^

@@ -1,600 +1,600 @@
-CFM |S1000 QSY [Confirm, Change frequency]^
-MNI |S1000 RX [Many, Receive]^
-PSE |S1000 DR [Please, Dear]^
-QSY |S1000 QRS [Change frequency, Slow speed]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-QRS |S1000 QSY [Slow speed, Change frequency]^
-YL |S1000 PSE [Young lady, Please]^
-QRQ |S1000 RX [High speed, Receive]^
-HR |S1000 HW\? [Hear, How copy\?]^
-OP |S1000 QSY [Operator, Change frequency]^
-RX |S1000 QSY [Receive, Change frequency]^
-PLS |S1000 DR [Please, Dear]^
-TX |S1000 QRS [Transmit, Slow speed]^
-DR |S1000 QRQ [Dear, High speed]^
-PSE |S1000 CFM [Please, Confirm]^
-QSY |S1000 HR [Change frequency, Hear]^
-QSY |S1000 PSE [Change frequency, Please]^
-QSY |S1000 RX [Change frequency, Receive]^
-QSY |S1000 PSE [Change frequency, Please]^
-YL |S1000 HR [Young lady, Hear]^
-QSY |S1000 QRP [Change frequency, Low power]^
-YL |S1000 QSY [Young lady, Change frequency]^
-PLS |S1000 QSY [Please, Change frequency]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-DR |S1000 QSY [Dear, Change frequency]^
-QRP |S1000 QSY [Low power, Change frequency]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-RX |S1000 QRP [Receive, Low power]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-MNI |S1000 RX [Many, Receive]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-TX |S1000 QSY [Transmit, Change frequency]^
-DR |S1000 CFM [Dear, Confirm]^
-RX |S1000 QSY [Receive, Change frequency]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-QRS |S1000 QRQ [Slow speed, High speed]^
-QSY |S1000 OP [Change frequency, Operator]^
-MNI |S1000 QSL [Many, Confirm]^
-QSY |S1000 MNI [Change frequency, Many]^
-TX |S1000 QSY [Transmit, Change frequency]^
-TX |S1000 PSE [Transmit, Please]^
-QRS |S1000 QRP [Slow speed, Low power]^
-MNI |S1000 QSY [Many, Change frequency]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-OP |S1000 QSY [Operator, Change frequency]^
-DR |S1000 RX [Dear, Receive]^
-QSY |S1000 HW\? [Change frequency, How copy\?]^
-QSY |S1000 OP [Change frequency, Operator]^
-PLS |S1000 QRS [Please, Slow speed]^
-RX |S1000 QSY [Receive, Change frequency]^
-QRP |S1000 QSY [Low power, Change frequency]^
-PSE |S1000 QSY [Please, Change frequency]^
-RX |S1000 QRP [Receive, Low power]^
-QRS |S1000 QRP [Slow speed, Low power]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-RX |S1000 DR [Receive, Dear]^
-QSY |S1000 TX [Change frequency, Transmit]^
-QSY |S1000 HW\? [Change frequency, How copy\?]^
-QSY |S1000 OP [Change frequency, Operator]^
-QSY |S1000 PLS [Change frequency, Please]^
-HW\? |S1000 HR [How copy\?, Hear]^
-OP |S1000 QRQ [Operator, High speed]^
-QSY |S1000 TX [Change frequency, Transmit]^
-YL |S1000 QRS [Young lady, Slow speed]^
-PLS |S1000 QSY [Please, Change frequency]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-OP |S1000 QSY [Operator, Change frequency]^
-PLS |S1000 QRP [Please, Low power]^
-CFM |S1000 PLS [Confirm, Please]^
-QSY |S1000 OP [Change frequency, Operator]^
-QSY |S1000 DR [Change frequency, Dear]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-HR |S1000 QSY [Hear, Change frequency]^
-QSL |S1000 QRQ [Confirm, High speed]^
-DR |S1000 QSY [Dear, Change frequency]^
-RX |S1000 QSY [Receive, Change frequency]^
-QSL |S1000 QRP [Confirm, Low power]^
-CFM |S1000 OP [Confirm, Operator]^
-CFM |S1000 MNI [Confirm, Many]^
-QSY |S1000 CFM [Change frequency, Confirm]^
-QRS |S1000 QSY [Slow speed, Change frequency]^
-RX |S1000 QSY [Receive, Change frequency]^
-MNI |S1000 DR [Many, Dear]^
-QSY |S1000 OP [Change frequency, Operator]^
-PLS |S1000 QSY [Please, Change frequency]^
-QRS |S1000 QRP [Slow speed, Low power]^
-QSY |S1000 DR [Change frequency, Dear]^
-QSY |S1000 OP [Change frequency, Operator]^
-QSL |S1000 RX [Confirm, Receive]^
-HR |S1000 QSY [Hear, Change frequency]^
-QRQ |S1000 PLS [High speed, Please]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-OP |S1000 QRP [Operator, Low power]^
-QRQ |S1000 QRP [High speed, Low power]^
-QSY |S1000 HR [Change frequency, Hear]^
-QRS |S1000 MNI [Slow speed, Many]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-YL |S1000 QRS [Young lady, Slow speed]^
-MNI |S1000 QSY [Many, Change frequency]^
-HW\? |S1000 PSE [How copy\?, Please]^
-QSY |S1000 PLS [Change frequency, Please]^
-QSY |S1000 HW\? [Change frequency, How copy\?]^
-YL |S1000 QSY [Young lady, Change frequency]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-QRS |S1000 PLS [Slow speed, Please]^
-QRQ |S1000 MNI [High speed, Many]^
-PLS |S1000 PSE [Please, Please]^
-CFM |S1000 DR [Confirm, Dear]^
-QSY |S1000 YL [Change frequency, Young lady]^
-QSY |S1000 HW\? [Change frequency, How copy\?]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-OP |S1000 QSY [Operator, Change frequency]^
-PLS |S1000 DR [Please, Dear]^
-QSY |S1000 DR [Change frequency, Dear]^
-QRQ |S1000 QRS [High speed, Slow speed]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-QRP |S1000 QSY [Low power, Change frequency]^
-PSE |S1000 QSY [Please, Change frequency]^
-OP |S1000 QSY [Operator, Change frequency]^
-DR |S1000 QSY [Dear, Change frequency]^
-PSE |S1000 CFM [Please, Confirm]^
-TX |S1000 QSY [Transmit, Change frequency]^
-MNI |S1000 QSY [Many, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-QSL |S1000 PLS [Confirm, Please]^
-QRP |S1000 CFM [Low power, Confirm]^
-HW\? |S1000 QSL [How copy\?, Confirm]^
-QSY |S1000 QRS [Change frequency, Slow speed]^
-YL |S1000 PSE [Young lady, Please]^
-OP |S1000 PLS [Operator, Please]^
-QSY |S1000 PSE [Change frequency, Please]^
-QSY |S1000 YL [Change frequency, Young lady]^
-QSY |S1000 PSE [Change frequency, Please]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-QSY |S1000 YL [Change frequency, Young lady]^
-HW\? |S1000 QSL [How copy\?, Confirm]^
-MNI |S1000 DR [Many, Dear]^
-QSY |S1000 HR [Change frequency, Hear]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-QRQ |S1000 OP [High speed, Operator]^
-QSY |S1000 OP [Change frequency, Operator]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-OP |S1000 QSY [Operator, Change frequency]^
-HR |S1000 QSY [Hear, Change frequency]^
-OP |S1000 QRQ [Operator, High speed]^
-PSE |S1000 OP [Please, Operator]^
-QSY |S1000 TX [Change frequency, Transmit]^
-QSY |S1000 DR [Change frequency, Dear]^
-HW\? |S1000 DR [How copy\?, Dear]^
-QSY |S1000 DR [Change frequency, Dear]^
-HR |S1000 OP [Hear, Operator]^
-QSY |S1000 HW\? [Change frequency, How copy\?]^
-QSY |S1000 HW\? [Change frequency, How copy\?]^
-PLS |S1000 QSY [Please, Change frequency]^
-PSE |S1000 TX [Please, Transmit]^
-HR |S1000 QSY [Hear, Change frequency]^
-HW\? |S1000 RX [How copy\?, Receive]^
-PSE |S1000 QRP [Please, Low power]^
-QSY |S1000 QRS [Change frequency, Slow speed]^
-QRP |S1000 QSL [Low power, Confirm]^
-HR |S1000 PSE [Hear, Please]^
-QSY |S1000 MNI [Change frequency, Many]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-DR |S1000 QSY [Dear, Change frequency]^
-OP |S1000 QSY [Operator, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-QRS |S1000 QRQ [Slow speed, High speed]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-QSY |S1000 PLS [Change frequency, Please]^
-OP |S1000 PSE [Operator, Please]^
-QSY |S1000 PLS [Change frequency, Please]^
-RX |S1000 TX [Receive, Transmit]^
-PSE |S1000 QSY [Please, Change frequency]^
-MNI |S1000 QSY [Many, Change frequency]^
-PLS |S1000 QSY [Please, Change frequency]^
-TX |S1000 OP [Transmit, Operator]^
-QRQ |S1000 PLS [High speed, Please]^
-QSY |S1000 QRS [Change frequency, Slow speed]^
-QRQ |S1000 MNI [High speed, Many]^
-PLS |S1000 DR [Please, Dear]^
-QSY |S1000 DR [Change frequency, Dear]^
-QSY |S1000 MNI [Change frequency, Many]^
-QSY |S1000 PLS [Change frequency, Please]^
-PSE |S1000 QSL [Please, Confirm]^
-OP |S1000 QSY [Operator, Change frequency]^
-QRP |S1000 QRQ [Low power, High speed]^
-TX |S1000 DR [Transmit, Dear]^
-QRQ |S1000 CFM [High speed, Confirm]^
-QSY |S1000 QRS [Change frequency, Slow speed]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-TX |S1000 MNI [Transmit, Many]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-QRP |S1000 QSY [Low power, Change frequency]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-MNI |S1000 PLS [Many, Please]^
-QRQ |S1000 YL [High speed, Young lady]^
-TX |S1000 HR [Transmit, Hear]^
-QRP |S1000 PLS [Low power, Please]^
-CFM |S1000 QSL [Confirm, Confirm]^
-RX |S1000 QSY [Receive, Change frequency]^
-QRS |S1000 QSL [Slow speed, Confirm]^
-YL |S1000 QSY [Young lady, Change frequency]^
-QRP |S1000 QRQ [Low power, High speed]^
-QSY |S1000 QRS [Change frequency, Slow speed]^
-QSY |S1000 PLS [Change frequency, Please]^
-QSY |S1000 MNI [Change frequency, Many]^
-HR |S1000 QSY [Hear, Change frequency]^
-CFM |S1000 QRS [Confirm, Slow speed]^
-QSY |S1000 HR [Change frequency, Hear]^
-OP |S1000 CFM [Operator, Confirm]^
-YL |S1000 QSY [Young lady, Change frequency]^
-YL |S1000 HW\? [Young lady, How copy\?]^
-QSY |S1000 QRS [Change frequency, Slow speed]^
-HR |S1000 QSY [Hear, Change frequency]^
-RX |S1000 TX [Receive, Transmit]^
-MNI |S1000 TX [Many, Transmit]^
-YL |S1000 PSE [Young lady, Please]^
-DR |S1000 QSY [Dear, Change frequency]^
-TX |S1000 QSY [Transmit, Change frequency]^
-HR |S1000 QSY [Hear, Change frequency]^
-TX |S1000 QSL [Transmit, Confirm]^
-QSY |S1000 DR [Change frequency, Dear]^
-QSY |S1000 PLS [Change frequency, Please]^
-DR |S1000 QSY [Dear, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-QSL |S1000 HR [Confirm, Hear]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-CFM |S1000 QSL [Confirm, Confirm]^
-RX |S1000 YL [Receive, Young lady]^
-QSY |S1000 RX [Change frequency, Receive]^
-QSY |S1000 QRP [Change frequency, Low power]^
-OP |S1000 PSE [Operator, Please]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-HW\? |S1000 HR [How copy\?, Hear]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-YL |S1000 PSE [Young lady, Please]^
-PLS |S1000 HW\? [Please, How copy\?]^
-QSY |S1000 QRP [Change frequency, Low power]^
-OP |S1000 QSY [Operator, Change frequency]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-DR |S1000 TX [Dear, Transmit]^
-QSY |S1000 TX [Change frequency, Transmit]^
-HR |S1000 PLS [Hear, Please]^
-QSY |S1000 DR [Change frequency, Dear]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-QRS |S1000 YL [Slow speed, Young lady]^
-MNI |S1000 QSY [Many, Change frequency]^
-HR |S1000 CFM [Hear, Confirm]^
-QSY |S1000 HR [Change frequency, Hear]^
-OP |S1000 QSY [Operator, Change frequency]^
-DR |S1000 CFM [Dear, Confirm]^
-TX |S1000 QSY [Transmit, Change frequency]^
-HW\? |S1000 HR [How copy\?, Hear]^
-QRP |S1000 MNI [Low power, Many]^
-QRS |S1000 QSY [Slow speed, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-QSL |S1000 DR [Confirm, Dear]^
-QSY |S1000 RX [Change frequency, Receive]^
-TX |S1000 YL [Transmit, Young lady]^
-HW\? |S1000 RX [How copy\?, Receive]^
-TX |S1000 PSE [Transmit, Please]^
-QSY |S1000 PLS [Change frequency, Please]^
-QSY |S1000 PLS [Change frequency, Please]^
-QSY |S1000 MNI [Change frequency, Many]^
-QSY |S1000 MNI [Change frequency, Many]^
-QRS |S1000 CFM [Slow speed, Confirm]^
-HW\? |S1000 YL [How copy\?, Young lady]^
-QSL |S1000 DR [Confirm, Dear]^
-CFM |S1000 YL [Confirm, Young lady]^
-QSY |S1000 PLS [Change frequency, Please]^
-QSY |S1000 OP [Change frequency, Operator]^
-QSY |S1000 TX [Change frequency, Transmit]^
-PSE |S1000 QSY [Please, Change frequency]^
-DR |S1000 QSY [Dear, Change frequency]^
-PSE |S1000 PLS [Please, Please]^
-QRP |S1000 DR [Low power, Dear]^
-PSE |S1000 QSL [Please, Confirm]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-PSE |S1000 QSY [Please, Change frequency]^
-MNI |S1000 QSY [Many, Change frequency]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-MNI |S1000 YL [Many, Young lady]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-RX |S1000 QSY [Receive, Change frequency]^
-QRQ |S1000 HR [High speed, Hear]^
-QSY |S1000 PSE [Change frequency, Please]^
-RX |S1000 QRS [Receive, Slow speed]^
-YL |S1000 QSY [Young lady, Change frequency]^
-PSE |S1000 QSY [Please, Change frequency]^
-HR |S1000 MNI [Hear, Many]^
-QSL |S1000 RX [Confirm, Receive]^
-MNI |S1000 RX [Many, Receive]^
-PLS |S1000 QSY [Please, Change frequency]^
-OP |S1000 RX [Operator, Receive]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-QSY |S1000 YL [Change frequency, Young lady]^
-QSY |S1000 TX [Change frequency, Transmit]^
-QSY |S1000 QRS [Change frequency, Slow speed]^
-PSE |S1000 QSL [Please, Confirm]^
-QRS |S1000 OP [Slow speed, Operator]^
-RX |S1000 QSY [Receive, Change frequency]^
-TX |S1000 QSY [Transmit, Change frequency]^
-OP |S1000 QSY [Operator, Change frequency]^
-HR |S1000 QRS [Hear, Slow speed]^
-YL |S1000 OP [Young lady, Operator]^
-HR |S1000 TX [Hear, Transmit]^
-RX |S1000 QSY [Receive, Change frequency]^
-MNI |S1000 PSE [Many, Please]^
-QSY |S1000 YL [Change frequency, Young lady]^
-MNI |S1000 QSY [Many, Change frequency]^
-YL |S1000 PSE [Young lady, Please]^
-QSY |S1000 PLS [Change frequency, Please]^
-YL |S1000 QSY [Young lady, Change frequency]^
-PSE |S1000 QRQ [Please, High speed]^
-QRS |S1000 QSY [Slow speed, Change frequency]^
-HW\? |S1000 YL [How copy\?, Young lady]^
-QSY |S1000 QRP [Change frequency, Low power]^
-OP |S1000 PSE [Operator, Please]^
-QRQ |S1000 MNI [High speed, Many]^
-PSE |S1000 QSY [Please, Change frequency]^
-QSL |S1000 CFM [Confirm, Confirm]^
-QSY |S1000 PSE [Change frequency, Please]^
-CFM |S1000 DR [Confirm, Dear]^
-YL |S1000 QSL [Young lady, Confirm]^
-QSY |S1000 PSE [Change frequency, Please]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-QSY |S1000 CFM [Change frequency, Confirm]^
-QRQ |S1000 HW\? [High speed, How copy\?]^
-QSY |S1000 PSE [Change frequency, Please]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-TX |S1000 QSY [Transmit, Change frequency]^
-RX |S1000 QRQ [Receive, High speed]^
-QSY |S1000 CFM [Change frequency, Confirm]^
-QSY |S1000 YL [Change frequency, Young lady]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-QRS |S1000 QSY [Slow speed, Change frequency]^
-OP |S1000 HW\? [Operator, How copy\?]^
-YL |S1000 QSY [Young lady, Change frequency]^
-MNI |S1000 QSY [Many, Change frequency]^
-PSE |S1000 QSY [Please, Change frequency]^
-QRQ |S1000 RX [High speed, Receive]^
-DR |S1000 YL [Dear, Young lady]^
-QSY |S1000 QRP [Change frequency, Low power]^
-QRS |S1000 OP [Slow speed, Operator]^
-QRQ |S1000 HW\? [High speed, How copy\?]^
-RX |S1000 QSY [Receive, Change frequency]^
-YL |S1000 PLS [Young lady, Please]^
-QSY |S1000 YL [Change frequency, Young lady]^
-QSY |S1000 HW\? [Change frequency, How copy\?]^
-HR |S1000 QRP [Hear, Low power]^
-TX |S1000 QSY [Transmit, Change frequency]^
-HW\? |S1000 QRP [How copy\?, Low power]^
-QSY |S1000 MNI [Change frequency, Many]^
-TX |S1000 PSE [Transmit, Please]^
-HR |S1000 DR [Hear, Dear]^
-QSY |S1000 QRP [Change frequency, Low power]^
-QSY |S1000 OP [Change frequency, Operator]^
-TX |S1000 QRS [Transmit, Slow speed]^
-QSY |S1000 QRP [Change frequency, Low power]^
-MNI |S1000 QSY [Many, Change frequency]^
-CFM |S1000 RX [Confirm, Receive]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-QSY |S1000 CFM [Change frequency, Confirm]^
-QRS |S1000 QSY [Slow speed, Change frequency]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-QSL |S1000 MNI [Confirm, Many]^
-RX |S1000 QSY [Receive, Change frequency]^
-MNI |S1000 QRS [Many, Slow speed]^
-OP |S1000 PLS [Operator, Please]^
-RX |S1000 QRQ [Receive, High speed]^
-DR |S1000 MNI [Dear, Many]^
-YL |S1000 HW\? [Young lady, How copy\?]^
-HR |S1000 DR [Hear, Dear]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-RX |S1000 QSY [Receive, Change frequency]^
-TX |S1000 QSL [Transmit, Confirm]^
-TX |S1000 QSY [Transmit, Change frequency]^
-MNI |S1000 QSY [Many, Change frequency]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-QRS |S1000 QSY [Slow speed, Change frequency]^
-DR |S1000 QSY [Dear, Change frequency]^
-YL |S1000 DR [Young lady, Dear]^
-QSL |S1000 QRP [Confirm, Low power]^
-MNI |S1000 PLS [Many, Please]^
-QSY |S1000 CFM [Change frequency, Confirm]^
-RX |S1000 HW\? [Receive, How copy\?]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-HR |S1000 QSY [Hear, Change frequency]^
-RX |S1000 QSY [Receive, Change frequency]^
-YL |S1000 OP [Young lady, Operator]^
-QSY |S1000 PLS [Change frequency, Please]^
-QSY |S1000 YL [Change frequency, Young lady]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-HR |S1000 QRQ [Hear, High speed]^
-QSY |S1000 OP [Change frequency, Operator]^
-HR |S1000 RX [Hear, Receive]^
-HW\? |S1000 CFM [How copy\?, Confirm]^
-QSY |S1000 RX [Change frequency, Receive]^
-YL |S1000 QSY [Young lady, Change frequency]^
-QRQ |S1000 DR [High speed, Dear]^
-HR |S1000 PLS [Hear, Please]^
-CFM |S1000 QRQ [Confirm, High speed]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-TX |S1000 QSY [Transmit, Change frequency]^
-QRP |S1000 QSY [Low power, Change frequency]^
-QSL |S1000 HR [Confirm, Hear]^
-QSY |S1000 PSE [Change frequency, Please]^
-QSY |S1000 QRS [Change frequency, Slow speed]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-TX |S1000 QRS [Transmit, Slow speed]^
-PLS |S1000 QSL [Please, Confirm]^
-QSY |S1000 PSE [Change frequency, Please]^
-HW\? |S1000 YL [How copy\?, Young lady]^
-QSY |S1000 RX [Change frequency, Receive]^
-QSY |S1000 MNI [Change frequency, Many]^
-DR |S1000 PLS [Dear, Please]^
-QSY |S1000 RX [Change frequency, Receive]^
-QSY |S1000 MNI [Change frequency, Many]^
-YL |S1000 QSL [Young lady, Confirm]^
-QSY |S1000 PSE [Change frequency, Please]^
-QSY |S1000 YL [Change frequency, Young lady]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-PLS |S1000 HR [Please, Hear]^
-QSY |S1000 HR [Change frequency, Hear]^
-MNI |S1000 QSY [Many, Change frequency]^
-HR |S1000 MNI [Hear, Many]^
-HR |S1000 QSY [Hear, Change frequency]^
-HW\? |S1000 QRP [How copy\?, Low power]^
-CFM |S1000 YL [Confirm, Young lady]^
-TX |S1000 YL [Transmit, Young lady]^
-QSL |S1000 HR [Confirm, Hear]^
-QSY |S1000 DR [Change frequency, Dear]^
-QSY |S1000 TX [Change frequency, Transmit]^
-QSY |S1000 PSE [Change frequency, Please]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-DR |S1000 MNI [Dear, Many]^
-TX |S1000 QSY [Transmit, Change frequency]^
-CFM |S1000 OP [Confirm, Operator]^
-HR |S1000 QSY [Hear, Change frequency]^
-TX |S1000 QSY [Transmit, Change frequency]^
-DR |S1000 QSY [Dear, Change frequency]^
-HW\? |S1000 QRQ [How copy\?, High speed]^
-DR |S1000 QRQ [Dear, High speed]^
-HR |S1000 QRP [Hear, Low power]^
-OP |S1000 QSL [Operator, Confirm]^
-RX |S1000 QRQ [Receive, High speed]^
-QSY |S1000 HR [Change frequency, Hear]^
-QSY |S1000 OP [Change frequency, Operator]^
-DR |S1000 QSY [Dear, Change frequency]^
-QRS |S1000 PLS [Slow speed, Please]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-TX |S1000 OP [Transmit, Operator]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-QSY |S1000 MNI [Change frequency, Many]^
-QSY |S1000 HR [Change frequency, Hear]^
-QRP |S1000 QSL [Low power, Confirm]^
-QSY |S1000 HR [Change frequency, Hear]^
-QSY |S1000 PLS [Change frequency, Please]^
+QSY |S1000 RX [Q S Y, Receive]^
+QSY |S1000 HR [Q S Y, Hear]^
+MNI |S1000 QSY [Many, Q S Y]^
+YL |S1000 QSY [Young lady, Q S Y]^
+QRQ |S1000 HW\? [Q R Q, How copy\?]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+QRS |S1000 OP [Q R S, Operator]^
+QSY |S1000 QRS [Q S Y, Q R S]^
 PSE |S1000 YL [Please, Young lady]^
-OP |S1000 QSY [Operator, Change frequency]^
-MNI |S1000 QRP [Many, Low power]^
-QSY |S1000 QRP [Change frequency, Low power]^
-QSY |S1000 DR [Change frequency, Dear]^
-QSY |S1000 HR [Change frequency, Hear]^
-MNI |S1000 QSY [Many, Change frequency]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-PLS |S1000 QSY [Please, Change frequency]^
-OP |S1000 HR [Operator, Hear]^
-PSE |S1000 QSY [Please, Change frequency]^
-TX |S1000 QRS [Transmit, Slow speed]^
-PSE |S1000 QSY [Please, Change frequency]^
-PLS |S1000 QSY [Please, Change frequency]^
-PSE |S1000 MNI [Please, Many]^
-QSY |S1000 DR [Change frequency, Dear]^
-QRQ |S1000 TX [High speed, Transmit]^
-HR |S1000 MNI [Hear, Many]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-DR |S1000 RX [Dear, Receive]^
-QSY |S1000 QRP [Change frequency, Low power]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-PLS |S1000 YL [Please, Young lady]^
-QSY |S1000 PLS [Change frequency, Please]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-PLS |S1000 QSY [Please, Change frequency]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-QRS |S1000 PSE [Slow speed, Please]^
-QRS |S1000 QSY [Slow speed, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-RX |S1000 QSY [Receive, Change frequency]^
-TX |S1000 HW\? [Transmit, How copy\?]^
-QRS |S1000 QRP [Slow speed, Low power]^
-QSL |S1000 DR [Confirm, Dear]^
-QRP |S1000 QRS [Low power, Slow speed]^
-RX |S1000 QRS [Receive, Slow speed]^
-RX |S1000 QSY [Receive, Change frequency]^
-RX |S1000 QSY [Receive, Change frequency]^
-YL |S1000 QSY [Young lady, Change frequency]^
-DR |S1000 QSY [Dear, Change frequency]^
-QRS |S1000 QSY [Slow speed, Change frequency]^
-PLS |S1000 YL [Please, Young lady]^
-QSY |S1000 QRP [Change frequency, Low power]^
-YL |S1000 QSY [Young lady, Change frequency]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-PLS |S1000 QSY [Please, Change frequency]^
-CFM |S1000 RX [Confirm, Receive]^
-QSY |S1000 MNI [Change frequency, Many]^
-TX |S1000 QRS [Transmit, Slow speed]^
-QSY |S1000 OP [Change frequency, Operator]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-QSY |S1000 YL [Change frequency, Young lady]^
-QSY |S1000 TX [Change frequency, Transmit]^
-PLS |S1000 QSY [Please, Change frequency]^
-MNI |S1000 TX [Many, Transmit]^
-QSL |S1000 RX [Confirm, Receive]^
-HW\? |S1000 HR [How copy\?, Hear]^
-QSY |S1000 MNI [Change frequency, Many]^
-RX |S1000 DR [Receive, Dear]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-CFM |S1000 TX [Confirm, Transmit]^
-PSE |S1000 QSY [Please, Change frequency]^
-HR |S1000 QSY [Hear, Change frequency]^
-DR |S1000 OP [Dear, Operator]^
-PLS |S1000 QRQ [Please, High speed]^
-HW\? |S1000 RX [How copy\?, Receive]^
-QSY |S1000 CFM [Change frequency, Confirm]^
-QRS |S1000 HW\? [Slow speed, How copy\?]^
-MNI |S1000 OP [Many, Operator]^
-QSY |S1000 QRQ [Change frequency, High speed]^
-QSY |S1000 QSL [Change frequency, Confirm]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
-QSL |S1000 PLS [Confirm, Please]^
-QSL |S1000 PSE [Confirm, Please]^
-QSY |S1000 QSL [Change frequency, Confirm]^
+PLS |S1000 QSY [Please, Q S Y]^
+CFM |S1000 PSE [Confirm, Please]^
+QRQ |S1000 DR [Q R Q, Dear]^
+QSY |S1000 QSL [Q S Y, Q S L]^
 YL |S1000 MNI [Young lady, Many]^
-QRS |S1000 QSY [Slow speed, Change frequency]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-CFM |S1000 QRQ [Confirm, High speed]^
-HR |S1000 QSY [Hear, Change frequency]^
-PSE |S1000 QSY [Please, Change frequency]^
-HW\? |S1000 QSL [How copy\?, Confirm]^
-CFM |S1000 OP [Confirm, Operator]^
-QSY |S1000 TX [Change frequency, Transmit]^
-QRQ |S1000 QSY [High speed, Change frequency]^
-HR |S1000 DR [Hear, Dear]^
-QSY |S1000 HW\? [Change frequency, How copy\?]^
-OP |S1000 MNI [Operator, Many]^
-TX |S1000 QSY [Transmit, Change frequency]^
-HW\? |S1000 QSL [How copy\?, Confirm]^
-HR |S1000 QSY [Hear, Change frequency]^
-HR |S1000 QSY [Hear, Change frequency]^
-OP |S1000 MNI [Operator, Many]^
-QSY |S1000 MNI [Change frequency, Many]^
-PLS |S1000 QSY [Please, Change frequency]^
-QRQ |S1000 QSL [High speed, Confirm]^
-QSY |S1000 RX [Change frequency, Receive]^
-QSL |S1000 PSE [Confirm, Please]^
-QRP |S1000 QSY [Low power, Change frequency]^
-MNI |S1000 OP [Many, Operator]^
-QSY |S1000 MNI [Change frequency, Many]^
-QSY |S1000 PLS [Change frequency, Please]^
-HR |S1000 QSY [Hear, Change frequency]^
-QRP |S1000 QSY [Low power, Change frequency]^
-QSL |S1000 QSY [Confirm, Change frequency]^
-CFM |S1000 YL [Confirm, Young lady]^
-DR |S1000 QSY [Dear, Change frequency]^
-QRP |S1000 QSY [Low power, Change frequency]^
-HW\? |S1000 PLS [How copy\?, Please]^
-QRP |S1000 DR [Low power, Dear]^
-RX |S1000 QSY [Receive, Change frequency]^
-RX |S1000 TX [Receive, Transmit]^
-QSY |S1000 OP [Change frequency, Operator]^
-QSY |S1000 QRP [Change frequency, Low power]^
-PSE |S1000 QSY [Please, Change frequency]^
-MNI |S1000 QSY [Many, Change frequency]^
-OP |S1000 QSY [Operator, Change frequency]^
-CFM |S1000 QSY [Confirm, Change frequency]^
-HR |S1000 QRQ [Hear, High speed]^
-TX |S1000 QSY [Transmit, Change frequency]^
-HW\? |S1000 QSY [How copy\?, Change frequency]^
+QRQ |S1000 TX [Q R Q, Transmit]^
+QSY |S1000 RX [Q S Y, Receive]^
+QSY |S1000 OP [Q S Y, Operator]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+HR |S1000 QSY [Hear, Q S Y]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+QRS |S1000 HW\? [Q R S, How copy\?]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+OP |S1000 QSY [Operator, Q S Y]^
+RX |S1000 QSY [Receive, Q S Y]^
+MNI |S1000 HR [Many, Hear]^
+OP |S1000 QSY [Operator, Q S Y]^
+PLS |S1000 CFM [Please, Confirm]^
+QSY |S1000 OP [Q S Y, Operator]^
+DR |S1000 QSY [Dear, Q S Y]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+QRP |S1000 QSL [Q R P, Q S L]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+MNI |S1000 QSY [Many, Q S Y]^
+DR |S1000 RX [Dear, Receive]^
+YL |S1000 QSY [Young lady, Q S Y]^
+QRQ |S1000 TX [Q R Q, Transmit]^
+OP |S1000 QSY [Operator, Q S Y]^
+QSL |S1000 HR [Q S L, Hear]^
+RX |S1000 QSY [Receive, Q S Y]^
+HR |S1000 PSE [Hear, Please]^
+QSL |S1000 CFM [Q S L, Confirm]^
+QSY |S1000 RX [Q S Y, Receive]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+QSY |S1000 TX [Q S Y, Transmit]^
+QSY |S1000 HR [Q S Y, Hear]^
+QSY |S1000 HR [Q S Y, Hear]^
+HW\? |S1000 TX [How copy\?, Transmit]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+HR |S1000 QSY [Hear, Q S Y]^
+YL |S1000 QSY [Young lady, Q S Y]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+MNI |S1000 YL [Many, Young lady]^
+PLS |S1000 QRQ [Please, Q R Q]^
+MNI |S1000 QRP [Many, Q R P]^
+QSY |S1000 PLS [Q S Y, Please]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+RX |S1000 DR [Receive, Dear]^
+QSY |S1000 RX [Q S Y, Receive]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+OP |S1000 QSY [Operator, Q S Y]^
+HR |S1000 HW\? [Hear, How copy\?]^
+QSY |S1000 YL [Q S Y, Young lady]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+TX |S1000 PLS [Transmit, Please]^
+QSY |S1000 PSE [Q S Y, Please]^
+RX |S1000 QSY [Receive, Q S Y]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+TX |S1000 QSY [Transmit, Q S Y]^
+PSE |S1000 QRP [Please, Q R P]^
+RX |S1000 PSE [Receive, Please]^
+RX |S1000 PLS [Receive, Please]^
+RX |S1000 YL [Receive, Young lady]^
+QSY |S1000 PLS [Q S Y, Please]^
+PSE |S1000 QSY [Please, Q S Y]^
+MNI |S1000 YL [Many, Young lady]^
+HR |S1000 QSY [Hear, Q S Y]^
+YL |S1000 CFM [Young lady, Confirm]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+RX |S1000 DR [Receive, Dear]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+YL |S1000 QSY [Young lady, Q S Y]^
+CFM |S1000 MNI [Confirm, Many]^
+QRS |S1000 TX [Q R S, Transmit]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+QSY |S1000 QSL [Q S Y, Q S L]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+DR |S1000 QSY [Dear, Q S Y]^
+OP |S1000 YL [Operator, Young lady]^
+RX |S1000 QRQ [Receive, Q R Q]^
+DR |S1000 RX [Dear, Receive]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+QSY |S1000 HR [Q S Y, Hear]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+MNI |S1000 QSY [Many, Q S Y]^
+PLS |S1000 QSY [Please, Q S Y]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+CFM |S1000 QRQ [Confirm, Q R Q]^
+QSY |S1000 OP [Q S Y, Operator]^
+QSY |S1000 TX [Q S Y, Transmit]^
+DR |S1000 PLS [Dear, Please]^
+QRP |S1000 OP [Q R P, Operator]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+RX |S1000 QSY [Receive, Q S Y]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+CFM |S1000 QRS [Confirm, Q R S]^
+MNI |S1000 QRP [Many, Q R P]^
+PLS |S1000 YL [Please, Young lady]^
+QRS |S1000 HR [Q R S, Hear]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+PSE |S1000 CFM [Please, Confirm]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+MNI |S1000 QSY [Many, Q S Y]^
+RX |S1000 QSY [Receive, Q S Y]^
+OP |S1000 HR [Operator, Hear]^
+QRP |S1000 PSE [Q R P, Please]^
+RX |S1000 CFM [Receive, Confirm]^
+HR |S1000 QSY [Hear, Q S Y]^
+QSL |S1000 MNI [Q S L, Many]^
+QSY |S1000 RX [Q S Y, Receive]^
+OP |S1000 TX [Operator, Transmit]^
+QSY |S1000 MNI [Q S Y, Many]^
+OP |S1000 QSY [Operator, Q S Y]^
+RX |S1000 QSY [Receive, Q S Y]^
+DR |S1000 MNI [Dear, Many]^
+HW\? |S1000 PSE [How copy\?, Please]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+TX |S1000 YL [Transmit, Young lady]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+YL |S1000 QSY [Young lady, Q S Y]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+OP |S1000 DR [Operator, Dear]^
+QSY |S1000 YL [Q S Y, Young lady]^
+QSL |S1000 YL [Q S L, Young lady]^
+TX |S1000 DR [Transmit, Dear]^
+RX |S1000 QSY [Receive, Q S Y]^
+YL |S1000 TX [Young lady, Transmit]^
+OP |S1000 HR [Operator, Hear]^
+QSY |S1000 RX [Q S Y, Receive]^
+QSY |S1000 HR [Q S Y, Hear]^
+QSY |S1000 YL [Q S Y, Young lady]^
+QSY |S1000 PSE [Q S Y, Please]^
+QSY |S1000 HR [Q S Y, Hear]^
+QSL |S1000 QRS [Q S L, Q R S]^
+MNI |S1000 HW\? [Many, How copy\?]^
+OP |S1000 PLS [Operator, Please]^
+RX |S1000 OP [Receive, Operator]^
+PLS |S1000 QRP [Please, Q R P]^
+PSE |S1000 HW\? [Please, How copy\?]^
+PLS |S1000 QSY [Please, Q S Y]^
+OP |S1000 QSY [Operator, Q S Y]^
+MNI |S1000 PSE [Many, Please]^
+QSY |S1000 OP [Q S Y, Operator]^
+QSY |S1000 PLS [Q S Y, Please]^
+CFM |S1000 PLS [Confirm, Please]^
+DR |S1000 QSY [Dear, Q S Y]^
+QRP |S1000 QRQ [Q R P, Q R Q]^
+OP |S1000 PSE [Operator, Please]^
+QSY |S1000 RX [Q S Y, Receive]^
+QSL |S1000 QRP [Q S L, Q R P]^
+CFM |S1000 TX [Confirm, Transmit]^
+RX |S1000 QSY [Receive, Q S Y]^
+YL |S1000 QSY [Young lady, Q S Y]^
+QRP |S1000 CFM [Q R P, Confirm]^
+QRQ |S1000 MNI [Q R Q, Many]^
+YL |S1000 DR [Young lady, Dear]^
+TX |S1000 QSY [Transmit, Q S Y]^
+QRQ |S1000 PLS [Q R Q, Please]^
+RX |S1000 QSY [Receive, Q S Y]^
+DR |S1000 QRP [Dear, Q R P]^
+QSY |S1000 PLS [Q S Y, Please]^
+PSE |S1000 QRS [Please, Q R S]^
+QSY |S1000 OP [Q S Y, Operator]^
+QSY |S1000 YL [Q S Y, Young lady]^
+OP |S1000 QSY [Operator, Q S Y]^
+TX |S1000 OP [Transmit, Operator]^
+QRS |S1000 DR [Q R S, Dear]^
+QRQ |S1000 QSL [Q R Q, Q S L]^
+QSY |S1000 PLS [Q S Y, Please]^
+QSY |S1000 YL [Q S Y, Young lady]^
+QSY |S1000 RX [Q S Y, Receive]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+YL |S1000 QRP [Young lady, Q R P]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+OP |S1000 QSY [Operator, Q S Y]^
+QSL |S1000 PLS [Q S L, Please]^
+QSY |S1000 OP [Q S Y, Operator]^
 HR |S1000 RX [Hear, Receive]^
-QSY |S1000 PSE [Change frequency, Please]^
+CFM |S1000 QRQ [Confirm, Q R Q]^
+MNI |S1000 OP [Many, Operator]^
+QSY |S1000 PLS [Q S Y, Please]^
+QRS |S1000 QRP [Q R S, Q R P]^
+DR |S1000 CFM [Dear, Confirm]^
+TX |S1000 HR [Transmit, Hear]^
+QSY |S1000 TX [Q S Y, Transmit]^
+DR |S1000 CFM [Dear, Confirm]^
+YL |S1000 CFM [Young lady, Confirm]^
+QSL |S1000 CFM [Q S L, Confirm]^
+QSY |S1000 PSE [Q S Y, Please]^
+OP |S1000 QSY [Operator, Q S Y]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+OP |S1000 QSY [Operator, Q S Y]^
+OP |S1000 QSY [Operator, Q S Y]^
+QSL |S1000 QRS [Q S L, Q R S]^
+QSY |S1000 MNI [Q S Y, Many]^
+QSL |S1000 YL [Q S L, Young lady]^
+RX |S1000 HR [Receive, Hear]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+QSY |S1000 HR [Q S Y, Hear]^
+QSY |S1000 HR [Q S Y, Hear]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+MNI |S1000 QRQ [Many, Q R Q]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+OP |S1000 QSL [Operator, Q S L]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+OP |S1000 QSY [Operator, Q S Y]^
+QSL |S1000 HW\? [Q S L, How copy\?]^
+TX |S1000 PLS [Transmit, Please]^
+QSL |S1000 MNI [Q S L, Many]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+QSY |S1000 QSL [Q S Y, Q S L]^
+YL |S1000 RX [Young lady, Receive]^
+QSY |S1000 PSE [Q S Y, Please]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+YL |S1000 PLS [Young lady, Please]^
+QSY |S1000 PLS [Q S Y, Please]^
+OP |S1000 QSY [Operator, Q S Y]^
+HR |S1000 QSY [Hear, Q S Y]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+OP |S1000 PLS [Operator, Please]^
+TX |S1000 QSY [Transmit, Q S Y]^
+OP |S1000 QSY [Operator, Q S Y]^
+TX |S1000 QRQ [Transmit, Q R Q]^
+QRP |S1000 RX [Q R P, Receive]^
+DR |S1000 QRP [Dear, Q R P]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+OP |S1000 QRS [Operator, Q R S]^
+PSE |S1000 QSY [Please, Q S Y]^
+YL |S1000 MNI [Young lady, Many]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+MNI |S1000 QSY [Many, Q S Y]^
+DR |S1000 RX [Dear, Receive]^
+MNI |S1000 QSY [Many, Q S Y]^
+QRP |S1000 PLS [Q R P, Please]^
+YL |S1000 QSY [Young lady, Q S Y]^
+PSE |S1000 QSY [Please, Q S Y]^
+PSE |S1000 DR [Please, Dear]^
+QSY |S1000 TX [Q S Y, Transmit]^
+PSE |S1000 QSY [Please, Q S Y]^
+DR |S1000 HR [Dear, Hear]^
+QSL |S1000 PSE [Q S L, Please]^
+QSY |S1000 OP [Q S Y, Operator]^
+QSY |S1000 YL [Q S Y, Young lady]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+MNI |S1000 QSY [Many, Q S Y]^
+PSE |S1000 QSL [Please, Q S L]^
+TX |S1000 HR [Transmit, Hear]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+QSY |S1000 PLS [Q S Y, Please]^
+QSY |S1000 TX [Q S Y, Transmit]^
+QSY |S1000 MNI [Q S Y, Many]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+RX |S1000 QSL [Receive, Q S L]^
+DR |S1000 QSY [Dear, Q S Y]^
+QRS |S1000 HW\? [Q R S, How copy\?]^
+OP |S1000 QSY [Operator, Q S Y]^
+OP |S1000 QSY [Operator, Q S Y]^
+CFM |S1000 PSE [Confirm, Please]^
+MNI |S1000 HR [Many, Hear]^
+DR |S1000 TX [Dear, Transmit]^
+HW\? |S1000 QRQ [How copy\?, Q R Q]^
+RX |S1000 MNI [Receive, Many]^
+QSY |S1000 QSL [Q S Y, Q S L]^
+QSY |S1000 DR [Q S Y, Dear]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+TX |S1000 QSY [Transmit, Q S Y]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+PSE |S1000 QSY [Please, Q S Y]^
+QRS |S1000 OP [Q R S, Operator]^
+QSY |S1000 QSL [Q S Y, Q S L]^
+RX |S1000 YL [Receive, Young lady]^
+QSY |S1000 DR [Q S Y, Dear]^
+MNI |S1000 DR [Many, Dear]^
+MNI |S1000 QSY [Many, Q S Y]^
+HW\? |S1000 PLS [How copy\?, Please]^
+QSY |S1000 PLS [Q S Y, Please]^
+QRQ |S1000 OP [Q R Q, Operator]^
+QSY |S1000 RX [Q S Y, Receive]^
+TX |S1000 QSY [Transmit, Q S Y]^
+QRQ |S1000 PSE [Q R Q, Please]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+HR |S1000 MNI [Hear, Many]^
+QSY |S1000 YL [Q S Y, Young lady]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+DR |S1000 HR [Dear, Hear]^
+QSY |S1000 TX [Q S Y, Transmit]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+YL |S1000 OP [Young lady, Operator]^
+QSL |S1000 PSE [Q S L, Please]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+QSY |S1000 PLS [Q S Y, Please]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+DR |S1000 QSL [Dear, Q S L]^
+PSE |S1000 QSY [Please, Q S Y]^
+OP |S1000 DR [Operator, Dear]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+DR |S1000 HW\? [Dear, How copy\?]^
+PSE |S1000 DR [Please, Dear]^
+OP |S1000 QSY [Operator, Q S Y]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+QSL |S1000 YL [Q S L, Young lady]^
+MNI |S1000 YL [Many, Young lady]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+MNI |S1000 QSL [Many, Q S L]^
+DR |S1000 QSY [Dear, Q S Y]^
+HW\? |S1000 MNI [How copy\?, Many]^
+QSY |S1000 PLS [Q S Y, Please]^
+YL |S1000 QRP [Young lady, Q R P]^
+YL |S1000 HR [Young lady, Hear]^
+TX |S1000 QSY [Transmit, Q S Y]^
+HW\? |S1000 OP [How copy\?, Operator]^
+YL |S1000 TX [Young lady, Transmit]^
+YL |S1000 QSY [Young lady, Q S Y]^
+OP |S1000 QSY [Operator, Q S Y]^
+HR |S1000 OP [Hear, Operator]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+QSY |S1000 TX [Q S Y, Transmit]^
+QSY |S1000 PLS [Q S Y, Please]^
+QSY |S1000 OP [Q S Y, Operator]^
+QSY |S1000 DR [Q S Y, Dear]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+QRS |S1000 OP [Q R S, Operator]^
+HR |S1000 QSY [Hear, Q S Y]^
+PSE |S1000 HR [Please, Hear]^
+QRQ |S1000 QRS [Q R Q, Q R S]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+QSY |S1000 OP [Q S Y, Operator]^
+YL |S1000 QSY [Young lady, Q S Y]^
+PSE |S1000 QSY [Please, Q S Y]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+MNI |S1000 HW\? [Many, How copy\?]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+YL |S1000 HW\? [Young lady, How copy\?]^
+QSY |S1000 PLS [Q S Y, Please]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+QSL |S1000 CFM [Q S L, Confirm]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+TX |S1000 QSY [Transmit, Q S Y]^
+OP |S1000 YL [Operator, Young lady]^
+QSY |S1000 PLS [Q S Y, Please]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+QSY |S1000 HR [Q S Y, Hear]^
+OP |S1000 CFM [Operator, Confirm]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+PLS |S1000 HW\? [Please, How copy\?]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+QSY |S1000 YL [Q S Y, Young lady]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+PLS |S1000 QRP [Please, Q R P]^
+QSY |S1000 OP [Q S Y, Operator]^
+YL |S1000 QRQ [Young lady, Q R Q]^
+DR |S1000 QSY [Dear, Q S Y]^
+QRQ |S1000 QSL [Q R Q, Q S L]^
+QRS |S1000 PSE [Q R S, Please]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+HR |S1000 QSY [Hear, Q S Y]^
+QRQ |S1000 RX [Q R Q, Receive]^
+QSY |S1000 OP [Q S Y, Operator]^
+QRQ |S1000 OP [Q R Q, Operator]^
+HR |S1000 QSY [Hear, Q S Y]^
+PLS |S1000 QRS [Please, Q R S]^
+QSY |S1000 PSE [Q S Y, Please]^
+QSY |S1000 DR [Q S Y, Dear]^
+QRS |S1000 PLS [Q R S, Please]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+DR |S1000 QSY [Dear, Q S Y]^
+QSL |S1000 HR [Q S L, Hear]^
+PSE |S1000 QRP [Please, Q R P]^
+TX |S1000 QSY [Transmit, Q S Y]^
+MNI |S1000 QSY [Many, Q S Y]^
+PLS |S1000 QRP [Please, Q R P]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+QSY |S1000 RX [Q S Y, Receive]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+QRP |S1000 TX [Q R P, Transmit]^
+RX |S1000 QSY [Receive, Q S Y]^
+RX |S1000 QSY [Receive, Q S Y]^
+PSE |S1000 MNI [Please, Many]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+RX |S1000 QSY [Receive, Q S Y]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+YL |S1000 QSY [Young lady, Q S Y]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+HR |S1000 RX [Hear, Receive]^
+QRP |S1000 YL [Q R P, Young lady]^
+QSY |S1000 YL [Q S Y, Young lady]^
+PSE |S1000 HR [Please, Hear]^
+QSY |S1000 QSL [Q S Y, Q S L]^
+TX |S1000 HR [Transmit, Hear]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+YL |S1000 CFM [Young lady, Confirm]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+MNI |S1000 QSY [Many, Q S Y]^
+RX |S1000 QSY [Receive, Q S Y]^
+HR |S1000 PSE [Hear, Please]^
+PLS |S1000 QSY [Please, Q S Y]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+PSE |S1000 QRQ [Please, Q R Q]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+TX |S1000 QSY [Transmit, Q S Y]^
+PLS |S1000 QRQ [Please, Q R Q]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+QRQ |S1000 PSE [Q R Q, Please]^
+HW\? |S1000 PSE [How copy\?, Please]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+HW\? |S1000 MNI [How copy\?, Many]^
+QSY |S1000 DR [Q S Y, Dear]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+RX |S1000 QSY [Receive, Q S Y]^
+MNI |S1000 OP [Many, Operator]^
+PLS |S1000 MNI [Please, Many]^
+PLS |S1000 YL [Please, Young lady]^
+QSY |S1000 PSE [Q S Y, Please]^
+QRS |S1000 YL [Q R S, Young lady]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+HR |S1000 RX [Hear, Receive]^
+QSL |S1000 YL [Q S L, Young lady]^
+QSY |S1000 YL [Q S Y, Young lady]^
+QRS |S1000 YL [Q R S, Young lady]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+QSY |S1000 TX [Q S Y, Transmit]^
+OP |S1000 HW\? [Operator, How copy\?]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+HW\? |S1000 RX [How copy\?, Receive]^
+QRQ |S1000 MNI [Q R Q, Many]^
+QSY |S1000 OP [Q S Y, Operator]^
+QRQ |S1000 QRP [Q R Q, Q R P]^
+QSY |S1000 YL [Q S Y, Young lady]^
+TX |S1000 QSY [Transmit, Q S Y]^
+TX |S1000 QRQ [Transmit, Q R Q]^
+QRS |S1000 YL [Q R S, Young lady]^
+PLS |S1000 QRS [Please, Q R S]^
+QRP |S1000 QSL [Q R P, Q S L]^
+DR |S1000 QRQ [Dear, Q R Q]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+PSE |S1000 TX [Please, Transmit]^
+YL |S1000 TX [Young lady, Transmit]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+DR |S1000 QSY [Dear, Q S Y]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+MNI |S1000 QRQ [Many, Q R Q]^
+QRP |S1000 CFM [Q R P, Confirm]^
+PSE |S1000 QRQ [Please, Q R Q]^
+HR |S1000 DR [Hear, Dear]^
+QSY |S1000 PLS [Q S Y, Please]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+TX |S1000 QSY [Transmit, Q S Y]^
+HW\? |S1000 QRS [How copy\?, Q R S]^
+QSY |S1000 DR [Q S Y, Dear]^
+PSE |S1000 QSY [Please, Q S Y]^
+YL |S1000 CFM [Young lady, Confirm]^
+QSY |S1000 YL [Q S Y, Young lady]^
+MNI |S1000 QSY [Many, Q S Y]^
+QRP |S1000 OP [Q R P, Operator]^
+PLS |S1000 QSY [Please, Q S Y]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+MNI |S1000 QSY [Many, Q S Y]^
+HR |S1000 QSY [Hear, Q S Y]^
+CFM |S1000 QSL [Confirm, Q S L]^
+DR |S1000 HW\? [Dear, How copy\?]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+DR |S1000 CFM [Dear, Confirm]^
+QSY |S1000 DR [Q S Y, Dear]^
+QSL |S1000 HW\? [Q S L, How copy\?]^
+DR |S1000 TX [Dear, Transmit]^
+MNI |S1000 QSY [Many, Q S Y]^
+MNI |S1000 QSL [Many, Q S L]^
+QSY |S1000 DR [Q S Y, Dear]^
+QRP |S1000 QRQ [Q R P, Q R Q]^
+QSY |S1000 OP [Q S Y, Operator]^
+QRQ |S1000 YL [Q R Q, Young lady]^
+QSY |S1000 PLS [Q S Y, Please]^
+QRQ |S1000 HW\? [Q R Q, How copy\?]^
+QSY |S1000 MNI [Q S Y, Many]^
+YL |S1000 QSY [Young lady, Q S Y]^
+HW\? |S1000 PLS [How copy\?, Please]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+RX |S1000 HR [Receive, Hear]^
+QSY |S1000 HR [Q S Y, Hear]^
+DR |S1000 QSY [Dear, Q S Y]^
+HR |S1000 YL [Hear, Young lady]^
+OP |S1000 QSY [Operator, Q S Y]^
+MNI |S1000 OP [Many, Operator]^
+YL |S1000 QSY [Young lady, Q S Y]^
+CFM |S1000 QRS [Confirm, Q R S]^
+QSL |S1000 QRQ [Q S L, Q R Q]^
+MNI |S1000 QSY [Many, Q S Y]^
+YL |S1000 QSY [Young lady, Q S Y]^
+QRS |S1000 QRP [Q R S, Q R P]^
+HR |S1000 DR [Hear, Dear]^
+OP |S1000 QSY [Operator, Q S Y]^
+HR |S1000 MNI [Hear, Many]^
+HR |S1000 HW\? [Hear, How copy\?]^
+QSY |S1000 RX [Q S Y, Receive]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+DR |S1000 YL [Dear, Young lady]^
+PLS |S1000 QSY [Please, Q S Y]^
+PLS |S1000 QSL [Please, Q S L]^
+YL |S1000 QSY [Young lady, Q S Y]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+MNI |S1000 QRS [Many, Q R S]^
+MNI |S1000 QSY [Many, Q S Y]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+QSL |S1000 QSY [Q S L, Q S Y]^
+DR |S1000 QSY [Dear, Q S Y]^
+RX |S1000 QSY [Receive, Q S Y]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+YL |S1000 QSY [Young lady, Q S Y]^
+PSE |S1000 YL [Please, Young lady]^
+QSY |S1000 TX [Q S Y, Transmit]^
+OP |S1000 QSY [Operator, Q S Y]^
+YL |S1000 DR [Young lady, Dear]^
+QSY |S1000 MNI [Q S Y, Many]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+QSY |S1000 YL [Q S Y, Young lady]^
+QSY |S1000 MNI [Q S Y, Many]^
+HW\? |S1000 MNI [How copy\?, Many]^
+RX |S1000 CFM [Receive, Confirm]^
+QRP |S1000 DR [Q R P, Dear]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+QRP |S1000 OP [Q R P, Operator]^
+MNI |S1000 QSY [Many, Q S Y]^
+QRS |S1000 HR [Q R S, Hear]^
+QSY |S1000 OP [Q S Y, Operator]^
+RX |S1000 QSY [Receive, Q S Y]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+DR |S1000 QRS [Dear, Q R S]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+HW\? |S1000 QSL [How copy\?, Q S L]^
+QSY |S1000 MNI [Q S Y, Many]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+MNI |S1000 QSY [Many, Q S Y]^
+TX |S1000 QSY [Transmit, Q S Y]^
+QRQ |S1000 YL [Q R Q, Young lady]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+YL |S1000 QSY [Young lady, Q S Y]^
+QRQ |S1000 DR [Q R Q, Dear]^
+TX |S1000 QRP [Transmit, Q R P]^
+QSY |S1000 HW\? [Q S Y, How copy\?]^
+QSY |S1000 DR [Q S Y, Dear]^
+MNI |S1000 HR [Many, Hear]^
+QSY |S1000 TX [Q S Y, Transmit]^
+QSY |S1000 YL [Q S Y, Young lady]^
+QSY |S1000 QRP [Q S Y, Q R P]^
+TX |S1000 QRQ [Transmit, Q R Q]^
+TX |S1000 DR [Transmit, Dear]^
+RX |S1000 QSY [Receive, Q S Y]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+OP |S1000 PLS [Operator, Please]^
+QSY |S1000 PSE [Q S Y, Please]^
+QSY |S1000 OP [Q S Y, Operator]^
+PSE |S1000 TX [Please, Transmit]^
+CFM |S1000 MNI [Confirm, Many]^
+QSY |S1000 RX [Q S Y, Receive]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+TX |S1000 HR [Transmit, Hear]^
+QSY |S1000 HR [Q S Y, Hear]^
+QSY |S1000 TX [Q S Y, Transmit]^
+OP |S1000 MNI [Operator, Many]^
+OP |S1000 YL [Operator, Young lady]^
+CFM |S1000 TX [Confirm, Transmit]^
+QRQ |S1000 OP [Q R Q, Operator]^
+PSE |S1000 RX [Please, Receive]^

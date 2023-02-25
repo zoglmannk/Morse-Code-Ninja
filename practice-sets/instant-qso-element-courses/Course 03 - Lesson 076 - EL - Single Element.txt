@@ -1,600 +1,600 @@
 EL [Element]^
-QSY [Change frequency]^
-TX [Transmit]^
-HW\? [How copy\?]^
-EL [Element]^
-QRP [Low power]^
-BCNU [Be seeing you]^
-EL [Element]^
-OP [Operator]^
-EL [Element]^
-DR [Dear]^
-HR [Hear]^
-YL [Young lady]^
-PLS [Please]^
-EL [Element]^
-YL [Young lady]^
-EL [Element]^
-DR [Dear]^
-EL [Element]^
-PSE [Please]^
-FT [Feet]^
-EL [Element]^
-PLS [Please]^
 RX [Receive]^
-QSL [Confirm]^
-EL [Element]^
-FT [Feet]^
-QSY [Change frequency]^
-EL [Element]^
-PLS [Please]^
-EL [Element]^
-PSE [Please]^
-EL [Element]^
-TX [Transmit]^
-EL [Element]^
-YL [Young lady]^
-EL [Element]^
-QRS [Slow speed]^
-QSL [Confirm]^
-QRP [Low power]^
-OP [Operator]^
-QSL [Confirm]^
-TX [Transmit]^
-EL [Element]^
-RX [Receive]^
-EL [Element]^
-QRQ [High speed]^
-QSY [Change frequency]^
-RX [Receive]^
-OP [Operator]^
-TX [Transmit]^
-QSY [Change frequency]^
-EL [Element]^
-QRP [Low power]^
-EL [Element]^
-PSE [Please]^
-EL [Element]^
 BURO [bureau]^
-EL [Element]^
-QRQ [High speed]^
-BCNU [Be seeing you]^
-HW\? [How copy\?]^
-EL [Element]^
-QSL [Confirm]^
-CFM [Confirm]^
-RX [Receive]^
-EL [Element]^
-QRP [Low power]^
-EL [Element]^
-DR [Dear]^
-EL [Element]^
-YL [Young lady]^
-EL [Element]^
-RX [Receive]^
-HW\? [How copy\?]^
-HR [Hear]^
-EL [Element]^
-FT [Feet]^
-QRQ [High speed]^
-EL [Element]^
-QSL [Confirm]^
-DR [Dear]^
-HW\? [How copy\?]^
-BURO [bureau]^
-TX [Transmit]^
-FT [Feet]^
-EL [Element]^
-TX [Transmit]^
-EL [Element]^
-BCNU [Be seeing you]^
-EL [Element]^
-HR [Hear]^
-BURO [bureau]^
-QRS [Slow speed]^
-CFM [Confirm]^
-QRP [Low power]^
-QRS [Slow speed]^
-EL [Element]^
-PLS [Please]^
-QRS [Slow speed]^
-EL [Element]^
-HR [Hear]^
-TX [Transmit]^
-EL [Element]^
-CFM [Confirm]^
-DR [Dear]^
-QRS [Slow speed]^
-QSY [Change frequency]^
-DR [Dear]^
-FT [Feet]^
-EL [Element]^
-BURO [bureau]^
-HW\? [How copy\?]^
-EL [Element]^
-YL [Young lady]^
-BURO [bureau]^
-OP [Operator]^
-HW\? [How copy\?]^
-EL [Element]^
-TX [Transmit]^
-EL [Element]^
-QSL [Confirm]^
-BCNU [Be seeing you]^
-EL [Element]^
-PSE [Please]^
-EL [Element]^
-TX [Transmit]^
-YL [Young lady]^
-QRS [Slow speed]^
-EL [Element]^
-OP [Operator]^
-EL [Element]^
-PLS [Please]^
-BCNU [Be seeing you]^
-EL [Element]^
-HR [Hear]^
-EL [Element]^
-BCNU [Be seeing you]^
-EL [Element]^
-QSL [Confirm]^
-EL [Element]^
-CFM [Confirm]^
-OP [Operator]^
-TX [Transmit]^
-EL [Element]^
-PSE [Please]^
-DR [Dear]^
-EL [Element]^
-CFM [Confirm]^
-OP [Operator]^
-QRP [Low power]^
-FT [Feet]^
-EL [Element]^
-TX [Transmit]^
-HR [Hear]^
-YL [Young lady]^
-EL [Element]^
-QSL [Confirm]^
-QSY [Change frequency]^
-EL [Element]^
-PLS [Please]^
-EL [Element]^
-HW\? [How copy\?]^
-EL [Element]^
-PSE [Please]^
-RX [Receive]^
-EL [Element]^
-FT [Feet]^
-EL [Element]^
-PSE [Please]^
-RX [Receive]^
-HR [Hear]^
-PLS [Please]^
-DR [Dear]^
-TX [Transmit]^
-DR [Dear]^
-EL [Element]^
-TX [Transmit]^
-DR [Dear]^
-PLS [Please]^
-EL [Element]^
-YL [Young lady]^
-TX [Transmit]^
-EL [Element]^
-TX [Transmit]^
-EL [Element]^
-HR [Hear]^
-EL [Element]^
-YL [Young lady]^
-QSY [Change frequency]^
-EL [Element]^
-QRS [Slow speed]^
-QSL [Confirm]^
-QRP [Low power]^
-HR [Hear]^
-EL [Element]^
-QRP [Low power]^
-QSL [Confirm]^
-OP [Operator]^
-EL [Element]^
-QSY [Change frequency]^
-HR [Hear]^
-QSY [Change frequency]^
-EL [Element]^
-QSL [Confirm]^
-BCNU [Be seeing you]^
+QRS [Q R S]^
 MNI [Many]^
+QSY [Q S Y]^
+EL [Element]^
+TX [Transmit]^
 EL [Element]^
 CFM [Confirm]^
-BURO [bureau]^
 EL [Element]^
-QRS [Slow speed]^
-QRQ [High speed]^
-EL [Element]^
-QRP [Low power]^
-EL [Element]^
-FT [Feet]^
-PSE [Please]^
+QRP [Q R P]^
 HR [Hear]^
+CFM [Confirm]^
+HW\? [How copy\?]^
+DR [Dear]^
+EL [Element]^
+DR [Dear]^
+HR [Hear]^
+DR [Dear]^
+RX [Receive]^
+EL [Element]^
+BCNU [Be seeing you]^
+BURO [bureau]^
+QSY [Q S Y]^
+EL [Element]^
+YL [Young lady]^
+EL [Element]^
+YL [Young lady]^
+EL [Element]^
+QSY [Q S Y]^
+EL [Element]^
+QSY [Q S Y]^
+QRP [Q R P]^
+HW\? [How copy\?]^
+HR [Hear]^
+MNI [Many]^
+PLS [Please]^
+EL [Element]^
+QSL [Q S L]^
+EL [Element]^
+PSE [Please]^
+EL [Element]^
+PSE [Please]^
+OP [Operator]^
+EL [Element]^
 BURO [bureau]^
 EL [Element]^
+HW\? [How copy\?]^
+PSE [Please]^
+FT [Feet]^
 CFM [Confirm]^
 EL [Element]^
-QSL [Confirm]^
-QRQ [High speed]^
-QSL [Confirm]^
+TX [Transmit]^
 EL [Element]^
-QSL [Confirm]^
+PLS [Please]^
 EL [Element]^
-CFM [Confirm]^
 BURO [bureau]^
-QSY [Change frequency]^
+BCNU [Be seeing you]^
+HW\? [How copy\?]^
+HR [Hear]^
+EL [Element]^
+BCNU [Be seeing you]^
+OP [Operator]^
+QRS [Q R S]^
+BURO [bureau]^
+EL [Element]^
+PLS [Please]^
+RX [Receive]^
+QRQ [Q R Q]^
+PLS [Please]^
+BCNU [Be seeing you]^
+HR [Hear]^
+EL [Element]^
+PLS [Please]^
+CFM [Confirm]^
+EL [Element]^
+RX [Receive]^
+EL [Element]^
+QRQ [Q R Q]^
+BCNU [Be seeing you]^
+QRP [Q R P]^
+EL [Element]^
+HR [Hear]^
+EL [Element]^
+QSL [Q S L]^
+EL [Element]^
+YL [Young lady]^
+EL [Element]^
+QSL [Q S L]^
+EL [Element]^
+YL [Young lady]^
+QRP [Q R P]^
+TX [Transmit]^
+OP [Operator]^
+QRS [Q R S]^
+CFM [Confirm]^
+QRS [Q R S]^
+EL [Element]^
+RX [Receive]^
+EL [Element]^
+MNI [Many]^
+BURO [bureau]^
+EL [Element]^
+QSL [Q S L]^
+QSY [Q S Y]^
+YL [Young lady]^
+PLS [Please]^
+EL [Element]^
+MNI [Many]^
+TX [Transmit]^
+EL [Element]^
+QRP [Q R P]^
+CFM [Confirm]^
+EL [Element]^
+QRS [Q R S]^
+FT [Feet]^
+EL [Element]^
+HR [Hear]^
+YL [Young lady]^
+QSL [Q S L]^
+OP [Operator]^
+RX [Receive]^
+EL [Element]^
+QSY [Q S Y]^
+EL [Element]^
+BURO [bureau]^
+MNI [Many]^
+QRS [Q R S]^
+MNI [Many]^
 EL [Element]^
 DR [Dear]^
 BCNU [Be seeing you]^
 EL [Element]^
 HW\? [How copy\?]^
 MNI [Many]^
-QSY [Change frequency]^
 DR [Dear]^
 EL [Element]^
+RX [Receive]^
+PLS [Please]^
+EL [Element]^
+HR [Hear]^
+QSL [Q S L]^
+FT [Feet]^
+DR [Dear]^
+EL [Element]^
+QRQ [Q R Q]^
 BCNU [Be seeing you]^
 MNI [Many]^
 EL [Element]^
-PLS [Please]^
-EL [Element]^
 RX [Receive]^
-QRQ [High speed]^
+QSL [Q S L]^
+BURO [bureau]^
 EL [Element]^
-PSE [Please]^
+BURO [bureau]^
 EL [Element]^
-HW\? [How copy\?]^
-QRQ [High speed]^
-PLS [Please]^
-QRS [Slow speed]^
+HR [Hear]^
+EL [Element]^
 YL [Young lady]^
-BCNU [Be seeing you]^
 EL [Element]^
-PLS [Please]^
-QSL [Confirm]^
-YL [Young lady]^
+HR [Hear]^
 EL [Element]^
 MNI [Many]^
 EL [Element]^
-QRS [Slow speed]^
-QSL [Confirm]^
-HW\? [How copy\?]^
-EL [Element]^
-RX [Receive]^
-EL [Element]^
-QRQ [High speed]^
+PLS [Please]^
 BURO [bureau]^
 EL [Element]^
 DR [Dear]^
+BCNU [Be seeing you]^
+EL [Element]^
+YL [Young lady]^
+EL [Element]^
+MNI [Many]^
+QSY [Q S Y]^
+QRQ [Q R Q]^
+QRP [Q R P]^
+RX [Receive]^
+EL [Element]^
+PSE [Please]^
+EL [Element]^
+QRS [Q R S]^
+EL [Element]^
+TX [Transmit]^
+EL [Element]^
+QSY [Q S Y]^
+EL [Element]^
+PLS [Please]^
+EL [Element]^
+QSY [Q S Y]^
+YL [Young lady]^
+QSL [Q S L]^
+EL [Element]^
 CFM [Confirm]^
-QRP [Low power]^
+PLS [Please]^
+EL [Element]^
+QSY [Q S Y]^
+QRS [Q R S]^
+QRQ [Q R Q]^
+EL [Element]^
+PLS [Please]^
+QSL [Q S L]^
+RX [Receive]^
+PSE [Please]^
+EL [Element]^
+PSE [Please]^
+EL [Element]^
+QSY [Q S Y]^
+QRP [Q R P]^
+YL [Young lady]^
+QRQ [Q R Q]^
+EL [Element]^
+MNI [Many]^
+EL [Element]^
+BURO [bureau]^
+QRP [Q R P]^
+PSE [Please]^
+QSL [Q S L]^
+QRP [Q R P]^
+EL [Element]^
+HR [Hear]^
+EL [Element]^
+BCNU [Be seeing you]^
+BURO [bureau]^
+EL [Element]^
+QRP [Q R P]^
+EL [Element]^
+DR [Dear]^
+EL [Element]^
+QRS [Q R S]^
+QSY [Q S Y]^
+QRS [Q R S]^
+PLS [Please]^
+EL [Element]^
+QRS [Q R S]^
+YL [Young lady]^
+EL [Element]^
 FT [Feet]^
 EL [Element]^
+FT [Feet]^
+DR [Dear]^
+HR [Hear]^
+TX [Transmit]^
+OP [Operator]^
+TX [Transmit]^
+EL [Element]^
 CFM [Confirm]^
 EL [Element]^
-QRS [Slow speed]^
-RX [Receive]^
-EL [Element]^
-QSL [Confirm]^
-EL [Element]^
 PLS [Please]^
-BCNU [Be seeing you]^
-QRS [Slow speed]^
-QRP [Low power]^
-RX [Receive]^
-PSE [Please]^
 DR [Dear]^
-RX [Receive]^
-OP [Operator]^
+MNI [Many]^
+QRQ [Q R Q]^
+BCNU [Be seeing you]^
+EL [Element]^
+MNI [Many]^
+YL [Young lady]^
+EL [Element]^
+HR [Hear]^
+EL [Element]^
+QSL [Q S L]^
 FT [Feet]^
-EL [Element]^
-QSY [Change frequency]^
-PLS [Please]^
-HR [Hear]^
-PSE [Please]^
-EL [Element]^
-PSE [Please]^
-EL [Element]^
-QRQ [High speed]^
-EL [Element]^
-QRS [Slow speed]^
-YL [Young lady]^
-EL [Element]^
-HW\? [How copy\?]^
-EL [Element]^
-QRS [Slow speed]^
-EL [Element]^
 MNI [Many]^
 EL [Element]^
-HR [Hear]^
-TX [Transmit]^
-PLS [Please]^
-QSL [Confirm]^
-BCNU [Be seeing you]^
-DR [Dear]^
+QRS [Q R S]^
 EL [Element]^
-HR [Hear]^
+FT [Feet]^
 YL [Young lady]^
-PSE [Please]^
 HR [Hear]^
-QRS [Slow speed]^
+CFM [Confirm]^
 EL [Element]^
-DR [Dear]^
-OP [Operator]^
-EL [Element]^
-TX [Transmit]^
-OP [Operator]^
-TX [Transmit]^
-PLS [Please]^
-EL [Element]^
-QRP [Low power]^
-BURO [bureau]^
-EL [Element]^
-OP [Operator]^
-BCNU [Be seeing you]^
-EL [Element]^
-QSY [Change frequency]^
-EL [Element]^
-PSE [Please]^
-MNI [Many]^
-EL [Element]^
-HR [Hear]^
-QRQ [High speed]^
-HW\? [How copy\?]^
-MNI [Many]^
-EL [Element]^
-QSY [Change frequency]^
-EL [Element]^
-HR [Hear]^
-EL [Element]^
-TX [Transmit]^
-MNI [Many]^
-YL [Young lady]^
-RX [Receive]^
-EL [Element]^
-PLS [Please]^
-EL [Element]^
-QRQ [High speed]^
-EL [Element]^
-RX [Receive]^
-EL [Element]^
-RX [Receive]^
-HW\? [How copy\?]^
-QSL [Confirm]^
-EL [Element]^
-QRP [Low power]^
-RX [Receive]^
-BURO [bureau]^
-QRS [Slow speed]^
-EL [Element]^
-BURO [bureau]^
-YL [Young lady]^
-BURO [bureau]^
-YL [Young lady]^
-EL [Element]^
-HR [Hear]^
-QSY [Change frequency]^
+CFM [Confirm]^
+QSL [Q S L]^
 EL [Element]^
 CFM [Confirm]^
 EL [Element]^
 BCNU [Be seeing you]^
-CFM [Confirm]^
-QRS [Slow speed]^
-PSE [Please]^
-QRS [Slow speed]^
-HR [Hear]^
-EL [Element]^
-YL [Young lady]^
 DR [Dear]^
-EL [Element]^
-HW\? [How copy\?]^
-QSY [Change frequency]^
-QRQ [High speed]^
-PSE [Please]^
-EL [Element]^
-TX [Transmit]^
 EL [Element]^
 PLS [Please]^
-EL [Element]^
-HW\? [How copy\?]^
-EL [Element]^
-DR [Dear]^
-BCNU [Be seeing you]^
-EL [Element]^
-QSY [Change frequency]^
-EL [Element]^
-PSE [Please]^
+QRS [Q R S]^
 YL [Young lady]^
-HW\? [How copy\?]^
-EL [Element]^
-TX [Transmit]^
-EL [Element]^
-HR [Hear]^
-TX [Transmit]^
-EL [Element]^
-DR [Dear]^
-EL [Element]^
-FT [Feet]^
-EL [Element]^
-YL [Young lady]^
-PLS [Please]^
-QRQ [High speed]^
-EL [Element]^
-YL [Young lady]^
-EL [Element]^
-CFM [Confirm]^
-QSY [Change frequency]^
-BCNU [Be seeing you]^
-QRS [Slow speed]^
-EL [Element]^
-RX [Receive]^
-FT [Feet]^
-QRS [Slow speed]^
-EL [Element]^
-PSE [Please]^
-HW\? [How copy\?]^
-QSL [Confirm]^
-EL [Element]^
-HR [Hear]^
-QRP [Low power]^
-EL [Element]^
-PLS [Please]^
-DR [Dear]^
-EL [Element]^
-QSL [Confirm]^
-EL [Element]^
-FT [Feet]^
-HR [Hear]^
-OP [Operator]^
-EL [Element]^
-OP [Operator]^
-EL [Element]^
-PSE [Please]^
-QRP [Low power]^
-YL [Young lady]^
-EL [Element]^
-RX [Receive]^
-MNI [Many]^
-EL [Element]^
-QRQ [High speed]^
-EL [Element]^
-MNI [Many]^
-DR [Dear]^
-HR [Hear]^
-EL [Element]^
-PSE [Please]^
-PLS [Please]^
-EL [Element]^
-DR [Dear]^
-TX [Transmit]^
-EL [Element]^
-HR [Hear]^
-QSY [Change frequency]^
-PSE [Please]^
-FT [Feet]^
-QRS [Slow speed]^
-EL [Element]^
-QSY [Change frequency]^
-PSE [Please]^
-OP [Operator]^
-EL [Element]^
-PLS [Please]^
 EL [Element]^
 BCNU [Be seeing you]^
-OP [Operator]^
-QRS [Slow speed]^
-HW\? [How copy\?]^
-EL [Element]^
-YL [Young lady]^
-TX [Transmit]^
-BCNU [Be seeing you]^
-EL [Element]^
-MNI [Many]^
-RX [Receive]^
-FT [Feet]^
-EL [Element]^
-YL [Young lady]^
-EL [Element]^
-FT [Feet]^
-OP [Operator]^
-EL [Element]^
-QRQ [High speed]^
-EL [Element]^
-QRS [Slow speed]^
 CFM [Confirm]^
 EL [Element]^
-HW\? [How copy\?]^
+FT [Feet]^
 BURO [bureau]^
-PSE [Please]^
-BCNU [Be seeing you]^
-EL [Element]^
-BURO [bureau]^
-TX [Transmit]^
-EL [Element]^
-TX [Transmit]^
-EL [Element]^
-BURO [bureau]^
-EL [Element]^
-BURO [bureau]^
+QRQ [Q R Q]^
 RX [Receive]^
-DR [Dear]^
+TX [Transmit]^
+HR [Hear]^
+HW\? [How copy\?]^
 YL [Young lady]^
 EL [Element]^
+QRS [Q R S]^
 MNI [Many]^
+EL [Element]^
+BURO [bureau]^
+EL [Element]^
+BURO [bureau]^
+HR [Hear]^
+EL [Element]^
+BCNU [Be seeing you]^
+QSL [Q S L]^
+PSE [Please]^
+EL [Element]^
+QSY [Q S Y]^
 CFM [Confirm]^
-RX [Receive]^
+TX [Transmit]^
+HW\? [How copy\?]^
+BURO [bureau]^
 TX [Transmit]^
 EL [Element]^
-QRS [Slow speed]^
+QSY [Q S Y]^
+QSL [Q S L]^
+MNI [Many]^
+PSE [Please]^
+HW\? [How copy\?]^
+EL [Element]^
+QSY [Q S Y]^
+HR [Hear]^
+EL [Element]^
+PSE [Please]^
+EL [Element]^
+QRQ [Q R Q]^
+EL [Element]^
+BCNU [Be seeing you]^
+TX [Transmit]^
+EL [Element]^
+MNI [Many]^
+QRS [Q R S]^
+QRQ [Q R Q]^
+EL [Element]^
+BURO [bureau]^
+QSL [Q S L]^
+QSY [Q S Y]^
+EL [Element]^
+QSL [Q S L]^
+QRS [Q R S]^
+PLS [Please]^
+BCNU [Be seeing you]^
+OP [Operator]^
+BURO [bureau]^
+DR [Dear]^
+EL [Element]^
+TX [Transmit]^
+HW\? [How copy\?]^
+EL [Element]^
+QRS [Q R S]^
+EL [Element]^
+TX [Transmit]^
+EL [Element]^
+QRQ [Q R Q]^
+BCNU [Be seeing you]^
+HR [Hear]^
+BCNU [Be seeing you]^
+CFM [Confirm]^
+EL [Element]^
+CFM [Confirm]^
+YL [Young lady]^
+HR [Hear]^
+EL [Element]^
+PSE [Please]^
+QRQ [Q R Q]^
+EL [Element]^
+HR [Hear]^
+QRS [Q R S]^
+PSE [Please]^
+EL [Element]^
+OP [Operator]^
+QRQ [Q R Q]^
+QSL [Q S L]^
+BURO [bureau]^
+HR [Hear]^
+QSL [Q S L]^
+EL [Element]^
+QSL [Q S L]^
+HR [Hear]^
+YL [Young lady]^
+DR [Dear]^
+QRS [Q R S]^
+EL [Element]^
+YL [Young lady]^
+DR [Dear]^
+BCNU [Be seeing you]^
+EL [Element]^
+QSL [Q S L]^
+EL [Element]^
+MNI [Many]^
+EL [Element]^
+CFM [Confirm]^
+QRS [Q R S]^
+DR [Dear]^
+BCNU [Be seeing you]^
+PLS [Please]^
+EL [Element]^
+MNI [Many]^
+DR [Dear]^
+EL [Element]^
+QRS [Q R S]^
+CFM [Confirm]^
+QRP [Q R P]^
+CFM [Confirm]^
+EL [Element]^
+HW\? [How copy\?]^
+EL [Element]^
+QSL [Q S L]^
+HR [Hear]^
+YL [Young lady]^
+BURO [bureau]^
+QRS [Q R S]^
+CFM [Confirm]^
+EL [Element]^
+HR [Hear]^
+QSL [Q S L]^
+FT [Feet]^
+BCNU [Be seeing you]^
+EL [Element]^
+PSE [Please]^
+RX [Receive]^
+CFM [Confirm]^
+HR [Hear]^
+RX [Receive]^
+EL [Element]^
+PLS [Please]^
+EL [Element]^
+QRP [Q R P]^
+DR [Dear]^
+QSL [Q S L]^
+EL [Element]^
+QRP [Q R P]^
+EL [Element]^
+QRP [Q R P]^
+QSY [Q S Y]^
+EL [Element]^
+RX [Receive]^
+EL [Element]^
+YL [Young lady]^
+QSL [Q S L]^
+DR [Dear]^
+EL [Element]^
+QRS [Q R S]^
+QRP [Q R P]^
+DR [Dear]^
+FT [Feet]^
+EL [Element]^
+TX [Transmit]^
+EL [Element]^
+QRS [Q R S]^
+DR [Dear]^
+EL [Element]^
+RX [Receive]^
+EL [Element]^
+YL [Young lady]^
+BURO [bureau]^
+EL [Element]^
+QSY [Q S Y]^
+CFM [Confirm]^
+HW\? [How copy\?]^
+BCNU [Be seeing you]^
+HW\? [How copy\?]^
+CFM [Confirm]^
+YL [Young lady]^
+EL [Element]^
+YL [Young lady]^
+RX [Receive]^
+DR [Dear]^
+HW\? [How copy\?]^
+QSL [Q S L]^
+EL [Element]^
+QSL [Q S L]^
+EL [Element]^
+MNI [Many]^
+QSL [Q S L]^
+DR [Dear]^
+TX [Transmit]^
+QRP [Q R P]^
+EL [Element]^
+PLS [Please]^
+RX [Receive]^
+PSE [Please]^
+EL [Element]^
+HR [Hear]^
+CFM [Confirm]^
+DR [Dear]^
+EL [Element]^
+QRP [Q R P]^
+PLS [Please]^
+DR [Dear]^
+TX [Transmit]^
+DR [Dear]^
+QSY [Q S Y]^
+EL [Element]^
+HW\? [How copy\?]^
+EL [Element]^
+BURO [bureau]^
+EL [Element]^
+RX [Receive]^
+EL [Element]^
+HW\? [How copy\?]^
+HR [Hear]^
+EL [Element]^
+QRP [Q R P]^
+MNI [Many]^
+QRP [Q R P]^
 EL [Element]^
 FT [Feet]^
 EL [Element]^
+OP [Operator]^
+FT [Feet]^
+EL [Element]^
+QSY [Q S Y]^
+EL [Element]^
+MNI [Many]^
+QSY [Q S Y]^
+EL [Element]^
+QSY [Q S Y]^
+EL [Element]^
+QRS [Q R S]^
+QSY [Q S Y]^
+EL [Element]^
+QSL [Q S L]^
+EL [Element]^
+FT [Feet]^
+QSY [Q S Y]^
 BCNU [Be seeing you]^
-QRP [Low power]^
+EL [Element]^
+DR [Dear]^
+EL [Element]^
+QRS [Q R S]^
+EL [Element]^
+QRQ [Q R Q]^
+OP [Operator]^
+EL [Element]^
+DR [Dear]^
+PSE [Please]^
+MNI [Many]^
+FT [Feet]^
+EL [Element]^
+HW\? [How copy\?]^
+QRS [Q R S]^
+EL [Element]^
+HR [Hear]^
+QRS [Q R S]^
+EL [Element]^
+PSE [Please]^
+MNI [Many]^
+PSE [Please]^
+EL [Element]^
+HR [Hear]^
+MNI [Many]^
+FT [Feet]^
+EL [Element]^
+PLS [Please]^
+EL [Element]^
+QRP [Q R P]^
+BURO [bureau]^
+YL [Young lady]^
+EL [Element]^
+PSE [Please]^
+TX [Transmit]^
+BCNU [Be seeing you]^
+EL [Element]^
+TX [Transmit]^
+CFM [Confirm]^
+EL [Element]^
+QSL [Q S L]^
+EL [Element]^
+QSY [Q S Y]^
+MNI [Many]^
+DR [Dear]^
+EL [Element]^
+QRQ [Q R Q]^
+EL [Element]^
+MNI [Many]^
+BCNU [Be seeing you]^
+QRS [Q R S]^
+QSL [Q S L]^
+QRQ [Q R Q]^
+EL [Element]^
+PLS [Please]^
+QRP [Q R P]^
+EL [Element]^
+OP [Operator]^
+HW\? [How copy\?]^
+YL [Young lady]^
 EL [Element]^
 OP [Operator]^
 EL [Element]^
-QSY [Change frequency]^
-EL [Element]^
-BURO [bureau]^
-EL [Element]^
-HR [Hear]^
-BCNU [Be seeing you]^
-EL [Element]^
-QSL [Confirm]^
-QRQ [High speed]^
-YL [Young lady]^
-EL [Element]^
-DR [Dear]^
-FT [Feet]^
-QSY [Change frequency]^
-RX [Receive]^
-EL [Element]^
-QSL [Confirm]^
-BURO [bureau]^
-EL [Element]^
-BURO [bureau]^
-EL [Element]^
-BURO [bureau]^
-EL [Element]^
-BCNU [Be seeing you]^
-EL [Element]^
-PSE [Please]^
-QRP [Low power]^
-EL [Element]^
-RX [Receive]^
-FT [Feet]^
-EL [Element]^
-RX [Receive]^
-QSL [Confirm]^
-EL [Element]^
-RX [Receive]^
-PSE [Please]^
-EL [Element]^
-TX [Transmit]^
-EL [Element]^
-HW\? [How copy\?]^
-QSL [Confirm]^
-EL [Element]^
 HR [Hear]^
 EL [Element]^
-QSY [Change frequency]^
-QSL [Confirm]^
-MNI [Many]^
 HW\? [How copy\?]^
+QRS [Q R S]^
+OP [Operator]^
 CFM [Confirm]^
-EL [Element]^
 PSE [Please]^
-EL [Element]^
-QSL [Confirm]^
-HW\? [How copy\?]^
-EL [Element]^
+FT [Feet]^
 PLS [Please]^
-PSE [Please]^
+EL [Element]^
+BCNU [Be seeing you]^
 EL [Element]^

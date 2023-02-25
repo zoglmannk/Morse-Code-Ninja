@@ -1,600 +1,600 @@
-GN |S1000 NW [Good night, Now]^
-SWR |S1000 NW [S W R, Now]^
-INFO |S1000 LOOP [Information, Loop]^
-NW |S1000 GD [Now, Good]^
-72 |S1000 SWR [72, S W R]^
-GB |S1000 88 [Goodbye, 88]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 GB [Now, Goodbye]^
-GN |S1000 CW [Good night, C W]^
-NW |S1000 88 [Now, 88]^
-INFO |S1000 NW [Information, Now]^
-72 |S1000 NW [72, Now]^
-GN |S1000 NW [Good night, Now]^
-72 |S1000 GD [72, Good]^
-LOOP |S1000 GD [Loop, Good]^
-72 |S1000 CW [72, C W]^
-GN |S1000 NW [Good night, Now]^
-INFO |S1000 LOOP [Information, Loop]^
-NW |S1000 INFO [Now, Information]^
-GD |S1000 CW [Good, C W]^
-GN |S1000 LOOP [Good night, Loop]^
-GD |S1000 INFO [Good, Information]^
-72 |S1000 NW [72, Now]^
-72 |S1000 GB [72, Goodbye]^
-INFO |S1000 NW [Information, Now]^
-SWR |S1000 NW [S W R, Now]^
-88 |S1000 INFO [88, Information]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 CW [Now, C W]^
-NW |S1000 GB [Now, Goodbye]^
-88 |S1000 NW [88, Now]^
-INFO |S1000 72 [Information, 72]^
 SWR |S1000 GB [S W R, Goodbye]^
-LOOP |S1000 GN [Loop, Good night]^
-88 |S1000 GN [88, Good night]^
-88 |S1000 NW [88, Now]^
-GB |S1000 LOOP [Goodbye, Loop]^
-NW |S1000 72 [Now, 72]^
-GN |S1000 GD [Good night, Good]^
-88 |S1000 NW [88, Now]^
-88 |S1000 GN [88, Good night]^
-GD |S1000 SWR [Good, S W R]^
-NW |S1000 GD [Now, Good]^
-NW |S1000 88 [Now, 88]^
-GN |S1000 88 [Good night, 88]^
-LOOP |S1000 88 [Loop, 88]^
-NW |S1000 GB [Now, Goodbye]^
-NW |S1000 GB [Now, Goodbye]^
-CW |S1000 NW [C W, Now]^
-SWR |S1000 LOOP [S W R, Loop]^
-NW |S1000 SWR [Now, S W R]^
-INFO |S1000 LOOP [Information, Loop]^
-CW |S1000 88 [C W, 88]^
-NW |S1000 LOOP [Now, Loop]^
-NW |S1000 SWR [Now, S W R]^
-GD |S1000 GN [Good, Good night]^
+NW |S1000 GN [Now, Good night]^
+LOOP |S1000 72 [Loop, 72]^
 NW |S1000 CW [Now, C W]^
-NW |S1000 INFO [Now, Information]^
-LOOP |S1000 NW [Loop, Now]^
-GB |S1000 72 [Goodbye, 72]^
-SWR |S1000 INFO [S W R, Information]^
-NW |S1000 88 [Now, 88]^
-CW |S1000 NW [C W, Now]^
-72 |S1000 SWR [72, S W R]^
-NW |S1000 INFO [Now, Information]^
-NW |S1000 GN [Now, Good night]^
-INFO |S1000 GN [Information, Good night]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 GN [Now, Good night]^
-88 |S1000 NW [88, Now]^
-72 |S1000 SWR [72, S W R]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 GB [Now, Goodbye]^
-NW |S1000 CW [Now, C W]^
-NW |S1000 72 [Now, 72]^
-88 |S1000 NW [88, Now]^
-SWR |S1000 72 [S W R, 72]^
-NW |S1000 LOOP [Now, Loop]^
-NW |S1000 GN [Now, Good night]^
-GB |S1000 88 [Goodbye, 88]^
-NW |S1000 88 [Now, 88]^
-GN |S1000 NW [Good night, Now]^
-GD |S1000 NW [Good, Now]^
-88 |S1000 CW [88, C W]^
-LOOP |S1000 INFO [Loop, Information]^
-NW |S1000 GD [Now, Good]^
-NW |S1000 LOOP [Now, Loop]^
-SWR |S1000 NW [S W R, Now]^
-72 |S1000 NW [72, Now]^
-INFO |S1000 NW [Information, Now]^
-88 |S1000 NW [88, Now]^
-SWR |S1000 NW [S W R, Now]^
-GN |S1000 NW [Good night, Now]^
-88 |S1000 NW [88, Now]^
-88 |S1000 GN [88, Good night]^
-SWR |S1000 NW [S W R, Now]^
-SWR |S1000 INFO [S W R, Information]^
-NW |S1000 GD [Now, Good]^
-72 |S1000 SWR [72, S W R]^
-88 |S1000 NW [88, Now]^
-88 |S1000 NW [88, Now]^
-GN |S1000 LOOP [Good night, Loop]^
-72 |S1000 NW [72, Now]^
-CW |S1000 GN [C W, Good night]^
-NW |S1000 CW [Now, C W]^
-NW |S1000 GN [Now, Good night]^
-GB |S1000 NW [Goodbye, Now]^
-88 |S1000 NW [88, Now]^
-SWR |S1000 CW [S W R, C W]^
-GD |S1000 GN [Good, Good night]^
-NW |S1000 GB [Now, Goodbye]^
-NW |S1000 SWR [Now, S W R]^
-GD |S1000 NW [Good, Now]^
-INFO |S1000 SWR [Information, S W R]^
-LOOP |S1000 88 [Loop, 88]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 88 [Now, 88]^
-GB |S1000 NW [Goodbye, Now]^
-GB |S1000 NW [Goodbye, Now]^
-GB |S1000 NW [Goodbye, Now]^
-CW |S1000 NW [C W, Now]^
-GB |S1000 NW [Goodbye, Now]^
-72 |S1000 NW [72, Now]^
-GB |S1000 NW [Goodbye, Now]^
-72 |S1000 NW [72, Now]^
-GB |S1000 NW [Goodbye, Now]^
 GD |S1000 GB [Good, Goodbye]^
-NW |S1000 72 [Now, 72]^
-SWR |S1000 88 [S W R, 88]^
-CW |S1000 GN [C W, Good night]^
+SWR |S1000 NW [S W R, Now]^
+72 |S1000 NW [72, Now]^
+LOOP |S1000 NW [Loop, Now]^
+72 |S1000 NW [72, Now]^
+SWR |S1000 LOOP [S W R, Loop]^
 NW |S1000 GB [Now, Goodbye]^
-GN |S1000 NW [Good night, Now]^
-INFO |S1000 72 [Information, 72]^
-NW |S1000 GD [Now, Good]^
 NW |S1000 CW [Now, C W]^
-GB |S1000 SWR [Goodbye, S W R]^
-LOOP |S1000 GB [Loop, Goodbye]^
-LOOP |S1000 INFO [Loop, Information]^
-GD |S1000 LOOP [Good, Loop]^
-GN |S1000 GD [Good night, Good]^
 SWR |S1000 GD [S W R, Good]^
-88 |S1000 72 [88, 72]^
-LOOP |S1000 NW [Loop, Now]^
-72 |S1000 NW [72, Now]^
-INFO |S1000 GB [Information, Goodbye]^
-NW |S1000 LOOP [Now, Loop]^
-NW |S1000 CW [Now, C W]^
-NW |S1000 88 [Now, 88]^
-GB |S1000 GN [Goodbye, Good night]^
-NW |S1000 GD [Now, Good]^
-GB |S1000 NW [Goodbye, Now]^
-GD |S1000 INFO [Good, Information]^
-SWR |S1000 NW [S W R, Now]^
-CW |S1000 NW [C W, Now]^
-88 |S1000 NW [88, Now]^
-72 |S1000 NW [72, Now]^
-GB |S1000 INFO [Goodbye, Information]^
-NW |S1000 CW [Now, C W]^
-NW |S1000 GN [Now, Good night]^
-CW |S1000 88 [C W, 88]^
-NW |S1000 INFO [Now, Information]^
-CW |S1000 NW [C W, Now]^
-SWR |S1000 NW [S W R, Now]^
-GN |S1000 NW [Good night, Now]^
-GD |S1000 NW [Good, Now]^
-GN |S1000 LOOP [Good night, Loop]^
-NW |S1000 GB [Now, Goodbye]^
-NW |S1000 LOOP [Now, Loop]^
-INFO |S1000 NW [Information, Now]^
-GB |S1000 GN [Goodbye, Good night]^
-LOOP |S1000 88 [Loop, 88]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 GB [Now, Goodbye]^
-LOOP |S1000 GN [Loop, Good night]^
-SWR |S1000 72 [S W R, 72]^
-NW |S1000 LOOP [Now, Loop]^
-GD |S1000 NW [Good, Now]^
-GN |S1000 NW [Good night, Now]^
-88 |S1000 NW [88, Now]^
-INFO |S1000 SWR [Information, S W R]^
-INFO |S1000 GD [Information, Good]^
-GN |S1000 CW [Good night, C W]^
-SWR |S1000 88 [S W R, 88]^
-72 |S1000 NW [72, Now]^
-LOOP |S1000 NW [Loop, Now]^
-72 |S1000 NW [72, Now]^
-GD |S1000 NW [Good, Now]^
-72 |S1000 CW [72, C W]^
-LOOP |S1000 NW [Loop, Now]^
-72 |S1000 CW [72, C W]^
-NW |S1000 GB [Now, Goodbye]^
-CW |S1000 NW [C W, Now]^
-LOOP |S1000 SWR [Loop, S W R]^
-72 |S1000 88 [72, 88]^
-NW |S1000 GB [Now, Goodbye]^
-NW |S1000 LOOP [Now, Loop]^
-NW |S1000 GN [Now, Good night]^
-88 |S1000 NW [88, Now]^
-LOOP |S1000 NW [Loop, Now]^
-88 |S1000 NW [88, Now]^
-CW |S1000 NW [C W, Now]^
-GD |S1000 NW [Good, Now]^
-GN |S1000 NW [Good night, Now]^
-GN |S1000 INFO [Good night, Information]^
-NW |S1000 LOOP [Now, Loop]^
-CW |S1000 GD [C W, Good]^
-CW |S1000 88 [C W, 88]^
-INFO |S1000 NW [Information, Now]^
-CW |S1000 GD [C W, Good]^
-88 |S1000 LOOP [88, Loop]^
-NW |S1000 INFO [Now, Information]^
-NW |S1000 GD [Now, Good]^
-INFO |S1000 SWR [Information, S W R]^
-NW |S1000 CW [Now, C W]^
-NW |S1000 GN [Now, Good night]^
-NW |S1000 LOOP [Now, Loop]^
-88 |S1000 SWR [88, S W R]^
-88 |S1000 CW [88, C W]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 LOOP [Now, Loop]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 GN [Now, Good night]^
-NW |S1000 GD [Now, Good]^
-GN |S1000 NW [Good night, Now]^
-88 |S1000 SWR [88, S W R]^
-CW |S1000 NW [C W, Now]^
-88 |S1000 GN [88, Good night]^
-NW |S1000 CW [Now, C W]^
-INFO |S1000 NW [Information, Now]^
-88 |S1000 SWR [88, S W R]^
-LOOP |S1000 72 [Loop, 72]^
-NW |S1000 LOOP [Now, Loop]^
-NW |S1000 SWR [Now, S W R]^
-GB |S1000 NW [Goodbye, Now]^
-GD |S1000 72 [Good, 72]^
-GD |S1000 GN [Good, Good night]^
-LOOP |S1000 72 [Loop, 72]^
-GN |S1000 NW [Good night, Now]^
-88 |S1000 NW [88, Now]^
-LOOP |S1000 CW [Loop, C W]^
-NW |S1000 88 [Now, 88]^
-NW |S1000 88 [Now, 88]^
-LOOP |S1000 88 [Loop, 88]^
-INFO |S1000 NW [Information, Now]^
-SWR |S1000 NW [S W R, Now]^
-72 |S1000 NW [72, Now]^
-88 |S1000 NW [88, Now]^
-72 |S1000 SWR [72, S W R]^
-GN |S1000 NW [Good night, Now]^
-INFO |S1000 CW [Information, C W]^
-NW |S1000 CW [Now, C W]^
-NW |S1000 LOOP [Now, Loop]^
-72 |S1000 NW [72, Now]^
-GD |S1000 INFO [Good, Information]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 GN [Now, Good night]^
-SWR |S1000 GN [S W R, Good night]^
 72 |S1000 LOOP [72, Loop]^
 NW |S1000 72 [Now, 72]^
-LOOP |S1000 NW [Loop, Now]^
-LOOP |S1000 NW [Loop, Now]^
-72 |S1000 NW [72, Now]^
-LOOP |S1000 NW [Loop, Now]^
-SWR |S1000 CW [S W R, C W]^
-INFO |S1000 88 [Information, 88]^
-INFO |S1000 LOOP [Information, Loop]^
-NW |S1000 CW [Now, C W]^
+NW |S1000 INFO [Now, Information]^
+NW |S1000 INFO [Now, Information]^
+GB |S1000 SWR [Goodbye, S W R]^
 GN |S1000 NW [Good night, Now]^
-SWR |S1000 NW [S W R, Now]^
-SWR |S1000 GB [S W R, Goodbye]^
+INFO |S1000 NW [Information, Now]^
+GN |S1000 SWR [Good night, S W R]^
+NW |S1000 LOOP [Now, Loop]^
+72 |S1000 NW [72, Now]^
+CW |S1000 88 [C W, 88]^
+GB |S1000 LOOP [Goodbye, Loop]^
+GD |S1000 LOOP [Good, Loop]^
 NW |S1000 GD [Now, Good]^
-INFO |S1000 88 [Information, 88]^
+NW |S1000 INFO [Now, Information]^
+GB |S1000 NW [Goodbye, Now]^
+GD |S1000 NW [Good, Now]^
+INFO |S1000 CW [Information, C W]^
+LOOP |S1000 88 [Loop, 88]^
+NW |S1000 LOOP [Now, Loop]^
+72 |S1000 NW [72, Now]^
+88 |S1000 NW [88, Now]^
+GN |S1000 INFO [Good night, Information]^
+GB |S1000 72 [Goodbye, 72]^
+NW |S1000 CW [Now, C W]^
+NW |S1000 GD [Now, Good]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 SWR [Now, S W R]^
+NW |S1000 GB [Now, Goodbye]^
+GN |S1000 NW [Good night, Now]^
+GD |S1000 NW [Good, Now]^
+GD |S1000 NW [Good, Now]^
+CW |S1000 NW [C W, Now]^
+SWR |S1000 NW [S W R, Now]^
+88 |S1000 72 [88, 72]^
+SWR |S1000 NW [S W R, Now]^
+GB |S1000 CW [Goodbye, C W]^
+NW |S1000 88 [Now, 88]^
+GN |S1000 NW [Good night, Now]^
+GD |S1000 NW [Good, Now]^
+GD |S1000 NW [Good, Now]^
 INFO |S1000 NW [Information, Now]^
-88 |S1000 SWR [88, S W R]^
-CW |S1000 GB [C W, Goodbye]^
-INFO |S1000 NW [Information, Now]^
+INFO |S1000 LOOP [Information, Loop]^
+SWR |S1000 INFO [S W R, Information]^
+GB |S1000 NW [Goodbye, Now]^
+72 |S1000 NW [72, Now]^
+CW |S1000 NW [C W, Now]^
+SWR |S1000 NW [S W R, Now]^
+INFO |S1000 72 [Information, 72]^
+SWR |S1000 GD [S W R, Good]^
+LOOP |S1000 SWR [Loop, S W R]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 LOOP [Now, Loop]^
+88 |S1000 LOOP [88, Loop]^
 72 |S1000 88 [72, 88]^
 NW |S1000 GD [Now, Good]^
-INFO |S1000 CW [Information, C W]^
-SWR |S1000 NW [S W R, Now]^
-CW |S1000 NW [C W, Now]^
+LOOP |S1000 GN [Loop, Good night]^
 GD |S1000 88 [Good, 88]^
-NW |S1000 88 [Now, 88]^
-CW |S1000 72 [C W, 72]^
-CW |S1000 SWR [C W, S W R]^
-NW |S1000 GD [Now, Good]^
-NW |S1000 GD [Now, Good]^
-NW |S1000 INFO [Now, Information]^
-88 |S1000 GD [88, Good]^
-CW |S1000 LOOP [C W, Loop]^
-NW |S1000 LOOP [Now, Loop]^
-88 |S1000 INFO [88, Information]^
-NW |S1000 GN [Now, Good night]^
-NW |S1000 GB [Now, Goodbye]^
-LOOP |S1000 NW [Loop, Now]^
-GB |S1000 88 [Goodbye, 88]^
-SWR |S1000 NW [S W R, Now]^
-88 |S1000 NW [88, Now]^
-INFO |S1000 GD [Information, Good]^
-INFO |S1000 NW [Information, Now]^
-LOOP |S1000 CW [Loop, C W]^
-SWR |S1000 LOOP [S W R, Loop]^
-NW |S1000 INFO [Now, Information]^
-LOOP |S1000 SWR [Loop, S W R]^
-NW |S1000 CW [Now, C W]^
-SWR |S1000 NW [S W R, Now]^
-GD |S1000 72 [Good, 72]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 CW [Now, C W]^
-NW |S1000 GD [Now, Good]^
-NW |S1000 CW [Now, C W]^
-NW |S1000 LOOP [Now, Loop]^
-GB |S1000 GD [Goodbye, Good]^
-NW |S1000 LOOP [Now, Loop]^
-72 |S1000 NW [72, Now]^
-GB |S1000 SWR [Goodbye, S W R]^
-GB |S1000 GD [Goodbye, Good]^
-SWR |S1000 NW [S W R, Now]^
 LOOP |S1000 88 [Loop, 88]^
-GN |S1000 72 [Good night, 72]^
-NW |S1000 GB [Now, Goodbye]^
-NW |S1000 CW [Now, C W]^
-NW |S1000 GD [Now, Good]^
-LOOP |S1000 72 [Loop, 72]^
+72 |S1000 NW [72, Now]^
+CW |S1000 GD [C W, Good]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 SWR [Now, S W R]^
+NW |S1000 SWR [Now, S W R]^
+GD |S1000 NW [Good, Now]^
 GB |S1000 NW [Goodbye, Now]^
-LOOP |S1000 NW [Loop, Now]^
-SWR |S1000 NW [S W R, Now]^
-88 |S1000 NW [88, Now]^
-GN |S1000 NW [Good night, Now]^
-88 |S1000 NW [88, Now]^
-CW |S1000 GB [C W, Goodbye]^
-NW |S1000 GB [Now, Goodbye]^
-NW |S1000 GB [Now, Goodbye]^
-NW |S1000 GB [Now, Goodbye]^
+CW |S1000 88 [C W, 88]^
 NW |S1000 72 [Now, 72]^
-NW |S1000 GN [Now, Good night]^
-72 |S1000 SWR [72, S W R]^
-GD |S1000 88 [Good, 88]^
-72 |S1000 CW [72, C W]^
-NW |S1000 GN [Now, Good night]^
-SWR |S1000 CW [S W R, C W]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 72 [Now, 72]^
-GN |S1000 GB [Good night, Goodbye]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 CW [Now, C W]^
-INFO |S1000 SWR [Information, S W R]^
-72 |S1000 NW [72, Now]^
-72 |S1000 NW [72, Now]^
-GB |S1000 LOOP [Goodbye, Loop]^
 NW |S1000 LOOP [Now, Loop]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 88 [Now, 88]^
-NW |S1000 72 [Now, 72]^
-GB |S1000 NW [Goodbye, Now]^
-INFO |S1000 72 [Information, 72]^
-NW |S1000 GD [Now, Good]^
-NW |S1000 72 [Now, 72]^
-88 |S1000 NW [88, Now]^
-72 |S1000 GN [72, Good night]^
 CW |S1000 NW [C W, Now]^
-LOOP |S1000 GB [Loop, Goodbye]^
-72 |S1000 NW [72, Now]^
-72 |S1000 NW [72, Now]^
-72 |S1000 GB [72, Goodbye]^
-NW |S1000 GB [Now, Goodbye]^
-INFO |S1000 GN [Information, Good night]^
-GB |S1000 LOOP [Goodbye, Loop]^
-NW |S1000 LOOP [Now, Loop]^
-NW |S1000 INFO [Now, Information]^
-NW |S1000 LOOP [Now, Loop]^
-GN |S1000 LOOP [Good night, Loop]^
-NW |S1000 SWR [Now, S W R]^
+INFO |S1000 88 [Information, 88]^
+NW |S1000 GD [Now, Good]^
+88 |S1000 72 [88, 72]^
 INFO |S1000 GB [Information, Goodbye]^
-NW |S1000 GB [Now, Goodbye]^
-72 |S1000 NW [72, Now]^
-88 |S1000 NW [88, Now]^
-LOOP |S1000 CW [Loop, C W]^
-NW |S1000 GB [Now, Goodbye]^
-GD |S1000 NW [Good, Now]^
-GD |S1000 NW [Good, Now]^
-GD |S1000 CW [Good, C W]^
-72 |S1000 NW [72, Now]^
-LOOP |S1000 88 [Loop, 88]^
-LOOP |S1000 88 [Loop, 88]^
-GD |S1000 LOOP [Good, Loop]^
-NW |S1000 INFO [Now, Information]^
-SWR |S1000 GN [S W R, Good night]^
-88 |S1000 NW [88, Now]^
-GN |S1000 LOOP [Good night, Loop]^
-GN |S1000 CW [Good night, C W]^
-GD |S1000 NW [Good, Now]^
-72 |S1000 NW [72, Now]^
-INFO |S1000 NW [Information, Now]^
-GD |S1000 INFO [Good, Information]^
-GD |S1000 LOOP [Good, Loop]^
 NW |S1000 88 [Now, 88]^
-NW |S1000 GN [Now, Good night]^
-LOOP |S1000 88 [Loop, 88]^
-LOOP |S1000 CW [Loop, C W]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 LOOP [Now, Loop]^
-72 |S1000 GN [72, Good night]^
-LOOP |S1000 CW [Loop, C W]^
-GN |S1000 NW [Good night, Now]^
-72 |S1000 NW [72, Now]^
-GB |S1000 GN [Goodbye, Good night]^
-INFO |S1000 72 [Information, 72]^
-GD |S1000 NW [Good, Now]^
-GN |S1000 CW [Good night, C W]^
-NW |S1000 88 [Now, 88]^
-NW |S1000 GN [Now, Good night]^
-NW |S1000 88 [Now, 88]^
-GN |S1000 NW [Good night, Now]^
-GN |S1000 NW [Good night, Now]^
-CW |S1000 INFO [C W, Information]^
-NW |S1000 CW [Now, C W]^
-88 |S1000 SWR [88, S W R]^
-INFO |S1000 LOOP [Information, Loop]^
-88 |S1000 NW [88, Now]^
-72 |S1000 SWR [72, S W R]^
-LOOP |S1000 NW [Loop, Now]^
+LOOP |S1000 SWR [Loop, S W R]^
 GN |S1000 88 [Good night, 88]^
-GD |S1000 88 [Good, 88]^
-INFO |S1000 GB [Information, Goodbye]^
-NW |S1000 CW [Now, C W]^
-INFO |S1000 NW [Information, Now]^
-SWR |S1000 NW [S W R, Now]^
-GB |S1000 NW [Goodbye, Now]^
-LOOP |S1000 CW [Loop, C W]^
-GD |S1000 NW [Good, Now]^
-GN |S1000 CW [Good night, C W]^
-GB |S1000 NW [Goodbye, Now]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 GB [Now, Goodbye]^
+LOOP |S1000 GD [Loop, Good]^
+NW |S1000 INFO [Now, Information]^
+72 |S1000 NW [72, Now]^
 LOOP |S1000 SWR [Loop, S W R]^
-CW |S1000 GB [C W, Goodbye]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 88 [Now, 88]^
+NW |S1000 CW [Now, C W]^
+NW |S1000 INFO [Now, Information]^
+CW |S1000 NW [C W, Now]^
+GB |S1000 NW [Goodbye, Now]^
 SWR |S1000 NW [S W R, Now]^
-88 |S1000 INFO [88, Information]^
+LOOP |S1000 NW [Loop, Now]^
+GD |S1000 GN [Good, Good night]^
+GB |S1000 GD [Goodbye, Good]^
+GB |S1000 NW [Goodbye, Now]^
+GN |S1000 INFO [Good night, Information]^
+NW |S1000 GD [Now, Good]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 GD [Now, Good]^
 NW |S1000 72 [Now, 72]^
+GN |S1000 CW [Good night, C W]^
+GN |S1000 CW [Good night, C W]^
+GB |S1000 88 [Goodbye, 88]^
+NW |S1000 SWR [Now, S W R]^
+NW |S1000 LOOP [Now, Loop]^
+GD |S1000 NW [Good, Now]^
+GN |S1000 NW [Good night, Now]^
+GD |S1000 NW [Good, Now]^
+CW |S1000 NW [C W, Now]^
+LOOP |S1000 INFO [Loop, Information]^
+NW |S1000 CW [Now, C W]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 88 [Now, 88]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 72 [Now, 72]^
+LOOP |S1000 SWR [Loop, S W R]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 LOOP [Now, Loop]^
+CW |S1000 88 [C W, 88]^
+GD |S1000 NW [Good, Now]^
+CW |S1000 LOOP [C W, Loop]^
+SWR |S1000 CW [S W R, C W]^
+GN |S1000 CW [Good night, C W]^
+72 |S1000 NW [72, Now]^
+GB |S1000 NW [Goodbye, Now]^
+INFO |S1000 72 [Information, 72]^
+GD |S1000 GB [Good, Goodbye]^
+LOOP |S1000 GN [Loop, Good night]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 INFO [Now, Information]^
+NW |S1000 GB [Now, Goodbye]^
+CW |S1000 NW [C W, Now]^
+GD |S1000 NW [Good, Now]^
+INFO |S1000 72 [Information, 72]^
+GD |S1000 CW [Good, C W]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 GD [Now, Good]^
+CW |S1000 INFO [C W, Information]^
+NW |S1000 72 [Now, 72]^
+LOOP |S1000 GN [Loop, Good night]^
+GB |S1000 72 [Goodbye, 72]^
+INFO |S1000 SWR [Information, S W R]^
+NW |S1000 88 [Now, 88]^
+GN |S1000 NW [Good night, Now]^
+GD |S1000 SWR [Good, S W R]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 SWR [Now, S W R]^
+NW |S1000 INFO [Now, Information]^
+GN |S1000 INFO [Good night, Information]^
+NW |S1000 LOOP [Now, Loop]^
+GN |S1000 GD [Good night, Good]^
+INFO |S1000 NW [Information, Now]^
+88 |S1000 CW [88, C W]^
+NW |S1000 INFO [Now, Information]^
+88 |S1000 INFO [88, Information]^
+NW |S1000 LOOP [Now, Loop]^
+GB |S1000 NW [Goodbye, Now]^
+72 |S1000 GB [72, Goodbye]^
+NW |S1000 INFO [Now, Information]^
+GB |S1000 NW [Goodbye, Now]^
+CW |S1000 GN [C W, Good night]^
+GD |S1000 GB [Good, Goodbye]^
+GD |S1000 72 [Good, 72]^
+NW |S1000 CW [Now, C W]^
+INFO |S1000 CW [Information, C W]^
+NW |S1000 88 [Now, 88]^
+GD |S1000 NW [Good, Now]^
+CW |S1000 INFO [C W, Information]^
+NW |S1000 INFO [Now, Information]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 LOOP [Now, Loop]^
+72 |S1000 LOOP [72, Loop]^
+NW |S1000 88 [Now, 88]^
+GB |S1000 NW [Goodbye, Now]^
+GD |S1000 NW [Good, Now]^
+GD |S1000 NW [Good, Now]^
+CW |S1000 GB [C W, Goodbye]^
+GD |S1000 NW [Good, Now]^
+CW |S1000 NW [C W, Now]^
+LOOP |S1000 NW [Loop, Now]^
+GD |S1000 LOOP [Good, Loop]^
+GN |S1000 88 [Good night, 88]^
+LOOP |S1000 72 [Loop, 72]^
+CW |S1000 NW [C W, Now]^
+CW |S1000 GD [C W, Good]^
+SWR |S1000 88 [S W R, 88]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 LOOP [Now, Loop]^
+SWR |S1000 NW [S W R, Now]^
+72 |S1000 GB [72, Goodbye]^
+SWR |S1000 INFO [S W R, Information]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 INFO [Now, Information]^
+CW |S1000 NW [C W, Now]^
+CW |S1000 NW [C W, Now]^
+CW |S1000 SWR [C W, S W R]^
+72 |S1000 LOOP [72, Loop]^
+NW |S1000 INFO [Now, Information]^
+NW |S1000 CW [Now, C W]^
+NW |S1000 GD [Now, Good]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 SWR [Now, S W R]^
+GN |S1000 NW [Good night, Now]^
+SWR |S1000 NW [S W R, Now]^
+GN |S1000 SWR [Good night, S W R]^
+GB |S1000 LOOP [Goodbye, Loop]^
+INFO |S1000 88 [Information, 88]^
+NW |S1000 GN [Now, Good night]^
+72 |S1000 NW [72, Now]^
+INFO |S1000 NW [Information, Now]^
+GB |S1000 CW [Goodbye, C W]^
+NW |S1000 CW [Now, C W]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 GN [Now, Good night]^
+CW |S1000 NW [C W, Now]^
+CW |S1000 NW [C W, Now]^
+72 |S1000 GB [72, Goodbye]^
+NW |S1000 72 [Now, 72]^
+LOOP |S1000 NW [Loop, Now]^
+CW |S1000 GD [C W, Good]^
+NW |S1000 GD [Now, Good]^
+72 |S1000 GN [72, Good night]^
+72 |S1000 INFO [72, Information]^
+CW |S1000 NW [C W, Now]^
+CW |S1000 NW [C W, Now]^
+72 |S1000 GB [72, Goodbye]^
+CW |S1000 88 [C W, 88]^
+72 |S1000 NW [72, Now]^
+SWR |S1000 88 [S W R, 88]^
+CW |S1000 NW [C W, Now]^
+72 |S1000 NW [72, Now]^
+CW |S1000 NW [C W, Now]^
+GN |S1000 NW [Good night, Now]^
+INFO |S1000 NW [Information, Now]^
+INFO |S1000 NW [Information, Now]^
+GN |S1000 GD [Good night, Good]^
 LOOP |S1000 NW [Loop, Now]^
 88 |S1000 GB [88, Goodbye]^
-NW |S1000 88 [Now, 88]^
-GB |S1000 CW [Goodbye, C W]^
-SWR |S1000 GN [S W R, Good night]^
-LOOP |S1000 NW [Loop, Now]^
-GD |S1000 GB [Good, Goodbye]^
-INFO |S1000 NW [Information, Now]^
-88 |S1000 NW [88, Now]^
-LOOP |S1000 NW [Loop, Now]^
-GN |S1000 GB [Good night, Goodbye]^
-LOOP |S1000 NW [Loop, Now]^
-SWR |S1000 NW [S W R, Now]^
 GN |S1000 NW [Good night, Now]^
-72 |S1000 LOOP [72, Loop]^
-GB |S1000 GN [Goodbye, Good night]^
+GB |S1000 GD [Goodbye, Good]^
+NW |S1000 CW [Now, C W]^
+NW |S1000 GD [Now, Good]^
+88 |S1000 GB [88, Goodbye]^
 NW |S1000 LOOP [Now, Loop]^
 NW |S1000 SWR [Now, S W R]^
-NW |S1000 GD [Now, Good]^
+GN |S1000 SWR [Good night, S W R]^
+NW |S1000 72 [Now, 72]^
+SWR |S1000 NW [S W R, Now]^
+CW |S1000 88 [C W, 88]^
 NW |S1000 LOOP [Now, Loop]^
-GN |S1000 INFO [Good night, Information]^
-88 |S1000 CW [88, C W]^
-NW |S1000 GN [Now, Good night]^
-CW |S1000 LOOP [C W, Loop]^
+NW |S1000 GB [Now, Goodbye]^
 CW |S1000 NW [C W, Now]^
-GD |S1000 GB [Good, Goodbye]^
-NW |S1000 LOOP [Now, Loop]^
+88 |S1000 GB [88, Goodbye]^
+NW |S1000 SWR [Now, S W R]^
+GN |S1000 NW [Good night, Now]^
+72 |S1000 GD [72, Good]^
+GN |S1000 88 [Good night, 88]^
+NW |S1000 88 [Now, 88]^
+SWR |S1000 NW [S W R, Now]^
 SWR |S1000 GN [S W R, Good night]^
+NW |S1000 INFO [Now, Information]^
+GN |S1000 INFO [Good night, Information]^
+CW |S1000 NW [C W, Now]^
+LOOP |S1000 GB [Loop, Goodbye]^
+88 |S1000 NW [88, Now]^
+GN |S1000 NW [Good night, Now]^
+SWR |S1000 NW [S W R, Now]^
+SWR |S1000 72 [S W R, 72]^
+SWR |S1000 NW [S W R, Now]^
+72 |S1000 GD [72, Good]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 SWR [Now, S W R]^
+NW |S1000 INFO [Now, Information]^
+72 |S1000 NW [72, Now]^
+CW |S1000 GB [C W, Goodbye]^
+GD |S1000 NW [Good, Now]^
+GN |S1000 GD [Good night, Good]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 LOOP [Now, Loop]^
+GD |S1000 NW [Good, Now]^
+GN |S1000 72 [Good night, 72]^
+NW |S1000 CW [Now, C W]^
+NW |S1000 SWR [Now, S W R]^
+GB |S1000 72 [Goodbye, 72]^
+88 |S1000 GN [88, Good night]^
+NW |S1000 INFO [Now, Information]^
+GN |S1000 NW [Good night, Now]^
+CW |S1000 72 [C W, 72]^
+SWR |S1000 GD [S W R, Good]^
+LOOP |S1000 72 [Loop, 72]^
+SWR |S1000 NW [S W R, Now]^
+GB |S1000 NW [Goodbye, Now]^
+72 |S1000 CW [72, C W]^
+GB |S1000 NW [Goodbye, Now]^
+INFO |S1000 GB [Information, Goodbye]^
+72 |S1000 NW [72, Now]^
+88 |S1000 CW [88, C W]^
+LOOP |S1000 NW [Loop, Now]^
+CW |S1000 NW [C W, Now]^
+CW |S1000 NW [C W, Now]^
+GB |S1000 SWR [Goodbye, S W R]^
+GN |S1000 88 [Good night, 88]^
+GB |S1000 GD [Goodbye, Good]^
+GN |S1000 LOOP [Good night, Loop]^
+88 |S1000 NW [88, Now]^
+SWR |S1000 NW [S W R, Now]^
+72 |S1000 GB [72, Goodbye]^
+88 |S1000 SWR [88, S W R]^
+88 |S1000 NW [88, Now]^
+88 |S1000 NW [88, Now]^
+LOOP |S1000 GD [Loop, Good]^
+GN |S1000 GD [Good night, Good]^
+INFO |S1000 88 [Information, 88]^
+GD |S1000 NW [Good, Now]^
+GB |S1000 NW [Goodbye, Now]^
+CW |S1000 NW [C W, Now]^
+72 |S1000 LOOP [72, Loop]^
+CW |S1000 SWR [C W, S W R]^
+NW |S1000 INFO [Now, Information]^
+LOOP |S1000 NW [Loop, Now]^
+SWR |S1000 LOOP [S W R, Loop]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 88 [Now, 88]^
+NW |S1000 SWR [Now, S W R]^
+88 |S1000 NW [88, Now]^
+CW |S1000 72 [C W, 72]^
+88 |S1000 NW [88, Now]^
+72 |S1000 CW [72, C W]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 GD [Now, Good]^
+SWR |S1000 GN [S W R, Good night]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 SWR [Now, S W R]^
+CW |S1000 GB [C W, Goodbye]^
+NW |S1000 88 [Now, 88]^
+NW |S1000 SWR [Now, S W R]^
+NW |S1000 GN [Now, Good night]^
+CW |S1000 SWR [C W, S W R]^
+NW |S1000 INFO [Now, Information]^
+SWR |S1000 72 [S W R, 72]^
+NW |S1000 GD [Now, Good]^
+SWR |S1000 CW [S W R, C W]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 GD [Now, Good]^
+NW |S1000 CW [Now, C W]^
+72 |S1000 NW [72, Now]^
+INFO |S1000 GD [Information, Good]^
+GN |S1000 GD [Good night, Good]^
+INFO |S1000 72 [Information, 72]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 GB [Now, Goodbye]^
+72 |S1000 GB [72, Goodbye]^
+GD |S1000 INFO [Good, Information]^
+NW |S1000 GD [Now, Good]^
+88 |S1000 LOOP [88, Loop]^
+72 |S1000 NW [72, Now]^
+CW |S1000 NW [C W, Now]^
+72 |S1000 NW [72, Now]^
+72 |S1000 LOOP [72, Loop]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 GD [Now, Good]^
+LOOP |S1000 NW [Loop, Now]^
+GB |S1000 88 [Goodbye, 88]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 LOOP [Now, Loop]^
+GD |S1000 CW [Good, C W]^
+GD |S1000 NW [Good, Now]^
+SWR |S1000 NW [S W R, Now]^
+GB |S1000 NW [Goodbye, Now]^
+GB |S1000 NW [Goodbye, Now]^
+CW |S1000 NW [C W, Now]^
+SWR |S1000 NW [S W R, Now]^
+LOOP |S1000 GN [Loop, Good night]^
+72 |S1000 CW [72, C W]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 GD [Now, Good]^
+NW |S1000 INFO [Now, Information]^
+72 |S1000 NW [72, Now]^
+72 |S1000 NW [72, Now]^
+SWR |S1000 88 [S W R, 88]^
+CW |S1000 NW [C W, Now]^
+72 |S1000 NW [72, Now]^
+GN |S1000 NW [Good night, Now]^
+INFO |S1000 GD [Information, Good]^
+72 |S1000 GD [72, Good]^
+INFO |S1000 NW [Information, Now]^
+LOOP |S1000 NW [Loop, Now]^
+GD |S1000 72 [Good, 72]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 GD [Now, Good]^
+88 |S1000 GB [88, Goodbye]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 88 [Now, 88]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 GD [Now, Good]^
+NW |S1000 GD [Now, Good]^
+NW |S1000 88 [Now, 88]^
+SWR |S1000 GD [S W R, Good]^
+NW |S1000 GB [Now, Goodbye]^
+SWR |S1000 88 [S W R, 88]^
+GD |S1000 NW [Good, Now]^
+GN |S1000 72 [Good night, 72]^
+CW |S1000 INFO [C W, Information]^
+NW |S1000 88 [Now, 88]^
+GB |S1000 88 [Goodbye, 88]^
+72 |S1000 NW [72, Now]^
+CW |S1000 72 [C W, 72]^
+GB |S1000 NW [Goodbye, Now]^
+GN |S1000 INFO [Good night, Information]^
+72 |S1000 CW [72, C W]^
+INFO |S1000 72 [Information, 72]^
+NW |S1000 72 [Now, 72]^
+NW |S1000 88 [Now, 88]^
+GN |S1000 72 [Good night, 72]^
+NW |S1000 INFO [Now, Information]^
+NW |S1000 GN [Now, Good night]^
+SWR |S1000 88 [S W R, 88]^
+CW |S1000 INFO [C W, Information]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 SWR [Now, S W R]^
+72 |S1000 NW [72, Now]^
+CW |S1000 NW [C W, Now]^
+CW |S1000 NW [C W, Now]^
+CW |S1000 NW [C W, Now]^
+GN |S1000 72 [Good night, 72]^
+INFO |S1000 NW [Information, Now]^
+GN |S1000 INFO [Good night, Information]^
+CW |S1000 NW [C W, Now]^
+GB |S1000 CW [Goodbye, C W]^
+GN |S1000 NW [Good night, Now]^
+GD |S1000 GB [Good, Goodbye]^
+72 |S1000 NW [72, Now]^
+CW |S1000 NW [C W, Now]^
+CW |S1000 NW [C W, Now]^
+CW |S1000 72 [C W, 72]^
 88 |S1000 NW [88, Now]^
 SWR |S1000 LOOP [S W R, Loop]^
 NW |S1000 88 [Now, 88]^
-CW |S1000 72 [C W, 72]^
-GN |S1000 NW [Good night, Now]^
-INFO |S1000 NW [Information, Now]^
-CW |S1000 NW [C W, Now]^
-GN |S1000 NW [Good night, Now]^
-GN |S1000 72 [Good night, 72]^
-GN |S1000 NW [Good night, Now]^
-GN |S1000 GD [Good night, Good]^
-72 |S1000 GD [72, Good]^
-88 |S1000 LOOP [88, Loop]^
-NW |S1000 CW [Now, C W]^
-GN |S1000 NW [Good night, Now]^
 CW |S1000 88 [C W, 88]^
-NW |S1000 GD [Now, Good]^
-CW |S1000 NW [C W, Now]^
-LOOP |S1000 NW [Loop, Now]^
-72 |S1000 LOOP [72, Loop]^
-SWR |S1000 GN [S W R, Good night]^
-NW |S1000 GN [Now, Good night]^
-NW |S1000 88 [Now, 88]^
-GB |S1000 NW [Goodbye, Now]^
-INFO |S1000 LOOP [Information, Loop]^
-NW |S1000 CW [Now, C W]^
-GN |S1000 CW [Good night, C W]^
-NW |S1000 88 [Now, 88]^
-GN |S1000 GD [Good night, Good]^
-88 |S1000 CW [88, C W]^
-72 |S1000 GB [72, Goodbye]^
-72 |S1000 GD [72, Good]^
-LOOP |S1000 NW [Loop, Now]^
-CW |S1000 NW [C W, Now]^
-INFO |S1000 NW [Information, Now]^
-CW |S1000 NW [C W, Now]^
-72 |S1000 GD [72, Good]^
-NW |S1000 INFO [Now, Information]^
-NW |S1000 GN [Now, Good night]^
-GD |S1000 GB [Good, Goodbye]^
 NW |S1000 SWR [Now, S W R]^
-72 |S1000 NW [72, Now]^
-INFO |S1000 GB [Information, Goodbye]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 GN [Now, Good night]^
 NW |S1000 GB [Now, Goodbye]^
+NW |S1000 88 [Now, 88]^
+LOOP |S1000 INFO [Loop, Information]^
+GN |S1000 NW [Good night, Now]^
+88 |S1000 INFO [88, Information]^
+GN |S1000 NW [Good night, Now]^
+GD |S1000 NW [Good, Now]^
+88 |S1000 INFO [88, Information]^
+SWR |S1000 GB [S W R, Goodbye]^
+INFO |S1000 72 [Information, 72]^
 NW |S1000 GN [Now, Good night]^
+GB |S1000 NW [Goodbye, Now]^
+GB |S1000 LOOP [Goodbye, Loop]^
+NW |S1000 88 [Now, 88]^
+SWR |S1000 88 [S W R, 88]^
+NW |S1000 88 [Now, 88]^
 NW |S1000 GN [Now, Good night]^
+LOOP |S1000 NW [Loop, Now]^
+GB |S1000 NW [Goodbye, Now]^
+SWR |S1000 NW [S W R, Now]^
+72 |S1000 88 [72, 88]^
+GD |S1000 NW [Good, Now]^
+INFO |S1000 NW [Information, Now]^
+GB |S1000 NW [Goodbye, Now]^
+INFO |S1000 NW [Information, Now]^
+CW |S1000 88 [C W, 88]^
+LOOP |S1000 72 [Loop, 72]^
+NW |S1000 CW [Now, C W]^
+GD |S1000 NW [Good, Now]^
+72 |S1000 INFO [72, Information]^
+88 |S1000 LOOP [88, Loop]^
+SWR |S1000 88 [S W R, 88]^
+NW |S1000 GB [Now, Goodbye]^
+SWR |S1000 INFO [S W R, Information]^
+NW |S1000 72 [Now, 72]^
+GD |S1000 NW [Good, Now]^
+GD |S1000 GN [Good, Good night]^
+INFO |S1000 SWR [Information, S W R]^
+NW |S1000 GN [Now, Good night]^
+GB |S1000 GN [Goodbye, Good night]^
+CW |S1000 NW [C W, Now]^
+INFO |S1000 88 [Information, 88]^
+NW |S1000 CW [Now, C W]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 72 [Now, 72]^
+GD |S1000 GB [Good, Goodbye]^
+88 |S1000 NW [88, Now]^
+GN |S1000 72 [Good night, 72]^
+GN |S1000 72 [Good night, 72]^
+NW |S1000 INFO [Now, Information]^
+88 |S1000 CW [88, C W]^
+SWR |S1000 GB [S W R, Goodbye]^
+CW |S1000 NW [C W, Now]^
+88 |S1000 NW [88, Now]^
+SWR |S1000 NW [S W R, Now]^
+SWR |S1000 NW [S W R, Now]^
+88 |S1000 SWR [88, S W R]^
+CW |S1000 NW [C W, Now]^
+72 |S1000 NW [72, Now]^
+GD |S1000 LOOP [Good, Loop]^
+SWR |S1000 NW [S W R, Now]^
+CW |S1000 NW [C W, Now]^
+LOOP |S1000 NW [Loop, Now]^
+CW |S1000 GD [C W, Good]^
+SWR |S1000 GN [S W R, Good night]^
+NW |S1000 SWR [Now, S W R]^
+NW |S1000 GB [Now, Goodbye]^
+GD |S1000 NW [Good, Now]^
+LOOP |S1000 88 [Loop, 88]^
+GB |S1000 NW [Goodbye, Now]^
+GB |S1000 NW [Goodbye, Now]^
+SWR |S1000 NW [S W R, Now]^
+GN |S1000 INFO [Good night, Information]^
+NW |S1000 GD [Now, Good]^
+CW |S1000 INFO [C W, Information]^
+GN |S1000 72 [Good night, 72]^
+NW |S1000 GD [Now, Good]^
+INFO |S1000 NW [Information, Now]^
+GB |S1000 LOOP [Goodbye, Loop]^
+88 |S1000 LOOP [88, Loop]^
+NW |S1000 INFO [Now, Information]^
+CW |S1000 GD [C W, Good]^
+NW |S1000 INFO [Now, Information]^
+NW |S1000 INFO [Now, Information]^
+GB |S1000 NW [Goodbye, Now]^
+SWR |S1000 CW [S W R, C W]^
+SWR |S1000 NW [S W R, Now]^
+GN |S1000 GB [Good night, Goodbye]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 88 [Now, 88]^
+CW |S1000 88 [C W, 88]^
+GD |S1000 NW [Good, Now]^
+GD |S1000 GB [Good, Goodbye]^
+NW |S1000 INFO [Now, Information]^
+GN |S1000 GD [Good night, Good]^
+NW |S1000 LOOP [Now, Loop]^
+NW |S1000 88 [Now, 88]^
+NW |S1000 SWR [Now, S W R]^
+GB |S1000 INFO [Goodbye, Information]^
+GD |S1000 CW [Good, C W]^
+NW |S1000 GB [Now, Goodbye]^
+INFO |S1000 CW [Information, C W]^
+NW |S1000 CW [Now, C W]^
+GD |S1000 NW [Good, Now]^
+88 |S1000 GN [88, Good night]^
+CW |S1000 INFO [C W, Information]^
+NW |S1000 INFO [Now, Information]^
+SWR |S1000 88 [S W R, 88]^
+GN |S1000 CW [Good night, C W]^
+SWR |S1000 NW [S W R, Now]^
+SWR |S1000 88 [S W R, 88]^
+GD |S1000 NW [Good, Now]^
+LOOP |S1000 GN [Loop, Good night]^
+NW |S1000 LOOP [Now, Loop]^
+GN |S1000 NW [Good night, Now]^
+GN |S1000 GB [Good night, Goodbye]^
+NW |S1000 LOOP [Now, Loop]^
+72 |S1000 GB [72, Goodbye]^
+LOOP |S1000 SWR [Loop, S W R]^
+LOOP |S1000 NW [Loop, Now]^
 CW |S1000 GN [C W, Good night]^
 NW |S1000 88 [Now, 88]^
-NW |S1000 GB [Now, Goodbye]^
-CW |S1000 NW [C W, Now]^
-CW |S1000 NW [C W, Now]^
-72 |S1000 NW [72, Now]^
-GD |S1000 NW [Good, Now]^
-88 |S1000 NW [88, Now]^
-88 |S1000 LOOP [88, Loop]^
-88 |S1000 LOOP [88, Loop]^
-GD |S1000 NW [Good, Now]^
-GN |S1000 72 [Good night, 72]^
-NW |S1000 GB [Now, Goodbye]^
-NW |S1000 SWR [Now, S W R]^
-CW |S1000 GB [C W, Goodbye]^
 NW |S1000 GN [Now, Good night]^
-NW |S1000 INFO [Now, Information]^
-88 |S1000 GN [88, Good night]^
-NW |S1000 INFO [Now, Information]^
-GD |S1000 INFO [Good, Information]^
-72 |S1000 88 [72, 88]^
-72 |S1000 NW [72, Now]^
-INFO |S1000 GD [Information, Good]^
-NW |S1000 SWR [Now, S W R]^
-NW |S1000 INFO [Now, Information]^
-GN |S1000 NW [Good night, Now]^
-GN |S1000 NW [Good night, Now]^
-CW |S1000 NW [C W, Now]^
+NW |S1000 GD [Now, Good]^
+GB |S1000 NW [Goodbye, Now]^
+CW |S1000 GD [C W, Good]^
+NW |S1000 GB [Now, Goodbye]^
 72 |S1000 INFO [72, Information]^
-LOOP |S1000 INFO [Loop, Information]^
+72 |S1000 INFO [72, Information]^
 NW |S1000 GB [Now, Goodbye]^
-NW |S1000 72 [Now, 72]^
-NW |S1000 LOOP [Now, Loop]^
-INFO |S1000 72 [Information, 72]^
-LOOP |S1000 NW [Loop, Now]^
-LOOP |S1000 GB [Loop, Goodbye]^
-CW |S1000 NW [C W, Now]^
-INFO |S1000 GB [Information, Goodbye]^
-88 |S1000 GB [88, Goodbye]^
-CW |S1000 NW [C W, Now]^
-72 |S1000 NW [72, Now]^
-72 |S1000 GN [72, Good night]^
-GB |S1000 88 [Goodbye, 88]^
-INFO |S1000 NW [Information, Now]^
-CW |S1000 88 [C W, 88]^
 NW |S1000 88 [Now, 88]^
 NW |S1000 LOOP [Now, Loop]^
-NW |S1000 88 [Now, 88]^
-SWR |S1000 NW [S W R, Now]^
-LOOP |S1000 GB [Loop, Goodbye]^
-GD |S1000 CW [Good, C W]^
-GN |S1000 NW [Good night, Now]^
-72 |S1000 NW [72, Now]^
-SWR |S1000 72 [S W R, 72]^
-INFO |S1000 SWR [Information, S W R]^
-NW |S1000 88 [Now, 88]^
-GD |S1000 NW [Good, Now]^
-GB |S1000 GD [Goodbye, Good]^
+NW |S1000 GN [Now, Good night]^
 NW |S1000 GB [Now, Goodbye]^
-SWR |S1000 NW [S W R, Now]^
-88 |S1000 72 [88, 72]^
-88 |S1000 NW [88, Now]^
-INFO |S1000 NW [Information, Now]^
-GN |S1000 LOOP [Good night, Loop]^
-GB |S1000 GD [Goodbye, Good]^
-SWR |S1000 NW [S W R, Now]^
-GN |S1000 72 [Good night, 72]^
-NW |S1000 GB [Now, Goodbye]^
-INFO |S1000 CW [Information, C W]^
-SWR |S1000 GN [S W R, Good night]^
-NW |S1000 SWR [Now, S W R]^
-CW |S1000 88 [C W, 88]^
-SWR |S1000 72 [S W R, 72]^
-LOOP |S1000 NW [Loop, Now]^
-88 |S1000 NW [88, Now]^
-SWR |S1000 NW [S W R, Now]^
-88 |S1000 NW [88, Now]^
-88 |S1000 GN [88, Good night]^
-88 |S1000 INFO [88, Information]^
-SWR |S1000 NW [S W R, Now]^
+CW |S1000 SWR [C W, S W R]^
 GN |S1000 NW [Good night, Now]^

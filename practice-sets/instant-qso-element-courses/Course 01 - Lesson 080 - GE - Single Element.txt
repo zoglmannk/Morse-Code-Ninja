@@ -1,600 +1,600 @@
-NR [Number]^
-TEST [Contest]^
-GE [Good evening]^
-QRZ [Q R Zed]^
-GE [Good evening]^
-QRM [Interference]^
-GE [Good evening]^
-NAME [Name]^
-GE [Good evening]^
-599 [5 9 9]^
-GA [Good afternoon]^
-GE [Good evening]^
-DE [From]^
-QRM [Interference]^
-GE [Good evening]^
-GA [Good afternoon]^
-73 [73]^
-GE [Good evening]^
 ES [And]^
+GE [Good evening]^
+RST [R S T]^
+CQ [C Q]^
+QRM [Interference]^
+GE [Good evening]^
+NR [Number]^
+GE [Good evening]^
+GA [Good afternoon]^
+GE [Good evening]^
+QRM [Interference]^
 UR [Your]^
-QRZ [Q R Zed]^
-5NN [5 N N]^
+CQ [C Q]^
 GE [Good evening]^
-5NN [5 N N]^
+VY [Very]^
 GE [Good evening]^
-ES [And]^
-599 [5 9 9]^
+RST [R S T]^
+AGN [Again]^
+GE [Good evening]^
+AGN [Again]^
+GE [Good evening]^
 73 [73]^
 GE [Good evening]^
-WX [Weather]^
-UP [Up]^
+QRZ [Q R Zed]^
+GE [Good evening]^
 TEST [Contest]^
+DE [From]^
+NR [Number]^
 GE [Good evening]^
-UP [Up]^
-GE [Good evening]^
-ES [And]^
-GE [Good evening]^
-599 [5 9 9]^
-GE [Good evening]^
-GM [Good morning]^
+AGN [Again]^
+UR [Your]^
+GA [Good afternoon]^
 GE [Good evening]^
 GA [Good afternoon]^
-NR [Number]^
-DE [From]^
-GE [Good evening]^
-QRM [Interference]^
-GE [Good evening]^
 559 [5 5 9]^
-GE [Good evening]^
-UP [Up]^
-UR [Your]^
-GE [Good evening]^
-QRZ [Q R Zed]^
-GE [Good evening]^
-QRZ [Q R Zed]^
-GE [Good evening]^
-VY [Very]^
-GA [Good afternoon]^
-5NN [5 N N]^
-73 [73]^
-UP [Up]^
-GA [Good afternoon]^
-GM [Good morning]^
-GE [Good evening]^
-GA [Good afternoon]^
-UR [Your]^
-GE [Good evening]^
-DE [From]^
-GE [Good evening]^
-UP [Up]^
-GE [Good evening]^
-QRZ [Q R Zed]^
-UP [Up]^
-GE [Good evening]^
-CQ [C Q]^
-UR [Your]^
-GE [Good evening]^
-QRM [Interference]^
-RST [R S T]^
-599 [5 9 9]^
-GE [Good evening]^
-599 [5 9 9]^
-GE [Good evening]^
-VY [Very]^
-NAME [Name]^
-RST [R S T]^
-UP [Up]^
-GM [Good morning]^
-QRM [Interference]^
-GE [Good evening]^
-VY [Very]^
-GA [Good afternoon]^
-UP [Up]^
-599 [5 9 9]^
-GE [Good evening]^
-RST [R S T]^
-DE [From]^
-RST [R S T]^
-599 [5 9 9]^
-GE [Good evening]^
-73 [73]^
-CQ [C Q]^
-GE [Good evening]^
-GA [Good afternoon]^
-QRM [Interference]^
-GE [Good evening]^
 TEST [Contest]^
+GE [Good evening]^
+NAME [Name]^
+GE [Good evening]^
+DE [From]^
+GE [Good evening]^
+VY [Very]^
+QRM [Interference]^
+73 [73]^
+GE [Good evening]^
+AGN [Again]^
 559 [5 5 9]^
 GE [Good evening]^
 WX [Weather]^
 GE [Good evening]^
-599 [5 9 9]^
-UP [Up]^
+QRZ [Q R Zed]^
+CQ [C Q]^
 GE [Good evening]^
-73 [73]^
-GE [Good evening]^
-73 [73]^
-GM [Good morning]^
-NR [Number]^
-73 [73]^
 ES [And]^
-GE [Good evening]^
-73 [73]^
-GE [Good evening]^
-559 [5 5 9]^
-GE [Good evening]^
-UP [Up]^
-UR [Your]^
-QRM [Interference]^
-TEST [Contest]^
-GE [Good evening]^
-VY [Very]^
-GE [Good evening]^
-VY [Very]^
+RST [R S T]^
 AGN [Again]^
 GE [Good evening]^
 WX [Weather]^
 GE [Good evening]^
-ES [And]^
-GA [Good afternoon]^
-GE [Good evening]^
-CQ [C Q]^
-GE [Good evening]^
+73 [73]^
 QRZ [Q R Zed]^
 UR [Your]^
-73 [73]^
-GA [Good afternoon]^
-NR [Number]^
-599 [5 9 9]^
-UR [Your]^
-GE [Good evening]^
-DE [From]^
-GE [Good evening]^
-NAME [Name]^
-GE [Good evening]^
-UP [Up]^
-GE [Good evening]^
-ES [And]^
-NAME [Name]^
 VY [Very]^
-NR [Number]^
-5NN [5 N N]^
-GA [Good afternoon]^
-GE [Good evening]^
-VY [Very]^
-GE [Good evening]^
-GA [Good afternoon]^
-GE [Good evening]^
-AGN [Again]^
-599 [5 9 9]^
-73 [73]^
-GE [Good evening]^
-599 [5 9 9]^
-NR [Number]^
-QRM [Interference]^
-AGN [Again]^
-5NN [5 N N]^
-VY [Very]^
-TEST [Contest]^
-GE [Good evening]^
-NAME [Name]^
-GE [Good evening]^
-NR [Number]^
-GE [Good evening]^
-VY [Very]^
-UP [Up]^
-QRM [Interference]^
-GE [Good evening]^
-QRM [Interference]^
-ES [And]^
-NR [Number]^
-NAME [Name]^
-GE [Good evening]^
-GM [Good morning]^
-GE [Good evening]^
-QRM [Interference]^
-NR [Number]^
-GM [Good morning]^
-GE [Good evening]^
-73 [73]^
-559 [5 5 9]^
-GE [Good evening]^
-AGN [Again]^
-ES [And]^
-73 [73]^
-GE [Good evening]^
-5NN [5 N N]^
-DE [From]^
-GE [Good evening]^
-QRM [Interference]^
-RST [R S T]^
-TEST [Contest]^
-UR [Your]^
-GE [Good evening]^
-GA [Good afternoon]^
-TEST [Contest]^
-GE [Good evening]^
-NR [Number]^
-5NN [5 N N]^
-TEST [Contest]^
-GE [Good evening]^
-QRM [Interference]^
-GE [Good evening]^
-DE [From]^
-GE [Good evening]^
-TEST [Contest]^
-GE [Good evening]^
-UR [Your]^
-GE [Good evening]^
-559 [5 5 9]^
-GE [Good evening]^
-RST [R S T]^
-GE [Good evening]^
-DE [From]^
-GE [Good evening]^
-GM [Good morning]^
-GE [Good evening]^
-73 [73]^
-QRM [Interference]^
-GE [Good evening]^
-QRM [Interference]^
-DE [From]^
-QRM [Interference]^
-GE [Good evening]^
-GM [Good morning]^
-CQ [C Q]^
-GE [Good evening]^
-VY [Very]^
-GE [Good evening]^
-5NN [5 N N]^
-GE [Good evening]^
-GA [Good afternoon]^
-73 [73]^
-GE [Good evening]^
-RST [R S T]^
-599 [5 9 9]^
-GE [Good evening]^
 ES [And]^
 GE [Good evening]^
-559 [5 5 9]^
-UR [Your]^
-NR [Number]^
-GE [Good evening]^
-TEST [Contest]^
-GE [Good evening]^
-CQ [C Q]^
-GE [Good evening]^
-DE [From]^
 73 [73]^
 GE [Good evening]^
-NR [Number]^
-GE [Good evening]^
-5NN [5 N N]^
-73 [73]^
 DE [From]^
-UR [Your]^
-QRM [Interference]^
-73 [73]^
-GE [Good evening]^
-AGN [Again]^
-GE [Good evening]^
-AGN [Again]^
-QRM [Interference]^
-GE [Good evening]^
-559 [5 5 9]^
-GE [Good evening]^
-AGN [Again]^
-GE [Good evening]^
-QRM [Interference]^
-GE [Good evening]^
-NR [Number]^
-559 [5 5 9]^
-GE [Good evening]^
-5NN [5 N N]^
-GM [Good morning]^
-RST [R S T]^
-QRM [Interference]^
-NAME [Name]^
-GE [Good evening]^
-73 [73]^
-NAME [Name]^
-CQ [C Q]^
-GE [Good evening]^
-5NN [5 N N]^
-DE [From]^
-GE [Good evening]^
-RST [R S T]^
-GE [Good evening]^
-DE [From]^
-GE [Good evening]^
-NAME [Name]^
-GE [Good evening]^
-UR [Your]^
-GE [Good evening]^
-GA [Good afternoon]^
-UR [Your]^
-GE [Good evening]^
-UR [Your]^
-599 [5 9 9]^
+ES [And]^
 GE [Good evening]^
 VY [Very]^
-TEST [Contest]^
+UR [Your]^
+GE [Good evening]^
 QRZ [Q R Zed]^
-73 [73]^
-RST [R S T]^
-DE [From]^
 GE [Good evening]^
-WX [Weather]^
-TEST [Contest]^
-DE [From]^
-73 [73]^
+VY [Very]^
 GE [Good evening]^
 UR [Your]^
-GA [Good afternoon]^
-NR [Number]^
 GE [Good evening]^
-RST [R S T]^
+GM [Good morning]^
 GE [Good evening]^
-UP [Up]^
+QRM [Interference]^
+QRZ [Q R Zed]^
 GE [Good evening]^
-NR [Number]^
-AGN [Again]^
+TEST [Contest]^
+GE [Good evening]^
+QRM [Interference]^
+GE [Good evening]^
+559 [5 5 9]^
+GE [Good evening]^
+ES [And]^
+VY [Very]^
+QRM [Interference]^
+VY [Very]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+GM [Good morning]^
+TEST [Contest]^
 GE [Good evening]^
 WX [Weather]^
 GE [Good evening]^
-GA [Good afternoon]^
+DE [From]^
+GE [Good evening]^
 CQ [C Q]^
-VY [Very]^
-NR [Number]^
-VY [Very]^
 GE [Good evening]^
-RST [R S T]^
+DE [From]^
 GE [Good evening]^
-TEST [Contest]^
-GM [Good morning]^
+559 [5 5 9]^
+ES [And]^
 73 [73]^
 GE [Good evening]^
-QRM [Interference]^
-GE [Good evening]^
-GM [Good morning]^
-UP [Up]^
-ES [And]^
-GE [Good evening]^
-RST [R S T]^
-GE [Good evening]^
+DE [From]^
 73 [73]^
-GA [Good afternoon]^
-UP [Up]^
-GM [Good morning]^
-GE [Good evening]^
-CQ [C Q]^
-GE [Good evening]^
-QRM [Interference]^
-GE [Good evening]^
-UR [Your]^
-DE [From]^
-AGN [Again]^
-GE [Good evening]^
-GA [Good afternoon]^
-GE [Good evening]^
-CQ [C Q]^
-GE [Good evening]^
-ES [And]^
-NR [Number]^
-GE [Good evening]^
-ES [And]^
-599 [5 9 9]^
-AGN [Again]^
-599 [5 9 9]^
-73 [73]^
-TEST [Contest]^
-GM [Good morning]^
-TEST [Contest]^
-UR [Your]^
-NR [Number]^
-GE [Good evening]^
-AGN [Again]^
-5NN [5 N N]^
-GE [Good evening]^
-DE [From]^
-WX [Weather]^
-559 [5 5 9]^
-NR [Number]^
-QRM [Interference]^
-559 [5 5 9]^
-GE [Good evening]^
-TEST [Contest]^
-559 [5 5 9]^
-GE [Good evening]^
-QRM [Interference]^
-5NN [5 N N]^
-GE [Good evening]^
-DE [From]^
-599 [5 9 9]^
-ES [And]^
-TEST [Contest]^
-QRM [Interference]^
-559 [5 5 9]^
-CQ [C Q]^
-GE [Good evening]^
-NR [Number]^
-GE [Good evening]^
-559 [5 5 9]^
-GM [Good morning]^
-GE [Good evening]^
-599 [5 9 9]^
-AGN [Again]^
-UP [Up]^
-QRZ [Q R Zed]^
-5NN [5 N N]^
-GE [Good evening]^
-WX [Weather]^
-NR [Number]^
-QRM [Interference]^
-DE [From]^
-GE [Good evening]^
-UP [Up]^
-599 [5 9 9]^
-GA [Good afternoon]^
-GE [Good evening]^
-VY [Very]^
-UP [Up]^
-GE [Good evening]^
-5NN [5 N N]^
-559 [5 5 9]^
-TEST [Contest]^
-QRZ [Q R Zed]^
-GE [Good evening]^
-VY [Very]^
-GE [Good evening]^
 VY [Very]^
 QRM [Interference]^
-5NN [5 N N]^
-GA [Good afternoon]^
-559 [5 5 9]^
-QRM [Interference]^
-NR [Number]^
 GE [Good evening]^
-QRZ [Q R Zed]^
-GE [Good evening]^
-DE [From]^
-QRM [Interference]^
-GE [Good evening]^
-599 [5 9 9]^
-CQ [C Q]^
-UR [Your]^
-TEST [Contest]^
-GE [Good evening]^
-73 [73]^
-GE [Good evening]^
-WX [Weather]^
-NAME [Name]^
-UR [Your]^
-GE [Good evening]^
-ES [And]^
-599 [5 9 9]^
 NAME [Name]^
 GE [Good evening]^
-WX [Weather]^
-GE [Good evening]^
+GA [Good afternoon]^
 CQ [C Q]^
-GE [Good evening]^
-QRM [Interference]^
+599 [5 9 9]^
+WX [Weather]^
+559 [5 5 9]^
+WX [Weather]^
 GE [Good evening]^
 NR [Number]^
-DE [From]^
-5NN [5 N N]^
-AGN [Again]^
-599 [5 9 9]^
 GE [Good evening]^
-RST [R S T]^
-ES [And]^
-GE [Good evening]^
-QRZ [Q R Zed]^
 WX [Weather]^
 GE [Good evening]^
-VY [Very]^
-AGN [Again]^
+559 [5 5 9]^
 GE [Good evening]^
+UP [Up]^
+NR [Number]^
+73 [73]^
+GE [Good evening]^
+DE [From]^
+GE [Good evening]^
+ES [And]^
+GE [Good evening]^
+5NN [5 N N]^
+DE [From]^
 UR [Your]^
 GE [Good evening]^
 73 [73]^
+UR [Your]^
+GE [Good evening]^
+NAME [Name]^
+GE [Good evening]^
+VY [Very]^
+GE [Good evening]^
+VY [Very]^
 GE [Good evening]^
 WX [Weather]^
 GE [Good evening]^
-NR [Number]^
+73 [73]^
+5NN [5 N N]^
+GE [Good evening]^
 599 [5 9 9]^
+WX [Weather]^
+5NN [5 N N]^
+UP [Up]^
+599 [5 9 9]^
+CQ [C Q]^
+DE [From]^
+CQ [C Q]^
+VY [Very]^
+ES [And]^
+GE [Good evening]^
+DE [From]^
+GE [Good evening]^
+CQ [C Q]^
+GE [Good evening]^
+WX [Weather]^
+UP [Up]^
+DE [From]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+NR [Number]^
+GE [Good evening]^
+VY [Very]^
+TEST [Contest]^
+GE [Good evening]^
+QRM [Interference]^
+UR [Your]^
+RST [R S T]^
+GE [Good evening]^
+NAME [Name]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+GM [Good morning]^
+73 [73]^
+CQ [C Q]^
+GM [Good morning]^
+RST [R S T]^
+GE [Good evening]^
+VY [Very]^
+559 [5 5 9]^
+ES [And]^
+TEST [Contest]^
+GE [Good evening]^
+NAME [Name]^
 GE [Good evening]^
 UR [Your]^
 GE [Good evening]^
-QRZ [Q R Zed]^
+QRM [Interference]^
 GE [Good evening]^
-TEST [Contest]^
-599 [5 9 9]^
-DE [From]^
-CQ [C Q]^
-GE [Good evening]^
-UP [Up]^
-GE [Good evening]^
-ES [And]^
+UR [Your]^
+NR [Number]^
 GE [Good evening]^
 NR [Number]^
-VY [Very]^
+599 [5 9 9]^
+WX [Weather]^
+TEST [Contest]^
 GE [Good evening]^
-5NN [5 N N]^
-GE [Good evening]^
-QRZ [Q R Zed]^
 ES [And]^
 GE [Good evening]^
-QRZ [Q R Zed]^
 VY [Very]^
 GE [Good evening]^
+NR [Number]^
+GM [Good morning]^
+73 [73]^
+GE [Good evening]^
+CQ [C Q]^
+ES [And]^
+GE [Good evening]^
+5NN [5 N N]^
+QRM [Interference]^
+NR [Number]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+5NN [5 N N]^
 GM [Good morning]^
 GE [Good evening]^
-559 [5 5 9]^
-GE [Good evening]^
-RST [R S T]^
+73 [73]^
 CQ [C Q]^
 GE [Good evening]^
-CQ [C Q]^
-GE [Good evening]^
+WX [Weather]^
 UP [Up]^
-AGN [Again]^
-VY [Very]^
-GE [Good evening]^
 5NN [5 N N]^
-GE [Good evening]^
-QRZ [Q R Zed]^
-CQ [C Q]^
-GE [Good evening]^
-CQ [C Q]^
-QRM [Interference]^
-DE [From]^
-UP [Up]^
-AGN [Again]^
-GE [Good evening]^
-AGN [Again]^
-RST [R S T]^
-GE [Good evening]^
-VY [Very]^
-UP [Up]^
-GE [Good evening]^
-GA [Good afternoon]^
-GE [Good evening]^
-QRZ [Q R Zed]^
-UP [Up]^
-GE [Good evening]^
 NR [Number]^
-559 [5 5 9]^
+NAME [Name]^
+QRZ [Q R Zed]^
+TEST [Contest]^
 GE [Good evening]^
-GA [Good afternoon]^
+WX [Weather]^
 GE [Good evening]^
-GA [Good afternoon]^
 NAME [Name]^
 GE [Good evening]^
-TEST [Contest]^
+NR [Number]^
 GE [Good evening]^
-559 [5 5 9]^
-RST [R S T]^
-GE [Good evening]^
-UP [Up]^
-VY [Very]^
 ES [And]^
 GE [Good evening]^
-GM [Good morning]^
+GA [Good afternoon]^
+UP [Up]^
+559 [5 5 9]^
 GE [Good evening]^
 QRZ [Q R Zed]^
-QRM [Interference]^
+UP [Up]^
 GE [Good evening]^
-ES [And]^
-AGN [Again]^
+NR [Number]^
+RST [R S T]^
+UR [Your]^
+GA [Good afternoon]^
 GE [Good evening]^
-DE [From]^
+NR [Number]^
+GE [Good evening]^
+VY [Very]^
+5NN [5 N N]^
+CQ [C Q]^
 GM [Good morning]^
+QRM [Interference]^
+NAME [Name]^
 GE [Good evening]^
 GA [Good afternoon]^
+CQ [C Q]^
+GM [Good morning]^
+NAME [Name]^
+GE [Good evening]^
+73 [73]^
+NAME [Name]^
+UR [Your]^
+ES [And]^
+GE [Good evening]^
+QRM [Interference]^
+NAME [Name]^
+559 [5 5 9]^
+GE [Good evening]^
+CQ [C Q]^
+DE [From]^
+5NN [5 N N]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+UR [Your]^
+GE [Good evening]^
+CQ [C Q]^
+GE [Good evening]^
+WX [Weather]^
+GE [Good evening]^
 RST [R S T]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+UP [Up]^
+GE [Good evening]^
+RST [R S T]^
+DE [From]^
+GE [Good evening]^
+CQ [C Q]^
+NAME [Name]^
+GE [Good evening]^
+CQ [C Q]^
+GE [Good evening]^
+ES [And]^
+DE [From]^
+VY [Very]^
+CQ [C Q]^
+GE [Good evening]^
+73 [73]^
+UP [Up]^
+GE [Good evening]^
+NR [Number]^
+GE [Good evening]^
+VY [Very]^
+ES [And]^
+VY [Very]^
+QRM [Interference]^
+VY [Very]^
+WX [Weather]^
+559 [5 5 9]^
+UP [Up]^
+WX [Weather]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+UP [Up]^
+GA [Good afternoon]^
+AGN [Again]^
+GE [Good evening]^
+5NN [5 N N]^
+UR [Your]^
+599 [5 9 9]^
+GE [Good evening]^
+CQ [C Q]^
+WX [Weather]^
+RST [R S T]^
+GE [Good evening]^
+GA [Good afternoon]^
+559 [5 5 9]^
+NAME [Name]^
+UP [Up]^
+GE [Good evening]^
+599 [5 9 9]^
+GE [Good evening]^
+RST [R S T]^
+GE [Good evening]^
+GM [Good morning]^
+GE [Good evening]^
+WX [Weather]^
+GE [Good evening]^
+RST [R S T]^
+GE [Good evening]^
+NR [Number]^
+GE [Good evening]^
+GA [Good afternoon]^
+GE [Good evening]^
+VY [Very]^
+GE [Good evening]^
+ES [And]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+UR [Your]^
+GE [Good evening]^
+599 [5 9 9]^
+GE [Good evening]^
+CQ [C Q]^
+QRZ [Q R Zed]^
+599 [5 9 9]^
+GE [Good evening]^
+5NN [5 N N]^
+RST [R S T]^
+AGN [Again]^
+NAME [Name]^
+GE [Good evening]^
+WX [Weather]^
+TEST [Contest]^
+NAME [Name]^
+599 [5 9 9]^
+GE [Good evening]^
+ES [And]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+599 [5 9 9]^
+GE [Good evening]^
+DE [From]^
+GE [Good evening]^
+599 [5 9 9]^
+RST [R S T]^
+GE [Good evening]^
+GA [Good afternoon]^
+GE [Good evening]^
+NAME [Name]^
+599 [5 9 9]^
+DE [From]^
+GE [Good evening]^
+CQ [C Q]^
+WX [Weather]^
+GE [Good evening]^
+RST [R S T]^
+559 [5 5 9]^
+GE [Good evening]^
+GM [Good morning]^
+QRZ [Q R Zed]^
+TEST [Contest]^
+WX [Weather]^
+NR [Number]^
+GE [Good evening]^
+WX [Weather]^
+GE [Good evening]^
+DE [From]^
+WX [Weather]^
+599 [5 9 9]^
+QRZ [Q R Zed]^
+VY [Very]^
+RST [R S T]^
+GE [Good evening]^
+VY [Very]^
+599 [5 9 9]^
+GE [Good evening]^
+559 [5 5 9]^
+GE [Good evening]^
+DE [From]^
+GE [Good evening]^
+UP [Up]^
+559 [5 5 9]^
+DE [From]^
+GE [Good evening]^
+NR [Number]^
+73 [73]^
+GA [Good afternoon]^
+WX [Weather]^
+GE [Good evening]^
+GA [Good afternoon]^
+GE [Good evening]^
+UP [Up]^
+QRM [Interference]^
+ES [And]^
+WX [Weather]^
+CQ [C Q]^
+WX [Weather]^
+GE [Good evening]^
+ES [And]^
+GE [Good evening]^
+AGN [Again]^
+GE [Good evening]^
+CQ [C Q]^
+GE [Good evening]^
+VY [Very]^
+GE [Good evening]^
+GA [Good afternoon]^
+GE [Good evening]^
+ES [And]^
+GE [Good evening]^
+73 [73]^
+VY [Very]^
+QRM [Interference]^
+GE [Good evening]^
+CQ [C Q]^
+GE [Good evening]^
+599 [5 9 9]^
+73 [73]^
+GA [Good afternoon]^
+GE [Good evening]^
+73 [73]^
+TEST [Contest]^
+GE [Good evening]^
+5NN [5 N N]^
+GE [Good evening]^
+UP [Up]^
+WX [Weather]^
+GE [Good evening]^
+RST [R S T]^
+559 [5 5 9]^
+RST [R S T]^
+GE [Good evening]^
+WX [Weather]^
+559 [5 5 9]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+AGN [Again]^
+GE [Good evening]^
+CQ [C Q]^
+DE [From]^
+UP [Up]^
+GE [Good evening]^
+UP [Up]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+GM [Good morning]^
+WX [Weather]^
+QRM [Interference]^
+GE [Good evening]^
+UP [Up]^
+TEST [Contest]^
+ES [And]^
+GE [Good evening]^
+TEST [Contest]^
+GE [Good evening]^
+5NN [5 N N]^
+UP [Up]^
+ES [And]^
+RST [R S T]^
+GE [Good evening]^
+DE [From]^
+599 [5 9 9]^
+GE [Good evening]^
+AGN [Again]^
+GE [Good evening]^
+CQ [C Q]^
+ES [And]^
+GE [Good evening]^
+NR [Number]^
+UR [Your]^
+599 [5 9 9]^
 GA [Good afternoon]^
 GE [Good evening]^
 559 [5 5 9]^
+UR [Your]^
+GE [Good evening]^
+TEST [Contest]^
+GE [Good evening]^
+NAME [Name]^
+UP [Up]^
+RST [R S T]^
+VY [Very]^
+UR [Your]^
+NR [Number]^
+GE [Good evening]^
+TEST [Contest]^
+GE [Good evening]^
+73 [73]^
+GE [Good evening]^
+NAME [Name]^
+VY [Very]^
+GE [Good evening]^
+QRZ [Q R Zed]^
+GE [Good evening]^
+UP [Up]^
+QRZ [Q R Zed]^
+ES [And]^
+GE [Good evening]^
+GM [Good morning]^
+GE [Good evening]^
+DE [From]^
+VY [Very]^
+GE [Good evening]^
+GA [Good afternoon]^
+UP [Up]^
+599 [5 9 9]^
+GE [Good evening]^
+UP [Up]^
+73 [73]^
+GM [Good morning]^
+GE [Good evening]^
+73 [73]^
+GE [Good evening]^
+73 [73]^
+UP [Up]^
+73 [73]^
+GE [Good evening]^
+VY [Very]^
+GE [Good evening]^
+599 [5 9 9]^
+GE [Good evening]^
+ES [And]^
+599 [5 9 9]^
+GE [Good evening]^
+5NN [5 N N]^
+CQ [C Q]^
+RST [R S T]^
+GE [Good evening]^
+5NN [5 N N]^
+GM [Good morning]^
+WX [Weather]^
+GE [Good evening]^
+UR [Your]^
+GE [Good evening]^
+NR [Number]^
+CQ [C Q]^
+NR [Number]^
+5NN [5 N N]^
+QRZ [Q R Zed]^
+599 [5 9 9]^
+DE [From]^
+GE [Good evening]^
+GM [Good morning]^

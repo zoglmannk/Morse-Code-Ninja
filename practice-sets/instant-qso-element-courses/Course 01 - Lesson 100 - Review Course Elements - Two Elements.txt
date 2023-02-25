@@ -1,600 +1,600 @@
-NR |S1000 QTH [Number, Location]^
-559 |S1000 GM [5 5 9, Good morning]^
-QRZ |S1000 559 [Q R Zed, 5 5 9]^
-QRM |S1000 DE [Interference, From]^
-QRM |S1000 NAME [Interference, Name]^
-RST |S1000 QTH [R S T, Location]^
-CQ |S1000 UP [C Q, Up]^
-QRM |S1000 559 [Interference, 5 5 9]^
-599 |S1000 GE [5 9 9, Good evening]^
-GM |S1000 CQ [Good morning, C Q]^
-TU |S1000 NR [Thank you, Number]^
-TU |S1000 AGN [Thank you, Again]^
-599 |S1000 FER [5 9 9, For]^
-HI HI |S1000 NR [laughing, Number]^
-73 |S1000 HI HI [73, laughing]^
-ES |S1000 QRM [And, Interference]^
+73 |S1000 5NN [73, 5 N N]^
 HI HI |S1000 GM [laughing, Good morning]^
-NAME |S1000 NR [Name, Number]^
-HI HI |S1000 UR [laughing, Your]^
-HI HI |S1000 RST [laughing, R S T]^
-5NN |S1000 RST [5 N N, R S T]^
-GA |S1000 WX [Good afternoon, Weather]^
-ES |S1000 UP [And, Up]^
-TEST |S1000 CQ [Contest, C Q]^
-GA |S1000 599 [Good afternoon, 5 9 9]^
-GA |S1000 599 [Good afternoon, 5 9 9]^
-GM |S1000 FER [Good morning, For]^
-UR |S1000 GA [Your, Good afternoon]^
-ES |S1000 NR [And, Number]^
-WX |S1000 559 [Weather, 5 5 9]^
-TU |S1000 DE [Thank you, From]^
-HI HI |S1000 QRM [laughing, Interference]^
-599 |S1000 GE [5 9 9, Good evening]^
-NAME |S1000 QRZ [Name, Q R Zed]^
-NR |S1000 TEST [Number, Contest]^
-NR |S1000 559 [Number, 5 5 9]^
-WX |S1000 VY [Weather, Very]^
-QTH |S1000 HI HI [Location, laughing]^
-AGN |S1000 GM [Again, Good morning]^
-NR |S1000 559 [Number, 5 5 9]^
-599 |S1000 DE [5 9 9, From]^
-FER |S1000 TEST [For, Contest]^
-TU |S1000 RST [Thank you, R S T]^
-UR |S1000 73 [Your, 73]^
-UR |S1000 GA [Your, Good afternoon]^
-RST |S1000 TEST [R S T, Contest]^
-5NN |S1000 NR [5 N N, Number]^
-599 |S1000 AGN [5 9 9, Again]^
-ES |S1000 599 [And, 5 9 9]^
-QTH |S1000 UR [Location, Your]^
-GM |S1000 RST [Good morning, R S T]^
-ES |S1000 VY [And, Very]^
-AGN |S1000 NAME [Again, Name]^
-RST |S1000 QRZ [R S T, Q R Zed]^
-TU |S1000 UP [Thank you, Up]^
-QRM |S1000 RST [Interference, R S T]^
-GM |S1000 VY [Good morning, Very]^
-QRZ |S1000 599 [Q R Zed, 5 9 9]^
-UP |S1000 QRM [Up, Interference]^
-73 |S1000 NAME [73, Name]^
-FER |S1000 AGN [For, Again]^
-UR |S1000 HI HI [Your, laughing]^
-RST |S1000 TEST [R S T, Contest]^
-GM |S1000 RST [Good morning, R S T]^
-599 |S1000 TEST [5 9 9, Contest]^
-TU |S1000 RST [Thank you, R S T]^
-559 |S1000 NR [5 5 9, Number]^
-UP |S1000 NR [Up, Number]^
-FER |S1000 HI HI [For, laughing]^
-599 |S1000 GE [5 9 9, Good evening]^
-HI HI |S1000 UR [laughing, Your]^
-QRZ |S1000 TU [Q R Zed, Thank you]^
-QRZ |S1000 QTH [Q R Zed, Location]^
-WX |S1000 RST [Weather, R S T]^
-TU |S1000 NR [Thank you, Number]^
-GE |S1000 QRZ [Good evening, Q R Zed]^
-VY |S1000 QRM [Very, Interference]^
-5NN |S1000 QRM [5 N N, Interference]^
-559 |S1000 QTH [5 5 9, Location]^
-FER |S1000 DE [For, From]^
-5NN |S1000 GM [5 N N, Good morning]^
-559 |S1000 599 [5 5 9, 5 9 9]^
-5NN |S1000 WX [5 N N, Weather]^
-73 |S1000 TU [73, Thank you]^
-VY |S1000 NR [Very, Number]^
-TEST |S1000 73 [Contest, 73]^
-559 |S1000 VY [5 5 9, Very]^
-GE |S1000 559 [Good evening, 5 5 9]^
-FER |S1000 AGN [For, Again]^
-GM |S1000 CQ [Good morning, C Q]^
-559 |S1000 ES [5 5 9, And]^
-RST |S1000 5NN [R S T, 5 N N]^
-QRZ |S1000 FER [Q R Zed, For]^
-UR |S1000 AGN [Your, Again]^
-GE |S1000 559 [Good evening, 5 5 9]^
-DE |S1000 QRM [From, Interference]^
-VY |S1000 GM [Very, Good morning]^
-FER |S1000 GM [For, Good morning]^
-QRZ |S1000 VY [Q R Zed, Very]^
-AGN |S1000 TEST [Again, Contest]^
-VY |S1000 AGN [Very, Again]^
-DE |S1000 ES [From, And]^
-GA |S1000 WX [Good afternoon, Weather]^
-DE |S1000 NR [From, Number]^
-73 |S1000 RST [73, R S T]^
-GA |S1000 NAME [Good afternoon, Name]^
-VY |S1000 NAME [Very, Name]^
-559 |S1000 GM [5 5 9, Good morning]^
-QTH |S1000 VY [Location, Very]^
-599 |S1000 TEST [5 9 9, Contest]^
-UP |S1000 AGN [Up, Again]^
-ES |S1000 WX [And, Weather]^
-CQ |S1000 QRZ [C Q, Q R Zed]^
-UR |S1000 AGN [Your, Again]^
-GE |S1000 UR [Good evening, Your]^
-RST |S1000 FER [R S T, For]^
-WX |S1000 GE [Weather, Good evening]^
-QTH |S1000 GA [Location, Good afternoon]^
-AGN |S1000 UP [Again, Up]^
-VY |S1000 559 [Very, 5 5 9]^
-5NN |S1000 UP [5 N N, Up]^
-ES |S1000 GA [And, Good afternoon]^
-QRM |S1000 CQ [Interference, C Q]^
-UR |S1000 DE [Your, From]^
-UR |S1000 NR [Your, Number]^
-599 |S1000 TEST [5 9 9, Contest]^
-HI HI |S1000 GA [laughing, Good afternoon]^
-CQ |S1000 QRM [C Q, Interference]^
-73 |S1000 ES [73, And]^
-NAME |S1000 TEST [Name, Contest]^
-NR |S1000 5NN [Number, 5 N N]^
-RST |S1000 VY [R S T, Very]^
-HI HI |S1000 599 [laughing, 5 9 9]^
-559 |S1000 HI HI [5 5 9, laughing]^
-559 |S1000 UP [5 5 9, Up]^
-VY |S1000 TEST [Very, Contest]^
-GA |S1000 73 [Good afternoon, 73]^
-5NN |S1000 AGN [5 N N, Again]^
-HI HI |S1000 NR [laughing, Number]^
-TU |S1000 AGN [Thank you, Again]^
-GA |S1000 QRM [Good afternoon, Interference]^
-QTH |S1000 TEST [Location, Contest]^
-DE |S1000 FER [From, For]^
-NAME |S1000 599 [Name, 5 9 9]^
-TEST |S1000 GA [Contest, Good afternoon]^
-599 |S1000 GM [5 9 9, Good morning]^
-559 |S1000 CQ [5 5 9, C Q]^
-73 |S1000 TEST [73, Contest]^
-NR |S1000 TEST [Number, Contest]^
-WX |S1000 RST [Weather, R S T]^
-GM |S1000 5NN [Good morning, 5 N N]^
-GM |S1000 73 [Good morning, 73]^
-NAME |S1000 QRM [Name, Interference]^
-DE |S1000 UP [From, Up]^
-UR |S1000 QRM [Your, Interference]^
-TU |S1000 599 [Thank you, 5 9 9]^
-5NN |S1000 TU [5 N N, Thank you]^
-HI HI |S1000 AGN [laughing, Again]^
-TEST |S1000 AGN [Contest, Again]^
-UR |S1000 5NN [Your, 5 N N]^
-QRM |S1000 DE [Interference, From]^
-559 |S1000 UR [5 5 9, Your]^
-FER |S1000 DE [For, From]^
-GM |S1000 RST [Good morning, R S T]^
-TU |S1000 GA [Thank you, Good afternoon]^
-NAME |S1000 GA [Name, Good afternoon]^
-599 |S1000 73 [5 9 9, 73]^
-GA |S1000 QRM [Good afternoon, Interference]^
-TEST |S1000 WX [Contest, Weather]^
-UP |S1000 QTH [Up, Location]^
-WX |S1000 ES [Weather, And]^
-5NN |S1000 CQ [5 N N, C Q]^
-NAME |S1000 UR [Name, Your]^
-GE |S1000 73 [Good evening, 73]^
-559 |S1000 ES [5 5 9, And]^
-73 |S1000 ES [73, And]^
-QRM |S1000 ES [Interference, And]^
-559 |S1000 GM [5 5 9, Good morning]^
-HI HI |S1000 FER [laughing, For]^
-WX |S1000 599 [Weather, 5 9 9]^
-UR |S1000 TU [Your, Thank you]^
-73 |S1000 QTH [73, Location]^
-NAME |S1000 VY [Name, Very]^
-GE |S1000 DE [Good evening, From]^
-QRM |S1000 FER [Interference, For]^
-TU |S1000 NAME [Thank you, Name]^
-FER |S1000 GE [For, Good evening]^
-GM |S1000 RST [Good morning, R S T]^
-UP |S1000 HI HI [Up, laughing]^
-GA |S1000 559 [Good afternoon, 5 5 9]^
-UR |S1000 TU [Your, Thank you]^
-GM |S1000 GA [Good morning, Good afternoon]^
-ES |S1000 FER [And, For]^
-QTH |S1000 UR [Location, Your]^
-VY |S1000 ES [Very, And]^
-CQ |S1000 VY [C Q, Very]^
-QTH |S1000 RST [Location, R S T]^
-DE |S1000 QTH [From, Location]^
-73 |S1000 DE [73, From]^
-73 |S1000 TU [73, Thank you]^
-FER |S1000 RST [For, R S T]^
-QRZ |S1000 73 [Q R Zed, 73]^
-UR |S1000 CQ [Your, C Q]^
-599 |S1000 UR [5 9 9, Your]^
-GE |S1000 WX [Good evening, Weather]^
-NAME |S1000 GM [Name, Good morning]^
-UP |S1000 AGN [Up, Again]^
-GM |S1000 QTH [Good morning, Location]^
-GA |S1000 AGN [Good afternoon, Again]^
-NR |S1000 HI HI [Number, laughing]^
-UP |S1000 GA [Up, Good afternoon]^
-WX |S1000 NAME [Weather, Name]^
-599 |S1000 TEST [5 9 9, Contest]^
-AGN |S1000 599 [Again, 5 9 9]^
-5NN |S1000 TU [5 N N, Thank you]^
-GM |S1000 ES [Good morning, And]^
-QRM |S1000 73 [Interference, 73]^
-UP |S1000 GM [Up, Good morning]^
-FER |S1000 TEST [For, Contest]^
-QTH |S1000 CQ [Location, C Q]^
-WX |S1000 QRM [Weather, Interference]^
-NR |S1000 TEST [Number, Contest]^
-QRZ |S1000 GM [Q R Zed, Good morning]^
-599 |S1000 QTH [5 9 9, Location]^
-AGN |S1000 RST [Again, R S T]^
-TEST |S1000 GM [Contest, Good morning]^
-QTH |S1000 FER [Location, For]^
-QRZ |S1000 TU [Q R Zed, Thank you]^
-NR |S1000 VY [Number, Very]^
-FER |S1000 QRM [For, Interference]^
-NR |S1000 ES [Number, And]^
-TEST |S1000 73 [Contest, 73]^
-AGN |S1000 GE [Again, Good evening]^
-NR |S1000 ES [Number, And]^
-FER |S1000 NR [For, Number]^
-GM |S1000 HI HI [Good morning, laughing]^
-UR |S1000 QRM [Your, Interference]^
-NR |S1000 QRM [Number, Interference]^
-GE |S1000 AGN [Good evening, Again]^
-GA |S1000 CQ [Good afternoon, C Q]^
-599 |S1000 RST [5 9 9, R S T]^
-GE |S1000 GM [Good evening, Good morning]^
-DE |S1000 VY [From, Very]^
-559 |S1000 CQ [5 5 9, C Q]^
-TEST |S1000 QRZ [Contest, Q R Zed]^
-5NN |S1000 QRZ [5 N N, Q R Zed]^
-5NN |S1000 73 [5 N N, 73]^
-CQ |S1000 QRM [C Q, Interference]^
-NR |S1000 559 [Number, 5 5 9]^
-AGN |S1000 73 [Again, 73]^
-UR |S1000 TEST [Your, Contest]^
-UR |S1000 GA [Your, Good afternoon]^
-QTH |S1000 GA [Location, Good afternoon]^
-GM |S1000 VY [Good morning, Very]^
-TEST |S1000 GE [Contest, Good evening]^
-QTH |S1000 VY [Location, Very]^
-FER |S1000 NR [For, Number]^
-CQ |S1000 73 [C Q, 73]^
-AGN |S1000 DE [Again, From]^
-VY |S1000 GE [Very, Good evening]^
-NR |S1000 GA [Number, Good afternoon]^
-UP |S1000 GM [Up, Good morning]^
-HI HI |S1000 FER [laughing, For]^
-NAME |S1000 GE [Name, Good evening]^
-ES |S1000 AGN [And, Again]^
-GM |S1000 FER [Good morning, For]^
-5NN |S1000 WX [5 N N, Weather]^
-NAME |S1000 QRZ [Name, Q R Zed]^
-QTH |S1000 QRM [Location, Interference]^
-TU |S1000 UP [Thank you, Up]^
-QRM |S1000 DE [Interference, From]^
-QRM |S1000 TU [Interference, Thank you]^
-AGN |S1000 QRZ [Again, Q R Zed]^
-NAME |S1000 TU [Name, Thank you]^
-GM |S1000 QTH [Good morning, Location]^
-AGN |S1000 GM [Again, Good morning]^
-ES |S1000 UR [And, Your]^
-599 |S1000 RST [5 9 9, R S T]^
-73 |S1000 GE [73, Good evening]^
-QRM |S1000 QRZ [Interference, Q R Zed]^
-559 |S1000 TEST [5 5 9, Contest]^
-AGN |S1000 VY [Again, Very]^
-GE |S1000 GA [Good evening, Good afternoon]^
-5NN |S1000 GA [5 N N, Good afternoon]^
-WX |S1000 QRM [Weather, Interference]^
-5NN |S1000 559 [5 N N, 5 5 9]^
-FER |S1000 CQ [For, C Q]^
-NR |S1000 CQ [Number, C Q]^
-73 |S1000 GE [73, Good evening]^
-UR |S1000 NAME [Your, Name]^
-TU |S1000 GE [Thank you, Good evening]^
-CQ |S1000 559 [C Q, 5 5 9]^
+ES |S1000 NAME [And, Name]^
 GM |S1000 559 [Good morning, 5 5 9]^
-WX |S1000 RST [Weather, R S T]^
-NAME |S1000 CQ [Name, C Q]^
-TEST |S1000 RST [Contest, R S T]^
-5NN |S1000 TU [5 N N, Thank you]^
-UR |S1000 CQ [Your, C Q]^
-GE |S1000 73 [Good evening, 73]^
-599 |S1000 TU [5 9 9, Thank you]^
-73 |S1000 GA [73, Good afternoon]^
-UP |S1000 AGN [Up, Again]^
-VY |S1000 ES [Very, And]^
-AGN |S1000 FER [Again, For]^
-VY |S1000 QTH [Very, Location]^
-QRM |S1000 QTH [Interference, Location]^
-HI HI |S1000 VY [laughing, Very]^
-GA |S1000 DE [Good afternoon, From]^
-UR |S1000 ES [Your, And]^
-QRZ |S1000 UR [Q R Zed, Your]^
-AGN |S1000 RST [Again, R S T]^
-CQ |S1000 UR [C Q, Your]^
-WX |S1000 TEST [Weather, Contest]^
-GE |S1000 HI HI [Good evening, laughing]^
-ES |S1000 GE [And, Good evening]^
-73 |S1000 VY [73, Very]^
-GA |S1000 CQ [Good afternoon, C Q]^
-TEST |S1000 QRZ [Contest, Q R Zed]^
-NR |S1000 73 [Number, 73]^
-NR |S1000 CQ [Number, C Q]^
-UR |S1000 559 [Your, 5 5 9]^
-599 |S1000 TU [5 9 9, Thank you]^
-DE |S1000 TU [From, Thank you]^
-QTH |S1000 TEST [Location, Contest]^
-QRM |S1000 TU [Interference, Thank you]^
-HI HI |S1000 QTH [laughing, Location]^
-FER |S1000 QRM [For, Interference]^
-599 |S1000 QRM [5 9 9, Interference]^
-QTH |S1000 NAME [Location, Name]^
-ES |S1000 VY [And, Very]^
-NAME |S1000 CQ [Name, C Q]^
-5NN |S1000 NR [5 N N, Number]^
-GM |S1000 NR [Good morning, Number]^
-DE |S1000 RST [From, R S T]^
-73 |S1000 VY [73, Very]^
-TEST |S1000 VY [Contest, Very]^
-GE |S1000 QTH [Good evening, Location]^
-NAME |S1000 TU [Name, Thank you]^
-GE |S1000 RST [Good evening, R S T]^
-WX |S1000 GA [Weather, Good afternoon]^
-ES |S1000 FER [And, For]^
-73 |S1000 RST [73, R S T]^
-NAME |S1000 UR [Name, Your]^
-QTH |S1000 UP [Location, Up]^
-GM |S1000 GE [Good morning, Good evening]^
-CQ |S1000 GE [C Q, Good evening]^
-AGN |S1000 NAME [Again, Name]^
-559 |S1000 NAME [5 5 9, Name]^
-UR |S1000 QRM [Your, Interference]^
-HI HI |S1000 GE [laughing, Good evening]^
-UR |S1000 TEST [Your, Contest]^
-ES |S1000 5NN [And, 5 N N]^
-73 |S1000 WX [73, Weather]^
-NR |S1000 AGN [Number, Again]^
-UP |S1000 GM [Up, Good morning]^
-DE |S1000 NR [From, Number]^
-UR |S1000 AGN [Your, Again]^
-GM |S1000 5NN [Good morning, 5 N N]^
-RST |S1000 UP [R S T, Up]^
-FER |S1000 UR [For, Your]^
-RST |S1000 AGN [R S T, Again]^
-QTH |S1000 ES [Location, And]^
-NAME |S1000 ES [Name, And]^
-5NN |S1000 TU [5 N N, Thank you]^
-QRM |S1000 RST [Interference, R S T]^
-QRM |S1000 ES [Interference, And]^
-QRM |S1000 599 [Interference, 5 9 9]^
-ES |S1000 NR [And, Number]^
-DE |S1000 WX [From, Weather]^
-RST |S1000 DE [R S T, From]^
-QRZ |S1000 NR [Q R Zed, Number]^
-GA |S1000 QRZ [Good afternoon, Q R Zed]^
-GA |S1000 QRZ [Good afternoon, Q R Zed]^
-559 |S1000 ES [5 5 9, And]^
-CQ |S1000 TU [C Q, Thank you]^
-HI HI |S1000 QRM [laughing, Interference]^
-ES |S1000 QRZ [And, Q R Zed]^
-NAME |S1000 73 [Name, 73]^
-ES |S1000 CQ [And, C Q]^
-5NN |S1000 TEST [5 N N, Contest]^
-559 |S1000 5NN [5 5 9, 5 N N]^
-FER |S1000 73 [For, 73]^
-AGN |S1000 GE [Again, Good evening]^
-GA |S1000 ES [Good afternoon, And]^
-AGN |S1000 NR [Again, Number]^
-NAME |S1000 QRZ [Name, Q R Zed]^
-QTH |S1000 QRM [Location, Interference]^
-TEST |S1000 FER [Contest, For]^
-GA |S1000 559 [Good afternoon, 5 5 9]^
-QTH |S1000 TU [Location, Thank you]^
-NAME |S1000 NR [Name, Number]^
-GA |S1000 QTH [Good afternoon, Location]^
-73 |S1000 QRZ [73, Q R Zed]^
-GE |S1000 QTH [Good evening, Location]^
-NR |S1000 TU [Number, Thank you]^
-QRZ |S1000 QTH [Q R Zed, Location]^
-UP |S1000 CQ [Up, C Q]^
-TU |S1000 GM [Thank you, Good morning]^
-UR |S1000 VY [Your, Very]^
-ES |S1000 QRM [And, Interference]^
-QTH |S1000 FER [Location, For]^
-RST |S1000 ES [R S T, And]^
-TU |S1000 QTH [Thank you, Location]^
-599 |S1000 73 [5 9 9, 73]^
-GE |S1000 UP [Good evening, Up]^
-GE |S1000 AGN [Good evening, Again]^
-FER |S1000 QRM [For, Interference]^
-QTH |S1000 CQ [Location, C Q]^
-599 |S1000 TEST [5 9 9, Contest]^
-GE |S1000 ES [Good evening, And]^
-DE |S1000 HI HI [From, laughing]^
-CQ |S1000 UP [C Q, Up]^
-559 |S1000 TEST [5 5 9, Contest]^
-FER |S1000 ES [For, And]^
-DE |S1000 GE [From, Good evening]^
-RST |S1000 DE [R S T, From]^
-CQ |S1000 559 [C Q, 5 5 9]^
-AGN |S1000 HI HI [Again, laughing]^
-AGN |S1000 GE [Again, Good evening]^
-QRM |S1000 NR [Interference, Number]^
-VY |S1000 NR [Very, Number]^
-DE |S1000 AGN [From, Again]^
-VY |S1000 599 [Very, 5 9 9]^
-5NN |S1000 QRM [5 N N, Interference]^
-NAME |S1000 5NN [Name, 5 N N]^
-GA |S1000 UR [Good afternoon, Your]^
-GM |S1000 ES [Good morning, And]^
-QTH |S1000 599 [Location, 5 9 9]^
-QTH |S1000 RST [Location, R S T]^
-VY |S1000 UR [Very, Your]^
-QRM |S1000 HI HI [Interference, laughing]^
-GA |S1000 GE [Good afternoon, Good evening]^
-559 |S1000 TEST [5 5 9, Contest]^
-NR |S1000 5NN [Number, 5 N N]^
-NAME |S1000 AGN [Name, Again]^
-RST |S1000 ES [R S T, And]^
-FER |S1000 VY [For, Very]^
-TU |S1000 599 [Thank you, 5 9 9]^
-UR |S1000 NR [Your, Number]^
-559 |S1000 WX [5 5 9, Weather]^
-UR |S1000 GE [Your, Good evening]^
-QTH |S1000 73 [Location, 73]^
-QTH |S1000 VY [Location, Very]^
-NR |S1000 TU [Number, Thank you]^
-559 |S1000 GM [5 5 9, Good morning]^
-559 |S1000 QTH [5 5 9, Location]^
-GM |S1000 UP [Good morning, Up]^
-GE |S1000 RST [Good evening, R S T]^
-CQ |S1000 73 [C Q, 73]^
-GE |S1000 GM [Good evening, Good morning]^
-RST |S1000 559 [R S T, 5 5 9]^
-NR |S1000 ES [Number, And]^
-559 |S1000 HI HI [5 5 9, laughing]^
-TEST |S1000 WX [Contest, Weather]^
-RST |S1000 559 [R S T, 5 5 9]^
-AGN |S1000 73 [Again, 73]^
-HI HI |S1000 QRZ [laughing, Q R Zed]^
-73 |S1000 HI HI [73, laughing]^
-559 |S1000 QTH [5 5 9, Location]^
-559 |S1000 DE [5 5 9, From]^
-TU |S1000 NAME [Thank you, Name]^
-QTH |S1000 FER [Location, For]^
-599 |S1000 5NN [5 9 9, 5 N N]^
-FER |S1000 73 [For, 73]^
-UP |S1000 TEST [Up, Contest]^
-GM |S1000 QRZ [Good morning, Q R Zed]^
-HI HI |S1000 ES [laughing, And]^
-DE |S1000 559 [From, 5 5 9]^
-GE |S1000 QTH [Good evening, Location]^
-599 |S1000 HI HI [5 9 9, laughing]^
-NAME |S1000 GA [Name, Good afternoon]^
-CQ |S1000 5NN [C Q, 5 N N]^
-WX |S1000 TEST [Weather, Contest]^
-559 |S1000 ES [5 5 9, And]^
-599 |S1000 TEST [5 9 9, Contest]^
-FER |S1000 73 [For, 73]^
-QRZ |S1000 FER [Q R Zed, For]^
-599 |S1000 GE [5 9 9, Good evening]^
-5NN |S1000 599 [5 N N, 5 9 9]^
-UR |S1000 WX [Your, Weather]^
-QTH |S1000 NR [Location, Number]^
-UP |S1000 NAME [Up, Name]^
-NR |S1000 FER [Number, For]^
-RST |S1000 ES [R S T, And]^
-QRM |S1000 UR [Interference, Your]^
-559 |S1000 NR [5 5 9, Number]^
-5NN |S1000 FER [5 N N, For]^
-NAME |S1000 TU [Name, Thank you]^
-UP |S1000 NAME [Up, Name]^
-QTH |S1000 559 [Location, 5 5 9]^
-TU |S1000 HI HI [Thank you, laughing]^
-DE |S1000 599 [From, 5 9 9]^
-CQ |S1000 GM [C Q, Good morning]^
-WX |S1000 GM [Weather, Good morning]^
-GA |S1000 ES [Good afternoon, And]^
-GA |S1000 VY [Good afternoon, Very]^
-NR |S1000 GA [Number, Good afternoon]^
-NAME |S1000 CQ [Name, C Q]^
-TEST |S1000 GA [Contest, Good afternoon]^
-559 |S1000 NR [5 5 9, Number]^
-599 |S1000 5NN [5 9 9, 5 N N]^
-ES |S1000 HI HI [And, laughing]^
-RST |S1000 599 [R S T, 5 9 9]^
-NR |S1000 WX [Number, Weather]^
-AGN |S1000 GE [Again, Good evening]^
-FER |S1000 559 [For, 5 5 9]^
-GE |S1000 GM [Good evening, Good morning]^
-TU |S1000 599 [Thank you, 5 9 9]^
-QRZ |S1000 UP [Q R Zed, Up]^
-FER |S1000 73 [For, 73]^
-QTH |S1000 5NN [Location, 5 N N]^
-RST |S1000 73 [R S T, 73]^
-RST |S1000 NR [R S T, Number]^
-GE |S1000 HI HI [Good evening, laughing]^
-NAME |S1000 GM [Name, Good morning]^
-WX |S1000 QRZ [Weather, Q R Zed]^
-ES |S1000 NR [And, Number]^
-QRZ |S1000 NAME [Q R Zed, Name]^
-QRM |S1000 WX [Interference, Weather]^
-73 |S1000 QRZ [73, Q R Zed]^
-GA |S1000 GE [Good afternoon, Good evening]^
-QTH |S1000 599 [Location, 5 9 9]^
-QTH |S1000 GM [Location, Good morning]^
-AGN |S1000 UR [Again, Your]^
-559 |S1000 599 [5 5 9, 5 9 9]^
-CQ |S1000 NAME [C Q, Name]^
-AGN |S1000 ES [Again, And]^
-UP |S1000 GM [Up, Good morning]^
-RST |S1000 DE [R S T, From]^
-NR |S1000 RST [Number, R S T]^
-599 |S1000 73 [5 9 9, 73]^
+QRM |S1000 QRZ [Interference, Q R Zed]^
 GM |S1000 FER [Good morning, For]^
-73 |S1000 WX [73, Weather]^
-QRM |S1000 ES [Interference, And]^
-QTH |S1000 HI HI [Location, laughing]^
-GA |S1000 599 [Good afternoon, 5 9 9]^
-NR |S1000 UP [Number, Up]^
-CQ |S1000 UP [C Q, Up]^
-599 |S1000 73 [5 9 9, 73]^
-GA |S1000 TEST [Good afternoon, Contest]^
-73 |S1000 GE [73, Good evening]^
-UR |S1000 5NN [Your, 5 N N]^
-WX |S1000 TU [Weather, Thank you]^
+QRM |S1000 GE [Interference, Good evening]^
+VY |S1000 TEST [Very, Contest]^
+QRZ |S1000 RST [Q R Zed, R S T]^
+QRZ |S1000 VY [Q R Zed, Very]^
+TEST |S1000 599 [Contest, 5 9 9]^
 UR |S1000 GA [Your, Good afternoon]^
-AGN |S1000 UR [Again, Your]^
-QRZ |S1000 CQ [Q R Zed, C Q]^
-TEST |S1000 559 [Contest, 5 5 9]^
-TEST |S1000 RST [Contest, R S T]^
-GM |S1000 RST [Good morning, R S T]^
-DE |S1000 5NN [From, 5 N N]^
-UP |S1000 73 [Up, 73]^
-5NN |S1000 CQ [5 N N, C Q]^
-559 |S1000 QRZ [5 5 9, Q R Zed]^
-GM |S1000 DE [Good morning, From]^
-TU |S1000 ES [Thank you, And]^
-WX |S1000 RST [Weather, R S T]^
-GE |S1000 NAME [Good evening, Name]^
+UR |S1000 QTH [Your, Q T H]^
+FER |S1000 AGN [For, Again]^
+NR |S1000 TU [Number, Thank you]^
+AGN |S1000 QTH [Again, Q T H]^
+UP |S1000 ES [Up, And]^
+CQ |S1000 UR [C Q, Your]^
+559 |S1000 TU [5 5 9, Thank you]^
+HI HI |S1000 QTH [laughing, Q T H]^
+559 |S1000 GM [5 5 9, Good morning]^
+NR |S1000 QTH [Number, Q T H]^
+HI HI |S1000 QRZ [laughing, Q R Zed]^
+GA |S1000 559 [Good afternoon, 5 5 9]^
+GM |S1000 CQ [Good morning, C Q]^
+UR |S1000 TEST [Your, Contest]^
+NAME |S1000 AGN [Name, Again]^
+DE |S1000 AGN [From, Again]^
 UR |S1000 TU [Your, Thank you]^
-QRM |S1000 AGN [Interference, Again]^
-RST |S1000 NAME [R S T, Name]^
-AGN |S1000 CQ [Again, C Q]^
-WX |S1000 NAME [Weather, Name]^
-VY |S1000 RST [Very, R S T]^
-GA |S1000 QTH [Good afternoon, Location]^
-FER |S1000 559 [For, 5 5 9]^
-GM |S1000 TEST [Good morning, Contest]^
-VY |S1000 HI HI [Very, laughing]^
-TEST |S1000 FER [Contest, For]^
-DE |S1000 559 [From, 5 5 9]^
-FER |S1000 TU [For, Thank you]^
-TEST |S1000 QTH [Contest, Location]^
-WX |S1000 DE [Weather, From]^
-GM |S1000 QRZ [Good morning, Q R Zed]^
-VY |S1000 ES [Very, And]^
-DE |S1000 73 [From, 73]^
-VY |S1000 GM [Very, Good morning]^
+AGN |S1000 599 [Again, 5 9 9]^
+559 |S1000 RST [5 5 9, R S T]^
+DE |S1000 QTH [From, Q T H]^
+WX |S1000 CQ [Weather, C Q]^
+ES |S1000 DE [And, From]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+CQ |S1000 559 [C Q, 5 5 9]^
+ES |S1000 DE [And, From]^
+VY |S1000 QTH [Very, Q T H]^
+UP |S1000 AGN [Up, Again]^
+UP |S1000 GM [Up, Good morning]^
+NR |S1000 GA [Number, Good afternoon]^
+QRM |S1000 QTH [Interference, Q T H]^
+5NN |S1000 73 [5 N N, 73]^
+AGN |S1000 559 [Again, 5 5 9]^
 73 |S1000 GE [73, Good evening]^
-UP |S1000 NAME [Up, Name]^
-FER |S1000 GM [For, Good morning]^
-73 |S1000 GE [73, Good evening]^
-FER |S1000 GM [For, Good morning]^
-TEST |S1000 NAME [Contest, Name]^
-UP |S1000 HI HI [Up, laughing]^
+ES |S1000 UR [And, Your]^
 NR |S1000 DE [Number, From]^
-GM |S1000 RST [Good morning, R S T]^
-UR |S1000 ES [Your, And]^
+CQ |S1000 WX [C Q, Weather]^
 UP |S1000 WX [Up, Weather]^
-FER |S1000 5NN [For, 5 N N]^
+QRM |S1000 ES [Interference, And]^
+QRM |S1000 NR [Interference, Number]^
+UP |S1000 NAME [Up, Name]^
+FER |S1000 ES [For, And]^
+QTH |S1000 5NN [Q T H, 5 N N]^
+RST |S1000 NAME [R S T, Name]^
+HI HI |S1000 ES [laughing, And]^
+QTH |S1000 73 [Q T H, 73]^
+QRM |S1000 ES [Interference, And]^
+DE |S1000 5NN [From, 5 N N]^
+559 |S1000 RST [5 5 9, R S T]^
+599 |S1000 UR [5 9 9, Your]^
+QTH |S1000 UR [Q T H, Your]^
+GA |S1000 QTH [Good afternoon, Q T H]^
+GE |S1000 73 [Good evening, 73]^
+NAME |S1000 599 [Name, 5 9 9]^
+GM |S1000 WX [Good morning, Weather]^
+NAME |S1000 RST [Name, R S T]^
+NAME |S1000 QTH [Name, Q T H]^
+ES |S1000 73 [And, 73]^
+HI HI |S1000 QRZ [laughing, Q R Zed]^
+RST |S1000 GE [R S T, Good evening]^
+TEST |S1000 WX [Contest, Weather]^
+UP |S1000 CQ [Up, C Q]^
+FER |S1000 GA [For, Good afternoon]^
+HI HI |S1000 FER [laughing, For]^
+ES |S1000 RST [And, R S T]^
+UR |S1000 CQ [Your, C Q]^
+GM |S1000 559 [Good morning, 5 5 9]^
+CQ |S1000 UR [C Q, Your]^
+WX |S1000 UR [Weather, Your]^
+599 |S1000 73 [5 9 9, 73]^
+QRZ |S1000 VY [Q R Zed, Very]^
+UR |S1000 GE [Your, Good evening]^
+AGN |S1000 QRM [Again, Interference]^
+73 |S1000 DE [73, From]^
+73 |S1000 TEST [73, Contest]^
+QRM |S1000 5NN [Interference, 5 N N]^
+DE |S1000 WX [From, Weather]^
+RST |S1000 AGN [R S T, Again]^
+WX |S1000 HI HI [Weather, laughing]^
+QTH |S1000 QRZ [Q T H, Q R Zed]^
+DE |S1000 CQ [From, C Q]^
 UP |S1000 QRM [Up, Interference]^
-73 |S1000 TU [73, Thank you]^
-HI HI |S1000 CQ [laughing, C Q]^
-NR |S1000 RST [Number, R S T]^
-QRM |S1000 FER [Interference, For]^
-599 |S1000 QRZ [5 9 9, Q R Zed]^
-TU |S1000 ES [Thank you, And]^
-599 |S1000 QRM [5 9 9, Interference]^
-DE |S1000 QRM [From, Interference]^
-NR |S1000 NAME [Number, Name]^
-FER |S1000 QTH [For, Location]^
+GA |S1000 5NN [Good afternoon, 5 N N]^
+CQ |S1000 RST [C Q, R S T]^
+QRM |S1000 UR [Interference, Your]^
+QRM |S1000 AGN [Interference, Again]^
+UR |S1000 5NN [Your, 5 N N]^
+WX |S1000 QRM [Weather, Interference]^
+TU |S1000 VY [Thank you, Very]^
+GA |S1000 QRM [Good afternoon, Interference]^
+ES |S1000 VY [And, Very]^
+QRM |S1000 AGN [Interference, Again]^
+559 |S1000 TEST [5 5 9, Contest]^
+QRM |S1000 CQ [Interference, C Q]^
+RST |S1000 GM [R S T, Good morning]^
+ES |S1000 NR [And, Number]^
+QRM |S1000 73 [Interference, 73]^
+HI HI |S1000 QRM [laughing, Interference]^
+HI HI |S1000 QRM [laughing, Interference]^
+NR |S1000 5NN [Number, 5 N N]^
+599 |S1000 WX [5 9 9, Weather]^
+UR |S1000 UP [Your, Up]^
+UR |S1000 QRZ [Your, Q R Zed]^
+NR |S1000 GM [Number, Good morning]^
+GA |S1000 GM [Good afternoon, Good morning]^
+QTH |S1000 FER [Q T H, For]^
+WX |S1000 VY [Weather, Very]^
+QRZ |S1000 599 [Q R Zed, 5 9 9]^
+GA |S1000 FER [Good afternoon, For]^
+TEST |S1000 GE [Contest, Good evening]^
+AGN |S1000 FER [Again, For]^
+RST |S1000 QRM [R S T, Interference]^
+RST |S1000 ES [R S T, And]^
+5NN |S1000 TU [5 N N, Thank you]^
+QRM |S1000 AGN [Interference, Again]^
+DE |S1000 QRZ [From, Q R Zed]^
+5NN |S1000 FER [5 N N, For]^
+RST |S1000 599 [R S T, 5 9 9]^
+GM |S1000 GA [Good morning, Good afternoon]^
+AGN |S1000 GA [Again, Good afternoon]^
+5NN |S1000 QTH [5 N N, Q T H]^
+WX |S1000 UP [Weather, Up]^
+QTH |S1000 WX [Q T H, Weather]^
+GA |S1000 CQ [Good afternoon, C Q]^
+559 |S1000 TEST [5 5 9, Contest]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+GE |S1000 599 [Good evening, 5 9 9]^
+GE |S1000 CQ [Good evening, C Q]^
+559 |S1000 HI HI [5 5 9, laughing]^
+AGN |S1000 WX [Again, Weather]^
+TU |S1000 UP [Thank you, Up]^
+NAME |S1000 559 [Name, 5 5 9]^
+HI HI |S1000 73 [laughing, 73]^
+DE |S1000 GE [From, Good evening]^
+TU |S1000 UR [Thank you, Your]^
+ES |S1000 QRZ [And, Q R Zed]^
+ES |S1000 CQ [And, C Q]^
+QTH |S1000 559 [Q T H, 5 5 9]^
+WX |S1000 FER [Weather, For]^
+UR |S1000 GM [Your, Good morning]^
+QTH |S1000 NAME [Q T H, Name]^
+559 |S1000 UP [5 5 9, Up]^
+73 |S1000 5NN [73, 5 N N]^
+AGN |S1000 559 [Again, 5 5 9]^
+VY |S1000 GE [Very, Good evening]^
+QRZ |S1000 559 [Q R Zed, 5 5 9]^
+CQ |S1000 QRZ [C Q, Q R Zed]^
+TEST |S1000 RST [Contest, R S T]^
+QTH |S1000 GE [Q T H, Good evening]^
+NAME |S1000 GM [Name, Good morning]^
+VY |S1000 5NN [Very, 5 N N]^
+GM |S1000 73 [Good morning, 73]^
+QTH |S1000 QRZ [Q T H, Q R Zed]^
+GM |S1000 ES [Good morning, And]^
+TU |S1000 73 [Thank you, 73]^
+GM |S1000 FER [Good morning, For]^
+QRM |S1000 DE [Interference, From]^
+VY |S1000 WX [Very, Weather]^
+73 |S1000 UR [73, Your]^
+73 |S1000 QTH [73, Q T H]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+RST |S1000 5NN [R S T, 5 N N]^
+GE |S1000 AGN [Good evening, Again]^
+NR |S1000 VY [Number, Very]^
+CQ |S1000 559 [C Q, 5 5 9]^
+NAME |S1000 GM [Name, Good morning]^
+VY |S1000 5NN [Very, 5 N N]^
+QRM |S1000 RST [Interference, R S T]^
+5NN |S1000 NR [5 N N, Number]^
+UP |S1000 73 [Up, 73]^
+WX |S1000 5NN [Weather, 5 N N]^
+VY |S1000 HI HI [Very, laughing]^
+NAME |S1000 QRZ [Name, Q R Zed]^
+UR |S1000 GA [Your, Good afternoon]^
+TEST |S1000 TU [Contest, Thank you]^
+AGN |S1000 TEST [Again, Contest]^
+GA |S1000 559 [Good afternoon, 5 5 9]^
+QRM |S1000 559 [Interference, 5 5 9]^
+UR |S1000 5NN [Your, 5 N N]^
+TEST |S1000 GM [Contest, Good morning]^
+GE |S1000 FER [Good evening, For]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+QRM |S1000 WX [Interference, Weather]^
+AGN |S1000 HI HI [Again, laughing]^
+ES |S1000 TEST [And, Contest]^
+TU |S1000 HI HI [Thank you, laughing]^
+5NN |S1000 RST [5 N N, R S T]^
+73 |S1000 TEST [73, Contest]^
+WX |S1000 UR [Weather, Your]^
+WX |S1000 VY [Weather, Very]^
+GM |S1000 ES [Good morning, And]^
 UR |S1000 HI HI [Your, laughing]^
+VY |S1000 DE [Very, From]^
+UR |S1000 QRM [Your, Interference]^
+ES |S1000 QRZ [And, Q R Zed]^
+559 |S1000 73 [5 5 9, 73]^
+GA |S1000 AGN [Good afternoon, Again]^
+599 |S1000 QRZ [5 9 9, Q R Zed]^
+ES |S1000 HI HI [And, laughing]^
+NAME |S1000 599 [Name, 5 9 9]^
+WX |S1000 VY [Weather, Very]^
+73 |S1000 UP [73, Up]^
+QRZ |S1000 HI HI [Q R Zed, laughing]^
+AGN |S1000 ES [Again, And]^
+NAME |S1000 CQ [Name, C Q]^
+VY |S1000 5NN [Very, 5 N N]^
+NR |S1000 TU [Number, Thank you]^
+FER |S1000 AGN [For, Again]^
+ES |S1000 TU [And, Thank you]^
+DE |S1000 73 [From, 73]^
+NAME |S1000 UP [Name, Up]^
+CQ |S1000 UR [C Q, Your]^
+TU |S1000 73 [Thank you, 73]^
+QRM |S1000 NAME [Interference, Name]^
+QRZ |S1000 UR [Q R Zed, Your]^
+ES |S1000 DE [And, From]^
+VY |S1000 TEST [Very, Contest]^
+WX |S1000 UR [Weather, Your]^
+599 |S1000 559 [5 9 9, 5 5 9]^
+GM |S1000 NAME [Good morning, Name]^
+AGN |S1000 73 [Again, 73]^
+599 |S1000 VY [5 9 9, Very]^
+5NN |S1000 GM [5 N N, Good morning]^
+DE |S1000 RST [From, R S T]^
+559 |S1000 ES [5 5 9, And]^
+5NN |S1000 VY [5 N N, Very]^
+CQ |S1000 GA [C Q, Good afternoon]^
+ES |S1000 GA [And, Good afternoon]^
+GE |S1000 FER [Good evening, For]^
+5NN |S1000 FER [5 N N, For]^
+TEST |S1000 GM [Contest, Good morning]^
+CQ |S1000 TEST [C Q, Contest]^
+73 |S1000 GA [73, Good afternoon]^
+599 |S1000 HI HI [5 9 9, laughing]^
+TEST |S1000 RST [Contest, R S T]^
+HI HI |S1000 RST [laughing, R S T]^
+QRZ |S1000 ES [Q R Zed, And]^
+DE |S1000 ES [From, And]^
+599 |S1000 ES [5 9 9, And]^
+559 |S1000 TEST [5 5 9, Contest]^
+QRZ |S1000 5NN [Q R Zed, 5 N N]^
+QRM |S1000 VY [Interference, Very]^
+73 |S1000 GM [73, Good morning]^
+QRZ |S1000 CQ [Q R Zed, C Q]^
+GM |S1000 CQ [Good morning, C Q]^
+RST |S1000 AGN [R S T, Again]^
+5NN |S1000 UR [5 N N, Your]^
+FER |S1000 QRZ [For, Q R Zed]^
+CQ |S1000 NR [C Q, Number]^
+RST |S1000 73 [R S T, 73]^
+UP |S1000 TEST [Up, Contest]^
+GA |S1000 TU [Good afternoon, Thank you]^
+QTH |S1000 5NN [Q T H, 5 N N]^
+NR |S1000 WX [Number, Weather]^
+599 |S1000 NR [5 9 9, Number]^
+QTH |S1000 NR [Q T H, Number]^
+73 |S1000 VY [73, Very]^
+NR |S1000 NAME [Number, Name]^
+HI HI |S1000 TEST [laughing, Contest]^
+73 |S1000 NR [73, Number]^
+GA |S1000 73 [Good afternoon, 73]^
+QRM |S1000 599 [Interference, 5 9 9]^
+73 |S1000 HI HI [73, laughing]^
+RST |S1000 QRZ [R S T, Q R Zed]^
+TEST |S1000 NR [Contest, Number]^
+VY |S1000 QTH [Very, Q T H]^
+ES |S1000 TU [And, Thank you]^
+QRM |S1000 GA [Interference, Good afternoon]^
+NAME |S1000 TEST [Name, Contest]^
+QTH |S1000 FER [Q T H, For]^
+73 |S1000 GM [73, Good morning]^
+73 |S1000 TU [73, Thank you]^
+UP |S1000 HI HI [Up, laughing]^
+QTH |S1000 GE [Q T H, Good evening]^
+NAME |S1000 559 [Name, 5 5 9]^
+FER |S1000 ES [For, And]^
+5NN |S1000 DE [5 N N, From]^
+UP |S1000 UR [Up, Your]^
+AGN |S1000 GA [Again, Good afternoon]^
+UP |S1000 FER [Up, For]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+559 |S1000 TU [5 5 9, Thank you]^
+GM |S1000 ES [Good morning, And]^
+599 |S1000 559 [5 9 9, 5 5 9]^
+VY |S1000 TU [Very, Thank you]^
+559 |S1000 HI HI [5 5 9, laughing]^
+QRZ |S1000 QRM [Q R Zed, Interference]^
+CQ |S1000 73 [C Q, 73]^
+UP |S1000 GM [Up, Good morning]^
+NR |S1000 FER [Number, For]^
+QTH |S1000 VY [Q T H, Very]^
+UP |S1000 RST [Up, R S T]^
+DE |S1000 73 [From, 73]^
+UR |S1000 QTH [Your, Q T H]^
+VY |S1000 DE [Very, From]^
+RST |S1000 GM [R S T, Good morning]^
+73 |S1000 TU [73, Thank you]^
+NR |S1000 599 [Number, 5 9 9]^
+QRM |S1000 WX [Interference, Weather]^
+QRZ |S1000 NAME [Q R Zed, Name]^
+QRM |S1000 599 [Interference, 5 9 9]^
+DE |S1000 GA [From, Good afternoon]^
+559 |S1000 73 [5 5 9, 73]^
+5NN |S1000 VY [5 N N, Very]^
+AGN |S1000 FER [Again, For]^
+QTH |S1000 559 [Q T H, 5 5 9]^
+QTH |S1000 NAME [Q T H, Name]^
+RST |S1000 NR [R S T, Number]^
+GE |S1000 NR [Good evening, Number]^
+TU |S1000 QRM [Thank you, Interference]^
+UP |S1000 599 [Up, 5 9 9]^
+NAME |S1000 ES [Name, And]^
+UP |S1000 QRM [Up, Interference]^
+TEST |S1000 599 [Contest, 5 9 9]^
+NAME |S1000 RST [Name, R S T]^
+FER |S1000 TEST [For, Contest]^
+559 |S1000 DE [5 5 9, From]^
+GA |S1000 UR [Good afternoon, Your]^
+GE |S1000 WX [Good evening, Weather]^
+RST |S1000 5NN [R S T, 5 N N]^
+ES |S1000 NR [And, Number]^
+HI HI |S1000 QTH [laughing, Q T H]^
+73 |S1000 ES [73, And]^
+FER |S1000 QRM [For, Interference]^
+AGN |S1000 GA [Again, Good afternoon]^
+UR |S1000 599 [Your, 5 9 9]^
+QRM |S1000 NR [Interference, Number]^
+QTH |S1000 GA [Q T H, Good afternoon]^
+DE |S1000 NAME [From, Name]^
+GA |S1000 FER [Good afternoon, For]^
+ES |S1000 WX [And, Weather]^
+HI HI |S1000 GE [laughing, Good evening]^
+ES |S1000 FER [And, For]^
+NR |S1000 FER [Number, For]^
+TU |S1000 559 [Thank you, 5 5 9]^
+VY |S1000 AGN [Very, Again]^
+NAME |S1000 ES [Name, And]^
+599 |S1000 FER [5 9 9, For]^
+RST |S1000 HI HI [R S T, laughing]^
+ES |S1000 NR [And, Number]^
+HI HI |S1000 WX [laughing, Weather]^
+GM |S1000 599 [Good morning, 5 9 9]^
+GA |S1000 RST [Good afternoon, R S T]^
+GM |S1000 UP [Good morning, Up]^
+GM |S1000 ES [Good morning, And]^
+TU |S1000 QTH [Thank you, Q T H]^
+ES |S1000 CQ [And, C Q]^
+UP |S1000 QTH [Up, Q T H]^
+QRM |S1000 WX [Interference, Weather]^
+AGN |S1000 GE [Again, Good evening]^
+DE |S1000 GM [From, Good morning]^
+QTH |S1000 QRM [Q T H, Interference]^
+TU |S1000 GE [Thank you, Good evening]^
+QRM |S1000 QTH [Interference, Q T H]^
+QRM |S1000 GM [Interference, Good morning]^
+5NN |S1000 NR [5 N N, Number]^
+559 |S1000 DE [5 5 9, From]^
+QRM |S1000 559 [Interference, 5 5 9]^
+UP |S1000 FER [Up, For]^
+TEST |S1000 GA [Contest, Good afternoon]^
+73 |S1000 QRM [73, Interference]^
+NR |S1000 TEST [Number, Contest]^
+AGN |S1000 WX [Again, Weather]^
+5NN |S1000 UP [5 N N, Up]^
+WX |S1000 GE [Weather, Good evening]^
+NAME |S1000 GE [Name, Good evening]^
+UR |S1000 599 [Your, 5 9 9]^
+5NN |S1000 TEST [5 N N, Contest]^
+FER |S1000 QRM [For, Interference]^
+HI HI |S1000 73 [laughing, 73]^
+FER |S1000 NAME [For, Name]^
+HI HI |S1000 VY [laughing, Very]^
+CQ |S1000 QRZ [C Q, Q R Zed]^
+GA |S1000 599 [Good afternoon, 5 9 9]^
+QTH |S1000 DE [Q T H, From]^
+RST |S1000 QRZ [R S T, Q R Zed]^
+GA |S1000 UR [Good afternoon, Your]^
+NR |S1000 GE [Number, Good evening]^
+QRM |S1000 UR [Interference, Your]^
+GA |S1000 5NN [Good afternoon, 5 N N]^
+GA |S1000 RST [Good afternoon, R S T]^
+QTH |S1000 559 [Q T H, 5 5 9]^
+HI HI |S1000 CQ [laughing, C Q]^
+559 |S1000 RST [5 5 9, R S T]^
+NR |S1000 QRZ [Number, Q R Zed]^
+FER |S1000 TU [For, Thank you]^
+5NN |S1000 UR [5 N N, Your]^
+559 |S1000 DE [5 5 9, From]^
+ES |S1000 FER [And, For]^
+QRZ |S1000 DE [Q R Zed, From]^
+QRM |S1000 DE [Interference, From]^
+QTH |S1000 GE [Q T H, Good evening]^
+WX |S1000 UP [Weather, Up]^
+QRM |S1000 ES [Interference, And]^
+NAME |S1000 TU [Name, Thank you]^
+WX |S1000 GA [Weather, Good afternoon]^
+AGN |S1000 TEST [Again, Contest]^
+QRZ |S1000 GM [Q R Zed, Good morning]^
+GE |S1000 NAME [Good evening, Name]^
+QRM |S1000 73 [Interference, 73]^
+NAME |S1000 QRM [Name, Interference]^
+QRZ |S1000 QRM [Q R Zed, Interference]^
+DE |S1000 AGN [From, Again]^
+QTH |S1000 73 [Q T H, 73]^
+FER |S1000 599 [For, 5 9 9]^
+559 |S1000 CQ [5 5 9, C Q]^
+GM |S1000 DE [Good morning, From]^
+AGN |S1000 TU [Again, Thank you]^
+599 |S1000 FER [5 9 9, For]^
+UP |S1000 GA [Up, Good afternoon]^
+559 |S1000 WX [5 5 9, Weather]^
+UR |S1000 VY [Your, Very]^
+QRZ |S1000 5NN [Q R Zed, 5 N N]^
+DE |S1000 5NN [From, 5 N N]^
+QTH |S1000 QRZ [Q T H, Q R Zed]^
+CQ |S1000 QRM [C Q, Interference]^
+ES |S1000 CQ [And, C Q]^
+QRM |S1000 QRZ [Interference, Q R Zed]^
+GA |S1000 599 [Good afternoon, 5 9 9]^
+QRZ |S1000 73 [Q R Zed, 73]^
+599 |S1000 AGN [5 9 9, Again]^
+VY |S1000 UR [Very, Your]^
+QTH |S1000 GM [Q T H, Good morning]^
+73 |S1000 FER [73, For]^
+CQ |S1000 WX [C Q, Weather]^
+NR |S1000 WX [Number, Weather]^
+GE |S1000 TU [Good evening, Thank you]^
+QRM |S1000 GE [Interference, Good evening]^
+RST |S1000 NAME [R S T, Name]^
+VY |S1000 QRZ [Very, Q R Zed]^
+UR |S1000 VY [Your, Very]^
+GA |S1000 NR [Good afternoon, Number]^
+GE |S1000 ES [Good evening, And]^
+GE |S1000 QTH [Good evening, Q T H]^
+599 |S1000 UR [5 9 9, Your]^
+GM |S1000 TU [Good morning, Thank you]^
+RST |S1000 GE [R S T, Good evening]^
+QRM |S1000 599 [Interference, 5 9 9]^
+GE |S1000 NAME [Good evening, Name]^
+GM |S1000 73 [Good morning, 73]^
+WX |S1000 RST [Weather, R S T]^
+TEST |S1000 5NN [Contest, 5 N N]^
+DE |S1000 QTH [From, Q T H]^
+AGN |S1000 DE [Again, From]^
+RST |S1000 73 [R S T, 73]^
+AGN |S1000 73 [Again, 73]^
+CQ |S1000 GE [C Q, Good evening]^
+ES |S1000 GA [And, Good afternoon]^
+AGN |S1000 CQ [Again, C Q]^
+QTH |S1000 HI HI [Q T H, laughing]^
+TU |S1000 FER [Thank you, For]^
+ES |S1000 QRM [And, Interference]^
+DE |S1000 NAME [From, Name]^
+WX |S1000 NAME [Weather, Name]^
+TEST |S1000 HI HI [Contest, laughing]^
+QRZ |S1000 ES [Q R Zed, And]^
+5NN |S1000 HI HI [5 N N, laughing]^
+GE |S1000 NAME [Good evening, Name]^
+5NN |S1000 FER [5 N N, For]^
+GE |S1000 UP [Good evening, Up]^
+UR |S1000 GE [Your, Good evening]^
+TU |S1000 DE [Thank you, From]^
+WX |S1000 GA [Weather, Good afternoon]^
+5NN |S1000 DE [5 N N, From]^
+RST |S1000 DE [R S T, From]^
+HI HI |S1000 RST [laughing, R S T]^
+73 |S1000 GM [73, Good morning]^
+NAME |S1000 HI HI [Name, laughing]^
+DE |S1000 NAME [From, Name]^
+RST |S1000 UR [R S T, Your]^
+73 |S1000 VY [73, Very]^
+TU |S1000 ES [Thank you, And]^
+UR |S1000 5NN [Your, 5 N N]^
+NR |S1000 UP [Number, Up]^
+5NN |S1000 DE [5 N N, From]^
+UR |S1000 599 [Your, 5 9 9]^
+ES |S1000 HI HI [And, laughing]^
+DE |S1000 QRZ [From, Q R Zed]^
+CQ |S1000 FER [C Q, For]^
+RST |S1000 ES [R S T, And]^
+UP |S1000 NAME [Up, Name]^
+TU |S1000 GA [Thank you, Good afternoon]^
+TU |S1000 QRM [Thank you, Interference]^
+AGN |S1000 HI HI [Again, laughing]^
+5NN |S1000 RST [5 N N, R S T]^
+UP |S1000 DE [Up, From]^
+5NN |S1000 AGN [5 N N, Again]^
+UR |S1000 GA [Your, Good afternoon]^
+QRZ |S1000 TEST [Q R Zed, Contest]^
+AGN |S1000 DE [Again, From]^
+WX |S1000 NR [Weather, Number]^
+GE |S1000 GM [Good evening, Good morning]^
+GA |S1000 WX [Good afternoon, Weather]^
+ES |S1000 UR [And, Your]^
+5NN |S1000 QRZ [5 N N, Q R Zed]^
+WX |S1000 5NN [Weather, 5 N N]^
+DE |S1000 GE [From, Good evening]^
+559 |S1000 VY [5 5 9, Very]^
+73 |S1000 HI HI [73, laughing]^
+UR |S1000 TEST [Your, Contest]^
+NAME |S1000 559 [Name, 5 5 9]^
+NR |S1000 73 [Number, 73]^
+ES |S1000 UP [And, Up]^
+HI HI |S1000 NAME [laughing, Name]^
+UP |S1000 FER [Up, For]^
+TU |S1000 WX [Thank you, Weather]^
+HI HI |S1000 559 [laughing, 5 5 9]^
+DE |S1000 559 [From, 5 5 9]^
+WX |S1000 TU [Weather, Thank you]^
+73 |S1000 5NN [73, 5 N N]^
+WX |S1000 QRM [Weather, Interference]^
+5NN |S1000 UR [5 N N, Your]^
+UP |S1000 TU [Up, Thank you]^
+WX |S1000 ES [Weather, And]^
+599 |S1000 QRZ [5 9 9, Q R Zed]^
+QTH |S1000 CQ [Q T H, C Q]^
+UR |S1000 73 [Your, 73]^
+AGN |S1000 559 [Again, 5 5 9]^
+HI HI |S1000 FER [laughing, For]^
+GM |S1000 NR [Good morning, Number]^
+QTH |S1000 VY [Q T H, Very]^
+NR |S1000 5NN [Number, 5 N N]^
+UP |S1000 599 [Up, 5 9 9]^
+5NN |S1000 GM [5 N N, Good morning]^
+GA |S1000 FER [Good afternoon, For]^
+NR |S1000 HI HI [Number, laughing]^
+73 |S1000 AGN [73, Again]^
+73 |S1000 NAME [73, Name]^
+UP |S1000 HI HI [Up, laughing]^
+AGN |S1000 QTH [Again, Q T H]^
+RST |S1000 73 [R S T, 73]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+TU |S1000 VY [Thank you, Very]^
+AGN |S1000 HI HI [Again, laughing]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+GA |S1000 VY [Good afternoon, Very]^
+559 |S1000 FER [5 5 9, For]^
+73 |S1000 HI HI [73, laughing]^
+5NN |S1000 VY [5 N N, Very]^
+UP |S1000 QTH [Up, Q T H]^
+QRZ |S1000 VY [Q R Zed, Very]^
+TEST |S1000 559 [Contest, 5 5 9]^
+DE |S1000 VY [From, Very]^
+73 |S1000 TEST [73, Contest]^
+73 |S1000 TU [73, Thank you]^
+UP |S1000 VY [Up, Very]^
+TEST |S1000 5NN [Contest, 5 N N]^
+GE |S1000 WX [Good evening, Weather]^
+HI HI |S1000 NAME [laughing, Name]^
+CQ |S1000 VY [C Q, Very]^
+FER |S1000 RST [For, R S T]^
+WX |S1000 DE [Weather, From]^
+TEST |S1000 HI HI [Contest, laughing]^
+ES |S1000 CQ [And, C Q]^
+5NN |S1000 UR [5 N N, Your]^
+WX |S1000 5NN [Weather, 5 N N]^
+WX |S1000 GA [Weather, Good afternoon]^
+QTH |S1000 FER [Q T H, For]^
+QTH |S1000 VY [Q T H, Very]^
+ES |S1000 TU [And, Thank you]^
+599 |S1000 NAME [5 9 9, Name]^
+TU |S1000 DE [Thank you, From]^
+5NN |S1000 DE [5 N N, From]^
+FER |S1000 599 [For, 5 9 9]^
+FER |S1000 CQ [For, C Q]^
+NAME |S1000 ES [Name, And]^
+QTH |S1000 QRM [Q T H, Interference]^
+QRZ |S1000 RST [Q R Zed, R S T]^
+WX |S1000 GE [Weather, Good evening]^
+HI HI |S1000 QRM [laughing, Interference]^
+QTH |S1000 WX [Q T H, Weather]^
+NR |S1000 73 [Number, 73]^
+QRM |S1000 FER [Interference, For]^
+CQ |S1000 QRZ [C Q, Q R Zed]^
+GE |S1000 QRM [Good evening, Interference]^
+599 |S1000 ES [5 9 9, And]^
+QRM |S1000 HI HI [Interference, laughing]^
+RST |S1000 TEST [R S T, Contest]^
+GE |S1000 CQ [Good evening, C Q]^
+AGN |S1000 QRZ [Again, Q R Zed]^
+RST |S1000 TU [R S T, Thank you]^
+VY |S1000 TEST [Very, Contest]^
+ES |S1000 NAME [And, Name]^
+73 |S1000 GE [73, Good evening]^
+TU |S1000 GA [Thank you, Good afternoon]^
+ES |S1000 QRM [And, Interference]^
+NAME |S1000 CQ [Name, C Q]^
+5NN |S1000 AGN [5 N N, Again]^
+5NN |S1000 QRM [5 N N, Interference]^
