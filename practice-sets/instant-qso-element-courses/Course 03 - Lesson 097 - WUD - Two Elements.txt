@@ -1,0 +1,600 @@
+WUD |S1000 TX [Would, Transmit]^
+WUD |S1000 EL [Would, Element]^
+WUD |S1000 BCNU [Would, Be seeing you]^
+WUD |S1000 RX [Would, Receive]^
+EL |S1000 OP [Element, Operator]^
+HW\? |S1000 BCNU [How copy\?, Be seeing you]^
+QRQ |S1000 HW\? [Q R Q, How copy\?]^
+WUD |S1000 YL [Would, Young lady]^
+WUD |S1000 RX [Would, Receive]^
+QRQ |S1000 WUD [Q R Q, Would]^
+QSY |S1000 WUD [Q S Y, Would]^
+HR |S1000 RX [Hear, Receive]^
+WUD |S1000 QSY [Would, Q S Y]^
+WUD |S1000 HW\? [Would, How copy\?]^
+GUD |S1000 WUD [Good, Would]^
+MNI |S1000 FT [Many, Feet]^
+QSL |S1000 GUD [Q S L, Good]^
+WUD |S1000 QRS [Would, Q R S]^
+WUD |S1000 OP [Would, Operator]^
+WUD |S1000 QRS [Would, Q R S]^
+HW\? |S1000 EFHW [How copy\?, End fed, half-wave]^
+HR |S1000 QRP [Hear, Q R P]^
+WUD |S1000 QSL [Would, Q S L]^
+WUD |S1000 GUD [Would, Good]^
+WUD |S1000 PSE [Would, Please]^
+WUD |S1000 QRS [Would, Q R S]^
+WUD |S1000 EL [Would, Element]^
+OP |S1000 WUD [Operator, Would]^
+HW\? |S1000 WUD [How copy\?, Would]^
+QSL |S1000 WUD [Q S L, Would]^
+BCNU |S1000 TX [Be seeing you, Transmit]^
+QRP |S1000 WUD [Q R P, Would]^
+MNI |S1000 WUD [Many, Would]^
+VERT |S1000 GUD [Vertical, Good]^
+HR |S1000 WUD [Hear, Would]^
+QRQ |S1000 CFM [Q R Q, Confirm]^
+WUD |S1000 MNI [Would, Many]^
+WUD |S1000 PSE [Would, Please]^
+YL |S1000 HR [Young lady, Hear]^
+VERT |S1000 YL [Vertical, Young lady]^
+WUD |S1000 QSY [Would, Q S Y]^
+FT |S1000 QRP [Feet, Q R P]^
+DR |S1000 WUD [Dear, Would]^
+EL |S1000 VERT [Element, Vertical]^
+EL |S1000 QRQ [Element, Q R Q]^
+WUD |S1000 BURO [Would, bureau]^
+CFM |S1000 WUD [Confirm, Would]^
+YL |S1000 CFM [Young lady, Confirm]^
+EFHW |S1000 WUD [End fed, half-wave, Would]^
+EFHW |S1000 WUD [End fed, half-wave, Would]^
+GUD |S1000 WUD [Good, Would]^
+OP |S1000 WUD [Operator, Would]^
+QSL |S1000 QRP [Q S L, Q R P]^
+EL |S1000 WUD [Element, Would]^
+EFHW |S1000 WUD [End fed, half-wave, Would]^
+PLS |S1000 WUD [Please, Would]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+QSY |S1000 WUD [Q S Y, Would]^
+PLS |S1000 BURO [Please, bureau]^
+WUD |S1000 VERT [Would, Vertical]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+WUD |S1000 QSL [Would, Q S L]^
+GUD |S1000 WUD [Good, Would]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+RX |S1000 VERT [Receive, Vertical]^
+WUD |S1000 CFM [Would, Confirm]^
+YAGI |S1000 HW\? [Yagi, How copy\?]^
+BCNU |S1000 YAGI [Be seeing you, Yagi]^
+HW\? |S1000 BURO [How copy\?, bureau]^
+WUD |S1000 QSL [Would, Q S L]^
+WUD |S1000 TX [Would, Transmit]^
+PSE |S1000 HW\? [Please, How copy\?]^
+WUD |S1000 YAGI [Would, Yagi]^
+QSY |S1000 WUD [Q S Y, Would]^
+QRS |S1000 WUD [Q R S, Would]^
+QRQ |S1000 PLS [Q R Q, Please]^
+WUD |S1000 MNI [Would, Many]^
+YL |S1000 EL [Young lady, Element]^
+TX |S1000 FT [Transmit, Feet]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+TX |S1000 WUD [Transmit, Would]^
+EL |S1000 RX [Element, Receive]^
+PLS |S1000 HR [Please, Hear]^
+WUD |S1000 BURO [Would, bureau]^
+WUD |S1000 BCNU [Would, Be seeing you]^
+YL |S1000 WUD [Young lady, Would]^
+HR |S1000 PSE [Hear, Please]^
+WUD |S1000 PLS [Would, Please]^
+BCNU |S1000 HW\? [Be seeing you, How copy\?]^
+HR |S1000 WUD [Hear, Would]^
+HR |S1000 WUD [Hear, Would]^
+PSE |S1000 WUD [Please, Would]^
+VERT |S1000 QSL [Vertical, Q S L]^
+WUD |S1000 OP [Would, Operator]^
+WUD |S1000 RX [Would, Receive]^
+BURO |S1000 WUD [bureau, Would]^
+TX |S1000 YL [Transmit, Young lady]^
+WUD |S1000 MNI [Would, Many]^
+EL |S1000 WUD [Element, Would]^
+CFM |S1000 PSE [Confirm, Please]^
+WUD |S1000 EFHW [Would, End fed, half-wave]^
+BCNU |S1000 WUD [Be seeing you, Would]^
+QSL |S1000 WUD [Q S L, Would]^
+GUD |S1000 WUD [Good, Would]^
+HW\? |S1000 BCNU [How copy\?, Be seeing you]^
+WUD |S1000 QRS [Would, Q R S]^
+WUD |S1000 YAGI [Would, Yagi]^
+WUD |S1000 VERT [Would, Vertical]^
+TX |S1000 MNI [Transmit, Many]^
+QRS |S1000 WUD [Q R S, Would]^
+RX |S1000 MNI [Receive, Many]^
+EFHW |S1000 WUD [End fed, half-wave, Would]^
+CFM |S1000 HW\? [Confirm, How copy\?]^
+PLS |S1000 WUD [Please, Would]^
+YAGI |S1000 WUD [Yagi, Would]^
+QRQ |S1000 WUD [Q R Q, Would]^
+QRP |S1000 BURO [Q R P, bureau]^
+WUD |S1000 OP [Would, Operator]^
+BCNU |S1000 WUD [Be seeing you, Would]^
+MNI |S1000 PLS [Many, Please]^
+GUD |S1000 WUD [Good, Would]^
+BURO |S1000 GUD [bureau, Good]^
+QRS |S1000 WUD [Q R S, Would]^
+DR |S1000 VERT [Dear, Vertical]^
+EL |S1000 PLS [Element, Please]^
+CFM |S1000 WUD [Confirm, Would]^
+RX |S1000 PSE [Receive, Please]^
+HW\? |S1000 QRP [How copy\?, Q R P]^
+CFM |S1000 WUD [Confirm, Would]^
+BURO |S1000 YL [bureau, Young lady]^
+WUD |S1000 YL [Would, Young lady]^
+WUD |S1000 RX [Would, Receive]^
+WUD |S1000 OP [Would, Operator]^
+WUD |S1000 YL [Would, Young lady]^
+PSE |S1000 TX [Please, Transmit]^
+MNI |S1000 WUD [Many, Would]^
+QSY |S1000 WUD [Q S Y, Would]^
+YAGI |S1000 WUD [Yagi, Would]^
+DR |S1000 WUD [Dear, Would]^
+QRQ |S1000 QSY [Q R Q, Q S Y]^
+QRP |S1000 WUD [Q R P, Would]^
+QRQ |S1000 DR [Q R Q, Dear]^
+QRP |S1000 WUD [Q R P, Would]^
+BCNU |S1000 TX [Be seeing you, Transmit]^
+WUD |S1000 BCNU [Would, Be seeing you]^
+WUD |S1000 QSL [Would, Q S L]^
+QRS |S1000 WUD [Q R S, Would]^
+EFHW |S1000 QSL [End fed, half-wave, Q S L]^
+HW\? |S1000 WUD [How copy\?, Would]^
+BURO |S1000 WUD [bureau, Would]^
+QRP |S1000 WUD [Q R P, Would]^
+OP |S1000 WUD [Operator, Would]^
+QRQ |S1000 RX [Q R Q, Receive]^
+EFHW |S1000 WUD [End fed, half-wave, Would]^
+GUD |S1000 OP [Good, Operator]^
+QRS |S1000 WUD [Q R S, Would]^
+EFHW |S1000 WUD [End fed, half-wave, Would]^
+BURO |S1000 YAGI [bureau, Yagi]^
+TX |S1000 PSE [Transmit, Please]^
+WUD |S1000 HR [Would, Hear]^
+PSE |S1000 WUD [Please, Would]^
+QRS |S1000 WUD [Q R S, Would]^
+OP |S1000 WUD [Operator, Would]^
+FT |S1000 TX [Feet, Transmit]^
+WUD |S1000 GUD [Would, Good]^
+QRS |S1000 YAGI [Q R S, Yagi]^
+PLS |S1000 QSL [Please, Q S L]^
+WUD |S1000 OP [Would, Operator]^
+VERT |S1000 EFHW [Vertical, End fed, half-wave]^
+CFM |S1000 GUD [Confirm, Good]^
+HR |S1000 RX [Hear, Receive]^
+HR |S1000 HW\? [Hear, How copy\?]^
+GUD |S1000 TX [Good, Transmit]^
+HW\? |S1000 QRQ [How copy\?, Q R Q]^
+QRS |S1000 QSY [Q R S, Q S Y]^
+BURO |S1000 VERT [bureau, Vertical]^
+GUD |S1000 OP [Good, Operator]^
+QRS |S1000 WUD [Q R S, Would]^
+YL |S1000 QSL [Young lady, Q S L]^
+CFM |S1000 WUD [Confirm, Would]^
+VERT |S1000 QRS [Vertical, Q R S]^
+QSY |S1000 CFM [Q S Y, Confirm]^
+DR |S1000 VERT [Dear, Vertical]^
+PLS |S1000 WUD [Please, Would]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+QRQ |S1000 GUD [Q R Q, Good]^
+WUD |S1000 HR [Would, Hear]^
+FT |S1000 MNI [Feet, Many]^
+YAGI |S1000 WUD [Yagi, Would]^
+EFHW |S1000 GUD [End fed, half-wave, Good]^
+CFM |S1000 WUD [Confirm, Would]^
+YAGI |S1000 WUD [Yagi, Would]^
+QRS |S1000 PLS [Q R S, Please]^
+WUD |S1000 GUD [Would, Good]^
+VERT |S1000 QRS [Vertical, Q R S]^
+WUD |S1000 MNI [Would, Many]^
+HR |S1000 WUD [Hear, Would]^
+YL |S1000 WUD [Young lady, Would]^
+FT |S1000 WUD [Feet, Would]^
+EL |S1000 DR [Element, Dear]^
+EFHW |S1000 WUD [End fed, half-wave, Would]^
+EL |S1000 TX [Element, Transmit]^
+EL |S1000 WUD [Element, Would]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+PLS |S1000 QSY [Please, Q S Y]^
+WUD |S1000 PSE [Would, Please]^
+WUD |S1000 TX [Would, Transmit]^
+EFHW |S1000 HW\? [End fed, half-wave, How copy\?]^
+WUD |S1000 PSE [Would, Please]^
+QSY |S1000 WUD [Q S Y, Would]^
+QSL |S1000 WUD [Q S L, Would]^
+PLS |S1000 OP [Please, Operator]^
+YAGI |S1000 GUD [Yagi, Good]^
+WUD |S1000 QSY [Would, Q S Y]^
+EFHW |S1000 WUD [End fed, half-wave, Would]^
+DR |S1000 QSY [Dear, Q S Y]^
+WUD |S1000 HW\? [Would, How copy\?]^
+WUD |S1000 FT [Would, Feet]^
+WUD |S1000 QRP [Would, Q R P]^
+WUD |S1000 TX [Would, Transmit]^
+WUD |S1000 HW\? [Would, How copy\?]^
+BCNU |S1000 TX [Be seeing you, Transmit]^
+WUD |S1000 QRQ [Would, Q R Q]^
+WUD |S1000 HR [Would, Hear]^
+EL |S1000 WUD [Element, Would]^
+TX |S1000 WUD [Transmit, Would]^
+QRQ |S1000 YAGI [Q R Q, Yagi]^
+MNI |S1000 WUD [Many, Would]^
+BCNU |S1000 WUD [Be seeing you, Would]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+WUD |S1000 HR [Would, Hear]^
+TX |S1000 FT [Transmit, Feet]^
+QRP |S1000 GUD [Q R P, Good]^
+WUD |S1000 PSE [Would, Please]^
+WUD |S1000 EL [Would, Element]^
+WUD |S1000 TX [Would, Transmit]^
+OP |S1000 YL [Operator, Young lady]^
+WUD |S1000 QSL [Would, Q S L]^
+WUD |S1000 QRP [Would, Q R P]^
+OP |S1000 WUD [Operator, Would]^
+EFHW |S1000 QRS [End fed, half-wave, Q R S]^
+QSL |S1000 WUD [Q S L, Would]^
+QRP |S1000 TX [Q R P, Transmit]^
+WUD |S1000 TX [Would, Transmit]^
+WUD |S1000 YAGI [Would, Yagi]^
+EL |S1000 WUD [Element, Would]^
+HW\? |S1000 WUD [How copy\?, Would]^
+MNI |S1000 QRQ [Many, Q R Q]^
+WUD |S1000 YAGI [Would, Yagi]^
+QSL |S1000 WUD [Q S L, Would]^
+YAGI |S1000 YL [Yagi, Young lady]^
+QRQ |S1000 GUD [Q R Q, Good]^
+BCNU |S1000 WUD [Be seeing you, Would]^
+BURO |S1000 WUD [bureau, Would]^
+BURO |S1000 WUD [bureau, Would]^
+FT |S1000 TX [Feet, Transmit]^
+RX |S1000 PSE [Receive, Please]^
+WUD |S1000 EFHW [Would, End fed, half-wave]^
+WUD |S1000 FT [Would, Feet]^
+WUD |S1000 OP [Would, Operator]^
+WUD |S1000 QRS [Would, Q R S]^
+WUD |S1000 MNI [Would, Many]^
+QRQ |S1000 WUD [Q R Q, Would]^
+EL |S1000 BURO [Element, bureau]^
+WUD |S1000 YL [Would, Young lady]^
+WUD |S1000 RX [Would, Receive]^
+PLS |S1000 WUD [Please, Would]^
+YL |S1000 WUD [Young lady, Would]^
+VERT |S1000 WUD [Vertical, Would]^
+BURO |S1000 WUD [bureau, Would]^
+DR |S1000 VERT [Dear, Vertical]^
+WUD |S1000 QSY [Would, Q S Y]^
+HR |S1000 WUD [Hear, Would]^
+YAGI |S1000 MNI [Yagi, Many]^
+HR |S1000 RX [Hear, Receive]^
+EFHW |S1000 MNI [End fed, half-wave, Many]^
+WUD |S1000 HW\? [Would, How copy\?]^
+WUD |S1000 QRS [Would, Q R S]^
+QSY |S1000 WUD [Q S Y, Would]^
+QSY |S1000 WUD [Q S Y, Would]^
+EL |S1000 WUD [Element, Would]^
+QSL |S1000 BURO [Q S L, bureau]^
+YAGI |S1000 MNI [Yagi, Many]^
+WUD |S1000 QRQ [Would, Q R Q]^
+QSY |S1000 WUD [Q S Y, Would]^
+TX |S1000 WUD [Transmit, Would]^
+BURO |S1000 DR [bureau, Dear]^
+HW\? |S1000 WUD [How copy\?, Would]^
+FT |S1000 MNI [Feet, Many]^
+WUD |S1000 FT [Would, Feet]^
+EL |S1000 DR [Element, Dear]^
+WUD |S1000 PSE [Would, Please]^
+BCNU |S1000 CFM [Be seeing you, Confirm]^
+WUD |S1000 EL [Would, Element]^
+CFM |S1000 WUD [Confirm, Would]^
+GUD |S1000 WUD [Good, Would]^
+QRP |S1000 DR [Q R P, Dear]^
+PLS |S1000 HR [Please, Hear]^
+MNI |S1000 WUD [Many, Would]^
+TX |S1000 MNI [Transmit, Many]^
+WUD |S1000 RX [Would, Receive]^
+QRP |S1000 WUD [Q R P, Would]^
+PLS |S1000 TX [Please, Transmit]^
+PSE |S1000 TX [Please, Transmit]^
+HR |S1000 BCNU [Hear, Be seeing you]^
+WUD |S1000 BCNU [Would, Be seeing you]^
+WUD |S1000 YAGI [Would, Yagi]^
+WUD |S1000 QRP [Would, Q R P]^
+BCNU |S1000 QRS [Be seeing you, Q R S]^
+FT |S1000 WUD [Feet, Would]^
+RX |S1000 WUD [Receive, Would]^
+QSL |S1000 QRQ [Q S L, Q R Q]^
+CFM |S1000 WUD [Confirm, Would]^
+YL |S1000 PSE [Young lady, Please]^
+WUD |S1000 BCNU [Would, Be seeing you]^
+HW\? |S1000 QRS [How copy\?, Q R S]^
+WUD |S1000 QSL [Would, Q S L]^
+WUD |S1000 DR [Would, Dear]^
+WUD |S1000 TX [Would, Transmit]^
+WUD |S1000 HR [Would, Hear]^
+FT |S1000 WUD [Feet, Would]^
+PSE |S1000 FT [Please, Feet]^
+QSL |S1000 YAGI [Q S L, Yagi]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+WUD |S1000 MNI [Would, Many]^
+WUD |S1000 EL [Would, Element]^
+PSE |S1000 RX [Please, Receive]^
+BCNU |S1000 QRS [Be seeing you, Q R S]^
+RX |S1000 MNI [Receive, Many]^
+WUD |S1000 YAGI [Would, Yagi]^
+WUD |S1000 OP [Would, Operator]^
+WUD |S1000 MNI [Would, Many]^
+WUD |S1000 QSL [Would, Q S L]^
+TX |S1000 WUD [Transmit, Would]^
+RX |S1000 WUD [Receive, Would]^
+PSE |S1000 WUD [Please, Would]^
+BCNU |S1000 WUD [Be seeing you, Would]^
+RX |S1000 VERT [Receive, Vertical]^
+GUD |S1000 WUD [Good, Would]^
+EFHW |S1000 QRQ [End fed, half-wave, Q R Q]^
+GUD |S1000 YL [Good, Young lady]^
+PLS |S1000 EFHW [Please, End fed, half-wave]^
+QRP |S1000 BURO [Q R P, bureau]^
+WUD |S1000 QSY [Would, Q S Y]^
+WUD |S1000 YAGI [Would, Yagi]^
+PLS |S1000 WUD [Please, Would]^
+QSY |S1000 QRS [Q S Y, Q R S]^
+WUD |S1000 HR [Would, Hear]^
+QSY |S1000 FT [Q S Y, Feet]^
+WUD |S1000 QRQ [Would, Q R Q]^
+PSE |S1000 GUD [Please, Good]^
+WUD |S1000 DR [Would, Dear]^
+WUD |S1000 QRS [Would, Q R S]^
+QRP |S1000 BCNU [Q R P, Be seeing you]^
+WUD |S1000 QRP [Would, Q R P]^
+WUD |S1000 HR [Would, Hear]^
+PLS |S1000 BCNU [Please, Be seeing you]^
+WUD |S1000 OP [Would, Operator]^
+BURO |S1000 PSE [bureau, Please]^
+WUD |S1000 YL [Would, Young lady]^
+WUD |S1000 OP [Would, Operator]^
+WUD |S1000 PLS [Would, Please]^
+WUD |S1000 HR [Would, Hear]^
+WUD |S1000 QSL [Would, Q S L]^
+QRP |S1000 TX [Q R P, Transmit]^
+GUD |S1000 YAGI [Good, Yagi]^
+WUD |S1000 EFHW [Would, End fed, half-wave]^
+QRQ |S1000 WUD [Q R Q, Would]^
+EFHW |S1000 DR [End fed, half-wave, Dear]^
+HW\? |S1000 QSY [How copy\?, Q S Y]^
+WUD |S1000 PSE [Would, Please]^
+WUD |S1000 HR [Would, Hear]^
+QRS |S1000 WUD [Q R S, Would]^
+YL |S1000 QSY [Young lady, Q S Y]^
+WUD |S1000 QSL [Would, Q S L]^
+OP |S1000 BCNU [Operator, Be seeing you]^
+WUD |S1000 YAGI [Would, Yagi]^
+QRS |S1000 BCNU [Q R S, Be seeing you]^
+WUD |S1000 VERT [Would, Vertical]^
+WUD |S1000 QRS [Would, Q R S]^
+FT |S1000 BCNU [Feet, Be seeing you]^
+QSY |S1000 QRQ [Q S Y, Q R Q]^
+WUD |S1000 QRS [Would, Q R S]^
+BCNU |S1000 WUD [Be seeing you, Would]^
+YL |S1000 WUD [Young lady, Would]^
+PLS |S1000 YAGI [Please, Yagi]^
+WUD |S1000 DR [Would, Dear]^
+VERT |S1000 WUD [Vertical, Would]^
+RX |S1000 QSY [Receive, Q S Y]^
+WUD |S1000 RX [Would, Receive]^
+WUD |S1000 DR [Would, Dear]^
+WUD |S1000 QRQ [Would, Q R Q]^
+WUD |S1000 QSL [Would, Q S L]^
+RX |S1000 WUD [Receive, Would]^
+VERT |S1000 WUD [Vertical, Would]^
+BURO |S1000 WUD [bureau, Would]^
+QSL |S1000 WUD [Q S L, Would]^
+OP |S1000 CFM [Operator, Confirm]^
+WUD |S1000 OP [Would, Operator]^
+PLS |S1000 WUD [Please, Would]^
+PSE |S1000 QSY [Please, Q S Y]^
+WUD |S1000 QRS [Would, Q R S]^
+FT |S1000 WUD [Feet, Would]^
+CFM |S1000 GUD [Confirm, Good]^
+OP |S1000 WUD [Operator, Would]^
+GUD |S1000 CFM [Good, Confirm]^
+HW\? |S1000 YAGI [How copy\?, Yagi]^
+WUD |S1000 HW\? [Would, How copy\?]^
+WUD |S1000 TX [Would, Transmit]^
+WUD |S1000 HR [Would, Hear]^
+TX |S1000 MNI [Transmit, Many]^
+YAGI |S1000 OP [Yagi, Operator]^
+WUD |S1000 YL [Would, Young lady]^
+WUD |S1000 RX [Would, Receive]^
+WUD |S1000 EL [Would, Element]^
+WUD |S1000 YL [Would, Young lady]^
+OP |S1000 WUD [Operator, Would]^
+PSE |S1000 WUD [Please, Would]^
+GUD |S1000 QSL [Good, Q S L]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+WUD |S1000 BURO [Would, bureau]^
+WUD |S1000 HR [Would, Hear]^
+QRQ |S1000 FT [Q R Q, Feet]^
+PLS |S1000 QSL [Please, Q S L]^
+BURO |S1000 WUD [bureau, Would]^
+PSE |S1000 WUD [Please, Would]^
+RX |S1000 GUD [Receive, Good]^
+WUD |S1000 GUD [Would, Good]^
+WUD |S1000 QRS [Would, Q R S]^
+OP |S1000 TX [Operator, Transmit]^
+WUD |S1000 BCNU [Would, Be seeing you]^
+WUD |S1000 QSL [Would, Q S L]^
+VERT |S1000 PLS [Vertical, Please]^
+QRQ |S1000 OP [Q R Q, Operator]^
+WUD |S1000 FT [Would, Feet]^
+WUD |S1000 QRQ [Would, Q R Q]^
+TX |S1000 WUD [Transmit, Would]^
+TX |S1000 HR [Transmit, Hear]^
+CFM |S1000 EL [Confirm, Element]^
+BCNU |S1000 WUD [Be seeing you, Would]^
+QRP |S1000 BCNU [Q R P, Be seeing you]^
+EL |S1000 MNI [Element, Many]^
+FT |S1000 CFM [Feet, Confirm]^
+GUD |S1000 WUD [Good, Would]^
+BURO |S1000 PSE [bureau, Please]^
+WUD |S1000 QSL [Would, Q S L]^
+WUD |S1000 FT [Would, Feet]^
+QSL |S1000 PLS [Q S L, Please]^
+WUD |S1000 VERT [Would, Vertical]^
+WUD |S1000 TX [Would, Transmit]^
+PSE |S1000 BURO [Please, bureau]^
+WUD |S1000 YAGI [Would, Yagi]^
+FT |S1000 EFHW [Feet, End fed, half-wave]^
+RX |S1000 FT [Receive, Feet]^
+MNI |S1000 WUD [Many, Would]^
+YL |S1000 EFHW [Young lady, End fed, half-wave]^
+WUD |S1000 YAGI [Would, Yagi]^
+WUD |S1000 QSL [Would, Q S L]^
+WUD |S1000 MNI [Would, Many]^
+WUD |S1000 MNI [Would, Many]^
+FT |S1000 OP [Feet, Operator]^
+QSY |S1000 WUD [Q S Y, Would]^
+EL |S1000 BCNU [Element, Be seeing you]^
+WUD |S1000 PLS [Would, Please]^
+CFM |S1000 WUD [Confirm, Would]^
+TX |S1000 WUD [Transmit, Would]^
+GUD |S1000 QRP [Good, Q R P]^
+QSY |S1000 WUD [Q S Y, Would]^
+TX |S1000 WUD [Transmit, Would]^
+TX |S1000 HW\? [Transmit, How copy\?]^
+WUD |S1000 QRQ [Would, Q R Q]^
+DR |S1000 WUD [Dear, Would]^
+QSL |S1000 WUD [Q S L, Would]^
+VERT |S1000 GUD [Vertical, Good]^
+HR |S1000 PSE [Hear, Please]^
+EFHW |S1000 WUD [End fed, half-wave, Would]^
+YL |S1000 QRS [Young lady, Q R S]^
+PSE |S1000 GUD [Please, Good]^
+HR |S1000 EFHW [Hear, End fed, half-wave]^
+WUD |S1000 HW\? [Would, How copy\?]^
+CFM |S1000 TX [Confirm, Transmit]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+PLS |S1000 WUD [Please, Would]^
+OP |S1000 WUD [Operator, Would]^
+QRP |S1000 QSY [Q R P, Q S Y]^
+WUD |S1000 QSL [Would, Q S L]^
+WUD |S1000 MNI [Would, Many]^
+QRP |S1000 OP [Q R P, Operator]^
+PSE |S1000 WUD [Please, Would]^
+OP |S1000 WUD [Operator, Would]^
+TX |S1000 EL [Transmit, Element]^
+WUD |S1000 BURO [Would, bureau]^
+WUD |S1000 VERT [Would, Vertical]^
+TX |S1000 WUD [Transmit, Would]^
+CFM |S1000 RX [Confirm, Receive]^
+WUD |S1000 FT [Would, Feet]^
+WUD |S1000 VERT [Would, Vertical]^
+WUD |S1000 EFHW [Would, End fed, half-wave]^
+PLS |S1000 EFHW [Please, End fed, half-wave]^
+CFM |S1000 WUD [Confirm, Would]^
+VERT |S1000 YAGI [Vertical, Yagi]^
+PLS |S1000 FT [Please, Feet]^
+HW\? |S1000 WUD [How copy\?, Would]^
+OP |S1000 WUD [Operator, Would]^
+BCNU |S1000 HR [Be seeing you, Hear]^
+HW\? |S1000 RX [How copy\?, Receive]^
+WUD |S1000 QSY [Would, Q S Y]^
+DR |S1000 TX [Dear, Transmit]^
+FT |S1000 WUD [Feet, Would]^
+PSE |S1000 WUD [Please, Would]^
+CFM |S1000 WUD [Confirm, Would]^
+QRP |S1000 FT [Q R P, Feet]^
+QSY |S1000 WUD [Q S Y, Would]^
+CFM |S1000 YAGI [Confirm, Yagi]^
+GUD |S1000 WUD [Good, Would]^
+EL |S1000 WUD [Element, Would]^
+GUD |S1000 QSL [Good, Q S L]^
+WUD |S1000 TX [Would, Transmit]^
+WUD |S1000 QRP [Would, Q R P]^
+WUD |S1000 BCNU [Would, Be seeing you]^
+WUD |S1000 OP [Would, Operator]^
+HR |S1000 TX [Hear, Transmit]^
+WUD |S1000 MNI [Would, Many]^
+WUD |S1000 BCNU [Would, Be seeing you]^
+PLS |S1000 QSL [Please, Q S L]^
+RX |S1000 WUD [Receive, Would]^
+GUD |S1000 WUD [Good, Would]^
+HW\? |S1000 WUD [How copy\?, Would]^
+GUD |S1000 WUD [Good, Would]^
+DR |S1000 WUD [Dear, Would]^
+VERT |S1000 WUD [Vertical, Would]^
+VERT |S1000 FT [Vertical, Feet]^
+QSY |S1000 YAGI [Q S Y, Yagi]^
+WUD |S1000 QRS [Would, Q R S]^
+HR |S1000 WUD [Hear, Would]^
+EL |S1000 FT [Element, Feet]^
+CFM |S1000 FT [Confirm, Feet]^
+WUD |S1000 VERT [Would, Vertical]^
+CFM |S1000 EL [Confirm, Element]^
+WUD |S1000 EL [Would, Element]^
+HW\? |S1000 WUD [How copy\?, Would]^
+OP |S1000 WUD [Operator, Would]^
+HR |S1000 QSL [Hear, Q S L]^
+DR |S1000 WUD [Dear, Would]^
+HR |S1000 WUD [Hear, Would]^
+GUD |S1000 WUD [Good, Would]^
+PSE |S1000 PLS [Please, Please]^
+WUD |S1000 CFM [Would, Confirm]^
+WUD |S1000 OP [Would, Operator]^
+YAGI |S1000 MNI [Yagi, Many]^
+VERT |S1000 EL [Vertical, Element]^
+DR |S1000 QSL [Dear, Q S L]^
+WUD |S1000 PLS [Would, Please]^
+WUD |S1000 OP [Would, Operator]^
+WUD |S1000 VERT [Would, Vertical]^
+QSY |S1000 WUD [Q S Y, Would]^
+QSY |S1000 MNI [Q S Y, Many]^
+WUD |S1000 YAGI [Would, Yagi]^
+WUD |S1000 QSY [Would, Q S Y]^
+QSL |S1000 DR [Q S L, Dear]^
+MNI |S1000 WUD [Many, Would]^
+RX |S1000 EFHW [Receive, End fed, half-wave]^
+TX |S1000 WUD [Transmit, Would]^
+VERT |S1000 QRQ [Vertical, Q R Q]^
+HW\? |S1000 WUD [How copy\?, Would]^
+QSL |S1000 WUD [Q S L, Would]^
+RX |S1000 HW\? [Receive, How copy\?]^
+QSL |S1000 QRS [Q S L, Q R S]^
+WUD |S1000 QRS [Would, Q R S]^
+WUD |S1000 BURO [Would, bureau]^
+WUD |S1000 YL [Would, Young lady]^
+WUD |S1000 BCNU [Would, Be seeing you]^
+PLS |S1000 QRQ [Please, Q R Q]^
+RX |S1000 YL [Receive, Young lady]^
+WUD |S1000 GUD [Would, Good]^
+WUD |S1000 QRS [Would, Q R S]^
+WUD |S1000 YAGI [Would, Yagi]^
+EFHW |S1000 FT [End fed, half-wave, Feet]^
+WUD |S1000 PSE [Would, Please]^
+QRP |S1000 QRS [Q R P, Q R S]^
+WUD |S1000 BCNU [Would, Be seeing you]^
+QRQ |S1000 PSE [Q R Q, Please]^
+TX |S1000 PSE [Transmit, Please]^
+QRP |S1000 WUD [Q R P, Would]^
+TX |S1000 WUD [Transmit, Would]^
+QSL |S1000 BCNU [Q S L, Be seeing you]^
+QSY |S1000 WUD [Q S Y, Would]^
+YAGI |S1000 VERT [Yagi, Vertical]^
+HR |S1000 YAGI [Hear, Yagi]^
+WUD |S1000 PSE [Would, Please]^
+PLS |S1000 WUD [Please, Would]^
+HR |S1000 WUD [Hear, Would]^
+VERT |S1000 WUD [Vertical, Would]^
+CFM |S1000 QSY [Confirm, Q S Y]^
+PSE |S1000 WUD [Please, Would]^
+QSL |S1000 WUD [Q S L, Would]^
+HR |S1000 QRQ [Hear, Q R Q]^
+BURO |S1000 VERT [bureau, Vertical]^
+HW\? |S1000 QRP [How copy\?, Q R P]^

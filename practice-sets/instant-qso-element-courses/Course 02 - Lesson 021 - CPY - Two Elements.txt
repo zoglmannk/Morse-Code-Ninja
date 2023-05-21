@@ -1,0 +1,600 @@
+FB |S1000 CPY [Fine business, Copy]^
+HW |S1000 SRI [How, Sorry]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 HW [Copy, How]^
+QSB |S1000 HW [Q S B, How]^
+CPY |S1000 FB [Copy, Fine business]^
+TNX |S1000 FB [Thanks, Fine business]^
+SRI |S1000 HW [Sorry, How]^
+SRI |S1000 CPY [Sorry, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 HW [Sorry, How]^
+CPY |S1000 QSB [Copy, Q S B]^
+HW |S1000 TNX [How, Thanks]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 FB [Copy, Fine business]^
+HW |S1000 TNX [How, Thanks]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 QSB [Copy, Q S B]^
+TNX |S1000 CPY [Thanks, Copy]^
+TNX |S1000 HW [Thanks, How]^
+QSB |S1000 TNX [Q S B, Thanks]^
+CPY |S1000 TNX [Copy, Thanks]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 SRI [Q S B, Sorry]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+FB |S1000 QSB [Fine business, Q S B]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 SRI [Copy, Sorry]^
+HW |S1000 QSB [How, Q S B]^
+TNX |S1000 FB [Thanks, Fine business]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 HW [Copy, How]^
+TNX |S1000 SRI [Thanks, Sorry]^
+CPY |S1000 QSB [Copy, Q S B]^
+FB |S1000 HW [Fine business, How]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 HW [Fine business, How]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CPY |S1000 SRI [Copy, Sorry]^
+TNX |S1000 HW [Thanks, How]^
+TNX |S1000 CPY [Thanks, Copy]^
+SRI |S1000 QSB [Sorry, Q S B]^
+FB |S1000 CPY [Fine business, Copy]^
+HW |S1000 TNX [How, Thanks]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 HW [Thanks, How]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 QSB [Copy, Q S B]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+FB |S1000 TNX [Fine business, Thanks]^
+HW |S1000 CPY [How, Copy]^
+FB |S1000 QSB [Fine business, Q S B]^
+CPY |S1000 SRI [Copy, Sorry]^
+TNX |S1000 CPY [Thanks, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 FB [Copy, Fine business]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPY |S1000 QSB [Copy, Q S B]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 SRI [Thanks, Sorry]^
+FB |S1000 SRI [Fine business, Sorry]^
+FB |S1000 QSB [Fine business, Q S B]^
+TNX |S1000 CPY [Thanks, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 QSB [Sorry, Q S B]^
+TNX |S1000 QSB [Thanks, Q S B]^
+TNX |S1000 CPY [Thanks, Copy]^
+HW |S1000 CPY [How, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 QSB [Sorry, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+FB |S1000 CPY [Fine business, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+FB |S1000 SRI [Fine business, Sorry]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 FB [Sorry, Fine business]^
+CPY |S1000 QSB [Copy, Q S B]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+FB |S1000 SRI [Fine business, Sorry]^
+TNX |S1000 CPY [Thanks, Copy]^
+HW |S1000 SRI [How, Sorry]^
+QSB |S1000 CPY [Q S B, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+TNX |S1000 FB [Thanks, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+QSB |S1000 FB [Q S B, Fine business]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPY |S1000 QSB [Copy, Q S B]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 QSB [How, Q S B]^
+SRI |S1000 QSB [Sorry, Q S B]^
+TNX |S1000 HW [Thanks, How]^
+FB |S1000 CPY [Fine business, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 FB [Copy, Fine business]^
+QSB |S1000 CPY [Q S B, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+QSB |S1000 SRI [Q S B, Sorry]^
+CPY |S1000 SRI [Copy, Sorry]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+FB |S1000 QSB [Fine business, Q S B]^
+CPY |S1000 HW [Copy, How]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+TNX |S1000 HW [Thanks, How]^
+TNX |S1000 FB [Thanks, Fine business]^
+HW |S1000 QSB [How, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+HW |S1000 QSB [How, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 HW [Copy, How]^
+TNX |S1000 CPY [Thanks, Copy]^
+FB |S1000 HW [Fine business, How]^
+CPY |S1000 SRI [Copy, Sorry]^
+FB |S1000 QSB [Fine business, Q S B]^
+TNX |S1000 CPY [Thanks, Copy]^
+HW |S1000 CPY [How, Copy]^
+HW |S1000 QSB [How, Q S B]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 HW [Fine business, How]^
+FB |S1000 SRI [Fine business, Sorry]^
+QSB |S1000 CPY [Q S B, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 HW [Copy, How]^
+TNX |S1000 CPY [Thanks, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 QSB [Sorry, Q S B]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 QSB [Fine business, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+FB |S1000 SRI [Fine business, Sorry]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+QSB |S1000 FB [Q S B, Fine business]^
+SRI |S1000 CPY [Sorry, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CPY |S1000 SRI [Copy, Sorry]^
+FB |S1000 CPY [Fine business, Copy]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 QSB [Copy, Q S B]^
+SRI |S1000 QSB [Sorry, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+HW |S1000 QSB [How, Q S B]^
+SRI |S1000 CPY [Sorry, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+TNX |S1000 QSB [Thanks, Q S B]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CPY |S1000 SRI [Copy, Sorry]^
+HW |S1000 QSB [How, Q S B]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+QSB |S1000 CPY [Q S B, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+TNX |S1000 HW [Thanks, How]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 TNX [How, Thanks]^
+HW |S1000 TNX [How, Thanks]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 FB [Copy, Fine business]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+CPY |S1000 QSB [Copy, Q S B]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 HW [Fine business, How]^
+SRI |S1000 TNX [Sorry, Thanks]^
+CPY |S1000 FB [Copy, Fine business]^
+QSB |S1000 TNX [Q S B, Thanks]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 FB [Sorry, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 SRI [Copy, Sorry]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CPY |S1000 HW [Copy, How]^
+TNX |S1000 CPY [Thanks, Copy]^
+QSB |S1000 TNX [Q S B, Thanks]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 FB [Copy, Fine business]^
+TNX |S1000 CPY [Thanks, Copy]^
+SRI |S1000 FB [Sorry, Fine business]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 QSB [Sorry, Q S B]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 TNX [Copy, Thanks]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 TNX [Copy, Thanks]^
+HW |S1000 SRI [How, Sorry]^
+CPY |S1000 SRI [Copy, Sorry]^
+QSB |S1000 CPY [Q S B, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+QSB |S1000 HW [Q S B, How]^
+CPY |S1000 SRI [Copy, Sorry]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 CPY [Fine business, Copy]^
+FB |S1000 QSB [Fine business, Q S B]^
+SRI |S1000 TNX [Sorry, Thanks]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 SRI [Copy, Sorry]^
+FB |S1000 TNX [Fine business, Thanks]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 HW [Copy, How]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+TNX |S1000 SRI [Thanks, Sorry]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 HW [Thanks, How]^
+SRI |S1000 FB [Sorry, Fine business]^
+TNX |S1000 CPY [Thanks, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 FB [Sorry, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+QSB |S1000 CPY [Q S B, Copy]^
+TNX |S1000 FB [Thanks, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+FB |S1000 CPY [Fine business, Copy]^
+HW |S1000 QSB [How, Q S B]^
+TNX |S1000 CPY [Thanks, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+CPY |S1000 FB [Copy, Fine business]^
+SRI |S1000 QSB [Sorry, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 CPY [How, Copy]^
+TNX |S1000 QSB [Thanks, Q S B]^
+FB |S1000 CPY [Fine business, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+HW |S1000 SRI [How, Sorry]^
+HW |S1000 QSB [How, Q S B]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+QSB |S1000 HW [Q S B, How]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 FB [Thanks, Fine business]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 HW [Copy, How]^
+TNX |S1000 CPY [Thanks, Copy]^
+FB |S1000 SRI [Fine business, Sorry]^
+CPY |S1000 FB [Copy, Fine business]^
+SRI |S1000 FB [Sorry, Fine business]^
+TNX |S1000 CPY [Thanks, Copy]^
+TNX |S1000 HW [Thanks, How]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+SRI |S1000 HW [Sorry, How]^
+FB |S1000 HW [Fine business, How]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 HW [Copy, How]^
+QSB |S1000 SRI [Q S B, Sorry]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 QSB [Copy, Q S B]^
+SRI |S1000 FB [Sorry, Fine business]^
+CPY |S1000 HW [Copy, How]^
+SRI |S1000 FB [Sorry, Fine business]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+TNX |S1000 SRI [Thanks, Sorry]^
+CPY |S1000 QSB [Copy, Q S B]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 SRI [Q S B, Sorry]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 FB [Copy, Fine business]^
+TNX |S1000 CPY [Thanks, Copy]^
+FB |S1000 SRI [Fine business, Sorry]^
+FB |S1000 QSB [Fine business, Q S B]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 TNX [Copy, Thanks]^
+QSB |S1000 CPY [Q S B, Copy]^
+QSB |S1000 HW [Q S B, How]^
+FB |S1000 TNX [Fine business, Thanks]^
+HW |S1000 SRI [How, Sorry]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 FB [Sorry, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+QSB |S1000 SRI [Q S B, Sorry]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 HW [Copy, How]^
+SRI |S1000 HW [Sorry, How]^
+FB |S1000 CPY [Fine business, Copy]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 FB [Copy, Fine business]^
+QSB |S1000 CPY [Q S B, Copy]^
+TNX |S1000 HW [Thanks, How]^
+TNX |S1000 CPY [Thanks, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 QSB [Thanks, Q S B]^
+FB |S1000 QSB [Fine business, Q S B]^
+TNX |S1000 CPY [Thanks, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 HW [Sorry, How]^
+FB |S1000 HW [Fine business, How]^
+CPY |S1000 SRI [Copy, Sorry]^
+HW |S1000 TNX [How, Thanks]^
+CPY |S1000 SRI [Copy, Sorry]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 TNX [Fine business, Thanks]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 HW [Sorry, How]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 SRI [Copy, Sorry]^
+FB |S1000 HW [Fine business, How]^
+QSB |S1000 CPY [Q S B, Copy]^
+QSB |S1000 FB [Q S B, Fine business]^
+HW |S1000 SRI [How, Sorry]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+HW |S1000 QSB [How, Q S B]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 QSB [Copy, Q S B]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 CPY [How, Copy]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+HW |S1000 QSB [How, Q S B]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+FB |S1000 CPY [Fine business, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+QSB |S1000 HW [Q S B, How]^
+TNX |S1000 HW [Thanks, How]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 TNX [How, Thanks]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 TNX [Copy, Thanks]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 TNX [Copy, Thanks]^
+SRI |S1000 TNX [Sorry, Thanks]^
+QSB |S1000 CPY [Q S B, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+SRI |S1000 QSB [Sorry, Q S B]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 QSB [Sorry, Q S B]^
+TNX |S1000 CPY [Thanks, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+QSB |S1000 SRI [Q S B, Sorry]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 HW [Copy, How]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 FB [How, Fine business]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+HW |S1000 FB [How, Fine business]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 TNX [Copy, Thanks]^
+QSB |S1000 CPY [Q S B, Copy]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 SRI [Copy, Sorry]^
+TNX |S1000 CPY [Thanks, Copy]^
+TNX |S1000 QSB [Thanks, Q S B]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 HW [Thanks, How]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 CPY [Fine business, Copy]^
+FB |S1000 TNX [Fine business, Thanks]^
+HW |S1000 CPY [How, Copy]^
+TNX |S1000 SRI [Thanks, Sorry]^
+CPY |S1000 FB [Copy, Fine business]^
+QSB |S1000 CPY [Q S B, Copy]^
+FB |S1000 HW [Fine business, How]^
+FB |S1000 SRI [Fine business, Sorry]^
+TNX |S1000 CPY [Thanks, Copy]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 CPY [Fine business, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+QSB |S1000 HW [Q S B, How]^
+SRI |S1000 CPY [Sorry, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+HW |S1000 TNX [How, Thanks]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 FB [Thanks, Fine business]^
+SRI |S1000 CPY [Sorry, Copy]^
+TNX |S1000 HW [Thanks, How]^
+QSB |S1000 FB [Q S B, Fine business]^
+SRI |S1000 HW [Sorry, How]^
+CPY |S1000 FB [Copy, Fine business]^
+TNX |S1000 HW [Thanks, How]^
+CPY |S1000 TNX [Copy, Thanks]^
+QSB |S1000 TNX [Q S B, Thanks]^
+CPY |S1000 QSB [Copy, Q S B]^
+TNX |S1000 CPY [Thanks, Copy]^
+HW |S1000 CPY [How, Copy]^
+HW |S1000 TNX [How, Thanks]^
+CPY |S1000 FB [Copy, Fine business]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 SRI [Copy, Sorry]^
+FB |S1000 TNX [Fine business, Thanks]^
+QSB |S1000 HW [Q S B, How]^
+SRI |S1000 TNX [Sorry, Thanks]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 FB [Copy, Fine business]^
+CPY |S1000 TNX [Copy, Thanks]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 HW [Sorry, How]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 HW [Sorry, How]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 FB [Sorry, Fine business]^
+CPY |S1000 QSB [Copy, Q S B]^
+CPY |S1000 TNX [Copy, Thanks]^
+QSB |S1000 SRI [Q S B, Sorry]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+HW |S1000 CPY [How, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+HW |S1000 FB [How, Fine business]^
+HW |S1000 CPY [How, Copy]^
+TNX |S1000 FB [Thanks, Fine business]^
+HW |S1000 CPY [How, Copy]^
+HW |S1000 SRI [How, Sorry]^
+CPY |S1000 QSB [Copy, Q S B]^
+HW |S1000 CPY [How, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+SRI |S1000 TNX [Sorry, Thanks]^
+CPY |S1000 TNX [Copy, Thanks]^
+CPY |S1000 QSB [Copy, Q S B]^
+FB |S1000 QSB [Fine business, Q S B]^
+CPY |S1000 HW [Copy, How]^
+CPY |S1000 HW [Copy, How]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 QSB [Sorry, Q S B]^
+CPY |S1000 HW [Copy, How]^
+QSB |S1000 SRI [Q S B, Sorry]^
+QSB |S1000 FB [Q S B, Fine business]^
+SRI |S1000 CPY [Sorry, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+HW |S1000 SRI [How, Sorry]^
+QSB |S1000 SRI [Q S B, Sorry]^
+HW |S1000 CPY [How, Copy]^
+FB |S1000 TNX [Fine business, Thanks]^
+QSB |S1000 CPY [Q S B, Copy]^
+QSB |S1000 SRI [Q S B, Sorry]^
+CPY |S1000 QSB [Copy, Q S B]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 HW [Thanks, How]^
+CPY |S1000 QSB [Copy, Q S B]^
+HW |S1000 CPY [How, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 CPY [How, Copy]^
+HW |S1000 CPY [How, Copy]^
+TNX |S1000 CPY [Thanks, Copy]^
+QSB |S1000 TNX [Q S B, Thanks]^
+SRI |S1000 CPY [Sorry, Copy]^
+SRI |S1000 QSB [Sorry, Q S B]^
+TNX |S1000 QSB [Thanks, Q S B]^
+TNX |S1000 SRI [Thanks, Sorry]^
+TNX |S1000 CPY [Thanks, Copy]^
+FB |S1000 TNX [Fine business, Thanks]^
+SRI |S1000 HW [Sorry, How]^
+SRI |S1000 CPY [Sorry, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+TNX |S1000 FB [Thanks, Fine business]^
+TNX |S1000 CPY [Thanks, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+QSB |S1000 TNX [Q S B, Thanks]^
+FB |S1000 CPY [Fine business, Copy]^
+SRI |S1000 FB [Sorry, Fine business]^
+SRI |S1000 CPY [Sorry, Copy]^
+HW |S1000 SRI [How, Sorry]^
+CPY |S1000 SRI [Copy, Sorry]^
+CPY |S1000 SRI [Copy, Sorry]^
+HW |S1000 CPY [How, Copy]^
+QSB |S1000 CPY [Q S B, Copy]^
+SRI |S1000 CPY [Sorry, Copy]^
+QSB |S1000 TNX [Q S B, Thanks]^
+CPY |S1000 TNX [Copy, Thanks]^
+SRI |S1000 CPY [Sorry, Copy]^
+QSB |S1000 SRI [Q S B, Sorry]^
+HW |S1000 SRI [How, Sorry]^
+CPY |S1000 FB [Copy, Fine business]^
+SRI |S1000 CPY [Sorry, Copy]^
+QSB |S1000 TNX [Q S B, Thanks]^
+QSB |S1000 SRI [Q S B, Sorry]^
+CPY |S1000 SRI [Copy, Sorry]^

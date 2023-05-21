@@ -1,0 +1,600 @@
+LOOP |S1000 88 [Loop, 88]^
+479 |S1000 CW [4 7 9, C W]^
+GN |S1000 GB [Good night, Goodbye]^
+479 |S1000 NW [4 7 9, Now]^
+479 |S1000 GN [4 7 9, Good night]^
+479 |S1000 GN [4 7 9, Good night]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+OCF |S1000 479 [Off-center fed dipole, 4 7 9]^
+CW |S1000 479 [C W, 4 7 9]^
+359 |S1000 SWR [3 5 9, S W R]^
+479 |S1000 72 [4 7 9, 72]^
+CW |S1000 88 [C W, 88]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+479 |S1000 WIRE [4 7 9, Wire]^
+72 |S1000 CW [72, C W]^
+479 |S1000 88 [4 7 9, 88]^
+OCF |S1000 GD [Off-center fed dipole, Good]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+SSB |S1000 OCF [Single Side Band, Off-center fed dipole]^
+INFO |S1000 479 [Information, 4 7 9]^
+88 |S1000 479 [88, 4 7 9]^
+INFO |S1000 NW [Information, Now]^
+479 |S1000 GN [4 7 9, Good night]^
+72 |S1000 479 [72, 4 7 9]^
+SSB |S1000 INFO [Single Side Band, Information]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+72 |S1000 CW [72, C W]^
+INFO |S1000 479 [Information, 4 7 9]^
+88 |S1000 479 [88, 4 7 9]^
+GB |S1000 WATT [Goodbye, Watt]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+SWR |S1000 WIRE [S W R, Wire]^
+NW |S1000 GB [Now, Goodbye]^
+CW |S1000 479 [C W, 4 7 9]^
+WATT |S1000 479 [Watt, 4 7 9]^
+GN |S1000 WATT [Good night, Watt]^
+INFO |S1000 CW [Information, C W]^
+88 |S1000 479 [88, 4 7 9]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+GD |S1000 479 [Good, 4 7 9]^
+LOOP |S1000 NW [Loop, Now]^
+479 |S1000 72 [4 7 9, 72]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+GD |S1000 479 [Good, 4 7 9]^
+NW |S1000 SWR [Now, S W R]^
+GD |S1000 479 [Good, 4 7 9]^
+WIRE |S1000 NW [Wire, Now]^
+CW |S1000 OCF [C W, Off-center fed dipole]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+479 |S1000 NW [4 7 9, Now]^
+WIRE |S1000 GD [Wire, Good]^
+479 |S1000 GD [4 7 9, Good]^
+WIRE |S1000 1TT [Wire, 100]^
+CW |S1000 479 [C W, 4 7 9]^
+1TT |S1000 359 [100, 3 5 9]^
+LOOP |S1000 GB [Loop, Goodbye]^
+479 |S1000 CW [4 7 9, C W]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+SWR |S1000 GD [S W R, Good]^
+72 |S1000 479 [72, 4 7 9]^
+NW |S1000 479 [Now, 4 7 9]^
+OCF |S1000 GD [Off-center fed dipole, Good]^
+479 |S1000 CW [4 7 9, C W]^
+NW |S1000 WIRE [Now, Wire]^
+GN |S1000 479 [Good night, 4 7 9]^
+LOOP |S1000 1TT [Loop, 100]^
+SSB |S1000 GB [Single Side Band, Goodbye]^
+WATT |S1000 SSB [Watt, Single Side Band]^
+72 |S1000 GN [72, Good night]^
+479 |S1000 88 [4 7 9, 88]^
+1TT |S1000 479 [100, 4 7 9]^
+SSB |S1000 359 [Single Side Band, 3 5 9]^
+479 |S1000 WIRE [4 7 9, Wire]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+OCF |S1000 479 [Off-center fed dipole, 4 7 9]^
+88 |S1000 GN [88, Good night]^
+NW |S1000 SSB [Now, Single Side Band]^
+479 |S1000 CW [4 7 9, C W]^
+NW |S1000 GN [Now, Good night]^
+GB |S1000 WIRE [Goodbye, Wire]^
+WATT |S1000 CW [Watt, C W]^
+WIRE |S1000 SWR [Wire, S W R]^
+479 |S1000 GB [4 7 9, Goodbye]^
+NW |S1000 479 [Now, 4 7 9]^
+WIRE |S1000 SSB [Wire, Single Side Band]^
+GD |S1000 WIRE [Good, Wire]^
+479 |S1000 WIRE [4 7 9, Wire]^
+OCF |S1000 479 [Off-center fed dipole, 4 7 9]^
+72 |S1000 1TT [72, 100]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+479 |S1000 LOOP [4 7 9, Loop]^
+359 |S1000 GB [3 5 9, Goodbye]^
+88 |S1000 479 [88, 4 7 9]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+OCF |S1000 WATT [Off-center fed dipole, Watt]^
+479 |S1000 INFO [4 7 9, Information]^
+1TT |S1000 LOOP [100, Loop]^
+88 |S1000 479 [88, 4 7 9]^
+WATT |S1000 GN [Watt, Good night]^
+479 |S1000 WIRE [4 7 9, Wire]^
+479 |S1000 GD [4 7 9, Good]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+CW |S1000 SSB [C W, Single Side Band]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+479 |S1000 INFO [4 7 9, Information]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+GB |S1000 CW [Goodbye, C W]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+WIRE |S1000 CW [Wire, C W]^
+479 |S1000 1TT [4 7 9, 100]^
+GN |S1000 CW [Good night, C W]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+INFO |S1000 OCF [Information, Off-center fed dipole]^
+479 |S1000 72 [4 7 9, 72]^
+GD |S1000 WATT [Good, Watt]^
+1TT |S1000 479 [100, 4 7 9]^
+SSB |S1000 SWR [Single Side Band, S W R]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+NW |S1000 OCF [Now, Off-center fed dipole]^
+NW |S1000 479 [Now, 4 7 9]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+NW |S1000 359 [Now, 3 5 9]^
+479 |S1000 WATT [4 7 9, Watt]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+GN |S1000 479 [Good night, 4 7 9]^
+NW |S1000 88 [Now, 88]^
+479 |S1000 LOOP [4 7 9, Loop]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+INFO |S1000 OCF [Information, Off-center fed dipole]^
+479 |S1000 72 [4 7 9, 72]^
+479 |S1000 72 [4 7 9, 72]^
+OCF |S1000 SWR [Off-center fed dipole, S W R]^
+479 |S1000 SWR [4 7 9, S W R]^
+479 |S1000 NW [4 7 9, Now]^
+479 |S1000 NW [4 7 9, Now]^
+1TT |S1000 479 [100, 4 7 9]^
+WIRE |S1000 GD [Wire, Good]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+1TT |S1000 GD [100, Good]^
+479 |S1000 NW [4 7 9, Now]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+NW |S1000 479 [Now, 4 7 9]^
+WIRE |S1000 GB [Wire, Goodbye]^
+GN |S1000 GD [Good night, Good]^
+479 |S1000 72 [4 7 9, 72]^
+OCF |S1000 359 [Off-center fed dipole, 3 5 9]^
+479 |S1000 WIRE [4 7 9, Wire]^
+NW |S1000 SSB [Now, Single Side Band]^
+CW |S1000 479 [C W, 4 7 9]^
+72 |S1000 479 [72, 4 7 9]^
+GD |S1000 479 [Good, 4 7 9]^
+SSB |S1000 WATT [Single Side Band, Watt]^
+88 |S1000 1TT [88, 100]^
+479 |S1000 WATT [4 7 9, Watt]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+CW |S1000 479 [C W, 4 7 9]^
+72 |S1000 479 [72, 4 7 9]^
+GN |S1000 72 [Good night, 72]^
+479 |S1000 SWR [4 7 9, S W R]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+1TT |S1000 CW [100, C W]^
+88 |S1000 GD [88, Good]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+359 |S1000 WATT [3 5 9, Watt]^
+479 |S1000 GN [4 7 9, Good night]^
+359 |S1000 INFO [3 5 9, Information]^
+GN |S1000 LOOP [Good night, Loop]^
+479 |S1000 SWR [4 7 9, S W R]^
+GD |S1000 479 [Good, 4 7 9]^
+CW |S1000 WIRE [C W, Wire]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+OCF |S1000 479 [Off-center fed dipole, 4 7 9]^
+72 |S1000 LOOP [72, Loop]^
+479 |S1000 WATT [4 7 9, Watt]^
+SWR |S1000 72 [S W R, 72]^
+SWR |S1000 GB [S W R, Goodbye]^
+CW |S1000 SSB [C W, Single Side Band]^
+88 |S1000 479 [88, 4 7 9]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+OCF |S1000 NW [Off-center fed dipole, Now]^
+479 |S1000 CW [4 7 9, C W]^
+INFO |S1000 SSB [Information, Single Side Band]^
+479 |S1000 WATT [4 7 9, Watt]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+GN |S1000 479 [Good night, 4 7 9]^
+WATT |S1000 479 [Watt, 4 7 9]^
+88 |S1000 GN [88, Good night]^
+WIRE |S1000 72 [Wire, 72]^
+NW |S1000 GD [Now, Good]^
+GB |S1000 88 [Goodbye, 88]^
+479 |S1000 GD [4 7 9, Good]^
+CW |S1000 INFO [C W, Information]^
+479 |S1000 88 [4 7 9, 88]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+GN |S1000 479 [Good night, 4 7 9]^
+LOOP |S1000 GB [Loop, Goodbye]^
+479 |S1000 1TT [4 7 9, 100]^
+GD |S1000 CW [Good, C W]^
+479 |S1000 CW [4 7 9, C W]^
+479 |S1000 88 [4 7 9, 88]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+NW |S1000 LOOP [Now, Loop]^
+GN |S1000 479 [Good night, 4 7 9]^
+WIRE |S1000 OCF [Wire, Off-center fed dipole]^
+479 |S1000 WIRE [4 7 9, Wire]^
+479 |S1000 NW [4 7 9, Now]^
+479 |S1000 SWR [4 7 9, S W R]^
+GN |S1000 OCF [Good night, Off-center fed dipole]^
+479 |S1000 GD [4 7 9, Good]^
+479 |S1000 GN [4 7 9, Good night]^
+479 |S1000 GD [4 7 9, Good]^
+479 |S1000 WIRE [4 7 9, Wire]^
+359 |S1000 GB [3 5 9, Goodbye]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+INFO |S1000 479 [Information, 4 7 9]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+88 |S1000 GB [88, Goodbye]^
+479 |S1000 88 [4 7 9, 88]^
+OCF |S1000 WATT [Off-center fed dipole, Watt]^
+OCF |S1000 88 [Off-center fed dipole, 88]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+CW |S1000 GB [C W, Goodbye]^
+479 |S1000 CW [4 7 9, C W]^
+OCF |S1000 72 [Off-center fed dipole, 72]^
+GB |S1000 INFO [Goodbye, Information]^
+72 |S1000 479 [72, 4 7 9]^
+CW |S1000 479 [C W, 4 7 9]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+1TT |S1000 WIRE [100, Wire]^
+NW |S1000 SSB [Now, Single Side Band]^
+479 |S1000 CW [4 7 9, C W]^
+479 |S1000 1TT [4 7 9, 100]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+OCF |S1000 SSB [Off-center fed dipole, Single Side Band]^
+NW |S1000 88 [Now, 88]^
+479 |S1000 GD [4 7 9, Good]^
+GB |S1000 NW [Goodbye, Now]^
+479 |S1000 WATT [4 7 9, Watt]^
+GD |S1000 72 [Good, 72]^
+GN |S1000 479 [Good night, 4 7 9]^
+GD |S1000 479 [Good, 4 7 9]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+CW |S1000 NW [C W, Now]^
+479 |S1000 CW [4 7 9, C W]^
+479 |S1000 WIRE [4 7 9, Wire]^
+CW |S1000 479 [C W, 4 7 9]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+LOOP |S1000 GN [Loop, Good night]^
+CW |S1000 479 [C W, 4 7 9]^
+WIRE |S1000 SWR [Wire, S W R]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+88 |S1000 72 [88, 72]^
+SWR |S1000 479 [S W R, 4 7 9]^
+OCF |S1000 INFO [Off-center fed dipole, Information]^
+SWR |S1000 GB [S W R, Goodbye]^
+1TT |S1000 SSB [100, Single Side Band]^
+88 |S1000 1TT [88, 100]^
+72 |S1000 479 [72, 4 7 9]^
+88 |S1000 479 [88, 4 7 9]^
+GN |S1000 479 [Good night, 4 7 9]^
+359 |S1000 WIRE [3 5 9, Wire]^
+479 |S1000 INFO [4 7 9, Information]^
+SWR |S1000 INFO [S W R, Information]^
+GD |S1000 WATT [Good, Watt]^
+479 |S1000 INFO [4 7 9, Information]^
+WATT |S1000 72 [Watt, 72]^
+SWR |S1000 GN [S W R, Good night]^
+479 |S1000 GB [4 7 9, Goodbye]^
+72 |S1000 479 [72, 4 7 9]^
+SSB |S1000 GN [Single Side Band, Good night]^
+OCF |S1000 88 [Off-center fed dipole, 88]^
+479 |S1000 GN [4 7 9, Good night]^
+CW |S1000 88 [C W, 88]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+479 |S1000 CW [4 7 9, C W]^
+72 |S1000 SWR [72, S W R]^
+479 |S1000 72 [4 7 9, 72]^
+479 |S1000 GD [4 7 9, Good]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+NW |S1000 WATT [Now, Watt]^
+SSB |S1000 SWR [Single Side Band, S W R]^
+GN |S1000 479 [Good night, 4 7 9]^
+SSB |S1000 WATT [Single Side Band, Watt]^
+INFO |S1000 479 [Information, 4 7 9]^
+LOOP |S1000 INFO [Loop, Information]^
+WATT |S1000 479 [Watt, 4 7 9]^
+GD |S1000 479 [Good, 4 7 9]^
+NW |S1000 WIRE [Now, Wire]^
+INFO |S1000 72 [Information, 72]^
+GB |S1000 88 [Goodbye, 88]^
+479 |S1000 GN [4 7 9, Good night]^
+SSB |S1000 WIRE [Single Side Band, Wire]^
+GB |S1000 SWR [Goodbye, S W R]^
+INFO |S1000 479 [Information, 4 7 9]^
+88 |S1000 479 [88, 4 7 9]^
+CW |S1000 479 [C W, 4 7 9]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+LOOP |S1000 SSB [Loop, Single Side Band]^
+GD |S1000 479 [Good, 4 7 9]^
+1TT |S1000 NW [100, Now]^
+88 |S1000 359 [88, 3 5 9]^
+GD |S1000 88 [Good, 88]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+NW |S1000 1TT [Now, 100]^
+NW |S1000 INFO [Now, Information]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+GB |S1000 INFO [Goodbye, Information]^
+479 |S1000 WATT [4 7 9, Watt]^
+INFO |S1000 479 [Information, 4 7 9]^
+88 |S1000 GD [88, Good]^
+479 |S1000 NW [4 7 9, Now]^
+1TT |S1000 NW [100, Now]^
+GD |S1000 GN [Good, Good night]^
+NW |S1000 88 [Now, 88]^
+72 |S1000 479 [72, 4 7 9]^
+1TT |S1000 479 [100, 4 7 9]^
+GB |S1000 CW [Goodbye, C W]^
+GD |S1000 479 [Good, 4 7 9]^
+INFO |S1000 LOOP [Information, Loop]^
+479 |S1000 72 [4 7 9, 72]^
+NW |S1000 88 [Now, 88]^
+SWR |S1000 479 [S W R, 4 7 9]^
+1TT |S1000 479 [100, 4 7 9]^
+359 |S1000 OCF [3 5 9, Off-center fed dipole]^
+WATT |S1000 NW [Watt, Now]^
+479 |S1000 88 [4 7 9, 88]^
+479 |S1000 GN [4 7 9, Good night]^
+GB |S1000 359 [Goodbye, 3 5 9]^
+GB |S1000 OCF [Goodbye, Off-center fed dipole]^
+GD |S1000 GN [Good, Good night]^
+479 |S1000 GD [4 7 9, Good]^
+479 |S1000 LOOP [4 7 9, Loop]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+GB |S1000 NW [Goodbye, Now]^
+479 |S1000 SWR [4 7 9, S W R]^
+479 |S1000 WATT [4 7 9, Watt]^
+479 |S1000 1TT [4 7 9, 100]^
+479 |S1000 GB [4 7 9, Goodbye]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+GN |S1000 88 [Good night, 88]^
+1TT |S1000 479 [100, 4 7 9]^
+WATT |S1000 479 [Watt, 4 7 9]^
+WATT |S1000 GB [Watt, Goodbye]^
+LOOP |S1000 WIRE [Loop, Wire]^
+479 |S1000 WATT [4 7 9, Watt]^
+WIRE |S1000 359 [Wire, 3 5 9]^
+88 |S1000 WIRE [88, Wire]^
+479 |S1000 WATT [4 7 9, Watt]^
+INFO |S1000 479 [Information, 4 7 9]^
+OCF |S1000 LOOP [Off-center fed dipole, Loop]^
+359 |S1000 72 [3 5 9, 72]^
+SWR |S1000 OCF [S W R, Off-center fed dipole]^
+479 |S1000 WATT [4 7 9, Watt]^
+OCF |S1000 1TT [Off-center fed dipole, 100]^
+359 |S1000 GB [3 5 9, Goodbye]^
+479 |S1000 WATT [4 7 9, Watt]^
+SWR |S1000 479 [S W R, 4 7 9]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+GN |S1000 WIRE [Good night, Wire]^
+1TT |S1000 SWR [100, S W R]^
+WATT |S1000 OCF [Watt, Off-center fed dipole]^
+GN |S1000 479 [Good night, 4 7 9]^
+SWR |S1000 479 [S W R, 4 7 9]^
+WATT |S1000 SWR [Watt, S W R]^
+GD |S1000 479 [Good, 4 7 9]^
+GN |S1000 OCF [Good night, Off-center fed dipole]^
+INFO |S1000 479 [Information, 4 7 9]^
+72 |S1000 479 [72, 4 7 9]^
+OCF |S1000 WATT [Off-center fed dipole, Watt]^
+OCF |S1000 GD [Off-center fed dipole, Good]^
+WIRE |S1000 LOOP [Wire, Loop]^
+479 |S1000 NW [4 7 9, Now]^
+SWR |S1000 WATT [S W R, Watt]^
+1TT |S1000 WATT [100, Watt]^
+CW |S1000 479 [C W, 4 7 9]^
+GB |S1000 OCF [Goodbye, Off-center fed dipole]^
+479 |S1000 1TT [4 7 9, 100]^
+479 |S1000 88 [4 7 9, 88]^
+CW |S1000 WIRE [C W, Wire]^
+479 |S1000 GN [4 7 9, Good night]^
+88 |S1000 1TT [88, 100]^
+88 |S1000 SSB [88, Single Side Band]^
+479 |S1000 INFO [4 7 9, Information]^
+CW |S1000 NW [C W, Now]^
+GD |S1000 479 [Good, 4 7 9]^
+INFO |S1000 CW [Information, C W]^
+SWR |S1000 479 [S W R, 4 7 9]^
+GD |S1000 INFO [Good, Information]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+479 |S1000 1TT [4 7 9, 100]^
+GN |S1000 WIRE [Good night, Wire]^
+NW |S1000 INFO [Now, Information]^
+359 |S1000 WATT [3 5 9, Watt]^
+479 |S1000 WATT [4 7 9, Watt]^
+SWR |S1000 NW [S W R, Now]^
+479 |S1000 NW [4 7 9, Now]^
+INFO |S1000 OCF [Information, Off-center fed dipole]^
+72 |S1000 479 [72, 4 7 9]^
+88 |S1000 1TT [88, 100]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+GD |S1000 CW [Good, C W]^
+479 |S1000 GB [4 7 9, Goodbye]^
+1TT |S1000 479 [100, 4 7 9]^
+WATT |S1000 479 [Watt, 4 7 9]^
+GD |S1000 CW [Good, C W]^
+359 |S1000 GD [3 5 9, Good]^
+GN |S1000 88 [Good night, 88]^
+479 |S1000 GN [4 7 9, Good night]^
+GD |S1000 GN [Good, Good night]^
+WIRE |S1000 OCF [Wire, Off-center fed dipole]^
+479 |S1000 CW [4 7 9, C W]^
+GD |S1000 479 [Good, 4 7 9]^
+GN |S1000 INFO [Good night, Information]^
+88 |S1000 359 [88, 3 5 9]^
+GB |S1000 CW [Goodbye, C W]^
+72 |S1000 CW [72, C W]^
+479 |S1000 GD [4 7 9, Good]^
+479 |S1000 WATT [4 7 9, Watt]^
+CW |S1000 GD [C W, Good]^
+SSB |S1000 WIRE [Single Side Band, Wire]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+CW |S1000 1TT [C W, 100]^
+SSB |S1000 INFO [Single Side Band, Information]^
+88 |S1000 GB [88, Goodbye]^
+479 |S1000 WATT [4 7 9, Watt]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+359 |S1000 SSB [3 5 9, Single Side Band]^
+WIRE |S1000 GB [Wire, Goodbye]^
+INFO |S1000 WATT [Information, Watt]^
+479 |S1000 GD [4 7 9, Good]^
+SWR |S1000 NW [S W R, Now]^
+GN |S1000 NW [Good night, Now]^
+CW |S1000 GB [C W, Goodbye]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+88 |S1000 479 [88, 4 7 9]^
+LOOP |S1000 SWR [Loop, S W R]^
+SSB |S1000 1TT [Single Side Band, 100]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+88 |S1000 WATT [88, Watt]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+88 |S1000 479 [88, 4 7 9]^
+1TT |S1000 SSB [100, Single Side Band]^
+479 |S1000 1TT [4 7 9, 100]^
+479 |S1000 GD [4 7 9, Good]^
+479 |S1000 GD [4 7 9, Good]^
+WATT |S1000 LOOP [Watt, Loop]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+1TT |S1000 SSB [100, Single Side Band]^
+1TT |S1000 479 [100, 4 7 9]^
+72 |S1000 479 [72, 4 7 9]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+OCF |S1000 GB [Off-center fed dipole, Goodbye]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+SSB |S1000 LOOP [Single Side Band, Loop]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+OCF |S1000 479 [Off-center fed dipole, 4 7 9]^
+GN |S1000 479 [Good night, 4 7 9]^
+GN |S1000 479 [Good night, 4 7 9]^
+CW |S1000 NW [C W, Now]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+479 |S1000 GD [4 7 9, Good]^
+72 |S1000 479 [72, 4 7 9]^
+72 |S1000 479 [72, 4 7 9]^
+LOOP |S1000 72 [Loop, 72]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+CW |S1000 479 [C W, 4 7 9]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+72 |S1000 NW [72, Now]^
+GD |S1000 LOOP [Good, Loop]^
+479 |S1000 GD [4 7 9, Good]^
+479 |S1000 CW [4 7 9, C W]^
+479 |S1000 WIRE [4 7 9, Wire]^
+479 |S1000 88 [4 7 9, 88]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+GD |S1000 SWR [Good, S W R]^
+479 |S1000 CW [4 7 9, C W]^
+359 |S1000 88 [3 5 9, 88]^
+NW |S1000 GB [Now, Goodbye]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+479 |S1000 88 [4 7 9, 88]^
+479 |S1000 GD [4 7 9, Good]^
+GB |S1000 359 [Goodbye, 3 5 9]^
+479 |S1000 GD [4 7 9, Good]^
+72 |S1000 479 [72, 4 7 9]^
+WATT |S1000 479 [Watt, 4 7 9]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+OCF |S1000 SSB [Off-center fed dipole, Single Side Band]^
+1TT |S1000 SSB [100, Single Side Band]^
+479 |S1000 GB [4 7 9, Goodbye]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+88 |S1000 NW [88, Now]^
+WIRE |S1000 GB [Wire, Goodbye]^
+479 |S1000 LOOP [4 7 9, Loop]^
+CW |S1000 479 [C W, 4 7 9]^
+1TT |S1000 SWR [100, S W R]^
+479 |S1000 INFO [4 7 9, Information]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+GN |S1000 479 [Good night, 4 7 9]^
+INFO |S1000 GB [Information, Goodbye]^
+479 |S1000 1TT [4 7 9, 100]^
+479 |S1000 72 [4 7 9, 72]^
+479 |S1000 GB [4 7 9, Goodbye]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+OCF |S1000 LOOP [Off-center fed dipole, Loop]^
+479 |S1000 GD [4 7 9, Good]^
+SWR |S1000 479 [S W R, 4 7 9]^
+GN |S1000 GB [Good night, Goodbye]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+GN |S1000 479 [Good night, 4 7 9]^
+SWR |S1000 479 [S W R, 4 7 9]^
+INFO |S1000 479 [Information, 4 7 9]^
+WATT |S1000 88 [Watt, 88]^
+479 |S1000 SWR [4 7 9, S W R]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+72 |S1000 GN [72, Good night]^
+359 |S1000 479 [3 5 9, 4 7 9]^
+GN |S1000 479 [Good night, 4 7 9]^
+GN |S1000 OCF [Good night, Off-center fed dipole]^
+479 |S1000 CW [4 7 9, C W]^
+479 |S1000 1TT [4 7 9, 100]^
+LOOP |S1000 SWR [Loop, S W R]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+88 |S1000 INFO [88, Information]^
+GB |S1000 359 [Goodbye, 3 5 9]^
+GB |S1000 WIRE [Goodbye, Wire]^
+359 |S1000 NW [3 5 9, Now]^
+WIRE |S1000 88 [Wire, 88]^
+SSB |S1000 479 [Single Side Band, 4 7 9]^
+WATT |S1000 GB [Watt, Goodbye]^
+479 |S1000 WIRE [4 7 9, Wire]^
+SWR |S1000 NW [S W R, Now]^
+479 |S1000 1TT [4 7 9, 100]^
+SSB |S1000 359 [Single Side Band, 3 5 9]^
+SWR |S1000 OCF [S W R, Off-center fed dipole]^
+1TT |S1000 GB [100, Goodbye]^
+1TT |S1000 GB [100, Goodbye]^
+WATT |S1000 479 [Watt, 4 7 9]^
+CW |S1000 NW [C W, Now]^
+479 |S1000 INFO [4 7 9, Information]^
+88 |S1000 LOOP [88, Loop]^
+359 |S1000 SWR [3 5 9, S W R]^
+1TT |S1000 LOOP [100, Loop]^
+WIRE |S1000 CW [Wire, C W]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+GD |S1000 479 [Good, 4 7 9]^
+CW |S1000 88 [C W, 88]^
+WATT |S1000 479 [Watt, 4 7 9]^
+SSB |S1000 CW [Single Side Band, C W]^
+479 |S1000 LOOP [4 7 9, Loop]^
+479 |S1000 NW [4 7 9, Now]^
+479 |S1000 SWR [4 7 9, S W R]^
+WATT |S1000 479 [Watt, 4 7 9]^
+SWR |S1000 479 [S W R, 4 7 9]^
+NW |S1000 WIRE [Now, Wire]^
+GB |S1000 INFO [Goodbye, Information]^
+479 |S1000 CW [4 7 9, C W]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+1TT |S1000 359 [100, 3 5 9]^
+479 |S1000 1TT [4 7 9, 100]^
+OCF |S1000 GB [Off-center fed dipole, Goodbye]^
+WATT |S1000 479 [Watt, 4 7 9]^
+88 |S1000 479 [88, 4 7 9]^
+88 |S1000 NW [88, Now]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+479 |S1000 72 [4 7 9, 72]^
+GB |S1000 479 [Goodbye, 4 7 9]^
+GB |S1000 88 [Goodbye, 88]^
+OCF |S1000 479 [Off-center fed dipole, 4 7 9]^
+GN |S1000 479 [Good night, 4 7 9]^
+SSB |S1000 GN [Single Side Band, Good night]^
+479 |S1000 GN [4 7 9, Good night]^
+WATT |S1000 479 [Watt, 4 7 9]^
+INFO |S1000 479 [Information, 4 7 9]^
+GN |S1000 359 [Good night, 3 5 9]^
+479 |S1000 INFO [4 7 9, Information]^
+479 |S1000 1TT [4 7 9, 100]^
+WIRE |S1000 INFO [Wire, Information]^
+479 |S1000 WATT [4 7 9, Watt]^
+479 |S1000 WATT [4 7 9, Watt]^
+GB |S1000 SSB [Goodbye, Single Side Band]^
+479 |S1000 GD [4 7 9, Good]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+479 |S1000 CW [4 7 9, C W]^
+479 |S1000 GB [4 7 9, Goodbye]^
+479 |S1000 SSB [4 7 9, Single Side Band]^
+WIRE |S1000 479 [Wire, 4 7 9]^
+OCF |S1000 479 [Off-center fed dipole, 4 7 9]^

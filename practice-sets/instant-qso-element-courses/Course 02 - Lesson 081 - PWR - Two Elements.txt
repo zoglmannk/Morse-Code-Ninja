@@ -1,0 +1,600 @@
+OM |S1000 TNX [Old man, Thanks]^
+SIG |S1000 XYL [Signal, Wife]^
+PWR |S1000 ANT [Power, Antenna]^
+OM |S1000 PWR [Old man, Power]^
+BEAM |S1000 CPY [Beam, Copy]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+CUL |S1000 BTU [See you later, Back to you]^
+PWR |S1000 SRI [Power, Sorry]^
+TNX |S1000 PWR [Thanks, Power]^
+DX |S1000 PWR [D X, Power]^
+CUL |S1000 PWR [See you later, Power]^
+CUL |S1000 SIG [See you later, Signal]^
+CPI |S1000 XYL [Copy, Wife]^
+DX |S1000 PWR [D X, Power]^
+GL |S1000 HPE [Good luck, Hope]^
+PWR |S1000 FB [Power, Fine business]^
+PWR |S1000 OM [Power, Old man]^
+SIG |S1000 PWR [Signal, Power]^
+QRN |S1000 PWR [Noise, Power]^
+HPE |S1000 PWR [Hope, Power]^
+QSB |S1000 PWR [Q S B, Power]^
+QRN |S1000 BTU [Noise, Back to you]^
+PWR |S1000 TNX [Power, Thanks]^
+PWR |S1000 OM [Power, Old man]^
+CPY |S1000 PWR [Copy, Power]^
+BEAM |S1000 XYL [Beam, Wife]^
+QSB |S1000 PWR [Q S B, Power]^
+QRN |S1000 PWR [Noise, Power]^
+HW |S1000 QRL [How, Q R L]^
+QRN |S1000 PWR [Noise, Power]^
+BEAM |S1000 PWR [Beam, Power]^
+CUL |S1000 PWR [See you later, Power]^
+QRL |S1000 SRI [Q R L, Sorry]^
+CPY |S1000 PWR [Copy, Power]^
+SRI |S1000 BTU [Sorry, Back to you]^
+DIPOLE |S1000 HW [Dipole, How]^
+PWR |S1000 QRN [Power, Noise]^
+BEAM |S1000 SIG [Beam, Signal]^
+PWR |S1000 QRN [Power, Noise]^
+XYL |S1000 PWR [Wife, Power]^
+ANT |S1000 QSB [Antenna, Q S B]^
+QRN |S1000 PWR [Noise, Power]^
+FB |S1000 OM [Fine business, Old man]^
+SRI |S1000 PWR [Sorry, Power]^
+CPY |S1000 CUL [Copy, See you later]^
+PWR |S1000 HPE [Power, Hope]^
+PWR |S1000 HPE [Power, Hope]^
+PWR |S1000 QSB [Power, Q S B]^
+PWR |S1000 CPY [Power, Copy]^
+PWR |S1000 SIG [Power, Signal]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+TNX |S1000 CPY [Thanks, Copy]^
+CUL |S1000 PWR [See you later, Power]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+PWR |S1000 QRL [Power, Q R L]^
+XYL |S1000 OM [Wife, Old man]^
+GL |S1000 SIG [Good luck, Signal]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+ANT |S1000 CUL [Antenna, See you later]^
+CPI |S1000 QRL [Copy, Q R L]^
+CUL |S1000 PWR [See you later, Power]^
+QSB |S1000 CUL [Q S B, See you later]^
+BEAM |S1000 PWR [Beam, Power]^
+BEAM |S1000 CPI [Beam, Copy]^
+FB |S1000 BTU [Fine business, Back to you]^
+CPI |S1000 PWR [Copy, Power]^
+DX |S1000 PWR [D X, Power]^
+QRL |S1000 PWR [Q R L, Power]^
+BTU |S1000 PWR [Back to you, Power]^
+DIPOLE |S1000 QSB [Dipole, Q S B]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+QRL |S1000 PWR [Q R L, Power]^
+XYL |S1000 QRL [Wife, Q R L]^
+PWR |S1000 GL [Power, Good luck]^
+PWR |S1000 GL [Power, Good luck]^
+PWR |S1000 TNX [Power, Thanks]^
+PWR |S1000 SRI [Power, Sorry]^
+PWR |S1000 CPI [Power, Copy]^
+BTU |S1000 PWR [Back to you, Power]^
+ANT |S1000 PWR [Antenna, Power]^
+CUL |S1000 PWR [See you later, Power]^
+QRL |S1000 HPE [Q R L, Hope]^
+PWR |S1000 BEAM [Power, Beam]^
+PWR |S1000 CUL [Power, See you later]^
+DX |S1000 FB [D X, Fine business]^
+PWR |S1000 ANT [Power, Antenna]^
+BTU |S1000 QSB [Back to you, Q S B]^
+PWR |S1000 DIPOLE [Power, Dipole]^
+PWR |S1000 CPI [Power, Copy]^
+HPE |S1000 PWR [Hope, Power]^
+QSB |S1000 PWR [Q S B, Power]^
+HPE |S1000 GL [Hope, Good luck]^
+ANT |S1000 GL [Antenna, Good luck]^
+FB |S1000 DX [Fine business, D X]^
+BTU |S1000 FB [Back to you, Fine business]^
+PWR |S1000 HPE [Power, Hope]^
+CUL |S1000 QRL [See you later, Q R L]^
+SRI |S1000 BTU [Sorry, Back to you]^
+QSB |S1000 PWR [Q S B, Power]^
+FB |S1000 PWR [Fine business, Power]^
+FB |S1000 OM [Fine business, Old man]^
+PWR |S1000 CPY [Power, Copy]^
+PWR |S1000 CPI [Power, Copy]^
+SIG |S1000 PWR [Signal, Power]^
+CPY |S1000 CPI [Copy, Copy]^
+PWR |S1000 XYL [Power, Wife]^
+PWR |S1000 DX [Power, D X]^
+PWR |S1000 DIPOLE [Power, Dipole]^
+ANT |S1000 BEAM [Antenna, Beam]^
+BTU |S1000 PWR [Back to you, Power]^
+QRN |S1000 PWR [Noise, Power]^
+DX |S1000 PWR [D X, Power]^
+DIPOLE |S1000 PWR [Dipole, Power]^
+XYL |S1000 DIPOLE [Wife, Dipole]^
+CUL |S1000 TNX [See you later, Thanks]^
+PWR |S1000 SRI [Power, Sorry]^
+PWR |S1000 QRN [Power, Noise]^
+PWR |S1000 QRN [Power, Noise]^
+FB |S1000 QRN [Fine business, Noise]^
+CPY |S1000 PWR [Copy, Power]^
+XYL |S1000 PWR [Wife, Power]^
+TNX |S1000 ANT [Thanks, Antenna]^
+PWR |S1000 SRI [Power, Sorry]^
+PWR |S1000 SIG [Power, Signal]^
+QRN |S1000 XYL [Noise, Wife]^
+FB |S1000 BEAM [Fine business, Beam]^
+PWR |S1000 CPY [Power, Copy]^
+HPE |S1000 PWR [Hope, Power]^
+QRL |S1000 OM [Q R L, Old man]^
+DIPOLE |S1000 PWR [Dipole, Power]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+PWR |S1000 SRI [Power, Sorry]^
+PWR |S1000 TNX [Power, Thanks]^
+SRI |S1000 DX [Sorry, D X]^
+PWR |S1000 DIPOLE [Power, Dipole]^
+SIG |S1000 PWR [Signal, Power]^
+SRI |S1000 QRN [Sorry, Noise]^
+PWR |S1000 HPE [Power, Hope]^
+PWR |S1000 HW [Power, How]^
+CPY |S1000 QRN [Copy, Noise]^
+PWR |S1000 BEAM [Power, Beam]^
+PWR |S1000 SRI [Power, Sorry]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+DX |S1000 PWR [D X, Power]^
+TNX |S1000 QRL [Thanks, Q R L]^
+DIPOLE |S1000 DX [Dipole, D X]^
+PWR |S1000 BTU [Power, Back to you]^
+SRI |S1000 PWR [Sorry, Power]^
+HPE |S1000 CPY [Hope, Copy]^
+CUL |S1000 SIG [See you later, Signal]^
+PWR |S1000 HPE [Power, Hope]^
+PWR |S1000 DIPOLE [Power, Dipole]^
+PWR |S1000 BTU [Power, Back to you]^
+TNX |S1000 PWR [Thanks, Power]^
+ANT |S1000 QRL [Antenna, Q R L]^
+FB |S1000 PWR [Fine business, Power]^
+TNX |S1000 HPE [Thanks, Hope]^
+SIG |S1000 QRL [Signal, Q R L]^
+FB |S1000 PWR [Fine business, Power]^
+GL |S1000 DX [Good luck, D X]^
+OM |S1000 PWR [Old man, Power]^
+GL |S1000 ANT [Good luck, Antenna]^
+SRI |S1000 GL [Sorry, Good luck]^
+PWR |S1000 ANT [Power, Antenna]^
+CUL |S1000 CPI [See you later, Copy]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+PWR |S1000 BTU [Power, Back to you]^
+PWR |S1000 CUL [Power, See you later]^
+QRL |S1000 HW [Q R L, How]^
+FB |S1000 PWR [Fine business, Power]^
+QRN |S1000 ANT [Noise, Antenna]^
+PWR |S1000 GL [Power, Good luck]^
+PWR |S1000 GL [Power, Good luck]^
+PWR |S1000 CPY [Power, Copy]^
+BEAM |S1000 PWR [Beam, Power]^
+TNX |S1000 BEAM [Thanks, Beam]^
+DX |S1000 QRN [D X, Noise]^
+PWR |S1000 TNX [Power, Thanks]^
+SIG |S1000 PWR [Signal, Power]^
+QSB |S1000 CPY [Q S B, Copy]^
+DX |S1000 QRL [D X, Q R L]^
+OM |S1000 PWR [Old man, Power]^
+CPY |S1000 PWR [Copy, Power]^
+DX |S1000 ANT [D X, Antenna]^
+PWR |S1000 CPY [Power, Copy]^
+PWR |S1000 XYL [Power, Wife]^
+PWR |S1000 CUL [Power, See you later]^
+PWR |S1000 DIPOLE [Power, Dipole]^
+BEAM |S1000 PWR [Beam, Power]^
+ANT |S1000 PWR [Antenna, Power]^
+SIG |S1000 PWR [Signal, Power]^
+CPY |S1000 CPI [Copy, Copy]^
+OM |S1000 DX [Old man, D X]^
+HPE |S1000 PWR [Hope, Power]^
+QRN |S1000 PWR [Noise, Power]^
+CPI |S1000 PWR [Copy, Power]^
+DIPOLE |S1000 PWR [Dipole, Power]^
+XYL |S1000 PWR [Wife, Power]^
+XYL |S1000 PWR [Wife, Power]^
+FB |S1000 PWR [Fine business, Power]^
+DX |S1000 CUL [D X, See you later]^
+TNX |S1000 CUL [Thanks, See you later]^
+PWR |S1000 SIG [Power, Signal]^
+PWR |S1000 CUL [Power, See you later]^
+PWR |S1000 CPI [Power, Copy]^
+CPY |S1000 FB [Copy, Fine business]^
+QRL |S1000 HPE [Q R L, Hope]^
+PWR |S1000 CPY [Power, Copy]^
+PWR |S1000 QRN [Power, Noise]^
+PWR |S1000 XYL [Power, Wife]^
+QSB |S1000 CPY [Q S B, Copy]^
+GL |S1000 BEAM [Good luck, Beam]^
+CPY |S1000 QRL [Copy, Q R L]^
+FB |S1000 DX [Fine business, D X]^
+GL |S1000 PWR [Good luck, Power]^
+BEAM |S1000 SIG [Beam, Signal]^
+DX |S1000 PWR [D X, Power]^
+OM |S1000 PWR [Old man, Power]^
+HW |S1000 BTU [How, Back to you]^
+PWR |S1000 CUL [Power, See you later]^
+PWR |S1000 BTU [Power, Back to you]^
+QRL |S1000 PWR [Q R L, Power]^
+CPY |S1000 PWR [Copy, Power]^
+QRN |S1000 ANT [Noise, Antenna]^
+DIPOLE |S1000 SRI [Dipole, Sorry]^
+XYL |S1000 QSB [Wife, Q S B]^
+QRN |S1000 TNX [Noise, Thanks]^
+PWR |S1000 BEAM [Power, Beam]^
+QRN |S1000 PWR [Noise, Power]^
+HPE |S1000 PWR [Hope, Power]^
+SIG |S1000 BEAM [Signal, Beam]^
+GL |S1000 PWR [Good luck, Power]^
+SIG |S1000 XYL [Signal, Wife]^
+PWR |S1000 HW [Power, How]^
+PWR |S1000 QRN [Power, Noise]^
+CUL |S1000 PWR [See you later, Power]^
+QRL |S1000 PWR [Q R L, Power]^
+BTU |S1000 QSB [Back to you, Q S B]^
+OM |S1000 PWR [Old man, Power]^
+XYL |S1000 CPY [Wife, Copy]^
+HW |S1000 OM [How, Old man]^
+CPY |S1000 BEAM [Copy, Beam]^
+CPI |S1000 SRI [Copy, Sorry]^
+HW |S1000 TNX [How, Thanks]^
+PWR |S1000 CUL [Power, See you later]^
+BTU |S1000 PWR [Back to you, Power]^
+HW |S1000 PWR [How, Power]^
+OM |S1000 PWR [Old man, Power]^
+QSB |S1000 CPI [Q S B, Copy]^
+PWR |S1000 DX [Power, D X]^
+PWR |S1000 FB [Power, Fine business]^
+PWR |S1000 CPI [Power, Copy]^
+PWR |S1000 QRL [Power, Q R L]^
+PWR |S1000 TNX [Power, Thanks]^
+PWR |S1000 QRL [Power, Q R L]^
+PWR |S1000 QRN [Power, Noise]^
+FB |S1000 CUL [Fine business, See you later]^
+PWR |S1000 GL [Power, Good luck]^
+OM |S1000 PWR [Old man, Power]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+PWR |S1000 CPI [Power, Copy]^
+HPE |S1000 CPI [Hope, Copy]^
+HPE |S1000 QRL [Hope, Q R L]^
+PWR |S1000 CPI [Power, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+PWR |S1000 CPI [Power, Copy]^
+PWR |S1000 QRN [Power, Noise]^
+OM |S1000 ANT [Old man, Antenna]^
+BEAM |S1000 QRL [Beam, Q R L]^
+QRN |S1000 PWR [Noise, Power]^
+GL |S1000 SRI [Good luck, Sorry]^
+PWR |S1000 BEAM [Power, Beam]^
+PWR |S1000 QRN [Power, Noise]^
+PWR |S1000 SIG [Power, Signal]^
+QSB |S1000 DX [Q S B, D X]^
+CPY |S1000 QRN [Copy, Noise]^
+HW |S1000 PWR [How, Power]^
+GL |S1000 HPE [Good luck, Hope]^
+DX |S1000 PWR [D X, Power]^
+HW |S1000 DIPOLE [How, Dipole]^
+SRI |S1000 PWR [Sorry, Power]^
+TNX |S1000 SIG [Thanks, Signal]^
+HW |S1000 PWR [How, Power]^
+TNX |S1000 BTU [Thanks, Back to you]^
+PWR |S1000 QSB [Power, Q S B]^
+BTU |S1000 SIG [Back to you, Signal]^
+PWR |S1000 HW [Power, How]^
+PWR |S1000 BEAM [Power, Beam]^
+QRL |S1000 PWR [Q R L, Power]^
+DX |S1000 XYL [D X, Wife]^
+HPE |S1000 PWR [Hope, Power]^
+SIG |S1000 PWR [Signal, Power]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+SIG |S1000 SRI [Signal, Sorry]^
+QRN |S1000 OM [Noise, Old man]^
+CPY |S1000 PWR [Copy, Power]^
+ANT |S1000 BTU [Antenna, Back to you]^
+QRN |S1000 OM [Noise, Old man]^
+XYL |S1000 PWR [Wife, Power]^
+CPI |S1000 QSB [Copy, Q S B]^
+QRL |S1000 QSB [Q R L, Q S B]^
+PWR |S1000 FB [Power, Fine business]^
+HW |S1000 PWR [How, Power]^
+BEAM |S1000 PWR [Beam, Power]^
+HPE |S1000 CPY [Hope, Copy]^
+BTU |S1000 BEAM [Back to you, Beam]^
+PWR |S1000 QRL [Power, Q R L]^
+HW |S1000 TNX [How, Thanks]^
+SRI |S1000 PWR [Sorry, Power]^
+TNX |S1000 CUL [Thanks, See you later]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+FB |S1000 SRI [Fine business, Sorry]^
+CUL |S1000 QRL [See you later, Q R L]^
+CPY |S1000 PWR [Copy, Power]^
+GL |S1000 BTU [Good luck, Back to you]^
+HW |S1000 QSB [How, Q S B]^
+XYL |S1000 QRL [Wife, Q R L]^
+QSB |S1000 PWR [Q S B, Power]^
+BTU |S1000 PWR [Back to you, Power]^
+ANT |S1000 XYL [Antenna, Wife]^
+PWR |S1000 HPE [Power, Hope]^
+SIG |S1000 QSB [Signal, Q S B]^
+QRN |S1000 PWR [Noise, Power]^
+XYL |S1000 OM [Wife, Old man]^
+QRN |S1000 CPI [Noise, Copy]^
+QRN |S1000 GL [Noise, Good luck]^
+PWR |S1000 QRN [Power, Noise]^
+DIPOLE |S1000 PWR [Dipole, Power]^
+BTU |S1000 PWR [Back to you, Power]^
+FB |S1000 PWR [Fine business, Power]^
+BEAM |S1000 XYL [Beam, Wife]^
+QRL |S1000 FB [Q R L, Fine business]^
+BTU |S1000 QRN [Back to you, Noise]^
+HW |S1000 XYL [How, Wife]^
+PWR |S1000 OM [Power, Old man]^
+PWR |S1000 DIPOLE [Power, Dipole]^
+PWR |S1000 QRL [Power, Q R L]^
+PWR |S1000 CPY [Power, Copy]^
+PWR |S1000 CUL [Power, See you later]^
+CPY |S1000 ANT [Copy, Antenna]^
+PWR |S1000 BTU [Power, Back to you]^
+PWR |S1000 FB [Power, Fine business]^
+DIPOLE |S1000 PWR [Dipole, Power]^
+QSB |S1000 PWR [Q S B, Power]^
+QSB |S1000 OM [Q S B, Old man]^
+SRI |S1000 DIPOLE [Sorry, Dipole]^
+HW |S1000 PWR [How, Power]^
+TNX |S1000 PWR [Thanks, Power]^
+CPI |S1000 OM [Copy, Old man]^
+DIPOLE |S1000 PWR [Dipole, Power]^
+HW |S1000 HPE [How, Hope]^
+PWR |S1000 CPI [Power, Copy]^
+PWR |S1000 CPY [Power, Copy]^
+SRI |S1000 CPI [Sorry, Copy]^
+QRN |S1000 CUL [Noise, See you later]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+PWR |S1000 GL [Power, Good luck]^
+DIPOLE |S1000 PWR [Dipole, Power]^
+ANT |S1000 PWR [Antenna, Power]^
+OM |S1000 HPE [Old man, Hope]^
+CPY |S1000 QSB [Copy, Q S B]^
+PWR |S1000 GL [Power, Good luck]^
+PWR |S1000 QSB [Power, Q S B]^
+QRN |S1000 PWR [Noise, Power]^
+QRN |S1000 PWR [Noise, Power]^
+HW |S1000 SIG [How, Signal]^
+BTU |S1000 OM [Back to you, Old man]^
+PWR |S1000 DIPOLE [Power, Dipole]^
+GL |S1000 HPE [Good luck, Hope]^
+CUL |S1000 PWR [See you later, Power]^
+BEAM |S1000 CPY [Beam, Copy]^
+BTU |S1000 OM [Back to you, Old man]^
+PWR |S1000 QRN [Power, Noise]^
+QSB |S1000 CUL [Q S B, See you later]^
+PWR |S1000 CPI [Power, Copy]^
+SIG |S1000 PWR [Signal, Power]^
+CPY |S1000 BTU [Copy, Back to you]^
+GL |S1000 CPI [Good luck, Copy]^
+QSB |S1000 ANT [Q S B, Antenna]^
+TNX |S1000 PWR [Thanks, Power]^
+SRI |S1000 GL [Sorry, Good luck]^
+TNX |S1000 PWR [Thanks, Power]^
+CPY |S1000 GL [Copy, Good luck]^
+OM |S1000 HPE [Old man, Hope]^
+PWR |S1000 CPI [Power, Copy]^
+PWR |S1000 CPY [Power, Copy]^
+OM |S1000 CPI [Old man, Copy]^
+PWR |S1000 CUL [Power, See you later]^
+PWR |S1000 CUL [Power, See you later]^
+PWR |S1000 HW [Power, How]^
+PWR |S1000 QRN [Power, Noise]^
+PWR |S1000 ANT [Power, Antenna]^
+BTU |S1000 HPE [Back to you, Hope]^
+PWR |S1000 HPE [Power, Hope]^
+PWR |S1000 GL [Power, Good luck]^
+ANT |S1000 PWR [Antenna, Power]^
+XYL |S1000 BEAM [Wife, Beam]^
+SIG |S1000 PWR [Signal, Power]^
+CUL |S1000 PWR [See you later, Power]^
+DIPOLE |S1000 PWR [Dipole, Power]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+SRI |S1000 PWR [Sorry, Power]^
+CPY |S1000 CUL [Copy, See you later]^
+BTU |S1000 PWR [Back to you, Power]^
+FB |S1000 ANT [Fine business, Antenna]^
+SRI |S1000 HW [Sorry, How]^
+PWR |S1000 SIG [Power, Signal]^
+PWR |S1000 CUL [Power, See you later]^
+CPI |S1000 PWR [Copy, Power]^
+QSB |S1000 QRN [Q S B, Noise]^
+PWR |S1000 CUL [Power, See you later]^
+PWR |S1000 HW [Power, How]^
+SIG |S1000 BEAM [Signal, Beam]^
+TNX |S1000 PWR [Thanks, Power]^
+SRI |S1000 PWR [Sorry, Power]^
+HW |S1000 PWR [How, Power]^
+DX |S1000 BTU [D X, Back to you]^
+HPE |S1000 PWR [Hope, Power]^
+CPI |S1000 PWR [Copy, Power]^
+DX |S1000 PWR [D X, Power]^
+BEAM |S1000 CPI [Beam, Copy]^
+DX |S1000 DIPOLE [D X, Dipole]^
+PWR |S1000 QRL [Power, Q R L]^
+DIPOLE |S1000 HW [Dipole, How]^
+PWR |S1000 BTU [Power, Back to you]^
+PWR |S1000 HW [Power, How]^
+QRN |S1000 PWR [Noise, Power]^
+GL |S1000 SIG [Good luck, Signal]^
+PWR |S1000 SRI [Power, Sorry]^
+PWR |S1000 CPI [Power, Copy]^
+QRL |S1000 CPY [Q R L, Copy]^
+TNX |S1000 PWR [Thanks, Power]^
+OM |S1000 PWR [Old man, Power]^
+SRI |S1000 PWR [Sorry, Power]^
+OM |S1000 CUL [Old man, See you later]^
+PWR |S1000 QRL [Power, Q R L]^
+PWR |S1000 DX [Power, D X]^
+PWR |S1000 QRL [Power, Q R L]^
+PWR |S1000 SIG [Power, Signal]^
+PWR |S1000 CUL [Power, See you later]^
+TNX |S1000 HPE [Thanks, Hope]^
+SIG |S1000 SRI [Signal, Sorry]^
+GL |S1000 PWR [Good luck, Power]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+QSB |S1000 PWR [Q S B, Power]^
+QRL |S1000 GL [Q R L, Good luck]^
+SIG |S1000 PWR [Signal, Power]^
+HW |S1000 TNX [How, Thanks]^
+PWR |S1000 FB [Power, Fine business]^
+PWR |S1000 HPE [Power, Hope]^
+OM |S1000 PWR [Old man, Power]^
+CPI |S1000 PWR [Copy, Power]^
+TNX |S1000 PWR [Thanks, Power]^
+CPY |S1000 PWR [Copy, Power]^
+SRI |S1000 PWR [Sorry, Power]^
+SIG |S1000 CPY [Signal, Copy]^
+DX |S1000 XYL [D X, Wife]^
+OM |S1000 DX [Old man, D X]^
+PWR |S1000 GL [Power, Good luck]^
+PWR |S1000 DX [Power, D X]^
+PWR |S1000 CPI [Power, Copy]^
+PWR |S1000 SIG [Power, Signal]^
+PWR |S1000 QSB [Power, Q S B]^
+GL |S1000 HW [Good luck, How]^
+PWR |S1000 GL [Power, Good luck]^
+CPY |S1000 FB [Copy, Fine business]^
+PWR |S1000 HW [Power, How]^
+PWR |S1000 BTU [Power, Back to you]^
+DX |S1000 SIG [D X, Signal]^
+CPI |S1000 PWR [Copy, Power]^
+HPE |S1000 CPY [Hope, Copy]^
+DX |S1000 BTU [D X, Back to you]^
+TNX |S1000 PWR [Thanks, Power]^
+ANT |S1000 XYL [Antenna, Wife]^
+OM |S1000 PWR [Old man, Power]^
+FB |S1000 PWR [Fine business, Power]^
+HPE |S1000 PWR [Hope, Power]^
+HW |S1000 QRN [How, Noise]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+QRL |S1000 QSB [Q R L, Q S B]^
+CPI |S1000 SIG [Copy, Signal]^
+HPE |S1000 BTU [Hope, Back to you]^
+SRI |S1000 ANT [Sorry, Antenna]^
+XYL |S1000 PWR [Wife, Power]^
+CPY |S1000 QRL [Copy, Q R L]^
+QSB |S1000 SIG [Q S B, Signal]^
+TNX |S1000 BTU [Thanks, Back to you]^
+PWR |S1000 BEAM [Power, Beam]^
+QRL |S1000 PWR [Q R L, Power]^
+SRI |S1000 PWR [Sorry, Power]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+CPI |S1000 PWR [Copy, Power]^
+OM |S1000 PWR [Old man, Power]^
+CPY |S1000 QRN [Copy, Noise]^
+CPI |S1000 SRI [Copy, Sorry]^
+PWR |S1000 BTU [Power, Back to you]^
+PWR |S1000 BTU [Power, Back to you]^
+SIG |S1000 CPY [Signal, Copy]^
+PWR |S1000 ANT [Power, Antenna]^
+SRI |S1000 PWR [Sorry, Power]^
+SIG |S1000 PWR [Signal, Power]^
+TNX |S1000 CPI [Thanks, Copy]^
+QSB |S1000 XYL [Q S B, Wife]^
+BEAM |S1000 QRN [Beam, Noise]^
+GL |S1000 PWR [Good luck, Power]^
+DIPOLE |S1000 DX [Dipole, D X]^
+XYL |S1000 HW [Wife, How]^
+PWR |S1000 SRI [Power, Sorry]^
+PWR |S1000 SRI [Power, Sorry]^
+QRN |S1000 QRL [Noise, Q R L]^
+CPI |S1000 SRI [Copy, Sorry]^
+OM |S1000 FB [Old man, Fine business]^
+QSB |S1000 CPI [Q S B, Copy]^
+GL |S1000 PWR [Good luck, Power]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+PWR |S1000 CPI [Power, Copy]^
+PWR |S1000 SRI [Power, Sorry]^
+PWR |S1000 SRI [Power, Sorry]^
+PWR |S1000 QRL [Power, Q R L]^
+FB |S1000 PWR [Fine business, Power]^
+GL |S1000 PWR [Good luck, Power]^
+HW |S1000 HPE [How, Hope]^
+CPY |S1000 PWR [Copy, Power]^
+QRN |S1000 PWR [Noise, Power]^
+TNX |S1000 PWR [Thanks, Power]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+QRL |S1000 CPI [Q R L, Copy]^
+PWR |S1000 HW [Power, How]^
+CPY |S1000 PWR [Copy, Power]^
+QRN |S1000 XYL [Noise, Wife]^
+PWR |S1000 HW [Power, How]^
+GL |S1000 BEAM [Good luck, Beam]^
+PWR |S1000 DIPOLE [Power, Dipole]^
+PWR |S1000 SRI [Power, Sorry]^
+PWR |S1000 CPI [Power, Copy]^
+HPE |S1000 PWR [Hope, Power]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+PWR |S1000 SIG [Power, Signal]^
+PWR |S1000 CPY [Power, Copy]^
+PWR |S1000 CPY [Power, Copy]^
+PWR |S1000 XYL [Power, Wife]^
+TNX |S1000 PWR [Thanks, Power]^
+QSB |S1000 PWR [Q S B, Power]^
+DX |S1000 PWR [D X, Power]^
+FB |S1000 DX [Fine business, D X]^
+PWR |S1000 SIG [Power, Signal]^
+DX |S1000 BTU [D X, Back to you]^
+PWR |S1000 QRN [Power, Noise]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+PWR |S1000 QRN [Power, Noise]^
+PWR |S1000 TNX [Power, Thanks]^
+HPE |S1000 QSB [Hope, Q S B]^
+GL |S1000 BTU [Good luck, Back to you]^
+CPY |S1000 PWR [Copy, Power]^
+GL |S1000 HPE [Good luck, Hope]^
+TNX |S1000 PWR [Thanks, Power]^
+CPI |S1000 ANT [Copy, Antenna]^
+BEAM |S1000 GL [Beam, Good luck]^
+HPE |S1000 CPY [Hope, Copy]^
+PWR |S1000 GL [Power, Good luck]^
+OM |S1000 XYL [Old man, Wife]^
+PWR |S1000 OM [Power, Old man]^
+PWR |S1000 DX [Power, D X]^
+ANT |S1000 PWR [Antenna, Power]^
+DX |S1000 PWR [D X, Power]^
+CUL |S1000 XYL [See you later, Wife]^
+SRI |S1000 PWR [Sorry, Power]^
+QRL |S1000 QSB [Q R L, Q S B]^
+SRI |S1000 CPI [Sorry, Copy]^
+PWR |S1000 QRN [Power, Noise]^
+TNX |S1000 CUL [Thanks, See you later]^
+QRN |S1000 SRI [Noise, Sorry]^
+TNX |S1000 PWR [Thanks, Power]^
+QRN |S1000 CPI [Noise, Copy]^
+DIPOLE |S1000 GL [Dipole, Good luck]^
+QRN |S1000 PWR [Noise, Power]^
+QRN |S1000 HW [Noise, How]^
+QRN |S1000 QSB [Noise, Q S B]^
+TNX |S1000 FB [Thanks, Fine business]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+PWR |S1000 SIG [Power, Signal]^
+DX |S1000 HPE [D X, Hope]^
+ANT |S1000 BTU [Antenna, Back to you]^
+DX |S1000 DIPOLE [D X, Dipole]^
+GL |S1000 CPI [Good luck, Copy]^
+XYL |S1000 TNX [Wife, Thanks]^
+PWR |S1000 OM [Power, Old man]^
+SIG |S1000 BTU [Signal, Back to you]^
+PWR |S1000 ANT [Power, Antenna]^
+PWR |S1000 CPI [Power, Copy]^
+GL |S1000 PWR [Good luck, Power]^
+DIPOLE |S1000 PWR [Dipole, Power]^
+HPE |S1000 SRI [Hope, Sorry]^
+PWR |S1000 GL [Power, Good luck]^
+OM |S1000 GL [Old man, Good luck]^
+SIG |S1000 FB [Signal, Fine business]^
+PWR |S1000 QRN [Power, Noise]^
+PWR |S1000 SRI [Power, Sorry]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+PWR |S1000 QRL [Power, Q R L]^

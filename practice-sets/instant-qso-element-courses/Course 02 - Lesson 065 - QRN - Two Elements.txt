@@ -1,0 +1,600 @@
+SIG |S1000 QRN [Signal, Noise]^
+QSB |S1000 DX [Q S B, D X]^
+HPE |S1000 SIG [Hope, Signal]^
+DX |S1000 ANT [D X, Antenna]^
+CPY |S1000 QRN [Copy, Noise]^
+BTU |S1000 CPI [Back to you, Copy]^
+SIG |S1000 QSB [Signal, Q S B]^
+QRN |S1000 CPY [Noise, Copy]^
+QRN |S1000 CUL [Noise, See you later]^
+FB |S1000 QRN [Fine business, Noise]^
+CPY |S1000 QRN [Copy, Noise]^
+QRL |S1000 QRN [Q R L, Noise]^
+CPY |S1000 QRN [Copy, Noise]^
+TNX |S1000 QRN [Thanks, Noise]^
+CPI |S1000 QRN [Copy, Noise]^
+QRL |S1000 QRN [Q R L, Noise]^
+ANT |S1000 TNX [Antenna, Thanks]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+QRN |S1000 QSB [Noise, Q S B]^
+QRN |S1000 CPI [Noise, Copy]^
+ANT |S1000 DX [Antenna, D X]^
+QRN |S1000 BEAM [Noise, Beam]^
+CPY |S1000 QRN [Copy, Noise]^
+BEAM |S1000 QRN [Beam, Noise]^
+BTU |S1000 QRN [Back to you, Noise]^
+BTU |S1000 CPY [Back to you, Copy]^
+TNX |S1000 HPE [Thanks, Hope]^
+CPY |S1000 ANT [Copy, Antenna]^
+QRN |S1000 FB [Noise, Fine business]^
+CPI |S1000 HW [Copy, How]^
+QRN |S1000 FB [Noise, Fine business]^
+CUL |S1000 QRL [See you later, Q R L]^
+QRN |S1000 DX [Noise, D X]^
+HPE |S1000 QRN [Hope, Noise]^
+CUL |S1000 HPE [See you later, Hope]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+QRN |S1000 QSB [Noise, Q S B]^
+BEAM |S1000 QRN [Beam, Noise]^
+SIG |S1000 BTU [Signal, Back to you]^
+HW |S1000 BTU [How, Back to you]^
+HW |S1000 HPE [How, Hope]^
+DIPOLE |S1000 HPE [Dipole, Hope]^
+QRN |S1000 QSB [Noise, Q S B]^
+BTU |S1000 QRL [Back to you, Q R L]^
+QRN |S1000 ANT [Noise, Antenna]^
+QRN |S1000 SRI [Noise, Sorry]^
+DIPOLE |S1000 CPI [Dipole, Copy]^
+BEAM |S1000 QRN [Beam, Noise]^
+CPY |S1000 HPE [Copy, Hope]^
+QRN |S1000 HW [Noise, How]^
+QRN |S1000 BTU [Noise, Back to you]^
+QRN |S1000 HPE [Noise, Hope]^
+SRI |S1000 CPI [Sorry, Copy]^
+ANT |S1000 QRN [Antenna, Noise]^
+HPE |S1000 QRN [Hope, Noise]^
+CPI |S1000 HW [Copy, How]^
+CPY |S1000 QRN [Copy, Noise]^
+TNX |S1000 QRN [Thanks, Noise]^
+SIG |S1000 FB [Signal, Fine business]^
+TNX |S1000 BTU [Thanks, Back to you]^
+QRN |S1000 CUL [Noise, See you later]^
+QRN |S1000 SRI [Noise, Sorry]^
+QSB |S1000 BEAM [Q S B, Beam]^
+CPI |S1000 BEAM [Copy, Beam]^
+CUL |S1000 QRN [See you later, Noise]^
+TNX |S1000 SIG [Thanks, Signal]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+SIG |S1000 SRI [Signal, Sorry]^
+QRN |S1000 QSB [Noise, Q S B]^
+BTU |S1000 QRN [Back to you, Noise]^
+DX |S1000 QRN [D X, Noise]^
+CPI |S1000 QRN [Copy, Noise]^
+TNX |S1000 QRN [Thanks, Noise]^
+QSB |S1000 QRL [Q S B, Q R L]^
+QSB |S1000 DIPOLE [Q S B, Dipole]^
+QSB |S1000 QRN [Q S B, Noise]^
+ANT |S1000 CUL [Antenna, See you later]^
+HW |S1000 QRN [How, Noise]^
+DX |S1000 CPY [D X, Copy]^
+QRL |S1000 QRN [Q R L, Noise]^
+QSB |S1000 HPE [Q S B, Hope]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+QSB |S1000 HW [Q S B, How]^
+QSB |S1000 QRN [Q S B, Noise]^
+DX |S1000 ANT [D X, Antenna]^
+HW |S1000 FB [How, Fine business]^
+QRN |S1000 CPY [Noise, Copy]^
+QRN |S1000 SRI [Noise, Sorry]^
+QRN |S1000 CPI [Noise, Copy]^
+QRN |S1000 QRL [Noise, Q R L]^
+QRN |S1000 CPI [Noise, Copy]^
+QRN |S1000 TNX [Noise, Thanks]^
+CUL |S1000 CPY [See you later, Copy]^
+CPI |S1000 QRN [Copy, Noise]^
+BEAM |S1000 FB [Beam, Fine business]^
+DX |S1000 QRL [D X, Q R L]^
+QRN |S1000 SIG [Noise, Signal]^
+QRL |S1000 QRN [Q R L, Noise]^
+HW |S1000 HPE [How, Hope]^
+ANT |S1000 DX [Antenna, D X]^
+QRN |S1000 ANT [Noise, Antenna]^
+CPY |S1000 QRN [Copy, Noise]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+BTU |S1000 SIG [Back to you, Signal]^
+BEAM |S1000 QRN [Beam, Noise]^
+FB |S1000 BTU [Fine business, Back to you]^
+QSB |S1000 FB [Q S B, Fine business]^
+CPI |S1000 QRN [Copy, Noise]^
+DX |S1000 CPI [D X, Copy]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+QRN |S1000 QSB [Noise, Q S B]^
+QRN |S1000 HW [Noise, How]^
+QSB |S1000 CUL [Q S B, See you later]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+QRL |S1000 DX [Q R L, D X]^
+TNX |S1000 QRN [Thanks, Noise]^
+CPI |S1000 QRN [Copy, Noise]^
+QSB |S1000 ANT [Q S B, Antenna]^
+SIG |S1000 BTU [Signal, Back to you]^
+QRN |S1000 SIG [Noise, Signal]^
+CUL |S1000 BTU [See you later, Back to you]^
+BEAM |S1000 TNX [Beam, Thanks]^
+CPI |S1000 QRN [Copy, Noise]^
+HW |S1000 QSB [How, Q S B]^
+TNX |S1000 CPI [Thanks, Copy]^
+QRN |S1000 FB [Noise, Fine business]^
+QRN |S1000 FB [Noise, Fine business]^
+QRN |S1000 QSB [Noise, Q S B]^
+QRN |S1000 SIG [Noise, Signal]^
+HPE |S1000 SIG [Hope, Signal]^
+BEAM |S1000 CUL [Beam, See you later]^
+QRN |S1000 QSB [Noise, Q S B]^
+QRN |S1000 HPE [Noise, Hope]^
+QRN |S1000 BEAM [Noise, Beam]^
+SIG |S1000 CPY [Signal, Copy]^
+QRN |S1000 ANT [Noise, Antenna]^
+DX |S1000 QRN [D X, Noise]^
+BTU |S1000 QRN [Back to you, Noise]^
+TNX |S1000 DX [Thanks, D X]^
+ANT |S1000 QRN [Antenna, Noise]^
+FB |S1000 BEAM [Fine business, Beam]^
+BTU |S1000 HPE [Back to you, Hope]^
+SIG |S1000 DX [Signal, D X]^
+QRN |S1000 SRI [Noise, Sorry]^
+QSB |S1000 QRN [Q S B, Noise]^
+HW |S1000 CUL [How, See you later]^
+HW |S1000 SIG [How, Signal]^
+QRN |S1000 FB [Noise, Fine business]^
+CUL |S1000 SIG [See you later, Signal]^
+QRN |S1000 CPY [Noise, Copy]^
+QRN |S1000 BTU [Noise, Back to you]^
+BEAM |S1000 FB [Beam, Fine business]^
+QRN |S1000 FB [Noise, Fine business]^
+BTU |S1000 BEAM [Back to you, Beam]^
+QRN |S1000 QSB [Noise, Q S B]^
+CUL |S1000 QRN [See you later, Noise]^
+SRI |S1000 QRN [Sorry, Noise]^
+BTU |S1000 QRN [Back to you, Noise]^
+BTU |S1000 SIG [Back to you, Signal]^
+QRN |S1000 FB [Noise, Fine business]^
+QRN |S1000 TNX [Noise, Thanks]^
+CUL |S1000 QRN [See you later, Noise]^
+HW |S1000 HPE [How, Hope]^
+CPI |S1000 DX [Copy, D X]^
+QRN |S1000 QSB [Noise, Q S B]^
+QRN |S1000 SRI [Noise, Sorry]^
+QRN |S1000 HW [Noise, How]^
+QRN |S1000 BTU [Noise, Back to you]^
+BEAM |S1000 ANT [Beam, Antenna]^
+QRN |S1000 CUL [Noise, See you later]^
+QRN |S1000 QSB [Noise, Q S B]^
+QRN |S1000 CPY [Noise, Copy]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+QRN |S1000 SRI [Noise, Sorry]^
+QRN |S1000 CUL [Noise, See you later]^
+CPY |S1000 QRN [Copy, Noise]^
+SIG |S1000 QRN [Signal, Noise]^
+CPI |S1000 SIG [Copy, Signal]^
+ANT |S1000 QRN [Antenna, Noise]^
+FB |S1000 QRN [Fine business, Noise]^
+BTU |S1000 SIG [Back to you, Signal]^
+QRN |S1000 CUL [Noise, See you later]^
+QRN |S1000 FB [Noise, Fine business]^
+QRL |S1000 CPY [Q R L, Copy]^
+QRN |S1000 DX [Noise, D X]^
+SIG |S1000 QRL [Signal, Q R L]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+CPI |S1000 BEAM [Copy, Beam]^
+HPE |S1000 QRN [Hope, Noise]^
+BTU |S1000 TNX [Back to you, Thanks]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+TNX |S1000 QRN [Thanks, Noise]^
+QRL |S1000 CPY [Q R L, Copy]^
+ANT |S1000 CPI [Antenna, Copy]^
+HW |S1000 QRN [How, Noise]^
+BEAM |S1000 CPY [Beam, Copy]^
+HW |S1000 QRN [How, Noise]^
+QRL |S1000 BTU [Q R L, Back to you]^
+CPY |S1000 QRN [Copy, Noise]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+DX |S1000 TNX [D X, Thanks]^
+CUL |S1000 FB [See you later, Fine business]^
+ANT |S1000 QRL [Antenna, Q R L]^
+SIG |S1000 QRN [Signal, Noise]^
+CPY |S1000 QRN [Copy, Noise]^
+ANT |S1000 CUL [Antenna, See you later]^
+QRN |S1000 SRI [Noise, Sorry]^
+QRN |S1000 TNX [Noise, Thanks]^
+CPI |S1000 QRN [Copy, Noise]^
+QRL |S1000 QRN [Q R L, Noise]^
+DX |S1000 QRN [D X, Noise]^
+CPY |S1000 QSB [Copy, Q S B]^
+QRN |S1000 HPE [Noise, Hope]^
+QRN |S1000 CPI [Noise, Copy]^
+QRN |S1000 TNX [Noise, Thanks]^
+HPE |S1000 DX [Hope, D X]^
+CPY |S1000 QRL [Copy, Q R L]^
+HW |S1000 QRN [How, Noise]^
+SIG |S1000 QRN [Signal, Noise]^
+SRI |S1000 ANT [Sorry, Antenna]^
+FB |S1000 QRN [Fine business, Noise]^
+FB |S1000 QRN [Fine business, Noise]^
+DX |S1000 DIPOLE [D X, Dipole]^
+BTU |S1000 QRN [Back to you, Noise]^
+QSB |S1000 QRN [Q S B, Noise]^
+QSB |S1000 SRI [Q S B, Sorry]^
+QRN |S1000 FB [Noise, Fine business]^
+QRN |S1000 DX [Noise, D X]^
+BEAM |S1000 QRN [Beam, Noise]^
+QSB |S1000 SIG [Q S B, Signal]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+QSB |S1000 CUL [Q S B, See you later]^
+QRN |S1000 HPE [Noise, Hope]^
+TNX |S1000 FB [Thanks, Fine business]^
+QRN |S1000 QSB [Noise, Q S B]^
+QRN |S1000 HW [Noise, How]^
+HPE |S1000 TNX [Hope, Thanks]^
+SIG |S1000 SRI [Signal, Sorry]^
+QRN |S1000 SRI [Noise, Sorry]^
+CPY |S1000 BTU [Copy, Back to you]^
+QRN |S1000 DX [Noise, D X]^
+QRN |S1000 BEAM [Noise, Beam]^
+QRN |S1000 TNX [Noise, Thanks]^
+QRN |S1000 SIG [Noise, Signal]^
+QRN |S1000 TNX [Noise, Thanks]^
+QRN |S1000 CUL [Noise, See you later]^
+HW |S1000 BEAM [How, Beam]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+CPY |S1000 QRN [Copy, Noise]^
+DIPOLE |S1000 DX [Dipole, D X]^
+QRN |S1000 CPY [Noise, Copy]^
+QRN |S1000 BTU [Noise, Back to you]^
+QRN |S1000 CPY [Noise, Copy]^
+SRI |S1000 ANT [Sorry, Antenna]^
+QRN |S1000 CPY [Noise, Copy]^
+HW |S1000 QSB [How, Q S B]^
+CUL |S1000 QRN [See you later, Noise]^
+SRI |S1000 QRN [Sorry, Noise]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+BEAM |S1000 QRN [Beam, Noise]^
+HW |S1000 QRN [How, Noise]^
+QRL |S1000 QRN [Q R L, Noise]^
+QSB |S1000 SRI [Q S B, Sorry]^
+TNX |S1000 ANT [Thanks, Antenna]^
+QRN |S1000 HPE [Noise, Hope]^
+TNX |S1000 SIG [Thanks, Signal]^
+ANT |S1000 QRN [Antenna, Noise]^
+ANT |S1000 CPI [Antenna, Copy]^
+SIG |S1000 QRN [Signal, Noise]^
+QSB |S1000 QRN [Q S B, Noise]^
+CPI |S1000 QRN [Copy, Noise]^
+DX |S1000 FB [D X, Fine business]^
+HW |S1000 TNX [How, Thanks]^
+QRN |S1000 CPI [Noise, Copy]^
+ANT |S1000 QRN [Antenna, Noise]^
+HPE |S1000 BEAM [Hope, Beam]^
+SIG |S1000 CUL [Signal, See you later]^
+FB |S1000 QRN [Fine business, Noise]^
+BTU |S1000 DX [Back to you, D X]^
+QRN |S1000 FB [Noise, Fine business]^
+QRN |S1000 SRI [Noise, Sorry]^
+QRN |S1000 FB [Noise, Fine business]^
+QSB |S1000 QRN [Q S B, Noise]^
+CPI |S1000 ANT [Copy, Antenna]^
+QRN |S1000 SRI [Noise, Sorry]^
+QRN |S1000 DX [Noise, D X]^
+TNX |S1000 QRL [Thanks, Q R L]^
+HPE |S1000 QRN [Hope, Noise]^
+DX |S1000 BEAM [D X, Beam]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+BTU |S1000 TNX [Back to you, Thanks]^
+HW |S1000 QRN [How, Noise]^
+DX |S1000 ANT [D X, Antenna]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+QRL |S1000 QRN [Q R L, Noise]^
+BEAM |S1000 DX [Beam, D X]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+CUL |S1000 CPI [See you later, Copy]^
+FB |S1000 QRN [Fine business, Noise]^
+DIPOLE |S1000 DX [Dipole, D X]^
+BEAM |S1000 QRN [Beam, Noise]^
+CUL |S1000 ANT [See you later, Antenna]^
+CPY |S1000 QRL [Copy, Q R L]^
+BEAM |S1000 QRN [Beam, Noise]^
+HW |S1000 CUL [How, See you later]^
+QRN |S1000 QSB [Noise, Q S B]^
+FB |S1000 BTU [Fine business, Back to you]^
+CUL |S1000 QRN [See you later, Noise]^
+FB |S1000 BEAM [Fine business, Beam]^
+HPE |S1000 FB [Hope, Fine business]^
+QRN |S1000 BTU [Noise, Back to you]^
+QRN |S1000 ANT [Noise, Antenna]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+QRN |S1000 SRI [Noise, Sorry]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+QRN |S1000 FB [Noise, Fine business]^
+BTU |S1000 FB [Back to you, Fine business]^
+DX |S1000 QRN [D X, Noise]^
+CPI |S1000 QRN [Copy, Noise]^
+BEAM |S1000 QRN [Beam, Noise]^
+QSB |S1000 HW [Q S B, How]^
+CPY |S1000 QRN [Copy, Noise]^
+FB |S1000 QRN [Fine business, Noise]^
+BEAM |S1000 FB [Beam, Fine business]^
+QRN |S1000 CPY [Noise, Copy]^
+CUL |S1000 CPY [See you later, Copy]^
+QRN |S1000 BTU [Noise, Back to you]^
+QRN |S1000 HPE [Noise, Hope]^
+QRL |S1000 QRN [Q R L, Noise]^
+HW |S1000 QRN [How, Noise]^
+HPE |S1000 DX [Hope, D X]^
+CPI |S1000 BTU [Copy, Back to you]^
+SIG |S1000 CPI [Signal, Copy]^
+QRN |S1000 SRI [Noise, Sorry]^
+CPY |S1000 QRN [Copy, Noise]^
+TNX |S1000 CPY [Thanks, Copy]^
+QRL |S1000 QRN [Q R L, Noise]^
+FB |S1000 SIG [Fine business, Signal]^
+BEAM |S1000 BTU [Beam, Back to you]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+QRN |S1000 HPE [Noise, Hope]^
+CPI |S1000 HW [Copy, How]^
+QRN |S1000 HPE [Noise, Hope]^
+QRN |S1000 CUL [Noise, See you later]^
+ANT |S1000 QRN [Antenna, Noise]^
+ANT |S1000 FB [Antenna, Fine business]^
+QRN |S1000 CPI [Noise, Copy]^
+QRN |S1000 BTU [Noise, Back to you]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+HPE |S1000 TNX [Hope, Thanks]^
+CPY |S1000 QRL [Copy, Q R L]^
+QSB |S1000 HW [Q S B, How]^
+QRN |S1000 SIG [Noise, Signal]^
+QRN |S1000 TNX [Noise, Thanks]^
+HW |S1000 QSB [How, Q S B]^
+QRN |S1000 TNX [Noise, Thanks]^
+QRN |S1000 FB [Noise, Fine business]^
+CPI |S1000 QRN [Copy, Noise]^
+DX |S1000 QRN [D X, Noise]^
+BTU |S1000 DIPOLE [Back to you, Dipole]^
+SRI |S1000 QRN [Sorry, Noise]^
+SIG |S1000 CPI [Signal, Copy]^
+QRN |S1000 SRI [Noise, Sorry]^
+QRN |S1000 BTU [Noise, Back to you]^
+QRN |S1000 SIG [Noise, Signal]^
+QSB |S1000 QRL [Q S B, Q R L]^
+HW |S1000 QRL [How, Q R L]^
+ANT |S1000 CPY [Antenna, Copy]^
+BTU |S1000 SIG [Back to you, Signal]^
+FB |S1000 CUL [Fine business, See you later]^
+DX |S1000 QRN [D X, Noise]^
+FB |S1000 QRN [Fine business, Noise]^
+HW |S1000 DIPOLE [How, Dipole]^
+QSB |S1000 HPE [Q S B, Hope]^
+QRN |S1000 SIG [Noise, Signal]^
+QRN |S1000 QRL [Noise, Q R L]^
+QRN |S1000 FB [Noise, Fine business]^
+DX |S1000 SIG [D X, Signal]^
+QRN |S1000 BEAM [Noise, Beam]^
+TNX |S1000 CPY [Thanks, Copy]^
+QRL |S1000 BTU [Q R L, Back to you]^
+QRL |S1000 QRN [Q R L, Noise]^
+QSB |S1000 QRN [Q S B, Noise]^
+HW |S1000 QRL [How, Q R L]^
+QRN |S1000 HW [Noise, How]^
+QRN |S1000 HW [Noise, How]^
+CPI |S1000 CUL [Copy, See you later]^
+QRN |S1000 BEAM [Noise, Beam]^
+CPY |S1000 QRN [Copy, Noise]^
+HPE |S1000 QRN [Hope, Noise]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+QRN |S1000 ANT [Noise, Antenna]^
+QSB |S1000 CUL [Q S B, See you later]^
+CPY |S1000 BEAM [Copy, Beam]^
+SIG |S1000 QRN [Signal, Noise]^
+BEAM |S1000 QRN [Beam, Noise]^
+DX |S1000 BTU [D X, Back to you]^
+QRN |S1000 BEAM [Noise, Beam]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+FB |S1000 ANT [Fine business, Antenna]^
+SIG |S1000 QRN [Signal, Noise]^
+FB |S1000 CPY [Fine business, Copy]^
+ANT |S1000 SRI [Antenna, Sorry]^
+QRN |S1000 HPE [Noise, Hope]^
+CPY |S1000 QRN [Copy, Noise]^
+HW |S1000 SIG [How, Signal]^
+QRN |S1000 SIG [Noise, Signal]^
+HW |S1000 SIG [How, Signal]^
+QRN |S1000 HPE [Noise, Hope]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+QRN |S1000 SRI [Noise, Sorry]^
+QRN |S1000 CPI [Noise, Copy]^
+QRN |S1000 HW [Noise, How]^
+ANT |S1000 QRN [Antenna, Noise]^
+CUL |S1000 QRN [See you later, Noise]^
+BTU |S1000 CPI [Back to you, Copy]^
+QRN |S1000 DX [Noise, D X]^
+QRN |S1000 BEAM [Noise, Beam]^
+CUL |S1000 QRN [See you later, Noise]^
+HPE |S1000 CPY [Hope, Copy]^
+QRN |S1000 SIG [Noise, Signal]^
+QRN |S1000 CUL [Noise, See you later]^
+BTU |S1000 CPI [Back to you, Copy]^
+DX |S1000 BEAM [D X, Beam]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+TNX |S1000 QRN [Thanks, Noise]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+QRN |S1000 CPI [Noise, Copy]^
+TNX |S1000 HPE [Thanks, Hope]^
+HW |S1000 SIG [How, Signal]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+SIG |S1000 HPE [Signal, Hope]^
+QRN |S1000 SIG [Noise, Signal]^
+QRN |S1000 BEAM [Noise, Beam]^
+DX |S1000 FB [D X, Fine business]^
+TNX |S1000 QRN [Thanks, Noise]^
+FB |S1000 QRN [Fine business, Noise]^
+QSB |S1000 QRN [Q S B, Noise]^
+CUL |S1000 QRN [See you later, Noise]^
+CPY |S1000 QRN [Copy, Noise]^
+CPY |S1000 HPE [Copy, Hope]^
+QRN |S1000 QRL [Noise, Q R L]^
+QRN |S1000 FB [Noise, Fine business]^
+SIG |S1000 QSB [Signal, Q S B]^
+CUL |S1000 CPI [See you later, Copy]^
+QRN |S1000 QRL [Noise, Q R L]^
+DX |S1000 QRN [D X, Noise]^
+BEAM |S1000 QRN [Beam, Noise]^
+CUL |S1000 CPI [See you later, Copy]^
+BTU |S1000 QRN [Back to you, Noise]^
+HW |S1000 CPY [How, Copy]^
+QRN |S1000 HW [Noise, How]^
+QRN |S1000 BTU [Noise, Back to you]^
+CPY |S1000 HW [Copy, How]^
+QRN |S1000 CPI [Noise, Copy]^
+BTU |S1000 CUL [Back to you, See you later]^
+ANT |S1000 FB [Antenna, Fine business]^
+CPY |S1000 QRN [Copy, Noise]^
+BTU |S1000 BEAM [Back to you, Beam]^
+CPY |S1000 QRN [Copy, Noise]^
+BEAM |S1000 ANT [Beam, Antenna]^
+QRL |S1000 TNX [Q R L, Thanks]^
+ANT |S1000 SIG [Antenna, Signal]^
+QRN |S1000 CUL [Noise, See you later]^
+QRN |S1000 HPE [Noise, Hope]^
+QRN |S1000 CUL [Noise, See you later]^
+QSB |S1000 HW [Q S B, How]^
+CPI |S1000 QRN [Copy, Noise]^
+SIG |S1000 QRN [Signal, Noise]^
+SRI |S1000 CUL [Sorry, See you later]^
+QRN |S1000 CUL [Noise, See you later]^
+QRN |S1000 BEAM [Noise, Beam]^
+QRN |S1000 CPI [Noise, Copy]^
+QRN |S1000 BEAM [Noise, Beam]^
+QRN |S1000 TNX [Noise, Thanks]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+HW |S1000 ANT [How, Antenna]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+FB |S1000 QSB [Fine business, Q S B]^
+QRN |S1000 CPI [Noise, Copy]^
+DX |S1000 QRN [D X, Noise]^
+DIPOLE |S1000 DX [Dipole, D X]^
+TNX |S1000 HW [Thanks, How]^
+TNX |S1000 CPY [Thanks, Copy]^
+HPE |S1000 QRN [Hope, Noise]^
+DX |S1000 FB [D X, Fine business]^
+QRN |S1000 QSB [Noise, Q S B]^
+QRN |S1000 FB [Noise, Fine business]^
+QRN |S1000 ANT [Noise, Antenna]^
+CUL |S1000 TNX [See you later, Thanks]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+DX |S1000 HPE [D X, Hope]^
+QRL |S1000 SRI [Q R L, Sorry]^
+QRN |S1000 CPI [Noise, Copy]^
+DX |S1000 QRN [D X, Noise]^
+CUL |S1000 QRN [See you later, Noise]^
+CPI |S1000 QRN [Copy, Noise]^
+CPY |S1000 HW [Copy, How]^
+HPE |S1000 QRN [Hope, Noise]^
+CPY |S1000 DX [Copy, D X]^
+DIPOLE |S1000 CUL [Dipole, See you later]^
+QRN |S1000 CPY [Noise, Copy]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+TNX |S1000 QRN [Thanks, Noise]^
+CUL |S1000 QRN [See you later, Noise]^
+HW |S1000 FB [How, Fine business]^
+QRN |S1000 FB [Noise, Fine business]^
+QRN |S1000 TNX [Noise, Thanks]^
+ANT |S1000 QRN [Antenna, Noise]^
+CUL |S1000 QRN [See you later, Noise]^
+HPE |S1000 QRN [Hope, Noise]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+BTU |S1000 TNX [Back to you, Thanks]^
+QRN |S1000 FB [Noise, Fine business]^
+CUL |S1000 QRN [See you later, Noise]^
+TNX |S1000 SIG [Thanks, Signal]^
+QRN |S1000 DX [Noise, D X]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+CUL |S1000 QRN [See you later, Noise]^
+CPY |S1000 QRN [Copy, Noise]^
+BEAM |S1000 QRN [Beam, Noise]^
+SIG |S1000 HPE [Signal, Hope]^
+CUL |S1000 QRN [See you later, Noise]^
+BTU |S1000 SIG [Back to you, Signal]^
+QRN |S1000 DIPOLE [Noise, Dipole]^
+FB |S1000 QRN [Fine business, Noise]^
+SIG |S1000 DX [Signal, D X]^
+QRN |S1000 TNX [Noise, Thanks]^
+HPE |S1000 CPI [Hope, Copy]^
+QRN |S1000 HPE [Noise, Hope]^
+QRN |S1000 SRI [Noise, Sorry]^
+BTU |S1000 HW [Back to you, How]^
+CPI |S1000 ANT [Copy, Antenna]^
+QRN |S1000 CPI [Noise, Copy]^
+QRN |S1000 CPY [Noise, Copy]^
+QRL |S1000 FB [Q R L, Fine business]^
+QRN |S1000 DX [Noise, D X]^
+CPY |S1000 FB [Copy, Fine business]^
+HW |S1000 CPY [How, Copy]^
+SIG |S1000 TNX [Signal, Thanks]^
+FB |S1000 CPI [Fine business, Copy]^
+DX |S1000 QRN [D X, Noise]^
+BEAM |S1000 QRN [Beam, Noise]^
+FB |S1000 QRN [Fine business, Noise]^
+CUL |S1000 QRN [See you later, Noise]^
+TNX |S1000 QRN [Thanks, Noise]^
+CUL |S1000 QRN [See you later, Noise]^
+FB |S1000 QRN [Fine business, Noise]^
+CPI |S1000 BEAM [Copy, Beam]^
+CUL |S1000 ANT [See you later, Antenna]^
+SIG |S1000 CPI [Signal, Copy]^
+QRN |S1000 FB [Noise, Fine business]^
+BTU |S1000 QRN [Back to you, Noise]^
+HPE |S1000 SRI [Hope, Sorry]^
+HW |S1000 BEAM [How, Beam]^
+QRN |S1000 DX [Noise, D X]^
+QRN |S1000 CPY [Noise, Copy]^
+QRN |S1000 CUL [Noise, See you later]^
+QRN |S1000 CUL [Noise, See you later]^
+QRN |S1000 QSB [Noise, Q S B]^
+QRN |S1000 CUL [Noise, See you later]^
+HPE |S1000 QRN [Hope, Noise]^
+SRI |S1000 HPE [Sorry, Hope]^
+ANT |S1000 QRN [Antenna, Noise]^
+HPE |S1000 QRN [Hope, Noise]^
+HW |S1000 CUL [How, See you later]^
+DX |S1000 FB [D X, Fine business]^
+QRN |S1000 HPE [Noise, Hope]^
+BEAM |S1000 HPE [Beam, Hope]^
+QRN |S1000 QRL [Noise, Q R L]^
+QRN |S1000 QSB [Noise, Q S B]^
+QRN |S1000 ANT [Noise, Antenna]^
+CUL |S1000 BTU [See you later, Back to you]^
+FB |S1000 QRN [Fine business, Noise]^
+TNX |S1000 QRN [Thanks, Noise]^
+HW |S1000 QRN [How, Noise]^
+BTU |S1000 SIG [Back to you, Signal]^
+QRN |S1000 BEAM [Noise, Beam]^
+QRN |S1000 ANT [Noise, Antenna]^
+CPY |S1000 QRN [Copy, Noise]^
+FB |S1000 CPY [Fine business, Copy]^
+SIG |S1000 FB [Signal, Fine business]^
+QSB |S1000 QRN [Q S B, Noise]^
+SIG |S1000 QRN [Signal, Noise]^
+BTU |S1000 HPE [Back to you, Hope]^
+BEAM |S1000 TNX [Beam, Thanks]^
+FB |S1000 QRL [Fine business, Q R L]^
+BTU |S1000 QRN [Back to you, Noise]^
+CPY |S1000 CUL [Copy, See you later]^
+QRN |S1000 CPY [Noise, Copy]^
+QRN |S1000 TNX [Noise, Thanks]^
+CUL |S1000 QRN [See you later, Noise]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+FB |S1000 QRN [Fine business, Noise]^
+CUL |S1000 ANT [See you later, Antenna]^
+HW |S1000 QRN [How, Noise]^
+ANT |S1000 QRN [Antenna, Noise]^
+ANT |S1000 BEAM [Antenna, Beam]^

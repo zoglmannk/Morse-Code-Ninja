@@ -1,0 +1,600 @@
+WIRE [Wire]^
+72 [72]^
+GD [Good]^
+SSB [Single Side Band]^
+SWR [S W R]^
+GN [Good night]^
+WIRE [Wire]^
+479 [4 7 9]^
+GB [Goodbye]^
+479 [4 7 9]^
+INFO [Information]^
+WATT [Watt]^
+479 [4 7 9]^
+72 [72]^
+GB [Goodbye]^
+WATT [Watt]^
+INFO [Information]^
+479 [4 7 9]^
+1TT [100]^
+WATT [Watt]^
+479 [4 7 9]^
+INFO [Information]^
+1TT [100]^
+WIRE [Wire]^
+479 [4 7 9]^
+SWR [S W R]^
+WIRE [Wire]^
+GN [Good night]^
+1TT [100]^
+479 [4 7 9]^
+72 [72]^
+LOOP [Loop]^
+479 [4 7 9]^
+NW [Now]^
+CW [C W]^
+LOOP [Loop]^
+SWR [S W R]^
+479 [4 7 9]^
+LOOP [Loop]^
+GB [Goodbye]^
+SWR [S W R]^
+LOOP [Loop]^
+479 [4 7 9]^
+72 [72]^
+479 [4 7 9]^
+CW [C W]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+WATT [Watt]^
+INFO [Information]^
+LOOP [Loop]^
+GN [Good night]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+72 [72]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+359 [3 5 9]^
+479 [4 7 9]^
+WIRE [Wire]^
+CW [C W]^
+1TT [100]^
+479 [4 7 9]^
+GB [Goodbye]^
+GD [Good]^
+479 [4 7 9]^
+SWR [S W R]^
+479 [4 7 9]^
+GB [Goodbye]^
+479 [4 7 9]^
+GD [Good]^
+WATT [Watt]^
+479 [4 7 9]^
+GB [Goodbye]^
+WATT [Watt]^
+SWR [S W R]^
+479 [4 7 9]^
+359 [3 5 9]^
+WIRE [Wire]^
+SWR [S W R]^
+479 [4 7 9]^
+LOOP [Loop]^
+479 [4 7 9]^
+1TT [100]^
+359 [3 5 9]^
+479 [4 7 9]^
+LOOP [Loop]^
+479 [4 7 9]^
+359 [3 5 9]^
+NW [Now]^
+479 [4 7 9]^
+GD [Good]^
+NW [Now]^
+WATT [Watt]^
+479 [4 7 9]^
+GD [Good]^
+SWR [S W R]^
+GD [Good]^
+479 [4 7 9]^
+359 [3 5 9]^
+CW [C W]^
+INFO [Information]^
+72 [72]^
+GB [Goodbye]^
+479 [4 7 9]^
+72 [72]^
+WIRE [Wire]^
+479 [4 7 9]^
+GB [Goodbye]^
+479 [4 7 9]^
+GB [Goodbye]^
+479 [4 7 9]^
+72 [72]^
+479 [4 7 9]^
+NW [Now]^
+INFO [Information]^
+GD [Good]^
+GB [Goodbye]^
+LOOP [Loop]^
+WATT [Watt]^
+88 [88]^
+479 [4 7 9]^
+GN [Good night]^
+479 [4 7 9]^
+GD [Good]^
+NW [Now]^
+GD [Good]^
+88 [88]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+NW [Now]^
+479 [4 7 9]^
+GN [Good night]^
+LOOP [Loop]^
+88 [88]^
+72 [72]^
+88 [88]^
+INFO [Information]^
+479 [4 7 9]^
+SWR [S W R]^
+479 [4 7 9]^
+72 [72]^
+88 [88]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+WATT [Watt]^
+479 [4 7 9]^
+WIRE [Wire]^
+479 [4 7 9]^
+359 [3 5 9]^
+479 [4 7 9]^
+88 [88]^
+GN [Good night]^
+WATT [Watt]^
+SSB [Single Side Band]^
+72 [72]^
+SWR [S W R]^
+SSB [Single Side Band]^
+SWR [S W R]^
+479 [4 7 9]^
+359 [3 5 9]^
+479 [4 7 9]^
+GN [Good night]^
+479 [4 7 9]^
+LOOP [Loop]^
+479 [4 7 9]^
+359 [3 5 9]^
+LOOP [Loop]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+INFO [Information]^
+88 [88]^
+WIRE [Wire]^
+479 [4 7 9]^
+CW [C W]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+WATT [Watt]^
+479 [4 7 9]^
+SWR [S W R]^
+359 [3 5 9]^
+479 [4 7 9]^
+NW [Now]^
+INFO [Information]^
+GD [Good]^
+SSB [Single Side Band]^
+SWR [S W R]^
+LOOP [Loop]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+SWR [S W R]^
+479 [4 7 9]^
+359 [3 5 9]^
+NW [Now]^
+479 [4 7 9]^
+LOOP [Loop]^
+479 [4 7 9]^
+GB [Goodbye]^
+479 [4 7 9]^
+INFO [Information]^
+1TT [100]^
+WATT [Watt]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+GD [Good]^
+479 [4 7 9]^
+1TT [100]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+479 [4 7 9]^
+72 [72]^
+359 [3 5 9]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+GN [Good night]^
+479 [4 7 9]^
+GN [Good night]^
+GD [Good]^
+479 [4 7 9]^
+SWR [S W R]^
+GN [Good night]^
+WATT [Watt]^
+SSB [Single Side Band]^
+GB [Goodbye]^
+WATT [Watt]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+72 [72]^
+CW [C W]^
+479 [4 7 9]^
+GB [Goodbye]^
+NW [Now]^
+GD [Good]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+NW [Now]^
+GN [Good night]^
+479 [4 7 9]^
+WIRE [Wire]^
+479 [4 7 9]^
+72 [72]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+GD [Good]^
+88 [88]^
+479 [4 7 9]^
+INFO [Information]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+359 [3 5 9]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+INFO [Information]^
+1TT [100]^
+LOOP [Loop]^
+CW [C W]^
+LOOP [Loop]^
+1TT [100]^
+88 [88]^
+SSB [Single Side Band]^
+SWR [S W R]^
+CW [C W]^
+479 [4 7 9]^
+1TT [100]^
+479 [4 7 9]^
+GN [Good night]^
+479 [4 7 9]^
+NW [Now]^
+SSB [Single Side Band]^
+CW [C W]^
+479 [4 7 9]^
+1TT [100]^
+SSB [Single Side Band]^
+LOOP [Loop]^
+72 [72]^
+479 [4 7 9]^
+72 [72]^
+479 [4 7 9]^
+NW [Now]^
+359 [3 5 9]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+WATT [Watt]^
+GD [Good]^
+479 [4 7 9]^
+GB [Goodbye]^
+GD [Good]^
+LOOP [Loop]^
+479 [4 7 9]^
+WIRE [Wire]^
+479 [4 7 9]^
+GN [Good night]^
+72 [72]^
+1TT [100]^
+NW [Now]^
+479 [4 7 9]^
+1TT [100]^
+SWR [S W R]^
+479 [4 7 9]^
+INFO [Information]^
+479 [4 7 9]^
+WIRE [Wire]^
+479 [4 7 9]^
+LOOP [Loop]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+88 [88]^
+INFO [Information]^
+GD [Good]^
+479 [4 7 9]^
+CW [C W]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+479 [4 7 9]^
+1TT [100]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+88 [88]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+72 [72]^
+SWR [S W R]^
+359 [3 5 9]^
+479 [4 7 9]^
+CW [C W]^
+GN [Good night]^
+479 [4 7 9]^
+NW [Now]^
+479 [4 7 9]^
+1TT [100]^
+WIRE [Wire]^
+479 [4 7 9]^
+GN [Good night]^
+359 [3 5 9]^
+LOOP [Loop]^
+GB [Goodbye]^
+SWR [S W R]^
+479 [4 7 9]^
+WIRE [Wire]^
+479 [4 7 9]^
+SWR [S W R]^
+479 [4 7 9]^
+359 [3 5 9]^
+479 [4 7 9]^
+1TT [100]^
+479 [4 7 9]^
+72 [72]^
+359 [3 5 9]^
+SSB [Single Side Band]^
+88 [88]^
+479 [4 7 9]^
+72 [72]^
+SWR [S W R]^
+SSB [Single Side Band]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+WATT [Watt]^
+479 [4 7 9]^
+1TT [100]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+CW [C W]^
+479 [4 7 9]^
+WIRE [Wire]^
+479 [4 7 9]^
+GN [Good night]^
+479 [4 7 9]^
+WATT [Watt]^
+479 [4 7 9]^
+88 [88]^
+479 [4 7 9]^
+CW [C W]^
+72 [72]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+WATT [Watt]^
+479 [4 7 9]^
+GN [Good night]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+WATT [Watt]^
+GN [Good night]^
+SWR [S W R]^
+GN [Good night]^
+479 [4 7 9]^
+1TT [100]^
+88 [88]^
+GN [Good night]^
+INFO [Information]^
+479 [4 7 9]^
+GN [Good night]^
+NW [Now]^
+INFO [Information]^
+479 [4 7 9]^
+LOOP [Loop]^
+SWR [S W R]^
+479 [4 7 9]^
+NW [Now]^
+72 [72]^
+359 [3 5 9]^
+WIRE [Wire]^
+72 [72]^
+WIRE [Wire]^
+88 [88]^
+CW [C W]^
+479 [4 7 9]^
+WATT [Watt]^
+SSB [Single Side Band]^
+88 [88]^
+479 [4 7 9]^
+CW [C W]^
+479 [4 7 9]^
+88 [88]^
+LOOP [Loop]^
+479 [4 7 9]^
+SWR [S W R]^
+359 [3 5 9]^
+479 [4 7 9]^
+WIRE [Wire]^
+479 [4 7 9]^
+WATT [Watt]^
+LOOP [Loop]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+LOOP [Loop]^
+359 [3 5 9]^
+WIRE [Wire]^
+88 [88]^
+1TT [100]^
+479 [4 7 9]^
+WIRE [Wire]^
+NW [Now]^
+479 [4 7 9]^
+WIRE [Wire]^
+479 [4 7 9]^
+72 [72]^
+INFO [Information]^
+GD [Good]^
+SWR [S W R]^
+479 [4 7 9]^
+INFO [Information]^
+479 [4 7 9]^
+NW [Now]^
+479 [4 7 9]^
+CW [C W]^
+479 [4 7 9]^
+359 [3 5 9]^
+479 [4 7 9]^
+WIRE [Wire]^
+479 [4 7 9]^
+WATT [Watt]^
+88 [88]^
+479 [4 7 9]^
+CW [C W]^
+NW [Now]^
+359 [3 5 9]^
+SSB [Single Side Band]^
+GN [Good night]^
+72 [72]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+WIRE [Wire]^
+88 [88]^
+WIRE [Wire]^
+WATT [Watt]^
+479 [4 7 9]^
+NW [Now]^
+479 [4 7 9]^
+SWR [S W R]^
+72 [72]^
+479 [4 7 9]^
+LOOP [Loop]^
+SSB [Single Side Band]^
+359 [3 5 9]^
+CW [C W]^
+479 [4 7 9]^
+72 [72]^
+LOOP [Loop]^
+88 [88]^
+GN [Good night]^
+479 [4 7 9]^
+WATT [Watt]^
+WIRE [Wire]^
+479 [4 7 9]^
+72 [72]^
+479 [4 7 9]^
+359 [3 5 9]^
+479 [4 7 9]^
+SWR [S W R]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+GD [Good]^
+GB [Goodbye]^
+479 [4 7 9]^
+359 [3 5 9]^
+1TT [100]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+88 [88]^
+WATT [Watt]^
+GB [Goodbye]^
+479 [4 7 9]^
+359 [3 5 9]^
+479 [4 7 9]^
+GN [Good night]^
+359 [3 5 9]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+CW [C W]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+SWR [S W R]^
+359 [3 5 9]^
+479 [4 7 9]^
+WATT [Watt]^
+GB [Goodbye]^
+WIRE [Wire]^
+NW [Now]^
+SWR [S W R]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+479 [4 7 9]^
+GD [Good]^
+479 [4 7 9]^
+NW [Now]^
+479 [4 7 9]^
+WATT [Watt]^
+LOOP [Loop]^
+479 [4 7 9]^
+GD [Good]^
+88 [88]^
+479 [4 7 9]^
+INFO [Information]^
+479 [4 7 9]^
+OCF [Off-center fed dipole]^
+479 [4 7 9]^
+88 [88]^
+359 [3 5 9]^
+WATT [Watt]^
+CW [C W]^
+479 [4 7 9]^
+LOOP [Loop]^
+NW [Now]^
+479 [4 7 9]^
+GB [Goodbye]^
+479 [4 7 9]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+72 [72]^
+479 [4 7 9]^
+LOOP [Loop]^
+72 [72]^
+GD [Good]^
+CW [C W]^
+479 [4 7 9]^
+1TT [100]^
+GB [Goodbye]^
+CW [C W]^
+479 [4 7 9]^
+LOOP [Loop]^
+359 [3 5 9]^
+WIRE [Wire]^
+479 [4 7 9]^
+WATT [Watt]^
+479 [4 7 9]^
+LOOP [Loop]^
+GB [Goodbye]^
+479 [4 7 9]^
+WIRE [Wire]^
+359 [3 5 9]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+359 [3 5 9]^

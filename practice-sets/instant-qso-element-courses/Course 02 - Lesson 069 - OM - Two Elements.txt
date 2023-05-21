@@ -1,0 +1,600 @@
+DX |S1000 QRN [D X, Noise]^
+OM |S1000 BEAM [Old man, Beam]^
+SRI |S1000 OM [Sorry, Old man]^
+DX |S1000 OM [D X, Old man]^
+BTU |S1000 HPE [Back to you, Hope]^
+OM |S1000 HPE [Old man, Hope]^
+ANT |S1000 OM [Antenna, Old man]^
+DX |S1000 HW [D X, How]^
+QRN |S1000 FB [Noise, Fine business]^
+OM |S1000 BTU [Old man, Back to you]^
+HW |S1000 BEAM [How, Beam]^
+OM |S1000 CPI [Old man, Copy]^
+TNX |S1000 BEAM [Thanks, Beam]^
+SRI |S1000 OM [Sorry, Old man]^
+SIG |S1000 BEAM [Signal, Beam]^
+OM |S1000 FB [Old man, Fine business]^
+OM |S1000 QRL [Old man, Q R L]^
+OM |S1000 ANT [Old man, Antenna]^
+QRL |S1000 BEAM [Q R L, Beam]^
+DX |S1000 OM [D X, Old man]^
+TNX |S1000 QSB [Thanks, Q S B]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+ANT |S1000 OM [Antenna, Old man]^
+TNX |S1000 HPE [Thanks, Hope]^
+DIPOLE |S1000 QRL [Dipole, Q R L]^
+OM |S1000 CUL [Old man, See you later]^
+CPI |S1000 OM [Copy, Old man]^
+TNX |S1000 SRI [Thanks, Sorry]^
+OM |S1000 HPE [Old man, Hope]^
+QRL |S1000 OM [Q R L, Old man]^
+CPY |S1000 OM [Copy, Old man]^
+HPE |S1000 OM [Hope, Old man]^
+SRI |S1000 OM [Sorry, Old man]^
+HPE |S1000 CUL [Hope, See you later]^
+OM |S1000 CUL [Old man, See you later]^
+OM |S1000 CPY [Old man, Copy]^
+SRI |S1000 QRL [Sorry, Q R L]^
+SRI |S1000 QRL [Sorry, Q R L]^
+BEAM |S1000 OM [Beam, Old man]^
+CUL |S1000 QRL [See you later, Q R L]^
+CUL |S1000 ANT [See you later, Antenna]^
+OM |S1000 TNX [Old man, Thanks]^
+OM |S1000 SIG [Old man, Signal]^
+OM |S1000 DX [Old man, D X]^
+SRI |S1000 OM [Sorry, Old man]^
+ANT |S1000 CUL [Antenna, See you later]^
+HW |S1000 OM [How, Old man]^
+ANT |S1000 OM [Antenna, Old man]^
+BTU |S1000 OM [Back to you, Old man]^
+HPE |S1000 SIG [Hope, Signal]^
+FB |S1000 OM [Fine business, Old man]^
+FB |S1000 OM [Fine business, Old man]^
+FB |S1000 OM [Fine business, Old man]^
+FB |S1000 CPI [Fine business, Copy]^
+OM |S1000 ANT [Old man, Antenna]^
+CPY |S1000 OM [Copy, Old man]^
+ANT |S1000 OM [Antenna, Old man]^
+CUL |S1000 OM [See you later, Old man]^
+DX |S1000 OM [D X, Old man]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+OM |S1000 SIG [Old man, Signal]^
+ANT |S1000 TNX [Antenna, Thanks]^
+OM |S1000 HPE [Old man, Hope]^
+OM |S1000 CPI [Old man, Copy]^
+OM |S1000 BEAM [Old man, Beam]^
+DX |S1000 DIPOLE [D X, Dipole]^
+OM |S1000 HW [Old man, How]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+HW |S1000 SRI [How, Sorry]^
+TNX |S1000 FB [Thanks, Fine business]^
+CPI |S1000 DIPOLE [Copy, Dipole]^
+OM |S1000 QRN [Old man, Noise]^
+TNX |S1000 QSB [Thanks, Q S B]^
+QRL |S1000 HPE [Q R L, Hope]^
+SRI |S1000 OM [Sorry, Old man]^
+DX |S1000 BEAM [D X, Beam]^
+CPY |S1000 BTU [Copy, Back to you]^
+HW |S1000 OM [How, Old man]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+ANT |S1000 CPI [Antenna, Copy]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+BEAM |S1000 OM [Beam, Old man]^
+QRN |S1000 OM [Noise, Old man]^
+TNX |S1000 OM [Thanks, Old man]^
+CPI |S1000 OM [Copy, Old man]^
+QRL |S1000 OM [Q R L, Old man]^
+ANT |S1000 OM [Antenna, Old man]^
+QRL |S1000 OM [Q R L, Old man]^
+DIPOLE |S1000 BEAM [Dipole, Beam]^
+OM |S1000 CUL [Old man, See you later]^
+QSB |S1000 OM [Q S B, Old man]^
+DX |S1000 OM [D X, Old man]^
+HW |S1000 OM [How, Old man]^
+HW |S1000 OM [How, Old man]^
+CPY |S1000 OM [Copy, Old man]^
+HPE |S1000 OM [Hope, Old man]^
+QRN |S1000 HW [Noise, How]^
+FB |S1000 OM [Fine business, Old man]^
+CPI |S1000 HW [Copy, How]^
+DX |S1000 TNX [D X, Thanks]^
+SRI |S1000 SIG [Sorry, Signal]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+FB |S1000 OM [Fine business, Old man]^
+ANT |S1000 SRI [Antenna, Sorry]^
+TNX |S1000 FB [Thanks, Fine business]^
+QRL |S1000 HW [Q R L, How]^
+TNX |S1000 QRL [Thanks, Q R L]^
+OM |S1000 CUL [Old man, See you later]^
+OM |S1000 HPE [Old man, Hope]^
+DX |S1000 CPY [D X, Copy]^
+QRN |S1000 OM [Noise, Old man]^
+ANT |S1000 OM [Antenna, Old man]^
+CPY |S1000 QRL [Copy, Q R L]^
+OM |S1000 CPI [Old man, Copy]^
+OM |S1000 SIG [Old man, Signal]^
+OM |S1000 QRL [Old man, Q R L]^
+HPE |S1000 FB [Hope, Fine business]^
+OM |S1000 SIG [Old man, Signal]^
+FB |S1000 OM [Fine business, Old man]^
+CUL |S1000 FB [See you later, Fine business]^
+DX |S1000 OM [D X, Old man]^
+HW |S1000 OM [How, Old man]^
+SIG |S1000 ANT [Signal, Antenna]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+OM |S1000 CPY [Old man, Copy]^
+SIG |S1000 FB [Signal, Fine business]^
+CPI |S1000 SRI [Copy, Sorry]^
+HW |S1000 OM [How, Old man]^
+QSB |S1000 HW [Q S B, How]^
+TNX |S1000 ANT [Thanks, Antenna]^
+OM |S1000 BEAM [Old man, Beam]^
+OM |S1000 TNX [Old man, Thanks]^
+CPI |S1000 OM [Copy, Old man]^
+BEAM |S1000 OM [Beam, Old man]^
+HPE |S1000 OM [Hope, Old man]^
+SRI |S1000 OM [Sorry, Old man]^
+FB |S1000 OM [Fine business, Old man]^
+CPI |S1000 TNX [Copy, Thanks]^
+OM |S1000 CPI [Old man, Copy]^
+QRN |S1000 HW [Noise, How]^
+QRL |S1000 OM [Q R L, Old man]^
+QRL |S1000 SRI [Q R L, Sorry]^
+DX |S1000 OM [D X, Old man]^
+CUL |S1000 OM [See you later, Old man]^
+CUL |S1000 SRI [See you later, Sorry]^
+OM |S1000 SIG [Old man, Signal]^
+OM |S1000 SIG [Old man, Signal]^
+SRI |S1000 HW [Sorry, How]^
+OM |S1000 QRN [Old man, Noise]^
+TNX |S1000 QSB [Thanks, Q S B]^
+CUL |S1000 OM [See you later, Old man]^
+SRI |S1000 QSB [Sorry, Q S B]^
+FB |S1000 OM [Fine business, Old man]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+HW |S1000 TNX [How, Thanks]^
+OM |S1000 CUL [Old man, See you later]^
+ANT |S1000 OM [Antenna, Old man]^
+BEAM |S1000 FB [Beam, Fine business]^
+OM |S1000 CPY [Old man, Copy]^
+SRI |S1000 OM [Sorry, Old man]^
+SRI |S1000 OM [Sorry, Old man]^
+SIG |S1000 OM [Signal, Old man]^
+BEAM |S1000 QRN [Beam, Noise]^
+SRI |S1000 DX [Sorry, D X]^
+OM |S1000 QRN [Old man, Noise]^
+TNX |S1000 OM [Thanks, Old man]^
+BEAM |S1000 OM [Beam, Old man]^
+DX |S1000 BEAM [D X, Beam]^
+OM |S1000 HW [Old man, How]^
+BTU |S1000 HPE [Back to you, Hope]^
+OM |S1000 BEAM [Old man, Beam]^
+OM |S1000 SIG [Old man, Signal]^
+QRL |S1000 QRN [Q R L, Noise]^
+QSB |S1000 OM [Q S B, Old man]^
+SRI |S1000 OM [Sorry, Old man]^
+BEAM |S1000 BTU [Beam, Back to you]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+DX |S1000 QSB [D X, Q S B]^
+BTU |S1000 OM [Back to you, Old man]^
+TNX |S1000 ANT [Thanks, Antenna]^
+TNX |S1000 HW [Thanks, How]^
+CPI |S1000 CUL [Copy, See you later]^
+DX |S1000 OM [D X, Old man]^
+DX |S1000 OM [D X, Old man]^
+QSB |S1000 OM [Q S B, Old man]^
+BTU |S1000 HW [Back to you, How]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+OM |S1000 SRI [Old man, Sorry]^
+OM |S1000 ANT [Old man, Antenna]^
+OM |S1000 CPI [Old man, Copy]^
+OM |S1000 BEAM [Old man, Beam]^
+QRN |S1000 QRL [Noise, Q R L]^
+BTU |S1000 OM [Back to you, Old man]^
+CUL |S1000 HPE [See you later, Hope]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+QRN |S1000 CPI [Noise, Copy]^
+OM |S1000 QRN [Old man, Noise]^
+CPY |S1000 DIPOLE [Copy, Dipole]^
+OM |S1000 HPE [Old man, Hope]^
+OM |S1000 BEAM [Old man, Beam]^
+SRI |S1000 OM [Sorry, Old man]^
+FB |S1000 DIPOLE [Fine business, Dipole]^
+BEAM |S1000 OM [Beam, Old man]^
+QSB |S1000 DX [Q S B, D X]^
+BEAM |S1000 HW [Beam, How]^
+OM |S1000 DX [Old man, D X]^
+OM |S1000 HPE [Old man, Hope]^
+OM |S1000 QRN [Old man, Noise]^
+SRI |S1000 OM [Sorry, Old man]^
+BEAM |S1000 DX [Beam, D X]^
+OM |S1000 QRL [Old man, Q R L]^
+CPI |S1000 OM [Copy, Old man]^
+HW |S1000 BTU [How, Back to you]^
+QRN |S1000 ANT [Noise, Antenna]^
+BEAM |S1000 DIPOLE [Beam, Dipole]^
+DX |S1000 HW [D X, How]^
+OM |S1000 SRI [Old man, Sorry]^
+ANT |S1000 OM [Antenna, Old man]^
+BTU |S1000 QRL [Back to you, Q R L]^
+OM |S1000 DX [Old man, D X]^
+SRI |S1000 FB [Sorry, Fine business]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+HW |S1000 DIPOLE [How, Dipole]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+OM |S1000 HPE [Old man, Hope]^
+OM |S1000 HPE [Old man, Hope]^
+OM |S1000 HW [Old man, How]^
+BTU |S1000 CPY [Back to you, Copy]^
+BTU |S1000 OM [Back to you, Old man]^
+DX |S1000 OM [D X, Old man]^
+QRN |S1000 FB [Noise, Fine business]^
+OM |S1000 HW [Old man, How]^
+BEAM |S1000 OM [Beam, Old man]^
+TNX |S1000 OM [Thanks, Old man]^
+ANT |S1000 OM [Antenna, Old man]^
+HW |S1000 OM [How, Old man]^
+CUL |S1000 QRN [See you later, Noise]^
+OM |S1000 BEAM [Old man, Beam]^
+OM |S1000 DX [Old man, D X]^
+HPE |S1000 CPY [Hope, Copy]^
+BEAM |S1000 HW [Beam, How]^
+OM |S1000 CUL [Old man, See you later]^
+CPY |S1000 SIG [Copy, Signal]^
+OM |S1000 HW [Old man, How]^
+OM |S1000 CUL [Old man, See you later]^
+OM |S1000 FB [Old man, Fine business]^
+BEAM |S1000 OM [Beam, Old man]^
+QRN |S1000 OM [Noise, Old man]^
+BEAM |S1000 OM [Beam, Old man]^
+QRN |S1000 SIG [Noise, Signal]^
+CUL |S1000 DX [See you later, D X]^
+CPY |S1000 DX [Copy, D X]^
+SRI |S1000 FB [Sorry, Fine business]^
+BTU |S1000 OM [Back to you, Old man]^
+HW |S1000 OM [How, Old man]^
+QSB |S1000 TNX [Q S B, Thanks]^
+CUL |S1000 SRI [See you later, Sorry]^
+DX |S1000 TNX [D X, Thanks]^
+OM |S1000 SRI [Old man, Sorry]^
+QRL |S1000 SIG [Q R L, Signal]^
+OM |S1000 QRL [Old man, Q R L]^
+CPY |S1000 BTU [Copy, Back to you]^
+OM |S1000 TNX [Old man, Thanks]^
+SIG |S1000 SRI [Signal, Sorry]^
+DX |S1000 CPI [D X, Copy]^
+SIG |S1000 OM [Signal, Old man]^
+TNX |S1000 DX [Thanks, D X]^
+OM |S1000 HW [Old man, How]^
+CPY |S1000 SRI [Copy, Sorry]^
+OM |S1000 QSB [Old man, Q S B]^
+OM |S1000 CPY [Old man, Copy]^
+OM |S1000 ANT [Old man, Antenna]^
+QRN |S1000 FB [Noise, Fine business]^
+OM |S1000 QRN [Old man, Noise]^
+OM |S1000 BEAM [Old man, Beam]^
+QRL |S1000 OM [Q R L, Old man]^
+BEAM |S1000 OM [Beam, Old man]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+ANT |S1000 SIG [Antenna, Signal]^
+BTU |S1000 HW [Back to you, How]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+CPY |S1000 OM [Copy, Old man]^
+HW |S1000 OM [How, Old man]^
+HW |S1000 CUL [How, See you later]^
+CPY |S1000 QRN [Copy, Noise]^
+SIG |S1000 DIPOLE [Signal, Dipole]^
+OM |S1000 SRI [Old man, Sorry]^
+OM |S1000 TNX [Old man, Thanks]^
+HPE |S1000 ANT [Hope, Antenna]^
+OM |S1000 HW [Old man, How]^
+BTU |S1000 SRI [Back to you, Sorry]^
+ANT |S1000 BTU [Antenna, Back to you]^
+SIG |S1000 OM [Signal, Old man]^
+QRL |S1000 TNX [Q R L, Thanks]^
+QRL |S1000 BEAM [Q R L, Beam]^
+OM |S1000 ANT [Old man, Antenna]^
+OM |S1000 CUL [Old man, See you later]^
+OM |S1000 CPI [Old man, Copy]^
+OM |S1000 QRN [Old man, Noise]^
+FB |S1000 QRL [Fine business, Q R L]^
+ANT |S1000 OM [Antenna, Old man]^
+HW |S1000 SRI [How, Sorry]^
+OM |S1000 CPI [Old man, Copy]^
+HPE |S1000 OM [Hope, Old man]^
+SIG |S1000 QSB [Signal, Q S B]^
+OM |S1000 SRI [Old man, Sorry]^
+OM |S1000 QRN [Old man, Noise]^
+OM |S1000 HPE [Old man, Hope]^
+OM |S1000 DX [Old man, D X]^
+OM |S1000 CPI [Old man, Copy]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+DIPOLE |S1000 TNX [Dipole, Thanks]^
+ANT |S1000 QSB [Antenna, Q S B]^
+BEAM |S1000 OM [Beam, Old man]^
+CPY |S1000 OM [Copy, Old man]^
+CPI |S1000 OM [Copy, Old man]^
+BTU |S1000 OM [Back to you, Old man]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+QRN |S1000 OM [Noise, Old man]^
+CPI |S1000 OM [Copy, Old man]^
+CUL |S1000 FB [See you later, Fine business]^
+OM |S1000 TNX [Old man, Thanks]^
+QSB |S1000 OM [Q S B, Old man]^
+ANT |S1000 HPE [Antenna, Hope]^
+OM |S1000 CPY [Old man, Copy]^
+OM |S1000 CPI [Old man, Copy]^
+ANT |S1000 SRI [Antenna, Sorry]^
+OM |S1000 SRI [Old man, Sorry]^
+OM |S1000 DX [Old man, D X]^
+CUL |S1000 HW [See you later, How]^
+OM |S1000 QSB [Old man, Q S B]^
+OM |S1000 SIG [Old man, Signal]^
+CUL |S1000 OM [See you later, Old man]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+QRN |S1000 FB [Noise, Fine business]^
+OM |S1000 SRI [Old man, Sorry]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+OM |S1000 QRN [Old man, Noise]^
+QRL |S1000 OM [Q R L, Old man]^
+ANT |S1000 QRN [Antenna, Noise]^
+OM |S1000 BEAM [Old man, Beam]^
+OM |S1000 QRN [Old man, Noise]^
+OM |S1000 CPY [Old man, Copy]^
+HPE |S1000 OM [Hope, Old man]^
+SIG |S1000 OM [Signal, Old man]^
+HW |S1000 OM [How, Old man]^
+QSB |S1000 SIG [Q S B, Signal]^
+FB |S1000 OM [Fine business, Old man]^
+DX |S1000 SIG [D X, Signal]^
+HW |S1000 OM [How, Old man]^
+QRL |S1000 BTU [Q R L, Back to you]^
+OM |S1000 FB [Old man, Fine business]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+OM |S1000 TNX [Old man, Thanks]^
+OM |S1000 CPY [Old man, Copy]^
+FB |S1000 CPY [Fine business, Copy]^
+OM |S1000 CPI [Old man, Copy]^
+OM |S1000 TNX [Old man, Thanks]^
+FB |S1000 BEAM [Fine business, Beam]^
+OM |S1000 FB [Old man, Fine business]^
+QRL |S1000 QSB [Q R L, Q S B]^
+OM |S1000 SRI [Old man, Sorry]^
+OM |S1000 HPE [Old man, Hope]^
+SRI |S1000 OM [Sorry, Old man]^
+DX |S1000 HPE [D X, Hope]^
+QSB |S1000 SRI [Q S B, Sorry]^
+QRL |S1000 OM [Q R L, Old man]^
+QSB |S1000 CPY [Q S B, Copy]^
+CUL |S1000 OM [See you later, Old man]^
+QSB |S1000 OM [Q S B, Old man]^
+QSB |S1000 OM [Q S B, Old man]^
+ANT |S1000 QRN [Antenna, Noise]^
+OM |S1000 TNX [Old man, Thanks]^
+OM |S1000 ANT [Old man, Antenna]^
+OM |S1000 BTU [Old man, Back to you]^
+OM |S1000 ANT [Old man, Antenna]^
+OM |S1000 BTU [Old man, Back to you]^
+CUL |S1000 CPY [See you later, Copy]^
+OM |S1000 HPE [Old man, Hope]^
+OM |S1000 SRI [Old man, Sorry]^
+OM |S1000 FB [Old man, Fine business]^
+SRI |S1000 TNX [Sorry, Thanks]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+HPE |S1000 OM [Hope, Old man]^
+SIG |S1000 QRN [Signal, Noise]^
+BEAM |S1000 QRN [Beam, Noise]^
+BEAM |S1000 TNX [Beam, Thanks]^
+BEAM |S1000 OM [Beam, Old man]^
+TNX |S1000 OM [Thanks, Old man]^
+CPI |S1000 OM [Copy, Old man]^
+DX |S1000 OM [D X, Old man]^
+QSB |S1000 OM [Q S B, Old man]^
+SIG |S1000 OM [Signal, Old man]^
+CPY |S1000 FB [Copy, Fine business]^
+OM |S1000 ANT [Old man, Antenna]^
+OM |S1000 FB [Old man, Fine business]^
+OM |S1000 QRN [Old man, Noise]^
+OM |S1000 QSB [Old man, Q S B]^
+OM |S1000 QRN [Old man, Noise]^
+OM |S1000 CPY [Old man, Copy]^
+OM |S1000 CPY [Old man, Copy]^
+HPE |S1000 CPI [Hope, Copy]^
+OM |S1000 SRI [Old man, Sorry]^
+TNX |S1000 FB [Thanks, Fine business]^
+TNX |S1000 OM [Thanks, Old man]^
+TNX |S1000 OM [Thanks, Old man]^
+DX |S1000 FB [D X, Fine business]^
+DX |S1000 ANT [D X, Antenna]^
+OM |S1000 FB [Old man, Fine business]^
+QRL |S1000 OM [Q R L, Old man]^
+DX |S1000 OM [D X, Old man]^
+ANT |S1000 SIG [Antenna, Signal]^
+OM |S1000 ANT [Old man, Antenna]^
+FB |S1000 TNX [Fine business, Thanks]^
+CUL |S1000 ANT [See you later, Antenna]^
+OM |S1000 SIG [Old man, Signal]^
+OM |S1000 TNX [Old man, Thanks]^
+SRI |S1000 CPY [Sorry, Copy]^
+OM |S1000 CUL [Old man, See you later]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+OM |S1000 BEAM [Old man, Beam]^
+CUL |S1000 CPY [See you later, Copy]^
+OM |S1000 CUL [Old man, See you later]^
+OM |S1000 ANT [Old man, Antenna]^
+CUL |S1000 HPE [See you later, Hope]^
+CPI |S1000 CUL [Copy, See you later]^
+OM |S1000 BEAM [Old man, Beam]^
+OM |S1000 CPY [Old man, Copy]^
+DX |S1000 HW [D X, How]^
+BEAM |S1000 SRI [Beam, Sorry]^
+BTU |S1000 OM [Back to you, Old man]^
+HPE |S1000 QSB [Hope, Q S B]^
+DX |S1000 SRI [D X, Sorry]^
+OM |S1000 CPY [Old man, Copy]^
+OM |S1000 BEAM [Old man, Beam]^
+OM |S1000 HPE [Old man, Hope]^
+SIG |S1000 FB [Signal, Fine business]^
+HPE |S1000 OM [Hope, Old man]^
+SRI |S1000 DX [Sorry, D X]^
+OM |S1000 DX [Old man, D X]^
+TNX |S1000 OM [Thanks, Old man]^
+TNX |S1000 OM [Thanks, Old man]^
+CPY |S1000 OM [Copy, Old man]^
+QRN |S1000 QSB [Noise, Q S B]^
+CPI |S1000 OM [Copy, Old man]^
+BEAM |S1000 OM [Beam, Old man]^
+BTU |S1000 CUL [Back to you, See you later]^
+OM |S1000 DX [Old man, D X]^
+OM |S1000 SIG [Old man, Signal]^
+FB |S1000 HW [Fine business, How]^
+OM |S1000 BTU [Old man, Back to you]^
+OM |S1000 CPI [Old man, Copy]^
+OM |S1000 BEAM [Old man, Beam]^
+CPY |S1000 SIG [Copy, Signal]^
+OM |S1000 QRN [Old man, Noise]^
+ANT |S1000 OM [Antenna, Old man]^
+SIG |S1000 CUL [Signal, See you later]^
+BEAM |S1000 OM [Beam, Old man]^
+TNX |S1000 SRI [Thanks, Sorry]^
+OM |S1000 QSB [Old man, Q S B]^
+OM |S1000 CUL [Old man, See you later]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+DX |S1000 OM [D X, Old man]^
+CPI |S1000 HW [Copy, How]^
+FB |S1000 QRL [Fine business, Q R L]^
+OM |S1000 SRI [Old man, Sorry]^
+OM |S1000 HPE [Old man, Hope]^
+OM |S1000 HW [Old man, How]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+CPY |S1000 OM [Copy, Old man]^
+CUL |S1000 TNX [See you later, Thanks]^
+HPE |S1000 FB [Hope, Fine business]^
+OM |S1000 TNX [Old man, Thanks]^
+OM |S1000 QRL [Old man, Q R L]^
+CPI |S1000 OM [Copy, Old man]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+OM |S1000 CPI [Old man, Copy]^
+BTU |S1000 OM [Back to you, Old man]^
+HW |S1000 OM [How, Old man]^
+HW |S1000 CPI [How, Copy]^
+OM |S1000 BTU [Old man, Back to you]^
+ANT |S1000 OM [Antenna, Old man]^
+SIG |S1000 QRN [Signal, Noise]^
+BTU |S1000 DX [Back to you, D X]^
+CPI |S1000 OM [Copy, Old man]^
+FB |S1000 OM [Fine business, Old man]^
+FB |S1000 SRI [Fine business, Sorry]^
+CPY |S1000 CUL [Copy, See you later]^
+SRI |S1000 OM [Sorry, Old man]^
+TNX |S1000 BEAM [Thanks, Beam]^
+OM |S1000 DX [Old man, D X]^
+OM |S1000 QSB [Old man, Q S B]^
+BTU |S1000 OM [Back to you, Old man]^
+TNX |S1000 CPY [Thanks, Copy]^
+DIPOLE |S1000 ANT [Dipole, Antenna]^
+OM |S1000 TNX [Old man, Thanks]^
+OM |S1000 QRN [Old man, Noise]^
+HW |S1000 OM [How, Old man]^
+QRN |S1000 DX [Noise, D X]^
+CPI |S1000 OM [Copy, Old man]^
+HPE |S1000 OM [Hope, Old man]^
+HPE |S1000 OM [Hope, Old man]^
+QSB |S1000 BEAM [Q S B, Beam]^
+SIG |S1000 BTU [Signal, Back to you]^
+OM |S1000 DX [Old man, D X]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+ANT |S1000 CUL [Antenna, See you later]^
+FB |S1000 CPY [Fine business, Copy]^
+OM |S1000 SIG [Old man, Signal]^
+BEAM |S1000 QRN [Beam, Noise]^
+OM |S1000 CPI [Old man, Copy]^
+ANT |S1000 SRI [Antenna, Sorry]^
+HW |S1000 OM [How, Old man]^
+SIG |S1000 FB [Signal, Fine business]^
+OM |S1000 BTU [Old man, Back to you]^
+OM |S1000 TNX [Old man, Thanks]^
+OM |S1000 FB [Old man, Fine business]^
+OM |S1000 QSB [Old man, Q S B]^
+OM |S1000 HW [Old man, How]^
+CPY |S1000 BEAM [Copy, Beam]^
+DIPOLE |S1000 CPY [Dipole, Copy]^
+CUL |S1000 DX [See you later, D X]^
+ANT |S1000 SRI [Antenna, Sorry]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+HPE |S1000 QRL [Hope, Q R L]^
+DIPOLE |S1000 DX [Dipole, D X]^
+HW |S1000 OM [How, Old man]^
+CPY |S1000 OM [Copy, Old man]^
+QRN |S1000 CPY [Noise, Copy]^
+OM |S1000 CPY [Old man, Copy]^
+DX |S1000 QSB [D X, Q S B]^
+CPI |S1000 OM [Copy, Old man]^
+BEAM |S1000 OM [Beam, Old man]^
+CUL |S1000 DIPOLE [See you later, Dipole]^
+CUL |S1000 HPE [See you later, Hope]^
+HW |S1000 SRI [How, Sorry]^
+OM |S1000 BEAM [Old man, Beam]^
+CUL |S1000 FB [See you later, Fine business]^
+BEAM |S1000 SIG [Beam, Signal]^
+OM |S1000 HW [Old man, How]^
+QRL |S1000 OM [Q R L, Old man]^
+BTU |S1000 HW [Back to you, How]^
+FB |S1000 QSB [Fine business, Q S B]^
+OM |S1000 DX [Old man, D X]^
+QRL |S1000 ANT [Q R L, Antenna]^
+OM |S1000 CUL [Old man, See you later]^
+SIG |S1000 OM [Signal, Old man]^
+SIG |S1000 OM [Signal, Old man]^
+CPY |S1000 OM [Copy, Old man]^
+QRL |S1000 BEAM [Q R L, Beam]^
+OM |S1000 DX [Old man, D X]^
+OM |S1000 QRL [Old man, Q R L]^
+OM |S1000 DX [Old man, D X]^
+SRI |S1000 QRN [Sorry, Noise]^
+OM |S1000 CUL [Old man, See you later]^
+CPY |S1000 BEAM [Copy, Beam]^
+OM |S1000 BTU [Old man, Back to you]^
+CPI |S1000 OM [Copy, Old man]^
+QRN |S1000 FB [Noise, Fine business]^
+OM |S1000 CUL [Old man, See you later]^
+QRN |S1000 OM [Noise, Old man]^
+CPY |S1000 FB [Copy, Fine business]^
+QRN |S1000 OM [Noise, Old man]^
+ANT |S1000 QRL [Antenna, Q R L]^
+FB |S1000 CPI [Fine business, Copy]^
+OM |S1000 QRL [Old man, Q R L]^
+SRI |S1000 OM [Sorry, Old man]^
+FB |S1000 OM [Fine business, Old man]^
+TNX |S1000 OM [Thanks, Old man]^
+HPE |S1000 DIPOLE [Hope, Dipole]^
+TNX |S1000 CUL [Thanks, See you later]^
+HPE |S1000 OM [Hope, Old man]^
+SIG |S1000 CPI [Signal, Copy]^
+OM |S1000 QSB [Old man, Q S B]^
+OM |S1000 SRI [Old man, Sorry]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+OM |S1000 DX [Old man, D X]^
+QRL |S1000 BTU [Q R L, Back to you]^
+SRI |S1000 OM [Sorry, Old man]^
+HW |S1000 QRN [How, Noise]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+DX |S1000 QRL [D X, Q R L]^
+SRI |S1000 OM [Sorry, Old man]^
+BTU |S1000 OM [Back to you, Old man]^
+DIPOLE |S1000 OM [Dipole, Old man]^
+BTU |S1000 SRI [Back to you, Sorry]^
+HW |S1000 OM [How, Old man]^
+CPY |S1000 OM [Copy, Old man]^
+QRL |S1000 DX [Q R L, D X]^
+FB |S1000 BTU [Fine business, Back to you]^
+OM |S1000 BTU [Old man, Back to you]^
+OM |S1000 QRN [Old man, Noise]^
+OM |S1000 FB [Old man, Fine business]^
+SIG |S1000 FB [Signal, Fine business]^
+OM |S1000 BTU [Old man, Back to you]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+HPE |S1000 QRL [Hope, Q R L]^
+SIG |S1000 OM [Signal, Old man]^
+QRL |S1000 SRI [Q R L, Sorry]^
+OM |S1000 CPI [Old man, Copy]^

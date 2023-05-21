@@ -1,0 +1,600 @@
+RPRT [Report]^
+72 [72]^
+359 [3 5 9]^
+RPRT [Report]^
+INFO [Information]^
+NW [Now]^
+INFO [Information]^
+1TT [100]^
+589 [5 8 9]^
+SWR [S W R]^
+RPRT [Report]^
+1TT [100]^
+RPRT [Report]^
+WIRE [Wire]^
+589 [5 8 9]^
+LOOP [Loop]^
+NW [Now]^
+72 [72]^
+GD [Good]^
+579 [5 7 9]^
+GD [Good]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+RPRT [Report]^
+72 [72]^
+489 [4 8 9]^
+RPRT [Report]^
+LOOP [Loop]^
+RPRT [Report]^
+72 [72]^
+RPRT [Report]^
+359 [3 5 9]^
+RPRT [Report]^
+589 [5 8 9]^
+RPRT [Report]^
+579 [5 7 9]^
+RPRT [Report]^
+INFO [Information]^
+RPRT [Report]^
+1TT [100]^
+RPRT [Report]^
+INFO [Information]^
+WIRE [Wire]^
+RPRT [Report]^
+GN [Good night]^
+GD [Good]^
+INFO [Information]^
+RPRT [Report]^
+INFO [Information]^
+RPRT [Report]^
+88 [88]^
+OCF [Off-center fed dipole]^
+RPRT [Report]^
+359 [3 5 9]^
+RPRT [Report]^
+GN [Good night]^
+WATT [Watt]^
+RPRT [Report]^
+GD [Good]^
+GB [Goodbye]^
+RPRT [Report]^
+WATT [Watt]^
+RPRT [Report]^
+GB [Goodbye]^
+SWR [S W R]^
+88 [88]^
+SWR [S W R]^
+GD [Good]^
+WIRE [Wire]^
+NW [Now]^
+RPRT [Report]^
+CW [C W]^
+RPRT [Report]^
+589 [5 8 9]^
+RPRT [Report]^
+GB [Goodbye]^
+SWR [S W R]^
+359 [3 5 9]^
+RPRT [Report]^
+SWR [S W R]^
+RPRT [Report]^
+1TT [100]^
+GB [Goodbye]^
+RPRT [Report]^
+WATT [Watt]^
+INFO [Information]^
+GN [Good night]^
+RPRT [Report]^
+589 [5 8 9]^
+579 [5 7 9]^
+489 [4 8 9]^
+RPRT [Report]^
+359 [3 5 9]^
+RPRT [Report]^
+GD [Good]^
+SWR [S W R]^
+RPRT [Report]^
+579 [5 7 9]^
+589 [5 8 9]^
+WIRE [Wire]^
+LOOP [Loop]^
+589 [5 8 9]^
+RPRT [Report]^
+LOOP [Loop]^
+INFO [Information]^
+RPRT [Report]^
+359 [3 5 9]^
+SSB [Single Side Band]^
+WIRE [Wire]^
+RPRT [Report]^
+WATT [Watt]^
+479 [4 7 9]^
+RPRT [Report]^
+359 [3 5 9]^
+88 [88]^
+RPRT [Report]^
+589 [5 8 9]^
+GN [Good night]^
+RPRT [Report]^
+GN [Good night]^
+RPRT [Report]^
+88 [88]^
+INFO [Information]^
+CW [C W]^
+RPRT [Report]^
+WATT [Watt]^
+359 [3 5 9]^
+RPRT [Report]^
+SSB [Single Side Band]^
+RPRT [Report]^
+1TT [100]^
+RPRT [Report]^
+SSB [Single Side Band]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+589 [5 8 9]^
+489 [4 8 9]^
+RPRT [Report]^
+1TT [100]^
+WATT [Watt]^
+INFO [Information]^
+WIRE [Wire]^
+RPRT [Report]^
+INFO [Information]^
+SSB [Single Side Band]^
+RPRT [Report]^
+GD [Good]^
+SSB [Single Side Band]^
+RPRT [Report]^
+479 [4 7 9]^
+SWR [S W R]^
+1TT [100]^
+RPRT [Report]^
+SSB [Single Side Band]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+RPRT [Report]^
+589 [5 8 9]^
+RPRT [Report]^
+359 [3 5 9]^
+RPRT [Report]^
+CW [C W]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+589 [5 8 9]^
+GN [Good night]^
+RPRT [Report]^
+72 [72]^
+489 [4 8 9]^
+589 [5 8 9]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+RPRT [Report]^
+SWR [S W R]^
+489 [4 8 9]^
+LOOP [Loop]^
+1TT [100]^
+RPRT [Report]^
+72 [72]^
+RPRT [Report]^
+SSB [Single Side Band]^
+RPRT [Report]^
+479 [4 7 9]^
+RPRT [Report]^
+NW [Now]^
+WATT [Watt]^
+RPRT [Report]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+RPRT [Report]^
+SWR [S W R]^
+RPRT [Report]^
+489 [4 8 9]^
+GD [Good]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+SSB [Single Side Band]^
+GN [Good night]^
+WIRE [Wire]^
+RPRT [Report]^
+479 [4 7 9]^
+SWR [S W R]^
+479 [4 7 9]^
+88 [88]^
+489 [4 8 9]^
+WATT [Watt]^
+RPRT [Report]^
+359 [3 5 9]^
+579 [5 7 9]^
+SWR [S W R]^
+489 [4 8 9]^
+72 [72]^
+RPRT [Report]^
+579 [5 7 9]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+SWR [S W R]^
+SSB [Single Side Band]^
+NW [Now]^
+SSB [Single Side Band]^
+589 [5 8 9]^
+RPRT [Report]^
+GD [Good]^
+589 [5 8 9]^
+RPRT [Report]^
+GB [Goodbye]^
+WATT [Watt]^
+LOOP [Loop]^
+WIRE [Wire]^
+579 [5 7 9]^
+RPRT [Report]^
+SWR [S W R]^
+RPRT [Report]^
+NW [Now]^
+88 [88]^
+RPRT [Report]^
+GB [Goodbye]^
+RPRT [Report]^
+WIRE [Wire]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+SSB [Single Side Band]^
+INFO [Information]^
+RPRT [Report]^
+GN [Good night]^
+RPRT [Report]^
+GB [Goodbye]^
+1TT [100]^
+RPRT [Report]^
+589 [5 8 9]^
+RPRT [Report]^
+589 [5 8 9]^
+SSB [Single Side Band]^
+OCF [Off-center fed dipole]^
+RPRT [Report]^
+359 [3 5 9]^
+RPRT [Report]^
+GD [Good]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+RPRT [Report]^
+72 [72]^
+RPRT [Report]^
+NW [Now]^
+RPRT [Report]^
+LOOP [Loop]^
+88 [88]^
+72 [72]^
+479 [4 7 9]^
+INFO [Information]^
+479 [4 7 9]^
+RPRT [Report]^
+GD [Good]^
+RPRT [Report]^
+GB [Goodbye]^
+WIRE [Wire]^
+RPRT [Report]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+RPRT [Report]^
+88 [88]^
+72 [72]^
+RPRT [Report]^
+589 [5 8 9]^
+WATT [Watt]^
+RPRT [Report]^
+GD [Good]^
+RPRT [Report]^
+INFO [Information]^
+WATT [Watt]^
+RPRT [Report]^
+SWR [S W R]^
+CW [C W]^
+RPRT [Report]^
+CW [C W]^
+SSB [Single Side Band]^
+GN [Good night]^
+WIRE [Wire]^
+589 [5 8 9]^
+RPRT [Report]^
+LOOP [Loop]^
+SSB [Single Side Band]^
+SWR [S W R]^
+589 [5 8 9]^
+RPRT [Report]^
+SSB [Single Side Band]^
+RPRT [Report]^
+WATT [Watt]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+RPRT [Report]^
+GN [Good night]^
+RPRT [Report]^
+88 [88]^
+CW [C W]^
+RPRT [Report]^
+NW [Now]^
+RPRT [Report]^
+72 [72]^
+RPRT [Report]^
+88 [88]^
+RPRT [Report]^
+479 [4 7 9]^
+589 [5 8 9]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+LOOP [Loop]^
+RPRT [Report]^
+INFO [Information]^
+RPRT [Report]^
+WATT [Watt]^
+88 [88]^
+INFO [Information]^
+489 [4 8 9]^
+RPRT [Report]^
+489 [4 8 9]^
+RPRT [Report]^
+479 [4 7 9]^
+GD [Good]^
+RPRT [Report]^
+SWR [S W R]^
+72 [72]^
+RPRT [Report]^
+88 [88]^
+INFO [Information]^
+RPRT [Report]^
+1TT [100]^
+RPRT [Report]^
+589 [5 8 9]^
+RPRT [Report]^
+SWR [S W R]^
+SSB [Single Side Band]^
+479 [4 7 9]^
+RPRT [Report]^
+589 [5 8 9]^
+SWR [S W R]^
+SSB [Single Side Band]^
+RPRT [Report]^
+LOOP [Loop]^
+INFO [Information]^
+NW [Now]^
+INFO [Information]^
+489 [4 8 9]^
+WATT [Watt]^
+INFO [Information]^
+SWR [S W R]^
+WIRE [Wire]^
+589 [5 8 9]^
+RPRT [Report]^
+489 [4 8 9]^
+RPRT [Report]^
+579 [5 7 9]^
+CW [C W]^
+GB [Goodbye]^
+72 [72]^
+OCF [Off-center fed dipole]^
+RPRT [Report]^
+88 [88]^
+GN [Good night]^
+RPRT [Report]^
+1TT [100]^
+RPRT [Report]^
+88 [88]^
+359 [3 5 9]^
+RPRT [Report]^
+INFO [Information]^
+RPRT [Report]^
+72 [72]^
+SSB [Single Side Band]^
+RPRT [Report]^
+1TT [100]^
+RPRT [Report]^
+WATT [Watt]^
+RPRT [Report]^
+CW [C W]^
+88 [88]^
+RPRT [Report]^
+489 [4 8 9]^
+SWR [S W R]^
+489 [4 8 9]^
+RPRT [Report]^
+479 [4 7 9]^
+NW [Now]^
+RPRT [Report]^
+WIRE [Wire]^
+GD [Good]^
+489 [4 8 9]^
+GD [Good]^
+RPRT [Report]^
+LOOP [Loop]^
+RPRT [Report]^
+WATT [Watt]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+RPRT [Report]^
+88 [88]^
+RPRT [Report]^
+SSB [Single Side Band]^
+GN [Good night]^
+RPRT [Report]^
+LOOP [Loop]^
+489 [4 8 9]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+88 [88]^
+WIRE [Wire]^
+RPRT [Report]^
+72 [72]^
+OCF [Off-center fed dipole]^
+SSB [Single Side Band]^
+GD [Good]^
+RPRT [Report]^
+589 [5 8 9]^
+489 [4 8 9]^
+479 [4 7 9]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+WATT [Watt]^
+RPRT [Report]^
+479 [4 7 9]^
+RPRT [Report]^
+GB [Goodbye]^
+359 [3 5 9]^
+RPRT [Report]^
+88 [88]^
+479 [4 7 9]^
+RPRT [Report]^
+72 [72]^
+WATT [Watt]^
+RPRT [Report]^
+WIRE [Wire]^
+RPRT [Report]^
+1TT [100]^
+RPRT [Report]^
+INFO [Information]^
+RPRT [Report]^
+1TT [100]^
+GN [Good night]^
+RPRT [Report]^
+589 [5 8 9]^
+489 [4 8 9]^
+88 [88]^
+RPRT [Report]^
+INFO [Information]^
+579 [5 7 9]^
+RPRT [Report]^
+LOOP [Loop]^
+RPRT [Report]^
+579 [5 7 9]^
+88 [88]^
+RPRT [Report]^
+GB [Goodbye]^
+RPRT [Report]^
+72 [72]^
+RPRT [Report]^
+359 [3 5 9]^
+RPRT [Report]^
+CW [C W]^
+RPRT [Report]^
+SSB [Single Side Band]^
+RPRT [Report]^
+579 [5 7 9]^
+RPRT [Report]^
+WIRE [Wire]^
+88 [88]^
+359 [3 5 9]^
+GD [Good]^
+RPRT [Report]^
+INFO [Information]^
+359 [3 5 9]^
+RPRT [Report]^
+GN [Good night]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+RPRT [Report]^
+72 [72]^
+RPRT [Report]^
+SWR [S W R]^
+WATT [Watt]^
+RPRT [Report]^
+WIRE [Wire]^
+OCF [Off-center fed dipole]^
+RPRT [Report]^
+489 [4 8 9]^
+RPRT [Report]^
+579 [5 7 9]^
+RPRT [Report]^
+88 [88]^
+1TT [100]^
+88 [88]^
+NW [Now]^
+359 [3 5 9]^
+RPRT [Report]^
+GB [Goodbye]^
+SWR [S W R]^
+WIRE [Wire]^
+RPRT [Report]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+WIRE [Wire]^
+RPRT [Report]^
+589 [5 8 9]^
+489 [4 8 9]^
+SSB [Single Side Band]^
+88 [88]^
+RPRT [Report]^
+SSB [Single Side Band]^
+RPRT [Report]^
+489 [4 8 9]^
+RPRT [Report]^
+GB [Goodbye]^
+SWR [S W R]^
+RPRT [Report]^
+359 [3 5 9]^
+RPRT [Report]^
+SSB [Single Side Band]^
+RPRT [Report]^
+WATT [Watt]^
+RPRT [Report]^
+WIRE [Wire]^
+GN [Good night]^
+LOOP [Loop]^
+GD [Good]^
+WATT [Watt]^
+GD [Good]^
+1TT [100]^
+479 [4 7 9]^
+RPRT [Report]^
+GN [Good night]^
+RPRT [Report]^
+479 [4 7 9]^
+RPRT [Report]^
+88 [88]^
+RPRT [Report]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+RPRT [Report]^
+GD [Good]^
+72 [72]^
+589 [5 8 9]^
+SWR [S W R]^
+RPRT [Report]^
+GD [Good]^
+359 [3 5 9]^
+RPRT [Report]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+589 [5 8 9]^
+479 [4 7 9]^
+SSB [Single Side Band]^
+INFO [Information]^
+88 [88]^
+RPRT [Report]^
+589 [5 8 9]^
+RPRT [Report]^
+LOOP [Loop]^
+RPRT [Report]^
+1TT [100]^
+72 [72]^
+RPRT [Report]^
+GD [Good]^
+72 [72]^
+RPRT [Report]^
+WATT [Watt]^
+GN [Good night]^
+72 [72]^
+RPRT [Report]^
+359 [3 5 9]^
+RPRT [Report]^
+72 [72]^
+RPRT [Report]^
+359 [3 5 9]^
+RPRT [Report]^
+72 [72]^
+NW [Now]^
+RPRT [Report]^

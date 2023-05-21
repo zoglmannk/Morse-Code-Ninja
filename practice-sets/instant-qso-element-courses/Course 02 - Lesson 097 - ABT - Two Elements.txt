@@ -1,0 +1,600 @@
+PWR |S1000 CPI [Power, Copy]^
+ABT |S1000 QRN [About, Noise]^
+SIG |S1000 HV [Signal, Have]^
+QSB |S1000 CPI [Q S B, Copy]^
+ABT |S1000 TEMP [About, Temperature]^
+ABT |S1000 RIG [About, Rig]^
+DX |S1000 HPE [D X, Hope]^
+PWR |S1000 ABT [Power, About]^
+HV |S1000 TNX [Have, Thanks]^
+ABT |S1000 QSB [About, Q S B]^
+CUL |S1000 ABT [See you later, About]^
+DX |S1000 CPY [D X, Copy]^
+ABT |S1000 CPI [About, Copy]^
+RIG |S1000 PWR [Rig, Power]^
+ABT |S1000 CPI [About, Copy]^
+ABT |S1000 FB [About, Fine business]^
+CUL |S1000 ABT [See you later, About]^
+SRI |S1000 HPE [Sorry, Hope]^
+ANT |S1000 DX [Antenna, D X]^
+ABT |S1000 OM [About, Old man]^
+QRN |S1000 OM [Noise, Old man]^
+CUL |S1000 ABT [See you later, About]^
+HPE |S1000 ABT [Hope, About]^
+QSB |S1000 ABT [Q S B, About]^
+SIG |S1000 PWR [Signal, Power]^
+FB |S1000 ABT [Fine business, About]^
+QSB |S1000 ABT [Q S B, About]^
+ANT |S1000 ABT [Antenna, About]^
+QSB |S1000 SIG [Q S B, Signal]^
+CPY |S1000 RIG [Copy, Rig]^
+HV |S1000 ABT [Have, About]^
+HPE |S1000 ABT [Hope, About]^
+CPI |S1000 SIG [Copy, Signal]^
+QRL |S1000 CPY [Q R L, Copy]^
+XYL |S1000 ABT [Wife, About]^
+OM |S1000 ABT [Old man, About]^
+DX |S1000 ABT [D X, About]^
+ANT |S1000 GL [Antenna, Good luck]^
+QSB |S1000 ABT [Q S B, About]^
+RIG |S1000 ABT [Rig, About]^
+SRI |S1000 XYL [Sorry, Wife]^
+CPY |S1000 CUL [Copy, See you later]^
+ABT |S1000 CUL [About, See you later]^
+ABT |S1000 QRN [About, Noise]^
+GL |S1000 ABT [Good luck, About]^
+DIPOLE |S1000 CUL [Dipole, See you later]^
+ABT |S1000 QRN [About, Noise]^
+PWR |S1000 QRL [Power, Q R L]^
+FB |S1000 ABT [Fine business, About]^
+DX |S1000 HW [D X, How]^
+CPY |S1000 ABT [Copy, About]^
+FB |S1000 HW [Fine business, How]^
+ABT |S1000 QSB [About, Q S B]^
+HV |S1000 GL [Have, Good luck]^
+ANT |S1000 SRI [Antenna, Sorry]^
+ABT |S1000 BTU [About, Back to you]^
+HW |S1000 CPI [How, Copy]^
+ABT |S1000 CUL [About, See you later]^
+ABT |S1000 DIPOLE [About, Dipole]^
+ABT |S1000 CUL [About, See you later]^
+QRL |S1000 ABT [Q R L, About]^
+HW |S1000 TEMP [How, Temperature]^
+ABT |S1000 FB [About, Fine business]^
+ABT |S1000 HPE [About, Hope]^
+ABT |S1000 BEAM [About, Beam]^
+ANT |S1000 ABT [Antenna, About]^
+TEMP |S1000 DX [Temperature, D X]^
+ABT |S1000 ANT [About, Antenna]^
+ABT |S1000 GL [About, Good luck]^
+FB |S1000 SIG [Fine business, Signal]^
+ABT |S1000 FB [About, Fine business]^
+ABT |S1000 QRN [About, Noise]^
+ABT |S1000 TEMP [About, Temperature]^
+SRI |S1000 GL [Sorry, Good luck]^
+BEAM |S1000 ABT [Beam, About]^
+TNX |S1000 RIG [Thanks, Rig]^
+DX |S1000 ABT [D X, About]^
+DIPOLE |S1000 ABT [Dipole, About]^
+FB |S1000 ABT [Fine business, About]^
+DIPOLE |S1000 FB [Dipole, Fine business]^
+HV |S1000 QRL [Have, Q R L]^
+BEAM |S1000 ABT [Beam, About]^
+TEMP |S1000 ABT [Temperature, About]^
+GL |S1000 QSB [Good luck, Q S B]^
+ABT |S1000 HPE [About, Hope]^
+ABT |S1000 PWR [About, Power]^
+ABT |S1000 RIG [About, Rig]^
+HW |S1000 ABT [How, About]^
+OM |S1000 DX [Old man, D X]^
+GL |S1000 ABT [Good luck, About]^
+TNX |S1000 FB [Thanks, Fine business]^
+TEMP |S1000 PWR [Temperature, Power]^
+ABT |S1000 CUL [About, See you later]^
+ABT |S1000 HPE [About, Hope]^
+ABT |S1000 TEMP [About, Temperature]^
+DIPOLE |S1000 PWR [Dipole, Power]^
+DX |S1000 ABT [D X, About]^
+CUL |S1000 SIG [See you later, Signal]^
+CUL |S1000 ABT [See you later, About]^
+XYL |S1000 BEAM [Wife, Beam]^
+SRI |S1000 ABT [Sorry, About]^
+HPE |S1000 ABT [Hope, About]^
+SIG |S1000 PWR [Signal, Power]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+OM |S1000 CPY [Old man, Copy]^
+ABT |S1000 DIPOLE [About, Dipole]^
+HW |S1000 ABT [How, About]^
+SRI |S1000 RIG [Sorry, Rig]^
+ABT |S1000 QRN [About, Noise]^
+HV |S1000 PWR [Have, Power]^
+ABT |S1000 TEMP [About, Temperature]^
+SRI |S1000 RIG [Sorry, Rig]^
+HV |S1000 FB [Have, Fine business]^
+ABT |S1000 SIG [About, Signal]^
+DIPOLE |S1000 ABT [Dipole, About]^
+HV |S1000 SRI [Have, Sorry]^
+CUL |S1000 ABT [See you later, About]^
+ANT |S1000 ABT [Antenna, About]^
+QRN |S1000 ABT [Noise, About]^
+CUL |S1000 ABT [See you later, About]^
+PWR |S1000 ABT [Power, About]^
+TNX |S1000 ABT [Thanks, About]^
+FB |S1000 TNX [Fine business, Thanks]^
+ABT |S1000 FB [About, Fine business]^
+SIG |S1000 QRL [Signal, Q R L]^
+DIPOLE |S1000 ABT [Dipole, About]^
+DIPOLE |S1000 HV [Dipole, Have]^
+ABT |S1000 RIG [About, Rig]^
+QSB |S1000 ABT [Q S B, About]^
+HV |S1000 ABT [Have, About]^
+SRI |S1000 XYL [Sorry, Wife]^
+ABT |S1000 DIPOLE [About, Dipole]^
+HW |S1000 QSB [How, Q S B]^
+BEAM |S1000 TNX [Beam, Thanks]^
+ANT |S1000 SRI [Antenna, Sorry]^
+HW |S1000 OM [How, Old man]^
+SRI |S1000 ABT [Sorry, About]^
+HV |S1000 ABT [Have, About]^
+BEAM |S1000 HV [Beam, Have]^
+DX |S1000 HV [D X, Have]^
+ABT |S1000 PWR [About, Power]^
+HV |S1000 XYL [Have, Wife]^
+ABT |S1000 SIG [About, Signal]^
+ABT |S1000 GL [About, Good luck]^
+OM |S1000 ABT [Old man, About]^
+GL |S1000 QRN [Good luck, Noise]^
+BTU |S1000 ABT [Back to you, About]^
+CPI |S1000 ABT [Copy, About]^
+BEAM |S1000 ABT [Beam, About]^
+CUL |S1000 ABT [See you later, About]^
+DIPOLE |S1000 TEMP [Dipole, Temperature]^
+ABT |S1000 QRN [About, Noise]^
+ABT |S1000 ANT [About, Antenna]^
+FB |S1000 ANT [Fine business, Antenna]^
+ABT |S1000 DIPOLE [About, Dipole]^
+XYL |S1000 FB [Wife, Fine business]^
+HV |S1000 BEAM [Have, Beam]^
+ABT |S1000 HPE [About, Hope]^
+ABT |S1000 CPI [About, Copy]^
+XYL |S1000 TNX [Wife, Thanks]^
+ABT |S1000 CPI [About, Copy]^
+ABT |S1000 DIPOLE [About, Dipole]^
+CPY |S1000 ABT [Copy, About]^
+BTU |S1000 HPE [Back to you, Hope]^
+DIPOLE |S1000 HW [Dipole, How]^
+CUL |S1000 QRL [See you later, Q R L]^
+HW |S1000 FB [How, Fine business]^
+ABT |S1000 CPI [About, Copy]^
+GL |S1000 QSB [Good luck, Q S B]^
+DX |S1000 ABT [D X, About]^
+CPY |S1000 RIG [Copy, Rig]^
+ABT |S1000 QRN [About, Noise]^
+BTU |S1000 SRI [Back to you, Sorry]^
+ABT |S1000 GL [About, Good luck]^
+ABT |S1000 PWR [About, Power]^
+HV |S1000 CPI [Have, Copy]^
+XYL |S1000 QRL [Wife, Q R L]^
+BTU |S1000 FB [Back to you, Fine business]^
+ABT |S1000 GL [About, Good luck]^
+ABT |S1000 ANT [About, Antenna]^
+OM |S1000 HV [Old man, Have]^
+ABT |S1000 GL [About, Good luck]^
+TNX |S1000 QRL [Thanks, Q R L]^
+OM |S1000 ABT [Old man, About]^
+QSB |S1000 DX [Q S B, D X]^
+ABT |S1000 BTU [About, Back to you]^
+ABT |S1000 QRN [About, Noise]^
+CPY |S1000 QSB [Copy, Q S B]^
+ABT |S1000 HW [About, How]^
+ABT |S1000 OM [About, Old man]^
+QRN |S1000 HPE [Noise, Hope]^
+FB |S1000 XYL [Fine business, Wife]^
+ABT |S1000 QRL [About, Q R L]^
+ABT |S1000 QSB [About, Q S B]^
+TNX |S1000 ABT [Thanks, About]^
+CPY |S1000 HPE [Copy, Hope]^
+ABT |S1000 ANT [About, Antenna]^
+ABT |S1000 CUL [About, See you later]^
+CPI |S1000 CUL [Copy, See you later]^
+QRL |S1000 DIPOLE [Q R L, Dipole]^
+ABT |S1000 HW [About, How]^
+HPE |S1000 HW [Hope, How]^
+ABT |S1000 BTU [About, Back to you]^
+ABT |S1000 TNX [About, Thanks]^
+ABT |S1000 CPI [About, Copy]^
+ABT |S1000 BTU [About, Back to you]^
+QRN |S1000 HPE [Noise, Hope]^
+TNX |S1000 BEAM [Thanks, Beam]^
+QRL |S1000 ABT [Q R L, About]^
+HV |S1000 ABT [Have, About]^
+CUL |S1000 QRL [See you later, Q R L]^
+TNX |S1000 ABT [Thanks, About]^
+DIPOLE |S1000 ABT [Dipole, About]^
+XYL |S1000 ABT [Wife, About]^
+CPI |S1000 HW [Copy, How]^
+BEAM |S1000 OM [Beam, Old man]^
+TEMP |S1000 CPY [Temperature, Copy]^
+ABT |S1000 GL [About, Good luck]^
+ABT |S1000 SIG [About, Signal]^
+FB |S1000 ABT [Fine business, About]^
+QRN |S1000 ABT [Noise, About]^
+SRI |S1000 QSB [Sorry, Q S B]^
+ABT |S1000 QSB [About, Q S B]^
+PWR |S1000 CPI [Power, Copy]^
+ABT |S1000 XYL [About, Wife]^
+HV |S1000 CUL [Have, See you later]^
+GL |S1000 FB [Good luck, Fine business]^
+XYL |S1000 ABT [Wife, About]^
+CPY |S1000 SRI [Copy, Sorry]^
+BTU |S1000 ABT [Back to you, About]^
+BTU |S1000 DX [Back to you, D X]^
+OM |S1000 BTU [Old man, Back to you]^
+ABT |S1000 CUL [About, See you later]^
+XYL |S1000 ABT [Wife, About]^
+OM |S1000 ABT [Old man, About]^
+DX |S1000 ABT [D X, About]^
+HPE |S1000 CPI [Hope, Copy]^
+SRI |S1000 ABT [Sorry, About]^
+BEAM |S1000 ABT [Beam, About]^
+XYL |S1000 BTU [Wife, Back to you]^
+ABT |S1000 HW [About, How]^
+HPE |S1000 CPI [Hope, Copy]^
+BTU |S1000 BEAM [Back to you, Beam]^
+DIPOLE |S1000 ABT [Dipole, About]^
+QRN |S1000 SIG [Noise, Signal]^
+OM |S1000 CUL [Old man, See you later]^
+OM |S1000 PWR [Old man, Power]^
+HPE |S1000 OM [Hope, Old man]^
+BEAM |S1000 ABT [Beam, About]^
+OM |S1000 DIPOLE [Old man, Dipole]^
+ABT |S1000 GL [About, Good luck]^
+ABT |S1000 CPI [About, Copy]^
+XYL |S1000 ABT [Wife, About]^
+CUL |S1000 CPY [See you later, Copy]^
+ABT |S1000 HV [About, Have]^
+ABT |S1000 SIG [About, Signal]^
+ABT |S1000 OM [About, Old man]^
+RIG |S1000 QSB [Rig, Q S B]^
+ABT |S1000 DIPOLE [About, Dipole]^
+FB |S1000 BEAM [Fine business, Beam]^
+ABT |S1000 HW [About, How]^
+ABT |S1000 HV [About, Have]^
+OM |S1000 ABT [Old man, About]^
+QSB |S1000 CPI [Q S B, Copy]^
+PWR |S1000 QRN [Power, Noise]^
+XYL |S1000 ABT [Wife, About]^
+DIPOLE |S1000 ABT [Dipole, About]^
+XYL |S1000 ABT [Wife, About]^
+FB |S1000 ABT [Fine business, About]^
+GL |S1000 CPI [Good luck, Copy]^
+ABT |S1000 HV [About, Have]^
+ABT |S1000 ANT [About, Antenna]^
+ABT |S1000 BTU [About, Back to you]^
+ABT |S1000 DX [About, D X]^
+ABT |S1000 TNX [About, Thanks]^
+QRL |S1000 TEMP [Q R L, Temperature]^
+FB |S1000 ANT [Fine business, Antenna]^
+OM |S1000 GL [Old man, Good luck]^
+ABT |S1000 FB [About, Fine business]^
+SRI |S1000 ABT [Sorry, About]^
+CPI |S1000 HV [Copy, Have]^
+ABT |S1000 OM [About, Old man]^
+ABT |S1000 TNX [About, Thanks]^
+HV |S1000 ABT [Have, About]^
+QRN |S1000 ABT [Noise, About]^
+SIG |S1000 GL [Signal, Good luck]^
+ABT |S1000 SIG [About, Signal]^
+ABT |S1000 FB [About, Fine business]^
+BEAM |S1000 DX [Beam, D X]^
+HW |S1000 RIG [How, Rig]^
+BTU |S1000 ABT [Back to you, About]^
+GL |S1000 ABT [Good luck, About]^
+XYL |S1000 SIG [Wife, Signal]^
+CUL |S1000 RIG [See you later, Rig]^
+ABT |S1000 CPY [About, Copy]^
+ABT |S1000 BEAM [About, Beam]^
+ABT |S1000 CPI [About, Copy]^
+ANT |S1000 ABT [Antenna, About]^
+BTU |S1000 ABT [Back to you, About]^
+HV |S1000 TNX [Have, Thanks]^
+ABT |S1000 CPY [About, Copy]^
+ABT |S1000 OM [About, Old man]^
+ABT |S1000 HPE [About, Hope]^
+DX |S1000 ABT [D X, About]^
+SIG |S1000 ABT [Signal, About]^
+CPI |S1000 ABT [Copy, About]^
+OM |S1000 GL [Old man, Good luck]^
+ABT |S1000 HPE [About, Hope]^
+RIG |S1000 PWR [Rig, Power]^
+QSB |S1000 TEMP [Q S B, Temperature]^
+PWR |S1000 BTU [Power, Back to you]^
+ABT |S1000 TNX [About, Thanks]^
+ABT |S1000 QRN [About, Noise]^
+ABT |S1000 XYL [About, Wife]^
+ABT |S1000 QSB [About, Q S B]^
+CPY |S1000 QRN [Copy, Noise]^
+TEMP |S1000 BEAM [Temperature, Beam]^
+ABT |S1000 QSB [About, Q S B]^
+CUL |S1000 ABT [See you later, About]^
+FB |S1000 ABT [Fine business, About]^
+BTU |S1000 XYL [Back to you, Wife]^
+ABT |S1000 DX [About, D X]^
+ABT |S1000 TEMP [About, Temperature]^
+ABT |S1000 CPI [About, Copy]^
+QSB |S1000 GL [Q S B, Good luck]^
+PWR |S1000 ABT [Power, About]^
+QRN |S1000 SRI [Noise, Sorry]^
+GL |S1000 HV [Good luck, Have]^
+OM |S1000 PWR [Old man, Power]^
+ABT |S1000 HW [About, How]^
+ABT |S1000 DX [About, D X]^
+HW |S1000 RIG [How, Rig]^
+ABT |S1000 XYL [About, Wife]^
+ABT |S1000 CUL [About, See you later]^
+ABT |S1000 XYL [About, Wife]^
+CPY |S1000 ABT [Copy, About]^
+SRI |S1000 HPE [Sorry, Hope]^
+ABT |S1000 QRL [About, Q R L]^
+FB |S1000 ABT [Fine business, About]^
+PWR |S1000 ABT [Power, About]^
+HPE |S1000 ABT [Hope, About]^
+BEAM |S1000 DX [Beam, D X]^
+OM |S1000 ANT [Old man, Antenna]^
+GL |S1000 ABT [Good luck, About]^
+HV |S1000 QRN [Have, Noise]^
+ABT |S1000 XYL [About, Wife]^
+ABT |S1000 XYL [About, Wife]^
+ABT |S1000 BEAM [About, Beam]^
+ABT |S1000 CPI [About, Copy]^
+DIPOLE |S1000 XYL [Dipole, Wife]^
+DIPOLE |S1000 ABT [Dipole, About]^
+CPI |S1000 ABT [Copy, About]^
+PWR |S1000 BEAM [Power, Beam]^
+ABT |S1000 HW [About, How]^
+BEAM |S1000 GL [Beam, Good luck]^
+XYL |S1000 PWR [Wife, Power]^
+CPY |S1000 ABT [Copy, About]^
+HPE |S1000 ABT [Hope, About]^
+HW |S1000 HPE [How, Hope]^
+ABT |S1000 SIG [About, Signal]^
+DIPOLE |S1000 QRN [Dipole, Noise]^
+TEMP |S1000 ABT [Temperature, About]^
+QSB |S1000 HPE [Q S B, Hope]^
+BTU |S1000 PWR [Back to you, Power]^
+HPE |S1000 ABT [Hope, About]^
+QRN |S1000 ABT [Noise, About]^
+HV |S1000 BEAM [Have, Beam]^
+QSB |S1000 ANT [Q S B, Antenna]^
+HPE |S1000 GL [Hope, Good luck]^
+HV |S1000 ABT [Have, About]^
+FB |S1000 ABT [Fine business, About]^
+BEAM |S1000 ABT [Beam, About]^
+DX |S1000 TEMP [D X, Temperature]^
+ABT |S1000 HPE [About, Hope]^
+CPI |S1000 FB [Copy, Fine business]^
+ABT |S1000 RIG [About, Rig]^
+ABT |S1000 CPI [About, Copy]^
+ABT |S1000 XYL [About, Wife]^
+ABT |S1000 QRN [About, Noise]^
+CPI |S1000 GL [Copy, Good luck]^
+ABT |S1000 ANT [About, Antenna]^
+CUL |S1000 SIG [See you later, Signal]^
+TEMP |S1000 ABT [Temperature, About]^
+QRN |S1000 GL [Noise, Good luck]^
+XYL |S1000 QRL [Wife, Q R L]^
+XYL |S1000 ABT [Wife, About]^
+DX |S1000 DIPOLE [D X, Dipole]^
+FB |S1000 ABT [Fine business, About]^
+PWR |S1000 ABT [Power, About]^
+ANT |S1000 DX [Antenna, D X]^
+QRL |S1000 RIG [Q R L, Rig]^
+ABT |S1000 HV [About, Have]^
+BEAM |S1000 TEMP [Beam, Temperature]^
+HPE |S1000 ABT [Hope, About]^
+HW |S1000 ABT [How, About]^
+GL |S1000 DIPOLE [Good luck, Dipole]^
+PWR |S1000 SIG [Power, Signal]^
+ABT |S1000 BTU [About, Back to you]^
+GL |S1000 SRI [Good luck, Sorry]^
+ABT |S1000 HV [About, Have]^
+ABT |S1000 PWR [About, Power]^
+ABT |S1000 DIPOLE [About, Dipole]^
+ABT |S1000 TEMP [About, Temperature]^
+RIG |S1000 SRI [Rig, Sorry]^
+ABT |S1000 DIPOLE [About, Dipole]^
+CPI |S1000 ABT [Copy, About]^
+TNX |S1000 ABT [Thanks, About]^
+HPE |S1000 QSB [Hope, Q S B]^
+ABT |S1000 DX [About, D X]^
+BTU |S1000 ABT [Back to you, About]^
+GL |S1000 BEAM [Good luck, Beam]^
+DX |S1000 HPE [D X, Hope]^
+DIPOLE |S1000 SIG [Dipole, Signal]^
+ABT |S1000 CPI [About, Copy]^
+ABT |S1000 CUL [About, See you later]^
+ABT |S1000 QRL [About, Q R L]^
+TEMP |S1000 ABT [Temperature, About]^
+XYL |S1000 CUL [Wife, See you later]^
+TNX |S1000 ABT [Thanks, About]^
+HV |S1000 ABT [Have, About]^
+TNX |S1000 HW [Thanks, How]^
+PWR |S1000 HV [Power, Have]^
+CPY |S1000 ABT [Copy, About]^
+FB |S1000 HW [Fine business, How]^
+FB |S1000 ABT [Fine business, About]^
+HW |S1000 ABT [How, About]^
+RIG |S1000 FB [Rig, Fine business]^
+GL |S1000 ABT [Good luck, About]^
+OM |S1000 ABT [Old man, About]^
+RIG |S1000 GL [Rig, Good luck]^
+HPE |S1000 HV [Hope, Have]^
+OM |S1000 FB [Old man, Fine business]^
+ANT |S1000 ABT [Antenna, About]^
+HW |S1000 CUL [How, See you later]^
+SIG |S1000 ANT [Signal, Antenna]^
+ABT |S1000 HW [About, How]^
+ABT |S1000 QRN [About, Noise]^
+ABT |S1000 TNX [About, Thanks]^
+ABT |S1000 GL [About, Good luck]^
+FB |S1000 QRN [Fine business, Noise]^
+RIG |S1000 QSB [Rig, Q S B]^
+ABT |S1000 PWR [About, Power]^
+ABT |S1000 BTU [About, Back to you]^
+PWR |S1000 ABT [Power, About]^
+DX |S1000 CPY [D X, Copy]^
+ABT |S1000 CPY [About, Copy]^
+OM |S1000 ABT [Old man, About]^
+BTU |S1000 ABT [Back to you, About]^
+ANT |S1000 ABT [Antenna, About]^
+HV |S1000 SRI [Have, Sorry]^
+GL |S1000 XYL [Good luck, Wife]^
+ABT |S1000 DX [About, D X]^
+ABT |S1000 ANT [About, Antenna]^
+BEAM |S1000 ABT [Beam, About]^
+DX |S1000 BEAM [D X, Beam]^
+QSB |S1000 ABT [Q S B, About]^
+CPY |S1000 OM [Copy, Old man]^
+FB |S1000 ABT [Fine business, About]^
+DX |S1000 ABT [D X, About]^
+FB |S1000 HPE [Fine business, Hope]^
+ABT |S1000 TNX [About, Thanks]^
+ABT |S1000 HPE [About, Hope]^
+BTU |S1000 ABT [Back to you, About]^
+OM |S1000 ABT [Old man, About]^
+RIG |S1000 TEMP [Rig, Temperature]^
+ABT |S1000 RIG [About, Rig]^
+SIG |S1000 ABT [Signal, About]^
+FB |S1000 QRL [Fine business, Q R L]^
+CPY |S1000 FB [Copy, Fine business]^
+SRI |S1000 GL [Sorry, Good luck]^
+FB |S1000 PWR [Fine business, Power]^
+GL |S1000 OM [Good luck, Old man]^
+CPI |S1000 ABT [Copy, About]^
+QSB |S1000 HV [Q S B, Have]^
+ABT |S1000 CPY [About, Copy]^
+ABT |S1000 TNX [About, Thanks]^
+ABT |S1000 TEMP [About, Temperature]^
+QSB |S1000 ABT [Q S B, About]^
+QSB |S1000 PWR [Q S B, Power]^
+ABT |S1000 TEMP [About, Temperature]^
+ABT |S1000 TEMP [About, Temperature]^
+TNX |S1000 ABT [Thanks, About]^
+QRL |S1000 SIG [Q R L, Signal]^
+ABT |S1000 TNX [About, Thanks]^
+ABT |S1000 TNX [About, Thanks]^
+CPI |S1000 ABT [Copy, About]^
+HW |S1000 QRN [How, Noise]^
+SRI |S1000 DX [Sorry, D X]^
+TEMP |S1000 ABT [Temperature, About]^
+RIG |S1000 TEMP [Rig, Temperature]^
+CPI |S1000 ANT [Copy, Antenna]^
+BTU |S1000 BEAM [Back to you, Beam]^
+RIG |S1000 QRN [Rig, Noise]^
+ABT |S1000 DX [About, D X]^
+ABT |S1000 ANT [About, Antenna]^
+ABT |S1000 QSB [About, Q S B]^
+BEAM |S1000 HV [Beam, Have]^
+ABT |S1000 SIG [About, Signal]^
+QSB |S1000 ABT [Q S B, About]^
+CUL |S1000 ABT [See you later, About]^
+TNX |S1000 HPE [Thanks, Hope]^
+ABT |S1000 BTU [About, Back to you]^
+PWR |S1000 ABT [Power, About]^
+SRI |S1000 XYL [Sorry, Wife]^
+HW |S1000 CPY [How, Copy]^
+ABT |S1000 QRN [About, Noise]^
+DX |S1000 BTU [D X, Back to you]^
+ABT |S1000 TNX [About, Thanks]^
+ABT |S1000 RIG [About, Rig]^
+DX |S1000 FB [D X, Fine business]^
+CPI |S1000 ABT [Copy, About]^
+HV |S1000 ABT [Have, About]^
+TNX |S1000 QRN [Thanks, Noise]^
+BTU |S1000 QRN [Back to you, Noise]^
+HV |S1000 ABT [Have, About]^
+HPE |S1000 QSB [Hope, Q S B]^
+ABT |S1000 QRN [About, Noise]^
+ABT |S1000 RIG [About, Rig]^
+ABT |S1000 OM [About, Old man]^
+SRI |S1000 ABT [Sorry, About]^
+DX |S1000 HPE [D X, Hope]^
+DX |S1000 BEAM [D X, Beam]^
+ABT |S1000 ANT [About, Antenna]^
+HW |S1000 ABT [How, About]^
+TNX |S1000 ABT [Thanks, About]^
+TNX |S1000 DIPOLE [Thanks, Dipole]^
+BTU |S1000 ABT [Back to you, About]^
+OM |S1000 ABT [Old man, About]^
+TNX |S1000 ABT [Thanks, About]^
+TEMP |S1000 FB [Temperature, Fine business]^
+CPI |S1000 BEAM [Copy, Beam]^
+ABT |S1000 TNX [About, Thanks]^
+DX |S1000 ABT [D X, About]^
+OM |S1000 RIG [Old man, Rig]^
+DX |S1000 ABT [D X, About]^
+PWR |S1000 ABT [Power, About]^
+PWR |S1000 ANT [Power, Antenna]^
+CUL |S1000 ABT [See you later, About]^
+RIG |S1000 ANT [Rig, Antenna]^
+ABT |S1000 SRI [About, Sorry]^
+ABT |S1000 DX [About, D X]^
+PWR |S1000 ABT [Power, About]^
+QRL |S1000 ABT [Q R L, About]^
+OM |S1000 QRN [Old man, Noise]^
+ABT |S1000 HV [About, Have]^
+BTU |S1000 CPI [Back to you, Copy]^
+TNX |S1000 CUL [Thanks, See you later]^
+ABT |S1000 HW [About, How]^
+SRI |S1000 CPY [Sorry, Copy]^
+ABT |S1000 ANT [About, Antenna]^
+QRL |S1000 ABT [Q R L, About]^
+FB |S1000 TNX [Fine business, Thanks]^
+DX |S1000 QSB [D X, Q S B]^
+RIG |S1000 ABT [Rig, About]^
+QRL |S1000 CPY [Q R L, Copy]^
+QRL |S1000 ABT [Q R L, About]^
+BEAM |S1000 TEMP [Beam, Temperature]^
+ABT |S1000 BEAM [About, Beam]^
+ABT |S1000 SRI [About, Sorry]^
+QSB |S1000 RIG [Q S B, Rig]^
+ABT |S1000 HV [About, Have]^
+TEMP |S1000 ABT [Temperature, About]^
+BTU |S1000 XYL [Back to you, Wife]^
+ANT |S1000 HPE [Antenna, Hope]^
+QSB |S1000 ABT [Q S B, About]^
+FB |S1000 QRL [Fine business, Q R L]^
+ANT |S1000 ABT [Antenna, About]^
+PWR |S1000 HV [Power, Have]^
+ANT |S1000 ABT [Antenna, About]^
+RIG |S1000 ABT [Rig, About]^
+ANT |S1000 ABT [Antenna, About]^
+BEAM |S1000 TEMP [Beam, Temperature]^
+ABT |S1000 FB [About, Fine business]^
+SIG |S1000 PWR [Signal, Power]^
+SIG |S1000 QRN [Signal, Noise]^
+CPY |S1000 ANT [Copy, Antenna]^
+RIG |S1000 ABT [Rig, About]^
+ANT |S1000 ABT [Antenna, About]^
+RIG |S1000 ABT [Rig, About]^
+ANT |S1000 ABT [Antenna, About]^
+ANT |S1000 SIG [Antenna, Signal]^
+ABT |S1000 QRN [About, Noise]^
+ABT |S1000 HV [About, Have]^
+CUL |S1000 HW [See you later, How]^
+SIG |S1000 ABT [Signal, About]^
+HPE |S1000 ABT [Hope, About]^
+QRL |S1000 HPE [Q R L, Hope]^
+ABT |S1000 QRN [About, Noise]^
+HPE |S1000 TNX [Hope, Thanks]^
+XYL |S1000 BEAM [Wife, Beam]^
+ABT |S1000 GL [About, Good luck]^
+BTU |S1000 CPI [Back to you, Copy]^
+HPE |S1000 DX [Hope, D X]^
+TNX |S1000 HW [Thanks, How]^
+ABT |S1000 CUL [About, See you later]^
+HV |S1000 QRN [Have, Noise]^
+ABT |S1000 XYL [About, Wife]^
+ABT |S1000 GL [About, Good luck]^
+ABT |S1000 TEMP [About, Temperature]^
+TNX |S1000 RIG [Thanks, Rig]^

@@ -1,0 +1,600 @@
+AGE |S1000 WATT [Age, Watt]^
+GD |S1000 88 [Good, 88]^
+WATT |S1000 NW [Watt, Now]^
+AGE |S1000 RPT [Age, Report]^
+AGE |S1000 489 [Age, 4 8 9]^
+AGE |S1000 GD [Age, Good]^
+GB |S1000 RPT [Goodbye, Report]^
+LOOP |S1000 AGE [Loop, Age]^
+359 |S1000 88 [3 5 9, 88]^
+AGE |S1000 OCF [Age, Off-center fed dipole]^
+AGE |S1000 GD [Age, Good]^
+AGE |S1000 88 [Age, 88]^
+1TT |S1000 CW [100, C W]^
+NW |S1000 AGE [Now, Age]^
+INFO |S1000 AGE [Information, Age]^
+QRX |S1000 WATT [Q R X, Watt]^
+AGE |S1000 72 [Age, 72]^
+SWR |S1000 72 [S W R, 72]^
+RPT |S1000 88 [Report, 88]^
+489 |S1000 SSB [4 8 9, Single Side Band]^
+72 |S1000 589 [72, 5 8 9]^
+AGE |S1000 72 [Age, 72]^
+AGE |S1000 WIRE [Age, Wire]^
+AGE |S1000 359 [Age, 3 5 9]^
+RPRT |S1000 SSB [Report, Single Side Band]^
+589 |S1000 AGE [5 8 9, Age]^
+QRX |S1000 RPRT [Q R X, Report]^
+AGE |S1000 72 [Age, 72]^
+AGE |S1000 589 [Age, 5 8 9]^
+GB |S1000 88 [Goodbye, 88]^
+AGE |S1000 589 [Age, 5 8 9]^
+CW |S1000 OCF [C W, Off-center fed dipole]^
+AGE |S1000 1TT [Age, 100]^
+AGE |S1000 INFO [Age, Information]^
+AGE |S1000 359 [Age, 3 5 9]^
+CW |S1000 489 [C W, 4 8 9]^
+579 |S1000 INFO [5 7 9, Information]^
+WATT |S1000 AGE [Watt, Age]^
+RPT |S1000 GN [Report, Good night]^
+AGE |S1000 1TT [Age, 100]^
+CW |S1000 RPT [C W, Report]^
+479 |S1000 AGE [4 7 9, Age]^
+72 |S1000 AGE [72, Age]^
+WIRE |S1000 SWR [Wire, S W R]^
+AGE |S1000 GB [Age, Goodbye]^
+AGE |S1000 OCF [Age, Off-center fed dipole]^
+AGE |S1000 OCF [Age, Off-center fed dipole]^
+SWR |S1000 AGE [S W R, Age]^
+SWR |S1000 AGE [S W R, Age]^
+INFO |S1000 AGE [Information, Age]^
+RPRT |S1000 88 [Report, 88]^
+LOOP |S1000 359 [Loop, 3 5 9]^
+SWR |S1000 1TT [S W R, 100]^
+NW |S1000 AGE [Now, Age]^
+1TT |S1000 GB [100, Goodbye]^
+AGE |S1000 589 [Age, 5 8 9]^
+AGE |S1000 QRX [Age, Q R X]^
+GN |S1000 RPT [Good night, Report]^
+AGE |S1000 QRX [Age, Q R X]^
+AGE |S1000 QRX [Age, Q R X]^
+589 |S1000 579 [5 8 9, 5 7 9]^
+AGE |S1000 LOOP [Age, Loop]^
+SWR |S1000 QRX [S W R, Q R X]^
+AGE |S1000 88 [Age, 88]^
+CW |S1000 GN [C W, Good night]^
+589 |S1000 AGE [5 8 9, Age]^
+NW |S1000 AGE [Now, Age]^
+359 |S1000 589 [3 5 9, 5 8 9]^
+579 |S1000 AGE [5 7 9, Age]^
+SWR |S1000 359 [S W R, 3 5 9]^
+589 |S1000 AGE [5 8 9, Age]^
+QRX |S1000 AGE [Q R X, Age]^
+WIRE |S1000 AGE [Wire, Age]^
+589 |S1000 RPRT [5 8 9, Report]^
+AGE |S1000 72 [Age, 72]^
+SWR |S1000 CW [S W R, C W]^
+AGE |S1000 LOOP [Age, Loop]^
+SWR |S1000 AGE [S W R, Age]^
+GN |S1000 WATT [Good night, Watt]^
+359 |S1000 AGE [3 5 9, Age]^
+LOOP |S1000 GD [Loop, Good]^
+CW |S1000 AGE [C W, Age]^
+INFO |S1000 SWR [Information, S W R]^
+GN |S1000 AGE [Good night, Age]^
+WATT |S1000 GD [Watt, Good]^
+LOOP |S1000 CW [Loop, C W]^
+489 |S1000 359 [4 8 9, 3 5 9]^
+AGE |S1000 GD [Age, Good]^
+NW |S1000 88 [Now, 88]^
+AGE |S1000 GB [Age, Goodbye]^
+479 |S1000 LOOP [4 7 9, Loop]^
+RPRT |S1000 WIRE [Report, Wire]^
+AGE |S1000 INFO [Age, Information]^
+RPRT |S1000 AGE [Report, Age]^
+LOOP |S1000 AGE [Loop, Age]^
+NW |S1000 AGE [Now, Age]^
+489 |S1000 359 [4 8 9, 3 5 9]^
+SWR |S1000 CW [S W R, C W]^
+359 |S1000 AGE [3 5 9, Age]^
+OCF |S1000 AGE [Off-center fed dipole, Age]^
+72 |S1000 589 [72, 5 8 9]^
+AGE |S1000 WATT [Age, Watt]^
+359 |S1000 AGE [3 5 9, Age]^
+479 |S1000 RPRT [4 7 9, Report]^
+AGE |S1000 CW [Age, C W]^
+AGE |S1000 GD [Age, Good]^
+AGE |S1000 LOOP [Age, Loop]^
+GN |S1000 489 [Good night, 4 8 9]^
+GD |S1000 NW [Good, Now]^
+SWR |S1000 AGE [S W R, Age]^
+72 |S1000 AGE [72, Age]^
+GD |S1000 479 [Good, 4 7 9]^
+GB |S1000 AGE [Goodbye, Age]^
+88 |S1000 AGE [88, Age]^
+OCF |S1000 AGE [Off-center fed dipole, Age]^
+SWR |S1000 AGE [S W R, Age]^
+CW |S1000 AGE [C W, Age]^
+CW |S1000 AGE [C W, Age]^
+RPT |S1000 AGE [Report, Age]^
+GN |S1000 AGE [Good night, Age]^
+579 |S1000 RPRT [5 7 9, Report]^
+72 |S1000 INFO [72, Information]^
+RPRT |S1000 WATT [Report, Watt]^
+NW |S1000 RPT [Now, Report]^
+QRX |S1000 AGE [Q R X, Age]^
+WIRE |S1000 AGE [Wire, Age]^
+SWR |S1000 AGE [S W R, Age]^
+SWR |S1000 1TT [S W R, 100]^
+GN |S1000 AGE [Good night, Age]^
+LOOP |S1000 RPRT [Loop, Report]^
+AGE |S1000 589 [Age, 5 8 9]^
+NW |S1000 OCF [Now, Off-center fed dipole]^
+GB |S1000 CW [Goodbye, C W]^
+QRX |S1000 AGE [Q R X, Age]^
+WIRE |S1000 AGE [Wire, Age]^
+NW |S1000 SSB [Now, Single Side Band]^
+AGE |S1000 359 [Age, 3 5 9]^
+489 |S1000 AGE [4 8 9, Age]^
+CW |S1000 AGE [C W, Age]^
+359 |S1000 AGE [3 5 9, Age]^
+CW |S1000 579 [C W, 5 7 9]^
+AGE |S1000 1TT [Age, 100]^
+AGE |S1000 479 [Age, 4 7 9]^
+1TT |S1000 AGE [100, Age]^
+489 |S1000 AGE [4 8 9, Age]^
+NW |S1000 AGE [Now, Age]^
+NW |S1000 AGE [Now, Age]^
+WATT |S1000 AGE [Watt, Age]^
+QRX |S1000 AGE [Q R X, Age]^
+359 |S1000 AGE [3 5 9, Age]^
+QRX |S1000 AGE [Q R X, Age]^
+GN |S1000 AGE [Good night, Age]^
+479 |S1000 OCF [4 7 9, Off-center fed dipole]^
+WATT |S1000 GB [Watt, Goodbye]^
+489 |S1000 AGE [4 8 9, Age]^
+INFO |S1000 AGE [Information, Age]^
+RPRT |S1000 SWR [Report, S W R]^
+489 |S1000 AGE [4 8 9, Age]^
+INFO |S1000 NW [Information, Now]^
+OCF |S1000 CW [Off-center fed dipole, C W]^
+WIRE |S1000 GN [Wire, Good night]^
+INFO |S1000 AGE [Information, Age]^
+589 |S1000 AGE [5 8 9, Age]^
+QRX |S1000 AGE [Q R X, Age]^
+GD |S1000 AGE [Good, Age]^
+489 |S1000 AGE [4 8 9, Age]^
+579 |S1000 WIRE [5 7 9, Wire]^
+INFO |S1000 589 [Information, 5 8 9]^
+479 |S1000 NW [4 7 9, Now]^
+AGE |S1000 479 [Age, 4 7 9]^
+AGE |S1000 SSB [Age, Single Side Band]^
+LOOP |S1000 SSB [Loop, Single Side Band]^
+WIRE |S1000 GB [Wire, Goodbye]^
+RPT |S1000 489 [Report, 4 8 9]^
+WATT |S1000 AGE [Watt, Age]^
+SSB |S1000 WATT [Single Side Band, Watt]^
+72 |S1000 AGE [72, Age]^
+SSB |S1000 AGE [Single Side Band, Age]^
+GB |S1000 AGE [Goodbye, Age]^
+1TT |S1000 88 [100, 88]^
+AGE |S1000 LOOP [Age, Loop]^
+AGE |S1000 RPRT [Age, Report]^
+AGE |S1000 CW [Age, C W]^
+579 |S1000 AGE [5 7 9, Age]^
+LOOP |S1000 489 [Loop, 4 8 9]^
+GB |S1000 AGE [Goodbye, Age]^
+GN |S1000 AGE [Good night, Age]^
+72 |S1000 AGE [72, Age]^
+GB |S1000 OCF [Goodbye, Off-center fed dipole]^
+QRX |S1000 479 [Q R X, 4 7 9]^
+AGE |S1000 RPT [Age, Report]^
+WATT |S1000 OCF [Watt, Off-center fed dipole]^
+88 |S1000 AGE [88, Age]^
+LOOP |S1000 579 [Loop, 5 7 9]^
+RPRT |S1000 1TT [Report, 100]^
+AGE |S1000 489 [Age, 4 8 9]^
+AGE |S1000 GD [Age, Good]^
+AGE |S1000 RPRT [Age, Report]^
+AGE |S1000 1TT [Age, 100]^
+LOOP |S1000 OCF [Loop, Off-center fed dipole]^
+SWR |S1000 LOOP [S W R, Loop]^
+GD |S1000 SSB [Good, Single Side Band]^
+589 |S1000 INFO [5 8 9, Information]^
+AGE |S1000 479 [Age, 4 7 9]^
+579 |S1000 AGE [5 7 9, Age]^
+WATT |S1000 INFO [Watt, Information]^
+AGE |S1000 QRX [Age, Q R X]^
+GD |S1000 AGE [Good, Age]^
+88 |S1000 1TT [88, 100]^
+GN |S1000 AGE [Good night, Age]^
+CW |S1000 359 [C W, 3 5 9]^
+AGE |S1000 NW [Age, Now]^
+AGE |S1000 WIRE [Age, Wire]^
+WATT |S1000 CW [Watt, C W]^
+AGE |S1000 579 [Age, 5 7 9]^
+OCF |S1000 AGE [Off-center fed dipole, Age]^
+WIRE |S1000 WATT [Wire, Watt]^
+359 |S1000 589 [3 5 9, 5 8 9]^
+AGE |S1000 LOOP [Age, Loop]^
+SWR |S1000 QRX [S W R, Q R X]^
+WATT |S1000 AGE [Watt, Age]^
+SWR |S1000 WIRE [S W R, Wire]^
+72 |S1000 88 [72, 88]^
+WIRE |S1000 1TT [Wire, 100]^
+WATT |S1000 LOOP [Watt, Loop]^
+GN |S1000 WATT [Good night, Watt]^
+579 |S1000 SWR [5 7 9, S W R]^
+AGE |S1000 RPRT [Age, Report]^
+AGE |S1000 SSB [Age, Single Side Band]^
+AGE |S1000 CW [Age, C W]^
+72 |S1000 AGE [72, Age]^
+OCF |S1000 AGE [Off-center fed dipole, Age]^
+CW |S1000 AGE [C W, Age]^
+489 |S1000 AGE [4 8 9, Age]^
+579 |S1000 AGE [5 7 9, Age]^
+RPT |S1000 QRX [Report, Q R X]^
+RPT |S1000 AGE [Report, Age]^
+GB |S1000 INFO [Goodbye, Information]^
+QRX |S1000 589 [Q R X, 5 8 9]^
+WIRE |S1000 AGE [Wire, Age]^
+589 |S1000 AGE [5 8 9, Age]^
+RPRT |S1000 AGE [Report, Age]^
+WIRE |S1000 AGE [Wire, Age]^
+SWR |S1000 AGE [S W R, Age]^
+579 |S1000 AGE [5 7 9, Age]^
+OCF |S1000 AGE [Off-center fed dipole, Age]^
+359 |S1000 AGE [3 5 9, Age]^
+NW |S1000 GN [Now, Good night]^
+NW |S1000 AGE [Now, Age]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+AGE |S1000 GB [Age, Goodbye]^
+88 |S1000 NW [88, Now]^
+AGE |S1000 88 [Age, 88]^
+AGE |S1000 489 [Age, 4 8 9]^
+579 |S1000 AGE [5 7 9, Age]^
+GN |S1000 RPRT [Good night, Report]^
+CW |S1000 LOOP [C W, Loop]^
+SWR |S1000 QRX [S W R, Q R X]^
+AGE |S1000 1TT [Age, 100]^
+GD |S1000 AGE [Good, Age]^
+479 |S1000 AGE [4 7 9, Age]^
+LOOP |S1000 GB [Loop, Goodbye]^
+579 |S1000 88 [5 7 9, 88]^
+AGE |S1000 RPT [Age, Report]^
+INFO |S1000 AGE [Information, Age]^
+RPRT |S1000 CW [Report, C W]^
+RPRT |S1000 88 [Report, 88]^
+NW |S1000 GB [Now, Goodbye]^
+NW |S1000 AGE [Now, Age]^
+589 |S1000 AGE [5 8 9, Age]^
+QRX |S1000 AGE [Q R X, Age]^
+589 |S1000 579 [5 8 9, 5 7 9]^
+GN |S1000 RPRT [Good night, Report]^
+WIRE |S1000 AGE [Wire, Age]^
+GB |S1000 AGE [Goodbye, Age]^
+589 |S1000 OCF [5 8 9, Off-center fed dipole]^
+SWR |S1000 479 [S W R, 4 7 9]^
+AGE |S1000 QRX [Age, Q R X]^
+589 |S1000 AGE [5 8 9, Age]^
+WIRE |S1000 INFO [Wire, Information]^
+479 |S1000 GB [4 7 9, Goodbye]^
+AGE |S1000 GB [Age, Goodbye]^
+AGE |S1000 OCF [Age, Off-center fed dipole]^
+AGE |S1000 579 [Age, 5 7 9]^
+589 |S1000 AGE [5 8 9, Age]^
+CW |S1000 AGE [C W, Age]^
+479 |S1000 AGE [4 7 9, Age]^
+359 |S1000 SWR [3 5 9, S W R]^
+NW |S1000 GD [Now, Good]^
+AGE |S1000 INFO [Age, Information]^
+GN |S1000 INFO [Good night, Information]^
+CW |S1000 1TT [C W, 100]^
+LOOP |S1000 GB [Loop, Goodbye]^
+NW |S1000 SWR [Now, S W R]^
+QRX |S1000 359 [Q R X, 3 5 9]^
+WATT |S1000 AGE [Watt, Age]^
+RPT |S1000 72 [Report, 72]^
+1TT |S1000 OCF [100, Off-center fed dipole]^
+AGE |S1000 GB [Age, Goodbye]^
+RPT |S1000 AGE [Report, Age]^
+479 |S1000 AGE [4 7 9, Age]^
+GD |S1000 SWR [Good, S W R]^
+AGE |S1000 1TT [Age, 100]^
+RPT |S1000 LOOP [Report, Loop]^
+1TT |S1000 359 [100, 3 5 9]^
+AGE |S1000 72 [Age, 72]^
+AGE |S1000 RPT [Age, Report]^
+AGE |S1000 WIRE [Age, Wire]^
+88 |S1000 GD [88, Good]^
+579 |S1000 AGE [5 7 9, Age]^
+INFO |S1000 GN [Information, Good night]^
+AGE |S1000 88 [Age, 88]^
+AGE |S1000 WATT [Age, Watt]^
+AGE |S1000 72 [Age, 72]^
+AGE |S1000 359 [Age, 3 5 9]^
+AGE |S1000 CW [Age, C W]^
+GN |S1000 RPT [Good night, Report]^
+AGE |S1000 359 [Age, 3 5 9]^
+AGE |S1000 579 [Age, 5 7 9]^
+QRX |S1000 WATT [Q R X, Watt]^
+AGE |S1000 GN [Age, Good night]^
+SSB |S1000 AGE [Single Side Band, Age]^
+RPRT |S1000 INFO [Report, Information]^
+AGE |S1000 QRX [Age, Q R X]^
+1TT |S1000 AGE [100, Age]^
+INFO |S1000 AGE [Information, Age]^
+579 |S1000 QRX [5 7 9, Q R X]^
+AGE |S1000 QRX [Age, Q R X]^
+AGE |S1000 RPRT [Age, Report]^
+WIRE |S1000 OCF [Wire, Off-center fed dipole]^
+AGE |S1000 88 [Age, 88]^
+GN |S1000 AGE [Good night, Age]^
+OCF |S1000 AGE [Off-center fed dipole, Age]^
+WATT |S1000 479 [Watt, 4 7 9]^
+INFO |S1000 AGE [Information, Age]^
+WATT |S1000 489 [Watt, 4 8 9]^
+SSB |S1000 WIRE [Single Side Band, Wire]^
+1TT |S1000 SWR [100, S W R]^
+QRX |S1000 AGE [Q R X, Age]^
+88 |S1000 GN [88, Good night]^
+579 |S1000 OCF [5 7 9, Off-center fed dipole]^
+AGE |S1000 SSB [Age, Single Side Band]^
+AGE |S1000 WATT [Age, Watt]^
+AGE |S1000 OCF [Age, Off-center fed dipole]^
+RPT |S1000 SWR [Report, S W R]^
+AGE |S1000 479 [Age, 4 7 9]^
+AGE |S1000 GB [Age, Goodbye]^
+GN |S1000 INFO [Good night, Information]^
+LOOP |S1000 589 [Loop, 5 8 9]^
+INFO |S1000 AGE [Information, Age]^
+579 |S1000 SWR [5 7 9, S W R]^
+589 |S1000 INFO [5 8 9, Information]^
+AGE |S1000 1TT [Age, 100]^
+GB |S1000 AGE [Goodbye, Age]^
+NW |S1000 AGE [Now, Age]^
+72 |S1000 SWR [72, S W R]^
+589 |S1000 GB [5 8 9, Goodbye]^
+RPRT |S1000 AGE [Report, Age]^
+WIRE |S1000 AGE [Wire, Age]^
+1TT |S1000 489 [100, 4 8 9]^
+AGE |S1000 GN [Age, Good night]^
+AGE |S1000 WATT [Age, Watt]^
+AGE |S1000 589 [Age, 5 8 9]^
+WIRE |S1000 AGE [Wire, Age]^
+579 |S1000 NW [5 7 9, Now]^
+AGE |S1000 WIRE [Age, Wire]^
+INFO |S1000 589 [Information, 5 8 9]^
+AGE |S1000 GB [Age, Goodbye]^
+AGE |S1000 RPT [Age, Report]^
+72 |S1000 AGE [72, Age]^
+359 |S1000 GN [3 5 9, Good night]^
+AGE |S1000 WATT [Age, Watt]^
+88 |S1000 72 [88, 72]^
+OCF |S1000 AGE [Off-center fed dipole, Age]^
+NW |S1000 GN [Now, Good night]^
+AGE |S1000 WATT [Age, Watt]^
+INFO |S1000 RPRT [Information, Report]^
+AGE |S1000 479 [Age, 4 7 9]^
+AGE |S1000 GN [Age, Good night]^
+AGE |S1000 88 [Age, 88]^
+QRX |S1000 RPRT [Q R X, Report]^
+579 |S1000 RPT [5 7 9, Report]^
+AGE |S1000 479 [Age, 4 7 9]^
+AGE |S1000 WATT [Age, Watt]^
+AGE |S1000 RPRT [Age, Report]^
+AGE |S1000 579 [Age, 5 7 9]^
+SSB |S1000 AGE [Single Side Band, Age]^
+88 |S1000 CW [88, C W]^
+AGE |S1000 GN [Age, Good night]^
+72 |S1000 AGE [72, Age]^
+72 |S1000 SSB [72, Single Side Band]^
+WIRE |S1000 AGE [Wire, Age]^
+NW |S1000 RPT [Now, Report]^
+AGE |S1000 RPT [Age, Report]^
+INFO |S1000 RPRT [Information, Report]^
+AGE |S1000 1TT [Age, 100]^
+NW |S1000 489 [Now, 4 8 9]^
+SWR |S1000 AGE [S W R, Age]^
+489 |S1000 AGE [4 8 9, Age]^
+RPT |S1000 LOOP [Report, Loop]^
+AGE |S1000 GN [Age, Good night]^
+SSB |S1000 GD [Single Side Band, Good]^
+AGE |S1000 WIRE [Age, Wire]^
+359 |S1000 WIRE [3 5 9, Wire]^
+GD |S1000 1TT [Good, 100]^
+SWR |S1000 NW [S W R, Now]^
+AGE |S1000 479 [Age, 4 7 9]^
+72 |S1000 AGE [72, Age]^
+WIRE |S1000 NW [Wire, Now]^
+359 |S1000 AGE [3 5 9, Age]^
+RPT |S1000 AGE [Report, Age]^
+SSB |S1000 RPT [Single Side Band, Report]^
+AGE |S1000 CW [Age, C W]^
+489 |S1000 AGE [4 8 9, Age]^
+359 |S1000 AGE [3 5 9, Age]^
+RPRT |S1000 1TT [Report, 100]^
+SWR |S1000 AGE [S W R, Age]^
+SWR |S1000 WATT [S W R, Watt]^
+AGE |S1000 RPT [Age, Report]^
+72 |S1000 AGE [72, Age]^
+INFO |S1000 AGE [Information, Age]^
+SSB |S1000 LOOP [Single Side Band, Loop]^
+589 |S1000 LOOP [5 8 9, Loop]^
+AGE |S1000 CW [Age, C W]^
+SWR |S1000 RPRT [S W R, Report]^
+AGE |S1000 LOOP [Age, Loop]^
+SWR |S1000 AGE [S W R, Age]^
+GN |S1000 AGE [Good night, Age]^
+WATT |S1000 AGE [Watt, Age]^
+NW |S1000 AGE [Now, Age]^
+NW |S1000 1TT [Now, 100]^
+GD |S1000 SWR [Good, S W R]^
+AGE |S1000 CW [Age, C W]^
+WIRE |S1000 OCF [Wire, Off-center fed dipole]^
+LOOP |S1000 OCF [Loop, Off-center fed dipole]^
+72 |S1000 589 [72, 5 8 9]^
+INFO |S1000 GN [Information, Good night]^
+CW |S1000 AGE [C W, Age]^
+SWR |S1000 AGE [S W R, Age]^
+479 |S1000 AGE [4 7 9, Age]^
+GB |S1000 AGE [Goodbye, Age]^
+GD |S1000 SWR [Good, S W R]^
+359 |S1000 AGE [3 5 9, Age]^
+88 |S1000 CW [88, C W]^
+RPRT |S1000 SWR [Report, S W R]^
+RPT |S1000 589 [Report, 5 8 9]^
+INFO |S1000 AGE [Information, Age]^
+359 |S1000 RPT [3 5 9, Report]^
+GD |S1000 GN [Good, Good night]^
+RPRT |S1000 NW [Report, Now]^
+GN |S1000 QRX [Good night, Q R X]^
+LOOP |S1000 AGE [Loop, Age]^
+CW |S1000 OCF [C W, Off-center fed dipole]^
+INFO |S1000 OCF [Information, Off-center fed dipole]^
+AGE |S1000 489 [Age, 4 8 9]^
+LOOP |S1000 WATT [Loop, Watt]^
+QRX |S1000 479 [Q R X, 4 7 9]^
+AGE |S1000 RPT [Age, Report]^
+AGE |S1000 88 [Age, 88]^
+QRX |S1000 AGE [Q R X, Age]^
+579 |S1000 AGE [5 7 9, Age]^
+RPRT |S1000 AGE [Report, Age]^
+GN |S1000 GB [Good night, Goodbye]^
+88 |S1000 AGE [88, Age]^
+88 |S1000 AGE [88, Age]^
+GD |S1000 CW [Good, C W]^
+479 |S1000 359 [4 7 9, 3 5 9]^
+RPT |S1000 AGE [Report, Age]^
+WIRE |S1000 AGE [Wire, Age]^
+GD |S1000 AGE [Good, Age]^
+359 |S1000 AGE [3 5 9, Age]^
+1TT |S1000 AGE [100, Age]^
+RPT |S1000 589 [Report, 5 8 9]^
+72 |S1000 AGE [72, Age]^
+INFO |S1000 489 [Information, 4 8 9]^
+CW |S1000 LOOP [C W, Loop]^
+AGE |S1000 579 [Age, 5 7 9]^
+INFO |S1000 GN [Information, Good night]^
+CW |S1000 AGE [C W, Age]^
+88 |S1000 NW [88, Now]^
+QRX |S1000 AGE [Q R X, Age]^
+INFO |S1000 RPRT [Information, Report]^
+QRX |S1000 589 [Q R X, 5 8 9]^
+WATT |S1000 AGE [Watt, Age]^
+1TT |S1000 GD [100, Good]^
+QRX |S1000 WIRE [Q R X, Wire]^
+AGE |S1000 CW [Age, C W]^
+AGE |S1000 WATT [Age, Watt]^
+GN |S1000 GB [Good night, Goodbye]^
+RPT |S1000 AGE [Report, Age]^
+SSB |S1000 GN [Single Side Band, Good night]^
+SSB |S1000 AGE [Single Side Band, Age]^
+RPT |S1000 589 [Report, 5 8 9]^
+GD |S1000 QRX [Good, Q R X]^
+72 |S1000 479 [72, 4 7 9]^
+GN |S1000 RPT [Good night, Report]^
+479 |S1000 88 [4 7 9, 88]^
+LOOP |S1000 GD [Loop, Good]^
+LOOP |S1000 AGE [Loop, Age]^
+479 |S1000 AGE [4 7 9, Age]^
+579 |S1000 SSB [5 7 9, Single Side Band]^
+AGE |S1000 1TT [Age, 100]^
+AGE |S1000 LOOP [Age, Loop]^
+OCF |S1000 AGE [Off-center fed dipole, Age]^
+479 |S1000 589 [4 7 9, 5 8 9]^
+GB |S1000 SWR [Goodbye, S W R]^
+AGE |S1000 359 [Age, 3 5 9]^
+AGE |S1000 OCF [Age, Off-center fed dipole]^
+AGE |S1000 RPT [Age, Report]^
+AGE |S1000 88 [Age, 88]^
+AGE |S1000 579 [Age, 5 7 9]^
+GD |S1000 AGE [Good, Age]^
+QRX |S1000 AGE [Q R X, Age]^
+NW |S1000 589 [Now, 5 8 9]^
+AGE |S1000 359 [Age, 3 5 9]^
+RPT |S1000 AGE [Report, Age]^
+GD |S1000 WATT [Good, Watt]^
+GB |S1000 AGE [Goodbye, Age]^
+RPRT |S1000 AGE [Report, Age]^
+RPT |S1000 GD [Report, Good]^
+579 |S1000 QRX [5 7 9, Q R X]^
+489 |S1000 AGE [4 8 9, Age]^
+88 |S1000 WIRE [88, Wire]^
+479 |S1000 LOOP [4 7 9, Loop]^
+AGE |S1000 CW [Age, C W]^
+GD |S1000 GN [Good, Good night]^
+AGE |S1000 72 [Age, 72]^
+INFO |S1000 359 [Information, 3 5 9]^
+1TT |S1000 589 [100, 5 8 9]^
+AGE |S1000 GD [Age, Good]^
+AGE |S1000 RPT [Age, Report]^
+GN |S1000 QRX [Good night, Q R X]^
+GD |S1000 RPT [Good, Report]^
+AGE |S1000 589 [Age, 5 8 9]^
+AGE |S1000 WATT [Age, Watt]^
+AGE |S1000 SWR [Age, S W R]^
+88 |S1000 WIRE [88, Wire]^
+INFO |S1000 SWR [Information, S W R]^
+72 |S1000 WATT [72, Watt]^
+88 |S1000 AGE [88, Age]^
+SWR |S1000 72 [S W R, 72]^
+AGE |S1000 88 [Age, 88]^
+OCF |S1000 AGE [Off-center fed dipole, Age]^
+479 |S1000 CW [4 7 9, C W]^
+88 |S1000 AGE [88, Age]^
+INFO |S1000 AGE [Information, Age]^
+589 |S1000 INFO [5 8 9, Information]^
+AGE |S1000 589 [Age, 5 8 9]^
+AGE |S1000 GN [Age, Good night]^
+479 |S1000 AGE [4 7 9, Age]^
+RPT |S1000 579 [Report, 5 7 9]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+GD |S1000 AGE [Good, Age]^
+QRX |S1000 GB [Q R X, Goodbye]^
+AGE |S1000 WATT [Age, Watt]^
+AGE |S1000 GD [Age, Good]^
+589 |S1000 AGE [5 8 9, Age]^
+CW |S1000 OCF [C W, Off-center fed dipole]^
+GD |S1000 AGE [Good, Age]^
+1TT |S1000 WATT [100, Watt]^
+72 |S1000 GN [72, Good night]^
+589 |S1000 579 [5 8 9, 5 7 9]^
+AGE |S1000 INFO [Age, Information]^
+489 |S1000 RPRT [4 8 9, Report]^
+GD |S1000 AGE [Good, Age]^
+WATT |S1000 579 [Watt, 5 7 9]^
+479 |S1000 AGE [4 7 9, Age]^
+LOOP |S1000 SWR [Loop, S W R]^
+CW |S1000 AGE [C W, Age]^
+NW |S1000 RPRT [Now, Report]^
+AGE |S1000 OCF [Age, Off-center fed dipole]^
+RPT |S1000 AGE [Report, Age]^
+LOOP |S1000 AGE [Loop, Age]^
+SWR |S1000 AGE [S W R, Age]^
+359 |S1000 AGE [3 5 9, Age]^
+479 |S1000 489 [4 7 9, 4 8 9]^
+479 |S1000 589 [4 7 9, 5 8 9]^
+AGE |S1000 GN [Age, Good night]^
+579 |S1000 RPRT [5 7 9, Report]^
+AGE |S1000 NW [Age, Now]^
+SSB |S1000 AGE [Single Side Band, Age]^
+OCF |S1000 CW [Off-center fed dipole, C W]^
+AGE |S1000 SSB [Age, Single Side Band]^
+SWR |S1000 AGE [S W R, Age]^
+RPRT |S1000 INFO [Report, Information]^
+AGE |S1000 489 [Age, 4 8 9]^
+OCF |S1000 AGE [Off-center fed dipole, Age]^
+LOOP |S1000 479 [Loop, 4 7 9]^
+AGE |S1000 SSB [Age, Single Side Band]^
+GD |S1000 SSB [Good, Single Side Band]^
+AGE |S1000 CW [Age, C W]^
+RPT |S1000 72 [Report, 72]^
+AGE |S1000 WIRE [Age, Wire]^
+AGE |S1000 579 [Age, 5 7 9]^
+GD |S1000 AGE [Good, Age]^
+359 |S1000 1TT [3 5 9, 100]^
+359 |S1000 GB [3 5 9, Goodbye]^
+SSB |S1000 AGE [Single Side Band, Age]^
+RPT |S1000 GD [Report, Good]^
+AGE |S1000 CW [Age, C W]^

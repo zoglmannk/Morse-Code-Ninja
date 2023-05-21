@@ -1,0 +1,600 @@
+DE |S1000 TU [From, Thank you]^
+HI HI |S1000 UP [laughing, Up]^
+HI HI |S1000 UR [laughing, Your]^
+UP |S1000 HI HI [Up, laughing]^
+DE |S1000 GE [From, Good evening]^
+TU |S1000 HI HI [Thank you, laughing]^
+NAME |S1000 CQ [Name, C Q]^
+AGN |S1000 HI HI [Again, laughing]^
+5NN |S1000 HI HI [5 N N, laughing]^
+5NN |S1000 VY [5 N N, Very]^
+QRM |S1000 HI HI [Interference, laughing]^
+DE |S1000 QRM [From, Interference]^
+HI HI |S1000 WX [laughing, Weather]^
+HI HI |S1000 GE [laughing, Good evening]^
+HI HI |S1000 UP [laughing, Up]^
+HI HI |S1000 GM [laughing, Good morning]^
+WX |S1000 HI HI [Weather, laughing]^
+GA |S1000 NAME [Good afternoon, Name]^
+73 |S1000 HI HI [73, laughing]^
+UP |S1000 WX [Up, Weather]^
+599 |S1000 HI HI [5 9 9, laughing]^
+GE |S1000 DE [Good evening, From]^
+QRM |S1000 HI HI [Interference, laughing]^
+TU |S1000 HI HI [Thank you, laughing]^
+ES |S1000 NAME [And, Name]^
+DE |S1000 HI HI [From, laughing]^
+73 |S1000 WX [73, Weather]^
+HI HI |S1000 VY [laughing, Very]^
+TU |S1000 HI HI [Thank you, laughing]^
+GA |S1000 FER [Good afternoon, For]^
+HI HI |S1000 QRZ [laughing, Q R Zed]^
+FER |S1000 AGN [For, Again]^
+HI HI |S1000 AGN [laughing, Again]^
+NR |S1000 RST [Number, R S T]^
+HI HI |S1000 NAME [laughing, Name]^
+HI HI |S1000 GE [laughing, Good evening]^
+HI HI |S1000 GM [laughing, Good morning]^
+HI HI |S1000 NR [laughing, Number]^
+HI HI |S1000 NR [laughing, Number]^
+73 |S1000 UR [73, Your]^
+AGN |S1000 NAME [Again, Name]^
+HI HI |S1000 TEST [laughing, Contest]^
+TU |S1000 RST [Thank you, R S T]^
+GE |S1000 559 [Good evening, 5 5 9]^
+FER |S1000 TEST [For, Contest]^
+RST |S1000 GA [R S T, Good afternoon]^
+HI HI |S1000 UR [laughing, Your]^
+5NN |S1000 HI HI [5 N N, laughing]^
+FER |S1000 HI HI [For, laughing]^
+NAME |S1000 UP [Name, Up]^
+NAME |S1000 HI HI [Name, laughing]^
+CQ |S1000 AGN [C Q, Again]^
+TEST |S1000 HI HI [Contest, laughing]^
+GM |S1000 FER [Good morning, For]^
+HI HI |S1000 DE [laughing, From]^
+73 |S1000 GM [73, Good morning]^
+HI HI |S1000 ES [laughing, And]^
+HI HI |S1000 VY [laughing, Very]^
+HI HI |S1000 QRZ [laughing, Q R Zed]^
+RST |S1000 NR [R S T, Number]^
+HI HI |S1000 AGN [laughing, Again]^
+HI HI |S1000 QRM [laughing, Interference]^
+HI HI |S1000 AGN [laughing, Again]^
+TU |S1000 UR [Thank you, Your]^
+AGN |S1000 GA [Again, Good afternoon]^
+HI HI |S1000 QRZ [laughing, Q R Zed]^
+UR |S1000 HI HI [Your, laughing]^
+RST |S1000 5NN [R S T, 5 N N]^
+RST |S1000 HI HI [R S T, laughing]^
+UP |S1000 HI HI [Up, laughing]^
+GM |S1000 HI HI [Good morning, laughing]^
+NAME |S1000 HI HI [Name, laughing]^
+5NN |S1000 FER [5 N N, For]^
+HI HI |S1000 599 [laughing, 5 9 9]^
+HI HI |S1000 UP [laughing, Up]^
+UR |S1000 HI HI [Your, laughing]^
+UR |S1000 DE [Your, From]^
+QRZ |S1000 5NN [Q R Zed, 5 N N]^
+TEST |S1000 HI HI [Contest, laughing]^
+73 |S1000 HI HI [73, laughing]^
+QRM |S1000 NR [Interference, Number]^
+RST |S1000 HI HI [R S T, laughing]^
+5NN |S1000 FER [5 N N, For]^
+VY |S1000 5NN [Very, 5 N N]^
+HI HI |S1000 GE [laughing, Good evening]^
+HI HI |S1000 GE [laughing, Good evening]^
+HI HI |S1000 559 [laughing, 5 5 9]^
+HI HI |S1000 TU [laughing, Thank you]^
+QRZ |S1000 ES [Q R Zed, And]^
+5NN |S1000 HI HI [5 N N, laughing]^
+UP |S1000 QRZ [Up, Q R Zed]^
+FER |S1000 HI HI [For, laughing]^
+FER |S1000 599 [For, 5 9 9]^
+FER |S1000 HI HI [For, laughing]^
+TU |S1000 HI HI [Thank you, laughing]^
+599 |S1000 VY [5 9 9, Very]^
+HI HI |S1000 CQ [laughing, C Q]^
+HI HI |S1000 RST [laughing, R S T]^
+TEST |S1000 UP [Contest, Up]^
+QRZ |S1000 HI HI [Q R Zed, laughing]^
+73 |S1000 TU [73, Thank you]^
+HI HI |S1000 RST [laughing, R S T]^
+GM |S1000 AGN [Good morning, Again]^
+RST |S1000 HI HI [R S T, laughing]^
+73 |S1000 HI HI [73, laughing]^
+NR |S1000 HI HI [Number, laughing]^
+GM |S1000 QRZ [Good morning, Q R Zed]^
+HI HI |S1000 GM [laughing, Good morning]^
+5NN |S1000 UR [5 N N, Your]^
+FER |S1000 WX [For, Weather]^
+HI HI |S1000 TEST [laughing, Contest]^
+GE |S1000 UP [Good evening, Up]^
+GE |S1000 HI HI [Good evening, laughing]^
+UP |S1000 QRM [Up, Interference]^
+HI HI |S1000 AGN [laughing, Again]^
+HI HI |S1000 GM [laughing, Good morning]^
+NR |S1000 QRM [Number, Interference]^
+WX |S1000 HI HI [Weather, laughing]^
+RST |S1000 HI HI [R S T, laughing]^
+559 |S1000 DE [5 5 9, From]^
+UR |S1000 HI HI [Your, laughing]^
+NR |S1000 VY [Number, Very]^
+HI HI |S1000 559 [laughing, 5 5 9]^
+QRZ |S1000 HI HI [Q R Zed, laughing]^
+VY |S1000 GM [Very, Good morning]^
+CQ |S1000 HI HI [C Q, laughing]^
+UR |S1000 QRZ [Your, Q R Zed]^
+RST |S1000 HI HI [R S T, laughing]^
+559 |S1000 HI HI [5 5 9, laughing]^
+TEST |S1000 599 [Contest, 5 9 9]^
+QRM |S1000 RST [Interference, R S T]^
+HI HI |S1000 GM [laughing, Good morning]^
+CQ |S1000 GM [C Q, Good morning]^
+TEST |S1000 DE [Contest, From]^
+HI HI |S1000 UR [laughing, Your]^
+NR |S1000 HI HI [Number, laughing]^
+RST |S1000 ES [R S T, And]^
+HI HI |S1000 NAME [laughing, Name]^
+HI HI |S1000 AGN [laughing, Again]^
+559 |S1000 UR [5 5 9, Your]^
+HI HI |S1000 NR [laughing, Number]^
+TU |S1000 FER [Thank you, For]^
+HI HI |S1000 TU [laughing, Thank you]^
+ES |S1000 WX [And, Weather]^
+TU |S1000 HI HI [Thank you, laughing]^
+TEST |S1000 AGN [Contest, Again]^
+RST |S1000 FER [R S T, For]^
+ES |S1000 AGN [And, Again]^
+HI HI |S1000 NR [laughing, Number]^
+NAME |S1000 HI HI [Name, laughing]^
+559 |S1000 UR [5 5 9, Your]^
+DE |S1000 UP [From, Up]^
+HI HI |S1000 RST [laughing, R S T]^
+GA |S1000 CQ [Good afternoon, C Q]^
+NAME |S1000 TEST [Name, Contest]^
+RST |S1000 GA [R S T, Good afternoon]^
+UP |S1000 NR [Up, Number]^
+QRM |S1000 UP [Interference, Up]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+HI HI |S1000 UP [laughing, Up]^
+HI HI |S1000 DE [laughing, From]^
+HI HI |S1000 QRM [laughing, Interference]^
+HI HI |S1000 ES [laughing, And]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+AGN |S1000 FER [Again, For]^
+HI HI |S1000 GM [laughing, Good morning]^
+HI HI |S1000 UR [laughing, Your]^
+HI HI |S1000 GE [laughing, Good evening]^
+HI HI |S1000 559 [laughing, 5 5 9]^
+HI HI |S1000 73 [laughing, 73]^
+NAME |S1000 UP [Name, Up]^
+DE |S1000 TU [From, Thank you]^
+559 |S1000 HI HI [5 5 9, laughing]^
+GM |S1000 HI HI [Good morning, laughing]^
+ES |S1000 FER [And, For]^
+TU |S1000 ES [Thank you, And]^
+73 |S1000 HI HI [73, laughing]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+UR |S1000 HI HI [Your, laughing]^
+599 |S1000 DE [5 9 9, From]^
+TEST |S1000 UP [Contest, Up]^
+DE |S1000 HI HI [From, laughing]^
+GE |S1000 AGN [Good evening, Again]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+DE |S1000 HI HI [From, laughing]^
+WX |S1000 NAME [Weather, Name]^
+FER |S1000 HI HI [For, laughing]^
+QRM |S1000 GE [Interference, Good evening]^
+GA |S1000 QRM [Good afternoon, Interference]^
+DE |S1000 HI HI [From, laughing]^
+RST |S1000 QRM [R S T, Interference]^
+HI HI |S1000 599 [laughing, 5 9 9]^
+GE |S1000 GA [Good evening, Good afternoon]^
+GE |S1000 UP [Good evening, Up]^
+HI HI |S1000 WX [laughing, Weather]^
+DE |S1000 5NN [From, 5 N N]^
+HI HI |S1000 559 [laughing, 5 5 9]^
+TEST |S1000 HI HI [Contest, laughing]^
+TEST |S1000 HI HI [Contest, laughing]^
+DE |S1000 599 [From, 5 9 9]^
+HI HI |S1000 TU [laughing, Thank you]^
+HI HI |S1000 VY [laughing, Very]^
+FER |S1000 UP [For, Up]^
+HI HI |S1000 QRZ [laughing, Q R Zed]^
+TEST |S1000 QRZ [Contest, Q R Zed]^
+HI HI |S1000 VY [laughing, Very]^
+UP |S1000 HI HI [Up, laughing]^
+UR |S1000 HI HI [Your, laughing]^
+UP |S1000 HI HI [Up, laughing]^
+TEST |S1000 QRM [Contest, Interference]^
+GM |S1000 599 [Good morning, 5 9 9]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+NAME |S1000 HI HI [Name, laughing]^
+ES |S1000 FER [And, For]^
+HI HI |S1000 NR [laughing, Number]^
+HI HI |S1000 NR [laughing, Number]^
+WX |S1000 HI HI [Weather, laughing]^
+NR |S1000 HI HI [Number, laughing]^
+QRM |S1000 GE [Interference, Good evening]^
+VY |S1000 HI HI [Very, laughing]^
+TEST |S1000 QRM [Contest, Interference]^
+WX |S1000 HI HI [Weather, laughing]^
+ES |S1000 HI HI [And, laughing]^
+559 |S1000 WX [5 5 9, Weather]^
+HI HI |S1000 QRZ [laughing, Q R Zed]^
+599 |S1000 HI HI [5 9 9, laughing]^
+RST |S1000 73 [R S T, 73]^
+QRM |S1000 HI HI [Interference, laughing]^
+CQ |S1000 QRZ [C Q, Q R Zed]^
+HI HI |S1000 NAME [laughing, Name]^
+HI HI |S1000 NR [laughing, Number]^
+FER |S1000 TU [For, Thank you]^
+HI HI |S1000 QRM [laughing, Interference]^
+HI HI |S1000 UR [laughing, Your]^
+HI HI |S1000 CQ [laughing, C Q]^
+NR |S1000 GA [Number, Good afternoon]^
+TU |S1000 TEST [Thank you, Contest]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+QRM |S1000 GA [Interference, Good afternoon]^
+HI HI |S1000 VY [laughing, Very]^
+HI HI |S1000 NR [laughing, Number]^
+HI HI |S1000 NR [laughing, Number]^
+TEST |S1000 ES [Contest, And]^
+CQ |S1000 HI HI [C Q, laughing]^
+73 |S1000 HI HI [73, laughing]^
+RST |S1000 FER [R S T, For]^
+599 |S1000 HI HI [5 9 9, laughing]^
+559 |S1000 TEST [5 5 9, Contest]^
+HI HI |S1000 WX [laughing, Weather]^
+DE |S1000 NR [From, Number]^
+73 |S1000 GE [73, Good evening]^
+HI HI |S1000 TU [laughing, Thank you]^
+73 |S1000 AGN [73, Again]^
+DE |S1000 ES [From, And]^
+559 |S1000 HI HI [5 5 9, laughing]^
+CQ |S1000 5NN [C Q, 5 N N]^
+HI HI |S1000 UP [laughing, Up]^
+UR |S1000 HI HI [Your, laughing]^
+RST |S1000 HI HI [R S T, laughing]^
+RST |S1000 NAME [R S T, Name]^
+HI HI |S1000 599 [laughing, 5 9 9]^
+HI HI |S1000 ES [laughing, And]^
+QRM |S1000 HI HI [Interference, laughing]^
+VY |S1000 599 [Very, 5 9 9]^
+HI HI |S1000 WX [laughing, Weather]^
+HI HI |S1000 RST [laughing, R S T]^
+NAME |S1000 GA [Name, Good afternoon]^
+UR |S1000 GE [Your, Good evening]^
+GA |S1000 5NN [Good afternoon, 5 N N]^
+HI HI |S1000 ES [laughing, And]^
+FER |S1000 NR [For, Number]^
+UP |S1000 HI HI [Up, laughing]^
+5NN |S1000 HI HI [5 N N, laughing]^
+5NN |S1000 CQ [5 N N, C Q]^
+UP |S1000 QRM [Up, Interference]^
+QRZ |S1000 UR [Q R Zed, Your]^
+HI HI |S1000 ES [laughing, And]^
+HI HI |S1000 73 [laughing, 73]^
+WX |S1000 HI HI [Weather, laughing]^
+NR |S1000 HI HI [Number, laughing]^
+DE |S1000 TEST [From, Contest]^
+HI HI |S1000 CQ [laughing, C Q]^
+HI HI |S1000 GM [laughing, Good morning]^
+NR |S1000 HI HI [Number, laughing]^
+AGN |S1000 HI HI [Again, laughing]^
+AGN |S1000 5NN [Again, 5 N N]^
+DE |S1000 5NN [From, 5 N N]^
+GM |S1000 73 [Good morning, 73]^
+WX |S1000 VY [Weather, Very]^
+GA |S1000 QRZ [Good afternoon, Q R Zed]^
+599 |S1000 HI HI [5 9 9, laughing]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+GE |S1000 HI HI [Good evening, laughing]^
+GE |S1000 HI HI [Good evening, laughing]^
+QRZ |S1000 UP [Q R Zed, Up]^
+HI HI |S1000 DE [laughing, From]^
+GA |S1000 QRM [Good afternoon, Interference]^
+FER |S1000 RST [For, R S T]^
+HI HI |S1000 AGN [laughing, Again]^
+HI HI |S1000 GA [laughing, Good afternoon]^
+WX |S1000 HI HI [Weather, laughing]^
+DE |S1000 NAME [From, Name]^
+HI HI |S1000 WX [laughing, Weather]^
+559 |S1000 HI HI [5 5 9, laughing]^
+GM |S1000 GE [Good morning, Good evening]^
+ES |S1000 73 [And, 73]^
+RST |S1000 NAME [R S T, Name]^
+TEST |S1000 HI HI [Contest, laughing]^
+AGN |S1000 HI HI [Again, laughing]^
+UP |S1000 HI HI [Up, laughing]^
+RST |S1000 HI HI [R S T, laughing]^
+QRM |S1000 NAME [Interference, Name]^
+UR |S1000 WX [Your, Weather]^
+UP |S1000 GE [Up, Good evening]^
+HI HI |S1000 NR [laughing, Number]^
+599 |S1000 UR [5 9 9, Your]^
+CQ |S1000 HI HI [C Q, laughing]^
+73 |S1000 QRM [73, Interference]^
+HI HI |S1000 RST [laughing, R S T]^
+559 |S1000 NAME [5 5 9, Name]^
+HI HI |S1000 RST [laughing, R S T]^
+QRZ |S1000 RST [Q R Zed, R S T]^
+HI HI |S1000 NAME [laughing, Name]^
+599 |S1000 HI HI [5 9 9, laughing]^
+CQ |S1000 HI HI [C Q, laughing]^
+DE |S1000 UP [From, Up]^
+HI HI |S1000 599 [laughing, 5 9 9]^
+UR |S1000 HI HI [Your, laughing]^
+CQ |S1000 5NN [C Q, 5 N N]^
+HI HI |S1000 NAME [laughing, Name]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+559 |S1000 NR [5 5 9, Number]^
+HI HI |S1000 FER [laughing, For]^
+HI HI |S1000 DE [laughing, From]^
+GM |S1000 HI HI [Good morning, laughing]^
+NR |S1000 DE [Number, From]^
+HI HI |S1000 RST [laughing, R S T]^
+HI HI |S1000 VY [laughing, Very]^
+WX |S1000 GE [Weather, Good evening]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+5NN |S1000 HI HI [5 N N, laughing]^
+ES |S1000 HI HI [And, laughing]^
+73 |S1000 HI HI [73, laughing]^
+5NN |S1000 NR [5 N N, Number]^
+HI HI |S1000 TEST [laughing, Contest]^
+QRM |S1000 HI HI [Interference, laughing]^
+NR |S1000 HI HI [Number, laughing]^
+AGN |S1000 HI HI [Again, laughing]^
+ES |S1000 QRZ [And, Q R Zed]^
+HI HI |S1000 ES [laughing, And]^
+NR |S1000 VY [Number, Very]^
+HI HI |S1000 GA [laughing, Good afternoon]^
+FER |S1000 73 [For, 73]^
+CQ |S1000 GE [C Q, Good evening]^
+HI HI |S1000 NAME [laughing, Name]^
+AGN |S1000 HI HI [Again, laughing]^
+DE |S1000 HI HI [From, laughing]^
+RST |S1000 FER [R S T, For]^
+TU |S1000 HI HI [Thank you, laughing]^
+TU |S1000 HI HI [Thank you, laughing]^
+559 |S1000 HI HI [5 5 9, laughing]^
+GA |S1000 ES [Good afternoon, And]^
+73 |S1000 HI HI [73, laughing]^
+DE |S1000 HI HI [From, laughing]^
+559 |S1000 HI HI [5 5 9, laughing]^
+UP |S1000 HI HI [Up, laughing]^
+ES |S1000 TEST [And, Contest]^
+WX |S1000 FER [Weather, For]^
+HI HI |S1000 CQ [laughing, C Q]^
+VY |S1000 HI HI [Very, laughing]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+GE |S1000 HI HI [Good evening, laughing]^
+GM |S1000 HI HI [Good morning, laughing]^
+WX |S1000 UP [Weather, Up]^
+HI HI |S1000 GM [laughing, Good morning]^
+GA |S1000 559 [Good afternoon, 5 5 9]^
+ES |S1000 FER [And, For]^
+HI HI |S1000 TEST [laughing, Contest]^
+QRM |S1000 HI HI [Interference, laughing]^
+TU |S1000 HI HI [Thank you, laughing]^
+UP |S1000 73 [Up, 73]^
+CQ |S1000 HI HI [C Q, laughing]^
+WX |S1000 HI HI [Weather, laughing]^
+DE |S1000 HI HI [From, laughing]^
+GM |S1000 5NN [Good morning, 5 N N]^
+AGN |S1000 HI HI [Again, laughing]^
+AGN |S1000 VY [Again, Very]^
+HI HI |S1000 GE [laughing, Good evening]^
+5NN |S1000 HI HI [5 N N, laughing]^
+UR |S1000 TEST [Your, Contest]^
+HI HI |S1000 559 [laughing, 5 5 9]^
+599 |S1000 UR [5 9 9, Your]^
+559 |S1000 TEST [5 5 9, Contest]^
+HI HI |S1000 RST [laughing, R S T]^
+HI HI |S1000 QRM [laughing, Interference]^
+AGN |S1000 WX [Again, Weather]^
+HI HI |S1000 GE [laughing, Good evening]^
+HI HI |S1000 VY [laughing, Very]^
+HI HI |S1000 NAME [laughing, Name]^
+QRM |S1000 HI HI [Interference, laughing]^
+WX |S1000 5NN [Weather, 5 N N]^
+NR |S1000 AGN [Number, Again]^
+HI HI |S1000 DE [laughing, From]^
+HI HI |S1000 RST [laughing, R S T]^
+HI HI |S1000 WX [laughing, Weather]^
+HI HI |S1000 TU [laughing, Thank you]^
+CQ |S1000 HI HI [C Q, laughing]^
+NR |S1000 VY [Number, Very]^
+HI HI |S1000 599 [laughing, 5 9 9]^
+QRZ |S1000 NR [Q R Zed, Number]^
+HI HI |S1000 ES [laughing, And]^
+VY |S1000 HI HI [Very, laughing]^
+DE |S1000 UP [From, Up]^
+RST |S1000 UP [R S T, Up]^
+NR |S1000 ES [Number, And]^
+559 |S1000 5NN [5 5 9, 5 N N]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+559 |S1000 QRM [5 5 9, Interference]^
+TEST |S1000 NR [Contest, Number]^
+QRZ |S1000 HI HI [Q R Zed, laughing]^
+WX |S1000 73 [Weather, 73]^
+WX |S1000 HI HI [Weather, laughing]^
+599 |S1000 73 [5 9 9, 73]^
+HI HI |S1000 VY [laughing, Very]^
+HI HI |S1000 TEST [laughing, Contest]^
+VY |S1000 HI HI [Very, laughing]^
+5NN |S1000 VY [5 N N, Very]^
+QRM |S1000 GE [Interference, Good evening]^
+HI HI |S1000 599 [laughing, 5 9 9]^
+HI HI |S1000 TEST [laughing, Contest]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+HI HI |S1000 TU [laughing, Thank you]^
+HI HI |S1000 73 [laughing, 73]^
+HI HI |S1000 QRM [laughing, Interference]^
+HI HI |S1000 WX [laughing, Weather]^
+GM |S1000 RST [Good morning, R S T]^
+QRM |S1000 CQ [Interference, C Q]^
+WX |S1000 HI HI [Weather, laughing]^
+AGN |S1000 73 [Again, 73]^
+HI HI |S1000 UR [laughing, Your]^
+HI HI |S1000 VY [laughing, Very]^
+HI HI |S1000 TU [laughing, Thank you]^
+HI HI |S1000 TU [laughing, Thank you]^
+TEST |S1000 GA [Contest, Good afternoon]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+GE |S1000 NAME [Good evening, Name]^
+HI HI |S1000 GA [laughing, Good afternoon]^
+CQ |S1000 GE [C Q, Good evening]^
+HI HI |S1000 GE [laughing, Good evening]^
+5NN |S1000 HI HI [5 N N, laughing]^
+599 |S1000 GM [5 9 9, Good morning]^
+HI HI |S1000 UR [laughing, Your]^
+RST |S1000 HI HI [R S T, laughing]^
+QRM |S1000 GE [Interference, Good evening]^
+HI HI |S1000 VY [laughing, Very]^
+FER |S1000 CQ [For, C Q]^
+HI HI |S1000 UR [laughing, Your]^
+HI HI |S1000 WX [laughing, Weather]^
+FER |S1000 WX [For, Weather]^
+UR |S1000 TU [Your, Thank you]^
+TEST |S1000 HI HI [Contest, laughing]^
+CQ |S1000 VY [C Q, Very]^
+HI HI |S1000 WX [laughing, Weather]^
+HI HI |S1000 QRM [laughing, Interference]^
+5NN |S1000 QRM [5 N N, Interference]^
+HI HI |S1000 ES [laughing, And]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+HI HI |S1000 TEST [laughing, Contest]^
+HI HI |S1000 DE [laughing, From]^
+HI HI |S1000 TU [laughing, Thank you]^
+HI HI |S1000 GE [laughing, Good evening]^
+HI HI |S1000 FER [laughing, For]^
+QRZ |S1000 HI HI [Q R Zed, laughing]^
+DE |S1000 FER [From, For]^
+HI HI |S1000 NR [laughing, Number]^
+HI HI |S1000 RST [laughing, R S T]^
+HI HI |S1000 RST [laughing, R S T]^
+GE |S1000 RST [Good evening, R S T]^
+ES |S1000 RST [And, R S T]^
+559 |S1000 ES [5 5 9, And]^
+GM |S1000 RST [Good morning, R S T]^
+73 |S1000 UR [73, Your]^
+UP |S1000 HI HI [Up, laughing]^
+NR |S1000 UP [Number, Up]^
+DE |S1000 HI HI [From, laughing]^
+GM |S1000 HI HI [Good morning, laughing]^
+TU |S1000 HI HI [Thank you, laughing]^
+QRZ |S1000 HI HI [Q R Zed, laughing]^
+DE |S1000 HI HI [From, laughing]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+GM |S1000 GA [Good morning, Good afternoon]^
+QRM |S1000 559 [Interference, 5 5 9]^
+HI HI |S1000 QRM [laughing, Interference]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+UP |S1000 GE [Up, Good evening]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+HI HI |S1000 559 [laughing, 5 5 9]^
+AGN |S1000 TEST [Again, Contest]^
+HI HI |S1000 559 [laughing, 5 5 9]^
+HI HI |S1000 TU [laughing, Thank you]^
+UR |S1000 HI HI [Your, laughing]^
+GM |S1000 GA [Good morning, Good afternoon]^
+VY |S1000 AGN [Very, Again]^
+HI HI |S1000 FER [laughing, For]^
+RST |S1000 QRZ [R S T, Q R Zed]^
+ES |S1000 GE [And, Good evening]^
+NAME |S1000 HI HI [Name, laughing]^
+NAME |S1000 GE [Name, Good evening]^
+TEST |S1000 HI HI [Contest, laughing]^
+GA |S1000 HI HI [Good afternoon, laughing]^
+73 |S1000 HI HI [73, laughing]^
+559 |S1000 HI HI [5 5 9, laughing]^
+NAME |S1000 VY [Name, Very]^
+HI HI |S1000 CQ [laughing, C Q]^
+HI HI |S1000 AGN [laughing, Again]^
+HI HI |S1000 GA [laughing, Good afternoon]^
+5NN |S1000 HI HI [5 N N, laughing]^
+5NN |S1000 HI HI [5 N N, laughing]^
+QRM |S1000 HI HI [Interference, laughing]^
+5NN |S1000 GM [5 N N, Good morning]^
+VY |S1000 599 [Very, 5 9 9]^
+HI HI |S1000 WX [laughing, Weather]^
+HI HI |S1000 TU [laughing, Thank you]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+NR |S1000 HI HI [Number, laughing]^
+AGN |S1000 73 [Again, 73]^
+TU |S1000 WX [Thank you, Weather]^
+VY |S1000 HI HI [Very, laughing]^
+VY |S1000 ES [Very, And]^
+HI HI |S1000 DE [laughing, From]^
+CQ |S1000 HI HI [C Q, laughing]^
+NAME |S1000 HI HI [Name, laughing]^
+QRM |S1000 HI HI [Interference, laughing]^
+AGN |S1000 QRZ [Again, Q R Zed]^
+HI HI |S1000 NR [laughing, Number]^
+HI HI |S1000 UR [laughing, Your]^
+QRM |S1000 NAME [Interference, Name]^
+CQ |S1000 DE [C Q, From]^
+QRZ |S1000 HI HI [Q R Zed, laughing]^
+TU |S1000 HI HI [Thank you, laughing]^
+DE |S1000 HI HI [From, laughing]^
+5NN |S1000 GM [5 N N, Good morning]^
+UR |S1000 HI HI [Your, laughing]^
+UR |S1000 CQ [Your, C Q]^
+HI HI |S1000 GA [laughing, Good afternoon]^
+HI HI |S1000 GE [laughing, Good evening]^
+VY |S1000 HI HI [Very, laughing]^
+VY |S1000 HI HI [Very, laughing]^
+DE |S1000 RST [From, R S T]^
+HI HI |S1000 CQ [laughing, C Q]^
+HI HI |S1000 RST [laughing, R S T]^
+HI HI |S1000 WX [laughing, Weather]^
+RST |S1000 AGN [R S T, Again]^
+GM |S1000 RST [Good morning, R S T]^
+599 |S1000 HI HI [5 9 9, laughing]^
+TU |S1000 HI HI [Thank you, laughing]^
+WX |S1000 VY [Weather, Very]^
+HI HI |S1000 QRZ [laughing, Q R Zed]^
+599 |S1000 FER [5 9 9, For]^
+HI HI |S1000 TEST [laughing, Contest]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+HI HI |S1000 599 [laughing, 5 9 9]^
+CQ |S1000 TEST [C Q, Contest]^
+HI HI |S1000 5NN [laughing, 5 N N]^
+HI HI |S1000 VY [laughing, Very]^
+HI HI |S1000 TU [laughing, Thank you]^
+HI HI |S1000 QRM [laughing, Interference]^
+AGN |S1000 HI HI [Again, laughing]^
+559 |S1000 FER [5 5 9, For]^
+QRZ |S1000 WX [Q R Zed, Weather]^
+HI HI |S1000 QRM [laughing, Interference]^
+NAME |S1000 GE [Name, Good evening]^
+VY |S1000 UP [Very, Up]^
+GE |S1000 VY [Good evening, Very]^
+TU |S1000 73 [Thank you, 73]^
+TEST |S1000 HI HI [Contest, laughing]^
+NR |S1000 GE [Number, Good evening]^
+HI HI |S1000 ES [laughing, And]^
+DE |S1000 HI HI [From, laughing]^
+FER |S1000 5NN [For, 5 N N]^
+HI HI |S1000 AGN [laughing, Again]^
+5NN |S1000 HI HI [5 N N, laughing]^
+FER |S1000 HI HI [For, laughing]^
+CQ |S1000 RST [C Q, R S T]^
+AGN |S1000 GE [Again, Good evening]^
+NAME |S1000 FER [Name, For]^
+HI HI |S1000 RST [laughing, R S T]^
+5NN |S1000 UR [5 N N, Your]^
+QRZ |S1000 UR [Q R Zed, Your]^
+GM |S1000 HI HI [Good morning, laughing]^
+GM |S1000 QRM [Good morning, Interference]^
+HI HI |S1000 CQ [laughing, C Q]^
+WX |S1000 AGN [Weather, Again]^
+599 |S1000 TEST [5 9 9, Contest]^
+DE |S1000 CQ [From, C Q]^
+HI HI |S1000 NR [laughing, Number]^
+HI HI |S1000 FER [laughing, For]^
+ES |S1000 559 [And, 5 5 9]^
+HI HI |S1000 UR [laughing, Your]^
+RST |S1000 QRZ [R S T, Q R Zed]^

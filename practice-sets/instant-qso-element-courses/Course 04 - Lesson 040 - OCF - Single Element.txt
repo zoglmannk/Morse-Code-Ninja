@@ -1,0 +1,600 @@
+INFO [Information]^
+OCF [Off-center fed dipole]^
+88 [88]^
+NW [Now]^
+GD [Good]^
+CW [C W]^
+GD [Good]^
+INFO [Information]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+72 [72]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+GD [Good]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+CW [C W]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+88 [88]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+88 [88]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+INFO [Information]^
+GB [Goodbye]^
+88 [88]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+72 [72]^
+OCF [Off-center fed dipole]^
+88 [88]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+GD [Good]^
+72 [72]^
+LOOP [Loop]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+CW [C W]^
+SWR [S W R]^
+GD [Good]^
+SWR [S W R]^
+GN [Good night]^
+72 [72]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+88 [88]^
+GB [Goodbye]^
+NW [Now]^
+INFO [Information]^
+88 [88]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+LOOP [Loop]^
+GN [Good night]^
+72 [72]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+INFO [Information]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+GD [Good]^
+SWR [S W R]^
+72 [72]^
+GD [Good]^
+INFO [Information]^
+88 [88]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+88 [88]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+72 [72]^
+88 [88]^
+GB [Goodbye]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+72 [72]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+GN [Good night]^
+72 [72]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+88 [88]^
+OCF [Off-center fed dipole]^
+88 [88]^
+OCF [Off-center fed dipole]^
+88 [88]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+SWR [S W R]^
+INFO [Information]^
+LOOP [Loop]^
+GN [Good night]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+72 [72]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+72 [72]^
+OCF [Off-center fed dipole]^
+88 [88]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+88 [88]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+GN [Good night]^
+72 [72]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+88 [88]^
+OCF [Off-center fed dipole]^
+72 [72]^
+OCF [Off-center fed dipole]^
+72 [72]^
+OCF [Off-center fed dipole]^
+88 [88]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+SWR [S W R]^
+NW [Now]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+88 [88]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+88 [88]^
+SWR [S W R]^
+INFO [Information]^
+LOOP [Loop]^
+NW [Now]^
+72 [72]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+NW [Now]^
+CW [C W]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+NW [Now]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+72 [72]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+INFO [Information]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+88 [88]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+GD [Good]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+LOOP [Loop]^
+INFO [Information]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+72 [72]^
+LOOP [Loop]^
+CW [C W]^
+88 [88]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+88 [88]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+LOOP [Loop]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+72 [72]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+88 [88]^
+SWR [S W R]^
+72 [72]^
+GD [Good]^
+CW [C W]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+72 [72]^
+88 [88]^
+INFO [Information]^
+72 [72]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+GD [Good]^
+GB [Goodbye]^
+NW [Now]^
+LOOP [Loop]^
+72 [72]^
+GB [Goodbye]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+GD [Good]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+INFO [Information]^
+88 [88]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+88 [88]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+GD [Good]^
+CW [C W]^
+SWR [S W R]^
+72 [72]^
+88 [88]^
+GD [Good]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+72 [72]^
+NW [Now]^
+GN [Good night]^
+GD [Good]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+SWR [S W R]^
+CW [C W]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+72 [72]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+88 [88]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+72 [72]^
+LOOP [Loop]^
+NW [Now]^
+88 [88]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+72 [72]^
+88 [88]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+LOOP [Loop]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+88 [88]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+LOOP [Loop]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+GB [Goodbye]^
+NW [Now]^
+SWR [S W R]^
+72 [72]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+88 [88]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+72 [72]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+SWR [S W R]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+88 [88]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+72 [72]^
+CW [C W]^
+NW [Now]^
+88 [88]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+72 [72]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+GD [Good]^
+88 [88]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+88 [88]^
+GN [Good night]^
+GB [Goodbye]^
+72 [72]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+72 [72]^
+SWR [S W R]^
+72 [72]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+NW [Now]^
+SWR [S W R]^
+LOOP [Loop]^
+CW [C W]^
+GD [Good]^
+88 [88]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+72 [72]^
+GN [Good night]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+88 [88]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+72 [72]^
+LOOP [Loop]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+72 [72]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+72 [72]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+NW [Now]^
+72 [72]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+88 [88]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+88 [88]^
+GN [Good night]^
+72 [72]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+GN [Good night]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+88 [88]^
+GB [Goodbye]^
+GD [Good]^
+LOOP [Loop]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+72 [72]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+88 [88]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+88 [88]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+GN [Good night]^
+CW [C W]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+88 [88]^
+LOOP [Loop]^
+INFO [Information]^
+72 [72]^
+88 [88]^
+72 [72]^
+OCF [Off-center fed dipole]^

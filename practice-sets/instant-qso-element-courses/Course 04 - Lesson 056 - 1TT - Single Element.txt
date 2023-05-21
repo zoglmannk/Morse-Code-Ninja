@@ -1,0 +1,600 @@
+OCF [Off-center fed dipole]^
+1TT [100]^
+88 [88]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+GD [Good]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+WIRE [Wire]^
+1TT [100]^
+88 [88]^
+INFO [Information]^
+1TT [100]^
+NW [Now]^
+1TT [100]^
+GB [Goodbye]^
+1TT [100]^
+SWR [S W R]^
+1TT [100]^
+CW [C W]^
+WIRE [Wire]^
+88 [88]^
+1TT [100]^
+SWR [S W R]^
+1TT [100]^
+SSB [Single Side Band]^
+1TT [100]^
+NW [Now]^
+1TT [100]^
+88 [88]^
+1TT [100]^
+NW [Now]^
+1TT [100]^
+GD [Good]^
+WATT [Watt]^
+NW [Now]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+SWR [S W R]^
+1TT [100]^
+INFO [Information]^
+NW [Now]^
+GD [Good]^
+GB [Goodbye]^
+1TT [100]^
+88 [88]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+72 [72]^
+1TT [100]^
+WATT [Watt]^
+1TT [100]^
+CW [C W]^
+INFO [Information]^
+SWR [S W R]^
+1TT [100]^
+SSB [Single Side Band]^
+GN [Good night]^
+72 [72]^
+INFO [Information]^
+1TT [100]^
+88 [88]^
+1TT [100]^
+72 [72]^
+1TT [100]^
+SSB [Single Side Band]^
+WATT [Watt]^
+GB [Goodbye]^
+SWR [S W R]^
+1TT [100]^
+GN [Good night]^
+WATT [Watt]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+CW [C W]^
+72 [72]^
+1TT [100]^
+INFO [Information]^
+SWR [S W R]^
+72 [72]^
+GD [Good]^
+72 [72]^
+1TT [100]^
+WIRE [Wire]^
+GB [Goodbye]^
+1TT [100]^
+GD [Good]^
+SWR [S W R]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+WIRE [Wire]^
+GN [Good night]^
+LOOP [Loop]^
+SSB [Single Side Band]^
+1TT [100]^
+GB [Goodbye]^
+SSB [Single Side Band]^
+GD [Good]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+GD [Good]^
+1TT [100]^
+WIRE [Wire]^
+GN [Good night]^
+SWR [S W R]^
+NW [Now]^
+88 [88]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+GN [Good night]^
+72 [72]^
+GD [Good]^
+INFO [Information]^
+GD [Good]^
+1TT [100]^
+GB [Goodbye]^
+1TT [100]^
+GN [Good night]^
+INFO [Information]^
+GD [Good]^
+GN [Good night]^
+SWR [S W R]^
+WATT [Watt]^
+SSB [Single Side Band]^
+1TT [100]^
+LOOP [Loop]^
+1TT [100]^
+GB [Goodbye]^
+1TT [100]^
+72 [72]^
+SSB [Single Side Band]^
+INFO [Information]^
+72 [72]^
+NW [Now]^
+INFO [Information]^
+1TT [100]^
+GB [Goodbye]^
+GN [Good night]^
+88 [88]^
+CW [C W]^
+1TT [100]^
+88 [88]^
+1TT [100]^
+SSB [Single Side Band]^
+1TT [100]^
+WATT [Watt]^
+CW [C W]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+72 [72]^
+1TT [100]^
+72 [72]^
+GN [Good night]^
+NW [Now]^
+WIRE [Wire]^
+1TT [100]^
+WIRE [Wire]^
+INFO [Information]^
+88 [88]^
+CW [C W]^
+WIRE [Wire]^
+1TT [100]^
+SSB [Single Side Band]^
+SWR [S W R]^
+1TT [100]^
+INFO [Information]^
+88 [88]^
+WIRE [Wire]^
+NW [Now]^
+1TT [100]^
+72 [72]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+INFO [Information]^
+1TT [100]^
+SWR [S W R]^
+INFO [Information]^
+CW [C W]^
+INFO [Information]^
+1TT [100]^
+72 [72]^
+CW [C W]^
+72 [72]^
+1TT [100]^
+88 [88]^
+GB [Goodbye]^
+WIRE [Wire]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+GB [Goodbye]^
+GN [Good night]^
+1TT [100]^
+GD [Good]^
+INFO [Information]^
+WATT [Watt]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+INFO [Information]^
+72 [72]^
+GB [Goodbye]^
+1TT [100]^
+CW [C W]^
+1TT [100]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+72 [72]^
+GB [Goodbye]^
+1TT [100]^
+CW [C W]^
+LOOP [Loop]^
+INFO [Information]^
+GN [Good night]^
+NW [Now]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+WIRE [Wire]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+GD [Good]^
+WATT [Watt]^
+LOOP [Loop]^
+SSB [Single Side Band]^
+1TT [100]^
+WATT [Watt]^
+INFO [Information]^
+1TT [100]^
+GN [Good night]^
+WATT [Watt]^
+GN [Good night]^
+88 [88]^
+LOOP [Loop]^
+GD [Good]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+NW [Now]^
+WIRE [Wire]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+SSB [Single Side Band]^
+GB [Goodbye]^
+CW [C W]^
+1TT [100]^
+SSB [Single Side Band]^
+88 [88]^
+NW [Now]^
+1TT [100]^
+GN [Good night]^
+GB [Goodbye]^
+1TT [100]^
+SSB [Single Side Band]^
+1TT [100]^
+CW [C W]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+SWR [S W R]^
+1TT [100]^
+LOOP [Loop]^
+88 [88]^
+SSB [Single Side Band]^
+GB [Goodbye]^
+WATT [Watt]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+SWR [S W R]^
+SSB [Single Side Band]^
+CW [C W]^
+88 [88]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+CW [C W]^
+1TT [100]^
+GN [Good night]^
+LOOP [Loop]^
+1TT [100]^
+WIRE [Wire]^
+GD [Good]^
+1TT [100]^
+GN [Good night]^
+GD [Good]^
+GN [Good night]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+88 [88]^
+72 [72]^
+1TT [100]^
+SWR [S W R]^
+SSB [Single Side Band]^
+1TT [100]^
+GD [Good]^
+SSB [Single Side Band]^
+1TT [100]^
+SWR [S W R]^
+GN [Good night]^
+1TT [100]^
+LOOP [Loop]^
+WIRE [Wire]^
+SSB [Single Side Band]^
+SWR [S W R]^
+1TT [100]^
+72 [72]^
+1TT [100]^
+72 [72]^
+WIRE [Wire]^
+SWR [S W R]^
+88 [88]^
+WATT [Watt]^
+NW [Now]^
+1TT [100]^
+SSB [Single Side Band]^
+88 [88]^
+1TT [100]^
+GB [Goodbye]^
+LOOP [Loop]^
+1TT [100]^
+GB [Goodbye]^
+1TT [100]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+GB [Goodbye]^
+1TT [100]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+WIRE [Wire]^
+GN [Good night]^
+1TT [100]^
+GB [Goodbye]^
+INFO [Information]^
+SSB [Single Side Band]^
+INFO [Information]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+72 [72]^
+88 [88]^
+1TT [100]^
+GB [Goodbye]^
+SWR [S W R]^
+1TT [100]^
+GN [Good night]^
+1TT [100]^
+OCF [Off-center fed dipole]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+88 [88]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+SWR [S W R]^
+GD [Good]^
+1TT [100]^
+LOOP [Loop]^
+1TT [100]^
+72 [72]^
+NW [Now]^
+88 [88]^
+CW [C W]^
+SWR [S W R]^
+CW [C W]^
+1TT [100]^
+OCF [Off-center fed dipole]^
+GB [Goodbye]^
+88 [88]^
+SSB [Single Side Band]^
+1TT [100]^
+GN [Good night]^
+1TT [100]^
+SWR [S W R]^
+NW [Now]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+INFO [Information]^
+OCF [Off-center fed dipole]^
+WATT [Watt]^
+SSB [Single Side Band]^
+1TT [100]^
+88 [88]^
+WIRE [Wire]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+GB [Goodbye]^
+1TT [100]^
+SWR [S W R]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+WATT [Watt]^
+SWR [S W R]^
+INFO [Information]^
+SSB [Single Side Band]^
+GN [Good night]^
+LOOP [Loop]^
+SWR [S W R]^
+1TT [100]^
+OCF [Off-center fed dipole]^
+INFO [Information]^
+72 [72]^
+INFO [Information]^
+88 [88]^
+1TT [100]^
+GD [Good]^
+NW [Now]^
+GB [Goodbye]^
+88 [88]^
+INFO [Information]^
+WIRE [Wire]^
+1TT [100]^
+WIRE [Wire]^
+SSB [Single Side Band]^
+GD [Good]^
+SWR [S W R]^
+1TT [100]^
+SWR [S W R]^
+1TT [100]^
+GN [Good night]^
+72 [72]^
+LOOP [Loop]^
+1TT [100]^
+72 [72]^
+GD [Good]^
+1TT [100]^
+88 [88]^
+INFO [Information]^
+GN [Good night]^
+WATT [Watt]^
+72 [72]^
+OCF [Off-center fed dipole]^
+LOOP [Loop]^
+1TT [100]^
+LOOP [Loop]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+LOOP [Loop]^
+1TT [100]^
+SSB [Single Side Band]^
+GB [Goodbye]^
+1TT [100]^
+NW [Now]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+GD [Good]^
+1TT [100]^
+88 [88]^
+72 [72]^
+INFO [Information]^
+1TT [100]^
+CW [C W]^
+GN [Good night]^
+1TT [100]^
+GN [Good night]^
+88 [88]^
+1TT [100]^
+GB [Goodbye]^
+WATT [Watt]^
+1TT [100]^
+88 [88]^
+1TT [100]^
+GD [Good]^
+72 [72]^
+1TT [100]^
+CW [C W]^
+OCF [Off-center fed dipole]^
+GN [Good night]^
+GB [Goodbye]^
+1TT [100]^
+SSB [Single Side Band]^
+1TT [100]^
+SSB [Single Side Band]^
+NW [Now]^
+SWR [S W R]^
+CW [C W]^
+SWR [S W R]^
+GN [Good night]^
+1TT [100]^
+GB [Goodbye]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+WATT [Watt]^
+1TT [100]^
+72 [72]^
+1TT [100]^
+WATT [Watt]^
+INFO [Information]^
+1TT [100]^
+WATT [Watt]^
+1TT [100]^
+SSB [Single Side Band]^
+1TT [100]^
+INFO [Information]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+SWR [S W R]^
+LOOP [Loop]^
+1TT [100]^
+GB [Goodbye]^
+1TT [100]^
+WIRE [Wire]^
+1TT [100]^
+GN [Good night]^
+INFO [Information]^
+WIRE [Wire]^
+1TT [100]^
+GN [Good night]^
+1TT [100]^
+SSB [Single Side Band]^
+WATT [Watt]^
+LOOP [Loop]^
+WIRE [Wire]^
+WATT [Watt]^
+1TT [100]^
+SSB [Single Side Band]^
+SWR [S W R]^
+INFO [Information]^
+SSB [Single Side Band]^
+1TT [100]^
+NW [Now]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+SWR [S W R]^
+GB [Goodbye]^
+88 [88]^
+1TT [100]^
+GB [Goodbye]^
+LOOP [Loop]^
+NW [Now]^
+1TT [100]^
+88 [88]^
+SWR [S W R]^
+INFO [Information]^
+GB [Goodbye]^
+1TT [100]^
+OCF [Off-center fed dipole]^
+1TT [100]^
+GD [Good]^
+GN [Good night]^
+WIRE [Wire]^
+1TT [100]^
+SWR [S W R]^
+1TT [100]^
+LOOP [Loop]^
+OCF [Off-center fed dipole]^
+72 [72]^
+88 [88]^
+GB [Goodbye]^
+GN [Good night]^
+GB [Goodbye]^
+GN [Good night]^
+1TT [100]^
+INFO [Information]^
+1TT [100]^
+NW [Now]^
+SSB [Single Side Band]^
+CW [C W]^
+1TT [100]^
+SWR [S W R]^
+NW [Now]^
+1TT [100]^
+88 [88]^
+1TT [100]^
+88 [88]^
+1TT [100]^
+SWR [S W R]^
+SSB [Single Side Band]^
+GD [Good]^
+WIRE [Wire]^
+1TT [100]^
+SWR [S W R]^
