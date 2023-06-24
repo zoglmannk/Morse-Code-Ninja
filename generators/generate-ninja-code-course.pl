@@ -96,6 +96,15 @@ sub get_safe_output {
         $part2 =~ s/\?/ question mark /g;
         $part2 =~ s/\// slash /g;
 
+        # [x,<XX>] -> [x, <XX>]
+        $part2 =~ s/(.*?),(<.*>)/$1, $2/g;
+
+        # [<XX>,x] -> [<XX>, x]
+        $part2 =~ s/(<.*>),(.*?)/$1, $2/g;
+
+        # [9,8] -> [9, 8]
+        $part2 =~ s/(\d+),(\d+)/$1, $2/g;
+
         $in = $part1 . $part2;
 
     } elsif ($in =~ m/^([^[]+)(\[[^\|]+)(\|.*]\s*\^?\s*)$/) {
@@ -317,7 +326,7 @@ sub generate_lesson_e {
 sub load_dictionary {
     my @dictionary;
 
-    open my $fh, "<", "/Users/kaz/git/morse-camp/src/words-js.txt" or die "Can't open dictionary $!";
+    open my $fh, "<", "data/morse-camp-words-js.txt" or die "Can't open dictionary $!";
     while(my $line = <$fh>) {
         #  ["the", "a", 22038615, "Word"],
 
@@ -398,7 +407,7 @@ sub generate_lesson_f {
 sub load_callsigns {
     my @callsigns;
 
-    open my $fh, "<", "/Users/kaz/Desktop/Morse-Code-Converter/common prefixes/callsigns.txt" or die "Can't open callsigns $!";
+    open my $fh, "<", "data/easy-callsigns.txt" or die "Can't open callsigns $!";
     while(my $line = <$fh>) {
 
         #N0ZHE,USA
@@ -424,6 +433,9 @@ sub generate_lesson_g {
     for (my $i = 0; $i < (scalar @character_order); $i++) {
 
         my $character = $character_order[$i];
+        if(length($character) > 1 || $character =~ m/\?|\\|\./) {
+            next;
+        }
         $available_chars .= $character;
 
         #print "i: $i   ..  available_chars: ~~$available_chars~~\n";
@@ -476,10 +488,55 @@ sub generate_lesson_g {
 
 }
 
-#generate_lesson_a();
-#generate_lesson_b();
-#generate_lesson_c();
+sub rename_files {
+    opendir(my $DIR, ".") or die "Failed to open directory: $!";
+    my @files = sort grep { /^lesson_\d+/ && -f "$_" } readdir($DIR);
+    closedir($DIR);
+
+    my $count = 1;
+
+    foreach my $file (@files) {
+        my $new_name = sprintf("%03d %s", $count, $file);
+        if ($new_name =~ /(\d+) lesson_(\d+\S)_(character_repeat_3x|introduce_letter|[^_]+)_(\S+).txt/) {
+            my $num = $1;
+            my $lesson_group = $2;
+            my $lesson_type = $3;
+            my $character = $4;
+
+            $lesson_type =~ s/introduce_letter/Introduction/;
+            $lesson_type =~ s/words/Words/;
+            $lesson_type =~ s/callsigns/Call Signs/;
+            $lesson_type =~ s/1character/Single Character/;
+            $lesson_type =~ s/2characters/Two Characters/;
+            $lesson_type =~ s/3characters/Three Characters/;
+            $lesson_type =~ s/character_repeat_3x/Single Character Repeated 3x/;
+
+            if($character =~ /^([0-9])$/) {
+                $character = "Number $1";
+            } elsif ($character =~ /^([a-z])$/) {
+                $character = "Letter $1";
+            } elsif ($character eq 'period') {
+                $character = "Period";
+            } elsif ($character eq 'slash') {
+                $character = "Slash";
+            } elsif ($character eq 'question_mark') {
+                $character = "Question Mark";
+            }
+
+            $new_name = "$num Lesson $lesson_group - $character - ${lesson_type}.txt";
+        }
+        rename("$file", "$new_name") or die "Failed to rename file: $!";
+        $count++;
+    }
+
+}
+
+generate_lesson_a();
+generate_lesson_b();
+generate_lesson_c();
 generate_lesson_d();
-#generate_lesson_e();
-#generate_lesson_f();
-#generate_lesson_g();
+generate_lesson_e();
+generate_lesson_f();
+generate_lesson_g();
+
+rename_files();
