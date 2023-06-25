@@ -14,6 +14,13 @@ use POSIX "fmod";
 # ls -1 ~/Desktop/20:10wpm/ | grep txt | perl -e 'while(<>) { $in = $_; chomp($in); if($in !~ m/lesson_\d+[cde]/) { next;}  $in =~ m/^(.*?)\.txt/; $filename = $1; print "aubioquiet -r 0 -i /Users/kaz/Desktop/20:10wpm/${filename}-20wpm.mp3 | ./analyze0.pl | ./analyze1.pl | ./analyze2.pl /Users/kaz/Desktop/20:10wpm/${filename}.txt > /Users/kaz/Desktop/20:10wpm/${filename}.vtt\n"; }' > runme-cde.bash; chmod a+rwx runme-cde.bash
 # ls -1 ~/Desktop/20:10wpm/ | grep txt | perl -e 'while(<>) { $in = $_; chomp($in); if($in !~ m/lesson_\d+[fg]/) { next;}  $in =~ m/^(.*?)\.txt/; $filename = $1; print "aubioquiet -r 0 -i /Users/kaz/Desktop/20:10wpm/${filename}-20wpm.mp3 | ./analyze0.pl | ./analyze1.pl | ./analyze2.pl /Users/kaz/Desktop/20:10wpm/${filename}.txt > /Users/kaz/Desktop/20:10wpm/${filename}.vtt\n"; }' > runme-fg.bash; chmod a+rwx runme-fg.bash
 
+# For fixing up 2 and 3 character stuff from Course
+# sed -e '/-->/n' -e 's/</\&lt;/g; s/>/\&gt;/g' 255\ Lesson\ 41e\ -\ Period\ -\ Three\ Characters.vtt | perl -e 'while(<>) { $in=$_; chomp($in); $in =~ s/^(.*?)\s*,\s*(.*?)\s*,\s*(.*?)$/$1 $2 $3/g; $in = uc($in); $in =~ s/SLASH/Slash/g; $in =~ s/PERIOD/Period/g; $in =~ s/QUESTION MARK/Question Mark/g; print "$in\n"; }' > 255\ Lesson\ 41e\ -\ Period\ -\ Three\ Characters3.vtt
+# For fixing up callsigns
+# cat 109\ Lesson\ 18g\ -\ Letter\ m\ -\ Call\ Signs.vtt | perl -e 'while(<>) { $in=$_; chomp($in); if( $in !~ /--/) {$in =~ s/,| //g;} $in = uc($in); print "$in\n"; }' > 109\ Lesson\ 18g\ -\ Letter\ m\ -\ Call\ Signs2.vtt
+
+
+
 # Create Web Video Text Tracks Format (WebVTT) -- https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API
 # Closed Captioning on YouTube -- https://www.rev.com/blog/close-caption-file-format-guide-for-youtube-vimeo-netflix-and-more
 
