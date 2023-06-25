@@ -6,33 +6,22 @@ use Math::Random::MT;
 my $gen = Math::Random::MT->new(54);
 my $seed = $gen->get_seed();
 
-# Manual Corrections
-#Remove the word "ie ^" from words and re-render
-#  --in 6, 7, 10, 11
-#  grep -r 'ie ^' .
+# Render everything but Call Signs and Words
+# ls -1 | grep 'txt' | grep -v 'Call Signs' | grep -v 'Words' | grep -E '\d+ Lesson' | xargs -IXX ./render.pl -e STANDARD -i "XX" -s 20/10 25/10 30/10 --norepeat --nocourtesytone --sm 0.4
 #
-#  sed '/^ie \^/d' lesson_06f_words_i.txt > lesson_06f_words_i.txt+
-#  mv lesson_06f_words_i.txt+ lesson_06f_words_i.txt
-#
-#  sed '/^ie \^/d' lesson_07f_words_s.txt > lesson_07f_words_s.txt+
-#  mv lesson_07f_words_s.txt+ lesson_07f_words_s.txt
-#
-#  sed '/^ie \^/d' lesson_10f_words_r.txt > lesson_10f_words_r.txt+
-#  mv lesson_10f_words_r.txt+ lesson_10f_words_r.txt
-#
-#  sed '/^ie \^/d' lesson_11f_words_h.txt > lesson_11f_words_h.txt+
-#  mv lesson_11f_words_h.txt+ lesson_11f_words_h.txt
-#
-#
-# Delete lesson G (Callsigns) for Prosigns and symbols
-#
-#  find * | grep lesson_41g_callsigns_period | xargs -IXX rm XX
-#  find * | grep lesson_40g_callsigns | xargs -IXX rm XX
-#   find * | grep lesson_36g_callsigns | xargs -IXX rm XX
-#
-# Redo lesson 29g callsigns slash
-#  lesson_29g_callsigns_slash.txt -- added many /P and /M's
+# Render Words and Call Signs
+# ls -1 | grep 'txt' |  grep -E 'Call Signs|Words' | grep -E '\d+ Lesson' | xargs -IXX ./render.pl -e STANDARD -i "XX" -s 20/10 25/10 30/10 --sm 0.4 --sv 1
 
+# Render ramp up
+# ./render.pl -e STANDARD -i '256 Lesson 42a Words 12.txt' -s 20/12 25/12 30/12 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '257 Lesson 42b Words 14.txt' -s 20/14 25/14 30/14 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '258 Lesson 42c Words 16.txt' -s 20/16 25/16 30/16 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '259 Lesson 42d Words 18.txt' -s 20/18 25/18 30/18 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '260 Lesson 42e Words 20.txt' -s 20/20 25/20 30/20 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '261 Lesson 42f Words 22.txt' -s 25/22 30/22 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '262 Lesson 42g Words 25.txt' -s 25/25 30/25 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '263 Lesson 42h Words 28.txt' -s 30/28 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '264 Lesson 42i Words 30.txt' -s 30/30 --sm 0.6 --sv 1
 
 my @character_order = (
     't', 'a', 'e', 'n', 'o', 'i', 's', '1', '4', 'r', 'h', 'd', 'l',
@@ -475,6 +464,16 @@ sub generate_lesson_g {
         for(my $j = 0; $j < $num_entries; $j++) {
             my $rand_index = pick_random(scalar @priority_callsigns);
             my $selected_call = $priority_callsigns[$rand_index];
+
+            # Ensure there is at least a 25% chance of seeing the slash character for lesson 29g - Introduction of Slash
+            if(int($gen->rand(100)) <= 25 && $i == 28) {
+                my $modifier = "/P";
+                if(int($gen->rand(100)) <= 50) {
+                    $modifier = "/M";
+                }
+                $selected_call = $selected_call . $modifier;
+            }
+
             my $pronounced_call = $selected_call;
             $pronounced_call =~ s/([A-Za-z0-9])/$1 /g;
             $pronounced_call =~ s/([0-9])/$1,/g;
