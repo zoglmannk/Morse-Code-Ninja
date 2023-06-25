@@ -21,10 +21,10 @@ s 0 b [s,0,b]^
 c 3 i [c,3,i]^
 h v 2 [h,v,2]^
 i u w [i,u,w]^
-<BT> g a [<BT>,g,a]^
+<BT> g a [<BT>, g,a]^
 6 r j [6,r,j]^
-5 <BT> n [5,<BT>,n]^
-w x <BT> [w,x,<BT>]^
+5 <BT> n [5, <BT>, n]^
+w x <BT> [w,x, <BT>]^
 e 5 c [e,5,c]^
 4 n 6 [4,n,6]^
 d t s [d,t,s]^
@@ -38,7 +38,7 @@ i m / [i,m, slash]^
 h n t [h,n,t]^
 9 w 4 [9,w,4]^
 a 4 x [a,4,x]^
-<BT> 5 x [<BT>,5,x]^
+<BT> 5 x [<BT>, 5,x]^
 b u 9 [b,u,9]^
 y \? 9 [y, question mark ,9]^
 d x w [d,x,w]^
@@ -58,7 +58,7 @@ u 2 7 [u,2, 7]^
 s 4 l [s,4,l]^
 x s o [x,s,o]^
 u j x [u,j,x]^
-l <BT> 4 [l,<BT>,4]^
+l <BT> 4 [l, <BT>, 4]^
 5 v 2 [5,v,2]^
 1 2 r [1, 2,r]^
 \? 0 b [ question mark ,0,b]^
@@ -91,7 +91,7 @@ e s g [e,s,g]^
 d o r [d,o,r]^
 d p 8 [d,p,8]^
 y 7 u [y,7,u]^
-x \? <BT> [x, question mark ,<BT>]^
+x \? <BT> [x, question mark , <BT>]^
 9 c / [9,c, slash]^
 c 5 1 [c,5, 1]^
 6 p g [6,p,g]^
@@ -103,10 +103,10 @@ v h u [v,h,u]^
 w 6 h [w,6,h]^
 f k y [f,k,y]^
 0 l 4 [0,l,4]^
-<BT> j 3 [<BT>,j,3]^
+<BT> j 3 [<BT>, j,3]^
 o x m [o,x,m]^
 d x 8 [d,x,8]^
-<BT> 4 n [<BT>,4,n]^
+<BT> 4 n [<BT>, 4,n]^
 l e t [l,e,t]^
 u x g [u,x,g]^
 8 x r [8,x,r]^
@@ -142,9 +142,9 @@ r w u [r,w,u]^
 w e 9 [w,e,9]^
 x 7 i [x,7,i]^
 1 m r [1,m,r]^
-<BT> 6 \? [<BT>,6, question mark]^
+<BT> 6 \? [<BT>, 6, question mark]^
 3 l h [3,l,h]^
-r <BT> m [r,<BT>,m]^
+r <BT> m [r, <BT>, m]^
 j t c [j,t,c]^
 g 6 7 [g,6, 7]^
 j 4 9 [j,4, 9]^
@@ -155,18 +155,18 @@ l h i [l,h,i]^
 p x o [p,x,o]^
 p y h [p,y,h]^
 x g t [x,g,t]^
-1 3 7 [1, 3, 7]^
+1 3 7 [1, 3,7]^
 x a g [x,a,g]^
 h y 9 [h,y,9]^
 a x 5 [a,x,5]^
 p y b [p,y,b]^
 3 9 g [3, 9,g]^
-\? <BT> x [ question mark ,<BT>,x]^
+\? <BT> x [ question mark , <BT>, x]^
 p x i [p,x,i]^
 x \? y [x, question mark ,y]^
 4 g h [4,g,h]^
 n s r [n,s,r]^
-<BT> o t [<BT>,o,t]^
+<BT> o t [<BT>, o,t]^
 k h u [k,h,u]^
 i 3 4 [i,3, 4]^
 3 h t [3,h,t]^
@@ -183,12 +183,12 @@ h / x [h, slash ,x]^
 5 n x [5,n,x]^
 u 9 6 [u,9, 6]^
 f 2 x [f,2,x]^
-6 x <BT> [6,x,<BT>]^
+6 x <BT> [6,x, <BT>]^
 h / 2 [h, slash ,2]^
 8 3 o [8, 3,o]^
 u s v [u,s,v]^
 x / x [x, slash ,x]^
-\? <BT> x [ question mark ,<BT>,x]^
+\? <BT> x [ question mark , <BT>, x]^
 p 7 9 [p,7, 9]^
 x 6 l [x,6,l]^
 v r j [v,r,j]^
@@ -209,14 +209,14 @@ y 9 0 [y,9, 0]^
 x 7 g [x,7,g]^
 k / t [k, slash ,t]^
 w / 6 [w, slash ,6]^
-g o <BT> [g,o,<BT>]^
+g o <BT> [g,o, <BT>]^
 1 k 6 [1,k,6]^
 4 x u [4,x,u]^
 1 m t [1,m,t]^
 0 w 2 [0,w,2]^
 o i e [o,i,e]^
-\? r <BT> [ question mark ,r,<BT>]^
-7 i <BT> [7,i,<BT>]^
+\? r <BT> [ question mark ,r, <BT>]^
+7 i <BT> [7,i, <BT>]^
 x b l [x,b,l]^
 o n a [o,n,a]^
 c k n [c,k,n]^
@@ -226,7 +226,7 @@ h x f [h,x,f]^
 x t n [x,t,n]^
 p 8 r [p,8,r]^
 l e f [l,e,f]^
-<BT> m f [<BT>,m,f]^
+<BT> m f [<BT>, m,f]^
 r x w [r,x,w]^
 j \? b [j, question mark ,b]^
 l c v [l,c,v]^
@@ -237,7 +237,7 @@ x 9 x [x,9,x]^
 b p 0 [b,p,0]^
 t 5 c [t,5,c]^
 g d j [g,d,j]^
-f <BT> i [f,<BT>,i]^
+f <BT> i [f, <BT>, i]^
 n c 9 [n,c,9]^
 x c 2 [x,c,2]^
 m i x [m,i,x]^
@@ -302,15 +302,15 @@ d p x [d,p,x]^
 e 8 x [e,8,x]^
 e x s [e,x,s]^
 \? j 6 [ question mark ,j,6]^
-o <BT> c [o,<BT>,c]^
+o <BT> c [o, <BT>, c]^
 w 2 3 [w,2, 3]^
 b x 6 [b,x,6]^
 o k 3 [o,k,3]^
-5 <BT> y [5,<BT>,y]^
+5 <BT> y [5, <BT>, y]^
 x y 2 [x,y,2]^
 w o 9 [w,o,9]^
 e 0 k [e,0,k]^
-<BT> \? x [<BT>, question mark ,x]^
+<BT> \? x [<BT>,  question mark ,x]^
 w / p [w, slash ,p]^
 8 p b [8,p,b]^
 2 / f [2, slash ,f]^
@@ -320,10 +320,10 @@ m x 9 [m,x,9]^
 b j n [b,j,n]^
 f y 9 [f,y,9]^
 \? v f [ question mark ,v,f]^
-1 4 3 [1, 4, 3]^
+1 4 3 [1, 4,3]^
 x 5 x [x,5,x]^
 0 x / [0,x, slash]^
-x 7 <BT> [x,7,<BT>]^
+x 7 <BT> [x,7, <BT>]^
 t 5 7 [t,5, 7]^
 x u b [x,u,b]^
 w 8 g [w,8,g]^
@@ -339,7 +339,7 @@ x 3 4 [x,3, 4]^
 c x y [c,x,y]^
 s 2 t [s,2,t]^
 b m t [b,m,t]^
-m <BT> l [m,<BT>,l]^
+m <BT> l [m, <BT>, l]^
 u r e [u,r,e]^
 1 x 1 [1,x,1]^
 8 x n [8,x,n]^
@@ -356,7 +356,7 @@ d y b [d,y,b]^
 9 v 0 [9,v,0]^
 j i h [j,i,h]^
 1 d x [1,d,x]^
-r <BT> j [r,<BT>,j]^
+r <BT> j [r, <BT>, j]^
 1 5 v [1, 5,v]^
 7 m w [7,m,w]^
 f / 1 [f, slash ,1]^
@@ -380,7 +380,7 @@ d m j [d,m,j]^
 x n k [x,n,k]^
 j x h [j,x,h]^
 l w x [l,w,x]^
-<BT> k h [<BT>,k,h]^
+<BT> k h [<BT>, k,h]^
 x n i [x,n,i]^
 x a x [x,a,x]^
 i e r [i,e,r]^
@@ -393,7 +393,7 @@ b 9 5 [b,9, 5]^
 3 x 9 [3,x,9]^
 h 8 h [h,8,h]^
 d h j [d,h,j]^
-a d <BT> [a,d,<BT>]^
+a d <BT> [a,d, <BT>]^
 x v t [x,v,t]^
 0 5 x [0, 5,x]^
 p n p [p,n,p]^

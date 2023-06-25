@@ -6,33 +6,22 @@ use Math::Random::MT;
 my $gen = Math::Random::MT->new(54);
 my $seed = $gen->get_seed();
 
-# Manual Corrections
-#Remove the word "ie ^" from words and re-render
-#  --in 6, 7, 10, 11
-#  grep -r 'ie ^' .
+# Render everything but Call Signs and Words
+# ls -1 | grep 'txt' | grep -v 'Call Signs' | grep -v 'Words' | grep -E '\d+ Lesson' | xargs -IXX ./render.pl -e STANDARD -i "XX" -s 20/10 25/10 30/10 --norepeat --nocourtesytone --sm 0.4
 #
-#  sed '/^ie \^/d' lesson_06f_words_i.txt > lesson_06f_words_i.txt+
-#  mv lesson_06f_words_i.txt+ lesson_06f_words_i.txt
-#
-#  sed '/^ie \^/d' lesson_07f_words_s.txt > lesson_07f_words_s.txt+
-#  mv lesson_07f_words_s.txt+ lesson_07f_words_s.txt
-#
-#  sed '/^ie \^/d' lesson_10f_words_r.txt > lesson_10f_words_r.txt+
-#  mv lesson_10f_words_r.txt+ lesson_10f_words_r.txt
-#
-#  sed '/^ie \^/d' lesson_11f_words_h.txt > lesson_11f_words_h.txt+
-#  mv lesson_11f_words_h.txt+ lesson_11f_words_h.txt
-#
-#
-# Delete lesson G (Callsigns) for Prosigns and symbols
-#
-#  find * | grep lesson_41g_callsigns_period | xargs -IXX rm XX
-#  find * | grep lesson_40g_callsigns | xargs -IXX rm XX
-#   find * | grep lesson_36g_callsigns | xargs -IXX rm XX
-#
-# Redo lesson 29g callsigns slash
-#  lesson_29g_callsigns_slash.txt -- added many /P and /M's
+# Render Words and Call Signs
+# ls -1 | grep 'txt' |  grep -E 'Call Signs|Words' | grep -E '\d+ Lesson' | xargs -IXX ./render.pl -e STANDARD -i "XX" -s 20/10 25/10 30/10 --sm 0.4 --sv 1
 
+# Render ramp up
+# ./render.pl -e STANDARD -i '256 Lesson 42a Words 12.txt' -s 20/12 25/12 30/12 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '257 Lesson 42b Words 14.txt' -s 20/14 25/14 30/14 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '258 Lesson 42c Words 16.txt' -s 20/16 25/16 30/16 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '259 Lesson 42d Words 18.txt' -s 20/18 25/18 30/18 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '260 Lesson 42e Words 20.txt' -s 20/20 25/20 30/20 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '261 Lesson 42f Words 22.txt' -s 25/22 30/22 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '262 Lesson 42g Words 25.txt' -s 25/25 30/25 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '263 Lesson 42h Words 28.txt' -s 30/28 --sm 0.6 --sv 1
+# ./render.pl -e STANDARD -i '264 Lesson 42i Words 30.txt' -s 30/30 --sm 0.6 --sv 1
 
 my @character_order = (
     't', 'a', 'e', 'n', 'o', 'i', 's', '1', '4', 'r', 'h', 'd', 'l',
@@ -95,6 +84,15 @@ sub get_safe_output {
         $part2 =~ s/\./ period /g;
         $part2 =~ s/\?/ question mark /g;
         $part2 =~ s/\// slash /g;
+
+        # [x,<XX>] -> [x, <XX>]
+        $part2 =~ s/(.*?),(<.*>)/$1, $2/g;
+
+        # [<XX>,x] -> [<XX>, x]
+        $part2 =~ s/(<.*>),(.*?)/$1, $2/g;
+
+        # [9,8] -> [9, 8]
+        $part2 =~ s/(\d+),(\d+)/$1, $2/g;
 
         $in = $part1 . $part2;
 
@@ -317,7 +315,7 @@ sub generate_lesson_e {
 sub load_dictionary {
     my @dictionary;
 
-    open my $fh, "<", "/Users/kaz/git/morse-camp/src/words-js.txt" or die "Can't open dictionary $!";
+    open my $fh, "<", "data/morse-camp-words-js.txt" or die "Can't open dictionary $!";
     while(my $line = <$fh>) {
         #  ["the", "a", 22038615, "Word"],
 
@@ -398,7 +396,7 @@ sub generate_lesson_f {
 sub load_callsigns {
     my @callsigns;
 
-    open my $fh, "<", "/Users/kaz/Desktop/Morse-Code-Converter/common prefixes/callsigns.txt" or die "Can't open callsigns $!";
+    open my $fh, "<", "data/easy-callsigns.txt" or die "Can't open callsigns $!";
     while(my $line = <$fh>) {
 
         #N0ZHE,USA
@@ -424,6 +422,9 @@ sub generate_lesson_g {
     for (my $i = 0; $i < (scalar @character_order); $i++) {
 
         my $character = $character_order[$i];
+        if(length($character) > 1 || $character =~ m/\?|\\|\./) {
+            next;
+        }
         $available_chars .= $character;
 
         #print "i: $i   ..  available_chars: ~~$available_chars~~\n";
@@ -463,6 +464,16 @@ sub generate_lesson_g {
         for(my $j = 0; $j < $num_entries; $j++) {
             my $rand_index = pick_random(scalar @priority_callsigns);
             my $selected_call = $priority_callsigns[$rand_index];
+
+            # Ensure there is at least a 25% chance of seeing the slash character for lesson 29g - Introduction of Slash
+            if(int($gen->rand(100)) <= 25 && $i == 28) {
+                my $modifier = "/P";
+                if(int($gen->rand(100)) <= 50) {
+                    $modifier = "/M";
+                }
+                $selected_call = $selected_call . $modifier;
+            }
+
             my $pronounced_call = $selected_call;
             $pronounced_call =~ s/([A-Za-z0-9])/$1 /g;
             $pronounced_call =~ s/([0-9])/$1,/g;
@@ -476,10 +487,55 @@ sub generate_lesson_g {
 
 }
 
-#generate_lesson_a();
-#generate_lesson_b();
-#generate_lesson_c();
+sub rename_files {
+    opendir(my $DIR, ".") or die "Failed to open directory: $!";
+    my @files = sort grep { /^lesson_\d+/ && -f "$_" } readdir($DIR);
+    closedir($DIR);
+
+    my $count = 1;
+
+    foreach my $file (@files) {
+        my $new_name = sprintf("%03d %s", $count, $file);
+        if ($new_name =~ /(\d+) lesson_(\d+\S)_(character_repeat_3x|introduce_letter|[^_]+)_(\S+).txt/) {
+            my $num = $1;
+            my $lesson_group = $2;
+            my $lesson_type = $3;
+            my $character = $4;
+
+            $lesson_type =~ s/introduce_letter/Introduction/;
+            $lesson_type =~ s/words/Words/;
+            $lesson_type =~ s/callsigns/Call Signs/;
+            $lesson_type =~ s/1character/Single Character/;
+            $lesson_type =~ s/2characters/Two Characters/;
+            $lesson_type =~ s/3characters/Three Characters/;
+            $lesson_type =~ s/character_repeat_3x/Single Character Repeated 3x/;
+
+            if($character =~ /^([0-9])$/) {
+                $character = "Number $1";
+            } elsif ($character =~ /^([a-z])$/) {
+                $character = "Letter $1";
+            } elsif ($character eq 'period') {
+                $character = "Period";
+            } elsif ($character eq 'slash') {
+                $character = "Slash";
+            } elsif ($character eq 'question_mark') {
+                $character = "Question Mark";
+            }
+
+            $new_name = "$num Lesson $lesson_group - $character - ${lesson_type}.txt";
+        }
+        rename("$file", "$new_name") or die "Failed to rename file: $!";
+        $count++;
+    }
+
+}
+
+generate_lesson_a();
+generate_lesson_b();
+generate_lesson_c();
 generate_lesson_d();
-#generate_lesson_e();
-#generate_lesson_f();
-#generate_lesson_g();
+generate_lesson_e();
+generate_lesson_f();
+generate_lesson_g();
+
+rename_files();
