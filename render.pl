@@ -34,7 +34,7 @@ GetOptions(
   'sm|silencemorse=s' => \(my $silence_between_morse_code_and_spoken_voice = "1"),
   'ss|silencesets=s'  => \(my $silence_between_sets = "1"), # typically "1" sec
   'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
-  'x|extraspace=i'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
+  'x|extraspace=s'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
   'p|pitchtone=i'     => \(my $pitch_tone = 700), # tone in Hz for pitch
   'pr|pitchrandom'    => \(my $pitch_tone_random = '0'), # flag. 0 == false, random pitch tone
