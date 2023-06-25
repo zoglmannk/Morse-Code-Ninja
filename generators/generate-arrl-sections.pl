@@ -100,21 +100,24 @@ $section_pronunciation{'KS'} = 'Kansas';
 $section_pronunciation{'MN'} = 'Minnesota';
 $section_pronunciation{'MO'} = 'Missouri';
 $section_pronunciation{'NE'} = 'Nebraska';
+$section_pronunciation{'ND'} = 'North Dakota';
 $section_pronunciation{'SD'} = 'South Dakota';
 
 # Canadian Area Call Sign
-$section_pronunciation{'MAR'} = 'Maritime';
+$section_pronunciation{'NB'} = 'New Brunswick';
+$section_pronunciation{'NS'} = 'Nova Scotia';
 $section_pronunciation{'NL'} = 'Newfoundland Labrador';
 $section_pronunciation{'QC'} = 'Quebec';
 $section_pronunciation{'ONE'} = 'Ontario East';
 $section_pronunciation{'ONN'} = 'Ontario North';
 $section_pronunciation{'ONS'} = 'Ontario South';
-$section_pronunciation{'GTA'} = 'Greater Toronto Area';
+$section_pronunciation{'PE'} = 'Prince Edward Island';
+$section_pronunciation{'GH'} = 'Golden Horseshoe';
 $section_pronunciation{'MB'} = 'Manitoba';
 $section_pronunciation{'SK'} = 'Saskatchewan';
 $section_pronunciation{'AB'} = 'Alberta';
 $section_pronunciation{'BC'} = 'British Columbia';
-$section_pronunciation{'NT'} = 'Northern Territories';
+$section_pronunciation{'TER'} = 'Territories';
 
 $section_pronunciation{'DX'} = 'DX';
 my @section_abbreviations = keys %section_pronunciation;
