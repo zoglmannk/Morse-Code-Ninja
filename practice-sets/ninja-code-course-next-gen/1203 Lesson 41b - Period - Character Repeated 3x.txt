@@ -1,0 +1,600 @@
+aaa[a|a]^
+\.\.\.[ period |\.]^
+<BK><BK><BK>[<BK>|<BK>]^
+bbb[b|b]^
+fff[f|f]^
+eee[e|e]^
+\.\.\.[ period |\.]^
+www[w|w]^
+222[2|2]^
+<BK><BK><BK>[<BK>|<BK>]^
+222[2|2]^
+aaa[a|a]^
+\.\.\.[ period |\.]^
+ppp[p|p]^
+yyy[y|y]^
+qqq[q|q]^
+<BK><BK><BK>[<BK>|<BK>]^
+\?\?\?[ question mark |\?]^
+qqq[q|q]^
+zzz[z|z]^
+hhh[h|h]^
+ddd[d|d]^
+444[4|4]^
+\.\.\.[ period |\.]^
+555[5|5]^
+666[6|6]^
+mmm[m|m]^
+555[5|5]^
+\.\.\.[ period |\.]^
+\?\?\?[ question mark |\?]^
+rrr[r|r]^
+555[5|5]^
+vvv[v|v]^
+lll[l|l]^
+333[3|3]^
+eee[e|e]^
+mmm[m|m]^
+ttt[t|t]^
+333[3|3]^
+<BT><BT><BT>[<BT>|<BT>]^
+ccc[c|c]^
+ddd[d|d]^
+000[0|0]^
+ddd[d|d]^
+<BT><BT><BT>[<BT>|<BT>]^
+111[1|1]^
+\.\.\.[ period |\.]^
+///[ slash |/]^
+111[1|1]^
+hhh[h|h]^
+\.\.\.[ period |\.]^
+000[0|0]^
+<BK><BK><BK>[<BK>|<BK>]^
+uuu[u|u]^
+ppp[p|p]^
+\.\.\.[ period |\.]^
+rrr[r|r]^
+xxx[x|x]^
+ddd[d|d]^
+sss[s|s]^
+nnn[n|n]^
+999[9|9]^
+jjj[j|j]^
+ppp[p|p]^
+qqq[q|q]^
+\?\?\?[ question mark |\?]^
+xxx[x|x]^
+ooo[o|o]^
+fff[f|f]^
+mmm[m|m]^
+<BT><BT><BT>[<BT>|<BT>]^
+111[1|1]^
+nnn[n|n]^
+\.\.\.[ period |\.]^
+<BK><BK><BK>[<BK>|<BK>]^
+\?\?\?[ question mark |\?]^
+555[5|5]^
+www[w|w]^
+<BT><BT><BT>[<BT>|<BT>]^
+zzz[z|z]^
+999[9|9]^
+\.\.\.[ period |\.]^
+888[8|8]^
+yyy[y|y]^
+qqq[q|q]^
+111[1|1]^
+888[8|8]^
+666[6|6]^
+\.\.\.[ period |\.]^
+888[8|8]^
+iii[i|i]^
+222[2|2]^
+nnn[n|n]^
+\.\.\.[ period |\.]^
+ccc[c|c]^
+ggg[g|g]^
+vvv[v|v]^
+///[ slash |/]^
+111[1|1]^
+\?\?\?[ question mark |\?]^
+\.\.\.[ period |\.]^
+888[8|8]^
+lll[l|l]^
+000[0|0]^
+666[6|6]^
+sss[s|s]^
+\.\.\.[ period |\.]^
+888[8|8]^
+uuu[u|u]^
+kkk[k|k]^
+\.\.\.[ period |\.]^
+zzz[z|z]^
+222[2|2]^
+qqq[q|q]^
+\.\.\.[ period |\.]^
+ooo[o|o]^
+666[6|6]^
+kkk[k|k]^
+fff[f|f]^
+qqq[q|q]^
+ccc[c|c]^
+000[0|0]^
+\.\.\.[ period |\.]^
+zzz[z|z]^
+<BK><BK><BK>[<BK>|<BK>]^
+jjj[j|j]^
+000[0|0]^
+nnn[n|n]^
+111[1|1]^
+ccc[c|c]^
+\.\.\.[ period |\.]^
+<BT><BT><BT>[<BT>|<BT>]^
+333[3|3]^
+bbb[b|b]^
+rrr[r|r]^
+ddd[d|d]^
+ttt[t|t]^
+111[1|1]^
+999[9|9]^
+\.\.\.[ period |\.]^
+rrr[r|r]^
+\.\.\.[ period |\.]^
+000[0|0]^
+sss[s|s]^
+uuu[u|u]^
+xxx[x|x]^
+rrr[r|r]^
+777[7|7]^
+xxx[x|x]^
+www[w|w]^
+zzz[z|z]^
+bbb[b|b]^
+nnn[n|n]^
+ggg[g|g]^
+\.\.\.[ period |\.]^
+yyy[y|y]^
+uuu[u|u]^
+<BK><BK><BK>[<BK>|<BK>]^
+sss[s|s]^
+mmm[m|m]^
+lll[l|l]^
+nnn[n|n]^
+999[9|9]^
+eee[e|e]^
+rrr[r|r]^
+777[7|7]^
+ppp[p|p]^
+hhh[h|h]^
+\.\.\.[ period |\.]^
+555[5|5]^
+vvv[v|v]^
+ggg[g|g]^
+www[w|w]^
+333[3|3]^
+bbb[b|b]^
+999[9|9]^
+aaa[a|a]^
+iii[i|i]^
+\.\.\.[ period |\.]^
+111[1|1]^
+///[ slash |/]^
+ccc[c|c]^
+jjj[j|j]^
+mmm[m|m]^
+ppp[p|p]^
+444[4|4]^
+\.\.\.[ period |\.]^
+rrr[r|r]^
+\.\.\.[ period |\.]^
+bbb[b|b]^
+\.\.\.[ period |\.]^
+zzz[z|z]^
+888[8|8]^
+\.\.\.[ period |\.]^
+777[7|7]^
+\.\.\.[ period |\.]^
+333[3|3]^
+555[5|5]^
+ddd[d|d]^
+iii[i|i]^
+ggg[g|g]^
+333[3|3]^
+zzz[z|z]^
+aaa[a|a]^
+888[8|8]^
+sss[s|s]^
+xxx[x|x]^
+444[4|4]^
+888[8|8]^
+\.\.\.[ period |\.]^
+qqq[q|q]^
+666[6|6]^
+999[9|9]^
+ccc[c|c]^
+vvv[v|v]^
+zzz[z|z]^
+\?\?\?[ question mark |\?]^
+hhh[h|h]^
+///[ slash |/]^
+\.\.\.[ period |\.]^
+bbb[b|b]^
+hhh[h|h]^
+lll[l|l]^
+888[8|8]^
+000[0|0]^
+aaa[a|a]^
+\.\.\.[ period |\.]^
+sss[s|s]^
+vvv[v|v]^
+kkk[k|k]^
+333[3|3]^
+<BK><BK><BK>[<BK>|<BK>]^
+kkk[k|k]^
+uuu[u|u]^
+\.\.\.[ period |\.]^
+<BT><BT><BT>[<BT>|<BT>]^
+qqq[q|q]^
+ggg[g|g]^
+ppp[p|p]^
+\.\.\.[ period |\.]^
+888[8|8]^
+jjj[j|j]^
+aaa[a|a]^
+000[0|0]^
+ccc[c|c]^
+rrr[r|r]^
+www[w|w]^
+nnn[n|n]^
+uuu[u|u]^
+///[ slash |/]^
+222[2|2]^
+yyy[y|y]^
+lll[l|l]^
+sss[s|s]^
+eee[e|e]^
+zzz[z|z]^
+ttt[t|t]^
+uuu[u|u]^
+ddd[d|d]^
+hhh[h|h]^
+fff[f|f]^
+yyy[y|y]^
+555[5|5]^
+999[9|9]^
+eee[e|e]^
+222[2|2]^
+111[1|1]^
+rrr[r|r]^
+222[2|2]^
+999[9|9]^
+777[7|7]^
+\.\.\.[ period |\.]^
+zzz[z|z]^
+ttt[t|t]^
+nnn[n|n]^
+<BT><BT><BT>[<BT>|<BT>]^
+666[6|6]^
+000[0|0]^
+ooo[o|o]^
+\.\.\.[ period |\.]^
+jjj[j|j]^
+fff[f|f]^
+333[3|3]^
+\.\.\.[ period |\.]^
+nnn[n|n]^
+222[2|2]^
+111[1|1]^
+<BK><BK><BK>[<BK>|<BK>]^
+bbb[b|b]^
+999[9|9]^
+ooo[o|o]^
+\.\.\.[ period |\.]^
+jjj[j|j]^
+ccc[c|c]^
+iii[i|i]^
+ccc[c|c]^
+///[ slash |/]^
+\.\.\.[ period |\.]^
+bbb[b|b]^
+\.\.\.[ period |\.]^
+111[1|1]^
+<BK><BK><BK>[<BK>|<BK>]^
+jjj[j|j]^
+iii[i|i]^
+999[9|9]^
+\.\.\.[ period |\.]^
+ccc[c|c]^
+ooo[o|o]^
+www[w|w]^
+ccc[c|c]^
+kkk[k|k]^
+666[6|6]^
+jjj[j|j]^
+ccc[c|c]^
+qqq[q|q]^
+\.\.\.[ period |\.]^
+888[8|8]^
+sss[s|s]^
+kkk[k|k]^
+vvv[v|v]^
+222[2|2]^
+nnn[n|n]^
+mmm[m|m]^
+333[3|3]^
+000[0|0]^
+555[5|5]^
+333[3|3]^
+///[ slash |/]^
+iii[i|i]^
+rrr[r|r]^
+aaa[a|a]^
+555[5|5]^
+777[7|7]^
+ccc[c|c]^
+777[7|7]^
+333[3|3]^
+\.\.\.[ period |\.]^
+www[w|w]^
+222[2|2]^
+sss[s|s]^
+yyy[y|y]^
+lll[l|l]^
+\.\.\.[ period |\.]^
+777[7|7]^
+\?\?\?[ question mark |\?]^
+\.\.\.[ period |\.]^
+kkk[k|k]^
+qqq[q|q]^
+ddd[d|d]^
+hhh[h|h]^
+rrr[r|r]^
+333[3|3]^
+\.\.\.[ period |\.]^
+777[7|7]^
+aaa[a|a]^
+<BK><BK><BK>[<BK>|<BK>]^
+rrr[r|r]^
+sss[s|s]^
+777[7|7]^
+vvv[v|v]^
+eee[e|e]^
+000[0|0]^
+jjj[j|j]^
+ddd[d|d]^
+rrr[r|r]^
+888[8|8]^
+kkk[k|k]^
+nnn[n|n]^
+xxx[x|x]^
+jjj[j|j]^
+lll[l|l]^
+uuu[u|u]^
+\.\.\.[ period |\.]^
+\?\?\?[ question mark |\?]^
+eee[e|e]^
+888[8|8]^
+\.\.\.[ period |\.]^
+www[w|w]^
+777[7|7]^
+kkk[k|k]^
+000[0|0]^
+sss[s|s]^
+www[w|w]^
+kkk[k|k]^
+mmm[m|m]^
+qqq[q|q]^
+444[4|4]^
+www[w|w]^
+uuu[u|u]^
+www[w|w]^
+ttt[t|t]^
+nnn[n|n]^
+999[9|9]^
+fff[f|f]^
+<BT><BT><BT>[<BT>|<BT>]^
+\.\.\.[ period |\.]^
+fff[f|f]^
+555[5|5]^
+\?\?\?[ question mark |\?]^
+222[2|2]^
+ggg[g|g]^
+777[7|7]^
+iii[i|i]^
+rrr[r|r]^
+666[6|6]^
+111[1|1]^
+777[7|7]^
+fff[f|f]^
+jjj[j|j]^
+eee[e|e]^
+999[9|9]^
+eee[e|e]^
+kkk[k|k]^
+ggg[g|g]^
+<BK><BK><BK>[<BK>|<BK>]^
+ddd[d|d]^
+\.\.\.[ period |\.]^
+000[0|0]^
+222[2|2]^
+ggg[g|g]^
+zzz[z|z]^
+\.\.\.[ period |\.]^
+jjj[j|j]^
+ooo[o|o]^
+\.\.\.[ period |\.]^
+xxx[x|x]^
+aaa[a|a]^
+xxx[x|x]^
+333[3|3]^
+rrr[r|r]^
+nnn[n|n]^
+333[3|3]^
+jjj[j|j]^
+nnn[n|n]^
+\.\.\.[ period |\.]^
+xxx[x|x]^
+\?\?\?[ question mark |\?]^
+yyy[y|y]^
+666[6|6]^
+xxx[x|x]^
+555[5|5]^
+999[9|9]^
+ttt[t|t]^
+\.\.\.[ period |\.]^
+222[2|2]^
+vvv[v|v]^
+888[8|8]^
+\.\.\.[ period |\.]^
+jjj[j|j]^
+\?\?\?[ question mark |\?]^
+ttt[t|t]^
+111[1|1]^
+zzz[z|z]^
+ccc[c|c]^
+vvv[v|v]^
+rrr[r|r]^
+555[5|5]^
+hhh[h|h]^
+111[1|1]^
+zzz[z|z]^
+lll[l|l]^
+<BT><BT><BT>[<BT>|<BT>]^
+000[0|0]^
+\.\.\.[ period |\.]^
+mmm[m|m]^
+ggg[g|g]^
+///[ slash |/]^
+666[6|6]^
+111[1|1]^
+\.\.\.[ period |\.]^
+000[0|0]^
+ggg[g|g]^
+<BK><BK><BK>[<BK>|<BK>]^
+jjj[j|j]^
+\.\.\.[ period |\.]^
+<BK><BK><BK>[<BK>|<BK>]^
+zzz[z|z]^
+777[7|7]^
+\.\.\.[ period |\.]^
+777[7|7]^
+iii[i|i]^
+999[9|9]^
+sss[s|s]^
+\.\.\.[ period |\.]^
+zzz[z|z]^
+333[3|3]^
+<BT><BT><BT>[<BT>|<BT>]^
+\.\.\.[ period |\.]^
+000[0|0]^
+\.\.\.[ period |\.]^
+666[6|6]^
+aaa[a|a]^
+555[5|5]^
+\.\.\.[ period |\.]^
+lll[l|l]^
+\.\.\.[ period |\.]^
+222[2|2]^
+mmm[m|m]^
+lll[l|l]^
+\.\.\.[ period |\.]^
+jjj[j|j]^
+lll[l|l]^
+sss[s|s]^
+222[2|2]^
+bbb[b|b]^
+jjj[j|j]^
+666[6|6]^
+ooo[o|o]^
+ccc[c|c]^
+333[3|3]^
+444[4|4]^
+qqq[q|q]^
+mmm[m|m]^
+222[2|2]^
+bbb[b|b]^
+///[ slash |/]^
+555[5|5]^
+aaa[a|a]^
+ggg[g|g]^
+mmm[m|m]^
+zzz[z|z]^
+ddd[d|d]^
+222[2|2]^
+ggg[g|g]^
+sss[s|s]^
+ttt[t|t]^
+\?\?\?[ question mark |\?]^
+zzz[z|z]^
+lll[l|l]^
+zzz[z|z]^
+lll[l|l]^
+111[1|1]^
+mmm[m|m]^
+444[4|4]^
+///[ slash |/]^
+666[6|6]^
+888[8|8]^
+jjj[j|j]^
+000[0|0]^
+222[2|2]^
+\.\.\.[ period |\.]^
+nnn[n|n]^
+333[3|3]^
+222[2|2]^
+sss[s|s]^
+\.\.\.[ period |\.]^
+www[w|w]^
+\.\.\.[ period |\.]^
+uuu[u|u]^
+\.\.\.[ period |\.]^
+eee[e|e]^
+jjj[j|j]^
+999[9|9]^
+aaa[a|a]^
+\.\.\.[ period |\.]^
+888[8|8]^
+000[0|0]^
+\.\.\.[ period |\.]^
+444[4|4]^
+\.\.\.[ period |\.]^
+hhh[h|h]^
+lll[l|l]^
+www[w|w]^
+fff[f|f]^
+vvv[v|v]^
+kkk[k|k]^
+///[ slash |/]^
+yyy[y|y]^
+rrr[r|r]^
+ccc[c|c]^
+yyy[y|y]^
+jjj[j|j]^
+lll[l|l]^
+uuu[u|u]^
+eee[e|e]^
+vvv[v|v]^
+fff[f|f]^
+jjj[j|j]^
+xxx[x|x]^
+\.\.\.[ period |\.]^
+bbb[b|b]^
+111[1|1]^
+ooo[o|o]^
+111[1|1]^
+www[w|w]^
+zzz[z|z]^
+\.\.\.[ period |\.]^
+vvv[v|v]^
+666[6|6]^
+lll[l|l]^
+mmm[m|m]^
+\.\.\.[ period |\.]^
+lll[l|l]^
+fff[f|f]^
+zzz[z|z]^
+\.\.\.[ period |\.]^
+ddd[d|d]^
+lll[l|l]^
+\.\.\.[ period |\.]^
+aaa[a|a]^

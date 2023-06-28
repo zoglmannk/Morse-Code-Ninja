@@ -1,0 +1,600 @@
+fc [f,c]^
+4l [4,l]^
+df [d,f]^
+3h [3,h]^
+tc [t,c]^
+2o [2,o]^
+3f [3,f]^
+nc [n,c]^
+hs [h,s]^
+de [d,e]^
+2t [2,t]^
+\?w [ question mark ,w]^
+a1 [a,1]^
+e2 [e,2]^
+d2 [d,2]^
+uf [u,f]^
+wu [w,u]^
+fh [f,h]^
+uw [u,w]^
+f2 [f,2]^
+lf [l,f]^
+t6 [t,6]^
+fw [f,w]^
+t2 [t,2]^
+6d [6,d]^
+mu [m,u]^
+sa [s,a]^
+n3 [n,3]^
+a1 [a,1]^
+f6 [f,6]^
+1e [1,e]^
+he [h,e]^
+iw [i,w]^
+3n [3,n]^
+ih [i,h]^
+5w [5,w]^
+f\? [f, question mark]^
+sf [s,f]^
+sl [s,l]^
+s5 [s,5]^
+fr [f,r]^
+6o [6,o]^
+cn [c,n]^
+24 [2, 4]^
+r2 [r,2]^
+em [e,m]^
+3n [3,n]^
+f6 [f,6]^
+23 [2, 3]^
+df [d,f]^
+uf [u,f]^
+tn [t,n]^
+2\? [2, question mark]^
+ts [t,s]^
+ai [a,i]^
+3i [3,i]^
+4u [4,u]^
+2s [2,s]^
+u5 [u,5]^
+c2 [c,2]^
+na [n,a]^
+6h [6,h]^
+uf [u,f]^
+6s [6,s]^
+wm [w,m]^
+i1 [i,1]^
+4h [4,h]^
+f3 [f,3]^
+de [d,e]^
+4f [4,f]^
+\?f [ question mark ,f]^
+ul [u,l]^
+et [e,t]^
+we [w,e]^
+an [a,n]^
+oc [o,c]^
+mf [m,f]^
+em [e,m]^
+cd [c,d]^
+l2 [l,2]^
+of [o,f]^
+dr [d,r]^
+t\? [t, question mark]^
+l6 [l,6]^
+51 [5, 1]^
+fr [f,r]^
+mh [m,h]^
+3\? [3, question mark]^
+l1 [l,1]^
+sr [s,r]^
+fm [f,m]^
+oh [o,h]^
+l6 [l,6]^
+ie [i,e]^
+1c [1,c]^
+i\? [i, question mark]^
+1d [1,d]^
+1f [1,f]^
+ia [i,a]^
+e4 [e,4]^
+du [d,u]^
+mw [m,w]^
+t\? [t, question mark]^
+lc [l,c]^
+2c [2,c]^
+52 [5, 2]^
+lh [l,h]^
+ts [t,s]^
+ed [e,d]^
+wo [w,o]^
+63 [6, 3]^
+lc [l,c]^
+rf [r,f]^
+c5 [c,5]^
+f1 [f,1]^
+f4 [f,4]^
+su [s,u]^
+1e [1,e]^
+tn [t,n]^
+h5 [h,5]^
+1e [1,e]^
+fe [f,e]^
+5i [5,i]^
+6c [6,c]^
+eu [e,u]^
+ou [o,u]^
+sh [s,h]^
+as [a,s]^
+2m [2,m]^
+rd [r,d]^
+fd [f,d]^
+fn [f,n]^
+mo [m,o]^
+de [d,e]^
+i6 [i,6]^
+w\? [w, question mark]^
+of [o,f]^
+5f [5,f]^
+5e [5,e]^
+5e [5,e]^
+df [d,f]^
+1f [1,f]^
+\?s [ question mark ,s]^
+oe [o,e]^
+w\? [w, question mark]^
+rd [r,d]^
+1o [1,o]^
+eu [e,u]^
+t2 [t,2]^
+ao [a,o]^
+cr [c,r]^
+ih [i,h]^
+m4 [m,4]^
+fs [f,s]^
+f\? [f, question mark]^
+dc [d,c]^
+5w [5,w]^
+na [n,a]^
+wr [w,r]^
+f5 [f,5]^
+6o [6,o]^
+45 [4, 5]^
+nt [n,t]^
+2u [2,u]^
+do [d,o]^
+nt [n,t]^
+ro [r,o]^
+f4 [f,4]^
+31 [3, 1]^
+fl [f,l]^
+5o [5,o]^
+lf [l,f]^
+4f [4,f]^
+er [e,r]^
+te [t,e]^
+tl [t,l]^
+ft [f,t]^
+1s [1,s]^
+nd [n,d]^
+ca [c,a]^
+ow [o,w]^
+2a [2,a]^
+fu [f,u]^
+h4 [h,4]^
+\?2 [ question mark ,2]^
+uh [u,h]^
+6o [6,o]^
+nt [n,t]^
+ir [i,r]^
+fs [f,s]^
+lf [l,f]^
+lf [l,f]^
+el [e,l]^
+3f [3,f]^
+ce [c,e]^
+\?n [ question mark ,n]^
+2t [2,t]^
+sl [s,l]^
+do [d,o]^
+c6 [c,6]^
+mf [m,f]^
+ld [l,d]^
+n1 [n,1]^
+te [t,e]^
+ft [f,t]^
+6e [6,e]^
+f6 [f,6]^
+mc [m,c]^
+5t [5,t]^
+d2 [d,2]^
+\?f [ question mark ,f]^
+wu [w,u]^
+6c [6,c]^
+s4 [s,4]^
+l6 [l,6]^
+hl [h,l]^
+2h [2,h]^
+2f [2,f]^
+um [u,m]^
+cr [c,r]^
+fh [f,h]^
+l1 [l,1]^
+fh [f,h]^
+6c [6,c]^
+fl [f,l]^
+2t [2,t]^
+\?m [ question mark ,m]^
+1n [1,n]^
+31 [3, 1]^
+e\? [e, question mark]^
+cl [c,l]^
+1f [1,f]^
+iu [i,u]^
+3m [3,m]^
+2n [2,n]^
+ec [e,c]^
+wc [w,c]^
+rw [r,w]^
+rw [r,w]^
+ms [m,s]^
+ut [u,t]^
+ht [h,t]^
+3s [3,s]^
+h5 [h,5]^
+a1 [a,1]^
+fs [f,s]^
+42 [4, 2]^
+da [d,a]^
+mh [m,h]^
+3i [3,i]^
+f5 [f,5]^
+o1 [o,1]^
+tm [t,m]^
+n4 [n,4]^
+dt [d,t]^
+5f [5,f]^
+5u [5,u]^
+15 [1, 5]^
+sl [s,l]^
+me [m,e]^
+4f [4,f]^
+ur [u,r]^
+em [e,m]^
+em [e,m]^
+af [a,f]^
+us [u,s]^
+6r [6,r]^
+ol [o,l]^
+ci [c,i]^
+rd [r,d]^
+uf [u,f]^
+hf [h,f]^
+5c [5,c]^
+f1 [f,1]^
+5w [5,w]^
+2c [2,c]^
+m4 [m,4]^
+oe [o,e]^
+hf [h,f]^
+32 [3, 2]^
+cu [c,u]^
+c3 [c,3]^
+a4 [a,4]^
+f3 [f,3]^
+4e [4,e]^
+d1 [d,1]^
+6r [6,r]^
+o\? [o, question mark]^
+ie [i,e]^
+ae [a,e]^
+ft [f,t]^
+ft [f,t]^
+51 [5, 1]^
+iw [i,w]^
+fw [f,w]^
+fr [f,r]^
+ci [c,i]^
+21 [2, 1]^
+\?c [ question mark ,c]^
+ou [o,u]^
+fr [f,r]^
+f6 [f,6]^
+uf [u,f]^
+1h [1,h]^
+4f [4,f]^
+lf [l,f]^
+2f [2,f]^
+l\? [l, question mark]^
+tf [t,f]^
+26 [2, 6]^
+lo [l,o]^
+2u [2,u]^
+lf [l,f]^
+6f [6,f]^
+6t [6,t]^
+fd [f,d]^
+wh [w,h]^
+ft [f,t]^
+ur [u,r]^
+3t [3,t]^
+fn [f,n]^
+6m [6,m]^
+u1 [u,1]^
+6a [6,a]^
+3l [3,l]^
+mn [m,n]^
+6f [6,f]^
+4a [4,a]^
+d2 [d,2]^
+fs [f,s]^
+lt [l,t]^
+oa [o,a]^
+6d [6,d]^
+5o [5,o]^
+12 [1, 2]^
+eu [e,u]^
+5d [5,d]^
+wa [w,a]^
+\?3 [ question mark ,3]^
+5c [5,c]^
+me [m,e]^
+3e [3,e]^
+\?a [ question mark ,a]^
+iw [i,w]^
+41 [4, 1]^
+mf [m,f]^
+ml [m,l]^
+m1 [m,1]^
+f1 [f,1]^
+2d [2,d]^
+a4 [a,4]^
+sf [s,f]^
+to [t,o]^
+eo [e,o]^
+l3 [l,3]^
+5w [5,w]^
+35 [3, 5]^
+hi [h,i]^
+f2 [f,2]^
+fu [f,u]^
+ih [i,h]^
+at [a,t]^
+d4 [d,4]^
+f2 [f,2]^
+in [i,n]^
+tf [t,f]^
+c2 [c,2]^
+df [d,f]^
+c\? [c, question mark]^
+it [i,t]^
+ia [i,a]^
+fo [f,o]^
+\?6 [ question mark ,6]^
+5f [5,f]^
+sr [s,r]^
+n2 [n,2]^
+ra [r,a]^
+f3 [f,3]^
+ls [l,s]^
+61 [6, 1]^
+ae [a,e]^
+cf [c,f]^
+r5 [r,5]^
+ot [o,t]^
+mt [m,t]^
+s5 [s,5]^
+ds [d,s]^
+ts [t,s]^
+fw [f,w]^
+a\? [a, question mark]^
+e2 [e,2]^
+af [a,f]^
+1n [1,n]^
+fe [f,e]^
+f3 [f,3]^
+i4 [i,4]^
+r5 [r,5]^
+mt [m,t]^
+wl [w,l]^
+3t [3,t]^
+a5 [a,5]^
+\?f [ question mark ,f]^
+na [n,a]^
+65 [6, 5]^
+6r [6,r]^
+fm [f,m]^
+1o [1,o]^
+fd [f,d]^
+s1 [s,1]^
+ta [t,a]^
+ut [u,t]^
+af [a,f]^
+t2 [t,2]^
+o3 [o,3]^
+4r [4,r]^
+e\? [e, question mark]^
+u1 [u,1]^
+hm [h,m]^
+ol [o,l]^
+f4 [f,4]^
+\?f [ question mark ,f]^
+l4 [l,4]^
+6u [6,u]^
+lm [l,m]^
+o4 [o,4]^
+t1 [t,1]^
+6l [6,l]^
+6n [6,n]^
+mc [m,c]^
+nr [n,r]^
+cn [c,n]^
+i2 [i,2]^
+5e [5,e]^
+ih [i,h]^
+sa [s,a]^
+4e [4,e]^
+ne [n,e]^
+nf [n,f]^
+hf [h,f]^
+r3 [r,3]^
+n3 [n,3]^
+mf [m,f]^
+51 [5, 1]^
+tc [t,c]^
+ad [a,d]^
+t5 [t,5]^
+df [d,f]^
+un [u,n]^
+dr [d,r]^
+ec [e,c]^
+lu [l,u]^
+tr [t,r]^
+su [s,u]^
+1i [1,i]^
+ua [u,a]^
+rd [r,d]^
+5n [5,n]^
+en [e,n]^
+r3 [r,3]^
+24 [2, 4]^
+tr [t,r]^
+fn [f,n]^
+4f [4,f]^
+uf [u,f]^
+ud [u,d]^
+r2 [r,2]^
+hf [h,f]^
+6m [6,m]^
+ne [n,e]^
+f4 [f,4]^
+mo [m,o]^
+4s [4,s]^
+tm [t,m]^
+1f [1,f]^
+2i [2,i]^
+r5 [r,5]^
+oe [o,e]^
+ca [c,a]^
+6t [6,t]^
+dc [d,c]^
+1o [1,o]^
+5\? [5, question mark]^
+im [i,m]^
+2r [2,r]^
+5i [5,i]^
+nu [n,u]^
+ta [t,a]^
+4f [4,f]^
+o3 [o,3]^
+4f [4,f]^
+21 [2, 1]^
+n6 [n,6]^
+of [o,f]^
+\?l [ question mark ,l]^
+mu [m,u]^
+dm [d,m]^
+5f [5,f]^
+nr [n,r]^
+fr [f,r]^
+wf [w,f]^
+er [e,r]^
+6a [6,a]^
+dw [d,w]^
+\?s [ question mark ,s]^
+46 [4, 6]^
+fl [f,l]^
+2u [2,u]^
+12 [1, 2]^
+\?m [ question mark ,m]^
+fc [f,c]^
+6h [6,h]^
+fd [f,d]^
+cf [c,f]^
+th [t,h]^
+em [e,m]^
+d2 [d,2]^
+3\? [3, question mark]^
+lf [l,f]^
+4u [4,u]^
+af [a,f]^
+31 [3, 1]^
+fi [f,i]^
+24 [2, 4]^
+ni [n,i]^
+ne [n,e]^
+4r [4,r]^
+nf [n,f]^
+1f [1,f]^
+h3 [h,3]^
+lr [l,r]^
+nf [n,f]^
+52 [5, 2]^
+il [i,l]^
+f1 [f,1]^
+oe [o,e]^
+l6 [l,6]^
+d2 [d,2]^
+in [i,n]^
+in [i,n]^
+c\? [c, question mark]^
+uc [u,c]^
+hd [h,d]^
+ui [u,i]^
+nf [n,f]^
+2l [2,l]^
+oi [o,i]^
+td [t,d]^
+1f [1,f]^
+u3 [u,3]^
+\?w [ question mark ,w]^
+fo [f,o]^
+3m [3,m]^
+ao [a,o]^
+dh [d,h]^
+r6 [r,6]^
+sw [s,w]^
+ow [o,w]^
+5f [5,f]^
+4s [4,s]^
+a1 [a,1]^
+6i [6,i]^
+u5 [u,5]^
+\?i [ question mark ,i]^
+r2 [r,2]^
+af [a,f]^
+it [i,t]^
+ew [e,w]^
+\?w [ question mark ,w]^
+fd [f,d]^
+1w [1,w]^
+to [t,o]^
+du [d,u]^
+f1 [f,1]^
+ow [o,w]^
+lh [l,h]^
+fw [f,w]^
+nw [n,w]^
+fa [f,a]^
+it [i,t]^
+fd [f,d]^
+en [e,n]^
+ew [e,w]^
+fe [f,e]^
+1f [1,f]^
+\?m [ question mark ,m]^
+2h [2,h]^
+ro [r,o]^
+5n [5,n]^
+ca [c,a]^
+f4 [f,4]^
+h3 [h,3]^
+u\? [u, question mark]^
+fl [f,l]^
+em [e,m]^
+4f [4,f]^
+1h [1,h]^
+5f [5,f]^
+6f [6,f]^
+el [e,l]^
+fo [f,o]^
