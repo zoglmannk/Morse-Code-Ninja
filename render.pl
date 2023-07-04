@@ -823,7 +823,7 @@ if(!$test) {
       }
       close $fh_list;
       #see -- https://superuser.com/questions/314239/how-to-join-merge-many-mp3-files  or   https://trac.ffmpeg.org/wiki/Concatenate
-      @cmdLst = ("ffmpeg", "-f", "concat", "-safe", "0", "-i", 
+      @cmdLst = ("ffmpeg", "-nostdin", "-f", "concat", "-safe", "0", "-i",
                  "$filename_base-list-${speed}wpm.txt", "-codec:a", "libmp3lame", "-metadata",
                  "title=$filename_base_without_path ${speed}wpm", "-c", "copy",
                  "$filename_base-$speed"."wpm.mp3");
