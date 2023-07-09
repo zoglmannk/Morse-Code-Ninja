@@ -28,7 +28,7 @@ foreach(@lines) {
 }
 
 
-### Load Activator Call Signs
+### Load Activator USA Call Signs
 open $in, "<", "data/pota-top-activators-2023.txt";
 @lines = <$in>;
 close $in;
@@ -38,11 +38,13 @@ my @activator_call_signs;
 foreach(@lines) {
     my $line = $_;
     chomp($line);
-    push @activator_call_signs, $line;
+    if($line =~ m/^(K|W|A|N).*$/) {
+        push @activator_call_signs, $line;
+    }
 }
 
 
-### Load Hunter Call Signs
+### Load Hunter USA Call Signs
 open $in, "<", "data/pota-top-hunters-2023.txt";
 @lines = <$in>;
 close $in;
@@ -52,8 +54,11 @@ my @hunter_call_signs;
 foreach(@lines) {
     my $line = $_;
     chomp($line);
-    push @hunter_call_signs, $line;
+    if($line =~ m/^(K|W|A|N).*$/) {
+        push @hunter_call_signs, $line;
+    }
 }
+
 
 ### Load most common activated parks
 open $in, "<", "data/pota-top-parks-2023.csv";
@@ -604,11 +609,11 @@ sub print_qso_type9 {
     #Activator
     print "P2P <BK> [Park to Park, Break]^\n";
     #Hunter
-    print "|f650 $hunter1_callsign $hunter2_callsign P2P <BK> [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody> <break time=\"0\\.5s\"/> <prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody>, Park to Park, Break</speak>]^\n";
+    print "|f650 $hunter1_callsign $hunter1_callsign P2P <BK> [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody> <break time=\"0\\.5s\"/> <prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody>, Park to Park, Break</speak>]^\n";
     #Activator
-    print "$hunter1_callsign TU P2P UR $rst_code1 $rst_code1 IN $activator_park $activator_park <BK> [<speak>$hunter1_callsign_prounounceable, Thank You, Park to Park, You are $rst_spoken1, $rst_spoken1, IN, <prosody rate=\"slow\">$activator_park_spoken <break time=\"0\\.5s\"/> $activator_park_spoken</prosody>, Break</speak>]^\n";
+    print "$hunter1_callsign TU P2P UR $rst_code1 $rst_code1 AT $activator_park $activator_park <BK> [<speak>$hunter1_callsign_prounounceable, Thank You, Park to Park, You are $rst_spoken1, $rst_spoken1, at, <prosody rate=\"slow\">$activator_park_spoken <break time=\"0\\.5s\"/> $activator_park_spoken</prosody>, Break</speak>]^\n";
     #Hunter
-    print "|f650 <BK> R R TU UR $rst_code2 $rst_code2 in $hunter_park $hunter_park <BK> [<speak>Break, Received, Received, Thank you, You are, $rst_spoken2, $rst_spoken2, IN, <prosody rate=\"slow\">$hunter_park_spoken <break time=\"0\\.5s\"/> $hunter_park_spoken</prosody>, Break</speak>]^\n";
+    print "|f650 <BK> R R TU UR $rst_code2 $rst_code2 AT $hunter_park $hunter_park <BK> [<speak>Break, Received, Received, Thank you, You are, $rst_spoken2, $rst_spoken2, at, <prosody rate=\"slow\">$hunter_park_spoken <break time=\"0\\.5s\"/> $hunter_park_spoken</prosody>, Break</speak>]^\n";
     #Activator
     print "<BK> QSL QSL TU P2P ES 73 DE $activator_callsign EE [Break, Q S L, Q S L, Thank You, P2P, And Best Regards from, $activator_callsign_pronounceable, dit dit]^\n";
     #Hunter
@@ -965,7 +970,7 @@ sub print_qso_type15 {
     #Activator
     print "$hunter1_callsign TU $greeting_abbreviation UR $rst_code1 $rst_code1 <BK> [$hunter1_callsign_prounounceable, Thank You, $greeting_spoken, You are $rst_spoken1, $rst_spoken1, Break]^\n";
     #Hunter
-    print "|f650 <BK> TU P2P P2P UR $rst_code2 $rst_code2 IN $hunter_park $hunter_park <BK> [<speak>Break, Thank you, Park to Park, Park to Park, You are, $rst_spoken2, $rst_spoken2, in, <prosody rate=\"slow\">$hunter_park_spoken <break time=\"0\\.5s\"/> $hunter_park_spoken</prosody>, Break</speak>]^\n";
+    print "|f650 <BK> TU P2P P2P UR $rst_code2 $rst_code2 AT $hunter_park $hunter_park <BK> [<speak>Break, Thank you, Park to Park, Park to Park, You are, $rst_spoken2, $rst_spoken2, at, <prosody rate=\"slow\">$hunter_park_spoken <break time=\"0\\.5s\"/> $hunter_park_spoken</prosody>, Break</speak>]^\n";
     #Activator
     print "<BK> R R TU MY PARK $activator_park $activator_park <BK> [<speak>Break, Received, Received, Thank You, My Park, <prosody rate=\"slow\">$activator_park_spoken <break time=\"0\\.5s\"/> $activator_park_spoken</prosody>, Break</speak>]^\n";
     #Hunter
@@ -1073,7 +1078,7 @@ sub print_qso_type17 {
     #Hunter
     print "|f650 $hunter1_callsign [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody></speak>]^\n";
     #Activator
-    print "$hunter1_callsign TU ES $greeting_abbreviation UR $rst_code1 $rst_code1 in $activator_park <BK> [<speak>$hunter1_callsign_prounounceable, Thank You, And $greeting_spoken, You are $rst_spoken1, $rst_spoken1, in, <prosody rate=\"slow\">$activator_park_spoken</prosody>, Break</speak>]^\n";
+    print "$hunter1_callsign TU ES $greeting_abbreviation UR $rst_code1 $rst_code1 AT $activator_park <BK> [<speak>$hunter1_callsign_prounounceable, Thank You, And $greeting_spoken, You are $rst_spoken1, $rst_spoken1, at, <prosody rate=\"slow\">$activator_park_spoken</prosody>, Break</speak>]^\n";
     #Hunter
     print "|f650 <BK> R R TU UR $rst_code2 $rst_code2 $hunter_state_abbreviation $hunter_state_abbreviation <BK> [Break, Received, Received, Thank you, You are, $rst_spoken2, $rst_spoken2, $hunter_state, $hunter_state, Break]^\n";
     #Activator
