@@ -11,7 +11,7 @@ use strict;
 # ./generate-POTA-qso.pl > ../pota-qsos.txt
 # ./render.pl -i pota-qsos.txt -s 15 17 20 22 25 28 30 35 40 45 50 --sm 2.5
 
-my $num_qsos = 200;
+my $num_qsos = 250;
 my $proofing = 0;
 
 ### Load Names
