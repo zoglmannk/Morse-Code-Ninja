@@ -244,7 +244,7 @@ sub print_qso_type2 {
     #Hunter
     print "|f650 $hunter1_callsign [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody></speak>]^\n";
     #Activator
-    print "${hunter_partial_callsign}\? [<speak> <prosody rate=\"slow\">$hunter_partial_callsign_prounounceable</prosody>, Question Mark</speak>]^\n";
+    print "${hunter_partial_callsign}\\? [<speak> <prosody rate=\"slow\">$hunter_partial_callsign_prounounceable</prosody>, Question Mark</speak>]^\n";
     #Hunter
     print "|f650 DE $hunter1_callsign $hunter1_callsign BK [<speak>From, <prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody> <break time=\"0\\.5s\"/> <prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody>, Break</speak>]^\n";
     #Activator
@@ -494,7 +494,7 @@ sub print_qso_type7 {
     my $hunter1_callsign_prounounceable = get_pronouncable_call($hunter1_callsign);
 
     #Activator
-    print "<BK> TU ES 73 DE $activator_callsign QRZ\? [<speak>Break, Thank You, And Best Regards from  <prosody rate=\"slow\">$activator_callsign_pronounceable</prosody> <break time=\"0\\.5s\"/> Who is calling me\?</speak>]^\n";
+    print "<BK> TU ES 73 DE $activator_callsign QRZ\\? [<speak>Break, Thank You, And Best Regards from  <prosody rate=\"slow\">$activator_callsign_pronounceable</prosody> <break time=\"0\\.5s\"/> Who is calling me\\?</speak>]^\n";
     #Hunter
     print "|f650 $hunter1_callsign [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody></speak>]^\n";
     #Activator
@@ -548,11 +548,11 @@ sub print_qso_type8 {
     #Hunter
     print "|f650 $hunter1_callsign [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody></speak>]^\n";
     #Activator
-    print "AGN\? [Again, Question Mark]^\n";
+    print "AGN\\? [Again, Question Mark]^\n";
     #Hunter
     print "|f650 $hunter1_callsign $hunter1_callsign <BK> [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody> <break time=\"0\\.5s\"/> <prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody>, Break </speak>]^\n";
     #Activator
-    print "AGN AGN\? [Again, Again, Question Mark]^\n";
+    print "AGN AGN\\? [Again, Again, Question Mark]^\n";
     #Hunter
     print "|f650 $hunter1_callsign $hunter1_callsign $hunter1_callsign <BK> [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody> <break time=\"0\\.5s\"/> <prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody> <break time=\"0\\.5s\"/> <prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody>, Break </speak>]^\n";
     #Activator
@@ -914,7 +914,7 @@ sub print_qso_type14 {
     #Hunter
     print "|f650 $hunter1_callsign [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody></speak>]^\n";
     #Activator
-    print "${hunter1_callsign}\? [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody>, Question Mark</speak>]^\n";
+    print "${hunter1_callsign}\\? [<speak><prosody rate=\"slow\">$hunter1_callsign_prounounceable</prosody>, Question Mark</speak>]^\n";
     #Hunter
     print "|f650 R R R [Received, Received, Received]^\n";
     #Activator
@@ -974,7 +974,7 @@ sub print_qso_type15 {
     #Activator
     print "<BK> R R TU MY PARK $activator_park $activator_park <BK> [<speak>Break, Received, Received, Thank You, My Park, <prosody rate=\"slow\">$activator_park_spoken <break time=\"0\\.5s\"/> $activator_park_spoken</prosody>, Break</speak>]^\n";
     #Hunter
-    print "|f650 AGN AGN\? [Again, Again, Question Mark]^\n";
+    print "|f650 AGN AGN\\? [Again, Again, Question Mark]^\n";
     #Activator
     print "$activator_park $activator_park <BK> [<speak><prosody rate=\"slow\">$activator_park_spoken <break time=\"0\\.5s\"/> $activator_park_spoken</prosody>, Break</speak>]^\n";
     #Hunter
