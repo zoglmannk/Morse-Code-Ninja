@@ -615,7 +615,7 @@ sub print_qso_type9 {
     #Hunter
     print "|f650 <BK> R R TU UR $rst_code2 $rst_code2 AT $hunter_park $hunter_park <BK> [<speak>Break, Received, Received, Thank you, You are, $rst_spoken2, $rst_spoken2, at, <prosody rate=\"slow\">$hunter_park_spoken <break time=\"0\\.5s\"/> $hunter_park_spoken</prosody>, Break</speak>]^\n";
     #Activator
-    print "<BK> QSL QSL TU P2P ES 73 DE $activator_callsign EE [Break, Q S L, Q S L, Thank You, P2P, And Best Regards from, $activator_callsign_pronounceable, dit dit]^\n";
+    print "<BK> QSL QSL TU P2P ES 73 DE $activator_callsign EE [Break, Q S L, Q S L, Thank You, Park to Park, And Best Regards from, $activator_callsign_pronounceable, dit dit]^\n";
     #Hunter
     print "|f650 <BK> TU P2P 73 EE [Break, Thank you, Park to Park, Best regards, dit dit]^\n";
     if($print_debug_separator == 1) {
@@ -1130,7 +1130,7 @@ sub print_qso_type18 {
     #Activator
     print "$hunter1_callsign TU ES $greeting_abbreviation UR $rst_code1 $rst_code1 <BK> [$hunter1_callsign_prounounceable, Thank You, And $greeting_spoken, You are $rst_spoken1, $rst_spoken1, Break]^\n";
     #Hunter
-    print "|f650 BK QTH? QTH? [Break, Q T H Question Mark, Q T H Question Mark]^\n";
+    print "|f650 BK QTH\\? QTH\\? [Break, Q T H Question Mark, Q T H Question Mark]^\n";
     #Activator
     print "<BK> $activator_park $activator_park <BK> [<speak>Break, <prosody rate=\"slow\">$activator_park_spoken <break time=\"0\\.5s\"/> $activator_park_spoken</prosody>, Break</speak>]^\n";
     #Hunter
