@@ -27,8 +27,8 @@ print("Cache directory: " + cache_directory)
 separator = "="
 aws_properties = {}
 
-if "AWS_KEY_ID" in environ and "AWS_SECRET_ACCESS_KEY" in environ:
-    aws_properties['aws_access_key_id'] = environ['AWS_KEY_ID']
+if "AWS_ACCESS_KEY_ID" in environ and "AWS_SECRET_ACCESS_KEY" in environ:
+    aws_properties['aws_access_key_id'] = environ['AWS_ACCESS_KEY_ID']
     aws_properties['aws_secret_access_key'] = environ['AWS_SECRET_ACCESS_KEY']
 else:
     try:
