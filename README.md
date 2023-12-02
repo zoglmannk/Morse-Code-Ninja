@@ -80,3 +80,15 @@ multiple copies are executing at the same time using the same output directory.
 Be aware that the script can create a huge number of temporary files, which is proportional to the input file. Some types of filesystems will deal with this better than others.
 
 This set of scripts works on Linux and macOS.
+
+# Docker Usage
+This usage limits the required software to:
+- [Docker](https://www.docker.com/get-started/) 
+- [AWS Cloud Setup](#cloud-setup)
+
+To run
+```
+./morse-code-ninja.sh -i example.txt
+```
+
+The script `morse-code-ninja.sh` wraps the docker compose command passing all arguments to the dockerized `render.pl` 
