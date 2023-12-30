@@ -249,7 +249,7 @@ sub split_on_spoken_directive {
   # Used to provide contextual priming
   if($raw =~ m/^\s*\{(.*)\}\s*\^$/) {
     my $sentence_part = "";
-    my $spoken_directive = $1;
+    my $spoken_directive = $1; $spoken_directive =~ s/\\//;
     my $repeat_part = "";
     return ($sentence_part, $spoken_directive, $repeat_part);
 
@@ -380,7 +380,6 @@ foreach(@sentences) {
     sub get_text2speech {
       my ($counter, $spoken_text, $filename_map_key) = @_;
 
-      print "====> counter:$counter  filename_map_key:$filename_map_key    Should be speaking: $spoken_text\n";
       # Generate spoken section
       if($word_limit != -1) {
         rename("$output_directory/sentence.txt", '$filename_base-$counter.txt');
@@ -783,7 +782,6 @@ if(!$test) {
         my $counter = sprintf("%05d",$i);
 
         my $cached_context_filename = $filename_map{"$counter-context"};
-        print "ZZZZZZ counter-context: $counter-context \t cached_context_filename: $cached_context_filename\n";
         if(-e $cached_context_filename) {
           if($first_for_given_speed == 1) {
             $first_for_given_speed = 0;
@@ -913,7 +911,7 @@ if(!$test) {
     else {
         $speed = $_;
     }
-    #unlink "$output_directory/sentence-${speed}0000.mp3", "$output_directory/sentence-repeat-${speed}0000.mp3",  "$filename_base-list-${speed}wpm.txt", "$output_directory/silence.mp3";
+    unlink "$output_directory/sentence-${speed}0000.mp3", "$output_directory/sentence-repeat-${speed}0000.mp3",  "$filename_base-list-${speed}wpm.txt", "$output_directory/silence.mp3";
   }
   unlink "$filename_base-structure.txt", "$filename_base-sentences.txt";
   unlink glob("$output_directory/silence*.mp3");
