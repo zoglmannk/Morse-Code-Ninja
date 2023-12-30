@@ -245,8 +245,16 @@ sub split_long_sentence {
 sub split_on_spoken_directive {
   my $raw = $_[0];
 
+  # example "{ weather }"
+  # Used to provide contextual priming
+  if($raw =~ m/^\s*\{(.*)\}\s*\^$/) {
+    my $sentence_part = "";
+    my $spoken_directive = $1;
+    my $repeat_part = "";
+    return ($sentence_part, $spoken_directive, $repeat_part);
+
   #example "MD MD MD [Maryland|MD]^"
-  if($raw =~ m/(.*?)\h*\[(.*?)(\|(.*?))?\]\h*([\^|\.|\?])$/) {
+  } elsif($raw =~ m/(.*?)\h*\[(.*?)(\|(.*?))?\]\h*([\^|\.|\?])$/) {
     my $sentence_part = $1.$5;
     my $spoken_directive = $2.$5;
     my $repeat_part = $4.$5;
@@ -346,6 +354,94 @@ foreach(@sentences) {
       exit 1;
     }
 
+    # Warning this logic must stay in sync with tex2speech.py
+    sub get_text2speech_cached_filename {
+      my ($lang, $sentence, $cache_directory) = @_;
+
+      my $cached_filename = "";
+      if($lang eq 'ENGLISH') {
+        if ($sentence =~ m/<speak>.*?<\/speak>/) {
+          $cached_filename = "Mathew-exact-";
+        } elsif ($sentence =~ m/^\s*([A-Za-z]{1,4})\s*$/) {
+          $cached_filename = "Mathew-slowly-";
+        } else {
+          $cached_filename = "Mathew-standard-";
+        }
+      } else {
+        $cached_filename = "${lang}-standard-";
+      }
+
+      $cached_filename .= $text_to_speech_engine . "-" . sha256_hex($sentence) . ".mp3";
+      $cached_filename = $cache_directory . $cached_filename;
+
+      return $cached_filename;
+    }
+
+    sub get_text2speech {
+      my ($counter, $spoken_text, $filename_map_key) = @_;
+
+      print "====> counter:$counter  filename_map_key:$filename_map_key    Should be speaking: $spoken_text\n";
+      # Generate spoken section
+      if($word_limit != -1) {
+        rename("$output_directory/sentence.txt", '$filename_base-$counter.txt');
+      } else {
+        open(my $fh_spoken, '>', "$filename_base-$counter.txt");
+        print $fh_spoken "$spoken_text\n";
+        close $fh_spoken;
+      }
+
+
+      my $exit_code = -1;
+      my $voiced_filename = get_text2speech_cached_filename($lang, "$spoken_text\n", $cache_directory);
+      if(-e $voiced_filename) {
+        $filename_map{$filename_map_key} = $voiced_filename;
+      } else {
+        while ($exit_code != 0 && !$no_spoken) {
+          my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
+
+          my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
+          print "execute $cmd\n";
+
+          my $output = `$cmd`;
+          print "$output";
+          $exit_code = $?;
+          $output =~ m/Cached filename:(.*)\n/;
+          my $voiced_filename = $1;
+          print "voiced_filename: $voiced_filename\n";
+          $filename_map{$filename_map_key} = $voiced_filename;
+          if ($exit_code == -1) {
+            print "ERROR: text2speech.py failed to execute: $!\n";
+            exit 1;
+          }
+          elsif ($exit_code & 127) {
+            printf "text2speech.py died with signal %d, %s coredump\n",
+                ($exit_code & 127), ($exit_code & 128) ? 'with' : 'without';
+            exit 1;
+          }
+          else {
+            my $ecode = $exit_code >> 8;
+            printf "text2speech.py exited with value %d\n", $ecode;
+
+            if ($ecode == 1) {
+              print "text2speech.py exit_code: $exit_code\n";
+              exit 1;
+            }
+            elsif ($ecode == $t2sIOError) {
+              print "ERROR: text2speech.py error reading aws.properties file\n";
+              exit 1;
+            }
+          }
+        }
+      }
+
+    }
+
+    my $counter = sprintf("%05d",$count);
+    if($sentence_part eq "" && $repeat_part eq "" && $spoken_directive ne "") {
+      get_text2speech($counter, $spoken_directive, "$counter-context");
+      $count++;
+    }
+
     my @partial_sentence = $sentence_part;
     if($word_limit != -1) {
       @partial_sentence = split_long_sentence($sentence);
@@ -353,7 +449,7 @@ foreach(@sentences) {
     foreach(@partial_sentence) {
       print "---- loop 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n";
       print "---- debug: partial sentence: $_\n";
-            
+
       my $num_chunks++;
       my $sentence_chunk = $_;
 
@@ -369,7 +465,7 @@ foreach(@sentences) {
           print $fh "$sentence_chunk\n";
           close $fh;
 
-          my $counter = sprintf("%05d",$count);
+          $counter = sprintf("%05d",$count);
           my $fork_count = 0;
 
           sub uniq {
@@ -484,29 +580,6 @@ foreach(@sentences) {
               $filename_map{"$counter-repeat-$speed"} = $cached_repeat_filename;
             }
 
-            # Warning this logic must stay in sync with tex2speech.py
-            sub get_text2speech_cached_filename {
-              my ($lang, $sentence, $cache_directory) = @_;
-
-              my $cached_filename = "";
-              if($lang eq 'ENGLISH') {
-                if ($sentence =~ m/<speak>.*?<\/speak>/) {
-                  $cached_filename = "Mathew-exact-";
-                } elsif ($sentence =~ m/^\s*([A-Za-z]{1,4})\s*$/) {
-                  $cached_filename = "Mathew-slowly-";
-                } else {
-                  $cached_filename = "Mathew-standard-";
-                }
-              } else {
-                $cached_filename = "${lang}-standard-";
-              }
-
-              $cached_filename .= $text_to_speech_engine . "-" . sha256_hex($sentence) . ".mp3";
-              $cached_filename = $cache_directory . $cached_filename;
-
-              return $cached_filename;
-            }
-
             print "************** $ebookCmdBase \n";
             # Only fork if there is work to do
             if((! -f $cached_filename) || (!$no_repeat_morse && $word_limit == -1 &&
@@ -603,57 +676,9 @@ foreach(@sentences) {
             wait();
           }
 
-          # Generate spoken section
-          if($word_limit != -1) {
-              rename("$output_directory/sentence.txt", '$filename_base-$counter.txt');
-          } else {
-            open(my $fh_spoken, '>', "$filename_base-$counter.txt");
-            print $fh_spoken "$spoken_directive\n";
-            close $fh_spoken;
-          }
+          print "======> Should be generating text 2 speech for: $sentence_part\n";
+          get_text2speech($counter, $sentence_part, "$counter-voiced");
 
-          my $exit_code = -1;
-          my $voiced_filename = get_text2speech_cached_filename($lang, "$sentence_chunk\n", $cache_directory);
-          if(-e $voiced_filename) {
-            $filename_map{"$counter-voiced"} = $voiced_filename;
-          } else {
-            while ($exit_code != 0 && !$no_spoken) {
-              my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
-
-              my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
-              print "execute $cmd\n";
-
-              my $output = `$cmd`;
-              print "$output";
-              $exit_code = $?;
-              $output =~ m/Cached filename:(.*)\n/;
-              my $voiced_filename = $1;
-              print "voiced_filename: $voiced_filename\n";
-              $filename_map{"$counter-voiced"} = $voiced_filename;
-              if ($exit_code == -1) {
-                print "ERROR: text2speech.py failed to execute: $!\n";
-                exit 1;
-              }
-              elsif ($exit_code & 127) {
-                printf "text2speech.py died with signal %d, %s coredump\n",
-                    ($exit_code & 127), ($exit_code & 128) ? 'with' : 'without';
-                exit 1;
-              }
-              else {
-                my $ecode = $exit_code >> 8;
-                printf "text2speech.py exited with value %d\n", $ecode;
-
-                if ($ecode == 1) {
-                  print "text2speech.py exit_code: $exit_code\n";
-                  exit 1;
-                }
-                elsif ($ecode == $t2sIOError) {
-                  print "ERROR: text2speech.py error reading aws.properties file\n";
-                  exit 1;
-                }
-              }
-            }
-          }
         }
         $count++;
       }
@@ -751,13 +776,29 @@ if(!$test) {
 
     } else {
       unlink "$filename_base-${speed}wpm.mp3";
+      my $voiced_context = 0;
 
       open(my $fh_list, '>', "$filename_base-list-${speed}wpm.txt");
       for (my $i=1; $i <= $count; $i++) {
         my $counter = sprintf("%05d",$i);
 
-        #if full sentence
-        if(-e "$filename_base-$counter-full-voice.mp3") {
+        my $cached_context_filename = $filename_map{"$counter-context"};
+        print "ZZZZZZ counter-context: $counter-context \t cached_context_filename: $cached_context_filename\n";
+        if(-e $cached_context_filename) {
+          if($first_for_given_speed == 1) {
+            $first_for_given_speed = 0;
+          } elsif (!$no_courtesy_tone) {
+            print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
+            print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+          }
+
+          print "Voicing context\n";
+          $voiced_context = 1;
+          print $fh_list "file '$cached_context_filename'\n";
+
+          # else if full sentence
+        } elsif (-e "$filename_base-$counter-full-voice.mp3") {
+
           my $cached_full_voiced_filename = $filename_map{"$counter-full-voiced"};
           print $fh_list "file '$cwd/pluck-softer-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\nfile '$cached_full_voiced_filename'\nfile '$cwd/silence-resampled.mp3'\n";
 
@@ -765,9 +806,10 @@ if(!$test) {
           # Not full sentence\n";
           if($first_for_given_speed == 1) {
             $first_for_given_speed = 0;
-          } elsif (!$no_courtesy_tone) {
+          } elsif (!$no_courtesy_tone && $voiced_context != 1) {
             print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
           }
+          $voiced_context = 0;
 
           my $cached_voiced_filename = $filename_map{"$counter-voiced"};
           if($speed_racing == 1) {
@@ -871,7 +913,7 @@ if(!$test) {
     else {
         $speed = $_;
     }
-    unlink "$output_directory/sentence-${speed}0000.mp3", "$output_directory/sentence-repeat-${speed}0000.mp3",  "$filename_base-list-${speed}wpm.txt", "$output_directory/silence.mp3";
+    #unlink "$output_directory/sentence-${speed}0000.mp3", "$output_directory/sentence-repeat-${speed}0000.mp3",  "$filename_base-list-${speed}wpm.txt", "$output_directory/silence.mp3";
   }
   unlink "$filename_base-structure.txt", "$filename_base-sentences.txt";
   unlink glob("$output_directory/silence*.mp3");
