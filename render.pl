@@ -34,6 +34,7 @@ GetOptions(
   'sm|silencemorse=s' => \(my $silence_between_morse_code_and_spoken_voice = "1"),
   'ss|silencesets=s'  => \(my $silence_between_sets = "1"), # typically "1" sec
   'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
+  'sc|silencecontext=s' => \(my $silence_between_context_and_morse_code = "1"),
   'x|extraspace=s'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
   'p|pitchtone=i'     => \(my $pitch_tone = 700), # tone in Hz for pitch
@@ -127,6 +128,14 @@ if(!$test) {
   @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
              "-t", "$silence_between_voice_and_repeat", "-codec:a", "libmp3lame",
              "-b:a", "256k", "$output_directory/silence2.mp3");
+  # print "cmd-3: @cmdLst\n";
+  system(@cmdLst) == 0 or die "ERROR 3: @cmdLst failed, $!\n";
+
+  # This is the silence between the context and the Morse code
+  unlink "$output_directory/silence3.mp3" if (-f "$output_directory/silence3.mp3");
+  @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
+      "-t", "$silence_between_context_and_morse_code", "-codec:a", "libmp3lame",
+      "-b:a", "256k", "$output_directory/silence3.mp3");
   # print "cmd-3: @cmdLst\n";
   system(@cmdLst) == 0 or die "ERROR 3: @cmdLst failed, $!\n";
 
@@ -737,6 +746,11 @@ if(!$test) {
   # print "cmd-12: $cmd\n";
   system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";;
 
+  unlink "$cwd/silence-resampled3.mp3";
+  $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence3.mp3 $cwd/silence-resampled3.mp3";
+  # print "cmd-12: $cmd\n";
+  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";;
+
   unlink "$cwd/pluck-softer-resampled.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/pluck-softer.mp3 $cwd/pluck-softer-resampled.mp3";
   # print "cmd-13: $cmd\n";
@@ -807,7 +821,6 @@ if(!$test) {
           } elsif (!$no_courtesy_tone && $voiced_context != 1) {
             print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
           }
-          $voiced_context = 0;
 
           my $cached_voiced_filename = $filename_map{"$counter-voiced"};
           if($speed_racing == 1) {
@@ -825,6 +838,9 @@ if(!$test) {
             my $cached_filename = $filename_map{"$counter-$speed"};
             if($no_spoken) {
               print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\n";
+            } elsif($voiced_context == 1) {
+              print "cached_voiced_filename: $cached_voiced_filename\n";
+              print $fh_list "file '$cwd/silence-resampled3.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
             } else {
               print "cached_voiced_filename: $cached_voiced_filename\n";
               print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
@@ -858,6 +874,8 @@ if(!$test) {
 
             }
           }
+
+          $voiced_context = 0;
 
         }
       }
