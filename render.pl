@@ -404,7 +404,7 @@ foreach(@sentences) {
       if(-e $voiced_filename) {
         $filename_map{$filename_map_key} = $voiced_filename;
       } else {
-        while ($exit_code != 0 && !$no_spoken) {
+        while ($exit_code != 0 && (!$no_spoken || $filename_map_key =~ m/context/)) {
           my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
 
           my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
