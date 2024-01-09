@@ -39,6 +39,7 @@ GetOptions(
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
   'p|pitchtone=i'     => \(my $pitch_tone = 700), # tone in Hz for pitch
   'pr|pitchrandom'    => \(my $pitch_tone_random = '0'), # flag. 0 == false, random pitch tone
+  'speedAdjustRegex=s'=> \(my $speedAdjustRegex = "") # format Eg., s/<speed1>/1.5/,s/<speed2>/2.5/
 ) or print_usage();
 
 if("$input_filename" eq "") {
@@ -258,7 +259,7 @@ sub split_on_spoken_directive {
   # Used to provide contextual priming
   if($raw =~ m/^\s*\{(.*)\}\s*\^$/) {
     my $sentence_part = "";
-    my $spoken_directive = $1; $spoken_directive =~ s/\\//;
+    my $spoken_directive = $1; $spoken_directive =~ s/\\//g;
     my $repeat_part = "";
     return ($sentence_part, $spoken_directive, $repeat_part);
 
@@ -469,9 +470,6 @@ foreach(@sentences) {
 
         if(!$test) {
           $sentence_chunk =~ s/^\s+|\s+$//g; #extra space on the end adds new line!
-          open(my $fh, '>', "$output_directory/sentence.txt");
-          print $fh "$sentence_chunk\n";
-          close $fh;
 
           $counter = sprintf("%05d",$count);
           my $fork_count = 0;
@@ -571,6 +569,24 @@ foreach(@sentences) {
               return $cached_file_with_path;
             }
 
+            open(my $fh, '>', "$output_directory/sentence-${speed}.txt");
+            my $updated_sentence_chunk = $sentence_chunk;
+            if($sentence_chunk ne "") {
+              my @speed_regexes = split(/,/, $speedAdjustRegex);
+              foreach(@speed_regexes) {
+                my $regex = $_;
+                if($regex =~ m/s\/(.*?)\/(.*?)\//) {
+                  my $speed_text_to_substitute = $1;
+                  my $multiplier = int($2 * $speed);
+
+                  $updated_sentence_chunk =~ s/$speed_text_to_substitute/|w$multiplier/g;
+                }
+
+              }
+            }
+            print $fh "$updated_sentence_chunk\n";
+            close $fh;
+
             my $cached_filename = get_cached_filename($ebookCmdBase, $sentence_chunk);
             $filename_map{"$counter-$speed"} = $cached_filename;
 
@@ -602,7 +618,8 @@ foreach(@sentences) {
               } else {
 
                 if (!-f $cached_filename) {
-                  $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-${speed} $output_directory/sentence.txt";
+                  $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-${speed} $output_directory/sentence-${speed}.txt";
+                  print "DEBUG ========  ======> cached filename no go\n";
                   #print "cmd-6: $ebookCmd\n";
 
                   system($ebookCmd) == 0 or die "ERROR 6: $ebookCmd failed, $!\n";
@@ -684,8 +701,8 @@ foreach(@sentences) {
             wait();
           }
 
-          print "======> Should be generating text 2 speech for: $sentence_part\n";
-          get_text2speech($counter, $sentence_part, "$counter-voiced");
+          print "======> Should be generating text 2 speech for: $spoken_directive\n";
+          get_text2speech($counter, $spoken_directive, "$counter-voiced");
 
         }
         $count++;
@@ -836,11 +853,15 @@ if(!$test) {
             }
           } else {
             my $cached_filename = $filename_map{"$counter-$speed"};
-            if($no_spoken) {
-              print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\n";
-            } elsif($voiced_context == 1) {
+            if($voiced_context == 1) {
               print "cached_voiced_filename: $cached_voiced_filename\n";
-              print $fh_list "file '$cwd/silence-resampled3.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
+              if($no_spoken) {
+                print $fh_list "file '$cwd/silence-resampled3.mp3'\nfile '$cached_filename'\n";
+              } else {
+                print $fh_list "file '$cwd/silence-resampled3.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
+              }
+            } elsif($no_spoken) {
+              print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\n";
             } else {
               print "cached_voiced_filename: $cached_voiced_filename\n";
               print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
