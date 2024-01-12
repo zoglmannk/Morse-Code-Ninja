@@ -254,14 +254,24 @@ sub split_long_sentence {
 
 sub split_on_spoken_directive {
   my $raw = $_[0];
+  my $is_courtesy_tone = 0;
 
-  # example "{ weather }"
+  # example "{ weather } ^"
   # Used to provide contextual priming
   if($raw =~ m/^\s*\{(.*)\}\s*\^$/) {
     my $sentence_part = "";
-    my $spoken_directive = $1; $spoken_directive =~ s/\\//g;
+    my $spoken_directive = $1;
+    $spoken_directive =~ s/\\//g;
     my $repeat_part = "";
-    return ($sentence_part, $spoken_directive, $repeat_part);
+    return ($is_courtesy_tone, $sentence_part, $spoken_directive, $repeat_part);
+
+  # example "<courtesyTone> ^"
+  } elsif($raw =~ m/\<courtesyTone\>/i) {
+    $is_courtesy_tone = 1;
+    my $sentence_part = "";
+    my $spoken_directive = "";
+    my $repeat_part = "";
+    return ($is_courtesy_tone, $sentence_part, $spoken_directive, $repeat_part);
 
   #example "MD MD MD [Maryland|MD]^"
   } elsif($raw =~ m/(.*?)\h*\[(.*?)(\|(.*?))?\]\h*([\^|\.|\?])$/) {
@@ -297,7 +307,7 @@ sub split_on_spoken_directive {
       $repeat_part = $sentence_part;
     }
 
-    return ($sentence_part, $spoken_directive, $repeat_part);
+    return ($is_courtesy_tone, $sentence_part, $spoken_directive, $repeat_part);
   } else {
     #temporarily change word speed directive so we can filter invalid characters
 
@@ -308,7 +318,7 @@ sub split_on_spoken_directive {
 
     $raw =~ s/XXXWORDSPEEDXXX/|/g;
 
-    return ($raw, $raw, $raw);
+    return ($is_courtesy_tone, $raw, $raw, $raw);
   }
 
 }
@@ -351,8 +361,9 @@ foreach(@sentences) {
     print $fh_structure "======> $sentence\n";
     print $fh_all "${sentence}\n";
 
-    my($sentence_part, $spoken_directive, $repeat_part) = split_on_spoken_directive($sentence);
+    my($is_courtsey_tone, $sentence_part, $spoken_directive, $repeat_part) = split_on_spoken_directive($sentence);
     if($word_limit == -1) {
+      print "is_courtesy_tone: $is_courtsey_tone\n";
       print "sentence_part: $sentence_part\n";
       print "spoken_directive: $spoken_directive\n";
       print "repeat_part: $repeat_part\n\n";
@@ -446,7 +457,10 @@ foreach(@sentences) {
     }
 
     my $counter = sprintf("%05d",$count);
-    if($sentence_part eq "" && $repeat_part eq "" && $spoken_directive ne "") {
+    if($is_courtsey_tone == 1) {
+      $filename_map{"$counter-courtesyTone"} = 1;
+      $count++;
+    } elsif($sentence_part eq "" && $repeat_part eq "" && $spoken_directive ne "") {
       get_text2speech($counter, $spoken_directive, "$counter-context");
       $count++;
     }
@@ -813,7 +827,11 @@ if(!$test) {
         my $counter = sprintf("%05d",$i);
 
         my $cached_context_filename = $filename_map{"$counter-context"};
-        if(-e $cached_context_filename) {
+        if($filename_map{"$counter-courtesyTone"} == 1){
+          print $fh_list "file '$cwd/silence-resampled2.mp3'\n";
+          print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
+          print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+        } elsif(-e $cached_context_filename) {
           if($first_for_given_speed == 1) {
             $first_for_given_speed = 0;
           } elsif (!$no_courtesy_tone) {
