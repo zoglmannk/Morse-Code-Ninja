@@ -33,7 +33,8 @@ GetOptions(
   'e|engine=s'        => \(my $text_to_speech_engine = "neural"), # neural | standard
   'sm|silencemorse=s' => \(my $silence_between_morse_code_and_spoken_voice = "1"),
   'ss|silencesets=s'  => \(my $silence_between_sets = "1"), # typically "1" sec
-  'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
+  'st|silencemanualcourtesytone=s' => \(my $silence_before_manual_courtesy_tone = "1"), # This ONLY comes into play when the practice set manually specifies a courtesy tone with <courtesyTone>
+  'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # typically 1 second
   'sc|silencecontext=s' => \(my $silence_between_context_and_morse_code = "1"),
   'x|extraspace=s'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
@@ -129,7 +130,7 @@ if(!$test) {
   @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
              "-t", "$silence_between_voice_and_repeat", "-codec:a", "libmp3lame",
              "-b:a", "256k", "$output_directory/silence2.mp3");
-  # print "cmd-3: @cmdLst\n";
+  # print "cmd-3a: @cmdLst\n";
   system(@cmdLst) == 0 or die "ERROR 3: @cmdLst failed, $!\n";
 
   # This is the silence between the context and the Morse code
@@ -137,7 +138,15 @@ if(!$test) {
   @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
       "-t", "$silence_between_context_and_morse_code", "-codec:a", "libmp3lame",
       "-b:a", "256k", "$output_directory/silence3.mp3");
-  # print "cmd-3: @cmdLst\n";
+  # print "cmd-3b: @cmdLst\n";
+  system(@cmdLst) == 0 or die "ERROR 3: @cmdLst failed, $!\n";
+
+  # This is the silence between the context and the Morse code
+  unlink "$output_directory/silence4.mp3" if (-f "$output_directory/silence4.mp3");
+  @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
+      "-t", "$silence_before_manual_courtesy_tone", "-codec:a", "libmp3lame",
+      "-b:a", "256k", "$output_directory/silence4.mp3");
+  # print "cmd-3c: @cmdLst\n";
   system(@cmdLst) == 0 or die "ERROR 3: @cmdLst failed, $!\n";
 
   #create quieter tone
@@ -770,22 +779,27 @@ if(!$test) {
   unlink "$cwd/silence-resampled1.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence1.mp3 $cwd/silence-resampled1.mp3";
   # print "cmd-11: $cmd\n";
-  system($cmd) == 0 or die "ERROR 11: $cmd failed, $!\n";;
+  system($cmd) == 0 or die "ERROR 11: $cmd failed, $!\n";
 
   unlink "$cwd/silence-resampled2.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence2.mp3 $cwd/silence-resampled2.mp3";
   # print "cmd-12: $cmd\n";
-  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";;
+  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";
 
   unlink "$cwd/silence-resampled3.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence3.mp3 $cwd/silence-resampled3.mp3";
   # print "cmd-12: $cmd\n";
-  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";;
+  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";
+
+  unlink "$cwd/silence-resampled4.mp3";
+  $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence4.mp3 $cwd/silence-resampled4.mp3";
+  # print "cmd-12: $cmd\n";
+  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";
 
   unlink "$cwd/pluck-softer-resampled.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/pluck-softer.mp3 $cwd/pluck-softer-resampled.mp3";
   # print "cmd-13: $cmd\n";
-  system($cmd) == 0 or die "ERROR 13: $cmd failed, $!\n";;
+  system($cmd) == 0 or die "ERROR 13: $cmd failed, $!\n";
 
   unlink "$cwd/plink-softer-resampled.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/plink-softer.mp3 $cwd/plink-softer-resampled.mp3";
@@ -825,12 +839,19 @@ if(!$test) {
       open(my $fh_list, '>', "$filename_base-list-${speed}wpm.txt");
       for (my $i=1; $i <= $count; $i++) {
         my $counter = sprintf("%05d",$i);
+        my $next_counter = sprintf("%05d",$i+1);
 
         my $cached_context_filename = $filename_map{"$counter-context"};
         if($filename_map{"$counter-courtesyTone"} == 1){
-          print $fh_list "file '$cwd/silence-resampled2.mp3'\n";
+          #print $fh_list "file '$cwd/silence-resampled4.mp3'\n";
           print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
-          print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+
+          my $next_cached_context_filename = $filename_map{"${next_counter}-context"};
+          # if next thing is voiced context, then we need to add the default amount of silence
+          if(-e $next_cached_context_filename) {
+            print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+          }
+
         } elsif(-e $cached_context_filename) {
           if($first_for_given_speed == 1) {
             $first_for_given_speed = 0;
@@ -887,7 +908,21 @@ if(!$test) {
           }
 
           if($no_repeat_morse) {
-            print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+            my $next_cached_context_filename = $filename_map{"${next_counter}-context"};
+
+            # if next thing is a manual courtesy tone then use the special spacing
+            if($filename_map{"${next_counter}-courtesyTone"} == 1) {
+              print $fh_list "file '$cwd/silence-resampled4.mp3'\n";
+
+            # if next thing is voiced context, then we need to use --sm, --silencemorse length of silence between Morse code and spoken voice
+            } elsif(-e $next_cached_context_filename) {
+              print $fh_list "file '$cwd/silence-resampled1.mp3'\n";
+
+            # other wise use the default spacing
+            } else {
+              print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+            }
+
           } else {
             print $fh_list "file '$cwd/silence-resampled2.mp3'\n";
 
@@ -1013,6 +1048,8 @@ sub print_usage {
   print "    --sm, --silencemorse length of silence between Morse code and spoken voice. Default 1 second.\n";
   print "    --ss, --silencesets  length of silence between courtesy tone and next practice set. Default 1 second.\n";
   print "    --sv, --silencevoice length of silence between spoken voice and repeated morse code. Default 1 second.\n";
+  print "    --sc, --silencecontext length of silence between spoken context and morse code. Default 1 second.\n";
+  print "    --st, --silencemanualcourtesytone length of silence between Morse code and manually specified courtesy tone <courtesyTone>. Default 1 second.\n";
   print "    -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc\n";
   print "    -l, --lang           language: ENGLISH or SWEDISH\n\n";
   die "";
