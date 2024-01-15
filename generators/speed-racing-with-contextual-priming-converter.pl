@@ -4,9 +4,9 @@ use strict;
 use warnings;
 
 # Usage:
-# cat easy-speed-racing-with-priming-context-raw.txt | ./convert.pl > easy-speed-racing-with-contextual-priming.txt
+# ./speed-racing-with-contextual-priming-converter.pl > ../easy-speed-racing-with-contextual-priming.txt
 #
-# ./render.pl -i test.txt -s 15 17 20 22 25 28 30 35 40 45 --sc 1.7 --ss 1.2  --norepeat --nospoken --nocourtesytone --speedAdjustRegex 's/<speed1>/1/,s/<speed2>/1.3/'
+# ./render.pl -i test.txt -s 15 17 20 22 25 28 30 35 40 45 50 --sm 1.3 --sc 1.7 --ss 1.5  --norepeat --nospoken --nocourtesytone --speedAdjustRegex 's/<speed1>/1/,s/<speed2>/1.3/'
 
 #open my $in, "<", "data/easy-speed-racing-with-contextual-priming-raw.txt";
 open my $in, "<", "data/difficult-speed-racing-with-contextual-priming-raw.txt";
@@ -40,7 +40,8 @@ foreach(@lines) {
             print "{ $context1 } ^\n";
             $is_first = 0;
         } else {
-            print "{ Next practice trial\\. $context1 } ^\n";
+            print "<courtesyTone> ^\n";
+            print "{ $context1 } ^\n";
         }
         print "<speed2> $answer ^\n";
         print "{ $context2 } ^\n";
