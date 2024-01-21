@@ -724,7 +724,7 @@ foreach(@sentences) {
             wait();
           }
 
-          print "======> Should be generating text 2 speech for: $spoken_directive\n";
+          print "======> Generating text 2 speech for: $spoken_directive\n";
           get_text2speech($counter, $spoken_directive, "$counter-voiced");
 
         }
