@@ -1,0 +1,8000 @@
+repl ^
+{ R, E, P, L\. } ^
+replacem ^
+{ R, E, P, L, A, C, E, M\. } ^
+replacement ^
+{ R, E, P, L, A, C, E, M, E, N, T\.\.\. replacement\. } ^
+replacement ^
+<courtesyTone> ^
+mark ^
+{ M, A, R, K\. } ^
+marketpl ^
+{ M, A, R, K, E, T, P, L\. } ^
+marketplace ^
+{ M, A, R, K, E, T, P, L, A, C, E\.\.\. marketplace\. } ^
+marketplace ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislature ^
+{ L, E, G, I, S, L, A, T, U, R, E\.\.\. legislature\. } ^
+legislature ^
+<courtesyTone> ^
+envi ^
+{ E, N, V, I\. } ^
+environm ^
+{ E, N, V, I, R, O, N, M\. } ^
+environment ^
+{ E, N, V, I, R, O, N, M, E, N, T\.\.\. environment\. } ^
+environment ^
+<courtesyTone> ^
+oper ^
+{ O, P, E, R\. } ^
+operatio ^
+{ O, P, E, R, A, T, I, O\. } ^
+operational ^
+{ O, P, E, R, A, T, I, O, N, A, L\.\.\. operational\. } ^
+operational ^
+<courtesyTone> ^
+unne ^
+{ U, N, N, E\. } ^
+unnecess ^
+{ U, N, N, E, C, E, S, S\. } ^
+unnecessary ^
+{ U, N, N, E, C, E, S, S, A, R, Y\.\.\. unnecessary\. } ^
+unnecessary ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+transpar ^
+{ T, R, A, N, S, P, A, R\. } ^
+transparent ^
+{ T, R, A, N, S, P, A, R, E, N, T\.\.\. transparent\. } ^
+transparent ^
+<courtesyTone> ^
+deve ^
+{ D, E, V, E\. } ^
+developm ^
+{ D, E, V, E, L, O, P, M\. } ^
+development ^
+{ D, E, V, E, L, O, P, M, E, N, T\.\.\. development\. } ^
+development ^
+<courtesyTone> ^
+coun ^
+{ C, O, U, N\. } ^
+counterp ^
+{ C, O, U, N, T, E, R, P\. } ^
+counterpart ^
+{ C, O, U, N, T, E, R, P, A, R, T\.\.\. counterpart\. } ^
+counterpart ^
+<courtesyTone> ^
+busi ^
+{ B, U, S, I\. } ^
+business ^
+{ B, U, S, I, N, E, S, S\. } ^
+businessman ^
+{ B, U, S, I, N, E, S, S, M, A, N\.\.\. businessman\. } ^
+businessman ^
+<courtesyTone> ^
+prob ^
+{ P, R, O, B\. } ^
+problema ^
+{ P, R, O, B, L, E, M, A\. } ^
+problematic ^
+{ P, R, O, B, L, E, M, A, T, I, C\.\.\. problematic\. } ^
+problematic ^
+<courtesyTone> ^
+desc ^
+{ D, E, S, C\. } ^
+descript ^
+{ D, E, S, C, R, I, P, T\. } ^
+description ^
+{ D, E, S, C, R, I, P, T, I, O, N\.\.\. description\. } ^
+description ^
+<courtesyTone> ^
+coor ^
+{ C, O, O, R\. } ^
+coordina ^
+{ C, O, O, R, D, I, N, A\. } ^
+coordinator ^
+{ C, O, O, R, D, I, N, A, T, O, R\.\.\. coordinator\. } ^
+coordinator ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consecut ^
+{ C, O, N, S, E, C, U, T\. } ^
+consecutive ^
+{ C, O, N, S, E, C, U, T, I, V, E\.\.\. consecutive\. } ^
+consecutive ^
+<courtesyTone> ^
+demo ^
+{ D, E, M, O\. } ^
+demonstr ^
+{ D, E, M, O, N, S, T, R\. } ^
+demonstrate ^
+{ D, E, M, O, N, S, T, R, A, T, E\.\.\. demonstrate\. } ^
+demonstrate ^
+<courtesyTone> ^
+theo ^
+{ T, H, E, O\. } ^
+theoreti ^
+{ T, H, E, O, R, E, T, I\. } ^
+theoretical ^
+{ T, H, E, O, R, E, T, I, C, A, L\.\.\. theoretical\. } ^
+theoretical ^
+<courtesyTone> ^
+inco ^
+{ I, N, C, O\. } ^
+incorpor ^
+{ I, N, C, O, R, P, O, R\. } ^
+incorporate ^
+{ I, N, C, O, R, P, O, R, A, T, E\.\.\. incorporate\. } ^
+incorporate ^
+<courtesyTone> ^
+expl ^
+{ E, X, P, L\. } ^
+explorat ^
+{ E, X, P, L, O, R, A, T\. } ^
+exploration ^
+{ E, X, P, L, O, R, A, T, I, O, N\.\.\. exploration\. } ^
+exploration ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accommod ^
+{ A, C, C, O, M, M, O, D\. } ^
+accommodate ^
+{ A, C, C, O, M, M, O, D, A, T, E\.\.\. accommodate\. } ^
+accommodate ^
+<courtesyTone> ^
+fasc ^
+{ F, A, S, C\. } ^
+fascinat ^
+{ F, A, S, C, I, N, A, T\. } ^
+fascinating ^
+{ F, A, S, C, I, N, A, T, I, N, G\.\.\. fascinating\. } ^
+fascinating ^
+<courtesyTone> ^
+prop ^
+{ P, R, O, P\. } ^
+proposit ^
+{ P, R, O, P, O, S, I, T\. } ^
+proposition ^
+{ P, R, O, P, O, S, I, T, I, O, N\.\.\. proposition\. } ^
+proposition ^
+<courtesyTone> ^
+unco ^
+{ U, N, C, O\. } ^
+unconsci ^
+{ U, N, C, O, N, S, C, I\. } ^
+unconscious ^
+{ U, N, C, O, N, S, C, I, O, U, S\.\.\. unconscious\. } ^
+unconscious ^
+<courtesyTone> ^
+effi ^
+{ E, F, F, I\. } ^
+efficien ^
+{ E, F, F, I, C, I, E, N\. } ^
+efficiently ^
+{ E, F, F, I, C, I, E, N, T, L, Y\.\.\. efficiently\. } ^
+efficiently ^
+<courtesyTone> ^
+spok ^
+{ S, P, O, K\. } ^
+spokeswo ^
+{ S, P, O, K, E, S, W, O\. } ^
+spokeswoman ^
+{ S, P, O, K, E, S, W, O, M, A, N\.\.\. spokeswoman\. } ^
+spokeswoman ^
+<courtesyTone> ^
+magn ^
+{ M, A, G, N\. } ^
+magnific ^
+{ M, A, G, N, I, F, I, C\. } ^
+magnificent ^
+{ M, A, G, N, I, F, I, C, E, N, T\.\.\. magnificent\. } ^
+magnificent ^
+<courtesyTone> ^
+imme ^
+{ I, M, M, E\. } ^
+immediat ^
+{ I, M, M, E, D, I, A, T\. } ^
+immediately ^
+{ I, M, M, E, D, I, A, T, E, L, Y\.\.\. immediately\. } ^
+immediately ^
+<courtesyTone> ^
+docu ^
+{ D, O, C, U\. } ^
+document ^
+{ D, O, C, U, M, E, N, T\. } ^
+documentary ^
+{ D, O, C, U, M, E, N, T, A, R, Y\.\.\. documentary\. } ^
+documentary ^
+<courtesyTone> ^
+conc ^
+{ C, O, N, C\. } ^
+concentr ^
+{ C, O, N, C, E, N, T, R\. } ^
+concentrate ^
+{ C, O, N, C, E, N, T, R, A, T, E\.\.\. concentrate\. } ^
+concentrate ^
+<courtesyTone> ^
+frig ^
+{ F, R, I, G\. } ^
+frighten ^
+{ F, R, I, G, H, T, E, N\. } ^
+frightening ^
+{ F, R, I, G, H, T, E, N, I, N, G\.\.\. frightening\. } ^
+frightening ^
+<courtesyTone> ^
+fire ^
+{ F, I, R, E\. } ^
+firefigh ^
+{ F, I, R, E, F, I, G, H\. } ^
+firefighter ^
+{ F, I, R, E, F, I, G, H, T, E, R\.\.\. firefighter\. } ^
+firefighter ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distingu ^
+{ D, I, S, T, I, N, G, U\. } ^
+distinguish ^
+{ D, I, S, T, I, N, G, U, I, S, H\.\.\. distinguish\. } ^
+distinguish ^
+<courtesyTone> ^
+inca ^
+{ I, N, C, A\. } ^
+incarcer ^
+{ I, N, C, A, R, C, E, R\. } ^
+incarcerate ^
+{ I, N, C, A, R, C, E, R, A, T, E\.\.\. incarcerate\. } ^
+incarcerate ^
+<courtesyTone> ^
+coll ^
+{ C, O, L, L\. } ^
+collabor ^
+{ C, O, L, L, A, B, O, R\. } ^
+collaborate ^
+{ C, O, L, L, A, B, O, R, A, T, E\.\.\. collaborate\. } ^
+collaborate ^
+<courtesyTone> ^
+engi ^
+{ E, N, G, I\. } ^
+engineer ^
+{ E, N, G, I, N, E, E, R\. } ^
+engineering ^
+{ E, N, G, I, N, E, E, R, I, N, G\.\.\. engineering\. } ^
+engineering ^
+<courtesyTone> ^
+appl ^
+{ A, P, P, L\. } ^
+applicat ^
+{ A, P, P, L, I, C, A, T\. } ^
+application ^
+{ A, P, P, L, I, C, A, T, I, O, N\.\.\. application\. } ^
+application ^
+<courtesyTone> ^
+pote ^
+{ P, O, T, E\. } ^
+potentia ^
+{ P, O, T, E, N, T, I, A\. } ^
+potentially ^
+{ P, O, T, E, N, T, I, A, L, L, Y\.\.\. potentially\. } ^
+potentially ^
+<courtesyTone> ^
+supe ^
+{ S, U, P, E\. } ^
+supervis ^
+{ S, U, P, E, R, V, I, S\. } ^
+supervision ^
+{ S, U, P, E, R, V, I, S, I, O, N\.\.\. supervision\. } ^
+supervision ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+comparat ^
+{ C, O, M, P, A, R, A, T\. } ^
+comparative ^
+{ C, O, M, P, A, R, A, T, I, V, E\.\.\. comparative\. } ^
+comparative ^
+<courtesyTone> ^
+psyc ^
+{ P, S, Y, C\. } ^
+psychiat ^
+{ P, S, Y, C, H, I, A, T\. } ^
+psychiatric ^
+{ P, S, Y, C, H, I, A, T, R, I, C\.\.\. psychiatric\. } ^
+psychiatric ^
+<courtesyTone> ^
+sust ^
+{ S, U, S, T\. } ^
+sustaina ^
+{ S, U, S, T, A, I, N, A\. } ^
+sustainable ^
+{ S, U, S, T, A, I, N, A, B, L, E\.\.\. sustainable\. } ^
+sustainable ^
+<courtesyTone> ^
+prog ^
+{ P, R, O, G\. } ^
+progress ^
+{ P, R, O, G, R, E, S, S\. } ^
+progressive ^
+{ P, R, O, G, R, E, S, S, I, V, E\.\.\. progressive\. } ^
+progressive ^
+<courtesyTone> ^
+fort ^
+{ F, O, R, T\. } ^
+fortunat ^
+{ F, O, R, T, U, N, A, T\. } ^
+fortunately ^
+{ F, O, R, T, U, N, A, T, E, L, Y\.\.\. fortunately\. } ^
+fortunately ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+conseque ^
+{ C, O, N, S, E, Q, U, E\. } ^
+consequence ^
+{ C, O, N, S, E, Q, U, E, N, C, E\.\.\. consequence\. } ^
+consequence ^
+<courtesyTone> ^
+frus ^
+{ F, R, U, S\. } ^
+frustrat ^
+{ F, R, U, S, T, R, A, T\. } ^
+frustrating ^
+{ F, R, U, S, T, R, A, T, I, N, G\.\.\. frustrating\. } ^
+frustrating ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+continua ^
+{ C, O, N, T, I, N, U, A\. } ^
+continually ^
+{ C, O, N, T, I, N, U, A, L, L, Y\.\.\. continually\. } ^
+continually ^
+<courtesyTone> ^
+inst ^
+{ I, N, S, T\. } ^
+institut ^
+{ I, N, S, T, I, T, U, T\. } ^
+institution ^
+{ I, N, S, T, I, T, U, T, I, O, N\.\.\. institution\. } ^
+institution ^
+<courtesyTone> ^
+enco ^
+{ E, N, C, O\. } ^
+encourag ^
+{ E, N, C, O, U, R, A, G\. } ^
+encouraging ^
+{ E, N, C, O, U, R, A, G, I, N, G\.\.\. encouraging\. } ^
+encouraging ^
+<courtesyTone> ^
+acqu ^
+{ A, C, Q, U\. } ^
+acquisit ^
+{ A, C, Q, U, I, S, I, T\. } ^
+acquisition ^
+{ A, C, Q, U, I, S, I, T, I, O, N\.\.\. acquisition\. } ^
+acquisition ^
+<courtesyTone> ^
+elec ^
+{ E, L, E, C\. } ^
+electric ^
+{ E, L, E, C, T, R, I, C\. } ^
+electricity ^
+{ E, L, E, C, T, R, I, C, I, T, Y\.\.\. electricity\. } ^
+electricity ^
+<courtesyTone> ^
+appo ^
+{ A, P, P, O\. } ^
+appointm ^
+{ A, P, P, O, I, N, T, M\. } ^
+appointment ^
+{ A, P, P, O, I, N, T, M, E, N, T\.\.\. appointment\. } ^
+appointment ^
+<courtesyTone> ^
+scho ^
+{ S, C, H, O\. } ^
+scholars ^
+{ S, C, H, O, L, A, R, S\. } ^
+scholarship ^
+{ S, C, H, O, L, A, R, S, H, I, P\.\.\. scholarship\. } ^
+scholarship ^
+<courtesyTone> ^
+bene ^
+{ B, E, N, E\. } ^
+benefici ^
+{ B, E, N, E, F, I, C, I\. } ^
+beneficiary ^
+{ B, E, N, E, F, I, C, I, A, R, Y\.\.\. beneficiary\. } ^
+beneficiary ^
+<courtesyTone> ^
+info ^
+{ I, N, F, O\. } ^
+informat ^
+{ I, N, F, O, R, M, A, T\. } ^
+information ^
+{ I, N, F, O, R, M, A, T, I, O, N\.\.\. information\. } ^
+information ^
+<courtesyTone> ^
+trad ^
+{ T, R, A, D\. } ^
+traditio ^
+{ T, R, A, D, I, T, I, O\. } ^
+traditional ^
+{ T, R, A, D, I, T, I, O, N, A, L\.\.\. traditional\. } ^
+traditional ^
+<courtesyTone> ^
+requ ^
+{ R, E, Q, U\. } ^
+requirem ^
+{ R, E, Q, U, I, R, E, M\. } ^
+requirement ^
+{ R, E, Q, U, I, R, E, M, E, N, T\.\.\. requirement\. } ^
+requirement ^
+<courtesyTone> ^
+corp ^
+{ C, O, R, P\. } ^
+corporat ^
+{ C, O, R, P, O, R, A, T\. } ^
+corporation ^
+{ C, O, R, P, O, R, A, T, I, O, N\.\.\. corporation\. } ^
+corporation ^
+<courtesyTone> ^
+calc ^
+{ C, A, L, C\. } ^
+calculat ^
+{ C, A, L, C, U, L, A, T\. } ^
+calculation ^
+{ C, A, L, C, U, L, A, T, I, O, N\.\.\. calculation\. } ^
+calculation ^
+<courtesyTone> ^
+will ^
+{ W, I, L, L\. } ^
+willingn ^
+{ W, I, L, L, I, N, G, N\. } ^
+willingness ^
+{ W, I, L, L, I, N, G, N, E, S, S\.\.\. willingness\. } ^
+willingness ^
+<courtesyTone> ^
+diff ^
+{ D, I, F, F\. } ^
+differen ^
+{ D, I, F, F, E, R, E, N\. } ^
+differently ^
+{ D, I, F, F, E, R, E, N, T, L, Y\.\.\. differently\. } ^
+differently ^
+<courtesyTone> ^
+resi ^
+{ R, E, S, I\. } ^
+resident ^
+{ R, E, S, I, D, E, N, T\. } ^
+residential ^
+{ R, E, S, I, D, E, N, T, I, A, L\.\.\. residential\. } ^
+residential ^
+<courtesyTone> ^
+meth ^
+{ M, E, T, H\. } ^
+methodol ^
+{ M, E, T, H, O, D, O, L\. } ^
+methodology ^
+{ M, E, T, H, O, D, O, L, O, G, Y\.\.\. methodology\. } ^
+methodology ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+competit ^
+{ C, O, M, P, E, T, I, T\. } ^
+competition ^
+{ C, O, M, P, E, T, I, T, I, O, N\.\.\. competition\. } ^
+competition ^
+<courtesyTone> ^
+furt ^
+{ F, U, R, T\. } ^
+furtherm ^
+{ F, U, R, T, H, E, R, M\. } ^
+furthermore ^
+{ F, U, R, T, H, E, R, M, O, R, E\.\.\. furthermore\. } ^
+furthermore ^
+<courtesyTone> ^
+inst ^
+{ I, N, S, T\. } ^
+instruct ^
+{ I, N, S, T, R, U, C, T\. } ^
+instruction ^
+{ I, N, S, T, R, U, C, T, I, O, N\.\.\. instruction\. } ^
+instruction ^
+<courtesyTone> ^
+nego ^
+{ N, E, G, O\. } ^
+negotiat ^
+{ N, E, G, O, T, I, A, T\. } ^
+negotiation ^
+{ N, E, G, O, T, I, A, T, I, O, N\.\.\. negotiation\. } ^
+negotiation ^
+<courtesyTone> ^
+orie ^
+{ O, R, I, E\. } ^
+orientat ^
+{ O, R, I, E, N, T, A, T\. } ^
+orientation ^
+{ O, R, I, E, N, T, A, T, I, O, N\.\.\. orientation\. } ^
+orientation ^
+<courtesyTone> ^
+fash ^
+{ F, A, S, H\. } ^
+fashiona ^
+{ F, A, S, H, I, O, N, A\. } ^
+fashionable ^
+{ F, A, S, H, I, O, N, A, B, L, E\.\.\. fashionable\. } ^
+fashionable ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandfat ^
+{ G, R, A, N, D, F, A, T\. } ^
+grandfather ^
+{ G, R, A, N, D, F, A, T, H, E, R\.\.\. grandfather\. } ^
+grandfather ^
+<courtesyTone> ^
+expl ^
+{ E, X, P, L\. } ^
+explanat ^
+{ E, X, P, L, A, N, A, T\. } ^
+explanation ^
+{ E, X, P, L, A, N, A, T, I, O, N\.\.\. explanation\. } ^
+explanation ^
+<courtesyTone> ^
+rest ^
+{ R, E, S, T\. } ^
+restorat ^
+{ R, E, S, T, O, R, A, T\. } ^
+restoration ^
+{ R, E, S, T, O, R, A, T, I, O, N\.\.\. restoration\. } ^
+restoration ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+spectacu ^
+{ S, P, E, C, T, A, C, U\. } ^
+spectacular ^
+{ S, P, E, C, T, A, C, U, L, A, R\.\.\. spectacular\. } ^
+spectacular ^
+<courtesyTone> ^
+inde ^
+{ I, N, D, E\. } ^
+independ ^
+{ I, N, D, E, P, E, N, D\. } ^
+independent ^
+{ I, N, D, E, P, E, N, D, E, N, T\.\.\. independent\. } ^
+independent ^
+<courtesyTone> ^
+emot ^
+{ E, M, O, T\. } ^
+emotiona ^
+{ E, M, O, T, I, O, N, A\. } ^
+emotionally ^
+{ E, M, O, T, I, O, N, A, L, L, Y\.\.\. emotionally\. } ^
+emotionally ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interest ^
+{ I, N, T, E, R, E, S, T\. } ^
+interesting ^
+{ I, N, T, E, R, E, S, T, I, N, G\.\.\. interesting\. } ^
+interesting ^
+<courtesyTone> ^
+supe ^
+{ S, U, P, E\. } ^
+supermar ^
+{ S, U, P, E, R, M, A, R\. } ^
+supermarket ^
+{ S, U, P, E, R, M, A, R, K, E, T\.\.\. supermarket\. } ^
+supermarket ^
+<courtesyTone> ^
+meas ^
+{ M, E, A, S\. } ^
+measurem ^
+{ M, E, A, S, U, R, E, M\. } ^
+measurement ^
+{ M, E, A, S, U, R, E, M, E, N, T\.\.\. measurement\. } ^
+measurement ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+transact ^
+{ T, R, A, N, S, A, C, T\. } ^
+transaction ^
+{ T, R, A, N, S, A, C, T, I, O, N\.\.\. transaction\. } ^
+transaction ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destruct ^
+{ D, E, S, T, R, U, C, T\. } ^
+destructive ^
+{ D, E, S, T, R, U, C, T, I, V, E\.\.\. destructive\. } ^
+destructive ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+particip ^
+{ P, A, R, T, I, C, I, P\. } ^
+participant ^
+{ P, A, R, T, I, C, I, P, A, N, T\.\.\. participant\. } ^
+participant ^
+<courtesyTone> ^
+achi ^
+{ A, C, H, I\. } ^
+achievem ^
+{ A, C, H, I, E, V, E, M\. } ^
+achievement ^
+{ A, C, H, I, E, V, E, M, E, N, T\.\.\. achievement\. } ^
+achievement ^
+<courtesyTone> ^
+manu ^
+{ M, A, N, U\. } ^
+manufact ^
+{ M, A, N, U, F, A, C, T\. } ^
+manufacture ^
+{ M, A, N, U, F, A, C, T, U, R, E\.\.\. manufacture\. } ^
+manufacture ^
+<courtesyTone> ^
+impl ^
+{ I, M, P, L\. } ^
+implicat ^
+{ I, M, P, L, I, C, A, T\. } ^
+implication ^
+{ I, M, P, L, I, C, A, T, I, O, N\.\.\. implication\. } ^
+implication ^
+<courtesyTone> ^
+perf ^
+{ P, E, R, F\. } ^
+performa ^
+{ P, E, R, F, O, R, M, A\. } ^
+performance ^
+{ P, E, R, F, O, R, M, A, N, C, E\.\.\. performance\. } ^
+performance ^
+<courtesyTone> ^
+conv ^
+{ C, O, N, V\. } ^
+convenie ^
+{ C, O, N, V, E, N, I, E\. } ^
+convenience ^
+{ C, O, N, V, E, N, I, E, N, C, E\.\.\. convenience\. } ^
+convenience ^
+<courtesyTone> ^
+circ ^
+{ C, I, R, C\. } ^
+circulat ^
+{ C, I, R, C, U, L, A, T\. } ^
+circulation ^
+{ C, I, R, C, U, L, A, T, I, O, N\.\.\. circulation\. } ^
+circulation ^
+<courtesyTone> ^
+rest ^
+{ R, E, S, T\. } ^
+restrict ^
+{ R, E, S, T, R, I, C, T\. } ^
+restriction ^
+{ R, E, S, T, R, I, C, T, I, O, N\.\.\. restriction\. } ^
+restriction ^
+<courtesyTone> ^
+invo ^
+{ I, N, V, O\. } ^
+involvem ^
+{ I, N, V, O, L, V, E, M\. } ^
+involvement ^
+{ I, N, V, O, L, V, E, M, E, N, T\.\.\. involvement\. } ^
+involvement ^
+<courtesyTone> ^
+educ ^
+{ E, D, U, C\. } ^
+educatio ^
+{ E, D, U, C, A, T, I, O\. } ^
+educational ^
+{ E, D, U, C, A, T, I, O, N, A, L\.\.\. educational\. } ^
+educational ^
+<courtesyTone> ^
+pred ^
+{ P, R, E, D\. } ^
+predeces ^
+{ P, R, E, D, E, C, E, S\. } ^
+predecessor ^
+{ P, R, E, D, E, C, E, S, S, O, R\.\.\. predecessor\. } ^
+predecessor ^
+<courtesyTone> ^
+asto ^
+{ A, S, T, O\. } ^
+astonish ^
+{ A, S, T, O, N, I, S, H\. } ^
+astonishing ^
+{ A, S, T, O, N, I, S, H, I, N, G\.\.\. astonishing\. } ^
+astonishing ^
+<courtesyTone> ^
+chal ^
+{ C, H, A, L\. } ^
+challeng ^
+{ C, H, A, L, L, E, N, G\. } ^
+challenging ^
+{ C, H, A, L, L, E, N, G, I, N, G\.\.\. challenging\. } ^
+challenging ^
+<courtesyTone> ^
+cert ^
+{ C, E, R, T\. } ^
+certific ^
+{ C, E, R, T, I, F, I, C\. } ^
+certificate ^
+{ C, E, R, T, I, F, I, C, A, T, E\.\.\. certificate\. } ^
+certificate ^
+<courtesyTone> ^
+subs ^
+{ S, U, B, S\. } ^
+substant ^
+{ S, U, B, S, T, A, N, T\. } ^
+substantial ^
+{ S, U, B, S, T, A, N, T, I, A, L\.\.\. substantial\. } ^
+substantial ^
+<courtesyTone> ^
+obse ^
+{ O, B, S, E\. } ^
+observat ^
+{ O, B, S, E, R, V, A, T\. } ^
+observation ^
+{ O, B, S, E, R, V, A, T, I, O, N\.\.\. observation\. } ^
+observation ^
+<courtesyTone> ^
+prep ^
+{ P, R, E, P\. } ^
+preparat ^
+{ P, R, E, P, A, R, A, T\. } ^
+preparation ^
+{ P, R, E, P, A, R, A, T, I, O, N\.\.\. preparation\. } ^
+preparation ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consolid ^
+{ C, O, N, S, O, L, I, D\. } ^
+consolidate ^
+{ C, O, N, S, O, L, I, D, A, T, E\.\.\. consolidate\. } ^
+consolidate ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+particip ^
+{ P, A, R, T, I, C, I, P\. } ^
+participate ^
+{ P, A, R, T, I, C, I, P, A, T, E\.\.\. participate\. } ^
+participate ^
+<courtesyTone> ^
+publ ^
+{ P, U, B, L\. } ^
+publicat ^
+{ P, U, B, L, I, C, A, T\. } ^
+publication ^
+{ P, U, B, L, I, C, A, T, I, O, N\.\.\. publication\. } ^
+publication ^
+<courtesyTone> ^
+pers ^
+{ P, E, R, S\. } ^
+perspect ^
+{ P, E, R, S, P, E, C, T\. } ^
+perspective ^
+{ P, E, R, S, P, E, C, T, I, V, E\.\.\. perspective\. } ^
+perspective ^
+<courtesyTone> ^
+pros ^
+{ P, R, O, S\. } ^
+prosecut ^
+{ P, R, O, S, E, C, U, T\. } ^
+prosecution ^
+{ P, R, O, S, E, C, U, T, I, O, N\.\.\. prosecution\. } ^
+prosecution ^
+<courtesyTone> ^
+oppo ^
+{ O, P, P, O\. } ^
+opportun ^
+{ O, P, P, O, R, T, U, N\. } ^
+opportunity ^
+{ O, P, P, O, R, T, U, N, I, T, Y\.\.\. opportunity\. } ^
+opportunity ^
+<courtesyTone> ^
+comf ^
+{ C, O, M, F\. } ^
+comforta ^
+{ C, O, M, F, O, R, T, A\. } ^
+comfortable ^
+{ C, O, M, F, O, R, T, A, B, L, E\.\.\. comfortable\. } ^
+comfortable ^
+<courtesyTone> ^
+phil ^
+{ P, H, I, L\. } ^
+philosop ^
+{ P, H, I, L, O, S, O, P\. } ^
+philosopher ^
+{ P, H, I, L, O, S, O, P, H, E, R\.\.\. philosopher\. } ^
+philosopher ^
+<courtesyTone> ^
+immi ^
+{ I, M, M, I\. } ^
+immigrat ^
+{ I, M, M, I, G, R, A, T\. } ^
+immigration ^
+{ I, M, M, I, G, R, A, T, I, O, N\.\.\. immigration\. } ^
+immigration ^
+<courtesyTone> ^
+citi ^
+{ C, I, T, I\. } ^
+citizens ^
+{ C, I, T, I, Z, E, N, S\. } ^
+citizenship ^
+{ C, I, T, I, Z, E, N, S, H, I, P\.\.\. citizenship\. } ^
+citizenship ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+experien ^
+{ E, X, P, E, R, I, E, N\. } ^
+experienced ^
+{ E, X, P, E, R, I, E, N, C, E, D\.\.\. experienced\. } ^
+experienced ^
+<courtesyTone> ^
+reco ^
+{ R, E, C, O\. } ^
+recognit ^
+{ R, E, C, O, G, N, I, T\. } ^
+recognition ^
+{ R, E, C, O, G, N, I, T, I, O, N\.\.\. recognition\. } ^
+recognition ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+partners ^
+{ P, A, R, T, N, E, R, S\. } ^
+partnership ^
+{ P, A, R, T, N, E, R, S, H, I, P\.\.\. partnership\. } ^
+partnership ^
+<courtesyTone> ^
+cred ^
+{ C, R, E, D\. } ^
+credibil ^
+{ C, R, E, D, I, B, I, L\. } ^
+credibility ^
+{ C, R, E, D, I, B, I, L, I, T, Y\.\.\. credibility\. } ^
+credibility ^
+<courtesyTone> ^
+enfo ^
+{ E, N, F, O\. } ^
+enforcem ^
+{ E, N, F, O, R, C, E, M\. } ^
+enforcement ^
+{ E, N, F, O, R, C, E, M, E, N, T\.\.\. enforcement\. } ^
+enforcement ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+contribu ^
+{ C, O, N, T, R, I, B, U\. } ^
+contributor ^
+{ C, O, N, T, R, I, B, U, T, O, R\.\.\. contributor\. } ^
+contributor ^
+<courtesyTone> ^
+pros ^
+{ P, R, O, S\. } ^
+prospect ^
+{ P, R, O, S, P, E, C, T\. } ^
+prospective ^
+{ P, R, O, S, P, E, C, T, I, V, E\.\.\. prospective\. } ^
+prospective ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+translat ^
+{ T, R, A, N, S, L, A, T\. } ^
+translation ^
+{ T, R, A, N, S, L, A, T, I, O, N\.\.\. translation\. } ^
+translation ^
+<courtesyTone> ^
+comm ^
+{ C, O, M, M\. } ^
+commenta ^
+{ C, O, M, M, E, N, T, A\. } ^
+commentator ^
+{ C, O, M, M, E, N, T, A, T, O, R\.\.\. commentator\. } ^
+commentator ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interact ^
+{ I, N, T, E, R, A, C, T\. } ^
+interaction ^
+{ I, N, T, E, R, A, C, T, I, O, N\.\.\. interaction\. } ^
+interaction ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+intellig ^
+{ I, N, T, E, L, L, I, G\. } ^
+intelligent ^
+{ I, N, T, E, L, L, I, G, E, N, T\.\.\. intelligent\. } ^
+intelligent ^
+<courtesyTone> ^
+pred ^
+{ P, R, E, D\. } ^
+predicta ^
+{ P, R, E, D, I, C, T, A\. } ^
+predictable ^
+{ P, R, E, D, I, C, T, A, B, L, E\.\.\. predictable\. } ^
+predictable ^
+<courtesyTone> ^
+coin ^
+{ C, O, I, N\. } ^
+coincide ^
+{ C, O, I, N, C, I, D, E\. } ^
+coincidence ^
+{ C, O, I, N, C, I, D, E, N, C, E\.\.\. coincidence\. } ^
+coincidence ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destruct ^
+{ D, E, S, T, R, U, C, T\. } ^
+destruction ^
+{ D, E, S, T, R, U, C, T, I, O, N\.\.\. destruction\. } ^
+destruction ^
+<courtesyTone> ^
+endo ^
+{ E, N, D, O\. } ^
+endorsem ^
+{ E, N, D, O, R, S, E, M\. } ^
+endorsement ^
+{ E, N, D, O, R, S, E, M, E, N, T\.\.\. endorsement\. } ^
+endorsement ^
+<courtesyTone> ^
+flex ^
+{ F, L, E, X\. } ^
+flexibil ^
+{ F, L, E, X, I, B, I, L\. } ^
+flexibility ^
+{ F, L, E, X, I, B, I, L, I, T, Y\.\.\. flexibility\. } ^
+flexibility ^
+<courtesyTone> ^
+infl ^
+{ I, N, F, L\. } ^
+influent ^
+{ I, N, F, L, U, E, N, T\. } ^
+influential ^
+{ I, N, F, L, U, E, N, T, I, A, L\.\.\. influential\. } ^
+influential ^
+<courtesyTone> ^
+impr ^
+{ I, M, P, R\. } ^
+improvem ^
+{ I, M, P, R, O, V, E, M\. } ^
+improvement ^
+{ I, M, P, R, O, V, E, M, E, N, T\.\.\. improvement\. } ^
+improvement ^
+<courtesyTone> ^
+stat ^
+{ S, T, A, T\. } ^
+statisti ^
+{ S, T, A, T, I, S, T, I\. } ^
+statistical ^
+{ S, T, A, T, I, S, T, I, C, A, L\.\.\. statistical\. } ^
+statistical ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accounta ^
+{ A, C, C, O, U, N, T, A\. } ^
+accountable ^
+{ A, C, C, O, U, N, T, A, B, L, E\.\.\. accountable\. } ^
+accountable ^
+<courtesyTone> ^
+prel ^
+{ P, R, E, L\. } ^
+prelimin ^
+{ P, R, E, L, I, M, I, N\. } ^
+preliminary ^
+{ P, R, E, L, I, M, I, N, A, R, Y\.\.\. preliminary\. } ^
+preliminary ^
+<courtesyTone> ^
+coop ^
+{ C, O, O, P\. } ^
+cooperat ^
+{ C, O, O, P, E, R, A, T\. } ^
+cooperative ^
+{ C, O, O, P, E, R, A, T, I, V, E\.\.\. cooperative\. } ^
+cooperative ^
+<courtesyTone> ^
+surr ^
+{ S, U, R, R\. } ^
+surround ^
+{ S, U, R, R, O, U, N, D\. } ^
+surrounding ^
+{ S, U, R, R, O, U, N, D, I, N, G\.\.\. surrounding\. } ^
+surrounding ^
+<courtesyTone> ^
+elec ^
+{ E, L, E, C\. } ^
+electron ^
+{ E, L, E, C, T, R, O, N\. } ^
+electronics ^
+{ E, L, E, C, T, R, O, N, I, C, S\.\.\. electronics\. } ^
+electronics ^
+<courtesyTone> ^
+prob ^
+{ P, R, O, B\. } ^
+probabil ^
+{ P, R, O, B, A, B, I, L\. } ^
+probability ^
+{ P, R, O, B, A, B, I, L, I, T, Y\.\.\. probability\. } ^
+probability ^
+<courtesyTone> ^
+resi ^
+{ R, E, S, I\. } ^
+resignat ^
+{ R, E, S, I, G, N, A, T\. } ^
+resignation ^
+{ R, E, S, I, G, N, A, T, I, O, N\.\.\. resignation\. } ^
+resignation ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+competit ^
+{ C, O, M, P, E, T, I, T\. } ^
+competitive ^
+{ C, O, M, P, E, T, I, T, I, V, E\.\.\. competitive\. } ^
+competitive ^
+<courtesyTone> ^
+shar ^
+{ S, H, A, R\. } ^
+sharehol ^
+{ S, H, A, R, E, H, O, L\. } ^
+shareholder ^
+{ S, H, A, R, E, H, O, L, D, E, R\.\.\. shareholder\. } ^
+shareholder ^
+<courtesyTone> ^
+sens ^
+{ S, E, N, S\. } ^
+sensitiv ^
+{ S, E, N, S, I, T, I, V\. } ^
+sensitivity ^
+{ S, E, N, S, I, T, I, V, I, T, Y\.\.\. sensitivity\. } ^
+sensitivity ^
+<courtesyTone> ^
+none ^
+{ N, O, N, E\. } ^
+nonethel ^
+{ N, O, N, E, T, H, E, L\. } ^
+nonetheless ^
+{ N, O, N, E, T, H, E, L, E, S, S\.\.\. nonetheless\. } ^
+nonetheless ^
+<courtesyTone> ^
+appr ^
+{ A, P, P, R\. } ^
+appropri ^
+{ A, P, P, R, O, P, R, I\. } ^
+appropriate ^
+{ A, P, P, R, O, P, R, I, A, T, E\.\.\. appropriate\. } ^
+appropriate ^
+<courtesyTone> ^
+undo ^
+{ U, N, D, O\. } ^
+undoubte ^
+{ U, N, D, O, U, B, T, E\. } ^
+undoubtedly ^
+{ U, N, D, O, U, B, T, E, D, L, Y\.\.\. undoubtedly\. } ^
+undoubtedly ^
+<courtesyTone> ^
+decl ^
+{ D, E, C, L\. } ^
+declarat ^
+{ D, E, C, L, A, R, A, T\. } ^
+declaration ^
+{ D, E, C, L, A, R, A, T, I, O, N\.\.\. declaration\. } ^
+declaration ^
+<courtesyTone> ^
+adve ^
+{ A, D, V, E\. } ^
+advertis ^
+{ A, D, V, E, R, T, I, S\. } ^
+advertising ^
+{ A, D, V, E, R, T, I, S, I, N, G\.\.\. advertising\. } ^
+advertising ^
+<courtesyTone> ^
+cele ^
+{ C, E, L, E\. } ^
+celebrat ^
+{ C, E, L, E, B, R, A, T\. } ^
+celebration ^
+{ C, E, L, E, B, R, A, T, I, O, N\.\.\. celebration\. } ^
+celebration ^
+<courtesyTone> ^
+coun ^
+{ C, O, U, N\. } ^
+countrys ^
+{ C, O, U, N, T, R, Y, S\. } ^
+countryside ^
+{ C, O, U, N, T, R, Y, S, I, D, E\.\.\. countryside\. } ^
+countryside ^
+<courtesyTone> ^
+perm ^
+{ P, E, R, M\. } ^
+permanen ^
+{ P, E, R, M, A, N, E, N\. } ^
+permanently ^
+{ P, E, R, M, A, N, E, N, T, L, Y\.\.\. permanently\. } ^
+permanently ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+expectat ^
+{ E, X, P, E, C, T, A, T\. } ^
+expectation ^
+{ E, X, P, E, C, T, A, T, I, O, N\.\.\. expectation\. } ^
+expectation ^
+<courtesyTone> ^
+unfo ^
+{ U, N, F, O\. } ^
+unfortun ^
+{ U, N, F, O, R, T, U, N\. } ^
+unfortunate ^
+{ U, N, F, O, R, T, U, N, A, T, E\.\.\. unfortunate\. } ^
+unfortunate ^
+<courtesyTone> ^
+bure ^
+{ B, U, R, E\. } ^
+bureaucr ^
+{ B, U, R, E, A, U, C, R\. } ^
+bureaucracy ^
+{ B, U, R, E, A, U, C, R, A, C, Y\.\.\. bureaucracy\. } ^
+bureaucracy ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distinct ^
+{ D, I, S, T, I, N, C, T\. } ^
+distinctive ^
+{ D, I, S, T, I, N, C, T, I, V, E\.\.\. distinctive\. } ^
+distinctive ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislation ^
+{ L, E, G, I, S, L, A, T, I, O, N\.\.\. legislation\. } ^
+legislation ^
+<courtesyTone> ^
+inve ^
+{ I, N, V, E\. } ^
+investig ^
+{ I, N, V, E, S, T, I, G\. } ^
+investigate ^
+{ I, N, V, E, S, T, I, G, A, T, E\.\.\. investigate\. } ^
+investigate ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+controve ^
+{ C, O, N, T, R, O, V, E\. } ^
+controversy ^
+{ C, O, N, T, R, O, V, E, R, S, Y\.\.\. controversy\. } ^
+controversy ^
+<courtesyTone> ^
+arra ^
+{ A, R, R, A\. } ^
+arrangem ^
+{ A, R, R, A, N, G, E, M\. } ^
+arrangement ^
+{ A, R, R, A, N, G, E, M, E, N, T\.\.\. arrangement\. } ^
+arrangement ^
+<courtesyTone> ^
+alte ^
+{ A, L, T, E\. } ^
+alternat ^
+{ A, L, T, E, R, N, A, T\. } ^
+alternative ^
+{ A, L, T, E, R, N, A, T, I, V, E\.\.\. alternative\. } ^
+alternative ^
+<courtesyTone> ^
+pres ^
+{ P, R, E, S\. } ^
+prestigi ^
+{ P, R, E, S, T, I, G, I\. } ^
+prestigious ^
+{ P, R, E, S, T, I, G, I, O, U, S\.\.\. prestigious\. } ^
+prestigious ^
+<courtesyTone> ^
+math ^
+{ M, A, T, H\. } ^
+mathemat ^
+{ M, A, T, H, E, M, A, T\. } ^
+mathematics ^
+{ M, A, T, H, E, M, A, T, I, C, S\.\.\. mathematics\. } ^
+mathematics ^
+<courtesyTone> ^
+fort ^
+{ F, O, R, T\. } ^
+forthcom ^
+{ F, O, R, T, H, C, O, M\. } ^
+forthcoming ^
+{ F, O, R, T, H, C, O, M, I, N, G\.\.\. forthcoming\. } ^
+forthcoming ^
+<courtesyTone> ^
+fund ^
+{ F, U, N, D\. } ^
+fundamen ^
+{ F, U, N, D, A, M, E, N\. } ^
+fundamental ^
+{ F, U, N, D, A, M, E, N, T, A, L\.\.\. fundamental\. } ^
+fundamental ^
+<courtesyTone> ^
+broa ^
+{ B, R, O, A\. } ^
+broadcas ^
+{ B, R, O, A, D, C, A, S\. } ^
+broadcaster ^
+{ B, R, O, A, D, C, A, S, T, E, R\.\.\. broadcaster\. } ^
+broadcaster ^
+<courtesyTone> ^
+ackn ^
+{ A, C, K, N\. } ^
+acknowle ^
+{ A, C, K, N, O, W, L, E\. } ^
+acknowledge ^
+{ A, C, K, N, O, W, L, E, D, G, E\.\.\. acknowledge\. } ^
+acknowledge ^
+<courtesyTone> ^
+exte ^
+{ E, X, T, E\. } ^
+extensiv ^
+{ E, X, T, E, N, S, I, V\. } ^
+extensively ^
+{ E, X, T, E, N, S, I, V, E, L, Y\.\.\. extensively\. } ^
+extensively ^
+<courtesyTone> ^
+agri ^
+{ A, G, R, I\. } ^
+agricult ^
+{ A, G, R, I, C, U, L, T\. } ^
+agriculture ^
+{ A, G, R, I, C, U, L, T, U, R, E\.\.\. agriculture\. } ^
+agriculture ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consiste ^
+{ C, O, N, S, I, S, T, E\. } ^
+consistency ^
+{ C, O, N, S, I, S, T, E, N, C, Y\.\.\. consistency\. } ^
+consistency ^
+<courtesyTone> ^
+esse ^
+{ E, S, S, E\. } ^
+essentia ^
+{ E, S, S, E, N, T, I, A\. } ^
+essentially ^
+{ E, S, S, E, N, T, I, A, L, L, Y\.\.\. essentially\. } ^
+essentially ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consumpt ^
+{ C, O, N, S, U, M, P, T\. } ^
+consumption ^
+{ C, O, N, S, U, M, P, T, I, O, N\.\.\. consumption\. } ^
+consumption ^
+<courtesyTone> ^
+temp ^
+{ T, E, M, P\. } ^
+temporar ^
+{ T, E, M, P, O, R, A, R\. } ^
+temporarily ^
+{ T, E, M, P, O, R, A, R, I, L, Y\.\.\. temporarily\. } ^
+temporarily ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+contempl ^
+{ C, O, N, T, E, M, P, L\. } ^
+contemplate ^
+{ C, O, N, T, E, M, P, L, A, T, E\.\.\. contemplate\. } ^
+contemplate ^
+<courtesyTone> ^
+comb ^
+{ C, O, M, B\. } ^
+combinat ^
+{ C, O, M, B, I, N, A, T\. } ^
+combination ^
+{ C, O, M, B, I, N, A, T, I, O, N\.\.\. combination\. } ^
+combination ^
+<courtesyTone> ^
+recr ^
+{ R, E, C, R\. } ^
+recruitm ^
+{ R, E, C, R, U, I, T, M\. } ^
+recruitment ^
+{ R, E, C, R, U, I, T, M, E, N, T\.\.\. recruitment\. } ^
+recruitment ^
+<courtesyTone> ^
+unce ^
+{ U, N, C, E\. } ^
+uncertai ^
+{ U, N, C, E, R, T, A, I\. } ^
+uncertainty ^
+{ U, N, C, E, R, T, A, I, N, T, Y\.\.\. uncertainty\. } ^
+uncertainty ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accordin ^
+{ A, C, C, O, R, D, I, N\. } ^
+accordingly ^
+{ A, C, C, O, R, D, I, N, G, L, Y\.\.\. accordingly\. } ^
+accordingly ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+expendit ^
+{ E, X, P, E, N, D, I, T\. } ^
+expenditure ^
+{ E, X, P, E, N, D, I, T, U, R, E\.\.\. expenditure\. } ^
+expenditure ^
+<courtesyTone> ^
+exce ^
+{ E, X, C, E\. } ^
+exceptio ^
+{ E, X, C, E, P, T, I, O\. } ^
+exceptional ^
+{ E, X, C, E, P, T, I, O, N, A, L\.\.\. exceptional\. } ^
+exceptional ^
+<courtesyTone> ^
+resp ^
+{ R, E, S, P\. } ^
+responsi ^
+{ R, E, S, P, O, N, S, I\. } ^
+responsible ^
+{ R, E, S, P, O, N, S, I, B, L, E\.\.\. responsible\. } ^
+responsible ^
+<courtesyTone> ^
+asso ^
+{ A, S, S, O\. } ^
+associat ^
+{ A, S, S, O, C, I, A, T\. } ^
+association ^
+{ A, S, S, O, C, I, A, T, I, O, N\.\.\. association\. } ^
+association ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+speciali ^
+{ S, P, E, C, I, A, L, I\. } ^
+specialized ^
+{ S, P, E, C, I, A, L, I, Z, E, D\.\.\. specialized\. } ^
+specialized ^
+<courtesyTone> ^
+comm ^
+{ C, O, M, M\. } ^
+communic ^
+{ C, O, M, M, U, N, I, C\. } ^
+communicate ^
+{ C, O, M, M, U, N, I, C, A, T, E\.\.\. communicate\. } ^
+communicate ^
+<courtesyTone> ^
+real ^
+{ R, E, A, L\. } ^
+realizat ^
+{ R, E, A, L, I, Z, A, T\. } ^
+realization ^
+{ R, E, A, L, I, Z, A, T, I, O, N\.\.\. realization\. } ^
+realization ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislative ^
+{ L, E, G, I, S, L, A, T, I, V, E\.\.\. legislative\. } ^
+legislative ^
+<courtesyTone> ^
+sove ^
+{ S, O, V, E\. } ^
+sovereig ^
+{ S, O, V, E, R, E, I, G\. } ^
+sovereignty ^
+{ S, O, V, E, R, E, I, G, N, T, Y\.\.\. sovereignty\. } ^
+sovereignty ^
+<courtesyTone> ^
+prog ^
+{ P, R, O, G\. } ^
+programm ^
+{ P, R, O, G, R, A, M, M\. } ^
+programming ^
+{ P, R, O, G, R, A, M, M, I, N, G\.\.\. programming\. } ^
+programming ^
+<courtesyTone> ^
+anni ^
+{ A, N, N, I\. } ^
+annivers ^
+{ A, N, N, I, V, E, R, S\. } ^
+anniversary ^
+{ A, N, N, I, V, E, R, S, A, R, Y\.\.\. anniversary\. } ^
+anniversary ^
+<courtesyTone> ^
+corr ^
+{ C, O, R, R\. } ^
+correlat ^
+{ C, O, R, R, E, L, A, T\. } ^
+correlation ^
+{ C, O, R, R, E, L, A, T, I, O, N\.\.\. correlation\. } ^
+correlation ^
+<courtesyTone> ^
+rese ^
+{ R, E, S, E\. } ^
+reservat ^
+{ R, E, S, E, R, V, A, T\. } ^
+reservation ^
+{ R, E, S, E, R, V, A, T, I, O, N\.\.\. reservation\. } ^
+reservation ^
+<courtesyTone> ^
+dete ^
+{ D, E, T, E\. } ^
+deterior ^
+{ D, E, T, E, R, I, O, R\. } ^
+deteriorate ^
+{ D, E, T, E, R, I, O, R, A, T, E\.\.\. deteriorate\. } ^
+deteriorate ^
+<courtesyTone> ^
+main ^
+{ M, A, I, N\. } ^
+maintena ^
+{ M, A, I, N, T, E, N, A\. } ^
+maintenance ^
+{ M, A, I, N, T, E, N, A, N, C, E\.\.\. maintenance\. } ^
+maintenance ^
+<courtesyTone> ^
+exam ^
+{ E, X, A, M\. } ^
+examinat ^
+{ E, X, A, M, I, N, A, T\. } ^
+examination ^
+{ E, X, A, M, I, N, A, T, I, O, N\.\.\. examination\. } ^
+examination ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandmot ^
+{ G, R, A, N, D, M, O, T\. } ^
+grandmother ^
+{ G, R, A, N, D, M, O, T, H, E, R\.\.\. grandmother\. } ^
+grandmother ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+composit ^
+{ C, O, M, P, O, S, I, T\. } ^
+composition ^
+{ C, O, M, P, O, S, I, T, I, O, N\.\.\. composition\. } ^
+composition ^
+<courtesyTone> ^
+temp ^
+{ T, E, M, P\. } ^
+temperat ^
+{ T, E, M, P, E, R, A, T\. } ^
+temperature ^
+{ T, E, M, P, E, R, A, T, U, R, E\.\.\. temperature\. } ^
+temperature ^
+<courtesyTone> ^
+outs ^
+{ O, U, T, S\. } ^
+outstand ^
+{ O, U, T, S, T, A, N, D\. } ^
+outstanding ^
+{ O, U, T, S, T, A, N, D, I, N, G\.\.\. outstanding\. } ^
+outstanding ^
+<courtesyTone> ^
+fund ^
+{ F, U, N, D\. } ^
+fundrais ^
+{ F, U, N, D, R, A, I, S\. } ^
+fundraising ^
+{ F, U, N, D, R, A, I, S, I, N, G\.\.\. fundraising\. } ^
+fundraising ^
+<courtesyTone> ^
+excl ^
+{ E, X, C, L\. } ^
+exclusiv ^
+{ E, X, C, L, U, S, I, V\. } ^
+exclusively ^
+{ E, X, C, L, U, S, I, V, E, L, Y\.\.\. exclusively\. } ^
+exclusively ^
+<courtesyTone> ^
+desp ^
+{ D, E, S, P\. } ^
+desperat ^
+{ D, E, S, P, E, R, A, T\. } ^
+desperately ^
+{ D, E, S, P, E, R, A, T, E, L, Y\.\.\. desperately\. } ^
+desperately ^
+<courtesyTone> ^
+spon ^
+{ S, P, O, N\. } ^
+sponsors ^
+{ S, P, O, N, S, O, R, S\. } ^
+sponsorship ^
+{ S, P, O, N, S, O, R, S, H, I, P\.\.\. sponsorship\. } ^
+sponsorship ^
+<courtesyTone> ^
+frus ^
+{ F, R, U, S\. } ^
+frustrat ^
+{ F, R, U, S, T, R, A, T\. } ^
+frustration ^
+{ F, R, U, S, T, R, A, T, I, O, N\.\.\. frustration\. } ^
+frustration ^
+<courtesyTone> ^
+sign ^
+{ S, I, G, N\. } ^
+signific ^
+{ S, I, G, N, I, F, I, C\. } ^
+significant ^
+{ S, I, G, N, I, F, I, C, A, N, T\.\.\. significant\. } ^
+significant ^
+<courtesyTone> ^
+neig ^
+{ N, E, I, G\. } ^
+neighbor ^
+{ N, E, I, G, H, B, O, R\. } ^
+neighboring ^
+{ N, E, I, G, H, B, O, R, I, N, G\.\.\. neighboring\. } ^
+neighboring ^
+<courtesyTone> ^
+emba ^
+{ E, M, B, A\. } ^
+embarras ^
+{ E, M, B, A, R, R, A, S\. } ^
+embarrassed ^
+{ E, M, B, A, R, R, A, S, S, E, D\.\.\. embarrassed\. } ^
+embarrassed ^
+<courtesyTone> ^
+reli ^
+{ R, E, L, I\. } ^
+reliabil ^
+{ R, E, L, I, A, B, I, L\. } ^
+reliability ^
+{ R, E, L, I, A, B, I, L, I, T, Y\.\.\. reliability\. } ^
+reliability ^
+<courtesyTone> ^
+unde ^
+{ U, N, D, E\. } ^
+undergro ^
+{ U, N, D, E, R, G, R, O\. } ^
+underground ^
+{ U, N, D, E, R, G, R, O, U, N, D\.\.\. underground\. } ^
+underground ^
+<courtesyTone> ^
+pers ^
+{ P, E, R, S\. } ^
+personal ^
+{ P, E, R, S, O, N, A, L\. } ^
+personality ^
+{ P, E, R, S, O, N, A, L, I, T, Y\.\.\. personality\. } ^
+personality ^
+<courtesyTone> ^
+poss ^
+{ P, O, S, S\. } ^
+possibil ^
+{ P, O, S, S, I, B, I, L\. } ^
+possibility ^
+{ P, O, S, S, I, B, I, L, I, T, Y\.\.\. possibility\. } ^
+possibility ^
+<courtesyTone> ^
+ideo ^
+{ I, D, E, O\. } ^
+ideologi ^
+{ I, D, E, O, L, O, G, I\. } ^
+ideological ^
+{ I, D, E, O, L, O, G, I, C, A, L\.\.\. ideological\. } ^
+ideological ^
+<courtesyTone> ^
+insp ^
+{ I, N, S, P\. } ^
+inspirat ^
+{ I, N, S, P, I, R, A, T\. } ^
+inspiration ^
+{ I, N, S, P, I, R, A, T, I, O, N\.\.\. inspiration\. } ^
+inspiration ^
+<courtesyTone> ^
+batt ^
+{ B, A, T, T\. } ^
+battlefi ^
+{ B, A, T, T, L, E, F, I\. } ^
+battlefield ^
+{ B, A, T, T, L, E, F, I, E, L, D\.\.\. battlefield\. } ^
+battlefield ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destinat ^
+{ D, E, S, T, I, N, A, T\. } ^
+destination ^
+{ D, E, S, T, I, N, A, T, I, O, N\.\.\. destination\. } ^
+destination ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interact ^
+{ I, N, T, E, R, A, C, T\. } ^
+interactive ^
+{ I, N, T, E, R, A, C, T, I, V, E\.\.\. interactive\. } ^
+interactive ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+integrat ^
+{ I, N, T, E, G, R, A, T\. } ^
+integration ^
+{ I, N, T, E, G, R, A, T, I, O, N\.\.\. integration\. } ^
+integration ^
+<courtesyTone> ^
+symp ^
+{ S, Y, M, P\. } ^
+sympathe ^
+{ S, Y, M, P, A, T, H, E\. } ^
+sympathetic ^
+{ S, Y, M, P, A, T, H, E, T, I, C\.\.\. sympathetic\. } ^
+sympathetic ^
+<courtesyTone> ^
+imag ^
+{ I, M, A, G\. } ^
+imaginat ^
+{ I, M, A, G, I, N, A, T\. } ^
+imagination ^
+{ I, M, A, G, I, N, A, T, I, O, N\.\.\. imagination\. } ^
+imagination ^
+<courtesyTone> ^
+phot ^
+{ P, H, O, T\. } ^
+photogra ^
+{ P, H, O, T, O, G, R, A\. } ^
+photography ^
+{ P, H, O, T, O, G, R, A, P, H, Y\.\.\. photography\. } ^
+photography ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distinct ^
+{ D, I, S, T, I, N, C, T\. } ^
+distinction ^
+{ D, I, S, T, I, N, C, T, I, O, N\.\.\. distinction\. } ^
+distinction ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+speculat ^
+{ S, P, E, C, U, L, A, T\. } ^
+speculation ^
+{ S, P, E, C, U, L, A, T, I, O, N\.\.\. speculation\. } ^
+speculation ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandpar ^
+{ G, R, A, N, D, P, A, R\. } ^
+grandparent ^
+{ G, R, A, N, D, P, A, R, E, N, T\.\.\. grandparent\. } ^
+grandparent ^
+<courtesyTone> ^
+nece ^
+{ N, E, C, E\. } ^
+necessar ^
+{ N, E, C, E, S, S, A, R\. } ^
+necessarily ^
+{ N, E, C, E, S, S, A, R, I, L, Y\.\.\. necessarily\. } ^
+necessarily ^
+<courtesyTone> ^
+effe ^
+{ E, F, F, E\. } ^
+effectiv ^
+{ E, F, F, E, C, T, I, V\. } ^
+effectively ^
+{ E, F, F, E, C, T, I, V, E, L, Y\.\.\. effectively\. } ^
+effectively ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+complica ^
+{ C, O, M, P, L, I, C, A\. } ^
+complicated ^
+{ C, O, M, P, L, I, C, A, T, E, D\.\.\. complicated\. } ^
+complicated ^
+<courtesyTone> ^
+reco ^
+{ R, E, C, O\. } ^
+recognit ^
+{ R, E, C, O, G, N, I, T\. } ^
+recognition ^
+{ R, E, C, O, G, N, I, T, I, O, N\.\.\. recognition\. } ^
+recognition ^
+<courtesyTone> ^
+inst ^
+{ I, N, S, T\. } ^
+instruct ^
+{ I, N, S, T, R, U, C, T\. } ^
+instruction ^
+{ I, N, S, T, R, U, C, T, I, O, N\.\.\. instruction\. } ^
+instruction ^
+<courtesyTone> ^
+dete ^
+{ D, E, T, E\. } ^
+deterior ^
+{ D, E, T, E, R, I, O, R\. } ^
+deteriorate ^
+{ D, E, T, E, R, I, O, R, A, T, E\.\.\. deteriorate\. } ^
+deteriorate ^
+<courtesyTone> ^
+cred ^
+{ C, R, E, D\. } ^
+credibil ^
+{ C, R, E, D, I, B, I, L\. } ^
+credibility ^
+{ C, R, E, D, I, B, I, L, I, T, Y\.\.\. credibility\. } ^
+credibility ^
+<courtesyTone> ^
+desc ^
+{ D, E, S, C\. } ^
+descript ^
+{ D, E, S, C, R, I, P, T\. } ^
+description ^
+{ D, E, S, C, R, I, P, T, I, O, N\.\.\. description\. } ^
+description ^
+<courtesyTone> ^
+agri ^
+{ A, G, R, I\. } ^
+agricult ^
+{ A, G, R, I, C, U, L, T\. } ^
+agriculture ^
+{ A, G, R, I, C, U, L, T, U, R, E\.\.\. agriculture\. } ^
+agriculture ^
+<courtesyTone> ^
+deve ^
+{ D, E, V, E\. } ^
+developm ^
+{ D, E, V, E, L, O, P, M\. } ^
+development ^
+{ D, E, V, E, L, O, P, M, E, N, T\.\.\. development\. } ^
+development ^
+<courtesyTone> ^
+math ^
+{ M, A, T, H\. } ^
+mathemat ^
+{ M, A, T, H, E, M, A, T\. } ^
+mathematics ^
+{ M, A, T, H, E, M, A, T, I, C, S\.\.\. mathematics\. } ^
+mathematics ^
+<courtesyTone> ^
+batt ^
+{ B, A, T, T\. } ^
+battlefi ^
+{ B, A, T, T, L, E, F, I\. } ^
+battlefield ^
+{ B, A, T, T, L, E, F, I, E, L, D\.\.\. battlefield\. } ^
+battlefield ^
+<courtesyTone> ^
+comf ^
+{ C, O, M, F\. } ^
+comforta ^
+{ C, O, M, F, O, R, T, A\. } ^
+comfortable ^
+{ C, O, M, F, O, R, T, A, B, L, E\.\.\. comfortable\. } ^
+comfortable ^
+<courtesyTone> ^
+circ ^
+{ C, I, R, C\. } ^
+circulat ^
+{ C, I, R, C, U, L, A, T\. } ^
+circulation ^
+{ C, I, R, C, U, L, A, T, I, O, N\.\.\. circulation\. } ^
+circulation ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+integrat ^
+{ I, N, T, E, G, R, A, T\. } ^
+integration ^
+{ I, N, T, E, G, R, A, T, I, O, N\.\.\. integration\. } ^
+integration ^
+<courtesyTone> ^
+effi ^
+{ E, F, F, I\. } ^
+efficien ^
+{ E, F, F, I, C, I, E, N\. } ^
+efficiently ^
+{ E, F, F, I, C, I, E, N, T, L, Y\.\.\. efficiently\. } ^
+efficiently ^
+<courtesyTone> ^
+decl ^
+{ D, E, C, L\. } ^
+declarat ^
+{ D, E, C, L, A, R, A, T\. } ^
+declaration ^
+{ D, E, C, L, A, R, A, T, I, O, N\.\.\. declaration\. } ^
+declaration ^
+<courtesyTone> ^
+will ^
+{ W, I, L, L\. } ^
+willingn ^
+{ W, I, L, L, I, N, G, N\. } ^
+willingness ^
+{ W, I, L, L, I, N, G, N, E, S, S\.\.\. willingness\. } ^
+willingness ^
+<courtesyTone> ^
+diff ^
+{ D, I, F, F\. } ^
+differen ^
+{ D, I, F, F, E, R, E, N\. } ^
+differently ^
+{ D, I, F, F, E, R, E, N, T, L, Y\.\.\. differently\. } ^
+differently ^
+<courtesyTone> ^
+demo ^
+{ D, E, M, O\. } ^
+demonstr ^
+{ D, E, M, O, N, S, T, R\. } ^
+demonstrate ^
+{ D, E, M, O, N, S, T, R, A, T, E\.\.\. demonstrate\. } ^
+demonstrate ^
+<courtesyTone> ^
+arra ^
+{ A, R, R, A\. } ^
+arrangem ^
+{ A, R, R, A, N, G, E, M\. } ^
+arrangement ^
+{ A, R, R, A, N, G, E, M, E, N, T\.\.\. arrangement\. } ^
+arrangement ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consecut ^
+{ C, O, N, S, E, C, U, T\. } ^
+consecutive ^
+{ C, O, N, S, E, C, U, T, I, V, E\.\.\. consecutive\. } ^
+consecutive ^
+<courtesyTone> ^
+temp ^
+{ T, E, M, P\. } ^
+temperat ^
+{ T, E, M, P, E, R, A, T\. } ^
+temperature ^
+{ T, E, M, P, E, R, A, T, U, R, E\.\.\. temperature\. } ^
+temperature ^
+<courtesyTone> ^
+pred ^
+{ P, R, E, D\. } ^
+predeces ^
+{ P, R, E, D, E, C, E, S\. } ^
+predecessor ^
+{ P, R, E, D, E, C, E, S, S, O, R\.\.\. predecessor\. } ^
+predecessor ^
+<courtesyTone> ^
+enco ^
+{ E, N, C, O\. } ^
+encourag ^
+{ E, N, C, O, U, R, A, G\. } ^
+encouraging ^
+{ E, N, C, O, U, R, A, G, I, N, G\.\.\. encouraging\. } ^
+encouraging ^
+<courtesyTone> ^
+appl ^
+{ A, P, P, L\. } ^
+applicat ^
+{ A, P, P, L, I, C, A, T\. } ^
+application ^
+{ A, P, P, L, I, C, A, T, I, O, N\.\.\. application\. } ^
+application ^
+<courtesyTone> ^
+fort ^
+{ F, O, R, T\. } ^
+fortunat ^
+{ F, O, R, T, U, N, A, T\. } ^
+fortunately ^
+{ F, O, R, T, U, N, A, T, E, L, Y\.\.\. fortunately\. } ^
+fortunately ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+intellig ^
+{ I, N, T, E, L, L, I, G\. } ^
+intelligent ^
+{ I, N, T, E, L, L, I, G, E, N, T\.\.\. intelligent\. } ^
+intelligent ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+partners ^
+{ P, A, R, T, N, E, R, S\. } ^
+partnership ^
+{ P, A, R, T, N, E, R, S, H, I, P\.\.\. partnership\. } ^
+partnership ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislative ^
+{ L, E, G, I, S, L, A, T, I, V, E\.\.\. legislative\. } ^
+legislative ^
+<courtesyTone> ^
+infl ^
+{ I, N, F, L\. } ^
+influent ^
+{ I, N, F, L, U, E, N, T\. } ^
+influential ^
+{ I, N, F, L, U, E, N, T, I, A, L\.\.\. influential\. } ^
+influential ^
+<courtesyTone> ^
+resi ^
+{ R, E, S, I\. } ^
+resident ^
+{ R, E, S, I, D, E, N, T\. } ^
+residential ^
+{ R, E, S, I, D, E, N, T, I, A, L\.\.\. residential\. } ^
+residential ^
+<courtesyTone> ^
+fund ^
+{ F, U, N, D\. } ^
+fundamen ^
+{ F, U, N, D, A, M, E, N\. } ^
+fundamental ^
+{ F, U, N, D, A, M, E, N, T, A, L\.\.\. fundamental\. } ^
+fundamental ^
+<courtesyTone> ^
+rest ^
+{ R, E, S, T\. } ^
+restrict ^
+{ R, E, S, T, R, I, C, T\. } ^
+restriction ^
+{ R, E, S, T, R, I, C, T, I, O, N\.\.\. restriction\. } ^
+restriction ^
+<courtesyTone> ^
+desp ^
+{ D, E, S, P\. } ^
+desperat ^
+{ D, E, S, P, E, R, A, T\. } ^
+desperately ^
+{ D, E, S, P, E, R, A, T, E, L, Y\.\.\. desperately\. } ^
+desperately ^
+<courtesyTone> ^
+main ^
+{ M, A, I, N\. } ^
+maintena ^
+{ M, A, I, N, T, E, N, A\. } ^
+maintenance ^
+{ M, A, I, N, T, E, N, A, N, C, E\.\.\. maintenance\. } ^
+maintenance ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+controve ^
+{ C, O, N, T, R, O, V, E\. } ^
+controversy ^
+{ C, O, N, T, R, O, V, E, R, S, Y\.\.\. controversy\. } ^
+controversy ^
+<courtesyTone> ^
+corp ^
+{ C, O, R, P\. } ^
+corporat ^
+{ C, O, R, P, O, R, A, T\. } ^
+corporation ^
+{ C, O, R, P, O, R, A, T, I, O, N\.\.\. corporation\. } ^
+corporation ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+complica ^
+{ C, O, M, P, L, I, C, A\. } ^
+complicated ^
+{ C, O, M, P, L, I, C, A, T, E, D\.\.\. complicated\. } ^
+complicated ^
+<courtesyTone> ^
+asto ^
+{ A, S, T, O\. } ^
+astonish ^
+{ A, S, T, O, N, I, S, H\. } ^
+astonishing ^
+{ A, S, T, O, N, I, S, H, I, N, G\.\.\. astonishing\. } ^
+astonishing ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+competit ^
+{ C, O, M, P, E, T, I, T\. } ^
+competitive ^
+{ C, O, M, P, E, T, I, T, I, V, E\.\.\. competitive\. } ^
+competitive ^
+<courtesyTone> ^
+rese ^
+{ R, E, S, E\. } ^
+reservat ^
+{ R, E, S, E, R, V, A, T\. } ^
+reservation ^
+{ R, E, S, E, R, V, A, T, I, O, N\.\.\. reservation\. } ^
+reservation ^
+<courtesyTone> ^
+sove ^
+{ S, O, V, E\. } ^
+sovereig ^
+{ S, O, V, E, R, E, I, G\. } ^
+sovereignty ^
+{ S, O, V, E, R, E, I, G, N, T, Y\.\.\. sovereignty\. } ^
+sovereignty ^
+<courtesyTone> ^
+resi ^
+{ R, E, S, I\. } ^
+resignat ^
+{ R, E, S, I, G, N, A, T\. } ^
+resignation ^
+{ R, E, S, I, G, N, A, T, I, O, N\.\.\. resignation\. } ^
+resignation ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distingu ^
+{ D, I, S, T, I, N, G, U\. } ^
+distinguish ^
+{ D, I, S, T, I, N, G, U, I, S, H\.\.\. distinguish\. } ^
+distinguish ^
+<courtesyTone> ^
+unce ^
+{ U, N, C, E\. } ^
+uncertai ^
+{ U, N, C, E, R, T, A, I\. } ^
+uncertainty ^
+{ U, N, C, E, R, T, A, I, N, T, Y\.\.\. uncertainty\. } ^
+uncertainty ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distinct ^
+{ D, I, S, T, I, N, C, T\. } ^
+distinctive ^
+{ D, I, S, T, I, N, C, T, I, V, E\.\.\. distinctive\. } ^
+distinctive ^
+<courtesyTone> ^
+psyc ^
+{ P, S, Y, C\. } ^
+psychiat ^
+{ P, S, Y, C, H, I, A, T\. } ^
+psychiatric ^
+{ P, S, Y, C, H, I, A, T, R, I, C\.\.\. psychiatric\. } ^
+psychiatric ^
+<courtesyTone> ^
+envi ^
+{ E, N, V, I\. } ^
+environm ^
+{ E, N, V, I, R, O, N, M\. } ^
+environment ^
+{ E, N, V, I, R, O, N, M, E, N, T\.\.\. environment\. } ^
+environment ^
+<courtesyTone> ^
+inve ^
+{ I, N, V, E\. } ^
+investig ^
+{ I, N, V, E, S, T, I, G\. } ^
+investigate ^
+{ I, N, V, E, S, T, I, G, A, T, E\.\.\. investigate\. } ^
+investigate ^
+<courtesyTone> ^
+cele ^
+{ C, E, L, E\. } ^
+celebrat ^
+{ C, E, L, E, B, R, A, T\. } ^
+celebration ^
+{ C, E, L, E, B, R, A, T, I, O, N\.\.\. celebration\. } ^
+celebration ^
+<courtesyTone> ^
+unde ^
+{ U, N, D, E\. } ^
+undergro ^
+{ U, N, D, E, R, G, R, O\. } ^
+underground ^
+{ U, N, D, E, R, G, R, O, U, N, D\.\.\. underground\. } ^
+underground ^
+<courtesyTone> ^
+emot ^
+{ E, M, O, T\. } ^
+emotiona ^
+{ E, M, O, T, I, O, N, A\. } ^
+emotionally ^
+{ E, M, O, T, I, O, N, A, L, L, Y\.\.\. emotionally\. } ^
+emotionally ^
+<courtesyTone> ^
+insp ^
+{ I, N, S, P\. } ^
+inspirat ^
+{ I, N, S, P, I, R, A, T\. } ^
+inspiration ^
+{ I, N, S, P, I, R, A, T, I, O, N\.\.\. inspiration\. } ^
+inspiration ^
+<courtesyTone> ^
+adve ^
+{ A, D, V, E\. } ^
+advertis ^
+{ A, D, V, E, R, T, I, S\. } ^
+advertising ^
+{ A, D, V, E, R, T, I, S, I, N, G\.\.\. advertising\. } ^
+advertising ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandmot ^
+{ G, R, A, N, D, M, O, T\. } ^
+grandmother ^
+{ G, R, A, N, D, M, O, T, H, E, R\.\.\. grandmother\. } ^
+grandmother ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislation ^
+{ L, E, G, I, S, L, A, T, I, O, N\.\.\. legislation\. } ^
+legislation ^
+<courtesyTone> ^
+frus ^
+{ F, R, U, S\. } ^
+frustrat ^
+{ F, R, U, S, T, R, A, T\. } ^
+frustration ^
+{ F, R, U, S, T, R, A, T, I, O, N\.\.\. frustration\. } ^
+frustration ^
+<courtesyTone> ^
+fort ^
+{ F, O, R, T\. } ^
+forthcom ^
+{ F, O, R, T, H, C, O, M\. } ^
+forthcoming ^
+{ F, O, R, T, H, C, O, M, I, N, G\.\.\. forthcoming\. } ^
+forthcoming ^
+<courtesyTone> ^
+supe ^
+{ S, U, P, E\. } ^
+supervis ^
+{ S, U, P, E, R, V, I, S\. } ^
+supervision ^
+{ S, U, P, E, R, V, I, S, I, O, N\.\.\. supervision\. } ^
+supervision ^
+<courtesyTone> ^
+perf ^
+{ P, E, R, F\. } ^
+performa ^
+{ P, E, R, F, O, R, M, A\. } ^
+performance ^
+{ P, E, R, F, O, R, M, A, N, C, E\.\.\. performance\. } ^
+performance ^
+<courtesyTone> ^
+ackn ^
+{ A, C, K, N\. } ^
+acknowle ^
+{ A, C, K, N, O, W, L, E\. } ^
+acknowledge ^
+{ A, C, K, N, O, W, L, E, D, G, E\.\.\. acknowledge\. } ^
+acknowledge ^
+<courtesyTone> ^
+spok ^
+{ S, P, O, K\. } ^
+spokeswo ^
+{ S, P, O, K, E, S, W, O\. } ^
+spokeswoman ^
+{ S, P, O, K, E, S, W, O, M, A, N\.\.\. spokeswoman\. } ^
+spokeswoman ^
+<courtesyTone> ^
+shar ^
+{ S, H, A, R\. } ^
+sharehol ^
+{ S, H, A, R, E, H, O, L\. } ^
+shareholder ^
+{ S, H, A, R, E, H, O, L, D, E, R\.\.\. shareholder\. } ^
+shareholder ^
+<courtesyTone> ^
+fire ^
+{ F, I, R, E\. } ^
+firefigh ^
+{ F, I, R, E, F, I, G, H\. } ^
+firefighter ^
+{ F, I, R, E, F, I, G, H, T, E, R\.\.\. firefighter\. } ^
+firefighter ^
+<courtesyTone> ^
+prog ^
+{ P, R, O, G\. } ^
+progress ^
+{ P, R, O, G, R, E, S, S\. } ^
+progressive ^
+{ P, R, O, G, R, E, S, S, I, V, E\.\.\. progressive\. } ^
+progressive ^
+<courtesyTone> ^
+frig ^
+{ F, R, I, G\. } ^
+frighten ^
+{ F, R, I, G, H, T, E, N\. } ^
+frightening ^
+{ F, R, I, G, H, T, E, N, I, N, G\.\.\. frightening\. } ^
+frightening ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+transpar ^
+{ T, R, A, N, S, P, A, R\. } ^
+transparent ^
+{ T, R, A, N, S, P, A, R, E, N, T\.\.\. transparent\. } ^
+transparent ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+contribu ^
+{ C, O, N, T, R, I, B, U\. } ^
+contributor ^
+{ C, O, N, T, R, I, B, U, T, O, R\.\.\. contributor\. } ^
+contributor ^
+<courtesyTone> ^
+immi ^
+{ I, M, M, I\. } ^
+immigrat ^
+{ I, M, M, I, G, R, A, T\. } ^
+immigration ^
+{ I, M, M, I, G, R, A, T, I, O, N\.\.\. immigration\. } ^
+immigration ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+transact ^
+{ T, R, A, N, S, A, C, T\. } ^
+transaction ^
+{ T, R, A, N, S, A, C, T, I, O, N\.\.\. transaction\. } ^
+transaction ^
+<courtesyTone> ^
+phil ^
+{ P, H, I, L\. } ^
+philosop ^
+{ P, H, I, L, O, S, O, P\. } ^
+philosopher ^
+{ P, H, I, L, O, S, O, P, H, E, R\.\.\. philosopher\. } ^
+philosopher ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+contempl ^
+{ C, O, N, T, E, M, P, L\. } ^
+contemplate ^
+{ C, O, N, T, E, M, P, L, A, T, E\.\.\. contemplate\. } ^
+contemplate ^
+<courtesyTone> ^
+citi ^
+{ C, I, T, I\. } ^
+citizens ^
+{ C, I, T, I, Z, E, N, S\. } ^
+citizenship ^
+{ C, I, T, I, Z, E, N, S, H, I, P\.\.\. citizenship\. } ^
+citizenship ^
+<courtesyTone> ^
+sens ^
+{ S, E, N, S\. } ^
+sensitiv ^
+{ S, E, N, S, I, T, I, V\. } ^
+sensitivity ^
+{ S, E, N, S, I, T, I, V, I, T, Y\.\.\. sensitivity\. } ^
+sensitivity ^
+<courtesyTone> ^
+bene ^
+{ B, E, N, E\. } ^
+benefici ^
+{ B, E, N, E, F, I, C, I\. } ^
+beneficiary ^
+{ B, E, N, E, F, I, C, I, A, R, Y\.\.\. beneficiary\. } ^
+beneficiary ^
+<courtesyTone> ^
+supe ^
+{ S, U, P, E\. } ^
+supermar ^
+{ S, U, P, E, R, M, A, R\. } ^
+supermarket ^
+{ S, U, P, E, R, M, A, R, K, E, T\.\.\. supermarket\. } ^
+supermarket ^
+<courtesyTone> ^
+exte ^
+{ E, X, T, E\. } ^
+extensiv ^
+{ E, X, T, E, N, S, I, V\. } ^
+extensively ^
+{ E, X, T, E, N, S, I, V, E, L, Y\.\.\. extensively\. } ^
+extensively ^
+<courtesyTone> ^
+chal ^
+{ C, H, A, L\. } ^
+challeng ^
+{ C, H, A, L, L, E, N, G\. } ^
+challenging ^
+{ C, H, A, L, L, E, N, G, I, N, G\.\.\. challenging\. } ^
+challenging ^
+<courtesyTone> ^
+comb ^
+{ C, O, M, B\. } ^
+combinat ^
+{ C, O, M, B, I, N, A, T\. } ^
+combination ^
+{ C, O, M, B, I, N, A, T, I, O, N\.\.\. combination\. } ^
+combination ^
+<courtesyTone> ^
+temp ^
+{ T, E, M, P\. } ^
+temporar ^
+{ T, E, M, P, O, R, A, R\. } ^
+temporarily ^
+{ T, E, M, P, O, R, A, R, I, L, Y\.\.\. temporarily\. } ^
+temporarily ^
+<courtesyTone> ^
+neig ^
+{ N, E, I, G\. } ^
+neighbor ^
+{ N, E, I, G, H, B, O, R\. } ^
+neighboring ^
+{ N, E, I, G, H, B, O, R, I, N, G\.\.\. neighboring\. } ^
+neighboring ^
+<courtesyTone> ^
+corr ^
+{ C, O, R, R\. } ^
+correlat ^
+{ C, O, R, R, E, L, A, T\. } ^
+correlation ^
+{ C, O, R, R, E, L, A, T, I, O, N\.\.\. correlation\. } ^
+correlation ^
+<courtesyTone> ^
+asso ^
+{ A, S, S, O\. } ^
+associat ^
+{ A, S, S, O, C, I, A, T\. } ^
+association ^
+{ A, S, S, O, C, I, A, T, I, O, N\.\.\. association\. } ^
+association ^
+<courtesyTone> ^
+achi ^
+{ A, C, H, I\. } ^
+achievem ^
+{ A, C, H, I, E, V, E, M\. } ^
+achievement ^
+{ A, C, H, I, E, V, E, M, E, N, T\.\.\. achievement\. } ^
+achievement ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interest ^
+{ I, N, T, E, R, E, S, T\. } ^
+interesting ^
+{ I, N, T, E, R, E, S, T, I, N, G\.\.\. interesting\. } ^
+interesting ^
+<courtesyTone> ^
+nego ^
+{ N, E, G, O\. } ^
+negotiat ^
+{ N, E, G, O, T, I, A, T\. } ^
+negotiation ^
+{ N, E, G, O, T, I, A, T, I, O, N\.\.\. negotiation\. } ^
+negotiation ^
+<courtesyTone> ^
+conv ^
+{ C, O, N, V\. } ^
+convenie ^
+{ C, O, N, V, E, N, I, E\. } ^
+convenience ^
+{ C, O, N, V, E, N, I, E, N, C, E\.\.\. convenience\. } ^
+convenience ^
+<courtesyTone> ^
+symp ^
+{ S, Y, M, P\. } ^
+sympathe ^
+{ S, Y, M, P, A, T, H, E\. } ^
+sympathetic ^
+{ S, Y, M, P, A, T, H, E, T, I, C\.\.\. sympathetic\. } ^
+sympathetic ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distinct ^
+{ D, I, S, T, I, N, C, T\. } ^
+distinction ^
+{ D, I, S, T, I, N, C, T, I, O, N\.\.\. distinction\. } ^
+distinction ^
+<courtesyTone> ^
+ideo ^
+{ I, D, E, O\. } ^
+ideologi ^
+{ I, D, E, O, L, O, G, I\. } ^
+ideological ^
+{ I, D, E, O, L, O, G, I, C, A, L\.\.\. ideological\. } ^
+ideological ^
+<courtesyTone> ^
+emba ^
+{ E, M, B, A\. } ^
+embarras ^
+{ E, M, B, A, R, R, A, S\. } ^
+embarrassed ^
+{ E, M, B, A, R, R, A, S, S, E, D\.\.\. embarrassed\. } ^
+embarrassed ^
+<courtesyTone> ^
+reli ^
+{ R, E, L, I\. } ^
+reliabil ^
+{ R, E, L, I, A, B, I, L\. } ^
+reliability ^
+{ R, E, L, I, A, B, I, L, I, T, Y\.\.\. reliability\. } ^
+reliability ^
+<courtesyTone> ^
+unfo ^
+{ U, N, F, O\. } ^
+unfortun ^
+{ U, N, F, O, R, T, U, N\. } ^
+unfortunate ^
+{ U, N, F, O, R, T, U, N, A, T, E\.\.\. unfortunate\. } ^
+unfortunate ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accounta ^
+{ A, C, C, O, U, N, T, A\. } ^
+accountable ^
+{ A, C, C, O, U, N, T, A, B, L, E\.\.\. accountable\. } ^
+accountable ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consolid ^
+{ C, O, N, S, O, L, I, D\. } ^
+consolidate ^
+{ C, O, N, S, O, L, I, D, A, T, E\.\.\. consolidate\. } ^
+consolidate ^
+<courtesyTone> ^
+unne ^
+{ U, N, N, E\. } ^
+unnecess ^
+{ U, N, N, E, C, E, S, S\. } ^
+unnecessary ^
+{ U, N, N, E, C, E, S, S, A, R, Y\.\.\. unnecessary\. } ^
+unnecessary ^
+<courtesyTone> ^
+educ ^
+{ E, D, U, C\. } ^
+educatio ^
+{ E, D, U, C, A, T, I, O\. } ^
+educational ^
+{ E, D, U, C, A, T, I, O, N, A, L\.\.\. educational\. } ^
+educational ^
+<courtesyTone> ^
+bure ^
+{ B, U, R, E\. } ^
+bureaucr ^
+{ B, U, R, E, A, U, C, R\. } ^
+bureaucracy ^
+{ B, U, R, E, A, U, C, R, A, C, Y\.\.\. bureaucracy\. } ^
+bureaucracy ^
+<courtesyTone> ^
+perm ^
+{ P, E, R, M\. } ^
+permanen ^
+{ P, E, R, M, A, N, E, N\. } ^
+permanently ^
+{ P, E, R, M, A, N, E, N, T, L, Y\.\.\. permanently\. } ^
+permanently ^
+<courtesyTone> ^
+nece ^
+{ N, E, C, E\. } ^
+necessar ^
+{ N, E, C, E, S, S, A, R\. } ^
+necessarily ^
+{ N, E, C, E, S, S, A, R, I, L, Y\.\.\. necessarily\. } ^
+necessarily ^
+<courtesyTone> ^
+exce ^
+{ E, X, C, E\. } ^
+exceptio ^
+{ E, X, C, E, P, T, I, O\. } ^
+exceptional ^
+{ E, X, C, E, P, T, I, O, N, A, L\.\.\. exceptional\. } ^
+exceptional ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislature ^
+{ L, E, G, I, S, L, A, T, U, R, E\.\.\. legislature\. } ^
+legislature ^
+<courtesyTone> ^
+busi ^
+{ B, U, S, I\. } ^
+business ^
+{ B, U, S, I, N, E, S, S\. } ^
+businessman ^
+{ B, U, S, I, N, E, S, S, M, A, N\.\.\. businessman\. } ^
+businessman ^
+<courtesyTone> ^
+endo ^
+{ E, N, D, O\. } ^
+endorsem ^
+{ E, N, D, O, R, S, E, M\. } ^
+endorsement ^
+{ E, N, D, O, R, S, E, M, E, N, T\.\.\. endorsement\. } ^
+endorsement ^
+<courtesyTone> ^
+expl ^
+{ E, X, P, L\. } ^
+explorat ^
+{ E, X, P, L, O, R, A, T\. } ^
+exploration ^
+{ E, X, P, L, O, R, A, T, I, O, N\.\.\. exploration\. } ^
+exploration ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+expectat ^
+{ E, X, P, E, C, T, A, T\. } ^
+expectation ^
+{ E, X, P, E, C, T, A, T, I, O, N\.\.\. expectation\. } ^
+expectation ^
+<courtesyTone> ^
+furt ^
+{ F, U, R, T\. } ^
+furtherm ^
+{ F, U, R, T, H, E, R, M\. } ^
+furthermore ^
+{ F, U, R, T, H, E, R, M, O, R, E\.\.\. furthermore\. } ^
+furthermore ^
+<courtesyTone> ^
+prel ^
+{ P, R, E, L\. } ^
+prelimin ^
+{ P, R, E, L, I, M, I, N\. } ^
+preliminary ^
+{ P, R, E, L, I, M, I, N, A, R, Y\.\.\. preliminary\. } ^
+preliminary ^
+<courtesyTone> ^
+coun ^
+{ C, O, U, N\. } ^
+countrys ^
+{ C, O, U, N, T, R, Y, S\. } ^
+countryside ^
+{ C, O, U, N, T, R, Y, S, I, D, E\.\.\. countryside\. } ^
+countryside ^
+<courtesyTone> ^
+fund ^
+{ F, U, N, D\. } ^
+fundrais ^
+{ F, U, N, D, R, A, I, S\. } ^
+fundraising ^
+{ F, U, N, D, R, A, I, S, I, N, G\.\.\. fundraising\. } ^
+fundraising ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+speciali ^
+{ S, P, E, C, I, A, L, I\. } ^
+specialized ^
+{ S, P, E, C, I, A, L, I, Z, E, D\.\.\. specialized\. } ^
+specialized ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+spectacu ^
+{ S, P, E, C, T, A, C, U\. } ^
+spectacular ^
+{ S, P, E, C, T, A, C, U, L, A, R\.\.\. spectacular\. } ^
+spectacular ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+comparat ^
+{ C, O, M, P, A, R, A, T\. } ^
+comparative ^
+{ C, O, M, P, A, R, A, T, I, V, E\.\.\. comparative\. } ^
+comparative ^
+<courtesyTone> ^
+sust ^
+{ S, U, S, T\. } ^
+sustaina ^
+{ S, U, S, T, A, I, N, A\. } ^
+sustainable ^
+{ S, U, S, T, A, I, N, A, B, L, E\.\.\. sustainable\. } ^
+sustainable ^
+<courtesyTone> ^
+subs ^
+{ S, U, B, S\. } ^
+substant ^
+{ S, U, B, S, T, A, N, T\. } ^
+substantial ^
+{ S, U, B, S, T, A, N, T, I, A, L\.\.\. substantial\. } ^
+substantial ^
+<courtesyTone> ^
+frus ^
+{ F, R, U, S\. } ^
+frustrat ^
+{ F, R, U, S, T, R, A, T\. } ^
+frustrating ^
+{ F, R, U, S, T, R, A, T, I, N, G\.\.\. frustrating\. } ^
+frustrating ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+experien ^
+{ E, X, P, E, R, I, E, N\. } ^
+experienced ^
+{ E, X, P, E, R, I, E, N, C, E, D\.\.\. experienced\. } ^
+experienced ^
+<courtesyTone> ^
+pers ^
+{ P, E, R, S\. } ^
+perspect ^
+{ P, E, R, S, P, E, C, T\. } ^
+perspective ^
+{ P, E, R, S, P, E, C, T, I, V, E\.\.\. perspective\. } ^
+perspective ^
+<courtesyTone> ^
+rest ^
+{ R, E, S, T\. } ^
+restorat ^
+{ R, E, S, T, O, R, A, T\. } ^
+restoration ^
+{ R, E, S, T, O, R, A, T, I, O, N\.\.\. restoration\. } ^
+restoration ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+particip ^
+{ P, A, R, T, I, C, I, P\. } ^
+participate ^
+{ P, A, R, T, I, C, I, P, A, T, E\.\.\. participate\. } ^
+participate ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consumpt ^
+{ C, O, N, S, U, M, P, T\. } ^
+consumption ^
+{ C, O, N, S, U, M, P, T, I, O, N\.\.\. consumption\. } ^
+consumption ^
+<courtesyTone> ^
+info ^
+{ I, N, F, O\. } ^
+informat ^
+{ I, N, F, O, R, M, A, T\. } ^
+information ^
+{ I, N, F, O, R, M, A, T, I, O, N\.\.\. information\. } ^
+information ^
+<courtesyTone> ^
+coun ^
+{ C, O, U, N\. } ^
+counterp ^
+{ C, O, U, N, T, E, R, P\. } ^
+counterpart ^
+{ C, O, U, N, T, E, R, P, A, R, T\.\.\. counterpart\. } ^
+counterpart ^
+<courtesyTone> ^
+pros ^
+{ P, R, O, S\. } ^
+prosecut ^
+{ P, R, O, S, E, C, U, T\. } ^
+prosecution ^
+{ P, R, O, S, E, C, U, T, I, O, N\.\.\. prosecution\. } ^
+prosecution ^
+<courtesyTone> ^
+oppo ^
+{ O, P, P, O\. } ^
+opportun ^
+{ O, P, P, O, R, T, U, N\. } ^
+opportunity ^
+{ O, P, P, O, R, T, U, N, I, T, Y\.\.\. opportunity\. } ^
+opportunity ^
+<courtesyTone> ^
+surr ^
+{ S, U, R, R\. } ^
+surround ^
+{ S, U, R, R, O, U, N, D\. } ^
+surrounding ^
+{ S, U, R, R, O, U, N, D, I, N, G\.\.\. surrounding\. } ^
+surrounding ^
+<courtesyTone> ^
+obse ^
+{ O, B, S, E\. } ^
+observat ^
+{ O, B, S, E, R, V, A, T\. } ^
+observation ^
+{ O, B, S, E, R, V, A, T, I, O, N\.\.\. observation\. } ^
+observation ^
+<courtesyTone> ^
+pote ^
+{ P, O, T, E\. } ^
+potentia ^
+{ P, O, T, E, N, T, I, A\. } ^
+potentially ^
+{ P, O, T, E, N, T, I, A, L, L, Y\.\.\. potentially\. } ^
+potentially ^
+<courtesyTone> ^
+prob ^
+{ P, R, O, B\. } ^
+probabil ^
+{ P, R, O, B, A, B, I, L\. } ^
+probability ^
+{ P, R, O, B, A, B, I, L, I, T, Y\.\.\. probability\. } ^
+probability ^
+<courtesyTone> ^
+phot ^
+{ P, H, O, T\. } ^
+photogra ^
+{ P, H, O, T, O, G, R, A\. } ^
+photography ^
+{ P, H, O, T, O, G, R, A, P, H, Y\.\.\. photography\. } ^
+photography ^
+<courtesyTone> ^
+fasc ^
+{ F, A, S, C\. } ^
+fascinat ^
+{ F, A, S, C, I, N, A, T\. } ^
+fascinating ^
+{ F, A, S, C, I, N, A, T, I, N, G\.\.\. fascinating\. } ^
+fascinating ^
+<courtesyTone> ^
+unco ^
+{ U, N, C, O\. } ^
+unconsci ^
+{ U, N, C, O, N, S, C, I\. } ^
+unconscious ^
+{ U, N, C, O, N, S, C, I, O, U, S\.\.\. unconscious\. } ^
+unconscious ^
+<courtesyTone> ^
+sign ^
+{ S, I, G, N\. } ^
+signific ^
+{ S, I, G, N, I, F, I, C\. } ^
+significant ^
+{ S, I, G, N, I, F, I, C, A, N, T\.\.\. significant\. } ^
+significant ^
+<courtesyTone> ^
+elec ^
+{ E, L, E, C\. } ^
+electron ^
+{ E, L, E, C, T, R, O, N\. } ^
+electronics ^
+{ E, L, E, C, T, R, O, N, I, C, S\.\.\. electronics\. } ^
+electronics ^
+<courtesyTone> ^
+poss ^
+{ P, O, S, S\. } ^
+possibil ^
+{ P, O, S, S, I, B, I, L\. } ^
+possibility ^
+{ P, O, S, S, I, B, I, L, I, T, Y\.\.\. possibility\. } ^
+possibility ^
+<courtesyTone> ^
+exam ^
+{ E, X, A, M\. } ^
+examinat ^
+{ E, X, A, M, I, N, A, T\. } ^
+examination ^
+{ E, X, A, M, I, N, A, T, I, O, N\.\.\. examination\. } ^
+examination ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destinat ^
+{ D, E, S, T, I, N, A, T\. } ^
+destination ^
+{ D, E, S, T, I, N, A, T, I, O, N\.\.\. destination\. } ^
+destination ^
+<courtesyTone> ^
+prog ^
+{ P, R, O, G\. } ^
+programm ^
+{ P, R, O, G, R, A, M, M\. } ^
+programming ^
+{ P, R, O, G, R, A, M, M, I, N, G\.\.\. programming\. } ^
+programming ^
+<courtesyTone> ^
+invo ^
+{ I, N, V, O\. } ^
+involvem ^
+{ I, N, V, O, L, V, E, M\. } ^
+involvement ^
+{ I, N, V, O, L, V, E, M, E, N, T\.\.\. involvement\. } ^
+involvement ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+expendit ^
+{ E, X, P, E, N, D, I, T\. } ^
+expenditure ^
+{ E, X, P, E, N, D, I, T, U, R, E\.\.\. expenditure\. } ^
+expenditure ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consiste ^
+{ C, O, N, S, I, S, T, E\. } ^
+consistency ^
+{ C, O, N, S, I, S, T, E, N, C, Y\.\.\. consistency\. } ^
+consistency ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interact ^
+{ I, N, T, E, R, A, C, T\. } ^
+interaction ^
+{ I, N, T, E, R, A, C, T, I, O, N\.\.\. interaction\. } ^
+interaction ^
+<courtesyTone> ^
+recr ^
+{ R, E, C, R\. } ^
+recruitm ^
+{ R, E, C, R, U, I, T, M\. } ^
+recruitment ^
+{ R, E, C, R, U, I, T, M, E, N, T\.\.\. recruitment\. } ^
+recruitment ^
+<courtesyTone> ^
+imme ^
+{ I, M, M, E\. } ^
+immediat ^
+{ I, M, M, E, D, I, A, T\. } ^
+immediately ^
+{ I, M, M, E, D, I, A, T, E, L, Y\.\.\. immediately\. } ^
+immediately ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accommod ^
+{ A, C, C, O, M, M, O, D\. } ^
+accommodate ^
+{ A, C, C, O, M, M, O, D, A, T, E\.\.\. accommodate\. } ^
+accommodate ^
+<courtesyTone> ^
+flex ^
+{ F, L, E, X\. } ^
+flexibil ^
+{ F, L, E, X, I, B, I, L\. } ^
+flexibility ^
+{ F, L, E, X, I, B, I, L, I, T, Y\.\.\. flexibility\. } ^
+flexibility ^
+<courtesyTone> ^
+comm ^
+{ C, O, M, M\. } ^
+communic ^
+{ C, O, M, M, U, N, I, C\. } ^
+communicate ^
+{ C, O, M, M, U, N, I, C, A, T, E\.\.\. communicate\. } ^
+communicate ^
+<courtesyTone> ^
+scho ^
+{ S, C, H, O\. } ^
+scholars ^
+{ S, C, H, O, L, A, R, S\. } ^
+scholarship ^
+{ S, C, H, O, L, A, R, S, H, I, P\.\.\. scholarship\. } ^
+scholarship ^
+<courtesyTone> ^
+none ^
+{ N, O, N, E\. } ^
+nonethel ^
+{ N, O, N, E, T, H, E, L\. } ^
+nonetheless ^
+{ N, O, N, E, T, H, E, L, E, S, S\.\.\. nonetheless\. } ^
+nonetheless ^
+<courtesyTone> ^
+requ ^
+{ R, E, Q, U\. } ^
+requirem ^
+{ R, E, Q, U, I, R, E, M\. } ^
+requirement ^
+{ R, E, Q, U, I, R, E, M, E, N, T\.\.\. requirement\. } ^
+requirement ^
+<courtesyTone> ^
+publ ^
+{ P, U, B, L\. } ^
+publicat ^
+{ P, U, B, L, I, C, A, T\. } ^
+publication ^
+{ P, U, B, L, I, C, A, T, I, O, N\.\.\. publication\. } ^
+publication ^
+<courtesyTone> ^
+meas ^
+{ M, E, A, S\. } ^
+measurem ^
+{ M, E, A, S, U, R, E, M\. } ^
+measurement ^
+{ M, E, A, S, U, R, E, M, E, N, T\.\.\. measurement\. } ^
+measurement ^
+<courtesyTone> ^
+orie ^
+{ O, R, I, E\. } ^
+orientat ^
+{ O, R, I, E, N, T, A, T\. } ^
+orientation ^
+{ O, R, I, E, N, T, A, T, I, O, N\.\.\. orientation\. } ^
+orientation ^
+<courtesyTone> ^
+docu ^
+{ D, O, C, U\. } ^
+document ^
+{ D, O, C, U, M, E, N, T\. } ^
+documentary ^
+{ D, O, C, U, M, E, N, T, A, R, Y\.\.\. documentary\. } ^
+documentary ^
+<courtesyTone> ^
+coop ^
+{ C, O, O, P\. } ^
+cooperat ^
+{ C, O, O, P, E, R, A, T\. } ^
+cooperative ^
+{ C, O, O, P, E, R, A, T, I, V, E\.\.\. cooperative\. } ^
+cooperative ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandpar ^
+{ G, R, A, N, D, P, A, R\. } ^
+grandparent ^
+{ G, R, A, N, D, P, A, R, E, N, T\.\.\. grandparent\. } ^
+grandparent ^
+<courtesyTone> ^
+theo ^
+{ T, H, E, O\. } ^
+theoreti ^
+{ T, H, E, O, R, E, T, I\. } ^
+theoretical ^
+{ T, H, E, O, R, E, T, I, C, A, L\.\.\. theoretical\. } ^
+theoretical ^
+<courtesyTone> ^
+pers ^
+{ P, E, R, S\. } ^
+personal ^
+{ P, E, R, S, O, N, A, L\. } ^
+personality ^
+{ P, E, R, S, O, N, A, L, I, T, Y\.\.\. personality\. } ^
+personality ^
+<courtesyTone> ^
+prob ^
+{ P, R, O, B\. } ^
+problema ^
+{ P, R, O, B, L, E, M, A\. } ^
+problematic ^
+{ P, R, O, B, L, E, M, A, T, I, C\.\.\. problematic\. } ^
+problematic ^
+<courtesyTone> ^
+impr ^
+{ I, M, P, R\. } ^
+improvem ^
+{ I, M, P, R, O, V, E, M\. } ^
+improvement ^
+{ I, M, P, R, O, V, E, M, E, N, T\.\.\. improvement\. } ^
+improvement ^
+<courtesyTone> ^
+imag ^
+{ I, M, A, G\. } ^
+imaginat ^
+{ I, M, A, G, I, N, A, T\. } ^
+imagination ^
+{ I, M, A, G, I, N, A, T, I, O, N\.\.\. imagination\. } ^
+imagination ^
+<courtesyTone> ^
+prep ^
+{ P, R, E, P\. } ^
+preparat ^
+{ P, R, E, P, A, R, A, T\. } ^
+preparation ^
+{ P, R, E, P, A, R, A, T, I, O, N\.\.\. preparation\. } ^
+preparation ^
+<courtesyTone> ^
+acqu ^
+{ A, C, Q, U\. } ^
+acquisit ^
+{ A, C, Q, U, I, S, I, T\. } ^
+acquisition ^
+{ A, C, Q, U, I, S, I, T, I, O, N\.\.\. acquisition\. } ^
+acquisition ^
+<courtesyTone> ^
+alte ^
+{ A, L, T, E\. } ^
+alternat ^
+{ A, L, T, E, R, N, A, T\. } ^
+alternative ^
+{ A, L, T, E, R, N, A, T, I, V, E\.\.\. alternative\. } ^
+alternative ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+composit ^
+{ C, O, M, P, O, S, I, T\. } ^
+composition ^
+{ C, O, M, P, O, S, I, T, I, O, N\.\.\. composition\. } ^
+composition ^
+<courtesyTone> ^
+coll ^
+{ C, O, L, L\. } ^
+collabor ^
+{ C, O, L, L, A, B, O, R\. } ^
+collaborate ^
+{ C, O, L, L, A, B, O, R, A, T, E\.\.\. collaborate\. } ^
+collaborate ^
+<courtesyTone> ^
+broa ^
+{ B, R, O, A\. } ^
+broadcas ^
+{ B, R, O, A, D, C, A, S\. } ^
+broadcaster ^
+{ B, R, O, A, D, C, A, S, T, E, R\.\.\. broadcaster\. } ^
+broadcaster ^
+<courtesyTone> ^
+inde ^
+{ I, N, D, E\. } ^
+independ ^
+{ I, N, D, E, P, E, N, D\. } ^
+independent ^
+{ I, N, D, E, P, E, N, D, E, N, T\.\.\. independent\. } ^
+independent ^
+<courtesyTone> ^
+pros ^
+{ P, R, O, S\. } ^
+prospect ^
+{ P, R, O, S, P, E, C, T\. } ^
+prospective ^
+{ P, R, O, S, P, E, C, T, I, V, E\.\.\. prospective\. } ^
+prospective ^
+<courtesyTone> ^
+outs ^
+{ O, U, T, S\. } ^
+outstand ^
+{ O, U, T, S, T, A, N, D\. } ^
+outstanding ^
+{ O, U, T, S, T, A, N, D, I, N, G\.\.\. outstanding\. } ^
+outstanding ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandfat ^
+{ G, R, A, N, D, F, A, T\. } ^
+grandfather ^
+{ G, R, A, N, D, F, A, T, H, E, R\.\.\. grandfather\. } ^
+grandfather ^
+<courtesyTone> ^
+real ^
+{ R, E, A, L\. } ^
+realizat ^
+{ R, E, A, L, I, Z, A, T\. } ^
+realization ^
+{ R, E, A, L, I, Z, A, T, I, O, N\.\.\. realization\. } ^
+realization ^
+<courtesyTone> ^
+stat ^
+{ S, T, A, T\. } ^
+statisti ^
+{ S, T, A, T, I, S, T, I\. } ^
+statistical ^
+{ S, T, A, T, I, S, T, I, C, A, L\.\.\. statistical\. } ^
+statistical ^
+<courtesyTone> ^
+anni ^
+{ A, N, N, I\. } ^
+annivers ^
+{ A, N, N, I, V, E, R, S\. } ^
+anniversary ^
+{ A, N, N, I, V, E, R, S, A, R, Y\.\.\. anniversary\. } ^
+anniversary ^
+<courtesyTone> ^
+cert ^
+{ C, E, R, T\. } ^
+certific ^
+{ C, E, R, T, I, F, I, C\. } ^
+certificate ^
+{ C, E, R, T, I, F, I, C, A, T, E\.\.\. certificate\. } ^
+certificate ^
+<courtesyTone> ^
+meth ^
+{ M, E, T, H\. } ^
+methodol ^
+{ M, E, T, H, O, D, O, L\. } ^
+methodology ^
+{ M, E, T, H, O, D, O, L, O, G, Y\.\.\. methodology\. } ^
+methodology ^
+<courtesyTone> ^
+coin ^
+{ C, O, I, N\. } ^
+coincide ^
+{ C, O, I, N, C, I, D, E\. } ^
+coincidence ^
+{ C, O, I, N, C, I, D, E, N, C, E\.\.\. coincidence\. } ^
+coincidence ^
+<courtesyTone> ^
+enfo ^
+{ E, N, F, O\. } ^
+enforcem ^
+{ E, N, F, O, R, C, E, M\. } ^
+enforcement ^
+{ E, N, F, O, R, C, E, M, E, N, T\.\.\. enforcement\. } ^
+enforcement ^
+<courtesyTone> ^
+esse ^
+{ E, S, S, E\. } ^
+essentia ^
+{ E, S, S, E, N, T, I, A\. } ^
+essentially ^
+{ E, S, S, E, N, T, I, A, L, L, Y\.\.\. essentially\. } ^
+essentially ^
+<courtesyTone> ^
+impl ^
+{ I, M, P, L\. } ^
+implicat ^
+{ I, M, P, L, I, C, A, T\. } ^
+implication ^
+{ I, M, P, L, I, C, A, T, I, O, N\.\.\. implication\. } ^
+implication ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destruct ^
+{ D, E, S, T, R, U, C, T\. } ^
+destructive ^
+{ D, E, S, T, R, U, C, T, I, V, E\.\.\. destructive\. } ^
+destructive ^
+<courtesyTone> ^
+calc ^
+{ C, A, L, C\. } ^
+calculat ^
+{ C, A, L, C, U, L, A, T\. } ^
+calculation ^
+{ C, A, L, C, U, L, A, T, I, O, N\.\.\. calculation\. } ^
+calculation ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accordin ^
+{ A, C, C, O, R, D, I, N\. } ^
+accordingly ^
+{ A, C, C, O, R, D, I, N, G, L, Y\.\.\. accordingly\. } ^
+accordingly ^
+<courtesyTone> ^
+conc ^
+{ C, O, N, C\. } ^
+concentr ^
+{ C, O, N, C, E, N, T, R\. } ^
+concentrate ^
+{ C, O, N, C, E, N, T, R, A, T, E\.\.\. concentrate\. } ^
+concentrate ^
+<courtesyTone> ^
+expl ^
+{ E, X, P, L\. } ^
+explanat ^
+{ E, X, P, L, A, N, A, T\. } ^
+explanation ^
+{ E, X, P, L, A, N, A, T, I, O, N\.\.\. explanation\. } ^
+explanation ^
+<courtesyTone> ^
+appo ^
+{ A, P, P, O\. } ^
+appointm ^
+{ A, P, P, O, I, N, T, M\. } ^
+appointment ^
+{ A, P, P, O, I, N, T, M, E, N, T\.\.\. appointment\. } ^
+appointment ^
+<courtesyTone> ^
+pres ^
+{ P, R, E, S\. } ^
+prestigi ^
+{ P, R, E, S, T, I, G, I\. } ^
+prestigious ^
+{ P, R, E, S, T, I, G, I, O, U, S\.\.\. prestigious\. } ^
+prestigious ^
+<courtesyTone> ^
+inca ^
+{ I, N, C, A\. } ^
+incarcer ^
+{ I, N, C, A, R, C, E, R\. } ^
+incarcerate ^
+{ I, N, C, A, R, C, E, R, A, T, E\.\.\. incarcerate\. } ^
+incarcerate ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+competit ^
+{ C, O, M, P, E, T, I, T\. } ^
+competition ^
+{ C, O, M, P, E, T, I, T, I, O, N\.\.\. competition\. } ^
+competition ^
+<courtesyTone> ^
+resp ^
+{ R, E, S, P\. } ^
+responsi ^
+{ R, E, S, P, O, N, S, I\. } ^
+responsible ^
+{ R, E, S, P, O, N, S, I, B, L, E\.\.\. responsible\. } ^
+responsible ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+translat ^
+{ T, R, A, N, S, L, A, T\. } ^
+translation ^
+{ T, R, A, N, S, L, A, T, I, O, N\.\.\. translation\. } ^
+translation ^
+<courtesyTone> ^
+appr ^
+{ A, P, P, R\. } ^
+appropri ^
+{ A, P, P, R, O, P, R, I\. } ^
+appropriate ^
+{ A, P, P, R, O, P, R, I, A, T, E\.\.\. appropriate\. } ^
+appropriate ^
+<courtesyTone> ^
+inco ^
+{ I, N, C, O\. } ^
+incorpor ^
+{ I, N, C, O, R, P, O, R\. } ^
+incorporate ^
+{ I, N, C, O, R, P, O, R, A, T, E\.\.\. incorporate\. } ^
+incorporate ^
+<courtesyTone> ^
+engi ^
+{ E, N, G, I\. } ^
+engineer ^
+{ E, N, G, I, N, E, E, R\. } ^
+engineering ^
+{ E, N, G, I, N, E, E, R, I, N, G\.\.\. engineering\. } ^
+engineering ^
+<courtesyTone> ^
+magn ^
+{ M, A, G, N\. } ^
+magnific ^
+{ M, A, G, N, I, F, I, C\. } ^
+magnificent ^
+{ M, A, G, N, I, F, I, C, E, N, T\.\.\. magnificent\. } ^
+magnificent ^
+<courtesyTone> ^
+repl ^
+{ R, E, P, L\. } ^
+replacem ^
+{ R, E, P, L, A, C, E, M\. } ^
+replacement ^
+{ R, E, P, L, A, C, E, M, E, N, T\.\.\. replacement\. } ^
+replacement ^
+<courtesyTone> ^
+manu ^
+{ M, A, N, U\. } ^
+manufact ^
+{ M, A, N, U, F, A, C, T\. } ^
+manufacture ^
+{ M, A, N, U, F, A, C, T, U, R, E\.\.\. manufacture\. } ^
+manufacture ^
+<courtesyTone> ^
+coor ^
+{ C, O, O, R\. } ^
+coordina ^
+{ C, O, O, R, D, I, N, A\. } ^
+coordinator ^
+{ C, O, O, R, D, I, N, A, T, O, R\.\.\. coordinator\. } ^
+coordinator ^
+<courtesyTone> ^
+spon ^
+{ S, P, O, N\. } ^
+sponsors ^
+{ S, P, O, N, S, O, R, S\. } ^
+sponsorship ^
+{ S, P, O, N, S, O, R, S, H, I, P\.\.\. sponsorship\. } ^
+sponsorship ^
+<courtesyTone> ^
+fash ^
+{ F, A, S, H\. } ^
+fashiona ^
+{ F, A, S, H, I, O, N, A\. } ^
+fashionable ^
+{ F, A, S, H, I, O, N, A, B, L, E\.\.\. fashionable\. } ^
+fashionable ^
+<courtesyTone> ^
+effe ^
+{ E, F, F, E\. } ^
+effectiv ^
+{ E, F, F, E, C, T, I, V\. } ^
+effectively ^
+{ E, F, F, E, C, T, I, V, E, L, Y\.\.\. effectively\. } ^
+effectively ^
+<courtesyTone> ^
+oper ^
+{ O, P, E, R\. } ^
+operatio ^
+{ O, P, E, R, A, T, I, O\. } ^
+operational ^
+{ O, P, E, R, A, T, I, O, N, A, L\.\.\. operational\. } ^
+operational ^
+<courtesyTone> ^
+mark ^
+{ M, A, R, K\. } ^
+marketpl ^
+{ M, A, R, K, E, T, P, L\. } ^
+marketplace ^
+{ M, A, R, K, E, T, P, L, A, C, E\.\.\. marketplace\. } ^
+marketplace ^
+<courtesyTone> ^
+prop ^
+{ P, R, O, P\. } ^
+proposit ^
+{ P, R, O, P, O, S, I, T\. } ^
+proposition ^
+{ P, R, O, P, O, S, I, T, I, O, N\.\.\. proposition\. } ^
+proposition ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+conseque ^
+{ C, O, N, S, E, Q, U, E\. } ^
+consequence ^
+{ C, O, N, S, E, Q, U, E, N, C, E\.\.\. consequence\. } ^
+consequence ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+particip ^
+{ P, A, R, T, I, C, I, P\. } ^
+participant ^
+{ P, A, R, T, I, C, I, P, A, N, T\.\.\. participant\. } ^
+participant ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destruct ^
+{ D, E, S, T, R, U, C, T\. } ^
+destruction ^
+{ D, E, S, T, R, U, C, T, I, O, N\.\.\. destruction\. } ^
+destruction ^
+<courtesyTone> ^
+excl ^
+{ E, X, C, L\. } ^
+exclusiv ^
+{ E, X, C, L, U, S, I, V\. } ^
+exclusively ^
+{ E, X, C, L, U, S, I, V, E, L, Y\.\.\. exclusively\. } ^
+exclusively ^
+<courtesyTone> ^
+elec ^
+{ E, L, E, C\. } ^
+electric ^
+{ E, L, E, C, T, R, I, C\. } ^
+electricity ^
+{ E, L, E, C, T, R, I, C, I, T, Y\.\.\. electricity\. } ^
+electricity ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+speculat ^
+{ S, P, E, C, U, L, A, T\. } ^
+speculation ^
+{ S, P, E, C, U, L, A, T, I, O, N\.\.\. speculation\. } ^
+speculation ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interact ^
+{ I, N, T, E, R, A, C, T\. } ^
+interactive ^
+{ I, N, T, E, R, A, C, T, I, V, E\.\.\. interactive\. } ^
+interactive ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+continua ^
+{ C, O, N, T, I, N, U, A\. } ^
+continually ^
+{ C, O, N, T, I, N, U, A, L, L, Y\.\.\. continually\. } ^
+continually ^
+<courtesyTone> ^
+undo ^
+{ U, N, D, O\. } ^
+undoubte ^
+{ U, N, D, O, U, B, T, E\. } ^
+undoubtedly ^
+{ U, N, D, O, U, B, T, E, D, L, Y\.\.\. undoubtedly\. } ^
+undoubtedly ^
+<courtesyTone> ^
+trad ^
+{ T, R, A, D\. } ^
+traditio ^
+{ T, R, A, D, I, T, I, O\. } ^
+traditional ^
+{ T, R, A, D, I, T, I, O, N, A, L\.\.\. traditional\. } ^
+traditional ^
+<courtesyTone> ^
+pred ^
+{ P, R, E, D\. } ^
+predicta ^
+{ P, R, E, D, I, C, T, A\. } ^
+predictable ^
+{ P, R, E, D, I, C, T, A, B, L, E\.\.\. predictable\. } ^
+predictable ^
+<courtesyTone> ^
+comm ^
+{ C, O, M, M\. } ^
+commenta ^
+{ C, O, M, M, E, N, T, A\. } ^
+commentator ^
+{ C, O, M, M, E, N, T, A, T, O, R\.\.\. commentator\. } ^
+commentator ^
+<courtesyTone> ^
+inst ^
+{ I, N, S, T\. } ^
+institut ^
+{ I, N, S, T, I, T, U, T\. } ^
+institution ^
+{ I, N, S, T, I, T, U, T, I, O, N\.\.\. institution\. } ^
+institution ^
+<courtesyTone> ^
+appr ^
+{ A, P, P, R\. } ^
+appropri ^
+{ A, P, P, R, O, P, R, I\. } ^
+appropriate ^
+{ A, P, P, R, O, P, R, I, A, T, E\.\.\. appropriate\. } ^
+appropriate ^
+<courtesyTone> ^
+enfo ^
+{ E, N, F, O\. } ^
+enforcem ^
+{ E, N, F, O, R, C, E, M\. } ^
+enforcement ^
+{ E, N, F, O, R, C, E, M, E, N, T\.\.\. enforcement\. } ^
+enforcement ^
+<courtesyTone> ^
+perm ^
+{ P, E, R, M\. } ^
+permanen ^
+{ P, E, R, M, A, N, E, N\. } ^
+permanently ^
+{ P, E, R, M, A, N, E, N, T, L, Y\.\.\. permanently\. } ^
+permanently ^
+<courtesyTone> ^
+supe ^
+{ S, U, P, E\. } ^
+supervis ^
+{ S, U, P, E, R, V, I, S\. } ^
+supervision ^
+{ S, U, P, E, R, V, I, S, I, O, N\.\.\. supervision\. } ^
+supervision ^
+<courtesyTone> ^
+coun ^
+{ C, O, U, N\. } ^
+counterp ^
+{ C, O, U, N, T, E, R, P\. } ^
+counterpart ^
+{ C, O, U, N, T, E, R, P, A, R, T\.\.\. counterpart\. } ^
+counterpart ^
+<courtesyTone> ^
+enco ^
+{ E, N, C, O\. } ^
+encourag ^
+{ E, N, C, O, U, R, A, G\. } ^
+encouraging ^
+{ E, N, C, O, U, R, A, G, I, N, G\.\.\. encouraging\. } ^
+encouraging ^
+<courtesyTone> ^
+elec ^
+{ E, L, E, C\. } ^
+electron ^
+{ E, L, E, C, T, R, O, N\. } ^
+electronics ^
+{ E, L, E, C, T, R, O, N, I, C, S\.\.\. electronics\. } ^
+electronics ^
+<courtesyTone> ^
+rest ^
+{ R, E, S, T\. } ^
+restorat ^
+{ R, E, S, T, O, R, A, T\. } ^
+restoration ^
+{ R, E, S, T, O, R, A, T, I, O, N\.\.\. restoration\. } ^
+restoration ^
+<courtesyTone> ^
+diff ^
+{ D, I, F, F\. } ^
+differen ^
+{ D, I, F, F, E, R, E, N\. } ^
+differently ^
+{ D, I, F, F, E, R, E, N, T, L, Y\.\.\. differently\. } ^
+differently ^
+<courtesyTone> ^
+prep ^
+{ P, R, E, P\. } ^
+preparat ^
+{ P, R, E, P, A, R, A, T\. } ^
+preparation ^
+{ P, R, E, P, A, R, A, T, I, O, N\.\.\. preparation\. } ^
+preparation ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+transpar ^
+{ T, R, A, N, S, P, A, R\. } ^
+transparent ^
+{ T, R, A, N, S, P, A, R, E, N, T\.\.\. transparent\. } ^
+transparent ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accommod ^
+{ A, C, C, O, M, M, O, D\. } ^
+accommodate ^
+{ A, C, C, O, M, M, O, D, A, T, E\.\.\. accommodate\. } ^
+accommodate ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+intellig ^
+{ I, N, T, E, L, L, I, G\. } ^
+intelligent ^
+{ I, N, T, E, L, L, I, G, E, N, T\.\.\. intelligent\. } ^
+intelligent ^
+<courtesyTone> ^
+magn ^
+{ M, A, G, N\. } ^
+magnific ^
+{ M, A, G, N, I, F, I, C\. } ^
+magnificent ^
+{ M, A, G, N, I, F, I, C, E, N, T\.\.\. magnificent\. } ^
+magnificent ^
+<courtesyTone> ^
+bene ^
+{ B, E, N, E\. } ^
+benefici ^
+{ B, E, N, E, F, I, C, I\. } ^
+beneficiary ^
+{ B, E, N, E, F, I, C, I, A, R, Y\.\.\. beneficiary\. } ^
+beneficiary ^
+<courtesyTone> ^
+exce ^
+{ E, X, C, E\. } ^
+exceptio ^
+{ E, X, C, E, P, T, I, O\. } ^
+exceptional ^
+{ E, X, C, E, P, T, I, O, N, A, L\.\.\. exceptional\. } ^
+exceptional ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+expendit ^
+{ E, X, P, E, N, D, I, T\. } ^
+expenditure ^
+{ E, X, P, E, N, D, I, T, U, R, E\.\.\. expenditure\. } ^
+expenditure ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distingu ^
+{ D, I, S, T, I, N, G, U\. } ^
+distinguish ^
+{ D, I, S, T, I, N, G, U, I, S, H\.\.\. distinguish\. } ^
+distinguish ^
+<courtesyTone> ^
+resi ^
+{ R, E, S, I\. } ^
+resident ^
+{ R, E, S, I, D, E, N, T\. } ^
+residential ^
+{ R, E, S, I, D, E, N, T, I, A, L\.\.\. residential\. } ^
+residential ^
+<courtesyTone> ^
+expl ^
+{ E, X, P, L\. } ^
+explorat ^
+{ E, X, P, L, O, R, A, T\. } ^
+exploration ^
+{ E, X, P, L, O, R, A, T, I, O, N\.\.\. exploration\. } ^
+exploration ^
+<courtesyTone> ^
+supe ^
+{ S, U, P, E\. } ^
+supermar ^
+{ S, U, P, E, R, M, A, R\. } ^
+supermarket ^
+{ S, U, P, E, R, M, A, R, K, E, T\.\.\. supermarket\. } ^
+supermarket ^
+<courtesyTone> ^
+pote ^
+{ P, O, T, E\. } ^
+potentia ^
+{ P, O, T, E, N, T, I, A\. } ^
+potentially ^
+{ P, O, T, E, N, T, I, A, L, L, Y\.\.\. potentially\. } ^
+potentially ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+transact ^
+{ T, R, A, N, S, A, C, T\. } ^
+transaction ^
+{ T, R, A, N, S, A, C, T, I, O, N\.\.\. transaction\. } ^
+transaction ^
+<courtesyTone> ^
+engi ^
+{ E, N, G, I\. } ^
+engineer ^
+{ E, N, G, I, N, E, E, R\. } ^
+engineering ^
+{ E, N, G, I, N, E, E, R, I, N, G\.\.\. engineering\. } ^
+engineering ^
+<courtesyTone> ^
+subs ^
+{ S, U, B, S\. } ^
+substant ^
+{ S, U, B, S, T, A, N, T\. } ^
+substantial ^
+{ S, U, B, S, T, A, N, T, I, A, L\.\.\. substantial\. } ^
+substantial ^
+<courtesyTone> ^
+asto ^
+{ A, S, T, O\. } ^
+astonish ^
+{ A, S, T, O, N, I, S, H\. } ^
+astonishing ^
+{ A, S, T, O, N, I, S, H, I, N, G\.\.\. astonishing\. } ^
+astonishing ^
+<courtesyTone> ^
+imme ^
+{ I, M, M, E\. } ^
+immediat ^
+{ I, M, M, E, D, I, A, T\. } ^
+immediately ^
+{ I, M, M, E, D, I, A, T, E, L, Y\.\.\. immediately\. } ^
+immediately ^
+<courtesyTone> ^
+cele ^
+{ C, E, L, E\. } ^
+celebrat ^
+{ C, E, L, E, B, R, A, T\. } ^
+celebration ^
+{ C, E, L, E, B, R, A, T, I, O, N\.\.\. celebration\. } ^
+celebration ^
+<courtesyTone> ^
+endo ^
+{ E, N, D, O\. } ^
+endorsem ^
+{ E, N, D, O, R, S, E, M\. } ^
+endorsement ^
+{ E, N, D, O, R, S, E, M, E, N, T\.\.\. endorsement\. } ^
+endorsement ^
+<courtesyTone> ^
+temp ^
+{ T, E, M, P\. } ^
+temperat ^
+{ T, E, M, P, E, R, A, T\. } ^
+temperature ^
+{ T, E, M, P, E, R, A, T, U, R, E\.\.\. temperature\. } ^
+temperature ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislature ^
+{ L, E, G, I, S, L, A, T, U, R, E\.\.\. legislature\. } ^
+legislature ^
+<courtesyTone> ^
+resp ^
+{ R, E, S, P\. } ^
+responsi ^
+{ R, E, S, P, O, N, S, I\. } ^
+responsible ^
+{ R, E, S, P, O, N, S, I, B, L, E\.\.\. responsible\. } ^
+responsible ^
+<courtesyTone> ^
+broa ^
+{ B, R, O, A\. } ^
+broadcas ^
+{ B, R, O, A, D, C, A, S\. } ^
+broadcaster ^
+{ B, R, O, A, D, C, A, S, T, E, R\.\.\. broadcaster\. } ^
+broadcaster ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consiste ^
+{ C, O, N, S, I, S, T, E\. } ^
+consistency ^
+{ C, O, N, S, I, S, T, E, N, C, Y\.\.\. consistency\. } ^
+consistency ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interact ^
+{ I, N, T, E, R, A, C, T\. } ^
+interaction ^
+{ I, N, T, E, R, A, C, T, I, O, N\.\.\. interaction\. } ^
+interaction ^
+<courtesyTone> ^
+rese ^
+{ R, E, S, E\. } ^
+reservat ^
+{ R, E, S, E, R, V, A, T\. } ^
+reservation ^
+{ R, E, S, E, R, V, A, T, I, O, N\.\.\. reservation\. } ^
+reservation ^
+<courtesyTone> ^
+coun ^
+{ C, O, U, N\. } ^
+countrys ^
+{ C, O, U, N, T, R, Y, S\. } ^
+countryside ^
+{ C, O, U, N, T, R, Y, S, I, D, E\.\.\. countryside\. } ^
+countryside ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+particip ^
+{ P, A, R, T, I, C, I, P\. } ^
+participant ^
+{ P, A, R, T, I, C, I, P, A, N, T\.\.\. participant\. } ^
+participant ^
+<courtesyTone> ^
+meth ^
+{ M, E, T, H\. } ^
+methodol ^
+{ M, E, T, H, O, D, O, L\. } ^
+methodology ^
+{ M, E, T, H, O, D, O, L, O, G, Y\.\.\. methodology\. } ^
+methodology ^
+<courtesyTone> ^
+asso ^
+{ A, S, S, O\. } ^
+associat ^
+{ A, S, S, O, C, I, A, T\. } ^
+association ^
+{ A, S, S, O, C, I, A, T, I, O, N\.\.\. association\. } ^
+association ^
+<courtesyTone> ^
+obse ^
+{ O, B, S, E\. } ^
+observat ^
+{ O, B, S, E, R, V, A, T\. } ^
+observation ^
+{ O, B, S, E, R, V, A, T, I, O, N\.\.\. observation\. } ^
+observation ^
+<courtesyTone> ^
+reco ^
+{ R, E, C, O\. } ^
+recognit ^
+{ R, E, C, O, G, N, I, T\. } ^
+recognition ^
+{ R, E, C, O, G, N, I, T, I, O, N\.\.\. recognition\. } ^
+recognition ^
+<courtesyTone> ^
+real ^
+{ R, E, A, L\. } ^
+realizat ^
+{ R, E, A, L, I, Z, A, T\. } ^
+realization ^
+{ R, E, A, L, I, Z, A, T, I, O, N\.\.\. realization\. } ^
+realization ^
+<courtesyTone> ^
+psyc ^
+{ P, S, Y, C\. } ^
+psychiat ^
+{ P, S, Y, C, H, I, A, T\. } ^
+psychiatric ^
+{ P, S, Y, C, H, I, A, T, R, I, C\.\.\. psychiatric\. } ^
+psychiatric ^
+<courtesyTone> ^
+meas ^
+{ M, E, A, S\. } ^
+measurem ^
+{ M, E, A, S, U, R, E, M\. } ^
+measurement ^
+{ M, E, A, S, U, R, E, M, E, N, T\.\.\. measurement\. } ^
+measurement ^
+<courtesyTone> ^
+orie ^
+{ O, R, I, E\. } ^
+orientat ^
+{ O, R, I, E, N, T, A, T\. } ^
+orientation ^
+{ O, R, I, E, N, T, A, T, I, O, N\.\.\. orientation\. } ^
+orientation ^
+<courtesyTone> ^
+none ^
+{ N, O, N, E\. } ^
+nonethel ^
+{ N, O, N, E, T, H, E, L\. } ^
+nonetheless ^
+{ N, O, N, E, T, H, E, L, E, S, S\.\.\. nonetheless\. } ^
+nonetheless ^
+<courtesyTone> ^
+impl ^
+{ I, M, P, L\. } ^
+implicat ^
+{ I, M, P, L, I, C, A, T\. } ^
+implication ^
+{ I, M, P, L, I, C, A, T, I, O, N\.\.\. implication\. } ^
+implication ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destruct ^
+{ D, E, S, T, R, U, C, T\. } ^
+destruction ^
+{ D, E, S, T, R, U, C, T, I, O, N\.\.\. destruction\. } ^
+destruction ^
+<courtesyTone> ^
+spok ^
+{ S, P, O, K\. } ^
+spokeswo ^
+{ S, P, O, K, E, S, W, O\. } ^
+spokeswoman ^
+{ S, P, O, K, E, S, W, O, M, A, N\.\.\. spokeswoman\. } ^
+spokeswoman ^
+<courtesyTone> ^
+flex ^
+{ F, L, E, X\. } ^
+flexibil ^
+{ F, L, E, X, I, B, I, L\. } ^
+flexibility ^
+{ F, L, E, X, I, B, I, L, I, T, Y\.\.\. flexibility\. } ^
+flexibility ^
+<courtesyTone> ^
+decl ^
+{ D, E, C, L\. } ^
+declarat ^
+{ D, E, C, L, A, R, A, T\. } ^
+declaration ^
+{ D, E, C, L, A, R, A, T, I, O, N\.\.\. declaration\. } ^
+declaration ^
+<courtesyTone> ^
+appl ^
+{ A, P, P, L\. } ^
+applicat ^
+{ A, P, P, L, I, C, A, T\. } ^
+application ^
+{ A, P, P, L, I, C, A, T, I, O, N\.\.\. application\. } ^
+application ^
+<courtesyTone> ^
+ackn ^
+{ A, C, K, N\. } ^
+acknowle ^
+{ A, C, K, N, O, W, L, E\. } ^
+acknowledge ^
+{ A, C, K, N, O, W, L, E, D, G, E\.\.\. acknowledge\. } ^
+acknowledge ^
+<courtesyTone> ^
+expl ^
+{ E, X, P, L\. } ^
+explanat ^
+{ E, X, P, L, A, N, A, T\. } ^
+explanation ^
+{ E, X, P, L, A, N, A, T, I, O, N\.\.\. explanation\. } ^
+explanation ^
+<courtesyTone> ^
+comb ^
+{ C, O, M, B\. } ^
+combinat ^
+{ C, O, M, B, I, N, A, T\. } ^
+combination ^
+{ C, O, M, B, I, N, A, T, I, O, N\.\.\. combination\. } ^
+combination ^
+<courtesyTone> ^
+sust ^
+{ S, U, S, T\. } ^
+sustaina ^
+{ S, U, S, T, A, I, N, A\. } ^
+sustainable ^
+{ S, U, S, T, A, I, N, A, B, L, E\.\.\. sustainable\. } ^
+sustainable ^
+<courtesyTone> ^
+inve ^
+{ I, N, V, E\. } ^
+investig ^
+{ I, N, V, E, S, T, I, G\. } ^
+investigate ^
+{ I, N, V, E, S, T, I, G, A, T, E\.\.\. investigate\. } ^
+investigate ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distinct ^
+{ D, I, S, T, I, N, C, T\. } ^
+distinctive ^
+{ D, I, S, T, I, N, C, T, I, V, E\.\.\. distinctive\. } ^
+distinctive ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interest ^
+{ I, N, T, E, R, E, S, T\. } ^
+interesting ^
+{ I, N, T, E, R, E, S, T, I, N, G\.\.\. interesting\. } ^
+interesting ^
+<courtesyTone> ^
+docu ^
+{ D, O, C, U\. } ^
+document ^
+{ D, O, C, U, M, E, N, T\. } ^
+documentary ^
+{ D, O, C, U, M, E, N, T, A, R, Y\.\.\. documentary\. } ^
+documentary ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandmot ^
+{ G, R, A, N, D, M, O, T\. } ^
+grandmother ^
+{ G, R, A, N, D, M, O, T, H, E, R\.\.\. grandmother\. } ^
+grandmother ^
+<courtesyTone> ^
+coin ^
+{ C, O, I, N\. } ^
+coincide ^
+{ C, O, I, N, C, I, D, E\. } ^
+coincidence ^
+{ C, O, I, N, C, I, D, E, N, C, E\.\.\. coincidence\. } ^
+coincidence ^
+<courtesyTone> ^
+inca ^
+{ I, N, C, A\. } ^
+incarcer ^
+{ I, N, C, A, R, C, E, R\. } ^
+incarcerate ^
+{ I, N, C, A, R, C, E, R, A, T, E\.\.\. incarcerate\. } ^
+incarcerate ^
+<courtesyTone> ^
+esse ^
+{ E, S, S, E\. } ^
+essentia ^
+{ E, S, S, E, N, T, I, A\. } ^
+essentially ^
+{ E, S, S, E, N, T, I, A, L, L, Y\.\.\. essentially\. } ^
+essentially ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislative ^
+{ L, E, G, I, S, L, A, T, I, V, E\.\.\. legislative\. } ^
+legislative ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandpar ^
+{ G, R, A, N, D, P, A, R\. } ^
+grandparent ^
+{ G, R, A, N, D, P, A, R, E, N, T\.\.\. grandparent\. } ^
+grandparent ^
+<courtesyTone> ^
+coop ^
+{ C, O, O, P\. } ^
+cooperat ^
+{ C, O, O, P, E, R, A, T\. } ^
+cooperative ^
+{ C, O, O, P, E, R, A, T, I, V, E\.\.\. cooperative\. } ^
+cooperative ^
+<courtesyTone> ^
+fort ^
+{ F, O, R, T\. } ^
+forthcom ^
+{ F, O, R, T, H, C, O, M\. } ^
+forthcoming ^
+{ F, O, R, T, H, C, O, M, I, N, G\.\.\. forthcoming\. } ^
+forthcoming ^
+<courtesyTone> ^
+unfo ^
+{ U, N, F, O\. } ^
+unfortun ^
+{ U, N, F, O, R, T, U, N\. } ^
+unfortunate ^
+{ U, N, F, O, R, T, U, N, A, T, E\.\.\. unfortunate\. } ^
+unfortunate ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislation ^
+{ L, E, G, I, S, L, A, T, I, O, N\.\.\. legislation\. } ^
+legislation ^
+<courtesyTone> ^
+requ ^
+{ R, E, Q, U\. } ^
+requirem ^
+{ R, E, Q, U, I, R, E, M\. } ^
+requirement ^
+{ R, E, Q, U, I, R, E, M, E, N, T\.\.\. requirement\. } ^
+requirement ^
+<courtesyTone> ^
+phil ^
+{ P, H, I, L\. } ^
+philosop ^
+{ P, H, I, L, O, S, O, P\. } ^
+philosopher ^
+{ P, H, I, L, O, S, O, P, H, E, R\.\.\. philosopher\. } ^
+philosopher ^
+<courtesyTone> ^
+immi ^
+{ I, M, M, I\. } ^
+immigrat ^
+{ I, M, M, I, G, R, A, T\. } ^
+immigration ^
+{ I, M, M, I, G, R, A, T, I, O, N\.\.\. immigration\. } ^
+immigration ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accordin ^
+{ A, C, C, O, R, D, I, N\. } ^
+accordingly ^
+{ A, C, C, O, R, D, I, N, G, L, Y\.\.\. accordingly\. } ^
+accordingly ^
+<courtesyTone> ^
+inst ^
+{ I, N, S, T\. } ^
+institut ^
+{ I, N, S, T, I, T, U, T\. } ^
+institution ^
+{ I, N, S, T, I, T, U, T, I, O, N\.\.\. institution\. } ^
+institution ^
+<courtesyTone> ^
+emot ^
+{ E, M, O, T\. } ^
+emotiona ^
+{ E, M, O, T, I, O, N, A\. } ^
+emotionally ^
+{ E, M, O, T, I, O, N, A, L, L, Y\.\.\. emotionally\. } ^
+emotionally ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consecut ^
+{ C, O, N, S, E, C, U, T\. } ^
+consecutive ^
+{ C, O, N, S, E, C, U, T, I, V, E\.\.\. consecutive\. } ^
+consecutive ^
+<courtesyTone> ^
+unne ^
+{ U, N, N, E\. } ^
+unnecess ^
+{ U, N, N, E, C, E, S, S\. } ^
+unnecessary ^
+{ U, N, N, E, C, E, S, S, A, R, Y\.\.\. unnecessary\. } ^
+unnecessary ^
+<courtesyTone> ^
+fire ^
+{ F, I, R, E\. } ^
+firefigh ^
+{ F, I, R, E, F, I, G, H\. } ^
+firefighter ^
+{ F, I, R, E, F, I, G, H, T, E, R\.\.\. firefighter\. } ^
+firefighter ^
+<courtesyTone> ^
+effe ^
+{ E, F, F, E\. } ^
+effectiv ^
+{ E, F, F, E, C, T, I, V\. } ^
+effectively ^
+{ E, F, F, E, C, T, I, V, E, L, Y\.\.\. effectively\. } ^
+effectively ^
+<courtesyTone> ^
+prog ^
+{ P, R, O, G\. } ^
+programm ^
+{ P, R, O, G, R, A, M, M\. } ^
+programming ^
+{ P, R, O, G, R, A, M, M, I, N, G\.\.\. programming\. } ^
+programming ^
+<courtesyTone> ^
+dete ^
+{ D, E, T, E\. } ^
+deterior ^
+{ D, E, T, E, R, I, O, R\. } ^
+deteriorate ^
+{ D, E, T, E, R, I, O, R, A, T, E\.\.\. deteriorate\. } ^
+deteriorate ^
+<courtesyTone> ^
+deve ^
+{ D, E, V, E\. } ^
+developm ^
+{ D, E, V, E, L, O, P, M\. } ^
+development ^
+{ D, E, V, E, L, O, P, M, E, N, T\.\.\. development\. } ^
+development ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandfat ^
+{ G, R, A, N, D, F, A, T\. } ^
+grandfather ^
+{ G, R, A, N, D, F, A, T, H, E, R\.\.\. grandfather\. } ^
+grandfather ^
+<courtesyTone> ^
+oppo ^
+{ O, P, P, O\. } ^
+opportun ^
+{ O, P, P, O, R, T, U, N\. } ^
+opportunity ^
+{ O, P, P, O, R, T, U, N, I, T, Y\.\.\. opportunity\. } ^
+opportunity ^
+<courtesyTone> ^
+math ^
+{ M, A, T, H\. } ^
+mathemat ^
+{ M, A, T, H, E, M, A, T\. } ^
+mathematics ^
+{ M, A, T, H, E, M, A, T, I, C, S\.\.\. mathematics\. } ^
+mathematics ^
+<courtesyTone> ^
+trad ^
+{ T, R, A, D\. } ^
+traditio ^
+{ T, R, A, D, I, T, I, O\. } ^
+traditional ^
+{ T, R, A, D, I, T, I, O, N, A, L\.\.\. traditional\. } ^
+traditional ^
+<courtesyTone> ^
+insp ^
+{ I, N, S, P\. } ^
+inspirat ^
+{ I, N, S, P, I, R, A, T\. } ^
+inspiration ^
+{ I, N, S, P, I, R, A, T, I, O, N\.\.\. inspiration\. } ^
+inspiration ^
+<courtesyTone> ^
+frus ^
+{ F, R, U, S\. } ^
+frustrat ^
+{ F, R, U, S, T, R, A, T\. } ^
+frustration ^
+{ F, R, U, S, T, R, A, T, I, O, N\.\.\. frustration\. } ^
+frustration ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+expectat ^
+{ E, X, P, E, C, T, A, T\. } ^
+expectation ^
+{ E, X, P, E, C, T, A, T, I, O, N\.\.\. expectation\. } ^
+expectation ^
+<courtesyTone> ^
+cert ^
+{ C, E, R, T\. } ^
+certific ^
+{ C, E, R, T, I, F, I, C\. } ^
+certificate ^
+{ C, E, R, T, I, F, I, C, A, T, E\.\.\. certificate\. } ^
+certificate ^
+<courtesyTone> ^
+emba ^
+{ E, M, B, A\. } ^
+embarras ^
+{ E, M, B, A, R, R, A, S\. } ^
+embarrassed ^
+{ E, M, B, A, R, R, A, S, S, E, D\.\.\. embarrassed\. } ^
+embarrassed ^
+<courtesyTone> ^
+imag ^
+{ I, M, A, G\. } ^
+imaginat ^
+{ I, M, A, G, I, N, A, T\. } ^
+imagination ^
+{ I, M, A, G, I, N, A, T, I, O, N\.\.\. imagination\. } ^
+imagination ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+contempl ^
+{ C, O, N, T, E, M, P, L\. } ^
+contemplate ^
+{ C, O, N, T, E, M, P, L, A, T, E\.\.\. contemplate\. } ^
+contemplate ^
+<courtesyTone> ^
+citi ^
+{ C, I, T, I\. } ^
+citizens ^
+{ C, I, T, I, Z, E, N, S\. } ^
+citizenship ^
+{ C, I, T, I, Z, E, N, S, H, I, P\.\.\. citizenship\. } ^
+citizenship ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+comparat ^
+{ C, O, M, P, A, R, A, T\. } ^
+comparative ^
+{ C, O, M, P, A, R, A, T, I, V, E\.\.\. comparative\. } ^
+comparative ^
+<courtesyTone> ^
+impr ^
+{ I, M, P, R\. } ^
+improvem ^
+{ I, M, P, R, O, V, E, M\. } ^
+improvement ^
+{ I, M, P, R, O, V, E, M, E, N, T\.\.\. improvement\. } ^
+improvement ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+integrat ^
+{ I, N, T, E, G, R, A, T\. } ^
+integration ^
+{ I, N, T, E, G, R, A, T, I, O, N\.\.\. integration\. } ^
+integration ^
+<courtesyTone> ^
+ideo ^
+{ I, D, E, O\. } ^
+ideologi ^
+{ I, D, E, O, L, O, G, I\. } ^
+ideological ^
+{ I, D, E, O, L, O, G, I, C, A, L\.\.\. ideological\. } ^
+ideological ^
+<courtesyTone> ^
+inst ^
+{ I, N, S, T\. } ^
+instruct ^
+{ I, N, S, T, R, U, C, T\. } ^
+instruction ^
+{ I, N, S, T, R, U, C, T, I, O, N\.\.\. instruction\. } ^
+instruction ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+particip ^
+{ P, A, R, T, I, C, I, P\. } ^
+participate ^
+{ P, A, R, T, I, C, I, P, A, T, E\.\.\. participate\. } ^
+participate ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+controve ^
+{ C, O, N, T, R, O, V, E\. } ^
+controversy ^
+{ C, O, N, T, R, O, V, E, R, S, Y\.\.\. controversy\. } ^
+controversy ^
+<courtesyTone> ^
+oper ^
+{ O, P, E, R\. } ^
+operatio ^
+{ O, P, E, R, A, T, I, O\. } ^
+operational ^
+{ O, P, E, R, A, T, I, O, N, A, L\.\.\. operational\. } ^
+operational ^
+<courtesyTone> ^
+frus ^
+{ F, R, U, S\. } ^
+frustrat ^
+{ F, R, U, S, T, R, A, T\. } ^
+frustrating ^
+{ F, R, U, S, T, R, A, T, I, N, G\.\.\. frustrating\. } ^
+frustrating ^
+<courtesyTone> ^
+elec ^
+{ E, L, E, C\. } ^
+electric ^
+{ E, L, E, C, T, R, I, C\. } ^
+electricity ^
+{ E, L, E, C, T, R, I, C, I, T, Y\.\.\. electricity\. } ^
+electricity ^
+<courtesyTone> ^
+recr ^
+{ R, E, C, R\. } ^
+recruitm ^
+{ R, E, C, R, U, I, T, M\. } ^
+recruitment ^
+{ R, E, C, R, U, I, T, M, E, N, T\.\.\. recruitment\. } ^
+recruitment ^
+<courtesyTone> ^
+pres ^
+{ P, R, E, S\. } ^
+prestigi ^
+{ P, R, E, S, T, I, G, I\. } ^
+prestigious ^
+{ P, R, E, S, T, I, G, I, O, U, S\.\.\. prestigious\. } ^
+prestigious ^
+<courtesyTone> ^
+conc ^
+{ C, O, N, C\. } ^
+concentr ^
+{ C, O, N, C, E, N, T, R\. } ^
+concentrate ^
+{ C, O, N, C, E, N, T, R, A, T, E\.\.\. concentrate\. } ^
+concentrate ^
+<courtesyTone> ^
+neig ^
+{ N, E, I, G\. } ^
+neighbor ^
+{ N, E, I, G, H, B, O, R\. } ^
+neighboring ^
+{ N, E, I, G, H, B, O, R, I, N, G\.\.\. neighboring\. } ^
+neighboring ^
+<courtesyTone> ^
+outs ^
+{ O, U, T, S\. } ^
+outstand ^
+{ O, U, T, S, T, A, N, D\. } ^
+outstanding ^
+{ O, U, T, S, T, A, N, D, I, N, G\.\.\. outstanding\. } ^
+outstanding ^
+<courtesyTone> ^
+theo ^
+{ T, H, E, O\. } ^
+theoreti ^
+{ T, H, E, O, R, E, T, I\. } ^
+theoretical ^
+{ T, H, E, O, R, E, T, I, C, A, L\.\.\. theoretical\. } ^
+theoretical ^
+<courtesyTone> ^
+inco ^
+{ I, N, C, O\. } ^
+incorpor ^
+{ I, N, C, O, R, P, O, R\. } ^
+incorporate ^
+{ I, N, C, O, R, P, O, R, A, T, E\.\.\. incorporate\. } ^
+incorporate ^
+<courtesyTone> ^
+pers ^
+{ P, E, R, S\. } ^
+perspect ^
+{ P, E, R, S, P, E, C, T\. } ^
+perspective ^
+{ P, E, R, S, P, E, C, T, I, V, E\.\.\. perspective\. } ^
+perspective ^
+<courtesyTone> ^
+calc ^
+{ C, A, L, C\. } ^
+calculat ^
+{ C, A, L, C, U, L, A, T\. } ^
+calculation ^
+{ C, A, L, C, U, L, A, T, I, O, N\.\.\. calculation\. } ^
+calculation ^
+<courtesyTone> ^
+arra ^
+{ A, R, R, A\. } ^
+arrangem ^
+{ A, R, R, A, N, G, E, M\. } ^
+arrangement ^
+{ A, R, R, A, N, G, E, M, E, N, T\.\.\. arrangement\. } ^
+arrangement ^
+<courtesyTone> ^
+coll ^
+{ C, O, L, L\. } ^
+collabor ^
+{ C, O, L, L, A, B, O, R\. } ^
+collaborate ^
+{ C, O, L, L, A, B, O, R, A, T, E\.\.\. collaborate\. } ^
+collaborate ^
+<courtesyTone> ^
+busi ^
+{ B, U, S, I\. } ^
+business ^
+{ B, U, S, I, N, E, S, S\. } ^
+businessman ^
+{ B, U, S, I, N, E, S, S, M, A, N\.\.\. businessman\. } ^
+businessman ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consolid ^
+{ C, O, N, S, O, L, I, D\. } ^
+consolidate ^
+{ C, O, N, S, O, L, I, D, A, T, E\.\.\. consolidate\. } ^
+consolidate ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destruct ^
+{ D, E, S, T, R, U, C, T\. } ^
+destructive ^
+{ D, E, S, T, R, U, C, T, I, V, E\.\.\. destructive\. } ^
+destructive ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+competit ^
+{ C, O, M, P, E, T, I, T\. } ^
+competitive ^
+{ C, O, M, P, E, T, I, T, I, V, E\.\.\. competitive\. } ^
+competitive ^
+<courtesyTone> ^
+prop ^
+{ P, R, O, P\. } ^
+proposit ^
+{ P, R, O, P, O, S, I, T\. } ^
+proposition ^
+{ P, R, O, P, O, S, I, T, I, O, N\.\.\. proposition\. } ^
+proposition ^
+<courtesyTone> ^
+fasc ^
+{ F, A, S, C\. } ^
+fascinat ^
+{ F, A, S, C, I, N, A, T\. } ^
+fascinating ^
+{ F, A, S, C, I, N, A, T, I, N, G\.\.\. fascinating\. } ^
+fascinating ^
+<courtesyTone> ^
+rest ^
+{ R, E, S, T\. } ^
+restrict ^
+{ R, E, S, T, R, I, C, T\. } ^
+restriction ^
+{ R, E, S, T, R, I, C, T, I, O, N\.\.\. restriction\. } ^
+restriction ^
+<courtesyTone> ^
+circ ^
+{ C, I, R, C\. } ^
+circulat ^
+{ C, I, R, C, U, L, A, T\. } ^
+circulation ^
+{ C, I, R, C, U, L, A, T, I, O, N\.\.\. circulation\. } ^
+circulation ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+contribu ^
+{ C, O, N, T, R, I, B, U\. } ^
+contributor ^
+{ C, O, N, T, R, I, B, U, T, O, R\.\.\. contributor\. } ^
+contributor ^
+<courtesyTone> ^
+unco ^
+{ U, N, C, O\. } ^
+unconsci ^
+{ U, N, C, O, N, S, C, I\. } ^
+unconscious ^
+{ U, N, C, O, N, S, C, I, O, U, S\.\.\. unconscious\. } ^
+unconscious ^
+<courtesyTone> ^
+corp ^
+{ C, O, R, P\. } ^
+corporat ^
+{ C, O, R, P, O, R, A, T\. } ^
+corporation ^
+{ C, O, R, P, O, R, A, T, I, O, N\.\.\. corporation\. } ^
+corporation ^
+<courtesyTone> ^
+unce ^
+{ U, N, C, E\. } ^
+uncertai ^
+{ U, N, C, E, R, T, A, I\. } ^
+uncertainty ^
+{ U, N, C, E, R, T, A, I, N, T, Y\.\.\. uncertainty\. } ^
+uncertainty ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consumpt ^
+{ C, O, N, S, U, M, P, T\. } ^
+consumption ^
+{ C, O, N, S, U, M, P, T, I, O, N\.\.\. consumption\. } ^
+consumption ^
+<courtesyTone> ^
+pros ^
+{ P, R, O, S\. } ^
+prospect ^
+{ P, R, O, S, P, E, C, T\. } ^
+prospective ^
+{ P, R, O, S, P, E, C, T, I, V, E\.\.\. prospective\. } ^
+prospective ^
+<courtesyTone> ^
+perf ^
+{ P, E, R, F\. } ^
+performa ^
+{ P, E, R, F, O, R, M, A\. } ^
+performance ^
+{ P, E, R, F, O, R, M, A, N, C, E\.\.\. performance\. } ^
+performance ^
+<courtesyTone> ^
+exte ^
+{ E, X, T, E\. } ^
+extensiv ^
+{ E, X, T, E, N, S, I, V\. } ^
+extensively ^
+{ E, X, T, E, N, S, I, V, E, L, Y\.\.\. extensively\. } ^
+extensively ^
+<courtesyTone> ^
+will ^
+{ W, I, L, L\. } ^
+willingn ^
+{ W, I, L, L, I, N, G, N\. } ^
+willingness ^
+{ W, I, L, L, I, N, G, N, E, S, S\.\.\. willingness\. } ^
+willingness ^
+<courtesyTone> ^
+pred ^
+{ P, R, E, D\. } ^
+predeces ^
+{ P, R, E, D, E, C, E, S\. } ^
+predecessor ^
+{ P, R, E, D, E, C, E, S, S, O, R\.\.\. predecessor\. } ^
+predecessor ^
+<courtesyTone> ^
+anni ^
+{ A, N, N, I\. } ^
+annivers ^
+{ A, N, N, I, V, E, R, S\. } ^
+anniversary ^
+{ A, N, N, I, V, E, R, S, A, R, Y\.\.\. anniversary\. } ^
+anniversary ^
+<courtesyTone> ^
+batt ^
+{ B, A, T, T\. } ^
+battlefi ^
+{ B, A, T, T, L, E, F, I\. } ^
+battlefield ^
+{ B, A, T, T, L, E, F, I, E, L, D\.\.\. battlefield\. } ^
+battlefield ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+partners ^
+{ P, A, R, T, N, E, R, S\. } ^
+partnership ^
+{ P, A, R, T, N, E, R, S, H, I, P\.\.\. partnership\. } ^
+partnership ^
+<courtesyTone> ^
+phot ^
+{ P, H, O, T\. } ^
+photogra ^
+{ P, H, O, T, O, G, R, A\. } ^
+photography ^
+{ P, H, O, T, O, G, R, A, P, H, Y\.\.\. photography\. } ^
+photography ^
+<courtesyTone> ^
+main ^
+{ M, A, I, N\. } ^
+maintena ^
+{ M, A, I, N, T, E, N, A\. } ^
+maintenance ^
+{ M, A, I, N, T, E, N, A, N, C, E\.\.\. maintenance\. } ^
+maintenance ^
+<courtesyTone> ^
+adve ^
+{ A, D, V, E\. } ^
+advertis ^
+{ A, D, V, E, R, T, I, S\. } ^
+advertising ^
+{ A, D, V, E, R, T, I, S, I, N, G\.\.\. advertising\. } ^
+advertising ^
+<courtesyTone> ^
+info ^
+{ I, N, F, O\. } ^
+informat ^
+{ I, N, F, O, R, M, A, T\. } ^
+information ^
+{ I, N, F, O, R, M, A, T, I, O, N\.\.\. information\. } ^
+information ^
+<courtesyTone> ^
+poss ^
+{ P, O, S, S\. } ^
+possibil ^
+{ P, O, S, S, I, B, I, L\. } ^
+possibility ^
+{ P, O, S, S, I, B, I, L, I, T, Y\.\.\. possibility\. } ^
+possibility ^
+<courtesyTone> ^
+corr ^
+{ C, O, R, R\. } ^
+correlat ^
+{ C, O, R, R, E, L, A, T\. } ^
+correlation ^
+{ C, O, R, R, E, L, A, T, I, O, N\.\.\. correlation\. } ^
+correlation ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+complica ^
+{ C, O, M, P, L, I, C, A\. } ^
+complicated ^
+{ C, O, M, P, L, I, C, A, T, E, D\.\.\. complicated\. } ^
+complicated ^
+<courtesyTone> ^
+mark ^
+{ M, A, R, K\. } ^
+marketpl ^
+{ M, A, R, K, E, T, P, L\. } ^
+marketplace ^
+{ M, A, R, K, E, T, P, L, A, C, E\.\.\. marketplace\. } ^
+marketplace ^
+<courtesyTone> ^
+bure ^
+{ B, U, R, E\. } ^
+bureaucr ^
+{ B, U, R, E, A, U, C, R\. } ^
+bureaucracy ^
+{ B, U, R, E, A, U, C, R, A, C, Y\.\.\. bureaucracy\. } ^
+bureaucracy ^
+<courtesyTone> ^
+scho ^
+{ S, C, H, O\. } ^
+scholars ^
+{ S, C, H, O, L, A, R, S\. } ^
+scholarship ^
+{ S, C, H, O, L, A, R, S, H, I, P\.\.\. scholarship\. } ^
+scholarship ^
+<courtesyTone> ^
+comf ^
+{ C, O, M, F\. } ^
+comforta ^
+{ C, O, M, F, O, R, T, A\. } ^
+comfortable ^
+{ C, O, M, F, O, R, T, A, B, L, E\.\.\. comfortable\. } ^
+comfortable ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+speculat ^
+{ S, P, E, C, U, L, A, T\. } ^
+speculation ^
+{ S, P, E, C, U, L, A, T, I, O, N\.\.\. speculation\. } ^
+speculation ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+translat ^
+{ T, R, A, N, S, L, A, T\. } ^
+translation ^
+{ T, R, A, N, S, L, A, T, I, O, N\.\.\. translation\. } ^
+translation ^
+<courtesyTone> ^
+prob ^
+{ P, R, O, B\. } ^
+problema ^
+{ P, R, O, B, L, E, M, A\. } ^
+problematic ^
+{ P, R, O, B, L, E, M, A, T, I, C\.\.\. problematic\. } ^
+problematic ^
+<courtesyTone> ^
+prog ^
+{ P, R, O, G\. } ^
+progress ^
+{ P, R, O, G, R, E, S, S\. } ^
+progressive ^
+{ P, R, O, G, R, E, S, S, I, V, E\.\.\. progressive\. } ^
+progressive ^
+<courtesyTone> ^
+conv ^
+{ C, O, N, V\. } ^
+convenie ^
+{ C, O, N, V, E, N, I, E\. } ^
+convenience ^
+{ C, O, N, V, E, N, I, E, N, C, E\.\.\. convenience\. } ^
+convenience ^
+<courtesyTone> ^
+desc ^
+{ D, E, S, C\. } ^
+descript ^
+{ D, E, S, C, R, I, P, T\. } ^
+description ^
+{ D, E, S, C, R, I, P, T, I, O, N\.\.\. description\. } ^
+description ^
+<courtesyTone> ^
+excl ^
+{ E, X, C, L\. } ^
+exclusiv ^
+{ E, X, C, L, U, S, I, V\. } ^
+exclusively ^
+{ E, X, C, L, U, S, I, V, E, L, Y\.\.\. exclusively\. } ^
+exclusively ^
+<courtesyTone> ^
+fund ^
+{ F, U, N, D\. } ^
+fundrais ^
+{ F, U, N, D, R, A, I, S\. } ^
+fundraising ^
+{ F, U, N, D, R, A, I, S, I, N, G\.\.\. fundraising\. } ^
+fundraising ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+speciali ^
+{ S, P, E, C, I, A, L, I\. } ^
+specialized ^
+{ S, P, E, C, I, A, L, I, Z, E, D\.\.\. specialized\. } ^
+specialized ^
+<courtesyTone> ^
+effi ^
+{ E, F, F, I\. } ^
+efficien ^
+{ E, F, F, I, C, I, E, N\. } ^
+efficiently ^
+{ E, F, F, I, C, I, E, N, T, L, Y\.\.\. efficiently\. } ^
+efficiently ^
+<courtesyTone> ^
+resi ^
+{ R, E, S, I\. } ^
+resignat ^
+{ R, E, S, I, G, N, A, T\. } ^
+resignation ^
+{ R, E, S, I, G, N, A, T, I, O, N\.\.\. resignation\. } ^
+resignation ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distinct ^
+{ D, I, S, T, I, N, C, T\. } ^
+distinction ^
+{ D, I, S, T, I, N, C, T, I, O, N\.\.\. distinction\. } ^
+distinction ^
+<courtesyTone> ^
+exam ^
+{ E, X, A, M\. } ^
+examinat ^
+{ E, X, A, M, I, N, A, T\. } ^
+examination ^
+{ E, X, A, M, I, N, A, T, I, O, N\.\.\. examination\. } ^
+examination ^
+<courtesyTone> ^
+envi ^
+{ E, N, V, I\. } ^
+environm ^
+{ E, N, V, I, R, O, N, M\. } ^
+environment ^
+{ E, N, V, I, R, O, N, M, E, N, T\.\.\. environment\. } ^
+environment ^
+<courtesyTone> ^
+infl ^
+{ I, N, F, L\. } ^
+influent ^
+{ I, N, F, L, U, E, N, T\. } ^
+influential ^
+{ I, N, F, L, U, E, N, T, I, A, L\.\.\. influential\. } ^
+influential ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+spectacu ^
+{ S, P, E, C, T, A, C, U\. } ^
+spectacular ^
+{ S, P, E, C, T, A, C, U, L, A, R\.\.\. spectacular\. } ^
+spectacular ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+competit ^
+{ C, O, M, P, E, T, I, T\. } ^
+competition ^
+{ C, O, M, P, E, T, I, T, I, O, N\.\.\. competition\. } ^
+competition ^
+<courtesyTone> ^
+fash ^
+{ F, A, S, H\. } ^
+fashiona ^
+{ F, A, S, H, I, O, N, A\. } ^
+fashionable ^
+{ F, A, S, H, I, O, N, A, B, L, E\.\.\. fashionable\. } ^
+fashionable ^
+<courtesyTone> ^
+achi ^
+{ A, C, H, I\. } ^
+achievem ^
+{ A, C, H, I, E, V, E, M\. } ^
+achievement ^
+{ A, C, H, I, E, V, E, M, E, N, T\.\.\. achievement\. } ^
+achievement ^
+<courtesyTone> ^
+repl ^
+{ R, E, P, L\. } ^
+replacem ^
+{ R, E, P, L, A, C, E, M\. } ^
+replacement ^
+{ R, E, P, L, A, C, E, M, E, N, T\.\.\. replacement\. } ^
+replacement ^
+<courtesyTone> ^
+chal ^
+{ C, H, A, L\. } ^
+challeng ^
+{ C, H, A, L, L, E, N, G\. } ^
+challenging ^
+{ C, H, A, L, L, E, N, G, I, N, G\.\.\. challenging\. } ^
+challenging ^
+<courtesyTone> ^
+appo ^
+{ A, P, P, O\. } ^
+appointm ^
+{ A, P, P, O, I, N, T, M\. } ^
+appointment ^
+{ A, P, P, O, I, N, T, M, E, N, T\.\.\. appointment\. } ^
+appointment ^
+<courtesyTone> ^
+comm ^
+{ C, O, M, M\. } ^
+commenta ^
+{ C, O, M, M, E, N, T, A\. } ^
+commentator ^
+{ C, O, M, M, E, N, T, A, T, O, R\.\.\. commentator\. } ^
+commentator ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interact ^
+{ I, N, T, E, R, A, C, T\. } ^
+interactive ^
+{ I, N, T, E, R, A, C, T, I, V, E\.\.\. interactive\. } ^
+interactive ^
+<courtesyTone> ^
+comm ^
+{ C, O, M, M\. } ^
+communic ^
+{ C, O, M, M, U, N, I, C\. } ^
+communicate ^
+{ C, O, M, M, U, N, I, C, A, T, E\.\.\. communicate\. } ^
+communicate ^
+<courtesyTone> ^
+frig ^
+{ F, R, I, G\. } ^
+frighten ^
+{ F, R, I, G, H, T, E, N\. } ^
+frightening ^
+{ F, R, I, G, H, T, E, N, I, N, G\.\.\. frightening\. } ^
+frightening ^
+<courtesyTone> ^
+nece ^
+{ N, E, C, E\. } ^
+necessar ^
+{ N, E, C, E, S, S, A, R\. } ^
+necessarily ^
+{ N, E, C, E, S, S, A, R, I, L, Y\.\.\. necessarily\. } ^
+necessarily ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+continua ^
+{ C, O, N, T, I, N, U, A\. } ^
+continually ^
+{ C, O, N, T, I, N, U, A, L, L, Y\.\.\. continually\. } ^
+continually ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+composit ^
+{ C, O, M, P, O, S, I, T\. } ^
+composition ^
+{ C, O, M, P, O, S, I, T, I, O, N\.\.\. composition\. } ^
+composition ^
+<courtesyTone> ^
+furt ^
+{ F, U, R, T\. } ^
+furtherm ^
+{ F, U, R, T, H, E, R, M\. } ^
+furthermore ^
+{ F, U, R, T, H, E, R, M, O, R, E\.\.\. furthermore\. } ^
+furthermore ^
+<courtesyTone> ^
+temp ^
+{ T, E, M, P\. } ^
+temporar ^
+{ T, E, M, P, O, R, A, R\. } ^
+temporarily ^
+{ T, E, M, P, O, R, A, R, I, L, Y\.\.\. temporarily\. } ^
+temporarily ^
+<courtesyTone> ^
+stat ^
+{ S, T, A, T\. } ^
+statisti ^
+{ S, T, A, T, I, S, T, I\. } ^
+statistical ^
+{ S, T, A, T, I, S, T, I, C, A, L\.\.\. statistical\. } ^
+statistical ^
+<courtesyTone> ^
+pros ^
+{ P, R, O, S\. } ^
+prosecut ^
+{ P, R, O, S, E, C, U, T\. } ^
+prosecution ^
+{ P, R, O, S, E, C, U, T, I, O, N\.\.\. prosecution\. } ^
+prosecution ^
+<courtesyTone> ^
+sove ^
+{ S, O, V, E\. } ^
+sovereig ^
+{ S, O, V, E, R, E, I, G\. } ^
+sovereignty ^
+{ S, O, V, E, R, E, I, G, N, T, Y\.\.\. sovereignty\. } ^
+sovereignty ^
+<courtesyTone> ^
+prel ^
+{ P, R, E, L\. } ^
+prelimin ^
+{ P, R, E, L, I, M, I, N\. } ^
+preliminary ^
+{ P, R, E, L, I, M, I, N, A, R, Y\.\.\. preliminary\. } ^
+preliminary ^
+<courtesyTone> ^
+alte ^
+{ A, L, T, E\. } ^
+alternat ^
+{ A, L, T, E, R, N, A, T\. } ^
+alternative ^
+{ A, L, T, E, R, N, A, T, I, V, E\.\.\. alternative\. } ^
+alternative ^
+<courtesyTone> ^
+cred ^
+{ C, R, E, D\. } ^
+credibil ^
+{ C, R, E, D, I, B, I, L\. } ^
+credibility ^
+{ C, R, E, D, I, B, I, L, I, T, Y\.\.\. credibility\. } ^
+credibility ^
+<courtesyTone> ^
+manu ^
+{ M, A, N, U\. } ^
+manufact ^
+{ M, A, N, U, F, A, C, T\. } ^
+manufacture ^
+{ M, A, N, U, F, A, C, T, U, R, E\.\.\. manufacture\. } ^
+manufacture ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destinat ^
+{ D, E, S, T, I, N, A, T\. } ^
+destination ^
+{ D, E, S, T, I, N, A, T, I, O, N\.\.\. destination\. } ^
+destination ^
+<courtesyTone> ^
+fort ^
+{ F, O, R, T\. } ^
+fortunat ^
+{ F, O, R, T, U, N, A, T\. } ^
+fortunately ^
+{ F, O, R, T, U, N, A, T, E, L, Y\.\.\. fortunately\. } ^
+fortunately ^
+<courtesyTone> ^
+demo ^
+{ D, E, M, O\. } ^
+demonstr ^
+{ D, E, M, O, N, S, T, R\. } ^
+demonstrate ^
+{ D, E, M, O, N, S, T, R, A, T, E\.\.\. demonstrate\. } ^
+demonstrate ^
+<courtesyTone> ^
+coor ^
+{ C, O, O, R\. } ^
+coordina ^
+{ C, O, O, R, D, I, N, A\. } ^
+coordinator ^
+{ C, O, O, R, D, I, N, A, T, O, R\.\.\. coordinator\. } ^
+coordinator ^
+<courtesyTone> ^
+acqu ^
+{ A, C, Q, U\. } ^
+acquisit ^
+{ A, C, Q, U, I, S, I, T\. } ^
+acquisition ^
+{ A, C, Q, U, I, S, I, T, I, O, N\.\.\. acquisition\. } ^
+acquisition ^
+<courtesyTone> ^
+invo ^
+{ I, N, V, O\. } ^
+involvem ^
+{ I, N, V, O, L, V, E, M\. } ^
+involvement ^
+{ I, N, V, O, L, V, E, M, E, N, T\.\.\. involvement\. } ^
+involvement ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+experien ^
+{ E, X, P, E, R, I, E, N\. } ^
+experienced ^
+{ E, X, P, E, R, I, E, N, C, E, D\.\.\. experienced\. } ^
+experienced ^
+<courtesyTone> ^
+educ ^
+{ E, D, U, C\. } ^
+educatio ^
+{ E, D, U, C, A, T, I, O\. } ^
+educational ^
+{ E, D, U, C, A, T, I, O, N, A, L\.\.\. educational\. } ^
+educational ^
+<courtesyTone> ^
+symp ^
+{ S, Y, M, P\. } ^
+sympathe ^
+{ S, Y, M, P, A, T, H, E\. } ^
+sympathetic ^
+{ S, Y, M, P, A, T, H, E, T, I, C\.\.\. sympathetic\. } ^
+sympathetic ^
+<courtesyTone> ^
+sign ^
+{ S, I, G, N\. } ^
+signific ^
+{ S, I, G, N, I, F, I, C\. } ^
+significant ^
+{ S, I, G, N, I, F, I, C, A, N, T\.\.\. significant\. } ^
+significant ^
+<courtesyTone> ^
+pers ^
+{ P, E, R, S\. } ^
+personal ^
+{ P, E, R, S, O, N, A, L\. } ^
+personality ^
+{ P, E, R, S, O, N, A, L, I, T, Y\.\.\. personality\. } ^
+personality ^
+<courtesyTone> ^
+shar ^
+{ S, H, A, R\. } ^
+sharehol ^
+{ S, H, A, R, E, H, O, L\. } ^
+shareholder ^
+{ S, H, A, R, E, H, O, L, D, E, R\.\.\. shareholder\. } ^
+shareholder ^
+<courtesyTone> ^
+fund ^
+{ F, U, N, D\. } ^
+fundamen ^
+{ F, U, N, D, A, M, E, N\. } ^
+fundamental ^
+{ F, U, N, D, A, M, E, N, T, A, L\.\.\. fundamental\. } ^
+fundamental ^
+<courtesyTone> ^
+sens ^
+{ S, E, N, S\. } ^
+sensitiv ^
+{ S, E, N, S, I, T, I, V\. } ^
+sensitivity ^
+{ S, E, N, S, I, T, I, V, I, T, Y\.\.\. sensitivity\. } ^
+sensitivity ^
+<courtesyTone> ^
+nego ^
+{ N, E, G, O\. } ^
+negotiat ^
+{ N, E, G, O, T, I, A, T\. } ^
+negotiation ^
+{ N, E, G, O, T, I, A, T, I, O, N\.\.\. negotiation\. } ^
+negotiation ^
+<courtesyTone> ^
+desp ^
+{ D, E, S, P\. } ^
+desperat ^
+{ D, E, S, P, E, R, A, T\. } ^
+desperately ^
+{ D, E, S, P, E, R, A, T, E, L, Y\.\.\. desperately\. } ^
+desperately ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+conseque ^
+{ C, O, N, S, E, Q, U, E\. } ^
+consequence ^
+{ C, O, N, S, E, Q, U, E, N, C, E\.\.\. consequence\. } ^
+consequence ^
+<courtesyTone> ^
+prob ^
+{ P, R, O, B\. } ^
+probabil ^
+{ P, R, O, B, A, B, I, L\. } ^
+probability ^
+{ P, R, O, B, A, B, I, L, I, T, Y\.\.\. probability\. } ^
+probability ^
+<courtesyTone> ^
+pred ^
+{ P, R, E, D\. } ^
+predicta ^
+{ P, R, E, D, I, C, T, A\. } ^
+predictable ^
+{ P, R, E, D, I, C, T, A, B, L, E\.\.\. predictable\. } ^
+predictable ^
+<courtesyTone> ^
+undo ^
+{ U, N, D, O\. } ^
+undoubte ^
+{ U, N, D, O, U, B, T, E\. } ^
+undoubtedly ^
+{ U, N, D, O, U, B, T, E, D, L, Y\.\.\. undoubtedly\. } ^
+undoubtedly ^
+<courtesyTone> ^
+surr ^
+{ S, U, R, R\. } ^
+surround ^
+{ S, U, R, R, O, U, N, D\. } ^
+surrounding ^
+{ S, U, R, R, O, U, N, D, I, N, G\.\.\. surrounding\. } ^
+surrounding ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accounta ^
+{ A, C, C, O, U, N, T, A\. } ^
+accountable ^
+{ A, C, C, O, U, N, T, A, B, L, E\.\.\. accountable\. } ^
+accountable ^
+<courtesyTone> ^
+publ ^
+{ P, U, B, L\. } ^
+publicat ^
+{ P, U, B, L, I, C, A, T\. } ^
+publication ^
+{ P, U, B, L, I, C, A, T, I, O, N\.\.\. publication\. } ^
+publication ^
+<courtesyTone> ^
+agri ^
+{ A, G, R, I\. } ^
+agricult ^
+{ A, G, R, I, C, U, L, T\. } ^
+agriculture ^
+{ A, G, R, I, C, U, L, T, U, R, E\.\.\. agriculture\. } ^
+agriculture ^
+<courtesyTone> ^
+inde ^
+{ I, N, D, E\. } ^
+independ ^
+{ I, N, D, E, P, E, N, D\. } ^
+independent ^
+{ I, N, D, E, P, E, N, D, E, N, T\.\.\. independent\. } ^
+independent ^
+<courtesyTone> ^
+unde ^
+{ U, N, D, E\. } ^
+undergro ^
+{ U, N, D, E, R, G, R, O\. } ^
+underground ^
+{ U, N, D, E, R, G, R, O, U, N, D\.\.\. underground\. } ^
+underground ^
+<courtesyTone> ^
+spon ^
+{ S, P, O, N\. } ^
+sponsors ^
+{ S, P, O, N, S, O, R, S\. } ^
+sponsorship ^
+{ S, P, O, N, S, O, R, S, H, I, P\.\.\. sponsorship\. } ^
+sponsorship ^
+<courtesyTone> ^
+reli ^
+{ R, E, L, I\. } ^
+reliabil ^
+{ R, E, L, I, A, B, I, L\. } ^
+reliability ^
+{ R, E, L, I, A, B, I, L, I, T, Y\.\.\. reliability\. } ^
+reliability ^
+<courtesyTone> ^
+inco ^
+{ I, N, C, O\. } ^
+incorpor ^
+{ I, N, C, O, R, P, O, R\. } ^
+incorporate ^
+{ I, N, C, O, R, P, O, R, A, T, E\.\.\. incorporate\. } ^
+incorporate ^
+<courtesyTone> ^
+effi ^
+{ E, F, F, I\. } ^
+efficien ^
+{ E, F, F, I, C, I, E, N\. } ^
+efficiently ^
+{ E, F, F, I, C, I, E, N, T, L, Y\.\.\. efficiently\. } ^
+efficiently ^
+<courtesyTone> ^
+pred ^
+{ P, R, E, D\. } ^
+predeces ^
+{ P, R, E, D, E, C, E, S\. } ^
+predecessor ^
+{ P, R, E, D, E, C, E, S, S, O, R\.\.\. predecessor\. } ^
+predecessor ^
+<courtesyTone> ^
+expl ^
+{ E, X, P, L\. } ^
+explorat ^
+{ E, X, P, L, O, R, A, T\. } ^
+exploration ^
+{ E, X, P, L, O, R, A, T, I, O, N\.\.\. exploration\. } ^
+exploration ^
+<courtesyTone> ^
+sove ^
+{ S, O, V, E\. } ^
+sovereig ^
+{ S, O, V, E, R, E, I, G\. } ^
+sovereignty ^
+{ S, O, V, E, R, E, I, G, N, T, Y\.\.\. sovereignty\. } ^
+sovereignty ^
+<courtesyTone> ^
+phil ^
+{ P, H, I, L\. } ^
+philosop ^
+{ P, H, I, L, O, S, O, P\. } ^
+philosopher ^
+{ P, H, I, L, O, S, O, P, H, E, R\.\.\. philosopher\. } ^
+philosopher ^
+<courtesyTone> ^
+pros ^
+{ P, R, O, S\. } ^
+prospect ^
+{ P, R, O, S, P, E, C, T\. } ^
+prospective ^
+{ P, R, O, S, P, E, C, T, I, V, E\.\.\. prospective\. } ^
+prospective ^
+<courtesyTone> ^
+fund ^
+{ F, U, N, D\. } ^
+fundrais ^
+{ F, U, N, D, R, A, I, S\. } ^
+fundraising ^
+{ F, U, N, D, R, A, I, S, I, N, G\.\.\. fundraising\. } ^
+fundraising ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+speculat ^
+{ S, P, E, C, U, L, A, T\. } ^
+speculation ^
+{ S, P, E, C, U, L, A, T, I, O, N\.\.\. speculation\. } ^
+speculation ^
+<courtesyTone> ^
+conv ^
+{ C, O, N, V\. } ^
+convenie ^
+{ C, O, N, V, E, N, I, E\. } ^
+convenience ^
+{ C, O, N, V, E, N, I, E, N, C, E\.\.\. convenience\. } ^
+convenience ^
+<courtesyTone> ^
+rese ^
+{ R, E, S, E\. } ^
+reservat ^
+{ R, E, S, E, R, V, A, T\. } ^
+reservation ^
+{ R, E, S, E, R, V, A, T, I, O, N\.\.\. reservation\. } ^
+reservation ^
+<courtesyTone> ^
+scho ^
+{ S, C, H, O\. } ^
+scholars ^
+{ S, C, H, O, L, A, R, S\. } ^
+scholarship ^
+{ S, C, H, O, L, A, R, S, H, I, P\.\.\. scholarship\. } ^
+scholarship ^
+<courtesyTone> ^
+sens ^
+{ S, E, N, S\. } ^
+sensitiv ^
+{ S, E, N, S, I, T, I, V\. } ^
+sensitivity ^
+{ S, E, N, S, I, T, I, V, I, T, Y\.\.\. sensitivity\. } ^
+sensitivity ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consecut ^
+{ C, O, N, S, E, C, U, T\. } ^
+consecutive ^
+{ C, O, N, S, E, C, U, T, I, V, E\.\.\. consecutive\. } ^
+consecutive ^
+<courtesyTone> ^
+rest ^
+{ R, E, S, T\. } ^
+restorat ^
+{ R, E, S, T, O, R, A, T\. } ^
+restoration ^
+{ R, E, S, T, O, R, A, T, I, O, N\.\.\. restoration\. } ^
+restoration ^
+<courtesyTone> ^
+mark ^
+{ M, A, R, K\. } ^
+marketpl ^
+{ M, A, R, K, E, T, P, L\. } ^
+marketplace ^
+{ M, A, R, K, E, T, P, L, A, C, E\.\.\. marketplace\. } ^
+marketplace ^
+<courtesyTone> ^
+asso ^
+{ A, S, S, O\. } ^
+associat ^
+{ A, S, S, O, C, I, A, T\. } ^
+association ^
+{ A, S, S, O, C, I, A, T, I, O, N\.\.\. association\. } ^
+association ^
+<courtesyTone> ^
+unfo ^
+{ U, N, F, O\. } ^
+unfortun ^
+{ U, N, F, O, R, T, U, N\. } ^
+unfortunate ^
+{ U, N, F, O, R, T, U, N, A, T, E\.\.\. unfortunate\. } ^
+unfortunate ^
+<courtesyTone> ^
+invo ^
+{ I, N, V, O\. } ^
+involvem ^
+{ I, N, V, O, L, V, E, M\. } ^
+involvement ^
+{ I, N, V, O, L, V, E, M, E, N, T\.\.\. involvement\. } ^
+involvement ^
+<courtesyTone> ^
+immi ^
+{ I, M, M, I\. } ^
+immigrat ^
+{ I, M, M, I, G, R, A, T\. } ^
+immigration ^
+{ I, M, M, I, G, R, A, T, I, O, N\.\.\. immigration\. } ^
+immigration ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+composit ^
+{ C, O, M, P, O, S, I, T\. } ^
+composition ^
+{ C, O, M, P, O, S, I, T, I, O, N\.\.\. composition\. } ^
+composition ^
+<courtesyTone> ^
+impr ^
+{ I, M, P, R\. } ^
+improvem ^
+{ I, M, P, R, O, V, E, M\. } ^
+improvement ^
+{ I, M, P, R, O, V, E, M, E, N, T\.\.\. improvement\. } ^
+improvement ^
+<courtesyTone> ^
+reco ^
+{ R, E, C, O\. } ^
+recognit ^
+{ R, E, C, O, G, N, I, T\. } ^
+recognition ^
+{ R, E, C, O, G, N, I, T, I, O, N\.\.\. recognition\. } ^
+recognition ^
+<courtesyTone> ^
+prop ^
+{ P, R, O, P\. } ^
+proposit ^
+{ P, R, O, P, O, S, I, T\. } ^
+proposition ^
+{ P, R, O, P, O, S, I, T, I, O, N\.\.\. proposition\. } ^
+proposition ^
+<courtesyTone> ^
+achi ^
+{ A, C, H, I\. } ^
+achievem ^
+{ A, C, H, I, E, V, E, M\. } ^
+achievement ^
+{ A, C, H, I, E, V, E, M, E, N, T\.\.\. achievement\. } ^
+achievement ^
+<courtesyTone> ^
+coun ^
+{ C, O, U, N\. } ^
+countrys ^
+{ C, O, U, N, T, R, Y, S\. } ^
+countryside ^
+{ C, O, U, N, T, R, Y, S, I, D, E\.\.\. countryside\. } ^
+countryside ^
+<courtesyTone> ^
+elec ^
+{ E, L, E, C\. } ^
+electric ^
+{ E, L, E, C, T, R, I, C\. } ^
+electricity ^
+{ E, L, E, C, T, R, I, C, I, T, Y\.\.\. electricity\. } ^
+electricity ^
+<courtesyTone> ^
+magn ^
+{ M, A, G, N\. } ^
+magnific ^
+{ M, A, G, N, I, F, I, C\. } ^
+magnificent ^
+{ M, A, G, N, I, F, I, C, E, N, T\.\.\. magnificent\. } ^
+magnificent ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislative ^
+{ L, E, G, I, S, L, A, T, I, V, E\.\.\. legislative\. } ^
+legislative ^
+<courtesyTone> ^
+trad ^
+{ T, R, A, D\. } ^
+traditio ^
+{ T, R, A, D, I, T, I, O\. } ^
+traditional ^
+{ T, R, A, D, I, T, I, O, N, A, L\.\.\. traditional\. } ^
+traditional ^
+<courtesyTone> ^
+inve ^
+{ I, N, V, E\. } ^
+investig ^
+{ I, N, V, E, S, T, I, G\. } ^
+investigate ^
+{ I, N, V, E, S, T, I, G, A, T, E\.\.\. investigate\. } ^
+investigate ^
+<courtesyTone> ^
+circ ^
+{ C, I, R, C\. } ^
+circulat ^
+{ C, I, R, C, U, L, A, T\. } ^
+circulation ^
+{ C, I, R, C, U, L, A, T, I, O, N\.\.\. circulation\. } ^
+circulation ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislature ^
+{ L, E, G, I, S, L, A, T, U, R, E\.\.\. legislature\. } ^
+legislature ^
+<courtesyTone> ^
+emot ^
+{ E, M, O, T\. } ^
+emotiona ^
+{ E, M, O, T, I, O, N, A\. } ^
+emotionally ^
+{ E, M, O, T, I, O, N, A, L, L, Y\.\.\. emotionally\. } ^
+emotionally ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distinct ^
+{ D, I, S, T, I, N, C, T\. } ^
+distinction ^
+{ D, I, S, T, I, N, C, T, I, O, N\.\.\. distinction\. } ^
+distinction ^
+<courtesyTone> ^
+appo ^
+{ A, P, P, O\. } ^
+appointm ^
+{ A, P, P, O, I, N, T, M\. } ^
+appointment ^
+{ A, P, P, O, I, N, T, M, E, N, T\.\.\. appointment\. } ^
+appointment ^
+<courtesyTone> ^
+elec ^
+{ E, L, E, C\. } ^
+electron ^
+{ E, L, E, C, T, R, O, N\. } ^
+electronics ^
+{ E, L, E, C, T, R, O, N, I, C, S\.\.\. electronics\. } ^
+electronics ^
+<courtesyTone> ^
+perf ^
+{ P, E, R, F\. } ^
+performa ^
+{ P, E, R, F, O, R, M, A\. } ^
+performance ^
+{ P, E, R, F, O, R, M, A, N, C, E\.\.\. performance\. } ^
+performance ^
+<courtesyTone> ^
+resi ^
+{ R, E, S, I\. } ^
+resignat ^
+{ R, E, S, I, G, N, A, T\. } ^
+resignation ^
+{ R, E, S, I, G, N, A, T, I, O, N\.\.\. resignation\. } ^
+resignation ^
+<courtesyTone> ^
+pote ^
+{ P, O, T, E\. } ^
+potentia ^
+{ P, O, T, E, N, T, I, A\. } ^
+potentially ^
+{ P, O, T, E, N, T, I, A, L, L, Y\.\.\. potentially\. } ^
+potentially ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislation ^
+{ L, E, G, I, S, L, A, T, I, O, N\.\.\. legislation\. } ^
+legislation ^
+<courtesyTone> ^
+resi ^
+{ R, E, S, I\. } ^
+resident ^
+{ R, E, S, I, D, E, N, T\. } ^
+residential ^
+{ R, E, S, I, D, E, N, T, I, A, L\.\.\. residential\. } ^
+residential ^
+<courtesyTone> ^
+fort ^
+{ F, O, R, T\. } ^
+fortunat ^
+{ F, O, R, T, U, N, A, T\. } ^
+fortunately ^
+{ F, O, R, T, U, N, A, T, E, L, Y\.\.\. fortunately\. } ^
+fortunately ^
+<courtesyTone> ^
+stat ^
+{ S, T, A, T\. } ^
+statisti ^
+{ S, T, A, T, I, S, T, I\. } ^
+statistical ^
+{ S, T, A, T, I, S, T, I, C, A, L\.\.\. statistical\. } ^
+statistical ^
+<courtesyTone> ^
+pers ^
+{ P, E, R, S\. } ^
+personal ^
+{ P, E, R, S, O, N, A, L\. } ^
+personality ^
+{ P, E, R, S, O, N, A, L, I, T, Y\.\.\. personality\. } ^
+personality ^
+<courtesyTone> ^
+inde ^
+{ I, N, D, E\. } ^
+independ ^
+{ I, N, D, E, P, E, N, D\. } ^
+independent ^
+{ I, N, D, E, P, E, N, D, E, N, T\.\.\. independent\. } ^
+independent ^
+<courtesyTone> ^
+oppo ^
+{ O, P, P, O\. } ^
+opportun ^
+{ O, P, P, O, R, T, U, N\. } ^
+opportunity ^
+{ O, P, P, O, R, T, U, N, I, T, Y\.\.\. opportunity\. } ^
+opportunity ^
+<courtesyTone> ^
+excl ^
+{ E, X, C, L\. } ^
+exclusiv ^
+{ E, X, C, L, U, S, I, V\. } ^
+exclusively ^
+{ E, X, C, L, U, S, I, V, E, L, Y\.\.\. exclusively\. } ^
+exclusively ^
+<courtesyTone> ^
+frus ^
+{ F, R, U, S\. } ^
+frustrat ^
+{ F, R, U, S, T, R, A, T\. } ^
+frustrating ^
+{ F, R, U, S, T, R, A, T, I, N, G\.\.\. frustrating\. } ^
+frustrating ^
+<courtesyTone> ^
+meth ^
+{ M, E, T, H\. } ^
+methodol ^
+{ M, E, T, H, O, D, O, L\. } ^
+methodology ^
+{ M, E, T, H, O, D, O, L, O, G, Y\.\.\. methodology\. } ^
+methodology ^
+<courtesyTone> ^
+poss ^
+{ P, O, S, S\. } ^
+possibil ^
+{ P, O, S, S, I, B, I, L\. } ^
+possibility ^
+{ P, O, S, S, I, B, I, L, I, T, Y\.\.\. possibility\. } ^
+possibility ^
+<courtesyTone> ^
+perm ^
+{ P, E, R, M\. } ^
+permanen ^
+{ P, E, R, M, A, N, E, N\. } ^
+permanently ^
+{ P, E, R, M, A, N, E, N, T, L, Y\.\.\. permanently\. } ^
+permanently ^
+<courtesyTone> ^
+reli ^
+{ R, E, L, I\. } ^
+reliabil ^
+{ R, E, L, I, A, B, I, L\. } ^
+reliability ^
+{ R, E, L, I, A, B, I, L, I, T, Y\.\.\. reliability\. } ^
+reliability ^
+<courtesyTone> ^
+math ^
+{ M, A, T, H\. } ^
+mathemat ^
+{ M, A, T, H, E, M, A, T\. } ^
+mathematics ^
+{ M, A, T, H, E, M, A, T, I, C, S\.\.\. mathematics\. } ^
+mathematics ^
+<courtesyTone> ^
+surr ^
+{ S, U, R, R\. } ^
+surround ^
+{ S, U, R, R, O, U, N, D\. } ^
+surrounding ^
+{ S, U, R, R, O, U, N, D, I, N, G\.\.\. surrounding\. } ^
+surrounding ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+intellig ^
+{ I, N, T, E, L, L, I, G\. } ^
+intelligent ^
+{ I, N, T, E, L, L, I, G, E, N, T\.\.\. intelligent\. } ^
+intelligent ^
+<courtesyTone> ^
+exte ^
+{ E, X, T, E\. } ^
+extensiv ^
+{ E, X, T, E, N, S, I, V\. } ^
+extensively ^
+{ E, X, T, E, N, S, I, V, E, L, Y\.\.\. extensively\. } ^
+extensively ^
+<courtesyTone> ^
+enfo ^
+{ E, N, F, O\. } ^
+enforcem ^
+{ E, N, F, O, R, C, E, M\. } ^
+enforcement ^
+{ E, N, F, O, R, C, E, M, E, N, T\.\.\. enforcement\. } ^
+enforcement ^
+<courtesyTone> ^
+inst ^
+{ I, N, S, T\. } ^
+institut ^
+{ I, N, S, T, I, T, U, T\. } ^
+institution ^
+{ I, N, S, T, I, T, U, T, I, O, N\.\.\. institution\. } ^
+institution ^
+<courtesyTone> ^
+main ^
+{ M, A, I, N\. } ^
+maintena ^
+{ M, A, I, N, T, E, N, A\. } ^
+maintenance ^
+{ M, A, I, N, T, E, N, A, N, C, E\.\.\. maintenance\. } ^
+maintenance ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+particip ^
+{ P, A, R, T, I, C, I, P\. } ^
+participate ^
+{ P, A, R, T, I, C, I, P, A, T, E\.\.\. participate\. } ^
+participate ^
+<courtesyTone> ^
+prob ^
+{ P, R, O, B\. } ^
+probabil ^
+{ P, R, O, B, A, B, I, L\. } ^
+probability ^
+{ P, R, O, B, A, B, I, L, I, T, Y\.\.\. probability\. } ^
+probability ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consolid ^
+{ C, O, N, S, O, L, I, D\. } ^
+consolidate ^
+{ C, O, N, S, O, L, I, D, A, T, E\.\.\. consolidate\. } ^
+consolidate ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accounta ^
+{ A, C, C, O, U, N, T, A\. } ^
+accountable ^
+{ A, C, C, O, U, N, T, A, B, L, E\.\.\. accountable\. } ^
+accountable ^
+<courtesyTone> ^
+cred ^
+{ C, R, E, D\. } ^
+credibil ^
+{ C, R, E, D, I, B, I, L\. } ^
+credibility ^
+{ C, R, E, D, I, B, I, L, I, T, Y\.\.\. credibility\. } ^
+credibility ^
+<courtesyTone> ^
+imag ^
+{ I, M, A, G\. } ^
+imaginat ^
+{ I, M, A, G, I, N, A, T\. } ^
+imagination ^
+{ I, M, A, G, I, N, A, T, I, O, N\.\.\. imagination\. } ^
+imagination ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+continua ^
+{ C, O, N, T, I, N, U, A\. } ^
+continually ^
+{ C, O, N, T, I, N, U, A, L, L, Y\.\.\. continually\. } ^
+continually ^
+<courtesyTone> ^
+requ ^
+{ R, E, Q, U\. } ^
+requirem ^
+{ R, E, Q, U, I, R, E, M\. } ^
+requirement ^
+{ R, E, Q, U, I, R, E, M, E, N, T\.\.\. requirement\. } ^
+requirement ^
+<courtesyTone> ^
+pers ^
+{ P, E, R, S\. } ^
+perspect ^
+{ P, E, R, S, P, E, C, T\. } ^
+perspective ^
+{ P, E, R, S, P, E, C, T, I, V, E\.\.\. perspective\. } ^
+perspective ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+controve ^
+{ C, O, N, T, R, O, V, E\. } ^
+controversy ^
+{ C, O, N, T, R, O, V, E, R, S, Y\.\.\. controversy\. } ^
+controversy ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+integrat ^
+{ I, N, T, E, G, R, A, T\. } ^
+integration ^
+{ I, N, T, E, G, R, A, T, I, O, N\.\.\. integration\. } ^
+integration ^
+<courtesyTone> ^
+chal ^
+{ C, H, A, L\. } ^
+challeng ^
+{ C, H, A, L, L, E, N, G\. } ^
+challenging ^
+{ C, H, A, L, L, E, N, G, I, N, G\.\.\. challenging\. } ^
+challenging ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+competit ^
+{ C, O, M, P, E, T, I, T\. } ^
+competition ^
+{ C, O, M, P, E, T, I, T, I, O, N\.\.\. competition\. } ^
+competition ^
+<courtesyTone> ^
+prob ^
+{ P, R, O, B\. } ^
+problema ^
+{ P, R, O, B, L, E, M, A\. } ^
+problematic ^
+{ P, R, O, B, L, E, M, A, T, I, C\.\.\. problematic\. } ^
+problematic ^
+<courtesyTone> ^
+deve ^
+{ D, E, V, E\. } ^
+developm ^
+{ D, E, V, E, L, O, P, M\. } ^
+development ^
+{ D, E, V, E, L, O, P, M, E, N, T\.\.\. development\. } ^
+development ^
+<courtesyTone> ^
+exce ^
+{ E, X, C, E\. } ^
+exceptio ^
+{ E, X, C, E, P, T, I, O\. } ^
+exceptional ^
+{ E, X, C, E, P, T, I, O, N, A, L\.\.\. exceptional\. } ^
+exceptional ^
+<courtesyTone> ^
+obse ^
+{ O, B, S, E\. } ^
+observat ^
+{ O, B, S, E, R, V, A, T\. } ^
+observation ^
+{ O, B, S, E, R, V, A, T, I, O, N\.\.\. observation\. } ^
+observation ^
+<courtesyTone> ^
+coll ^
+{ C, O, L, L\. } ^
+collabor ^
+{ C, O, L, L, A, B, O, R\. } ^
+collaborate ^
+{ C, O, L, L, A, B, O, R, A, T, E\.\.\. collaborate\. } ^
+collaborate ^
+<courtesyTone> ^
+demo ^
+{ D, E, M, O\. } ^
+demonstr ^
+{ D, E, M, O, N, S, T, R\. } ^
+demonstrate ^
+{ D, E, M, O, N, S, T, R, A, T, E\.\.\. demonstrate\. } ^
+demonstrate ^
+<courtesyTone> ^
+subs ^
+{ S, U, B, S\. } ^
+substant ^
+{ S, U, B, S, T, A, N, T\. } ^
+substantial ^
+{ S, U, B, S, T, A, N, T, I, A, L\.\.\. substantial\. } ^
+substantial ^
+<courtesyTone> ^
+rest ^
+{ R, E, S, T\. } ^
+restrict ^
+{ R, E, S, T, R, I, C, T\. } ^
+restriction ^
+{ R, E, S, T, R, I, C, T, I, O, N\.\.\. restriction\. } ^
+restriction ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interact ^
+{ I, N, T, E, R, A, C, T\. } ^
+interactive ^
+{ I, N, T, E, R, A, C, T, I, V, E\.\.\. interactive\. } ^
+interactive ^
+<courtesyTone> ^
+bene ^
+{ B, E, N, E\. } ^
+benefici ^
+{ B, E, N, E, F, I, C, I\. } ^
+beneficiary ^
+{ B, E, N, E, F, I, C, I, A, R, Y\.\.\. beneficiary\. } ^
+beneficiary ^
+<courtesyTone> ^
+inca ^
+{ I, N, C, A\. } ^
+incarcer ^
+{ I, N, C, A, R, C, E, R\. } ^
+incarcerate ^
+{ I, N, C, A, R, C, E, R, A, T, E\.\.\. incarcerate\. } ^
+incarcerate ^
+<courtesyTone> ^
+expl ^
+{ E, X, P, L\. } ^
+explanat ^
+{ E, X, P, L, A, N, A, T\. } ^
+explanation ^
+{ E, X, P, L, A, N, A, T, I, O, N\.\.\. explanation\. } ^
+explanation ^
+<courtesyTone> ^
+shar ^
+{ S, H, A, R\. } ^
+sharehol ^
+{ S, H, A, R, E, H, O, L\. } ^
+shareholder ^
+{ S, H, A, R, E, H, O, L, D, E, R\.\.\. shareholder\. } ^
+shareholder ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accordin ^
+{ A, C, C, O, R, D, I, N\. } ^
+accordingly ^
+{ A, C, C, O, R, D, I, N, G, L, Y\.\.\. accordingly\. } ^
+accordingly ^
+<courtesyTone> ^
+pred ^
+{ P, R, E, D\. } ^
+predicta ^
+{ P, R, E, D, I, C, T, A\. } ^
+predictable ^
+{ P, R, E, D, I, C, T, A, B, L, E\.\.\. predictable\. } ^
+predictable ^
+<courtesyTone> ^
+insp ^
+{ I, N, S, P\. } ^
+inspirat ^
+{ I, N, S, P, I, R, A, T\. } ^
+inspiration ^
+{ I, N, S, P, I, R, A, T, I, O, N\.\.\. inspiration\. } ^
+inspiration ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consumpt ^
+{ C, O, N, S, U, M, P, T\. } ^
+consumption ^
+{ C, O, N, S, U, M, P, T, I, O, N\.\.\. consumption\. } ^
+consumption ^
+<courtesyTone> ^
+ackn ^
+{ A, C, K, N\. } ^
+acknowle ^
+{ A, C, K, N, O, W, L, E\. } ^
+acknowledge ^
+{ A, C, K, N, O, W, L, E, D, G, E\.\.\. acknowledge\. } ^
+acknowledge ^
+<courtesyTone> ^
+frig ^
+{ F, R, I, G\. } ^
+frighten ^
+{ F, R, I, G, H, T, E, N\. } ^
+frightening ^
+{ F, R, I, G, H, T, E, N, I, N, G\.\.\. frightening\. } ^
+frightening ^
+<courtesyTone> ^
+recr ^
+{ R, E, C, R\. } ^
+recruitm ^
+{ R, E, C, R, U, I, T, M\. } ^
+recruitment ^
+{ R, E, C, R, U, I, T, M, E, N, T\.\.\. recruitment\. } ^
+recruitment ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+competit ^
+{ C, O, M, P, E, T, I, T\. } ^
+competitive ^
+{ C, O, M, P, E, T, I, T, I, V, E\.\.\. competitive\. } ^
+competitive ^
+<courtesyTone> ^
+fund ^
+{ F, U, N, D\. } ^
+fundamen ^
+{ F, U, N, D, A, M, E, N\. } ^
+fundamental ^
+{ F, U, N, D, A, M, E, N, T, A, L\.\.\. fundamental\. } ^
+fundamental ^
+<courtesyTone> ^
+flex ^
+{ F, L, E, X\. } ^
+flexibil ^
+{ F, L, E, X, I, B, I, L\. } ^
+flexibility ^
+{ F, L, E, X, I, B, I, L, I, T, Y\.\.\. flexibility\. } ^
+flexibility ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interact ^
+{ I, N, T, E, R, A, C, T\. } ^
+interaction ^
+{ I, N, T, E, R, A, C, T, I, O, N\.\.\. interaction\. } ^
+interaction ^
+<courtesyTone> ^
+pros ^
+{ P, R, O, S\. } ^
+prosecut ^
+{ P, R, O, S, E, C, U, T\. } ^
+prosecution ^
+{ P, R, O, S, E, C, U, T, I, O, N\.\.\. prosecution\. } ^
+prosecution ^
+<courtesyTone> ^
+neig ^
+{ N, E, I, G\. } ^
+neighbor ^
+{ N, E, I, G, H, B, O, R\. } ^
+neighboring ^
+{ N, E, I, G, H, B, O, R, I, N, G\.\.\. neighboring\. } ^
+neighboring ^
+<courtesyTone> ^
+agri ^
+{ A, G, R, I\. } ^
+agricult ^
+{ A, G, R, I, C, U, L, T\. } ^
+agriculture ^
+{ A, G, R, I, C, U, L, T, U, R, E\.\.\. agriculture\. } ^
+agriculture ^
+<courtesyTone> ^
+corp ^
+{ C, O, R, P\. } ^
+corporat ^
+{ C, O, R, P, O, R, A, T\. } ^
+corporation ^
+{ C, O, R, P, O, R, A, T, I, O, N\.\.\. corporation\. } ^
+corporation ^
+<courtesyTone> ^
+info ^
+{ I, N, F, O\. } ^
+informat ^
+{ I, N, F, O, R, M, A, T\. } ^
+information ^
+{ I, N, F, O, R, M, A, T, I, O, N\.\.\. information\. } ^
+information ^
+<courtesyTone> ^
+adve ^
+{ A, D, V, E\. } ^
+advertis ^
+{ A, D, V, E, R, T, I, S\. } ^
+advertising ^
+{ A, D, V, E, R, T, I, S, I, N, G\.\.\. advertising\. } ^
+advertising ^
+<courtesyTone> ^
+fasc ^
+{ F, A, S, C\. } ^
+fascinat ^
+{ F, A, S, C, I, N, A, T\. } ^
+fascinating ^
+{ F, A, S, C, I, N, A, T, I, N, G\.\.\. fascinating\. } ^
+fascinating ^
+<courtesyTone> ^
+will ^
+{ W, I, L, L\. } ^
+willingn ^
+{ W, I, L, L, I, N, G, N\. } ^
+willingness ^
+{ W, I, L, L, I, N, G, N, E, S, S\.\.\. willingness\. } ^
+willingness ^
+<courtesyTone> ^
+desp ^
+{ D, E, S, P\. } ^
+desperat ^
+{ D, E, S, P, E, R, A, T\. } ^
+desperately ^
+{ D, E, S, P, E, R, A, T, E, L, Y\.\.\. desperately\. } ^
+desperately ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+conseque ^
+{ C, O, N, S, E, Q, U, E\. } ^
+consequence ^
+{ C, O, N, S, E, Q, U, E, N, C, E\.\.\. consequence\. } ^
+consequence ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+partners ^
+{ P, A, R, T, N, E, R, S\. } ^
+partnership ^
+{ P, A, R, T, N, E, R, S, H, I, P\.\.\. partnership\. } ^
+partnership ^
+<courtesyTone> ^
+supe ^
+{ S, U, P, E\. } ^
+supervis ^
+{ S, U, P, E, R, V, I, S\. } ^
+supervision ^
+{ S, U, P, E, R, V, I, S, I, O, N\.\.\. supervision\. } ^
+supervision ^
+<courtesyTone> ^
+publ ^
+{ P, U, B, L\. } ^
+publicat ^
+{ P, U, B, L, I, C, A, T\. } ^
+publication ^
+{ P, U, B, L, I, C, A, T, I, O, N\.\.\. publication\. } ^
+publication ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+transpar ^
+{ T, R, A, N, S, P, A, R\. } ^
+transparent ^
+{ T, R, A, N, S, P, A, R, E, N, T\.\.\. transparent\. } ^
+transparent ^
+<courtesyTone> ^
+phot ^
+{ P, H, O, T\. } ^
+photogra ^
+{ P, H, O, T, O, G, R, A\. } ^
+photography ^
+{ P, H, O, T, O, G, R, A, P, H, Y\.\.\. photography\. } ^
+photography ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+contempl ^
+{ C, O, N, T, E, M, P, L\. } ^
+contemplate ^
+{ C, O, N, T, E, M, P, L, A, T, E\.\.\. contemplate\. } ^
+contemplate ^
+<courtesyTone> ^
+furt ^
+{ F, U, R, T\. } ^
+furtherm ^
+{ F, U, R, T, H, E, R, M\. } ^
+furthermore ^
+{ F, U, R, T, H, E, R, M, O, R, E\.\.\. furthermore\. } ^
+furthermore ^
+<courtesyTone> ^
+prog ^
+{ P, R, O, G\. } ^
+programm ^
+{ P, R, O, G, R, A, M, M\. } ^
+programming ^
+{ P, R, O, G, R, A, M, M, I, N, G\.\.\. programming\. } ^
+programming ^
+<courtesyTone> ^
+broa ^
+{ B, R, O, A\. } ^
+broadcas ^
+{ B, R, O, A, D, C, A, S\. } ^
+broadcaster ^
+{ B, R, O, A, D, C, A, S, T, E, R\.\.\. broadcaster\. } ^
+broadcaster ^
+<courtesyTone> ^
+repl ^
+{ R, E, P, L\. } ^
+replacem ^
+{ R, E, P, L, A, C, E, M\. } ^
+replacement ^
+{ R, E, P, L, A, C, E, M, E, N, T\.\.\. replacement\. } ^
+replacement ^
+<courtesyTone> ^
+effe ^
+{ E, F, F, E\. } ^
+effectiv ^
+{ E, F, F, E, C, T, I, V\. } ^
+effectively ^
+{ E, F, F, E, C, T, I, V, E, L, Y\.\.\. effectively\. } ^
+effectively ^
+<courtesyTone> ^
+nece ^
+{ N, E, C, E\. } ^
+necessar ^
+{ N, E, C, E, S, S, A, R\. } ^
+necessarily ^
+{ N, E, C, E, S, S, A, R, I, L, Y\.\.\. necessarily\. } ^
+necessarily ^
+<courtesyTone> ^
+fash ^
+{ F, A, S, H\. } ^
+fashiona ^
+{ F, A, S, H, I, O, N, A\. } ^
+fashionable ^
+{ F, A, S, H, I, O, N, A, B, L, E\.\.\. fashionable\. } ^
+fashionable ^
+<courtesyTone> ^
+pres ^
+{ P, R, E, S\. } ^
+prestigi ^
+{ P, R, E, S, T, I, G, I\. } ^
+prestigious ^
+{ P, R, E, S, T, I, G, I, O, U, S\.\.\. prestigious\. } ^
+prestigious ^
+<courtesyTone> ^
+appr ^
+{ A, P, P, R\. } ^
+appropri ^
+{ A, P, P, R, O, P, R, I\. } ^
+appropriate ^
+{ A, P, P, R, O, P, R, I, A, T, E\.\.\. appropriate\. } ^
+appropriate ^
+<courtesyTone> ^
+engi ^
+{ E, N, G, I\. } ^
+engineer ^
+{ E, N, G, I, N, E, E, R\. } ^
+engineering ^
+{ E, N, G, I, N, E, E, R, I, N, G\.\.\. engineering\. } ^
+engineering ^
+<courtesyTone> ^
+cert ^
+{ C, E, R, T\. } ^
+certific ^
+{ C, E, R, T, I, F, I, C\. } ^
+certificate ^
+{ C, E, R, T, I, F, I, C, A, T, E\.\.\. certificate\. } ^
+certificate ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distingu ^
+{ D, I, S, T, I, N, G, U\. } ^
+distinguish ^
+{ D, I, S, T, I, N, G, U, I, S, H\.\.\. distinguish\. } ^
+distinguish ^
+<courtesyTone> ^
+docu ^
+{ D, O, C, U\. } ^
+document ^
+{ D, O, C, U, M, E, N, T\. } ^
+documentary ^
+{ D, O, C, U, M, E, N, T, A, R, Y\.\.\. documentary\. } ^
+documentary ^
+<courtesyTone> ^
+manu ^
+{ M, A, N, U\. } ^
+manufact ^
+{ M, A, N, U, F, A, C, T\. } ^
+manufacture ^
+{ M, A, N, U, F, A, C, T, U, R, E\.\.\. manufacture\. } ^
+manufacture ^
+<courtesyTone> ^
+comf ^
+{ C, O, M, F\. } ^
+comforta ^
+{ C, O, M, F, O, R, T, A\. } ^
+comfortable ^
+{ C, O, M, F, O, R, T, A, B, L, E\.\.\. comfortable\. } ^
+comfortable ^
+<courtesyTone> ^
+unde ^
+{ U, N, D, E\. } ^
+undergro ^
+{ U, N, D, E, R, G, R, O\. } ^
+underground ^
+{ U, N, D, E, R, G, R, O, U, N, D\.\.\. underground\. } ^
+underground ^
+<courtesyTone> ^
+infl ^
+{ I, N, F, L\. } ^
+influent ^
+{ I, N, F, L, U, E, N, T\. } ^
+influential ^
+{ I, N, F, L, U, E, N, T, I, A, L\.\.\. influential\. } ^
+influential ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+comparat ^
+{ C, O, M, P, A, R, A, T\. } ^
+comparative ^
+{ C, O, M, P, A, R, A, T, I, V, E\.\.\. comparative\. } ^
+comparative ^
+<courtesyTone> ^
+asto ^
+{ A, S, T, O\. } ^
+astonish ^
+{ A, S, T, O, N, I, S, H\. } ^
+astonishing ^
+{ A, S, T, O, N, I, S, H, I, N, G\.\.\. astonishing\. } ^
+astonishing ^
+<courtesyTone> ^
+busi ^
+{ B, U, S, I\. } ^
+business ^
+{ B, U, S, I, N, E, S, S\. } ^
+businessman ^
+{ B, U, S, I, N, E, S, S, M, A, N\.\.\. businessman\. } ^
+businessman ^
+<courtesyTone> ^
+impl ^
+{ I, M, P, L\. } ^
+implicat ^
+{ I, M, P, L, I, C, A, T\. } ^
+implication ^
+{ I, M, P, L, I, C, A, T, I, O, N\.\.\. implication\. } ^
+implication ^
+<courtesyTone> ^
+batt ^
+{ B, A, T, T\. } ^
+battlefi ^
+{ B, A, T, T, L, E, F, I\. } ^
+battlefield ^
+{ B, A, T, T, L, E, F, I, E, L, D\.\.\. battlefield\. } ^
+battlefield ^
+<courtesyTone> ^
+enco ^
+{ E, N, C, O\. } ^
+encourag ^
+{ E, N, C, O, U, R, A, G\. } ^
+encouraging ^
+{ E, N, C, O, U, R, A, G, I, N, G\.\.\. encouraging\. } ^
+encouraging ^
+<courtesyTone> ^
+decl ^
+{ D, E, C, L\. } ^
+declarat ^
+{ D, E, C, L, A, R, A, T\. } ^
+declaration ^
+{ D, E, C, L, A, R, A, T, I, O, N\.\.\. declaration\. } ^
+declaration ^
+<courtesyTone> ^
+real ^
+{ R, E, A, L\. } ^
+realizat ^
+{ R, E, A, L, I, Z, A, T\. } ^
+realization ^
+{ R, E, A, L, I, Z, A, T, I, O, N\.\.\. realization\. } ^
+realization ^
+<courtesyTone> ^
+emba ^
+{ E, M, B, A\. } ^
+embarras ^
+{ E, M, B, A, R, R, A, S\. } ^
+embarrassed ^
+{ E, M, B, A, R, R, A, S, S, E, D\.\.\. embarrassed\. } ^
+embarrassed ^
+<courtesyTone> ^
+citi ^
+{ C, I, T, I\. } ^
+citizens ^
+{ C, I, T, I, Z, E, N, S\. } ^
+citizenship ^
+{ C, I, T, I, Z, E, N, S, H, I, P\.\.\. citizenship\. } ^
+citizenship ^
+<courtesyTone> ^
+acqu ^
+{ A, C, Q, U\. } ^
+acquisit ^
+{ A, C, Q, U, I, S, I, T\. } ^
+acquisition ^
+{ A, C, Q, U, I, S, I, T, I, O, N\.\.\. acquisition\. } ^
+acquisition ^
+<courtesyTone> ^
+orie ^
+{ O, R, I, E\. } ^
+orientat ^
+{ O, R, I, E, N, T, A, T\. } ^
+orientation ^
+{ O, R, I, E, N, T, A, T, I, O, N\.\.\. orientation\. } ^
+orientation ^
+<courtesyTone> ^
+meas ^
+{ M, E, A, S\. } ^
+measurem ^
+{ M, E, A, S, U, R, E, M\. } ^
+measurement ^
+{ M, E, A, S, U, R, E, M, E, N, T\.\.\. measurement\. } ^
+measurement ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandfat ^
+{ G, R, A, N, D, F, A, T\. } ^
+grandfather ^
+{ G, R, A, N, D, F, A, T, H, E, R\.\.\. grandfather\. } ^
+grandfather ^
+<courtesyTone> ^
+unco ^
+{ U, N, C, O\. } ^
+unconsci ^
+{ U, N, C, O, N, S, C, I\. } ^
+unconscious ^
+{ U, N, C, O, N, S, C, I, O, U, S\.\.\. unconscious\. } ^
+unconscious ^
+<courtesyTone> ^
+spok ^
+{ S, P, O, K\. } ^
+spokeswo ^
+{ S, P, O, K, E, S, W, O\. } ^
+spokeswoman ^
+{ S, P, O, K, E, S, W, O, M, A, N\.\.\. spokeswoman\. } ^
+spokeswoman ^
+<courtesyTone> ^
+coor ^
+{ C, O, O, R\. } ^
+coordina ^
+{ C, O, O, R, D, I, N, A\. } ^
+coordinator ^
+{ C, O, O, R, D, I, N, A, T, O, R\.\.\. coordinator\. } ^
+coordinator ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+particip ^
+{ P, A, R, T, I, C, I, P\. } ^
+participant ^
+{ P, A, R, T, I, C, I, P, A, N, T\.\.\. participant\. } ^
+participant ^
+<courtesyTone> ^
+anni ^
+{ A, N, N, I\. } ^
+annivers ^
+{ A, N, N, I, V, E, R, S\. } ^
+anniversary ^
+{ A, N, N, I, V, E, R, S, A, R, Y\.\.\. anniversary\. } ^
+anniversary ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accommod ^
+{ A, C, C, O, M, M, O, D\. } ^
+accommodate ^
+{ A, C, C, O, M, M, O, D, A, T, E\.\.\. accommodate\. } ^
+accommodate ^
+<courtesyTone> ^
+cele ^
+{ C, E, L, E\. } ^
+celebrat ^
+{ C, E, L, E, B, R, A, T\. } ^
+celebration ^
+{ C, E, L, E, B, R, A, T, I, O, N\.\.\. celebration\. } ^
+celebration ^
+<courtesyTone> ^
+comm ^
+{ C, O, M, M\. } ^
+communic ^
+{ C, O, M, M, U, N, I, C\. } ^
+communicate ^
+{ C, O, M, M, U, N, I, C, A, T, E\.\.\. communicate\. } ^
+communicate ^
+<courtesyTone> ^
+bure ^
+{ B, U, R, E\. } ^
+bureaucr ^
+{ B, U, R, E, A, U, C, R\. } ^
+bureaucracy ^
+{ B, U, R, E, A, U, C, R, A, C, Y\.\.\. bureaucracy\. } ^
+bureaucracy ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandpar ^
+{ G, R, A, N, D, P, A, R\. } ^
+grandparent ^
+{ G, R, A, N, D, P, A, R, E, N, T\.\.\. grandparent\. } ^
+grandparent ^
+<courtesyTone> ^
+sign ^
+{ S, I, G, N\. } ^
+signific ^
+{ S, I, G, N, I, F, I, C\. } ^
+significant ^
+{ S, I, G, N, I, F, I, C, A, N, T\.\.\. significant\. } ^
+significant ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+expendit ^
+{ E, X, P, E, N, D, I, T\. } ^
+expenditure ^
+{ E, X, P, E, N, D, I, T, U, R, E\.\.\. expenditure\. } ^
+expenditure ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+speciali ^
+{ S, P, E, C, I, A, L, I\. } ^
+specialized ^
+{ S, P, E, C, I, A, L, I, Z, E, D\.\.\. specialized\. } ^
+specialized ^
+<courtesyTone> ^
+corr ^
+{ C, O, R, R\. } ^
+correlat ^
+{ C, O, R, R, E, L, A, T\. } ^
+correlation ^
+{ C, O, R, R, E, L, A, T, I, O, N\.\.\. correlation\. } ^
+correlation ^
+<courtesyTone> ^
+comb ^
+{ C, O, M, B\. } ^
+combinat ^
+{ C, O, M, B, I, N, A, T\. } ^
+combination ^
+{ C, O, M, B, I, N, A, T, I, O, N\.\.\. combination\. } ^
+combination ^
+<courtesyTone> ^
+coin ^
+{ C, O, I, N\. } ^
+coincide ^
+{ C, O, I, N, C, I, D, E\. } ^
+coincidence ^
+{ C, O, I, N, C, I, D, E, N, C, E\.\.\. coincidence\. } ^
+coincidence ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distinct ^
+{ D, I, S, T, I, N, C, T\. } ^
+distinctive ^
+{ D, I, S, T, I, N, C, T, I, V, E\.\.\. distinctive\. } ^
+distinctive ^
+<courtesyTone> ^
+none ^
+{ N, O, N, E\. } ^
+nonethel ^
+{ N, O, N, E, T, H, E, L\. } ^
+nonetheless ^
+{ N, O, N, E, T, H, E, L, E, S, S\.\.\. nonetheless\. } ^
+nonetheless ^
+<courtesyTone> ^
+arra ^
+{ A, R, R, A\. } ^
+arrangem ^
+{ A, R, R, A, N, G, E, M\. } ^
+arrangement ^
+{ A, R, R, A, N, G, E, M, E, N, T\.\.\. arrangement\. } ^
+arrangement ^
+<courtesyTone> ^
+inst ^
+{ I, N, S, T\. } ^
+instruct ^
+{ I, N, S, T, R, U, C, T\. } ^
+instruction ^
+{ I, N, S, T, R, U, C, T, I, O, N\.\.\. instruction\. } ^
+instruction ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+spectacu ^
+{ S, P, E, C, T, A, C, U\. } ^
+spectacular ^
+{ S, P, E, C, T, A, C, U, L, A, R\.\.\. spectacular\. } ^
+spectacular ^
+<courtesyTone> ^
+prel ^
+{ P, R, E, L\. } ^
+prelimin ^
+{ P, R, E, L, I, M, I, N\. } ^
+preliminary ^
+{ P, R, E, L, I, M, I, N, A, R, Y\.\.\. preliminary\. } ^
+preliminary ^
+<courtesyTone> ^
+prep ^
+{ P, R, E, P\. } ^
+preparat ^
+{ P, R, E, P, A, R, A, T\. } ^
+preparation ^
+{ P, R, E, P, A, R, A, T, I, O, N\.\.\. preparation\. } ^
+preparation ^
+<courtesyTone> ^
+exam ^
+{ E, X, A, M\. } ^
+examinat ^
+{ E, X, A, M, I, N, A, T\. } ^
+examination ^
+{ E, X, A, M, I, N, A, T, I, O, N\.\.\. examination\. } ^
+examination ^
+<courtesyTone> ^
+coop ^
+{ C, O, O, P\. } ^
+cooperat ^
+{ C, O, O, P, E, R, A, T\. } ^
+cooperative ^
+{ C, O, O, P, E, R, A, T, I, V, E\.\.\. cooperative\. } ^
+cooperative ^
+<courtesyTone> ^
+unce ^
+{ U, N, C, E\. } ^
+uncertai ^
+{ U, N, C, E, R, T, A, I\. } ^
+uncertainty ^
+{ U, N, C, E, R, T, A, I, N, T, Y\.\.\. uncertainty\. } ^
+uncertainty ^
+<courtesyTone> ^
+psyc ^
+{ P, S, Y, C\. } ^
+psychiat ^
+{ P, S, Y, C, H, I, A, T\. } ^
+psychiatric ^
+{ P, S, Y, C, H, I, A, T, R, I, C\.\.\. psychiatric\. } ^
+psychiatric ^
+<courtesyTone> ^
+esse ^
+{ E, S, S, E\. } ^
+essentia ^
+{ E, S, S, E, N, T, I, A\. } ^
+essentially ^
+{ E, S, S, E, N, T, I, A, L, L, Y\.\.\. essentially\. } ^
+essentially ^
+<courtesyTone> ^
+prog ^
+{ P, R, O, G\. } ^
+progress ^
+{ P, R, O, G, R, E, S, S\. } ^
+progressive ^
+{ P, R, O, G, R, E, S, S, I, V, E\.\.\. progressive\. } ^
+progressive ^
+<courtesyTone> ^
+calc ^
+{ C, A, L, C\. } ^
+calculat ^
+{ C, A, L, C, U, L, A, T\. } ^
+calculation ^
+{ C, A, L, C, U, L, A, T, I, O, N\.\.\. calculation\. } ^
+calculation ^
+<courtesyTone> ^
+sust ^
+{ S, U, S, T\. } ^
+sustaina ^
+{ S, U, S, T, A, I, N, A\. } ^
+sustainable ^
+{ S, U, S, T, A, I, N, A, B, L, E\.\.\. sustainable\. } ^
+sustainable ^
+<courtesyTone> ^
+endo ^
+{ E, N, D, O\. } ^
+endorsem ^
+{ E, N, D, O, R, S, E, M\. } ^
+endorsement ^
+{ E, N, D, O, R, S, E, M, E, N, T\.\.\. endorsement\. } ^
+endorsement ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consiste ^
+{ C, O, N, S, I, S, T, E\. } ^
+consistency ^
+{ C, O, N, S, I, S, T, E, N, C, Y\.\.\. consistency\. } ^
+consistency ^
+<courtesyTone> ^
+dete ^
+{ D, E, T, E\. } ^
+deterior ^
+{ D, E, T, E, R, I, O, R\. } ^
+deteriorate ^
+{ D, E, T, E, R, I, O, R, A, T, E\.\.\. deteriorate\. } ^
+deteriorate ^
+<courtesyTone> ^
+imme ^
+{ I, M, M, E\. } ^
+immediat ^
+{ I, M, M, E, D, I, A, T\. } ^
+immediately ^
+{ I, M, M, E, D, I, A, T, E, L, Y\.\.\. immediately\. } ^
+immediately ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+expectat ^
+{ E, X, P, E, C, T, A, T\. } ^
+expectation ^
+{ E, X, P, E, C, T, A, T, I, O, N\.\.\. expectation\. } ^
+expectation ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destruct ^
+{ D, E, S, T, R, U, C, T\. } ^
+destructive ^
+{ D, E, S, T, R, U, C, T, I, V, E\.\.\. destructive\. } ^
+destructive ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+experien ^
+{ E, X, P, E, R, I, E, N\. } ^
+experienced ^
+{ E, X, P, E, R, I, E, N, C, E, D\.\.\. experienced\. } ^
+experienced ^
+<courtesyTone> ^
+fire ^
+{ F, I, R, E\. } ^
+firefigh ^
+{ F, I, R, E, F, I, G, H\. } ^
+firefighter ^
+{ F, I, R, E, F, I, G, H, T, E, R\.\.\. firefighter\. } ^
+firefighter ^
+<courtesyTone> ^
+theo ^
+{ T, H, E, O\. } ^
+theoreti ^
+{ T, H, E, O, R, E, T, I\. } ^
+theoretical ^
+{ T, H, E, O, R, E, T, I, C, A, L\.\.\. theoretical\. } ^
+theoretical ^
+<courtesyTone> ^
+educ ^
+{ E, D, U, C\. } ^
+educatio ^
+{ E, D, U, C, A, T, I, O\. } ^
+educational ^
+{ E, D, U, C, A, T, I, O, N, A, L\.\.\. educational\. } ^
+educational ^
+<courtesyTone> ^
+frus ^
+{ F, R, U, S\. } ^
+frustrat ^
+{ F, R, U, S, T, R, A, T\. } ^
+frustration ^
+{ F, R, U, S, T, R, A, T, I, O, N\.\.\. frustration\. } ^
+frustration ^
+<courtesyTone> ^
+outs ^
+{ O, U, T, S\. } ^
+outstand ^
+{ O, U, T, S, T, A, N, D\. } ^
+outstanding ^
+{ O, U, T, S, T, A, N, D, I, N, G\.\.\. outstanding\. } ^
+outstanding ^
+<courtesyTone> ^
+diff ^
+{ D, I, F, F\. } ^
+differen ^
+{ D, I, F, F, E, R, E, N\. } ^
+differently ^
+{ D, I, F, F, E, R, E, N, T, L, Y\.\.\. differently\. } ^
+differently ^
+<courtesyTone> ^
+undo ^
+{ U, N, D, O\. } ^
+undoubte ^
+{ U, N, D, O, U, B, T, E\. } ^
+undoubtedly ^
+{ U, N, D, O, U, B, T, E, D, L, Y\.\.\. undoubtedly\. } ^
+undoubtedly ^
+<courtesyTone> ^
+resp ^
+{ R, E, S, P\. } ^
+responsi ^
+{ R, E, S, P, O, N, S, I\. } ^
+responsible ^
+{ R, E, S, P, O, N, S, I, B, L, E\.\.\. responsible\. } ^
+responsible ^
+<courtesyTone> ^
+oper ^
+{ O, P, E, R\. } ^
+operatio ^
+{ O, P, E, R, A, T, I, O\. } ^
+operational ^
+{ O, P, E, R, A, T, I, O, N, A, L\.\.\. operational\. } ^
+operational ^
+<courtesyTone> ^
+fort ^
+{ F, O, R, T\. } ^
+forthcom ^
+{ F, O, R, T, H, C, O, M\. } ^
+forthcoming ^
+{ F, O, R, T, H, C, O, M, I, N, G\.\.\. forthcoming\. } ^
+forthcoming ^
+<courtesyTone> ^
+temp ^
+{ T, E, M, P\. } ^
+temperat ^
+{ T, E, M, P, E, R, A, T\. } ^
+temperature ^
+{ T, E, M, P, E, R, A, T, U, R, E\.\.\. temperature\. } ^
+temperature ^
+<courtesyTone> ^
+coun ^
+{ C, O, U, N\. } ^
+counterp ^
+{ C, O, U, N, T, E, R, P\. } ^
+counterpart ^
+{ C, O, U, N, T, E, R, P, A, R, T\.\.\. counterpart\. } ^
+counterpart ^
+<courtesyTone> ^
+symp ^
+{ S, Y, M, P\. } ^
+sympathe ^
+{ S, Y, M, P, A, T, H, E\. } ^
+sympathetic ^
+{ S, Y, M, P, A, T, H, E, T, I, C\.\.\. sympathetic\. } ^
+sympathetic ^
+<courtesyTone> ^
+temp ^
+{ T, E, M, P\. } ^
+temporar ^
+{ T, E, M, P, O, R, A, R\. } ^
+temporarily ^
+{ T, E, M, P, O, R, A, R, I, L, Y\.\.\. temporarily\. } ^
+temporarily ^
+<courtesyTone> ^
+desc ^
+{ D, E, S, C\. } ^
+descript ^
+{ D, E, S, C, R, I, P, T\. } ^
+description ^
+{ D, E, S, C, R, I, P, T, I, O, N\.\.\. description\. } ^
+description ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+contribu ^
+{ C, O, N, T, R, I, B, U\. } ^
+contributor ^
+{ C, O, N, T, R, I, B, U, T, O, R\.\.\. contributor\. } ^
+contributor ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandmot ^
+{ G, R, A, N, D, M, O, T\. } ^
+grandmother ^
+{ G, R, A, N, D, M, O, T, H, E, R\.\.\. grandmother\. } ^
+grandmother ^
+<courtesyTone> ^
+envi ^
+{ E, N, V, I\. } ^
+environm ^
+{ E, N, V, I, R, O, N, M\. } ^
+environment ^
+{ E, N, V, I, R, O, N, M, E, N, T\.\.\. environment\. } ^
+environment ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+transact ^
+{ T, R, A, N, S, A, C, T\. } ^
+transaction ^
+{ T, R, A, N, S, A, C, T, I, O, N\.\.\. transaction\. } ^
+transaction ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destruct ^
+{ D, E, S, T, R, U, C, T\. } ^
+destruction ^
+{ D, E, S, T, R, U, C, T, I, O, N\.\.\. destruction\. } ^
+destruction ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destinat ^
+{ D, E, S, T, I, N, A, T\. } ^
+destination ^
+{ D, E, S, T, I, N, A, T, I, O, N\.\.\. destination\. } ^
+destination ^
+<courtesyTone> ^
+tran ^
+{ T, R, A, N\. } ^
+translat ^
+{ T, R, A, N, S, L, A, T\. } ^
+translation ^
+{ T, R, A, N, S, L, A, T, I, O, N\.\.\. translation\. } ^
+translation ^
+<courtesyTone> ^
+appl ^
+{ A, P, P, L\. } ^
+applicat ^
+{ A, P, P, L, I, C, A, T\. } ^
+application ^
+{ A, P, P, L, I, C, A, T, I, O, N\.\.\. application\. } ^
+application ^
+<courtesyTone> ^
+alte ^
+{ A, L, T, E\. } ^
+alternat ^
+{ A, L, T, E, R, N, A, T\. } ^
+alternative ^
+{ A, L, T, E, R, N, A, T, I, V, E\.\.\. alternative\. } ^
+alternative ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interest ^
+{ I, N, T, E, R, E, S, T\. } ^
+interesting ^
+{ I, N, T, E, R, E, S, T, I, N, G\.\.\. interesting\. } ^
+interesting ^
+<courtesyTone> ^
+ideo ^
+{ I, D, E, O\. } ^
+ideologi ^
+{ I, D, E, O, L, O, G, I\. } ^
+ideological ^
+{ I, D, E, O, L, O, G, I, C, A, L\.\.\. ideological\. } ^
+ideological ^
+<courtesyTone> ^
+spon ^
+{ S, P, O, N\. } ^
+sponsors ^
+{ S, P, O, N, S, O, R, S\. } ^
+sponsorship ^
+{ S, P, O, N, S, O, R, S, H, I, P\.\.\. sponsorship\. } ^
+sponsorship ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+complica ^
+{ C, O, M, P, L, I, C, A\. } ^
+complicated ^
+{ C, O, M, P, L, I, C, A, T, E, D\.\.\. complicated\. } ^
+complicated ^
+<courtesyTone> ^
+nego ^
+{ N, E, G, O\. } ^
+negotiat ^
+{ N, E, G, O, T, I, A, T\. } ^
+negotiation ^
+{ N, E, G, O, T, I, A, T, I, O, N\.\.\. negotiation\. } ^
+negotiation ^
+<courtesyTone> ^
+supe ^
+{ S, U, P, E\. } ^
+supermar ^
+{ S, U, P, E, R, M, A, R\. } ^
+supermarket ^
+{ S, U, P, E, R, M, A, R, K, E, T\.\.\. supermarket\. } ^
+supermarket ^
+<courtesyTone> ^
+conc ^
+{ C, O, N, C\. } ^
+concentr ^
+{ C, O, N, C, E, N, T, R\. } ^
+concentrate ^
+{ C, O, N, C, E, N, T, R, A, T, E\.\.\. concentrate\. } ^
+concentrate ^
+<courtesyTone> ^
+unne ^
+{ U, N, N, E\. } ^
+unnecess ^
+{ U, N, N, E, C, E, S, S\. } ^
+unnecessary ^
+{ U, N, N, E, C, E, S, S, A, R, Y\.\.\. unnecessary\. } ^
+unnecessary ^
+<courtesyTone> ^
+comm ^
+{ C, O, M, M\. } ^
+commenta ^
+{ C, O, M, M, E, N, T, A\. } ^
+commentator ^
+{ C, O, M, M, E, N, T, A, T, O, R\.\.\. commentator\. } ^
+commentator ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+intellig ^
+{ I, N, T, E, L, L, I, G\. } ^
+intelligent ^
+{ I, N, T, E, L, L, I, G, E, N, T\.\.\. intelligent\. } ^
+intelligent ^
+<courtesyTone> ^
+ideo ^
+{ I, D, E, O\. } ^
+ideologi ^
+{ I, D, E, O, L, O, G, I\. } ^
+ideological ^
+{ I, D, E, O, L, O, G, I, C, A, L\.\.\. ideological\. } ^
+ideological ^
+<courtesyTone> ^
+nego ^
+{ N, E, G, O\. } ^
+negotiat ^
+{ N, E, G, O, T, I, A, T\. } ^
+negotiation ^
+{ N, E, G, O, T, I, A, T, I, O, N\.\.\. negotiation\. } ^
+negotiation ^
+<courtesyTone> ^
+effe ^
+{ E, F, F, E\. } ^
+effectiv ^
+{ E, F, F, E, C, T, I, V\. } ^
+effectively ^
+{ E, F, F, E, C, T, I, V, E, L, Y\.\.\. effectively\. } ^
+effectively ^
+<courtesyTone> ^
+diff ^
+{ D, I, F, F\. } ^
+differen ^
+{ D, I, F, F, E, R, E, N\. } ^
+differently ^
+{ D, I, F, F, E, R, E, N, T, L, Y\.\.\. differently\. } ^
+differently ^
+<courtesyTone> ^
+sust ^
+{ S, U, S, T\. } ^
+sustaina ^
+{ S, U, S, T, A, I, N, A\. } ^
+sustainable ^
+{ S, U, S, T, A, I, N, A, B, L, E\.\.\. sustainable\. } ^
+sustainable ^
+<courtesyTone> ^
+comm ^
+{ C, O, M, M\. } ^
+communic ^
+{ C, O, M, M, U, N, I, C\. } ^
+communicate ^
+{ C, O, M, M, U, N, I, C, A, T, E\.\.\. communicate\. } ^
+communicate ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consumpt ^
+{ C, O, N, S, U, M, P, T\. } ^
+consumption ^
+{ C, O, N, S, U, M, P, T, I, O, N\.\.\. consumption\. } ^
+consumption ^
+<courtesyTone> ^
+psyc ^
+{ P, S, Y, C\. } ^
+psychiat ^
+{ P, S, Y, C, H, I, A, T\. } ^
+psychiatric ^
+{ P, S, Y, C, H, I, A, T, R, I, C\.\.\. psychiatric\. } ^
+psychiatric ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destruct ^
+{ D, E, S, T, R, U, C, T\. } ^
+destructive ^
+{ D, E, S, T, R, U, C, T, I, V, E\.\.\. destructive\. } ^
+destructive ^
+<courtesyTone> ^
+pers ^
+{ P, E, R, S\. } ^
+personal ^
+{ P, E, R, S, O, N, A, L\. } ^
+personality ^
+{ P, E, R, S, O, N, A, L, I, T, Y\.\.\. personality\. } ^
+personality ^
+<courtesyTone> ^
+educ ^
+{ E, D, U, C\. } ^
+educatio ^
+{ E, D, U, C, A, T, I, O\. } ^
+educational ^
+{ E, D, U, C, A, T, I, O, N, A, L\.\.\. educational\. } ^
+educational ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+speculat ^
+{ S, P, E, C, U, L, A, T\. } ^
+speculation ^
+{ S, P, E, C, U, L, A, T, I, O, N\.\.\. speculation\. } ^
+speculation ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+particip ^
+{ P, A, R, T, I, C, I, P\. } ^
+participate ^
+{ P, A, R, T, I, C, I, P, A, T, E\.\.\. participate\. } ^
+participate ^
+<courtesyTone> ^
+unfo ^
+{ U, N, F, O\. } ^
+unfortun ^
+{ U, N, F, O, R, T, U, N\. } ^
+unfortunate ^
+{ U, N, F, O, R, T, U, N, A, T, E\.\.\. unfortunate\. } ^
+unfortunate ^
+<courtesyTone> ^
+spok ^
+{ S, P, O, K\. } ^
+spokeswo ^
+{ S, P, O, K, E, S, W, O\. } ^
+spokeswoman ^
+{ S, P, O, K, E, S, W, O, M, A, N\.\.\. spokeswoman\. } ^
+spokeswoman ^
+<courtesyTone> ^
+alte ^
+{ A, L, T, E\. } ^
+alternat ^
+{ A, L, T, E, R, N, A, T\. } ^
+alternative ^
+{ A, L, T, E, R, N, A, T, I, V, E\.\.\. alternative\. } ^
+alternative ^
+<courtesyTone> ^
+coun ^
+{ C, O, U, N\. } ^
+countrys ^
+{ C, O, U, N, T, R, Y, S\. } ^
+countryside ^
+{ C, O, U, N, T, R, Y, S, I, D, E\.\.\. countryside\. } ^
+countryside ^
+<courtesyTone> ^
+poss ^
+{ P, O, S, S\. } ^
+possibil ^
+{ P, O, S, S, I, B, I, L\. } ^
+possibility ^
+{ P, O, S, S, I, B, I, L, I, T, Y\.\.\. possibility\. } ^
+possibility ^
+<courtesyTone> ^
+pers ^
+{ P, E, R, S\. } ^
+perspect ^
+{ P, E, R, S, P, E, C, T\. } ^
+perspective ^
+{ P, E, R, S, P, E, C, T, I, V, E\.\.\. perspective\. } ^
+perspective ^
+<courtesyTone> ^
+supe ^
+{ S, U, P, E\. } ^
+supervis ^
+{ S, U, P, E, R, V, I, S\. } ^
+supervision ^
+{ S, U, P, E, R, V, I, S, I, O, N\.\.\. supervision\. } ^
+supervision ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+conseque ^
+{ C, O, N, S, E, Q, U, E\. } ^
+consequence ^
+{ C, O, N, S, E, Q, U, E, N, C, E\.\.\. consequence\. } ^
+consequence ^
+<courtesyTone> ^
+coll ^
+{ C, O, L, L\. } ^
+collabor ^
+{ C, O, L, L, A, B, O, R\. } ^
+collaborate ^
+{ C, O, L, L, A, B, O, R, A, T, E\.\.\. collaborate\. } ^
+collaborate ^
+<courtesyTone> ^
+comb ^
+{ C, O, M, B\. } ^
+combinat ^
+{ C, O, M, B, I, N, A, T\. } ^
+combination ^
+{ C, O, M, B, I, N, A, T, I, O, N\.\.\. combination\. } ^
+combination ^
+<courtesyTone> ^
+surr ^
+{ S, U, R, R\. } ^
+surround ^
+{ S, U, R, R, O, U, N, D\. } ^
+surrounding ^
+{ S, U, R, R, O, U, N, D, I, N, G\.\.\. surrounding\. } ^
+surrounding ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandfat ^
+{ G, R, A, N, D, F, A, T\. } ^
+grandfather ^
+{ G, R, A, N, D, F, A, T, H, E, R\.\.\. grandfather\. } ^
+grandfather ^
+<courtesyTone> ^
+phil ^
+{ P, H, I, L\. } ^
+philosop ^
+{ P, H, I, L, O, S, O, P\. } ^
+philosopher ^
+{ P, H, I, L, O, S, O, P, H, E, R\.\.\. philosopher\. } ^
+philosopher ^
+<courtesyTone> ^
+scho ^
+{ S, C, H, O\. } ^
+scholars ^
+{ S, C, H, O, L, A, R, S\. } ^
+scholarship ^
+{ S, C, H, O, L, A, R, S, H, I, P\.\.\. scholarship\. } ^
+scholarship ^
+<courtesyTone> ^
+docu ^
+{ D, O, C, U\. } ^
+document ^
+{ D, O, C, U, M, E, N, T\. } ^
+documentary ^
+{ D, O, C, U, M, E, N, T, A, R, Y\.\.\. documentary\. } ^
+documentary ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislative ^
+{ L, E, G, I, S, L, A, T, I, V, E\.\.\. legislative\. } ^
+legislative ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consiste ^
+{ C, O, N, S, I, S, T, E\. } ^
+consistency ^
+{ C, O, N, S, I, S, T, E, N, C, Y\.\.\. consistency\. } ^
+consistency ^
+<courtesyTone> ^
+enco ^
+{ E, N, C, O\. } ^
+encourag ^
+{ E, N, C, O, U, R, A, G\. } ^
+encouraging ^
+{ E, N, C, O, U, R, A, G, I, N, G\.\.\. encouraging\. } ^
+encouraging ^
+<courtesyTone> ^
+prog ^
+{ P, R, O, G\. } ^
+progress ^
+{ P, R, O, G, R, E, S, S\. } ^
+progressive ^
+{ P, R, O, G, R, E, S, S, I, V, E\.\.\. progressive\. } ^
+progressive ^
+<courtesyTone> ^
+deve ^
+{ D, E, V, E\. } ^
+developm ^
+{ D, E, V, E, L, O, P, M\. } ^
+development ^
+{ D, E, V, E, L, O, P, M, E, N, T\.\.\. development\. } ^
+development ^
+<courtesyTone> ^
+resp ^
+{ R, E, S, P\. } ^
+responsi ^
+{ R, E, S, P, O, N, S, I\. } ^
+responsible ^
+{ R, E, S, P, O, N, S, I, B, L, E\.\.\. responsible\. } ^
+responsible ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+continua ^
+{ C, O, N, T, I, N, U, A\. } ^
+continually ^
+{ C, O, N, T, I, N, U, A, L, L, Y\.\.\. continually\. } ^
+continually ^
+<courtesyTone> ^
+frus ^
+{ F, R, U, S\. } ^
+frustrat ^
+{ F, R, U, S, T, R, A, T\. } ^
+frustration ^
+{ F, R, U, S, T, R, A, T, I, O, N\.\.\. frustration\. } ^
+frustration ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+comparat ^
+{ C, O, M, P, A, R, A, T\. } ^
+comparative ^
+{ C, O, M, P, A, R, A, T, I, V, E\.\.\. comparative\. } ^
+comparative ^
+<courtesyTone> ^
+fort ^
+{ F, O, R, T\. } ^
+fortunat ^
+{ F, O, R, T, U, N, A, T\. } ^
+fortunately ^
+{ F, O, R, T, U, N, A, T, E, L, Y\.\.\. fortunately\. } ^
+fortunately ^
+<courtesyTone> ^
+pote ^
+{ P, O, T, E\. } ^
+potentia ^
+{ P, O, T, E, N, T, I, A\. } ^
+potentially ^
+{ P, O, T, E, N, T, I, A, L, L, Y\.\.\. potentially\. } ^
+potentially ^
+<courtesyTone> ^
+impl ^
+{ I, M, P, L\. } ^
+implicat ^
+{ I, M, P, L, I, C, A, T\. } ^
+implication ^
+{ I, M, P, L, I, C, A, T, I, O, N\.\.\. implication\. } ^
+implication ^
+<courtesyTone> ^
+fire ^
+{ F, I, R, E\. } ^
+firefigh ^
+{ F, I, R, E, F, I, G, H\. } ^
+firefighter ^
+{ F, I, R, E, F, I, G, H, T, E, R\.\.\. firefighter\. } ^
+firefighter ^
+<courtesyTone> ^
+supe ^
+{ S, U, P, E\. } ^
+supermar ^
+{ S, U, P, E, R, M, A, R\. } ^
+supermarket ^
+{ S, U, P, E, R, M, A, R, K, E, T\.\.\. supermarket\. } ^
+supermarket ^
+<courtesyTone> ^
+dest ^
+{ D, E, S, T\. } ^
+destruct ^
+{ D, E, S, T, R, U, C, T\. } ^
+destruction ^
+{ D, E, S, T, R, U, C, T, I, O, N\.\.\. destruction\. } ^
+destruction ^
+<courtesyTone> ^
+none ^
+{ N, O, N, E\. } ^
+nonethel ^
+{ N, O, N, E, T, H, E, L\. } ^
+nonetheless ^
+{ N, O, N, E, T, H, E, L, E, S, S\.\.\. nonetheless\. } ^
+nonetheless ^
+<courtesyTone> ^
+anni ^
+{ A, N, N, I\. } ^
+annivers ^
+{ A, N, N, I, V, E, R, S\. } ^
+anniversary ^
+{ A, N, N, I, V, E, R, S, A, R, Y\.\.\. anniversary\. } ^
+anniversary ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accommod ^
+{ A, C, C, O, M, M, O, D\. } ^
+accommodate ^
+{ A, C, C, O, M, M, O, D, A, T, E\.\.\. accommodate\. } ^
+accommodate ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distinct ^
+{ D, I, S, T, I, N, C, T\. } ^
+distinctive ^
+{ D, I, S, T, I, N, C, T, I, V, E\.\.\. distinctive\. } ^
+distinctive ^
+<courtesyTone> ^
+bure ^
+{ B, U, R, E\. } ^
+bureaucr ^
+{ B, U, R, E, A, U, C, R\. } ^
+bureaucracy ^
+{ B, U, R, E, A, U, C, R, A, C, Y\.\.\. bureaucracy\. } ^
+bureaucracy ^
+<courtesyTone> ^
+chal ^
+{ C, H, A, L\. } ^
+challeng ^
+{ C, H, A, L, L, E, N, G\. } ^
+challenging ^
+{ C, H, A, L, L, E, N, G, I, N, G\.\.\. challenging\. } ^
+challenging ^
+<courtesyTone> ^
+inst ^
+{ I, N, S, T\. } ^
+institut ^
+{ I, N, S, T, I, T, U, T\. } ^
+institution ^
+{ I, N, S, T, I, T, U, T, I, O, N\.\.\. institution\. } ^
+institution ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislation ^
+{ L, E, G, I, S, L, A, T, I, O, N\.\.\. legislation\. } ^
+legislation ^
+<courtesyTone> ^
+inst ^
+{ I, N, S, T\. } ^
+instruct ^
+{ I, N, S, T, R, U, C, T\. } ^
+instruction ^
+{ I, N, S, T, R, U, C, T, I, O, N\.\.\. instruction\. } ^
+instruction ^
+<courtesyTone> ^
+fund ^
+{ F, U, N, D\. } ^
+fundamen ^
+{ F, U, N, D, A, M, E, N\. } ^
+fundamental ^
+{ F, U, N, D, A, M, E, N, T, A, L\.\.\. fundamental\. } ^
+fundamental ^
+<courtesyTone> ^
+furt ^
+{ F, U, R, T\. } ^
+furtherm ^
+{ F, U, R, T, H, E, R, M\. } ^
+furthermore ^
+{ F, U, R, T, H, E, R, M, O, R, E\.\.\. furthermore\. } ^
+furthermore ^
+<courtesyTone> ^
+will ^
+{ W, I, L, L\. } ^
+willingn ^
+{ W, I, L, L, I, N, G, N\. } ^
+willingness ^
+{ W, I, L, L, I, N, G, N, E, S, S\.\.\. willingness\. } ^
+willingness ^
+<courtesyTone> ^
+insp ^
+{ I, N, S, P\. } ^
+inspirat ^
+{ I, N, S, P, I, R, A, T\. } ^
+inspiration ^
+{ I, N, S, P, I, R, A, T, I, O, N\.\.\. inspiration\. } ^
+inspiration ^
+<courtesyTone> ^
+appr ^
+{ A, P, P, R\. } ^
+appropri ^
+{ A, P, P, R, O, P, R, I\. } ^
+appropriate ^
+{ A, P, P, R, O, P, R, I, A, T, E\.\.\. appropriate\. } ^
+appropriate ^
+<courtesyTone> ^
+unne ^
+{ U, N, N, E\. } ^
+unnecess ^
+{ U, N, N, E, C, E, S, S\. } ^
+unnecessary ^
+{ U, N, N, E, C, E, S, S, A, R, Y\.\.\. unnecessary\. } ^
+unnecessary ^
+<courtesyTone> ^
+circ ^
+{ C, I, R, C\. } ^
+circulat ^
+{ C, I, R, C, U, L, A, T\. } ^
+circulation ^
+{ C, I, R, C, U, L, A, T, I, O, N\.\.\. circulation\. } ^
+circulation ^
+<courtesyTone> ^
+pros ^
+{ P, R, O, S\. } ^
+prosecut ^
+{ P, R, O, S, E, C, U, T\. } ^
+prosecution ^
+{ P, R, O, S, E, C, U, T, I, O, N\.\.\. prosecution\. } ^
+prosecution ^
+<courtesyTone> ^
+agri ^
+{ A, G, R, I\. } ^
+agricult ^
+{ A, G, R, I, C, U, L, T\. } ^
+agriculture ^
+{ A, G, R, I, C, U, L, T, U, R, E\.\.\. agriculture\. } ^
+agriculture ^
+<courtesyTone> ^
+envi ^
+{ E, N, V, I\. } ^
+environm ^
+{ E, N, V, I, R, O, N, M\. } ^
+environment ^
+{ E, N, V, I, R, O, N, M, E, N, T\.\.\. environment\. } ^
+environment ^
+<courtesyTone> ^
+endo ^
+{ E, N, D, O\. } ^
+endorsem ^
+{ E, N, D, O, R, S, E, M\. } ^
+endorsement ^
+{ E, N, D, O, R, S, E, M, E, N, T\.\.\. endorsement\. } ^
+endorsement ^
+<courtesyTone> ^
+emot ^
+{ E, M, O, T\. } ^
+emotiona ^
+{ E, M, O, T, I, O, N, A\. } ^
+emotionally ^
+{ E, M, O, T, I, O, N, A, L, L, Y\.\.\. emotionally\. } ^
+emotionally ^
+<courtesyTone> ^
+batt ^
+{ B, A, T, T\. } ^
+battlefi ^
+{ B, A, T, T, L, E, F, I\. } ^
+battlefield ^
+{ B, A, T, T, L, E, F, I, E, L, D\.\.\. battlefield\. } ^
+battlefield ^
+<courtesyTone> ^
+inca ^
+{ I, N, C, A\. } ^
+incarcer ^
+{ I, N, C, A, R, C, E, R\. } ^
+incarcerate ^
+{ I, N, C, A, R, C, E, R, A, T, E\.\.\. incarcerate\. } ^
+incarcerate ^
+<courtesyTone> ^
+recr ^
+{ R, E, C, R\. } ^
+recruitm ^
+{ R, E, C, R, U, I, T, M\. } ^
+recruitment ^
+{ R, E, C, R, U, I, T, M, E, N, T\.\.\. recruitment\. } ^
+recruitment ^
+<courtesyTone> ^
+shar ^
+{ S, H, A, R\. } ^
+sharehol ^
+{ S, H, A, R, E, H, O, L\. } ^
+shareholder ^
+{ S, H, A, R, E, H, O, L, D, E, R\.\.\. shareholder\. } ^
+shareholder ^
+<courtesyTone> ^
+real ^
+{ R, E, A, L\. } ^
+realizat ^
+{ R, E, A, L, I, Z, A, T\. } ^
+realization ^
+{ R, E, A, L, I, Z, A, T, I, O, N\.\.\. realization\. } ^
+realization ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interest ^
+{ I, N, T, E, R, E, S, T\. } ^
+interesting ^
+{ I, N, T, E, R, E, S, T, I, N, G\.\.\. interesting\. } ^
+interesting ^
+<courtesyTone> ^
+infl ^
+{ I, N, F, L\. } ^
+influent ^
+{ I, N, F, L, U, E, N, T\. } ^
+influential ^
+{ I, N, F, L, U, E, N, T, I, A, L\.\.\. influential\. } ^
+influential ^
+<courtesyTone> ^
+fund ^
+{ F, U, N, D\. } ^
+fundrais ^
+{ F, U, N, D, R, A, I, S\. } ^
+fundraising ^
+{ F, U, N, D, R, A, I, S, I, N, G\.\.\. fundraising\. } ^
+fundraising ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandmot ^
+{ G, R, A, N, D, M, O, T\. } ^
+grandmother ^
+{ G, R, A, N, D, M, O, T, H, E, R\.\.\. grandmother\. } ^
+grandmother ^
+<courtesyTone> ^
+legi ^
+{ L, E, G, I\. } ^
+legislat ^
+{ L, E, G, I, S, L, A, T\. } ^
+legislature ^
+{ L, E, G, I, S, L, A, T, U, R, E\.\.\. legislature\. } ^
+legislature ^
+<courtesyTone> ^
+dete ^
+{ D, E, T, E\. } ^
+deterior ^
+{ D, E, T, E, R, I, O, R\. } ^
+deteriorate ^
+{ D, E, T, E, R, I, O, R, A, T, E\.\.\. deteriorate\. } ^
+deteriorate ^
+<courtesyTone> ^
+coin ^
+{ C, O, I, N\. } ^
+coincide ^
+{ C, O, I, N, C, I, D, E\. } ^
+coincidence ^
+{ C, O, I, N, C, I, D, E, N, C, E\.\.\. coincidence\. } ^
+coincidence ^
+<courtesyTone> ^
+frus ^
+{ F, R, U, S\. } ^
+frustrat ^
+{ F, R, U, S, T, R, A, T\. } ^
+frustrating ^
+{ F, R, U, S, T, R, A, T, I, N, G\.\.\. frustrating\. } ^
+frustrating ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+controve ^
+{ C, O, N, T, R, O, V, E\. } ^
+controversy ^
+{ C, O, N, T, R, O, V, E, R, S, Y\.\.\. controversy\. } ^
+controversy ^
+<courtesyTone> ^
+corp ^
+{ C, O, R, P\. } ^
+corporat ^
+{ C, O, R, P, O, R, A, T\. } ^
+corporation ^
+{ C, O, R, P, O, R, A, T, I, O, N\.\.\. corporation\. } ^
+corporation ^
+<courtesyTone> ^
+coop ^
+{ C, O, O, P\. } ^
+cooperat ^
+{ C, O, O, P, E, R, A, T\. } ^
+cooperative ^
+{ C, O, O, P, E, R, A, T, I, V, E\.\.\. cooperative\. } ^
+cooperative ^
+<courtesyTone> ^
+main ^
+{ M, A, I, N\. } ^
+maintena ^
+{ M, A, I, N, T, E, N, A\. } ^
+maintenance ^
+{ M, A, I, N, T, E, N, A, N, C, E\.\.\. maintenance\. } ^
+maintenance ^
+<courtesyTone> ^
+comp ^
+{ C, O, M, P\. } ^
+composit ^
+{ C, O, M, P, O, S, I, T\. } ^
+composition ^
+{ C, O, M, P, O, S, I, T, I, O, N\.\.\. composition\. } ^
+composition ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+contempl ^
+{ C, O, N, T, E, M, P, L\. } ^
+contemplate ^
+{ C, O, N, T, E, M, P, L, A, T, E\.\.\. contemplate\. } ^
+contemplate ^
+<courtesyTone> ^
+elec ^
+{ E, L, E, C\. } ^
+electric ^
+{ E, L, E, C, T, R, I, C\. } ^
+electricity ^
+{ E, L, E, C, T, R, I, C, I, T, Y\.\.\. electricity\. } ^
+electricity ^
+<courtesyTone> ^
+expl ^
+{ E, X, P, L\. } ^
+explorat ^
+{ E, X, P, L, O, R, A, T\. } ^
+exploration ^
+{ E, X, P, L, O, R, A, T, I, O, N\.\.\. exploration\. } ^
+exploration ^
+<courtesyTone> ^
+prel ^
+{ P, R, E, L\. } ^
+prelimin ^
+{ P, R, E, L, I, M, I, N\. } ^
+preliminary ^
+{ P, R, E, L, I, M, I, N, A, R, Y\.\.\. preliminary\. } ^
+preliminary ^
+<courtesyTone> ^
+repl ^
+{ R, E, P, L\. } ^
+replacem ^
+{ R, E, P, L, A, C, E, M\. } ^
+replacement ^
+{ R, E, P, L, A, C, E, M, E, N, T\.\.\. replacement\. } ^
+replacement ^
+<courtesyTone> ^
+requ ^
+{ R, E, Q, U\. } ^
+requirem ^
+{ R, E, Q, U, I, R, E, M\. } ^
+requirement ^
+{ R, E, Q, U, I, R, E, M, E, N, T\.\.\. requirement\. } ^
+requirement ^
+<courtesyTone> ^
+effi ^
+{ E, F, F, I\. } ^
+efficien ^
+{ E, F, F, I, C, I, E, N\. } ^
+efficiently ^
+{ E, F, F, I, C, I, E, N, T, L, Y\.\.\. efficiently\. } ^
+efficiently ^
+<courtesyTone> ^
+dist ^
+{ D, I, S, T\. } ^
+distingu ^
+{ D, I, S, T, I, N, G, U\. } ^
+distinguish ^
+{ D, I, S, T, I, N, G, U, I, S, H\.\.\. distinguish\. } ^
+distinguish ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+expendit ^
+{ E, X, P, E, N, D, I, T\. } ^
+expenditure ^
+{ E, X, P, E, N, D, I, T, U, R, E\.\.\. expenditure\. } ^
+expenditure ^
+<courtesyTone> ^
+math ^
+{ M, A, T, H\. } ^
+mathemat ^
+{ M, A, T, H, E, M, A, T\. } ^
+mathematics ^
+{ M, A, T, H, E, M, A, T, I, C, S\.\.\. mathematics\. } ^
+mathematics ^
+<courtesyTone> ^
+nece ^
+{ N, E, C, E\. } ^
+necessar ^
+{ N, E, C, E, S, S, A, R\. } ^
+necessarily ^
+{ N, E, C, E, S, S, A, R, I, L, Y\.\.\. necessarily\. } ^
+necessarily ^
+<courtesyTone> ^
+calc ^
+{ C, A, L, C\. } ^
+calculat ^
+{ C, A, L, C, U, L, A, T\. } ^
+calculation ^
+{ C, A, L, C, U, L, A, T, I, O, N\.\.\. calculation\. } ^
+calculation ^
+<courtesyTone> ^
+achi ^
+{ A, C, H, I\. } ^
+achievem ^
+{ A, C, H, I, E, V, E, M\. } ^
+achievement ^
+{ A, C, H, I, E, V, E, M, E, N, T\.\.\. achievement\. } ^
+achievement ^
+<courtesyTone> ^
+conc ^
+{ C, O, N, C\. } ^
+concentr ^
+{ C, O, N, C, E, N, T, R\. } ^
+concentrate ^
+{ C, O, N, C, E, N, T, R, A, T, E\.\.\. concentrate\. } ^
+concentrate ^
+<courtesyTone> ^
+flex ^
+{ F, L, E, X\. } ^
+flexibil ^
+{ F, L, E, X, I, B, I, L\. } ^
+flexibility ^
+{ F, L, E, X, I, B, I, L, I, T, Y\.\.\. flexibility\. } ^
+flexibility ^
+<courtesyTone> ^
+prep ^
+{ P, R, E, P\. } ^
+preparat ^
+{ P, R, E, P, A, R, A, T\. } ^
+preparation ^
+{ P, R, E, P, A, R, A, T, I, O, N\.\.\. preparation\. } ^
+preparation ^
+<courtesyTone> ^
+sign ^
+{ S, I, G, N\. } ^
+signific ^
+{ S, I, G, N, I, F, I, C\. } ^
+significant ^
+{ S, I, G, N, I, F, I, C, A, N, T\.\.\. significant\. } ^
+significant ^
+<courtesyTone> ^
+outs ^
+{ O, U, T, S\. } ^
+outstand ^
+{ O, U, T, S, T, A, N, D\. } ^
+outstanding ^
+{ O, U, T, S, T, A, N, D, I, N, G\.\.\. outstanding\. } ^
+outstanding ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+integrat ^
+{ I, N, T, E, G, R, A, T\. } ^
+integration ^
+{ I, N, T, E, G, R, A, T, I, O, N\.\.\. integration\. } ^
+integration ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+particip ^
+{ P, A, R, T, I, C, I, P\. } ^
+participant ^
+{ P, A, R, T, I, C, I, P, A, N, T\.\.\. participant\. } ^
+participant ^
+<courtesyTone> ^
+expe ^
+{ E, X, P, E\. } ^
+expectat ^
+{ E, X, P, E, C, T, A, T\. } ^
+expectation ^
+{ E, X, P, E, C, T, A, T, I, O, N\.\.\. expectation\. } ^
+expectation ^
+<courtesyTone> ^
+oppo ^
+{ O, P, P, O\. } ^
+opportun ^
+{ O, P, P, O, R, T, U, N\. } ^
+opportunity ^
+{ O, P, P, O, R, T, U, N, I, T, Y\.\.\. opportunity\. } ^
+opportunity ^
+<courtesyTone> ^
+part ^
+{ P, A, R, T\. } ^
+partners ^
+{ P, A, R, T, N, E, R, S\. } ^
+partnership ^
+{ P, A, R, T, N, E, R, S, H, I, P\.\.\. partnership\. } ^
+partnership ^
+<courtesyTone> ^
+spec ^
+{ S, P, E, C\. } ^
+speciali ^
+{ S, P, E, C, I, A, L, I\. } ^
+specialized ^
+{ S, P, E, C, I, A, L, I, Z, E, D\.\.\. specialized\. } ^
+specialized ^
+<courtesyTone> ^
+desc ^
+{ D, E, S, C\. } ^
+descript ^
+{ D, E, S, C, R, I, P, T\. } ^
+description ^
+{ D, E, S, C, R, I, P, T, I, O, N\.\.\. description\. } ^
+description ^
+<courtesyTone> ^
+resi ^
+{ R, E, S, I\. } ^
+resident ^
+{ R, E, S, I, D, E, N, T\. } ^
+residential ^
+{ R, E, S, I, D, E, N, T, I, A, L\.\.\. residential\. } ^
+residential ^
+<courtesyTone> ^
+obse ^
+{ O, B, S, E\. } ^
+observat ^
+{ O, B, S, E, R, V, A, T\. } ^
+observation ^
+{ O, B, S, E, R, V, A, T, I, O, N\.\.\. observation\. } ^
+observation ^
+<courtesyTone> ^
+cons ^
+{ C, O, N, S\. } ^
+consecut ^
+{ C, O, N, S, E, C, U, T\. } ^
+consecutive ^
+{ C, O, N, S, E, C, U, T, I, V, E\.\.\. consecutive\. } ^
+consecutive ^
+<courtesyTone> ^
+cred ^
+{ C, R, E, D\. } ^
+credibil ^
+{ C, R, E, D, I, B, I, L\. } ^
+credibility ^
+{ C, R, E, D, I, B, I, L, I, T, Y\.\.\. credibility\. } ^
+credibility ^
+<courtesyTone> ^
+imag ^
+{ I, M, A, G\. } ^
+imaginat ^
+{ I, M, A, G, I, N, A, T\. } ^
+imagination ^
+{ I, M, A, G, I, N, A, T, I, O, N\.\.\. imagination\. } ^
+imagination ^
+<courtesyTone> ^
+imme ^
+{ I, M, M, E\. } ^
+immediat ^
+{ I, M, M, E, D, I, A, T\. } ^
+immediately ^
+{ I, M, M, E, D, I, A, T, E, L, Y\.\.\. immediately\. } ^
+immediately ^
+<courtesyTone> ^
+rest ^
+{ R, E, S, T\. } ^
+restorat ^
+{ R, E, S, T, O, R, A, T\. } ^
+restoration ^
+{ R, E, S, T, O, R, A, T, I, O, N\.\.\. restoration\. } ^
+restoration ^
+<courtesyTone> ^
+fasc ^
+{ F, A, S, C\. } ^
+fascinat ^
+{ F, A, S, C, I, N, A, T\. } ^
+fascinating ^
+{ F, A, S, C, I, N, A, T, I, N, G\.\.\. fascinating\. } ^
+fascinating ^
+<courtesyTone> ^
+resi ^
+{ R, E, S, I\. } ^
+resignat ^
+{ R, E, S, I, G, N, A, T\. } ^
+resignation ^
+{ R, E, S, I, G, N, A, T, I, O, N\.\.\. resignation\. } ^
+resignation ^
+<courtesyTone> ^
+pros ^
+{ P, R, O, S\. } ^
+prospect ^
+{ P, R, O, S, P, E, C, T\. } ^
+prospective ^
+{ P, R, O, S, P, E, C, T, I, V, E\.\.\. prospective\. } ^
+prospective ^
+<courtesyTone> ^
+emba ^
+{ E, M, B, A\. } ^
+embarras ^
+{ E, M, B, A, R, R, A, S\. } ^
+embarrassed ^
+{ E, M, B, A, R, R, A, S, S, E, D\.\.\. embarrassed\. } ^
+embarrassed ^
+<courtesyTone> ^
+perf ^
+{ P, E, R, F\. } ^
+performa ^
+{ P, E, R, F, O, R, M, A\. } ^
+performance ^
+{ P, E, R, F, O, R, M, A, N, C, E\.\.\. performance\. } ^
+performance ^
+<courtesyTone> ^
+acco ^
+{ A, C, C, O\. } ^
+accounta ^
+{ A, C, C, O, U, N, T, A\. } ^
+accountable ^
+{ A, C, C, O, U, N, T, A, B, L, E\.\.\. accountable\. } ^
+accountable ^
+<courtesyTone> ^
+trad ^
+{ T, R, A, D\. } ^
+traditio ^
+{ T, R, A, D, I, T, I, O\. } ^
+traditional ^
+{ T, R, A, D, I, T, I, O, N, A, L\.\.\. traditional\. } ^
+traditional ^
+<courtesyTone> ^
+prob ^
+{ P, R, O, B\. } ^
+problema ^
+{ P, R, O, B, L, E, M, A\. } ^
+problematic ^
+{ P, R, O, B, L, E, M, A, T, I, C\.\.\. problematic\. } ^
+problematic ^
+<courtesyTone> ^
+excl ^
+{ E, X, C, L\. } ^
+exclusiv ^
+{ E, X, C, L, U, S, I, V\. } ^
+exclusively ^
+{ E, X, C, L, U, S, I, V, E, L, Y\.\.\. exclusively\. } ^
+exclusively ^
+<courtesyTone> ^
+exte ^
+{ E, X, T, E\. } ^
+extensiv ^
+{ E, X, T, E, N, S, I, V\. } ^
+extensively ^
+{ E, X, T, E, N, S, I, V, E, L, Y\.\.\. extensively\. } ^
+extensively ^
+<courtesyTone> ^
+exam ^
+{ E, X, A, M\. } ^
+examinat ^
+{ E, X, A, M, I, N, A, T\. } ^
+examination ^
+{ E, X, A, M, I, N, A, T, I, O, N\.\.\. examination\. } ^
+examination ^
+<courtesyTone> ^
+fort ^
+{ F, O, R, T\. } ^
+forthcom ^
+{ F, O, R, T, H, C, O, M\. } ^
+forthcoming ^
+{ F, O, R, T, H, C, O, M, I, N, G\.\.\. forthcoming\. } ^
+forthcoming ^
+<courtesyTone> ^
+sove ^
+{ S, O, V, E\. } ^
+sovereig ^
+{ S, O, V, E, R, E, I, G\. } ^
+sovereignty ^
+{ S, O, V, E, R, E, I, G, N, T, Y\.\.\. sovereignty\. } ^
+sovereignty ^
+<courtesyTone> ^
+inte ^
+{ I, N, T, E\. } ^
+interact ^
+{ I, N, T, E, R, A, C, T\. } ^
+interactive ^
+{ I, N, T, E, R, A, C, T, I, V, E\.\.\. interactive\. } ^
+interactive ^
+<courtesyTone> ^
+asto ^
+{ A, S, T, O\. } ^
+astonish ^
+{ A, S, T, O, N, I, S, H\. } ^
+astonishing ^
+{ A, S, T, O, N, I, S, H, I, N, G\.\.\. astonishing\. } ^
+astonishing ^
+<courtesyTone> ^
+phot ^
+{ P, H, O, T\. } ^
+photogra ^
+{ P, H, O, T, O, G, R, A\. } ^
+photography ^
+{ P, H, O, T, O, G, R, A, P, H, Y\.\.\. photography\. } ^
+photography ^
+<courtesyTone> ^
+pres ^
+{ P, R, E, S\. } ^
+prestigi ^
+{ P, R, E, S, T, I, G, I\. } ^
+prestigious ^
+{ P, R, E, S, T, I, G, I, O, U, S\.\.\. prestigious\. } ^
+prestigious ^
+<courtesyTone> ^
+frig ^
+{ F, R, I, G\. } ^
+frighten ^
+{ F, R, I, G, H, T, E, N\. } ^
+frightening ^
+{ F, R, I, G, H, T, E, N, I, N, G\.\.\. frightening\. } ^
+frightening ^
+<courtesyTone> ^
+acqu ^
+{ A, C, Q, U\. } ^
+acquisit ^
+{ A, C, Q, U, I, S, I, T\. } ^
+acquisition ^
+{ A, C, Q, U, I, S, I, T, I, O, N\.\.\. acquisition\. } ^
+acquisition ^
+<courtesyTone> ^
+coun ^
+{ C, O, U, N\. } ^
+counterp ^
+{ C, O, U, N, T, E, R, P\. } ^
+counterpart ^
+{ C, O, U, N, T, E, R, P, A, R, T\.\.\. counterpart\. } ^
+counterpart ^
+<courtesyTone> ^
+coor ^
+{ C, O, O, R\. } ^
+coordina ^
+{ C, O, O, R, D, I, N, A\. } ^
+coordinator ^
+{ C, O, O, R, D, I, N, A, T, O, R\.\.\. coordinator\. } ^
+coordinator ^
+<courtesyTone> ^
+gran ^
+{ G, R, A, N\. } ^
+grandpar ^
+{ G, R, A, N, D, P, A, R\. } ^
+grandparent ^
+{ G, R, A, N, D, P, A, R, E, N, T\.\.\. grandparent\. } ^
+grandparent ^
+<courtesyTone> ^
+cont ^
+{ C, O, N, T\. } ^
+contribu ^
+{ C, O, N, T, R, I, B, U\. } ^
+contributor ^
+{ C, O, N, T, R, I, B, U, T, O, R\.\.\. contributor\. } ^
+contributor ^
+<courtesyTone> ^
+unce ^
+{ U, N, C, E\. } ^
+uncertai ^
+{ U, N, C, E, R, T, A, I\. } ^
+uncertainty ^
+{ U, N, C, E, R, T, A, I, N, T, Y\.\.\. uncertainty\. } ^
+uncertainty ^
+<courtesyTone> ^
+cert ^
+{ C, E, R, T\. } ^
+certific ^
+{ C, E, R, T, I, F, I, C\. } ^
+certificate ^
+{ C, E, R, T, I, F, I, C, A, T, E\.\.\. certificate\. } ^
+certificate ^
+<courtesyTone> ^

@@ -33,11 +33,14 @@ GetOptions(
   'e|engine=s'        => \(my $text_to_speech_engine = "neural"), # neural | standard
   'sm|silencemorse=s' => \(my $silence_between_morse_code_and_spoken_voice = "1"),
   'ss|silencesets=s'  => \(my $silence_between_sets = "1"), # typically "1" sec
-  'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # $silence_between_sets; # typically 1 second
+  'st|silencemanualcourtesytone=s' => \(my $silence_before_manual_courtesy_tone = "1"), # This ONLY comes into play when the practice set manually specifies a courtesy tone with <courtesyTone>
+  'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # typically 1 second
+  'sc|silencecontext=s' => \(my $silence_between_context_and_morse_code = "1"),
   'x|extraspace=s'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
   'p|pitchtone=i'     => \(my $pitch_tone = 700), # tone in Hz for pitch
   'pr|pitchrandom'    => \(my $pitch_tone_random = '0'), # flag. 0 == false, random pitch tone
+  'speedAdjustRegex=s'=> \(my $speedAdjustRegex = "") # format Eg., s/<speed1>/1.5/,s/<speed2>/2.5/
 ) or print_usage();
 
 if("$input_filename" eq "") {
@@ -127,7 +130,23 @@ if(!$test) {
   @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
              "-t", "$silence_between_voice_and_repeat", "-codec:a", "libmp3lame",
              "-b:a", "256k", "$output_directory/silence2.mp3");
-  # print "cmd-3: @cmdLst\n";
+  # print "cmd-3a: @cmdLst\n";
+  system(@cmdLst) == 0 or die "ERROR 3: @cmdLst failed, $!\n";
+
+  # This is the silence between the context and the Morse code
+  unlink "$output_directory/silence3.mp3" if (-f "$output_directory/silence3.mp3");
+  @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
+      "-t", "$silence_between_context_and_morse_code", "-codec:a", "libmp3lame",
+      "-b:a", "256k", "$output_directory/silence3.mp3");
+  # print "cmd-3b: @cmdLst\n";
+  system(@cmdLst) == 0 or die "ERROR 3: @cmdLst failed, $!\n";
+
+  # This is the silence between the context and the Morse code
+  unlink "$output_directory/silence4.mp3" if (-f "$output_directory/silence4.mp3");
+  @cmdLst = ("ffmpeg", "-f", "lavfi", "-i", "anullsrc=channel_layout=5.1:sample_rate=22050",
+      "-t", "$silence_before_manual_courtesy_tone", "-codec:a", "libmp3lame",
+      "-b:a", "256k", "$output_directory/silence4.mp3");
+  # print "cmd-3c: @cmdLst\n";
   system(@cmdLst) == 0 or die "ERROR 3: @cmdLst failed, $!\n";
 
   #create quieter tone
@@ -244,9 +263,27 @@ sub split_long_sentence {
 
 sub split_on_spoken_directive {
   my $raw = $_[0];
+  my $is_courtesy_tone = 0;
+
+  # example "{ weather } ^"
+  # Used to provide contextual priming
+  if($raw =~ m/^\s*\{(.*)\}\s*\^$/) {
+    my $sentence_part = "";
+    my $spoken_directive = $1;
+    $spoken_directive =~ s/\\//g;
+    my $repeat_part = "";
+    return ($is_courtesy_tone, $sentence_part, $spoken_directive, $repeat_part);
+
+  # example "<courtesyTone> ^"
+  } elsif($raw =~ m/\<courtesyTone\>/i) {
+    $is_courtesy_tone = 1;
+    my $sentence_part = "";
+    my $spoken_directive = "";
+    my $repeat_part = "";
+    return ($is_courtesy_tone, $sentence_part, $spoken_directive, $repeat_part);
 
   #example "MD MD MD [Maryland|MD]^"
-  if($raw =~ m/(.*?)\h*\[(.*?)(\|(.*?))?\]\h*([\^|\.|\?])$/) {
+  } elsif($raw =~ m/(.*?)\h*\[(.*?)(\|(.*?))?\]\h*([\^|\.|\?])$/) {
     my $sentence_part = $1.$5;
     my $spoken_directive = $2.$5;
     my $repeat_part = $4.$5;
@@ -279,7 +316,7 @@ sub split_on_spoken_directive {
       $repeat_part = $sentence_part;
     }
 
-    return ($sentence_part, $spoken_directive, $repeat_part);
+    return ($is_courtesy_tone, $sentence_part, $spoken_directive, $repeat_part);
   } else {
     #temporarily change word speed directive so we can filter invalid characters
 
@@ -290,7 +327,7 @@ sub split_on_spoken_directive {
 
     $raw =~ s/XXXWORDSPEEDXXX/|/g;
 
-    return ($raw, $raw, $raw);
+    return ($is_courtesy_tone, $raw, $raw, $raw);
   }
 
 }
@@ -333,8 +370,9 @@ foreach(@sentences) {
     print $fh_structure "======> $sentence\n";
     print $fh_all "${sentence}\n";
 
-    my($sentence_part, $spoken_directive, $repeat_part) = split_on_spoken_directive($sentence);
+    my($is_courtsey_tone, $sentence_part, $spoken_directive, $repeat_part) = split_on_spoken_directive($sentence);
     if($word_limit == -1) {
+      print "is_courtesy_tone: $is_courtsey_tone\n";
       print "sentence_part: $sentence_part\n";
       print "spoken_directive: $spoken_directive\n";
       print "repeat_part: $repeat_part\n\n";
@@ -346,6 +384,96 @@ foreach(@sentences) {
       exit 1;
     }
 
+    # Warning this logic must stay in sync with tex2speech.py
+    sub get_text2speech_cached_filename {
+      my ($lang, $sentence, $cache_directory) = @_;
+
+      my $cached_filename = "";
+      if($lang eq 'ENGLISH') {
+        if ($sentence =~ m/<speak>.*?<\/speak>/) {
+          $cached_filename = "Mathew-exact-";
+        } elsif ($sentence =~ m/^\s*([A-Za-z]{1,4})\s*$/) {
+          $cached_filename = "Mathew-slowly-";
+        } else {
+          $cached_filename = "Mathew-standard-";
+        }
+      } else {
+        $cached_filename = "${lang}-standard-";
+      }
+
+      $cached_filename .= $text_to_speech_engine . "-" . sha256_hex($sentence) . ".mp3";
+      $cached_filename = $cache_directory . $cached_filename;
+
+      return $cached_filename;
+    }
+
+    sub get_text2speech {
+      my ($counter, $spoken_text, $filename_map_key) = @_;
+
+      # Generate spoken section
+      if($word_limit != -1) {
+        rename("$output_directory/sentence.txt", '$filename_base-$counter.txt');
+      } else {
+        open(my $fh_spoken, '>', "$filename_base-$counter.txt");
+        print $fh_spoken "$spoken_text\n";
+        close $fh_spoken;
+      }
+
+
+      my $exit_code = -1;
+      my $voiced_filename = get_text2speech_cached_filename($lang, "$spoken_text\n", $cache_directory);
+      if(-e $voiced_filename) {
+        $filename_map{$filename_map_key} = $voiced_filename;
+      } else {
+        while ($exit_code != 0 && (!$no_spoken || $filename_map_key =~ m/context/)) {
+          my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
+
+          my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
+          print "execute $cmd\n";
+
+          my $output = `$cmd`;
+          print "$output";
+          $exit_code = $?;
+          $output =~ m/Cached filename:(.*)\n/;
+          my $voiced_filename = $1;
+          print "voiced_filename: $voiced_filename\n";
+          $filename_map{$filename_map_key} = $voiced_filename;
+          if ($exit_code == -1) {
+            print "ERROR: text2speech.py failed to execute: $!\n";
+            exit 1;
+          }
+          elsif ($exit_code & 127) {
+            printf "text2speech.py died with signal %d, %s coredump\n",
+                ($exit_code & 127), ($exit_code & 128) ? 'with' : 'without';
+            exit 1;
+          }
+          else {
+            my $ecode = $exit_code >> 8;
+            printf "text2speech.py exited with value %d\n", $ecode;
+
+            if ($ecode == 1) {
+              print "text2speech.py exit_code: $exit_code\n";
+              exit 1;
+            }
+            elsif ($ecode == $t2sIOError) {
+              print "ERROR: text2speech.py error reading aws.properties file\n";
+              exit 1;
+            }
+          }
+        }
+      }
+
+    }
+
+    my $counter = sprintf("%05d",$count);
+    if($is_courtsey_tone == 1) {
+      $filename_map{"$counter-courtesyTone"} = 1;
+      $count++;
+    } elsif($sentence_part eq "" && $repeat_part eq "" && $spoken_directive ne "") {
+      get_text2speech($counter, $spoken_directive, "$counter-context");
+      $count++;
+    }
+
     my @partial_sentence = $sentence_part;
     if($word_limit != -1) {
       @partial_sentence = split_long_sentence($sentence);
@@ -353,7 +481,7 @@ foreach(@sentences) {
     foreach(@partial_sentence) {
       print "---- loop 1 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n";
       print "---- debug: partial sentence: $_\n";
-            
+
       my $num_chunks++;
       my $sentence_chunk = $_;
 
@@ -365,11 +493,8 @@ foreach(@sentences) {
 
         if(!$test) {
           $sentence_chunk =~ s/^\s+|\s+$//g; #extra space on the end adds new line!
-          open(my $fh, '>', "$output_directory/sentence.txt");
-          print $fh "$sentence_chunk\n";
-          close $fh;
 
-          my $counter = sprintf("%05d",$count);
+          $counter = sprintf("%05d",$count);
           my $fork_count = 0;
 
           sub uniq {
@@ -467,6 +592,24 @@ foreach(@sentences) {
               return $cached_file_with_path;
             }
 
+            open(my $fh, '>', "$output_directory/sentence-${speed}.txt");
+            my $updated_sentence_chunk = $sentence_chunk;
+            if($sentence_chunk ne "") {
+              my @speed_regexes = split(/,/, $speedAdjustRegex);
+              foreach(@speed_regexes) {
+                my $regex = $_;
+                if($regex =~ m/s\/(.*?)\/(.*?)\//) {
+                  my $speed_text_to_substitute = $1;
+                  my $multiplier = int($2 * $speed);
+
+                  $updated_sentence_chunk =~ s/$speed_text_to_substitute/|w$multiplier/g;
+                }
+
+              }
+            }
+            print $fh "$updated_sentence_chunk\n";
+            close $fh;
+
             my $cached_filename = get_cached_filename($ebookCmdBase, $sentence_chunk);
             $filename_map{"$counter-$speed"} = $cached_filename;
 
@@ -484,29 +627,6 @@ foreach(@sentences) {
               $filename_map{"$counter-repeat-$speed"} = $cached_repeat_filename;
             }
 
-            # Warning this logic must stay in sync with tex2speech.py
-            sub get_text2speech_cached_filename {
-              my ($lang, $sentence, $cache_directory) = @_;
-
-              my $cached_filename = "";
-              if($lang eq 'ENGLISH') {
-                if ($sentence =~ m/<speak>.*?<\/speak>/) {
-                  $cached_filename = "Mathew-exact-";
-                } elsif ($sentence =~ m/^\s*([A-Za-z]{1,4})\s*$/) {
-                  $cached_filename = "Mathew-slowly-";
-                } else {
-                  $cached_filename = "Mathew-standard-";
-                }
-              } else {
-                $cached_filename = "${lang}-standard-";
-              }
-
-              $cached_filename .= $text_to_speech_engine . "-" . sha256_hex($sentence) . ".mp3";
-              $cached_filename = $cache_directory . $cached_filename;
-
-              return $cached_filename;
-            }
-
             print "************** $ebookCmdBase \n";
             # Only fork if there is work to do
             if((! -f $cached_filename) || (!$no_repeat_morse && $word_limit == -1 &&
@@ -521,7 +641,8 @@ foreach(@sentences) {
               } else {
 
                 if (!-f $cached_filename) {
-                  $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-${speed} $output_directory/sentence.txt";
+                  $ebookCmd = $ebookCmdBase . "-o $output_directory/sentence-${speed} $output_directory/sentence-${speed}.txt";
+                  print "DEBUG ========  ======> cached filename no go\n";
                   #print "cmd-6: $ebookCmd\n";
 
                   system($ebookCmd) == 0 or die "ERROR 6: $ebookCmd failed, $!\n";
@@ -603,57 +724,9 @@ foreach(@sentences) {
             wait();
           }
 
-          # Generate spoken section
-          if($word_limit != -1) {
-              rename("$output_directory/sentence.txt", '$filename_base-$counter.txt');
-          } else {
-            open(my $fh_spoken, '>', "$filename_base-$counter.txt");
-            print $fh_spoken "$spoken_directive\n";
-            close $fh_spoken;
-          }
+          print "======> Generating text 2 speech for: $spoken_directive\n";
+          get_text2speech($counter, $spoken_directive, "$counter-voiced");
 
-          my $exit_code = -1;
-          my $voiced_filename = get_text2speech_cached_filename($lang, "$sentence_chunk\n", $cache_directory);
-          if(-e $voiced_filename) {
-            $filename_map{"$counter-voiced"} = $voiced_filename;
-          } else {
-            while ($exit_code != 0 && !$no_spoken) {
-              my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
-
-              my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
-              print "execute $cmd\n";
-
-              my $output = `$cmd`;
-              print "$output";
-              $exit_code = $?;
-              $output =~ m/Cached filename:(.*)\n/;
-              my $voiced_filename = $1;
-              print "voiced_filename: $voiced_filename\n";
-              $filename_map{"$counter-voiced"} = $voiced_filename;
-              if ($exit_code == -1) {
-                print "ERROR: text2speech.py failed to execute: $!\n";
-                exit 1;
-              }
-              elsif ($exit_code & 127) {
-                printf "text2speech.py died with signal %d, %s coredump\n",
-                    ($exit_code & 127), ($exit_code & 128) ? 'with' : 'without';
-                exit 1;
-              }
-              else {
-                my $ecode = $exit_code >> 8;
-                printf "text2speech.py exited with value %d\n", $ecode;
-
-                if ($ecode == 1) {
-                  print "text2speech.py exit_code: $exit_code\n";
-                  exit 1;
-                }
-                elsif ($ecode == $t2sIOError) {
-                  print "ERROR: text2speech.py error reading aws.properties file\n";
-                  exit 1;
-                }
-              }
-            }
-          }
         }
         $count++;
       }
@@ -706,17 +779,27 @@ if(!$test) {
   unlink "$cwd/silence-resampled1.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence1.mp3 $cwd/silence-resampled1.mp3";
   # print "cmd-11: $cmd\n";
-  system($cmd) == 0 or die "ERROR 11: $cmd failed, $!\n";;
+  system($cmd) == 0 or die "ERROR 11: $cmd failed, $!\n";
 
   unlink "$cwd/silence-resampled2.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence2.mp3 $cwd/silence-resampled2.mp3";
   # print "cmd-12: $cmd\n";
-  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";;
+  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";
+
+  unlink "$cwd/silence-resampled3.mp3";
+  $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence3.mp3 $cwd/silence-resampled3.mp3";
+  # print "cmd-12: $cmd\n";
+  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";
+
+  unlink "$cwd/silence-resampled4.mp3";
+  $cmd = "lame --resample 44.1 -a -b 256 $cwd/silence4.mp3 $cwd/silence-resampled4.mp3";
+  # print "cmd-12: $cmd\n";
+  system($cmd) == 0 or die "ERROR 12: $cmd failed, $!\n";
 
   unlink "$cwd/pluck-softer-resampled.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/pluck-softer.mp3 $cwd/pluck-softer-resampled.mp3";
   # print "cmd-13: $cmd\n";
-  system($cmd) == 0 or die "ERROR 13: $cmd failed, $!\n";;
+  system($cmd) == 0 or die "ERROR 13: $cmd failed, $!\n";
 
   unlink "$cwd/plink-softer-resampled.mp3";
   $cmd = "lame --resample 44.1 -a -b 256 $cwd/plink-softer.mp3 $cwd/plink-softer-resampled.mp3";
@@ -751,13 +834,39 @@ if(!$test) {
 
     } else {
       unlink "$filename_base-${speed}wpm.mp3";
+      my $voiced_context = 0;
 
       open(my $fh_list, '>', "$filename_base-list-${speed}wpm.txt");
       for (my $i=1; $i <= $count; $i++) {
         my $counter = sprintf("%05d",$i);
+        my $next_counter = sprintf("%05d",$i+1);
 
-        #if full sentence
-        if(-e "$filename_base-$counter-full-voice.mp3") {
+        my $cached_context_filename = $filename_map{"$counter-context"};
+        if($filename_map{"$counter-courtesyTone"} == 1){
+          #print $fh_list "file '$cwd/silence-resampled4.mp3'\n";
+          print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
+
+          my $next_cached_context_filename = $filename_map{"${next_counter}-context"};
+          # if next thing is voiced context, then we need to add the default amount of silence
+          if(-e $next_cached_context_filename) {
+            print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+          }
+
+        } elsif(-e $cached_context_filename) {
+          if($first_for_given_speed == 1) {
+            $first_for_given_speed = 0;
+          } elsif (!$no_courtesy_tone) {
+            print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
+            print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+          }
+
+          print "Voicing context\n";
+          $voiced_context = 1;
+          print $fh_list "file '$cached_context_filename'\n";
+
+          # else if full sentence
+        } elsif (-e "$filename_base-$counter-full-voice.mp3") {
+
           my $cached_full_voiced_filename = $filename_map{"$counter-full-voiced"};
           print $fh_list "file '$cwd/pluck-softer-resampled.mp3'\nfile '$cwd/silence-resampled.mp3'\nfile '$cached_full_voiced_filename'\nfile '$cwd/silence-resampled.mp3'\n";
 
@@ -765,7 +874,7 @@ if(!$test) {
           # Not full sentence\n";
           if($first_for_given_speed == 1) {
             $first_for_given_speed = 0;
-          } elsif (!$no_courtesy_tone) {
+          } elsif (!$no_courtesy_tone && $voiced_context != 1) {
             print $fh_list "file '$cwd/plink-softer-resampled.mp3'\n";
           }
 
@@ -783,7 +892,14 @@ if(!$test) {
             }
           } else {
             my $cached_filename = $filename_map{"$counter-$speed"};
-            if($no_spoken) {
+            if($voiced_context == 1) {
+              print "cached_voiced_filename: $cached_voiced_filename\n";
+              if($no_spoken) {
+                print $fh_list "file '$cwd/silence-resampled3.mp3'\nfile '$cached_filename'\n";
+              } else {
+                print $fh_list "file '$cwd/silence-resampled3.mp3'\nfile '$cached_filename'\nfile '$cwd/silence-resampled1.mp3'\nfile '$cached_voiced_filename'\n";
+              }
+            } elsif($no_spoken) {
               print $fh_list "file '$cwd/silence-resampled.mp3'\nfile '$cached_filename'\n";
             } else {
               print "cached_voiced_filename: $cached_voiced_filename\n";
@@ -792,7 +908,21 @@ if(!$test) {
           }
 
           if($no_repeat_morse) {
-            print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+            my $next_cached_context_filename = $filename_map{"${next_counter}-context"};
+
+            # if next thing is a manual courtesy tone then use the special spacing
+            if($filename_map{"${next_counter}-courtesyTone"} == 1) {
+              print $fh_list "file '$cwd/silence-resampled4.mp3'\n";
+
+            # if next thing is voiced context, then we need to use --sm, --silencemorse length of silence between Morse code and spoken voice
+            } elsif(-e $next_cached_context_filename) {
+              print $fh_list "file '$cwd/silence-resampled1.mp3'\n";
+
+            # other wise use the default spacing
+            } else {
+              print $fh_list "file '$cwd/silence-resampled.mp3'\n";
+            }
+
           } else {
             print $fh_list "file '$cwd/silence-resampled2.mp3'\n";
 
@@ -818,6 +948,8 @@ if(!$test) {
 
             }
           }
+
+          $voiced_context = 0;
 
         }
       }
@@ -916,6 +1048,8 @@ sub print_usage {
   print "    --sm, --silencemorse length of silence between Morse code and spoken voice. Default 1 second.\n";
   print "    --ss, --silencesets  length of silence between courtesy tone and next practice set. Default 1 second.\n";
   print "    --sv, --silencevoice length of silence between spoken voice and repeated morse code. Default 1 second.\n";
+  print "    --sc, --silencecontext length of silence between spoken context and morse code. Default 1 second.\n";
+  print "    --st, --silencemanualcourtesytone length of silence between Morse code and manually specified courtesy tone <courtesyTone>. Default 1 second.\n";
   print "    -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc\n";
   print "    -l, --lang           language: ENGLISH or SWEDISH\n\n";
   die "";
