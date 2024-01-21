@@ -1,0 +1,6000 @@
+co ^
+{ C, O\. } ^
+cold ^
+{ C, O, L, D\.\.\. cold\. } ^
+cold ^
+<courtesyTone> ^
+da ^
+{ D, A\. } ^
+dare ^
+{ D, A, R, E\.\.\. dare\. } ^
+dare ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+seal ^
+{ S, E, A, L\.\.\. seal\. } ^
+seal ^
+<courtesyTone> ^
+el ^
+{ E, L\. } ^
+else ^
+{ E, L, S, E\.\.\. else\. } ^
+else ^
+<courtesyTone> ^
+fe ^
+{ F, E\. } ^
+fear ^
+{ F, E, A, R\.\.\. fear\. } ^
+fear ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wage ^
+{ W, A, G, E\.\.\. wage\. } ^
+wage ^
+<courtesyTone> ^
+to ^
+{ T, O\. } ^
+tour ^
+{ T, O, U, R\.\.\. tour\. } ^
+tour ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fall ^
+{ F, A, L, L\.\.\. fall\. } ^
+fall ^
+<courtesyTone> ^
+fl ^
+{ F, L\. } ^
+flee ^
+{ F, L, E, E\.\.\. flee\. } ^
+flee ^
+<courtesyTone> ^
+pl ^
+{ P, L\. } ^
+plan ^
+{ P, L, A, N\.\.\. plan\. } ^
+plan ^
+<courtesyTone> ^
+di ^
+{ D, I\. } ^
+dime ^
+{ D, I, M, E\.\.\. dime\. } ^
+dime ^
+<courtesyTone> ^
+ve ^
+{ V, E\. } ^
+vein ^
+{ V, E, I, N\.\.\. vein\. } ^
+vein ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+firm ^
+{ F, I, R, M\.\.\. firm\. } ^
+firm ^
+<courtesyTone> ^
+ci ^
+{ C, I\. } ^
+city ^
+{ C, I, T, Y\.\.\. city\. } ^
+city ^
+<courtesyTone> ^
+cu ^
+{ C, U\. } ^
+cute ^
+{ C, U, T, E\.\.\. cute\. } ^
+cute ^
+<courtesyTone> ^
+pu ^
+{ P, U\. } ^
+pure ^
+{ P, U, R, E\.\.\. pure\. } ^
+pure ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+fold ^
+{ F, O, L, D\.\.\. fold\. } ^
+fold ^
+<courtesyTone> ^
+ju ^
+{ J, U\. } ^
+jump ^
+{ J, U, M, P\.\.\. jump\. } ^
+jump ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+hair ^
+{ H, A, I, R\.\.\. hair\. } ^
+hair ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+face ^
+{ F, A, C, E\.\.\. face\. } ^
+face ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+beat ^
+{ B, E, A, T\.\.\. beat\. } ^
+beat ^
+<courtesyTone> ^
+Ju ^
+{ J, U\. } ^
+July ^
+{ J, U, L, Y\.\.\. July\. } ^
+July ^
+<courtesyTone> ^
+ki ^
+{ K, I\. } ^
+kind ^
+{ K, I, N, D\.\.\. kind\. } ^
+kind ^
+<courtesyTone> ^
+al ^
+{ A, L\. } ^
+also ^
+{ A, L, S, O\.\.\. also\. } ^
+also ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+will ^
+{ W, I, L, L\.\.\. will\. } ^
+will ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+stem ^
+{ S, T, E, M\.\.\. stem\. } ^
+stem ^
+<courtesyTone> ^
+gi ^
+{ G, I\. } ^
+give ^
+{ G, I, V, E\.\.\. give\. } ^
+give ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wipe ^
+{ W, I, P, E\.\.\. wipe\. } ^
+wipe ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+film ^
+{ F, I, L, M\.\.\. film\. } ^
+film ^
+<courtesyTone> ^
+ag ^
+{ A, G\. } ^
+aged ^
+{ A, G, E, D\.\.\. aged\. } ^
+aged ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+seat ^
+{ S, E, A, T\.\.\. seat\. } ^
+seat ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+tape ^
+{ T, A, P, E\.\.\. tape\. } ^
+tape ^
+<courtesyTone> ^
+ze ^
+{ Z, E\. } ^
+zero ^
+{ Z, E, R, O\.\.\. zero\. } ^
+zero ^
+<courtesyTone> ^
+ev ^
+{ E, V\. } ^
+evil ^
+{ E, V, I, L\.\.\. evil\. } ^
+evil ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+port ^
+{ P, O, R, T\.\.\. port\. } ^
+port ^
+<courtesyTone> ^
+ti ^
+{ T, I\. } ^
+tidy ^
+{ T, I, D, Y\.\.\. tidy\. } ^
+tidy ^
+<courtesyTone> ^
+am ^
+{ A, M\. } ^
+amid ^
+{ A, M, I, D\.\.\. amid\. } ^
+amid ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+cook ^
+{ C, O, O, K\.\.\. cook\. } ^
+cook ^
+<courtesyTone> ^
+we ^
+{ W, E\. } ^
+weed ^
+{ W, E, E, D\.\.\. weed\. } ^
+weed ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+male ^
+{ M, A, L, E\.\.\. male\. } ^
+male ^
+<courtesyTone> ^
+bu ^
+{ B, U\. } ^
+bulk ^
+{ B, U, L, K\.\.\. bulk\. } ^
+bulk ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+fine ^
+{ F, I, N, E\.\.\. fine\. } ^
+fine ^
+<courtesyTone> ^
+fr ^
+{ F, R\. } ^
+from ^
+{ F, R, O, M\.\.\. from\. } ^
+from ^
+<courtesyTone> ^
+fl ^
+{ F, L\. } ^
+flow ^
+{ F, L, O, W\.\.\. flow\. } ^
+flow ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+tale ^
+{ T, A, L, E\.\.\. tale\. } ^
+tale ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+lift ^
+{ L, I, F, T\.\.\. lift\. } ^
+lift ^
+<courtesyTone> ^
+vi ^
+{ V, I\. } ^
+vice ^
+{ V, I, C, E\.\.\. vice\. } ^
+vice ^
+<courtesyTone> ^
+tu ^
+{ T, U\. } ^
+tune ^
+{ T, U, N, E\.\.\. tune\. } ^
+tune ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+sort ^
+{ S, O, R, T\.\.\. sort\. } ^
+sort ^
+<courtesyTone> ^
+in ^
+{ I, N\. } ^
+into ^
+{ I, N, T, O\.\.\. into\. } ^
+into ^
+<courtesyTone> ^
+bi ^
+{ B, I\. } ^
+bias ^
+{ B, I, A, S\.\.\. bias\. } ^
+bias ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+fond ^
+{ F, O, N, D\.\.\. fond\. } ^
+fond ^
+<courtesyTone> ^
+ni ^
+{ N, I\. } ^
+nine ^
+{ N, I, N, E\.\.\. nine\. } ^
+nine ^
+<courtesyTone> ^
+fu ^
+{ F, U\. } ^
+fuel ^
+{ F, U, E, L\.\.\. fuel\. } ^
+fuel ^
+<courtesyTone> ^
+ki ^
+{ K, I\. } ^
+kill ^
+{ K, I, L, L\.\.\. kill\. } ^
+kill ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wall ^
+{ W, A, L, L\.\.\. wall\. } ^
+wall ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+roof ^
+{ R, O, O, F\.\.\. roof\. } ^
+roof ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+most ^
+{ M, O, S, T\.\.\. most\. } ^
+most ^
+<courtesyTone> ^
+ai ^
+{ A, I\. } ^
+aide ^
+{ A, I, D, E\.\.\. aide\. } ^
+aide ^
+<courtesyTone> ^
+ed ^
+{ E, D\. } ^
+edge ^
+{ E, D, G, E\.\.\. edge\. } ^
+edge ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+hour ^
+{ H, O, U, R\.\.\. hour\. } ^
+hour ^
+<courtesyTone> ^
+fr ^
+{ F, R\. } ^
+free ^
+{ F, R, E, E\.\.\. free\. } ^
+free ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+step ^
+{ S, T, E, P\.\.\. step\. } ^
+step ^
+<courtesyTone> ^
+ic ^
+{ I, C\. } ^
+icon ^
+{ I, C, O, N\.\.\. icon\. } ^
+icon ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+site ^
+{ S, I, T, E\.\.\. site\. } ^
+site ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+same ^
+{ S, A, M, E\.\.\. same\. } ^
+same ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+hero ^
+{ H, E, R, O\.\.\. hero\. } ^
+hero ^
+<courtesyTone> ^
+vo ^
+{ V, O\. } ^
+vote ^
+{ V, O, T, E\.\.\. vote\. } ^
+vote ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wave ^
+{ W, A, V, E\.\.\. wave\. } ^
+wave ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mine ^
+{ M, I, N, E\.\.\. mine\. } ^
+mine ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+neat ^
+{ N, E, A, T\.\.\. neat\. } ^
+neat ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+cafe ^
+{ C, A, F, E\.\.\. cafe\. } ^
+cafe ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+stay ^
+{ S, T, A, Y\.\.\. stay\. } ^
+stay ^
+<courtesyTone> ^
+gr ^
+{ G, R\. } ^
+grow ^
+{ G, R, O, W\.\.\. grow\. } ^
+grow ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+foot ^
+{ F, O, O, T\.\.\. foot\. } ^
+foot ^
+<courtesyTone> ^
+ga ^
+{ G, A\. } ^
+gate ^
+{ G, A, T, E\.\.\. gate\. } ^
+gate ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+coup ^
+{ C, O, U, P\.\.\. coup\. } ^
+coup ^
+<courtesyTone> ^
+re ^
+{ R, E\. } ^
+rear ^
+{ R, E, A, R\.\.\. rear\. } ^
+rear ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+line ^
+{ L, I, N, E\.\.\. line\. } ^
+line ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+warn ^
+{ W, A, R, N\.\.\. warn\. } ^
+warn ^
+<courtesyTone> ^
+re ^
+{ R, E\. } ^
+rent ^
+{ R, E, N, T\.\.\. rent\. } ^
+rent ^
+<courtesyTone> ^
+cr ^
+{ C, R\. } ^
+crop ^
+{ C, R, O, P\.\.\. crop\. } ^
+crop ^
+<courtesyTone> ^
+re ^
+{ R, E\. } ^
+rest ^
+{ R, E, S, T\.\.\. rest\. } ^
+rest ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+home ^
+{ H, O, M, E\.\.\. home\. } ^
+home ^
+<courtesyTone> ^
+ch ^
+{ C, H\. } ^
+chip ^
+{ C, H, I, P\.\.\. chip\. } ^
+chip ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+post ^
+{ P, O, S, T\.\.\. post\. } ^
+post ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+duty ^
+{ D, U, T, Y\.\.\. duty\. } ^
+duty ^
+<courtesyTone> ^
+sp ^
+{ S, P\. } ^
+spot ^
+{ S, P, O, T\.\.\. spot\. } ^
+spot ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+core ^
+{ C, O, R, E\.\.\. core\. } ^
+core ^
+<courtesyTone> ^
+gr ^
+{ G, R\. } ^
+grey ^
+{ G, R, E, Y\.\.\. grey\. } ^
+grey ^
+<courtesyTone> ^
+sh ^
+{ S, H\. } ^
+shop ^
+{ S, H, O, P\.\.\. shop\. } ^
+shop ^
+<courtesyTone> ^
+do ^
+{ D, O\. } ^
+dose ^
+{ D, O, S, E\.\.\. dose\. } ^
+dose ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+mass ^
+{ M, A, S, S\.\.\. mass\. } ^
+mass ^
+<courtesyTone> ^
+ge ^
+{ G, E\. } ^
+gene ^
+{ G, E, N, E\.\.\. gene\. } ^
+gene ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fail ^
+{ F, A, I, L\.\.\. fail\. } ^
+fail ^
+<courtesyTone> ^
+fl ^
+{ F, L\. } ^
+flag ^
+{ F, L, A, G\.\.\. flag\. } ^
+flag ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+baby ^
+{ B, A, B, Y\.\.\. baby\. } ^
+baby ^
+<courtesyTone> ^
+ga ^
+{ G, A\. } ^
+gaze ^
+{ G, A, Z, E\.\.\. gaze\. } ^
+gaze ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+mate ^
+{ M, A, T, E\.\.\. mate\. } ^
+mate ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+page ^
+{ P, A, G, E\.\.\. page\. } ^
+page ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+sock ^
+{ S, O, C, K\.\.\. sock\. } ^
+sock ^
+<courtesyTone> ^
+re ^
+{ R, E\. } ^
+read ^
+{ R, E, A, D\.\.\. read\. } ^
+read ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+tend ^
+{ T, E, N, D\.\.\. tend\. } ^
+tend ^
+<courtesyTone> ^
+ch ^
+{ C, H\. } ^
+chop ^
+{ C, H, O, P\.\.\. chop\. } ^
+chop ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+mean ^
+{ M, E, A, N\.\.\. mean\. } ^
+mean ^
+<courtesyTone> ^
+pu ^
+{ P, U\. } ^
+punk ^
+{ P, U, N, K\.\.\. punk\. } ^
+punk ^
+<courtesyTone> ^
+eu ^
+{ E, U\. } ^
+euro ^
+{ E, U, R, O\.\.\. euro\. } ^
+euro ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bell ^
+{ B, E, L, L\.\.\. bell\. } ^
+bell ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+lady ^
+{ L, A, D, Y\.\.\. lady\. } ^
+lady ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+poll ^
+{ P, O, L, L\.\.\. poll\. } ^
+poll ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+fire ^
+{ F, I, R, E\.\.\. fire\. } ^
+fire ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+coal ^
+{ C, O, A, L\.\.\. coal\. } ^
+coal ^
+<courtesyTone> ^
+us ^
+{ U, S\. } ^
+user ^
+{ U, S, E, R\.\.\. user\. } ^
+user ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+back ^
+{ B, A, C, K\.\.\. back\. } ^
+back ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+pass ^
+{ P, A, S, S\.\.\. pass\. } ^
+pass ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rain ^
+{ R, A, I, N\.\.\. rain\. } ^
+rain ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fair ^
+{ F, A, I, R\.\.\. fair\. } ^
+fair ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+park ^
+{ P, A, R, K\.\.\. park\. } ^
+park ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+list ^
+{ L, I, S, T\.\.\. list\. } ^
+list ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+cast ^
+{ C, A, S, T\.\.\. cast\. } ^
+cast ^
+<courtesyTone> ^
+pi ^
+{ P, I\. } ^
+pick ^
+{ P, I, C, K\.\.\. pick\. } ^
+pick ^
+<courtesyTone> ^
+go ^
+{ G, O\. } ^
+golf ^
+{ G, O, L, F\.\.\. golf\. } ^
+golf ^
+<courtesyTone> ^
+sh ^
+{ S, H\. } ^
+shoe ^
+{ S, H, O, E\.\.\. shoe\. } ^
+shoe ^
+<courtesyTone> ^
+gr ^
+{ G, R\. } ^
+grip ^
+{ G, R, I, P\.\.\. grip\. } ^
+grip ^
+<courtesyTone> ^
+au ^
+{ A, U\. } ^
+auto ^
+{ A, U, T, O\.\.\. auto\. } ^
+auto ^
+<courtesyTone> ^
+ea ^
+{ E, A\. } ^
+earn ^
+{ E, A, R, N\.\.\. earn\. } ^
+earn ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+lamp ^
+{ L, A, M, P\.\.\. lamp\. } ^
+lamp ^
+<courtesyTone> ^
+bi ^
+{ B, I\. } ^
+bill ^
+{ B, I, L, L\.\.\. bill\. } ^
+bill ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+stun ^
+{ S, T, U, N\.\.\. stun\. } ^
+stun ^
+<courtesyTone> ^
+ki ^
+{ K, I\. } ^
+kind ^
+{ K, I, N, D\.\.\. kind\. } ^
+kind ^
+<courtesyTone> ^
+da ^
+{ D, A\. } ^
+dawn ^
+{ D, A, W, N\.\.\. dawn\. } ^
+dawn ^
+<courtesyTone> ^
+tr ^
+{ T, R\. } ^
+true ^
+{ T, R, U, E\.\.\. true\. } ^
+true ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+monk ^
+{ M, O, N, K\.\.\. monk\. } ^
+monk ^
+<courtesyTone> ^
+hi ^
+{ H, I\. } ^
+hint ^
+{ H, I, N, T\.\.\. hint\. } ^
+hint ^
+<courtesyTone> ^
+on ^
+{ O, N\. } ^
+only ^
+{ O, N, L, Y\.\.\. only\. } ^
+only ^
+<courtesyTone> ^
+ki ^
+{ K, I\. } ^
+king ^
+{ K, I, N, G\.\.\. king\. } ^
+king ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+pain ^
+{ P, A, I, N\.\.\. pain\. } ^
+pain ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+five ^
+{ F, I, V, E\.\.\. five\. } ^
+five ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+hang ^
+{ H, A, N, G\.\.\. hang\. } ^
+hang ^
+<courtesyTone> ^
+hu ^
+{ H, U\. } ^
+huge ^
+{ H, U, G, E\.\.\. huge\. } ^
+huge ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+beer ^
+{ B, E, E, R\.\.\. beer\. } ^
+beer ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+both ^
+{ B, O, T, H\.\.\. both\. } ^
+both ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+boss ^
+{ B, O, S, S\.\.\. boss\. } ^
+boss ^
+<courtesyTone> ^
+jo ^
+{ J, O\. } ^
+joke ^
+{ J, O, K, E\.\.\. joke\. } ^
+joke ^
+<courtesyTone> ^
+ru ^
+{ R, U\. } ^
+rush ^
+{ R, U, S, H\.\.\. rush\. } ^
+rush ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+mask ^
+{ M, A, S, K\.\.\. mask\. } ^
+mask ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+bail ^
+{ B, A, I, L\.\.\. bail\. } ^
+bail ^
+<courtesyTone> ^
+ye ^
+{ Y, E\. } ^
+year ^
+{ Y, E, A, R\.\.\. year\. } ^
+year ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wild ^
+{ W, I, L, D\.\.\. wild\. } ^
+wild ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+fool ^
+{ F, O, O, L\.\.\. fool\. } ^
+fool ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+hate ^
+{ H, A, T, E\.\.\. hate\. } ^
+hate ^
+<courtesyTone> ^
+bl ^
+{ B, L\. } ^
+blog ^
+{ B, L, O, G\.\.\. blog\. } ^
+blog ^
+<courtesyTone> ^
+ge ^
+{ G, E\. } ^
+gear ^
+{ G, E, A, R\.\.\. gear\. } ^
+gear ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+self ^
+{ S, E, L, F\.\.\. self\. } ^
+self ^
+<courtesyTone> ^
+pl ^
+{ P, L\. } ^
+plea ^
+{ P, L, E, A\.\.\. plea\. } ^
+plea ^
+<courtesyTone> ^
+fr ^
+{ F, R\. } ^
+frog ^
+{ F, R, O, G\.\.\. frog\. } ^
+frog ^
+<courtesyTone> ^
+sh ^
+{ S, H\. } ^
+show ^
+{ S, H, O, W\.\.\. show\. } ^
+show ^
+<courtesyTone> ^
+su ^
+{ S, U\. } ^
+suit ^
+{ S, U, I, T\.\.\. suit\. } ^
+suit ^
+<courtesyTone> ^
+bu ^
+{ B, U\. } ^
+bury ^
+{ B, U, R, Y\.\.\. bury\. } ^
+bury ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+rock ^
+{ R, O, C, K\.\.\. rock\. } ^
+rock ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+dead ^
+{ D, E, A, D\.\.\. dead\. } ^
+dead ^
+<courtesyTone> ^
+pi ^
+{ P, I\. } ^
+pill ^
+{ P, I, L, L\.\.\. pill\. } ^
+pill ^
+<courtesyTone> ^
+da ^
+{ D, A\. } ^
+dark ^
+{ D, A, R, K\.\.\. dark\. } ^
+dark ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wise ^
+{ W, I, S, E\.\.\. wise\. } ^
+wise ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+sing ^
+{ S, I, N, G\.\.\. sing\. } ^
+sing ^
+<courtesyTone> ^
+ju ^
+{ J, U\. } ^
+jury ^
+{ J, U, R, Y\.\.\. jury\. } ^
+jury ^
+<courtesyTone> ^
+kn ^
+{ K, N\. } ^
+know ^
+{ K, N, O, W\.\.\. know\. } ^
+know ^
+<courtesyTone> ^
+ke ^
+{ K, E\. } ^
+keen ^
+{ K, E, E, N\.\.\. keen\. } ^
+keen ^
+<courtesyTone> ^
+ea ^
+{ E, A\. } ^
+east ^
+{ E, A, S, T\.\.\. east\. } ^
+east ^
+<courtesyTone> ^
+gr ^
+{ G, R\. } ^
+grin ^
+{ G, R, I, N\.\.\. grin\. } ^
+grin ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+more ^
+{ M, O, R, E\.\.\. more\. } ^
+more ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+take ^
+{ T, A, K, E\.\.\. take\. } ^
+take ^
+<courtesyTone> ^
+pl ^
+{ P, L\. } ^
+play ^
+{ P, L, A, Y\.\.\. play\. } ^
+play ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+base ^
+{ B, A, S, E\.\.\. base\. } ^
+base ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+loom ^
+{ L, O, O, M\.\.\. loom\. } ^
+loom ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+mode ^
+{ M, O, D, E\.\.\. mode\. } ^
+mode ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+poet ^
+{ P, O, E, T\.\.\. poet\. } ^
+poet ^
+<courtesyTone> ^
+sh ^
+{ S, H\. } ^
+shot ^
+{ S, H, O, T\.\.\. shot\. } ^
+shot ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fame ^
+{ F, A, M, E\.\.\. fame\. } ^
+fame ^
+<courtesyTone> ^
+na ^
+{ N, A\. } ^
+name ^
+{ N, A, M, E\.\.\. name\. } ^
+name ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+stab ^
+{ S, T, A, B\.\.\. stab\. } ^
+stab ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+herb ^
+{ H, E, R, B\.\.\. herb\. } ^
+herb ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mine ^
+{ M, I, N, E\.\.\. mine\. } ^
+mine ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+rope ^
+{ R, O, P, E\.\.\. rope\. } ^
+rope ^
+<courtesyTone> ^
+al ^
+{ A, L\. } ^
+ally ^
+{ A, L, L, Y\.\.\. ally\. } ^
+ally ^
+<courtesyTone> ^
+tu ^
+{ T, U\. } ^
+turn ^
+{ T, U, R, N\.\.\. turn\. } ^
+turn ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+tank ^
+{ T, A, N, K\.\.\. tank\. } ^
+tank ^
+<courtesyTone> ^
+hu ^
+{ H, U\. } ^
+hunt ^
+{ H, U, N, T\.\.\. hunt\. } ^
+hunt ^
+<courtesyTone> ^
+on ^
+{ O, N\. } ^
+once ^
+{ O, N, C, E\.\.\. once\. } ^
+once ^
+<courtesyTone> ^
+ga ^
+{ G, A\. } ^
+gang ^
+{ G, A, N, G\.\.\. gang\. } ^
+gang ^
+<courtesyTone> ^
+wh ^
+{ W, H\. } ^
+whom ^
+{ W, H, O, M\.\.\. whom\. } ^
+whom ^
+<courtesyTone> ^
+lu ^
+{ L, U\. } ^
+lung ^
+{ L, U, N, G\.\.\. lung\. } ^
+lung ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+bond ^
+{ B, O, N, D\.\.\. bond\. } ^
+bond ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+cave ^
+{ C, A, V, E\.\.\. cave\. } ^
+cave ^
+<courtesyTone> ^
+ki ^
+{ K, I\. } ^
+kiss ^
+{ K, I, S, S\.\.\. kiss\. } ^
+kiss ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+test ^
+{ T, E, S, T\.\.\. test\. } ^
+test ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+lend ^
+{ L, E, N, D\.\.\. lend\. } ^
+lend ^
+<courtesyTone> ^
+sp ^
+{ S, P\. } ^
+spam ^
+{ S, P, A, M\.\.\. spam\. } ^
+spam ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+stop ^
+{ S, T, O, P\.\.\. stop\. } ^
+stop ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+lens ^
+{ L, E, N, S\.\.\. lens\. } ^
+lens ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+boat ^
+{ B, O, A, T\.\.\. boat\. } ^
+boat ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+hole ^
+{ H, O, L, E\.\.\. hole\. } ^
+hole ^
+<courtesyTone> ^
+ti ^
+{ T, I\. } ^
+tiny ^
+{ T, I, N, Y\.\.\. tiny\. } ^
+tiny ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+move ^
+{ M, O, V, E\.\.\. move\. } ^
+move ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bent ^
+{ B, E, N, T\.\.\. bent\. } ^
+bent ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+lake ^
+{ L, A, K, E\.\.\. lake\. } ^
+lake ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+loud ^
+{ L, O, U, D\.\.\. loud\. } ^
+loud ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+come ^
+{ C, O, M, E\.\.\. come\. } ^
+come ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+fork ^
+{ F, O, R, K\.\.\. fork\. } ^
+fork ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+path ^
+{ P, A, T, H\.\.\. path\. } ^
+path ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+deem ^
+{ D, E, E, M\.\.\. deem\. } ^
+deem ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+leak ^
+{ L, E, A, K\.\.\. leak\. } ^
+leak ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+they ^
+{ T, H, E, Y\.\.\. they\. } ^
+they ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+late ^
+{ L, A, T, E\.\.\. late\. } ^
+late ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soap ^
+{ S, O, A, P\.\.\. soap\. } ^
+soap ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+defy ^
+{ D, E, F, Y\.\.\. defy\. } ^
+defy ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+care ^
+{ C, A, R, E\.\.\. care\. } ^
+care ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+dust ^
+{ D, U, S, T\.\.\. dust\. } ^
+dust ^
+<courtesyTone> ^
+bu ^
+{ B, U\. } ^
+busy ^
+{ B, U, S, Y\.\.\. busy\. } ^
+busy ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+belt ^
+{ B, E, L, T\.\.\. belt\. } ^
+belt ^
+<courtesyTone> ^
+ev ^
+{ E, V\. } ^
+ever ^
+{ E, V, E, R\.\.\. ever\. } ^
+ever ^
+<courtesyTone> ^
+ov ^
+{ O, V\. } ^
+oven ^
+{ O, V, E, N\.\.\. oven\. } ^
+oven ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+like ^
+{ L, I, K, E\.\.\. like\. } ^
+like ^
+<courtesyTone> ^
+vi ^
+{ V, I\. } ^
+view ^
+{ V, I, E, W\.\.\. view\. } ^
+view ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+hold ^
+{ H, O, L, D\.\.\. hold\. } ^
+hold ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+bath ^
+{ B, A, T, H\.\.\. bath\. } ^
+bath ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+mail ^
+{ M, A, I, L\.\.\. mail\. } ^
+mail ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+link ^
+{ L, I, N, K\.\.\. link\. } ^
+link ^
+<courtesyTone> ^
+wr ^
+{ W, R\. } ^
+wrap ^
+{ W, R, A, P\.\.\. wrap\. } ^
+wrap ^
+<courtesyTone> ^
+fu ^
+{ F, U\. } ^
+full ^
+{ F, U, L, L\.\.\. full\. } ^
+full ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+pack ^
+{ P, A, C, K\.\.\. pack\. } ^
+pack ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+risk ^
+{ R, I, S, K\.\.\. risk\. } ^
+risk ^
+<courtesyTone> ^
+cl ^
+{ C, L\. } ^
+club ^
+{ C, L, U, B\.\.\. club\. } ^
+club ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+talk ^
+{ T, A, L, K\.\.\. talk\. } ^
+talk ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+milk ^
+{ M, I, L, K\.\.\. milk\. } ^
+milk ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+rich ^
+{ R, I, C, H\.\.\. rich\. } ^
+rich ^
+<courtesyTone> ^
+va ^
+{ V, A\. } ^
+vary ^
+{ V, A, R, Y\.\.\. vary\. } ^
+vary ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+host ^
+{ H, O, S, T\.\.\. host\. } ^
+host ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+meal ^
+{ M, E, A, L\.\.\. meal\. } ^
+meal ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+with ^
+{ W, I, T, H\.\.\. with\. } ^
+with ^
+<courtesyTone> ^
+gr ^
+{ G, R\. } ^
+grab ^
+{ G, R, A, B\.\.\. grab\. } ^
+grab ^
+<courtesyTone> ^
+gi ^
+{ G, I\. } ^
+gift ^
+{ G, I, F, T\.\.\. gift\. } ^
+gift ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+lost ^
+{ L, O, S, T\.\.\. lost\. } ^
+lost ^
+<courtesyTone> ^
+fl ^
+{ F, L\. } ^
+flat ^
+{ F, L, A, T\.\.\. flat\. } ^
+flat ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+lord ^
+{ L, O, R, D\.\.\. lord\. } ^
+lord ^
+<courtesyTone> ^
+sl ^
+{ S, L\. } ^
+slot ^
+{ S, L, O, T\.\.\. slot\. } ^
+slot ^
+<courtesyTone> ^
+ye ^
+{ Y, E\. } ^
+yeah ^
+{ Y, E, A, H\.\.\. yeah\. } ^
+yeah ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+make ^
+{ M, A, K, E\.\.\. make\. } ^
+make ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+bold ^
+{ B, O, L, D\.\.\. bold\. } ^
+bold ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+coat ^
+{ C, O, A, T\.\.\. coat\. } ^
+coat ^
+<courtesyTone> ^
+da ^
+{ D, A\. } ^
+date ^
+{ D, A, T, E\.\.\. date\. } ^
+date ^
+<courtesyTone> ^
+ar ^
+{ A, R\. } ^
+arms ^
+{ A, R, M, S\.\.\. arms\. } ^
+arms ^
+<courtesyTone> ^
+jo ^
+{ J, O\. } ^
+join ^
+{ J, O, I, N\.\.\. join\. } ^
+join ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+horn ^
+{ H, O, R, N\.\.\. horn\. } ^
+horn ^
+<courtesyTone> ^
+kn ^
+{ K, N\. } ^
+knee ^
+{ K, N, E, E\.\.\. knee\. } ^
+knee ^
+<courtesyTone> ^
+cr ^
+{ C, R\. } ^
+crew ^
+{ C, R, E, W\.\.\. crew\. } ^
+crew ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+lane ^
+{ L, A, N, E\.\.\. lane\. } ^
+lane ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+dual ^
+{ D, U, A, L\.\.\. dual\. } ^
+dual ^
+<courtesyTone> ^
+ag ^
+{ A, G\. } ^
+aged ^
+{ A, G, E, D\.\.\. aged\. } ^
+aged ^
+<courtesyTone> ^
+it ^
+{ I, T\. } ^
+item ^
+{ I, T, E, M\.\.\. item\. } ^
+item ^
+<courtesyTone> ^
+bi ^
+{ B, I\. } ^
+bike ^
+{ B, I, K, E\.\.\. bike\. } ^
+bike ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+desk ^
+{ D, E, S, K\.\.\. desk\. } ^
+desk ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fade ^
+{ F, A, D, E\.\.\. fade\. } ^
+fade ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fare ^
+{ F, A, R, E\.\.\. fare\. } ^
+fare ^
+<courtesyTone> ^
+ke ^
+{ K, E\. } ^
+keep ^
+{ K, E, E, P\.\.\. keep\. } ^
+keep ^
+<courtesyTone> ^
+hu ^
+{ H, U\. } ^
+hurt ^
+{ H, U, R, T\.\.\. hurt\. } ^
+hurt ^
+<courtesyTone> ^
+tr ^
+{ T, R\. } ^
+tree ^
+{ T, R, E, E\.\.\. tree\. } ^
+tree ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+call ^
+{ C, A, L, L\.\.\. call\. } ^
+call ^
+<courtesyTone> ^
+di ^
+{ D, I\. } ^
+dive ^
+{ D, I, V, E\.\.\. dive\. } ^
+dive ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+next ^
+{ N, E, X, T\.\.\. next\. } ^
+next ^
+<courtesyTone> ^
+ve ^
+{ V, E\. } ^
+very ^
+{ V, E, R, Y\.\.\. very\. } ^
+very ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+seek ^
+{ S, E, E, K\.\.\. seek\. } ^
+seek ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+thin ^
+{ T, H, I, N\.\.\. thin\. } ^
+thin ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+palm ^
+{ P, A, L, M\.\.\. palm\. } ^
+palm ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+mess ^
+{ M, E, S, S\.\.\. mess\. } ^
+mess ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+best ^
+{ B, E, S, T\.\.\. best\. } ^
+best ^
+<courtesyTone> ^
+tu ^
+{ T, U\. } ^
+tube ^
+{ T, U, B, E\.\.\. tube\. } ^
+tube ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mind ^
+{ M, I, N, D\.\.\. mind\. } ^
+mind ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+pair ^
+{ P, A, I, R\.\.\. pair\. } ^
+pair ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rage ^
+{ R, A, G, E\.\.\. rage\. } ^
+rage ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+mark ^
+{ M, A, R, K\.\.\. mark\. } ^
+mark ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+life ^
+{ L, I, F, E\.\.\. life\. } ^
+life ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wish ^
+{ W, I, S, H\.\.\. wish\. } ^
+wish ^
+<courtesyTone> ^
+ke ^
+{ K, E\. } ^
+keen ^
+{ K, E, E, N\.\.\. keen\. } ^
+keen ^
+<courtesyTone> ^
+bu ^
+{ B, U\. } ^
+bush ^
+{ B, U, S, H\.\.\. bush\. } ^
+bush ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+roll ^
+{ R, O, L, L\.\.\. roll\. } ^
+roll ^
+<courtesyTone> ^
+sn ^
+{ S, N\. } ^
+snow ^
+{ S, N, O, W\.\.\. snow\. } ^
+snow ^
+<courtesyTone> ^
+wo ^
+{ W, O\. } ^
+wool ^
+{ W, O, O, L\.\.\. wool\. } ^
+wool ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+heel ^
+{ H, E, E, L\.\.\. heel\. } ^
+heel ^
+<courtesyTone> ^
+bi ^
+{ B, I\. } ^
+bind ^
+{ B, I, N, D\.\.\. bind\. } ^
+bind ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+hard ^
+{ H, A, R, D\.\.\. hard\. } ^
+hard ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+book ^
+{ B, O, O, K\.\.\. book\. } ^
+book ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+leap ^
+{ L, E, A, P\.\.\. leap\. } ^
+leap ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+fill ^
+{ F, I, L, L\.\.\. fill\. } ^
+fill ^
+<courtesyTone> ^
+pu ^
+{ P, U\. } ^
+pull ^
+{ P, U, L, L\.\.\. pull\. } ^
+pull ^
+<courtesyTone> ^
+pi ^
+{ P, I\. } ^
+pity ^
+{ P, I, T, Y\.\.\. pity\. } ^
+pity ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+need ^
+{ N, E, E, D\.\.\. need\. } ^
+need ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+taxi ^
+{ T, A, X, I\.\.\. taxi\. } ^
+taxi ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+band ^
+{ B, A, N, D\.\.\. band\. } ^
+band ^
+<courtesyTone> ^
+ye ^
+{ Y, E\. } ^
+yell ^
+{ Y, E, L, L\.\.\. yell\. } ^
+yell ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+debt ^
+{ D, E, B, T\.\.\. debt\. } ^
+debt ^
+<courtesyTone> ^
+pu ^
+{ P, U\. } ^
+pump ^
+{ P, U, M, P\.\.\. pump\. } ^
+pump ^
+<courtesyTone> ^
+go ^
+{ G, O\. } ^
+goal ^
+{ G, O, A, L\.\.\. goal\. } ^
+goal ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+this ^
+{ T, H, I, S\.\.\. this\. } ^
+this ^
+<courtesyTone> ^
+fe ^
+{ F, E\. } ^
+feel ^
+{ F, E, E, L\.\.\. feel\. } ^
+feel ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+sell ^
+{ S, E, L, L\.\.\. sell\. } ^
+sell ^
+<courtesyTone> ^
+gr ^
+{ G, R\. } ^
+grid ^
+{ G, R, I, D\.\.\. grid\. } ^
+grid ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+main ^
+{ M, A, I, N\.\.\. main\. } ^
+main ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+root ^
+{ R, O, O, T\.\.\. root\. } ^
+root ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+walk ^
+{ W, A, L, K\.\.\. walk\. } ^
+walk ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+fish ^
+{ F, I, S, H\.\.\. fish\. } ^
+fish ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+side ^
+{ S, I, D, E\.\.\. side\. } ^
+side ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+hear ^
+{ H, E, A, R\.\.\. hear\. } ^
+hear ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+safe ^
+{ S, A, F, E\.\.\. safe\. } ^
+safe ^
+<courtesyTone> ^
+ju ^
+{ J, U\. } ^
+just ^
+{ J, U, S, T\.\.\. just\. } ^
+just ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+neck ^
+{ N, E, C, K\.\.\. neck\. } ^
+neck ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+rock ^
+{ R, O, C, K\.\.\. rock\. } ^
+rock ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+camp ^
+{ C, A, M, P\.\.\. camp\. } ^
+camp ^
+<courtesyTone> ^
+qu ^
+{ Q, U\. } ^
+quit ^
+{ Q, U, I, T\.\.\. quit\. } ^
+quit ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+sole ^
+{ S, O, L, E\.\.\. sole\. } ^
+sole ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+race ^
+{ R, A, C, E\.\.\. race\. } ^
+race ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+hell ^
+{ H, E, L, L\.\.\. hell\. } ^
+hell ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+fine ^
+{ F, I, N, E\.\.\. fine\. } ^
+fine ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wire ^
+{ W, I, R, E\.\.\. wire\. } ^
+wire ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+beam ^
+{ B, E, A, M\.\.\. beam\. } ^
+beam ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soft ^
+{ S, O, F, T\.\.\. soft\. } ^
+soft ^
+<courtesyTone> ^
+ti ^
+{ T, I\. } ^
+time ^
+{ T, I, M, E\.\.\. time\. } ^
+time ^
+<courtesyTone> ^
+sk ^
+{ S, K\. } ^
+skip ^
+{ S, K, I, P\.\.\. skip\. } ^
+skip ^
+<courtesyTone> ^
+re ^
+{ R, E\. } ^
+rely ^
+{ R, E, L, Y\.\.\. rely\. } ^
+rely ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+farm ^
+{ F, A, R, M\.\.\. farm\. } ^
+farm ^
+<courtesyTone> ^
+pl ^
+{ P, L\. } ^
+plot ^
+{ P, L, O, T\.\.\. plot\. } ^
+plot ^
+<courtesyTone> ^
+no ^
+{ N, O\. } ^
+norm ^
+{ N, O, R, M\.\.\. norm\. } ^
+norm ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+rose ^
+{ R, O, S, E\.\.\. rose\. } ^
+rose ^
+<courtesyTone> ^
+ty ^
+{ T, Y\. } ^
+tyre ^
+{ T, Y, R, E\.\.\. tyre\. } ^
+tyre ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+poor ^
+{ P, O, O, R\.\.\. poor\. } ^
+poor ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+that ^
+{ T, H, A, T\.\.\. that\. } ^
+that ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+lazy ^
+{ L, A, Z, Y\.\.\. lazy\. } ^
+lazy ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+hail ^
+{ H, A, I, L\.\.\. hail\. } ^
+hail ^
+<courtesyTone> ^
+we ^
+{ W, E\. } ^
+weak ^
+{ W, E, A, K\.\.\. weak\. } ^
+weak ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rail ^
+{ R, A, I, L\.\.\. rail\. } ^
+rail ^
+<courtesyTone> ^
+vi ^
+{ V, I\. } ^
+visa ^
+{ V, I, S, A\.\.\. visa\. } ^
+visa ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rate ^
+{ R, A, T, E\.\.\. rate\. } ^
+rate ^
+<courtesyTone> ^
+fl ^
+{ F, L\. } ^
+flaw ^
+{ F, L, A, W\.\.\. flaw\. } ^
+flaw ^
+<courtesyTone> ^
+no ^
+{ N, O\. } ^
+noon ^
+{ N, O, O, N\.\.\. noon\. } ^
+noon ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+pond ^
+{ P, O, N, D\.\.\. pond\. } ^
+pond ^
+<courtesyTone> ^
+ga ^
+{ G, A\. } ^
+gain ^
+{ G, A, I, N\.\.\. gain\. } ^
+gain ^
+<courtesyTone> ^
+od ^
+{ O, D\. } ^
+odds ^
+{ O, D, D, S\.\.\. odds\. } ^
+odds ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+send ^
+{ S, E, N, D\.\.\. send\. } ^
+send ^
+<courtesyTone> ^
+su ^
+{ S, U\. } ^
+suck ^
+{ S, U, C, K\.\.\. suck\. } ^
+suck ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+boot ^
+{ B, O, O, T\.\.\. boot\. } ^
+boot ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+silk ^
+{ S, I, L, K\.\.\. silk\. } ^
+silk ^
+<courtesyTone> ^
+fu ^
+{ F, U\. } ^
+fund ^
+{ F, U, N, D\.\.\. fund\. } ^
+fund ^
+<courtesyTone> ^
+we ^
+{ W, E\. } ^
+west ^
+{ W, E, S, T\.\.\. west\. } ^
+west ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+boom ^
+{ B, O, O, M\.\.\. boom\. } ^
+boom ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+coin ^
+{ C, O, I, N\.\.\. coin\. } ^
+coin ^
+<courtesyTone> ^
+pe ^
+{ P, E\. } ^
+peer ^
+{ P, E, E, R\.\.\. peer\. } ^
+peer ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+race ^
+{ R, A, C, E\.\.\. race\. } ^
+race ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+card ^
+{ C, A, R, D\.\.\. card\. } ^
+card ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+room ^
+{ R, O, O, M\.\.\. room\. } ^
+room ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+part ^
+{ P, A, R, T\.\.\. part\. } ^
+part ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soul ^
+{ S, O, U, L\.\.\. soul\. } ^
+soul ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+copy ^
+{ C, O, P, Y\.\.\. copy\. } ^
+copy ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+ward ^
+{ W, A, R, D\.\.\. ward\. } ^
+ward ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+pole ^
+{ P, O, L, E\.\.\. pole\. } ^
+pole ^
+<courtesyTone> ^
+cl ^
+{ C, L\. } ^
+clip ^
+{ C, L, I, P\.\.\. clip\. } ^
+clip ^
+<courtesyTone> ^
+ch ^
+{ C, H\. } ^
+chat ^
+{ C, H, A, T\.\.\. chat\. } ^
+chat ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+news ^
+{ N, E, W, S\.\.\. news\. } ^
+news ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+task ^
+{ T, A, S, K\.\.\. task\. } ^
+task ^
+<courtesyTone> ^
+we ^
+{ W, E\. } ^
+wear ^
+{ W, E, A, R\.\.\. wear\. } ^
+wear ^
+<courtesyTone> ^
+pi ^
+{ P, I\. } ^
+pink ^
+{ P, I, N, K\.\.\. pink\. } ^
+pink ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mile ^
+{ M, I, L, E\.\.\. mile\. } ^
+mile ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+cake ^
+{ C, A, K, E\.\.\. cake\. } ^
+cake ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+bank ^
+{ B, A, N, K\.\.\. bank\. } ^
+bank ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+hers ^
+{ H, E, R, S\.\.\. hers\. } ^
+hers ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+dear ^
+{ D, E, A, R\.\.\. dear\. } ^
+dear ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+pale ^
+{ P, A, L, E\.\.\. pale\. } ^
+pale ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+heal ^
+{ H, E, A, L\.\.\. heal\. } ^
+heal ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+term ^
+{ T, E, R, M\.\.\. term\. } ^
+term ^
+<courtesyTone> ^
+cu ^
+{ C, U\. } ^
+cult ^
+{ C, U, L, T\.\.\. cult\. } ^
+cult ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+dull ^
+{ D, U, L, L\.\.\. dull\. } ^
+dull ^
+<courtesyTone> ^
+ki ^
+{ K, I\. } ^
+kick ^
+{ K, I, C, K\.\.\. kick\. } ^
+kick ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+want ^
+{ W, A, N, T\.\.\. want\. } ^
+want ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+beef ^
+{ B, E, E, F\.\.\. beef\. } ^
+beef ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+then ^
+{ T, H, E, N\.\.\. then\. } ^
+then ^
+<courtesyTone> ^
+ev ^
+{ E, V\. } ^
+even ^
+{ E, V, E, N\.\.\. even\. } ^
+even ^
+<courtesyTone> ^
+do ^
+{ D, O\. } ^
+door ^
+{ D, O, O, R\.\.\. door\. } ^
+door ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+loop ^
+{ L, O, O, P\.\.\. loop\. } ^
+loop ^
+<courtesyTone> ^
+wo ^
+{ W, O\. } ^
+wood ^
+{ W, O, O, D\.\.\. wood\. } ^
+wood ^
+<courtesyTone> ^
+hi ^
+{ H, I\. } ^
+hill ^
+{ H, I, L, L\.\.\. hill\. } ^
+hill ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+tent ^
+{ T, E, N, T\.\.\. tent\. } ^
+tent ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+look ^
+{ L, O, O, K\.\.\. look\. } ^
+look ^
+<courtesyTone> ^
+bl ^
+{ B, L\. } ^
+blow ^
+{ B, L, O, W\.\.\. blow\. } ^
+blow ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soup ^
+{ S, O, U, P\.\.\. soup\. } ^
+soup ^
+<courtesyTone> ^
+dr ^
+{ D, R\. } ^
+draw ^
+{ D, R, A, W\.\.\. draw\. } ^
+draw ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+bomb ^
+{ B, O, M, B\.\.\. bomb\. } ^
+bomb ^
+<courtesyTone> ^
+pr ^
+{ P, R\. } ^
+prey ^
+{ P, R, E, Y\.\.\. prey\. } ^
+prey ^
+<courtesyTone> ^
+dr ^
+{ D, R\. } ^
+drag ^
+{ D, R, A, G\.\.\. drag\. } ^
+drag ^
+<courtesyTone> ^
+in ^
+{ I, N\. } ^
+info ^
+{ I, N, F, O\.\.\. info\. } ^
+info ^
+<courtesyTone> ^
+mu ^
+{ M, U\. } ^
+must ^
+{ M, U, S, T\.\.\. must\. } ^
+must ^
+<courtesyTone> ^
+mu ^
+{ M, U\. } ^
+much ^
+{ M, U, C, H\.\.\. much\. } ^
+much ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+seed ^
+{ S, E, E, D\.\.\. seed\. } ^
+seed ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+text ^
+{ T, E, X, T\.\.\. text\. } ^
+text ^
+<courtesyTone> ^
+ru ^
+{ R, U\. } ^
+rude ^
+{ R, U, D, E\.\.\. rude\. } ^
+rude ^
+<courtesyTone> ^
+bu ^
+{ B, U\. } ^
+burn ^
+{ B, U, R, N\.\.\. burn\. } ^
+burn ^
+<courtesyTone> ^
+wo ^
+{ W, O\. } ^
+wolf ^
+{ W, O, L, F\.\.\. wolf\. } ^
+wolf ^
+<courtesyTone> ^
+un ^
+{ U, N\. } ^
+unit ^
+{ U, N, I, T\.\.\. unit\. } ^
+unit ^
+<courtesyTone> ^
+ja ^
+{ J, A\. } ^
+jazz ^
+{ J, A, Z, Z\.\.\. jazz\. } ^
+jazz ^
+<courtesyTone> ^
+ob ^
+{ O, B\. } ^
+obey ^
+{ O, B, E, Y\.\.\. obey\. } ^
+obey ^
+<courtesyTone> ^
+tr ^
+{ T, R\. } ^
+trio ^
+{ T, R, I, O\.\.\. trio\. } ^
+trio ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+harm ^
+{ H, A, R, M\.\.\. harm\. } ^
+harm ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+size ^
+{ S, I, Z, E\.\.\. size\. } ^
+size ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soil ^
+{ S, O, I, L\.\.\. soil\. } ^
+soil ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wake ^
+{ W, A, K, E\.\.\. wake\. } ^
+wake ^
+<courtesyTone> ^
+fe ^
+{ F, E\. } ^
+feat ^
+{ F, E, A, T\.\.\. feat\. } ^
+feat ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+dumb ^
+{ D, U, M, B\.\.\. dumb\. } ^
+dumb ^
+<courtesyTone> ^
+tr ^
+{ T, R\. } ^
+trip ^
+{ T, R, I, P\.\.\. trip\. } ^
+trip ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+lock ^
+{ L, O, C, K\.\.\. lock\. } ^
+lock ^
+<courtesyTone> ^
+wo ^
+{ W, O\. } ^
+word ^
+{ W, O, R, D\.\.\. word\. } ^
+word ^
+<courtesyTone> ^
+ja ^
+{ J, A\. } ^
+jail ^
+{ J, A, I, L\.\.\. jail\. } ^
+jail ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+bake ^
+{ B, A, K, E\.\.\. bake\. } ^
+bake ^
+<courtesyTone> ^
+re ^
+{ R, E\. } ^
+rest ^
+{ R, E, S, T\.\.\. rest\. } ^
+rest ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+boil ^
+{ B, O, I, L\.\.\. boil\. } ^
+boil ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+calm ^
+{ C, A, L, M\.\.\. calm\. } ^
+calm ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rape ^
+{ R, A, P, E\.\.\. rape\. } ^
+rape ^
+<courtesyTone> ^
+to ^
+{ T, O\. } ^
+tool ^
+{ T, O, O, L\.\.\. tool\. } ^
+tool ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+save ^
+{ S, A, V, E\.\.\. save\. } ^
+save ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wine ^
+{ W, I, N, E\.\.\. wine\. } ^
+wine ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bear ^
+{ B, E, A, R\.\.\. bear\. } ^
+bear ^
+<courtesyTone> ^
+sp ^
+{ S, P\. } ^
+spin ^
+{ S, P, I, N\.\.\. spin\. } ^
+spin ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+halt ^
+{ H, A, L, T\.\.\. halt\. } ^
+halt ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+mood ^
+{ M, O, O, D\.\.\. mood\. } ^
+mood ^
+<courtesyTone> ^
+op ^
+{ O, P\. } ^
+open ^
+{ O, P, E, N\.\.\. open\. } ^
+open ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wide ^
+{ W, I, D, E\.\.\. wide\. } ^
+wide ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+love ^
+{ L, O, V, E\.\.\. love\. } ^
+love ^
+<courtesyTone> ^
+ea ^
+{ E, A\. } ^
+easy ^
+{ E, A, S, Y\.\.\. easy\. } ^
+easy ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+hook ^
+{ H, O, O, K\.\.\. hook\. } ^
+hook ^
+<courtesyTone> ^
+tr ^
+{ T, R\. } ^
+trap ^
+{ T, R, A, P\.\.\. trap\. } ^
+trap ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+pace ^
+{ P, A, C, E\.\.\. pace\. } ^
+pace ^
+<courtesyTone> ^
+di ^
+{ D, I\. } ^
+disc ^
+{ D, I, S, C\.\.\. disc\. } ^
+disc ^
+<courtesyTone> ^
+ty ^
+{ T, Y\. } ^
+type ^
+{ T, Y, P, E\.\.\. type\. } ^
+type ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+form ^
+{ F, O, R, M\.\.\. form\. } ^
+form ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bear ^
+{ B, E, A, R\.\.\. bear\. } ^
+bear ^
+<courtesyTone> ^
+au ^
+{ A, U\. } ^
+aunt ^
+{ A, U, N, T\.\.\. aunt\. } ^
+aunt ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+moon ^
+{ M, O, O, N\.\.\. moon\. } ^
+moon ^
+<courtesyTone> ^
+sh ^
+{ S, H\. } ^
+shut ^
+{ S, H, U, T\.\.\. shut\. } ^
+shut ^
+<courtesyTone> ^
+cu ^
+{ C, U\. } ^
+cure ^
+{ C, U, R, E\.\.\. cure\. } ^
+cure ^
+<courtesyTone> ^
+sp ^
+{ S, P\. } ^
+span ^
+{ S, P, A, N\.\.\. span\. } ^
+span ^
+<courtesyTone> ^
+to ^
+{ T, O\. } ^
+town ^
+{ T, O, W, N\.\.\. town\. } ^
+town ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+cope ^
+{ C, O, P, E\.\.\. cope\. } ^
+cope ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+land ^
+{ L, A, N, D\.\.\. land\. } ^
+land ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+sail ^
+{ S, A, I, L\.\.\. sail\. } ^
+sail ^
+<courtesyTone> ^
+wh ^
+{ W, H\. } ^
+when ^
+{ W, H, E, N\.\.\. when\. } ^
+when ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+stir ^
+{ S, T, I, R\.\.\. stir\. } ^
+stir ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soon ^
+{ S, O, O, N\.\.\. soon\. } ^
+soon ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+firm ^
+{ F, I, R, M\.\.\. firm\. } ^
+firm ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+find ^
+{ F, I, N, D\.\.\. find\. } ^
+find ^
+<courtesyTone> ^
+ed ^
+{ E, D\. } ^
+edit ^
+{ E, D, I, T\.\.\. edit\. } ^
+edit ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soar ^
+{ S, O, A, R\.\.\. soar\. } ^
+soar ^
+<courtesyTone> ^
+go ^
+{ G, O\. } ^
+gold ^
+{ G, O, L, D\.\.\. gold\. } ^
+gold ^
+<courtesyTone> ^
+di ^
+{ D, I\. } ^
+diet ^
+{ D, I, E, T\.\.\. diet\. } ^
+diet ^
+<courtesyTone> ^
+ur ^
+{ U, R\. } ^
+urge ^
+{ U, R, G, E\.\.\. urge\. } ^
+urge ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+deck ^
+{ D, E, C, K\.\.\. deck\. } ^
+deck ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+loan ^
+{ L, O, A, N\.\.\. loan\. } ^
+loan ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+deal ^
+{ D, E, A, L\.\.\. deal\. } ^
+deal ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+memo ^
+{ M, E, M, O\.\.\. memo\. } ^
+memo ^
+<courtesyTone> ^
+do ^
+{ D, O\. } ^
+down ^
+{ D, O, W, N\.\.\. down\. } ^
+down ^
+<courtesyTone> ^
+sl ^
+{ S, L\. } ^
+slap ^
+{ S, L, A, P\.\.\. slap\. } ^
+slap ^
+<courtesyTone> ^
+dr ^
+{ D, R\. } ^
+drum ^
+{ D, R, U, M\.\.\. drum\. } ^
+drum ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+meet ^
+{ M, E, E, T\.\.\. meet\. } ^
+meet ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+than ^
+{ T, H, A, N\.\.\. than\. } ^
+than ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+pour ^
+{ P, O, U, R\.\.\. pour\. } ^
+pour ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+less ^
+{ L, E, S, S\.\.\. less\. } ^
+less ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+lean ^
+{ L, E, A, N\.\.\. lean\. } ^
+lean ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+seem ^
+{ S, E, E, M\.\.\. seem\. } ^
+seem ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wife ^
+{ W, I, F, E\.\.\. wife\. } ^
+wife ^
+<courtesyTone> ^
+gi ^
+{ G, I\. } ^
+girl ^
+{ G, I, R, L\.\.\. girl\. } ^
+girl ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+holy ^
+{ H, O, L, Y\.\.\. holy\. } ^
+holy ^
+<courtesyTone> ^
+wh ^
+{ W, H\. } ^
+whip ^
+{ W, H, I, P\.\.\. whip\. } ^
+whip ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+raid ^
+{ R, A, I, D\.\.\. raid\. } ^
+raid ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+warm ^
+{ W, A, R, M\.\.\. warm\. } ^
+warm ^
+<courtesyTone> ^
+gl ^
+{ G, L\. } ^
+glad ^
+{ G, L, A, D\.\.\. glad\. } ^
+glad ^
+<courtesyTone> ^
+ce ^
+{ C, E\. } ^
+cent ^
+{ C, E, N, T\.\.\. cent\. } ^
+cent ^
+<courtesyTone> ^
+ou ^
+{ O, U\. } ^
+ours ^
+{ O, U, R, S\.\.\. ours\. } ^
+ours ^
+<courtesyTone> ^
+ju ^
+{ J, U\. } ^
+just ^
+{ J, U, S, T\.\.\. just\. } ^
+just ^
+<courtesyTone> ^
+na ^
+{ N, A\. } ^
+nail ^
+{ N, A, I, L\.\.\. nail\. } ^
+nail ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+salt ^
+{ S, A, L, T\.\.\. salt\. } ^
+salt ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+logo ^
+{ L, O, G, O\.\.\. logo\. } ^
+logo ^
+<courtesyTone> ^
+sh ^
+{ S, H\. } ^
+ship ^
+{ S, H, I, P\.\.\. ship\. } ^
+ship ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rank ^
+{ R, A, N, K\.\.\. rank\. } ^
+rank ^
+<courtesyTone> ^
+no ^
+{ N, O\. } ^
+note ^
+{ N, O, T, E\.\.\. note\. } ^
+note ^
+<courtesyTone> ^
+ir ^
+{ I, R\. } ^
+iron ^
+{ I, R, O, N\.\.\. iron\. } ^
+iron ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+rice ^
+{ R, I, C, E\.\.\. rice\. } ^
+rice ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+sick ^
+{ S, I, C, K\.\.\. sick\. } ^
+sick ^
+<courtesyTone> ^
+hi ^
+{ H, I\. } ^
+high ^
+{ H, I, G, H\.\.\. high\. } ^
+high ^
+<courtesyTone> ^
+lu ^
+{ L, U\. } ^
+luck ^
+{ L, U, C, K\.\.\. luck\. } ^
+luck ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+melt ^
+{ M, E, L, T\.\.\. melt\. } ^
+melt ^
+<courtesyTone> ^
+ch ^
+{ C, H\. } ^
+chef ^
+{ C, H, E, F\.\.\. chef\. } ^
+chef ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mill ^
+{ M, I, L, L\.\.\. mill\. } ^
+mill ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+deed ^
+{ D, E, E, D\.\.\. deed\. } ^
+deed ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+leaf ^
+{ L, E, A, F\.\.\. leaf\. } ^
+leaf ^
+<courtesyTone> ^
+cl ^
+{ C, L\. } ^
+clue ^
+{ C, L, U, E\.\.\. clue\. } ^
+clue ^
+<courtesyTone> ^
+to ^
+{ T, O\. } ^
+tone ^
+{ T, O, N, E\.\.\. tone\. } ^
+tone ^
+<courtesyTone> ^
+va ^
+{ V, A\. } ^
+vast ^
+{ V, A, S, T\.\.\. vast\. } ^
+vast ^
+<courtesyTone> ^
+tw ^
+{ T, W\. } ^
+twin ^
+{ T, W, I, N\.\.\. twin\. } ^
+twin ^
+<courtesyTone> ^
+my ^
+{ M, Y\. } ^
+myth ^
+{ M, Y, T, H\.\.\. myth\. } ^
+myth ^
+<courtesyTone> ^
+ci ^
+{ C, I\. } ^
+cite ^
+{ C, I, T, E\.\.\. cite\. } ^
+cite ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+sign ^
+{ S, I, G, N\.\.\. sign\. } ^
+sign ^
+<courtesyTone> ^
+ti ^
+{ T, I\. } ^
+tide ^
+{ T, I, D, E\.\.\. tide\. } ^
+tide ^
+<courtesyTone> ^
+su ^
+{ S, U\. } ^
+such ^
+{ S, U, C, H\.\.\. such\. } ^
+such ^
+<courtesyTone> ^
+to ^
+{ T, O\. } ^
+toll ^
+{ T, O, L, L\.\.\. toll\. } ^
+toll ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+role ^
+{ R, O, L, E\.\.\. role\. } ^
+role ^
+<courtesyTone> ^
+hi ^
+{ H, I\. } ^
+hide ^
+{ H, I, D, E\.\.\. hide\. } ^
+hide ^
+<courtesyTone> ^
+dr ^
+{ D, R\. } ^
+drug ^
+{ D, R, U, G\.\.\. drug\. } ^
+drug ^
+<courtesyTone> ^
+ya ^
+{ Y, A\. } ^
+yard ^
+{ Y, A, R, D\.\.\. yard\. } ^
+yard ^
+<courtesyTone> ^
+ru ^
+{ R, U\. } ^
+rule ^
+{ R, U, L, E\.\.\. rule\. } ^
+rule ^
+<courtesyTone> ^
+fe ^
+{ F, E\. } ^
+feed ^
+{ F, E, E, D\.\.\. feed\. } ^
+feed ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fast ^
+{ F, A, S, T\.\.\. fast\. } ^
+fast ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+sigh ^
+{ S, I, G, H\.\.\. sigh\. } ^
+sigh ^
+<courtesyTone> ^
+wo ^
+{ W, O\. } ^
+worm ^
+{ W, O, R, M\.\.\. worm\. } ^
+worm ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+head ^
+{ H, E, A, D\.\.\. head\. } ^
+head ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wait ^
+{ W, A, I, T\.\.\. wait\. } ^
+wait ^
+<courtesyTone> ^
+up ^
+{ U, P\. } ^
+upon ^
+{ U, P, O, N\.\.\. upon\. } ^
+upon ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+folk ^
+{ F, O, L, K\.\.\. folk\. } ^
+folk ^
+<courtesyTone> ^
+ug ^
+{ U, G\. } ^
+ugly ^
+{ U, G, L, Y\.\.\. ugly\. } ^
+ugly ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fate ^
+{ F, A, T, E\.\.\. fate\. } ^
+fate ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wing ^
+{ W, I, N, G\.\.\. wing\. } ^
+wing ^
+<courtesyTone> ^
+sc ^
+{ S, C\. } ^
+scan ^
+{ S, C, A, N\.\.\. scan\. } ^
+scan ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+miss ^
+{ M, I, S, S\.\.\. miss\. } ^
+miss ^
+<courtesyTone> ^
+sk ^
+{ S, K\. } ^
+skin ^
+{ S, K, I, N\.\.\. skin\. } ^
+skin ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fake ^
+{ F, A, K, E\.\.\. fake\. } ^
+fake ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+bowl ^
+{ B, O, W, L\.\.\. bowl\. } ^
+bowl ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+limb ^
+{ L, I, M, B\.\.\. limb\. } ^
+limb ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+sand ^
+{ S, A, N, D\.\.\. sand\. } ^
+sand ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+load ^
+{ L, O, A, D\.\.\. load\. } ^
+load ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+rock ^
+{ R, O, C, K\.\.\. rock\. } ^
+rock ^
+<courtesyTone> ^
+re ^
+{ R, E\. } ^
+real ^
+{ R, E, A, L\.\.\. real\. } ^
+real ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+bone ^
+{ B, O, N, E\.\.\. bone\. } ^
+bone ^
+<courtesyTone> ^
+to ^
+{ T, O\. } ^
+toss ^
+{ T, O, S, S\.\.\. toss\. } ^
+toss ^
+<courtesyTone> ^
+ov ^
+{ O, V\. } ^
+over ^
+{ O, V, E, R\.\.\. over\. } ^
+over ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+deny ^
+{ D, E, N, Y\.\.\. deny\. } ^
+deny ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+tell ^
+{ T, E, L, L\.\.\. tell\. } ^
+tell ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+cost ^
+{ C, O, S, T\.\.\. cost\. } ^
+cost ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+ball ^
+{ B, A, L, L\.\.\. ball\. } ^
+ball ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+past ^
+{ P, A, S, T\.\.\. past\. } ^
+past ^
+<courtesyTone> ^
+ea ^
+{ E, A\. } ^
+ease ^
+{ E, A, S, E\.\.\. ease\. } ^
+ease ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+star ^
+{ S, T, A, R\.\.\. star\. } ^
+star ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+bank ^
+{ B, A, N, K\.\.\. bank\. } ^
+bank ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+food ^
+{ F, O, O, D\.\.\. food\. } ^
+food ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+cash ^
+{ C, A, S, H\.\.\. cash\. } ^
+cash ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+have ^
+{ H, A, V, E\.\.\. have\. } ^
+have ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+case ^
+{ C, A, S, E\.\.\. case\. } ^
+case ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+lose ^
+{ L, O, S, E\.\.\. lose\. } ^
+lose ^
+<courtesyTone> ^
+pr ^
+{ P, R\. } ^
+pray ^
+{ P, R, A, Y\.\.\. pray\. } ^
+pray ^
+<courtesyTone> ^
+sn ^
+{ S, N\. } ^
+snap ^
+{ S, N, A, P\.\.\. snap\. } ^
+snap ^
+<courtesyTone> ^
+ru ^
+{ R, U\. } ^
+ruin ^
+{ R, U, I, N\.\.\. ruin\. } ^
+ruin ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+teen ^
+{ T, E, E, N\.\.\. teen\. } ^
+teen ^
+<courtesyTone> ^
+bl ^
+{ B, L\. } ^
+blow ^
+{ B, L, O, W\.\.\. blow\. } ^
+blow ^
+<courtesyTone> ^
+or ^
+{ O, R\. } ^
+oral ^
+{ O, R, A, L\.\.\. oral\. } ^
+oral ^
+<courtesyTone> ^
+we ^
+{ W, E\. } ^
+week ^
+{ W, E, E, K\.\.\. week\. } ^
+week ^
+<courtesyTone> ^
+no ^
+{ N, O\. } ^
+nose ^
+{ N, O, S, E\.\.\. nose\. } ^
+nose ^
+<courtesyTone> ^
+hi ^
+{ H, I\. } ^
+hire ^
+{ H, I, R, E\.\.\. hire\. } ^
+hire ^
+<courtesyTone> ^
+ni ^
+{ N, I\. } ^
+nice ^
+{ N, I, C, E\.\.\. nice\. } ^
+nice ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fact ^
+{ F, A, C, T\.\.\. fact\. } ^
+fact ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+lack ^
+{ L, A, C, K\.\.\. lack\. } ^
+lack ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+hall ^
+{ H, A, L, L\.\.\. hall\. } ^
+hall ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+riot ^
+{ R, I, O, T\.\.\. riot\. } ^
+riot ^
+<courtesyTone> ^
+we ^
+{ W, E\. } ^
+well ^
+{ W, E, L, L\.\.\. well\. } ^
+well ^
+<courtesyTone> ^
+ac ^
+{ A, C\. } ^
+acre ^
+{ A, C, R, E\.\.\. acre\. } ^
+acre ^
+<courtesyTone> ^
+pe ^
+{ P, E\. } ^
+peak ^
+{ P, E, A, K\.\.\. peak\. } ^
+peak ^
+<courtesyTone> ^
+on ^
+{ O, N\. } ^
+onto ^
+{ O, N, T, O\.\.\. onto\. } ^
+onto ^
+<courtesyTone> ^
+bu ^
+{ B, U\. } ^
+buck ^
+{ B, U, C, K\.\.\. buck\. } ^
+buck ^
+<courtesyTone> ^
+pu ^
+{ P, U\. } ^
+push ^
+{ P, U, S, H\.\.\. push\. } ^
+push ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mild ^
+{ M, I, L, D\.\.\. mild\. } ^
+mild ^
+<courtesyTone> ^
+sl ^
+{ S, L\. } ^
+slam ^
+{ S, L, A, M\.\.\. slam\. } ^
+slam ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+half ^
+{ H, A, L, F\.\.\. half\. } ^
+half ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+ride ^
+{ R, I, D, E\.\.\. ride\. } ^
+ride ^
+<courtesyTone> ^
+ab ^
+{ A, B\. } ^
+able ^
+{ A, B, L, E\.\.\. able\. } ^
+able ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+team ^
+{ T, E, A, M\.\.\. team\. } ^
+team ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+poem ^
+{ P, O, E, M\.\.\. poem\. } ^
+poem ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+file ^
+{ F, I, L, E\.\.\. file\. } ^
+file ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bean ^
+{ B, E, A, N\.\.\. bean\. } ^
+bean ^
+<courtesyTone> ^
+bl ^
+{ B, L\. } ^
+blue ^
+{ B, L, U, E\.\.\. blue\. } ^
+blue ^
+<courtesyTone> ^
+sh ^
+{ S, H\. } ^
+shed ^
+{ S, H, E, D\.\.\. shed\. } ^
+shed ^
+<courtesyTone> ^
+no ^
+{ N, O\. } ^
+none ^
+{ N, O, N, E\.\.\. none\. } ^
+none ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+hand ^
+{ H, A, N, D\.\.\. hand\. } ^
+hand ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wash ^
+{ W, A, S, H\.\.\. wash\. } ^
+wash ^
+<courtesyTone> ^
+ex ^
+{ E, X\. } ^
+exam ^
+{ E, X, A, M\.\.\. exam\. } ^
+exam ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+mall ^
+{ M, A, L, L\.\.\. mall\. } ^
+mall ^
+<courtesyTone> ^
+wh ^
+{ W, H\. } ^
+what ^
+{ W, H, A, T\.\.\. what\. } ^
+what ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+here ^
+{ H, E, R, E\.\.\. here\. } ^
+here ^
+<courtesyTone> ^
+aw ^
+{ A, W\. } ^
+away ^
+{ A, W, A, Y\.\.\. away\. } ^
+away ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rare ^
+{ R, A, R, E\.\.\. rare\. } ^
+rare ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+hope ^
+{ H, O, P, E\.\.\. hope\. } ^
+hope ^
+<courtesyTone> ^
+id ^
+{ I, D\. } ^
+idea ^
+{ I, D, E, A\.\.\. idea\. } ^
+idea ^
+<courtesyTone> ^
+pi ^
+{ P, I\. } ^
+pile ^
+{ P, I, L, E\.\.\. pile\. } ^
+pile ^
+<courtesyTone> ^
+we ^
+{ W, E\. } ^
+well ^
+{ W, E, L, L\.\.\. well\. } ^
+well ^
+<courtesyTone> ^
+sl ^
+{ S, L\. } ^
+slip ^
+{ S, L, I, P\.\.\. slip\. } ^
+slip ^
+<courtesyTone> ^
+sl ^
+{ S, L\. } ^
+slow ^
+{ S, L, O, W\.\.\. slow\. } ^
+slow ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+born ^
+{ B, O, R, N\.\.\. born\. } ^
+born ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+left ^
+{ L, E, F, T\.\.\. left\. } ^
+left ^
+<courtesyTone> ^
+pl ^
+{ P, L\. } ^
+plug ^
+{ P, L, U, G\.\.\. plug\. } ^
+plug ^
+<courtesyTone> ^
+ti ^
+{ T, I\. } ^
+till ^
+{ T, I, L, L\.\.\. till\. } ^
+till ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+heat ^
+{ H, E, A, T\.\.\. heat\. } ^
+heat ^
+<courtesyTone> ^
+ga ^
+{ G, A\. } ^
+game ^
+{ G, A, M, E\.\.\. game\. } ^
+game ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+thus ^
+{ T, H, U, S\.\.\. thus\. } ^
+thus ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+mere ^
+{ M, E, R, E\.\.\. mere\. } ^
+mere ^
+<courtesyTone> ^
+dr ^
+{ D, R\. } ^
+drop ^
+{ D, R, O, P\.\.\. drop\. } ^
+drop ^
+<courtesyTone> ^
+ar ^
+{ A, R\. } ^
+area ^
+{ A, R, E, A\.\.\. area\. } ^
+area ^
+<courtesyTone> ^
+da ^
+{ D, A\. } ^
+data ^
+{ D, A, T, A\.\.\. data\. } ^
+data ^
+<courtesyTone> ^
+ea ^
+{ E, A\. } ^
+each ^
+{ E, A, C, H\.\.\. each\. } ^
+each ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+near ^
+{ N, E, A, R\.\.\. near\. } ^
+near ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+help ^
+{ H, E, L, P\.\.\. help\. } ^
+help ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+nest ^
+{ N, E, S, T\.\.\. nest\. } ^
+nest ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+like ^
+{ L, I, K, E\.\.\. like\. } ^
+like ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+deep ^
+{ D, E, E, P\.\.\. deep\. } ^
+deep ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+lawn ^
+{ L, A, W, N\.\.\. lawn\. } ^
+lawn ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+tail ^
+{ T, A, I, L\.\.\. tail\. } ^
+tail ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+meat ^
+{ M, E, A, T\.\.\. meat\. } ^
+meat ^
+<courtesyTone> ^
+bi ^
+{ B, I\. } ^
+bird ^
+{ B, I, R, D\.\.\. bird\. } ^
+bird ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+dump ^
+{ D, U, M, P\.\.\. dump\. } ^
+dump ^
+<courtesyTone> ^
+wo ^
+{ W, O\. } ^
+work ^
+{ W, O, R, K\.\.\. work\. } ^
+work ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+solo ^
+{ S, O, L, O\.\.\. solo\. } ^
+solo ^
+<courtesyTone> ^
+yo ^
+{ Y, O\. } ^
+your ^
+{ Y, O, U, R\.\.\. your\. } ^
+your ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+menu ^
+{ M, E, N, U\.\.\. menu\. } ^
+menu ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+body ^
+{ B, O, D, Y\.\.\. body\. } ^
+body ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+sale ^
+{ S, A, L, E\.\.\. sale\. } ^
+sale ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+bare ^
+{ B, A, R, E\.\.\. bare\. } ^
+bare ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+tall ^
+{ T, A, L, L\.\.\. tall\. } ^
+tall ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+lion ^
+{ L, I, O, N\.\.\. lion\. } ^
+lion ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+code ^
+{ C, O, D, E\.\.\. code\. } ^
+code ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+some ^
+{ S, O, M, E\.\.\. some\. } ^
+some ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+road ^
+{ R, O, A, D\.\.\. road\. } ^
+road ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+sake ^
+{ S, A, K, E\.\.\. sake\. } ^
+sake ^
+<courtesyTone> ^
+ec ^
+{ E, C\. } ^
+echo ^
+{ E, C, H, O\.\.\. echo\. } ^
+echo ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+pool ^
+{ P, O, O, L\.\.\. pool\. } ^
+pool ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bend ^
+{ B, E, N, D\.\.\. bend\. } ^
+bend ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+song ^
+{ S, O, N, G\.\.\. song\. } ^
+song ^
+<courtesyTone> ^
+bi ^
+{ B, I\. } ^
+bite ^
+{ B, I, T, E\.\.\. bite\. } ^
+bite ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+cool ^
+{ C, O, O, L\.\.\. cool\. } ^
+cool ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+many ^
+{ M, A, N, Y\.\.\. many\. } ^
+many ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+four ^
+{ F, O, U, R\.\.\. four\. } ^
+four ^
+<courtesyTone> ^
+ce ^
+{ C, E\. } ^
+cell ^
+{ C, E, L, L\.\.\. cell\. } ^
+cell ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+pose ^
+{ P, O, S, E\.\.\. pose\. } ^
+pose ^
+<courtesyTone> ^
+in ^
+{ I, N\. } ^
+inch ^
+{ I, N, C, H\.\.\. inch\. } ^
+inch ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soak ^
+{ S, O, A, K\.\.\. soak\. } ^
+soak ^
+<courtesyTone> ^
+sw ^
+{ S, W\. } ^
+swim ^
+{ S, W, I, M\.\.\. swim\. } ^
+swim ^
+<courtesyTone> ^
+di ^
+{ D, I\. } ^
+dish ^
+{ D, I, S, H\.\.\. dish\. } ^
+dish ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+sink ^
+{ S, I, N, K\.\.\. sink\. } ^
+sink ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+rise ^
+{ R, I, S, E\.\.\. rise\. } ^
+rise ^
+<courtesyTone> ^
+go ^
+{ G, O\. } ^
+good ^
+{ G, O, O, D\.\.\. good\. } ^
+good ^
+<courtesyTone> ^
+ar ^
+{ A, R\. } ^
+army ^
+{ A, R, M, Y\.\.\. army\. } ^
+army ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+loss ^
+{ L, O, S, S\.\.\. loss\. } ^
+loss ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+them ^
+{ T, H, E, M\.\.\. them\. } ^
+them ^
+<courtesyTone> ^
+di ^
+{ D, I\. } ^
+dirt ^
+{ D, I, R, T\.\.\. dirt\. } ^
+dirt ^
+<courtesyTone> ^
+pi ^
+{ P, I\. } ^
+pipe ^
+{ P, I, P, E\.\.\. pipe\. } ^
+pipe ^
+<courtesyTone> ^
+Ju ^
+{ J, U\. } ^
+June ^
+{ J, U, N, E\.\.\. June\. } ^
+June ^
+<courtesyTone> ^
+su ^
+{ S, U\. } ^
+sure ^
+{ S, U, R, E\.\.\. sure\. } ^
+sure ^
+<courtesyTone> ^
+ac ^
+{ A, C\. } ^
+acid ^
+{ A, C, I, D\.\.\. acid\. } ^
+acid ^
+<courtesyTone> ^
+zo ^
+{ Z, O\. } ^
+zone ^
+{ Z, O, N, E\.\.\. zone\. } ^
+zone ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+tank ^
+{ T, A, N, K\.\.\. tank\. } ^
+tank ^
+<courtesyTone> ^
+sh ^
+{ S, H\. } ^
+shoe ^
+{ S, H, O, E\.\.\. shoe\. } ^
+shoe ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+many ^
+{ M, A, N, Y\.\.\. many\. } ^
+many ^
+<courtesyTone> ^
+sh ^
+{ S, H\. } ^
+shut ^
+{ S, H, U, T\.\.\. shut\. } ^
+shut ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rank ^
+{ R, A, N, K\.\.\. rank\. } ^
+rank ^
+<courtesyTone> ^
+hi ^
+{ H, I\. } ^
+hill ^
+{ H, I, L, L\.\.\. hill\. } ^
+hill ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fall ^
+{ F, A, L, L\.\.\. fall\. } ^
+fall ^
+<courtesyTone> ^
+hi ^
+{ H, I\. } ^
+hire ^
+{ H, I, R, E\.\.\. hire\. } ^
+hire ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+make ^
+{ M, A, K, E\.\.\. make\. } ^
+make ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+mail ^
+{ M, A, I, L\.\.\. mail\. } ^
+mail ^
+<courtesyTone> ^
+ea ^
+{ E, A\. } ^
+ease ^
+{ E, A, S, E\.\.\. ease\. } ^
+ease ^
+<courtesyTone> ^
+ce ^
+{ C, E\. } ^
+cell ^
+{ C, E, L, L\.\.\. cell\. } ^
+cell ^
+<courtesyTone> ^
+ti ^
+{ T, I\. } ^
+tide ^
+{ T, I, D, E\.\.\. tide\. } ^
+tide ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+sail ^
+{ S, A, I, L\.\.\. sail\. } ^
+sail ^
+<courtesyTone> ^
+sl ^
+{ S, L\. } ^
+slip ^
+{ S, L, I, P\.\.\. slip\. } ^
+slip ^
+<courtesyTone> ^
+fu ^
+{ F, U\. } ^
+fuel ^
+{ F, U, E, L\.\.\. fuel\. } ^
+fuel ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fast ^
+{ F, A, S, T\.\.\. fast\. } ^
+fast ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+roll ^
+{ R, O, L, L\.\.\. roll\. } ^
+roll ^
+<courtesyTone> ^
+ev ^
+{ E, V\. } ^
+ever ^
+{ E, V, E, R\.\.\. ever\. } ^
+ever ^
+<courtesyTone> ^
+bi ^
+{ B, I\. } ^
+bike ^
+{ B, I, K, E\.\.\. bike\. } ^
+bike ^
+<courtesyTone> ^
+pi ^
+{ P, I\. } ^
+pink ^
+{ P, I, N, K\.\.\. pink\. } ^
+pink ^
+<courtesyTone> ^
+to ^
+{ T, O\. } ^
+toll ^
+{ T, O, L, L\.\.\. toll\. } ^
+toll ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rage ^
+{ R, A, G, E\.\.\. rage\. } ^
+rage ^
+<courtesyTone> ^
+ab ^
+{ A, B\. } ^
+able ^
+{ A, B, L, E\.\.\. able\. } ^
+able ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+sell ^
+{ S, E, L, L\.\.\. sell\. } ^
+sell ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+they ^
+{ T, H, E, Y\.\.\. they\. } ^
+they ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+self ^
+{ S, E, L, F\.\.\. self\. } ^
+self ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+head ^
+{ H, E, A, D\.\.\. head\. } ^
+head ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wish ^
+{ W, I, S, H\.\.\. wish\. } ^
+wish ^
+<courtesyTone> ^
+pl ^
+{ P, L\. } ^
+plug ^
+{ P, L, U, G\.\.\. plug\. } ^
+plug ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soar ^
+{ S, O, A, R\.\.\. soar\. } ^
+soar ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+pond ^
+{ P, O, N, D\.\.\. pond\. } ^
+pond ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+pool ^
+{ P, O, O, L\.\.\. pool\. } ^
+pool ^
+<courtesyTone> ^
+pe ^
+{ P, E\. } ^
+peer ^
+{ P, E, E, R\.\.\. peer\. } ^
+peer ^
+<courtesyTone> ^
+gi ^
+{ G, I\. } ^
+girl ^
+{ G, I, R, L\.\.\. girl\. } ^
+girl ^
+<courtesyTone> ^
+ty ^
+{ T, Y\. } ^
+tyre ^
+{ T, Y, R, E\.\.\. tyre\. } ^
+tyre ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+solo ^
+{ S, O, L, O\.\.\. solo\. } ^
+solo ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+task ^
+{ T, A, S, K\.\.\. task\. } ^
+task ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+help ^
+{ H, E, L, P\.\.\. help\. } ^
+help ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+road ^
+{ R, O, A, D\.\.\. road\. } ^
+road ^
+<courtesyTone> ^
+pi ^
+{ P, I\. } ^
+pill ^
+{ P, I, L, L\.\.\. pill\. } ^
+pill ^
+<courtesyTone> ^
+ga ^
+{ G, A\. } ^
+gate ^
+{ G, A, T, E\.\.\. gate\. } ^
+gate ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wash ^
+{ W, A, S, H\.\.\. wash\. } ^
+wash ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+seat ^
+{ S, E, A, T\.\.\. seat\. } ^
+seat ^
+<courtesyTone> ^
+re ^
+{ R, E\. } ^
+rent ^
+{ R, E, N, T\.\.\. rent\. } ^
+rent ^
+<courtesyTone> ^
+ga ^
+{ G, A\. } ^
+gaze ^
+{ G, A, Z, E\.\.\. gaze\. } ^
+gaze ^
+<courtesyTone> ^
+lu ^
+{ L, U\. } ^
+luck ^
+{ L, U, C, K\.\.\. luck\. } ^
+luck ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+neat ^
+{ N, E, A, T\.\.\. neat\. } ^
+neat ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+cold ^
+{ C, O, L, D\.\.\. cold\. } ^
+cold ^
+<courtesyTone> ^
+cl ^
+{ C, L\. } ^
+club ^
+{ C, L, U, B\.\.\. club\. } ^
+club ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+monk ^
+{ M, O, N, K\.\.\. monk\. } ^
+monk ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+copy ^
+{ C, O, P, Y\.\.\. copy\. } ^
+copy ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+bank ^
+{ B, A, N, K\.\.\. bank\. } ^
+bank ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+ball ^
+{ B, A, L, L\.\.\. ball\. } ^
+ball ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+stay ^
+{ S, T, A, Y\.\.\. stay\. } ^
+stay ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+duty ^
+{ D, U, T, Y\.\.\. duty\. } ^
+duty ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+sale ^
+{ S, A, L, E\.\.\. sale\. } ^
+sale ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wage ^
+{ W, A, G, E\.\.\. wage\. } ^
+wage ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+fish ^
+{ F, I, S, H\.\.\. fish\. } ^
+fish ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+bowl ^
+{ B, O, W, L\.\.\. bowl\. } ^
+bowl ^
+<courtesyTone> ^
+ye ^
+{ Y, E\. } ^
+year ^
+{ Y, E, A, R\.\.\. year\. } ^
+year ^
+<courtesyTone> ^
+el ^
+{ E, L\. } ^
+else ^
+{ E, L, S, E\.\.\. else\. } ^
+else ^
+<courtesyTone> ^
+to ^
+{ T, O\. } ^
+tool ^
+{ T, O, O, L\.\.\. tool\. } ^
+tool ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+cope ^
+{ C, O, P, E\.\.\. cope\. } ^
+cope ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+dumb ^
+{ D, U, M, B\.\.\. dumb\. } ^
+dumb ^
+<courtesyTone> ^
+ev ^
+{ E, V\. } ^
+evil ^
+{ E, V, I, L\.\.\. evil\. } ^
+evil ^
+<courtesyTone> ^
+hu ^
+{ H, U\. } ^
+hurt ^
+{ H, U, R, T\.\.\. hurt\. } ^
+hurt ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+teen ^
+{ T, E, E, N\.\.\. teen\. } ^
+teen ^
+<courtesyTone> ^
+wo ^
+{ W, O\. } ^
+word ^
+{ W, O, R, D\.\.\. word\. } ^
+word ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+save ^
+{ S, A, V, E\.\.\. save\. } ^
+save ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+coup ^
+{ C, O, U, P\.\.\. coup\. } ^
+coup ^
+<courtesyTone> ^
+bl ^
+{ B, L\. } ^
+blow ^
+{ B, L, O, W\.\.\. blow\. } ^
+blow ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fare ^
+{ F, A, R, E\.\.\. fare\. } ^
+fare ^
+<courtesyTone> ^
+ke ^
+{ K, E\. } ^
+keen ^
+{ K, E, E, N\.\.\. keen\. } ^
+keen ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+look ^
+{ L, O, O, K\.\.\. look\. } ^
+look ^
+<courtesyTone> ^
+fe ^
+{ F, E\. } ^
+fear ^
+{ F, E, A, R\.\.\. fear\. } ^
+fear ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+next ^
+{ N, E, X, T\.\.\. next\. } ^
+next ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+than ^
+{ T, H, A, N\.\.\. than\. } ^
+than ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bent ^
+{ B, E, N, T\.\.\. bent\. } ^
+bent ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+part ^
+{ P, A, R, T\.\.\. part\. } ^
+part ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+test ^
+{ T, E, S, T\.\.\. test\. } ^
+test ^
+<courtesyTone> ^
+pr ^
+{ P, R\. } ^
+pray ^
+{ P, R, A, Y\.\.\. pray\. } ^
+pray ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+dull ^
+{ D, U, L, L\.\.\. dull\. } ^
+dull ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soap ^
+{ S, O, A, P\.\.\. soap\. } ^
+soap ^
+<courtesyTone> ^
+al ^
+{ A, L\. } ^
+also ^
+{ A, L, S, O\.\.\. also\. } ^
+also ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+loan ^
+{ L, O, A, N\.\.\. loan\. } ^
+loan ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+load ^
+{ L, O, A, D\.\.\. load\. } ^
+load ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+bank ^
+{ B, A, N, K\.\.\. bank\. } ^
+bank ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+fire ^
+{ F, I, R, E\.\.\. fire\. } ^
+fire ^
+<courtesyTone> ^
+tr ^
+{ T, R\. } ^
+trap ^
+{ T, R, A, P\.\.\. trap\. } ^
+trap ^
+<courtesyTone> ^
+ni ^
+{ N, I\. } ^
+nice ^
+{ N, I, C, E\.\.\. nice\. } ^
+nice ^
+<courtesyTone> ^
+sn ^
+{ S, N\. } ^
+snow ^
+{ S, N, O, W\.\.\. snow\. } ^
+snow ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mine ^
+{ M, I, N, E\.\.\. mine\. } ^
+mine ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+lift ^
+{ L, I, F, T\.\.\. lift\. } ^
+lift ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+hear ^
+{ H, E, A, R\.\.\. hear\. } ^
+hear ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+list ^
+{ L, I, S, T\.\.\. list\. } ^
+list ^
+<courtesyTone> ^
+dr ^
+{ D, R\. } ^
+drag ^
+{ D, R, A, G\.\.\. drag\. } ^
+drag ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+code ^
+{ C, O, D, E\.\.\. code\. } ^
+code ^
+<courtesyTone> ^
+bi ^
+{ B, I\. } ^
+bite ^
+{ B, I, T, E\.\.\. bite\. } ^
+bite ^
+<courtesyTone> ^
+zo ^
+{ Z, O\. } ^
+zone ^
+{ Z, O, N, E\.\.\. zone\. } ^
+zone ^
+<courtesyTone> ^
+va ^
+{ V, A\. } ^
+vary ^
+{ V, A, R, Y\.\.\. vary\. } ^
+vary ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+tale ^
+{ T, A, L, E\.\.\. tale\. } ^
+tale ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+step ^
+{ S, T, E, P\.\.\. step\. } ^
+step ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+ride ^
+{ R, I, D, E\.\.\. ride\. } ^
+ride ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rape ^
+{ R, A, P, E\.\.\. rape\. } ^
+rape ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+milk ^
+{ M, I, L, K\.\.\. milk\. } ^
+milk ^
+<courtesyTone> ^
+di ^
+{ D, I\. } ^
+dive ^
+{ D, I, V, E\.\.\. dive\. } ^
+dive ^
+<courtesyTone> ^
+dr ^
+{ D, R\. } ^
+drop ^
+{ D, R, O, P\.\.\. drop\. } ^
+drop ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+team ^
+{ T, E, A, M\.\.\. team\. } ^
+team ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+life ^
+{ L, I, F, E\.\.\. life\. } ^
+life ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+case ^
+{ C, A, S, E\.\.\. case\. } ^
+case ^
+<courtesyTone> ^
+di ^
+{ D, I\. } ^
+diet ^
+{ D, I, E, T\.\.\. diet\. } ^
+diet ^
+<courtesyTone> ^
+fl ^
+{ F, L\. } ^
+flee ^
+{ F, L, E, E\.\.\. flee\. } ^
+flee ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+lend ^
+{ L, E, N, D\.\.\. lend\. } ^
+lend ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mile ^
+{ M, I, L, E\.\.\. mile\. } ^
+mile ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+male ^
+{ M, A, L, E\.\.\. male\. } ^
+male ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mill ^
+{ M, I, L, L\.\.\. mill\. } ^
+mill ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wave ^
+{ W, A, V, E\.\.\. wave\. } ^
+wave ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+poor ^
+{ P, O, O, R\.\.\. poor\. } ^
+poor ^
+<courtesyTone> ^
+da ^
+{ D, A\. } ^
+date ^
+{ D, A, T, E\.\.\. date\. } ^
+date ^
+<courtesyTone> ^
+mu ^
+{ M, U\. } ^
+must ^
+{ M, U, S, T\.\.\. must\. } ^
+must ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+deal ^
+{ D, E, A, L\.\.\. deal\. } ^
+deal ^
+<courtesyTone> ^
+fl ^
+{ F, L\. } ^
+flaw ^
+{ F, L, A, W\.\.\. flaw\. } ^
+flaw ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+mess ^
+{ M, E, S, S\.\.\. mess\. } ^
+mess ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+leaf ^
+{ L, E, A, F\.\.\. leaf\. } ^
+leaf ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+fond ^
+{ F, O, N, D\.\.\. fond\. } ^
+fond ^
+<courtesyTone> ^
+sl ^
+{ S, L\. } ^
+slot ^
+{ S, L, O, T\.\.\. slot\. } ^
+slot ^
+<courtesyTone> ^
+ar ^
+{ A, R\. } ^
+area ^
+{ A, R, E, A\.\.\. area\. } ^
+area ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+poet ^
+{ P, O, E, T\.\.\. poet\. } ^
+poet ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+warm ^
+{ W, A, R, M\.\.\. warm\. } ^
+warm ^
+<courtesyTone> ^
+pu ^
+{ P, U\. } ^
+pump ^
+{ P, U, M, P\.\.\. pump\. } ^
+pump ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+core ^
+{ C, O, R, E\.\.\. core\. } ^
+core ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wise ^
+{ W, I, S, E\.\.\. wise\. } ^
+wise ^
+<courtesyTone> ^
+bu ^
+{ B, U\. } ^
+buck ^
+{ B, U, C, K\.\.\. buck\. } ^
+buck ^
+<courtesyTone> ^
+cl ^
+{ C, L\. } ^
+clue ^
+{ C, L, U, E\.\.\. clue\. } ^
+clue ^
+<courtesyTone> ^
+sh ^
+{ S, H\. } ^
+shop ^
+{ S, H, O, P\.\.\. shop\. } ^
+shop ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+hour ^
+{ H, O, U, R\.\.\. hour\. } ^
+hour ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+mean ^
+{ M, E, A, N\.\.\. mean\. } ^
+mean ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+lens ^
+{ L, E, N, S\.\.\. lens\. } ^
+lens ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+dump ^
+{ D, U, M, P\.\.\. dump\. } ^
+dump ^
+<courtesyTone> ^
+cu ^
+{ C, U\. } ^
+cult ^
+{ C, U, L, T\.\.\. cult\. } ^
+cult ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+that ^
+{ T, H, A, T\.\.\. that\. } ^
+that ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+home ^
+{ H, O, M, E\.\.\. home\. } ^
+home ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+hero ^
+{ H, E, R, O\.\.\. hero\. } ^
+hero ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+move ^
+{ M, O, V, E\.\.\. move\. } ^
+move ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+form ^
+{ F, O, R, M\.\.\. form\. } ^
+form ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+silk ^
+{ S, I, L, K\.\.\. silk\. } ^
+silk ^
+<courtesyTone> ^
+ki ^
+{ K, I\. } ^
+kill ^
+{ K, I, L, L\.\.\. kill\. } ^
+kill ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+rock ^
+{ R, O, C, K\.\.\. rock\. } ^
+rock ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+bomb ^
+{ B, O, M, B\.\.\. bomb\. } ^
+bomb ^
+<courtesyTone> ^
+sl ^
+{ S, L\. } ^
+slow ^
+{ S, L, O, W\.\.\. slow\. } ^
+slow ^
+<courtesyTone> ^
+ru ^
+{ R, U\. } ^
+rush ^
+{ R, U, S, H\.\.\. rush\. } ^
+rush ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+herb ^
+{ H, E, R, B\.\.\. herb\. } ^
+herb ^
+<courtesyTone> ^
+ga ^
+{ G, A\. } ^
+gang ^
+{ G, A, N, G\.\.\. gang\. } ^
+gang ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+desk ^
+{ D, E, S, K\.\.\. desk\. } ^
+desk ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+loss ^
+{ L, O, S, S\.\.\. loss\. } ^
+loss ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+bone ^
+{ B, O, N, E\.\.\. bone\. } ^
+bone ^
+<courtesyTone> ^
+ke ^
+{ K, E\. } ^
+keep ^
+{ K, E, E, P\.\.\. keep\. } ^
+keep ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+near ^
+{ N, E, A, R\.\.\. near\. } ^
+near ^
+<courtesyTone> ^
+dr ^
+{ D, R\. } ^
+drug ^
+{ D, R, U, G\.\.\. drug\. } ^
+drug ^
+<courtesyTone> ^
+re ^
+{ R, E\. } ^
+real ^
+{ R, E, A, L\.\.\. real\. } ^
+real ^
+<courtesyTone> ^
+ov ^
+{ O, V\. } ^
+oven ^
+{ O, V, E, N\.\.\. oven\. } ^
+oven ^
+<courtesyTone> ^
+ea ^
+{ E, A\. } ^
+east ^
+{ E, A, S, T\.\.\. east\. } ^
+east ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+four ^
+{ F, O, U, R\.\.\. four\. } ^
+four ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wall ^
+{ W, A, L, L\.\.\. wall\. } ^
+wall ^
+<courtesyTone> ^
+bu ^
+{ B, U\. } ^
+busy ^
+{ B, U, S, Y\.\.\. busy\. } ^
+busy ^
+<courtesyTone> ^
+hu ^
+{ H, U\. } ^
+hunt ^
+{ H, U, N, T\.\.\. hunt\. } ^
+hunt ^
+<courtesyTone> ^
+bu ^
+{ B, U\. } ^
+bury ^
+{ B, U, R, Y\.\.\. bury\. } ^
+bury ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+tent ^
+{ T, E, N, T\.\.\. tent\. } ^
+tent ^
+<courtesyTone> ^
+ki ^
+{ K, I\. } ^
+kind ^
+{ K, I, N, D\.\.\. kind\. } ^
+kind ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+cafe ^
+{ C, A, F, E\.\.\. cafe\. } ^
+cafe ^
+<courtesyTone> ^
+we ^
+{ W, E\. } ^
+well ^
+{ W, E, L, L\.\.\. well\. } ^
+well ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+belt ^
+{ B, E, L, T\.\.\. belt\. } ^
+belt ^
+<courtesyTone> ^
+ja ^
+{ J, A\. } ^
+jazz ^
+{ J, A, Z, Z\.\.\. jazz\. } ^
+jazz ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+thus ^
+{ T, H, U, S\.\.\. thus\. } ^
+thus ^
+<courtesyTone> ^
+go ^
+{ G, O\. } ^
+gold ^
+{ G, O, L, D\.\.\. gold\. } ^
+gold ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bean ^
+{ B, E, A, N\.\.\. bean\. } ^
+bean ^
+<courtesyTone> ^
+ch ^
+{ C, H\. } ^
+chip ^
+{ C, H, I, P\.\.\. chip\. } ^
+chip ^
+<courtesyTone> ^
+ic ^
+{ I, C\. } ^
+icon ^
+{ I, C, O, N\.\.\. icon\. } ^
+icon ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+fork ^
+{ F, O, R, K\.\.\. fork\. } ^
+fork ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mild ^
+{ M, I, L, D\.\.\. mild\. } ^
+mild ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+heat ^
+{ H, E, A, T\.\.\. heat\. } ^
+heat ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+bail ^
+{ B, A, I, L\.\.\. bail\. } ^
+bail ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+post ^
+{ P, O, S, T\.\.\. post\. } ^
+post ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+mark ^
+{ M, A, R, K\.\.\. mark\. } ^
+mark ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+them ^
+{ T, H, E, M\.\.\. them\. } ^
+them ^
+<courtesyTone> ^
+gl ^
+{ G, L\. } ^
+glad ^
+{ G, L, A, D\.\.\. glad\. } ^
+glad ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bear ^
+{ B, E, A, R\.\.\. bear\. } ^
+bear ^
+<courtesyTone> ^
+ed ^
+{ E, D\. } ^
+edge ^
+{ E, D, G, E\.\.\. edge\. } ^
+edge ^
+<courtesyTone> ^
+cr ^
+{ C, R\. } ^
+crop ^
+{ C, R, O, P\.\.\. crop\. } ^
+crop ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+mate ^
+{ M, A, T, E\.\.\. mate\. } ^
+mate ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+calm ^
+{ C, A, L, M\.\.\. calm\. } ^
+calm ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+port ^
+{ P, O, R, T\.\.\. port\. } ^
+port ^
+<courtesyTone> ^
+fl ^
+{ F, L\. } ^
+flow ^
+{ F, L, O, W\.\.\. flow\. } ^
+flow ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+pair ^
+{ P, A, I, R\.\.\. pair\. } ^
+pair ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+seem ^
+{ S, E, E, M\.\.\. seem\. } ^
+seem ^
+<courtesyTone> ^
+in ^
+{ I, N\. } ^
+into ^
+{ I, N, T, O\.\.\. into\. } ^
+into ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+limb ^
+{ L, I, M, B\.\.\. limb\. } ^
+limb ^
+<courtesyTone> ^
+fr ^
+{ F, R\. } ^
+frog ^
+{ F, R, O, G\.\.\. frog\. } ^
+frog ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+pack ^
+{ P, A, C, K\.\.\. pack\. } ^
+pack ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+risk ^
+{ R, I, S, K\.\.\. risk\. } ^
+risk ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+here ^
+{ H, E, R, E\.\.\. here\. } ^
+here ^
+<courtesyTone> ^
+ir ^
+{ I, R\. } ^
+iron ^
+{ I, R, O, N\.\.\. iron\. } ^
+iron ^
+<courtesyTone> ^
+lu ^
+{ L, U\. } ^
+lung ^
+{ L, U, N, G\.\.\. lung\. } ^
+lung ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+boat ^
+{ B, O, A, T\.\.\. boat\. } ^
+boat ^
+<courtesyTone> ^
+sc ^
+{ S, C\. } ^
+scan ^
+{ S, C, A, N\.\.\. scan\. } ^
+scan ^
+<courtesyTone> ^
+ne ^
+{ N, E\. } ^
+need ^
+{ N, E, E, D\.\.\. need\. } ^
+need ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+hole ^
+{ H, O, L, E\.\.\. hole\. } ^
+hole ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+soft ^
+{ S, O, F, T\.\.\. soft\. } ^
+soft ^
+<courtesyTone> ^
+op ^
+{ O, P\. } ^
+open ^
+{ O, P, E, N\.\.\. open\. } ^
+open ^
+<courtesyTone> ^
+sp ^
+{ S, P\. } ^
+spam ^
+{ S, P, A, M\.\.\. spam\. } ^
+spam ^
+<courtesyTone> ^
+pu ^
+{ P, U\. } ^
+punk ^
+{ P, U, N, K\.\.\. punk\. } ^
+punk ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+ward ^
+{ W, A, R, D\.\.\. ward\. } ^
+ward ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+debt ^
+{ D, E, B, T\.\.\. debt\. } ^
+debt ^
+<courtesyTone> ^
+sp ^
+{ S, P\. } ^
+span ^
+{ S, P, A, N\.\.\. span\. } ^
+span ^
+<courtesyTone> ^
+re ^
+{ R, E\. } ^
+rear ^
+{ R, E, A, R\.\.\. rear\. } ^
+rear ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+have ^
+{ H, A, V, E\.\.\. have\. } ^
+have ^
+<courtesyTone> ^
+no ^
+{ N, O\. } ^
+nose ^
+{ N, O, S, E\.\.\. nose\. } ^
+nose ^
+<courtesyTone> ^
+li ^
+{ L, I\. } ^
+link ^
+{ L, I, N, K\.\.\. link\. } ^
+link ^
+<courtesyTone> ^
+bl ^
+{ B, L\. } ^
+blow ^
+{ B, L, O, W\.\.\. blow\. } ^
+blow ^
+<courtesyTone> ^
+na ^
+{ N, A\. } ^
+name ^
+{ N, A, M, E\.\.\. name\. } ^
+name ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+meet ^
+{ M, E, E, T\.\.\. meet\. } ^
+meet ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+stem ^
+{ S, T, E, M\.\.\. stem\. } ^
+stem ^
+<courtesyTone> ^
+on ^
+{ O, N\. } ^
+only ^
+{ O, N, L, Y\.\.\. only\. } ^
+only ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rail ^
+{ R, A, I, L\.\.\. rail\. } ^
+rail ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+poll ^
+{ P, O, L, L\.\.\. poll\. } ^
+poll ^
+<courtesyTone> ^
+gr ^
+{ G, R\. } ^
+grid ^
+{ G, R, I, D\.\.\. grid\. } ^
+grid ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+fool ^
+{ F, O, O, L\.\.\. fool\. } ^
+fool ^
+<courtesyTone> ^
+in ^
+{ I, N\. } ^
+info ^
+{ I, N, F, O\.\.\. info\. } ^
+info ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+lane ^
+{ L, A, N, E\.\.\. lane\. } ^
+lane ^
+<courtesyTone> ^
+ge ^
+{ G, E\. } ^
+gear ^
+{ G, E, A, R\.\.\. gear\. } ^
+gear ^
+<courtesyTone> ^
+du ^
+{ D, U\. } ^
+dual ^
+{ D, U, A, L\.\.\. dual\. } ^
+dual ^
+<courtesyTone> ^
+va ^
+{ V, A\. } ^
+vast ^
+{ V, A, S, T\.\.\. vast\. } ^
+vast ^
+<courtesyTone> ^
+ju ^
+{ J, U\. } ^
+just ^
+{ J, U, S, T\.\.\. just\. } ^
+just ^
+<courtesyTone> ^
+ki ^
+{ K, I\. } ^
+kind ^
+{ K, I, N, D\.\.\. kind\. } ^
+kind ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+tail ^
+{ T, A, I, L\.\.\. tail\. } ^
+tail ^
+<courtesyTone> ^
+le ^
+{ L, E\. } ^
+lean ^
+{ L, E, A, N\.\.\. lean\. } ^
+lean ^
+<courtesyTone> ^
+te ^
+{ T, E\. } ^
+text ^
+{ T, E, X, T\.\.\. text\. } ^
+text ^
+<courtesyTone> ^
+st ^
+{ S, T\. } ^
+star ^
+{ S, T, A, R\.\.\. star\. } ^
+star ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+back ^
+{ B, A, C, K\.\.\. back\. } ^
+back ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+lord ^
+{ L, O, R, D\.\.\. lord\. } ^
+lord ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+sand ^
+{ S, A, N, D\.\.\. sand\. } ^
+sand ^
+<courtesyTone> ^
+bl ^
+{ B, L\. } ^
+blog ^
+{ B, L, O, G\.\.\. blog\. } ^
+blog ^
+<courtesyTone> ^
+de ^
+{ D, E\. } ^
+deck ^
+{ D, E, C, K\.\.\. deck\. } ^
+deck ^
+<courtesyTone> ^
+Ju ^
+{ J, U\. } ^
+July ^
+{ J, U, L, Y\.\.\. July\. } ^
+July ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+this ^
+{ T, H, I, S\.\.\. this\. } ^
+this ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+beam ^
+{ B, E, A, M\.\.\. beam\. } ^
+beam ^
+<courtesyTone> ^
+vi ^
+{ V, I\. } ^
+view ^
+{ V, I, E, W\.\.\. view\. } ^
+view ^
+<courtesyTone> ^
+pa ^
+{ P, A\. } ^
+pale ^
+{ P, A, L, E\.\.\. pale\. } ^
+pale ^
+<courtesyTone> ^
+ca ^
+{ C, A\. } ^
+camp ^
+{ C, A, M, P\.\.\. camp\. } ^
+camp ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+land ^
+{ L, A, N, D\.\.\. land\. } ^
+land ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+bake ^
+{ B, A, K, E\.\.\. bake\. } ^
+bake ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+sick ^
+{ S, I, C, K\.\.\. sick\. } ^
+sick ^
+<courtesyTone> ^
+ur ^
+{ U, R\. } ^
+urge ^
+{ U, R, G, E\.\.\. urge\. } ^
+urge ^
+<courtesyTone> ^
+ba ^
+{ B, A\. } ^
+baby ^
+{ B, A, B, Y\.\.\. baby\. } ^
+baby ^
+<courtesyTone> ^
+cl ^
+{ C, L\. } ^
+clip ^
+{ C, L, I, P\.\.\. clip\. } ^
+clip ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+miss ^
+{ M, I, S, S\.\.\. miss\. } ^
+miss ^
+<courtesyTone> ^
+in ^
+{ I, N\. } ^
+inch ^
+{ I, N, C, H\.\.\. inch\. } ^
+inch ^
+<courtesyTone> ^
+or ^
+{ O, R\. } ^
+oral ^
+{ O, R, A, L\.\.\. oral\. } ^
+oral ^
+<courtesyTone> ^
+cu ^
+{ C, U\. } ^
+cute ^
+{ C, U, T, E\.\.\. cute\. } ^
+cute ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+meal ^
+{ M, E, A, L\.\.\. meal\. } ^
+meal ^
+<courtesyTone> ^
+sp ^
+{ S, P\. } ^
+spin ^
+{ S, P, I, N\.\.\. spin\. } ^
+spin ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+salt ^
+{ S, A, L, T\.\.\. salt\. } ^
+salt ^
+<courtesyTone> ^
+hi ^
+{ H, I\. } ^
+high ^
+{ H, I, G, H\.\.\. high\. } ^
+high ^
+<courtesyTone> ^
+ex ^
+{ E, X\. } ^
+exam ^
+{ E, X, A, M\.\.\. exam\. } ^
+exam ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+seed ^
+{ S, E, E, D\.\.\. seed\. } ^
+seed ^
+<courtesyTone> ^
+pl ^
+{ P, L\. } ^
+play ^
+{ P, L, A, Y\.\.\. play\. } ^
+play ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+boil ^
+{ B, O, I, L\.\.\. boil\. } ^
+boil ^
+<courtesyTone> ^
+wa ^
+{ W, A\. } ^
+wake ^
+{ W, A, K, E\.\.\. wake\. } ^
+wake ^
+<courtesyTone> ^
+ea ^
+{ E, A\. } ^
+easy ^
+{ E, A, S, Y\.\.\. easy\. } ^
+easy ^
+<courtesyTone> ^
+ov ^
+{ O, V\. } ^
+over ^
+{ O, V, E, R\.\.\. over\. } ^
+over ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+rich ^
+{ R, I, C, H\.\.\. rich\. } ^
+rich ^
+<courtesyTone> ^
+ra ^
+{ R, A\. } ^
+rate ^
+{ R, A, T, E\.\.\. rate\. } ^
+rate ^
+<courtesyTone> ^
+la ^
+{ L, A\. } ^
+lady ^
+{ L, A, D, Y\.\.\. lady\. } ^
+lady ^
+<courtesyTone> ^
+fr ^
+{ F, R\. } ^
+from ^
+{ F, R, O, M\.\.\. from\. } ^
+from ^
+<courtesyTone> ^
+ti ^
+{ T, I\. } ^
+till ^
+{ T, I, L, L\.\.\. till\. } ^
+till ^
+<courtesyTone> ^
+my ^
+{ M, Y\. } ^
+myth ^
+{ M, Y, T, H\.\.\. myth\. } ^
+myth ^
+<courtesyTone> ^
+ro ^
+{ R, O\. } ^
+rock ^
+{ R, O, C, K\.\.\. rock\. } ^
+rock ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+size ^
+{ S, I, Z, E\.\.\. size\. } ^
+size ^
+<courtesyTone> ^
+hi ^
+{ H, I\. } ^
+hint ^
+{ H, I, N, T\.\.\. hint\. } ^
+hint ^
+<courtesyTone> ^
+da ^
+{ D, A\. } ^
+data ^
+{ D, A, T, A\.\.\. data\. } ^
+data ^
+<courtesyTone> ^
+di ^
+{ D, I\. } ^
+dish ^
+{ D, I, S, H\.\.\. dish\. } ^
+dish ^
+<courtesyTone> ^
+lo ^
+{ L, O\. } ^
+lost ^
+{ L, O, S, T\.\.\. lost\. } ^
+lost ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+mode ^
+{ M, O, D, E\.\.\. mode\. } ^
+mode ^
+<courtesyTone> ^
+ho ^
+{ H, O\. } ^
+hope ^
+{ H, O, P, E\.\.\. hope\. } ^
+hope ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+bold ^
+{ B, O, L, D\.\.\. bold\. } ^
+bold ^
+<courtesyTone> ^
+yo ^
+{ Y, O\. } ^
+your ^
+{ Y, O, U, R\.\.\. your\. } ^
+your ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fact ^
+{ F, A, C, T\.\.\. fact\. } ^
+fact ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+same ^
+{ S, A, M, E\.\.\. same\. } ^
+same ^
+<courtesyTone> ^
+ve ^
+{ V, E\. } ^
+very ^
+{ V, E, R, Y\.\.\. very\. } ^
+very ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wine ^
+{ W, I, N, E\.\.\. wine\. } ^
+wine ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+sigh ^
+{ S, I, G, H\.\.\. sigh\. } ^
+sigh ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+heal ^
+{ H, E, A, L\.\.\. heal\. } ^
+heal ^
+<courtesyTone> ^
+fr ^
+{ F, R\. } ^
+free ^
+{ F, R, E, E\.\.\. free\. } ^
+free ^
+<courtesyTone> ^
+tu ^
+{ T, U\. } ^
+tube ^
+{ T, U, B, E\.\.\. tube\. } ^
+tube ^
+<courtesyTone> ^
+he ^
+{ H, E\. } ^
+hell ^
+{ H, E, L, L\.\.\. hell\. } ^
+hell ^
+<courtesyTone> ^
+go ^
+{ G, O\. } ^
+good ^
+{ G, O, O, D\.\.\. good\. } ^
+good ^
+<courtesyTone> ^
+bi ^
+{ B, I\. } ^
+bind ^
+{ B, I, N, D\.\.\. bind\. } ^
+bind ^
+<courtesyTone> ^
+ju ^
+{ J, U\. } ^
+jury ^
+{ J, U, R, Y\.\.\. jury\. } ^
+jury ^
+<courtesyTone> ^
+po ^
+{ P, O\. } ^
+pose ^
+{ P, O, S, E\.\.\. pose\. } ^
+pose ^
+<courtesyTone> ^
+ti ^
+{ T, I\. } ^
+tidy ^
+{ T, I, D, Y\.\.\. tidy\. } ^
+tidy ^
+<courtesyTone> ^
+gr ^
+{ G, R\. } ^
+grow ^
+{ G, R, O, W\.\.\. grow\. } ^
+grow ^
+<courtesyTone> ^
+gr ^
+{ G, R\. } ^
+grey ^
+{ G, R, E, Y\.\.\. grey\. } ^
+grey ^
+<courtesyTone> ^
+sa ^
+{ S, A\. } ^
+sake ^
+{ S, A, K, E\.\.\. sake\. } ^
+sake ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+firm ^
+{ F, I, R, M\.\.\. firm\. } ^
+firm ^
+<courtesyTone> ^
+pl ^
+{ P, L\. } ^
+plot ^
+{ P, L, O, T\.\.\. plot\. } ^
+plot ^
+<courtesyTone> ^
+do ^
+{ D, O\. } ^
+down ^
+{ D, O, W, N\.\.\. down\. } ^
+down ^
+<courtesyTone> ^
+ma ^
+{ M, A\. } ^
+mall ^
+{ M, A, L, L\.\.\. mall\. } ^
+mall ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bend ^
+{ B, E, N, D\.\.\. bend\. } ^
+bend ^
+<courtesyTone> ^
+ag ^
+{ A, G\. } ^
+aged ^
+{ A, G, E, D\.\.\. aged\. } ^
+aged ^
+<courtesyTone> ^
+bo ^
+{ B, O\. } ^
+book ^
+{ B, O, O, K\.\.\. book\. } ^
+book ^
+<courtesyTone> ^
+ta ^
+{ T, A\. } ^
+talk ^
+{ T, A, L, K\.\.\. talk\. } ^
+talk ^
+<courtesyTone> ^
+be ^
+{ B, E\. } ^
+bear ^
+{ B, E, A, R\.\.\. bear\. } ^
+bear ^
+<courtesyTone> ^
+ha ^
+{ H, A\. } ^
+hair ^
+{ H, A, I, R\.\.\. hair\. } ^
+hair ^
+<courtesyTone> ^
+ci ^
+{ C, I\. } ^
+city ^
+{ C, I, T, Y\.\.\. city\. } ^
+city ^
+<courtesyTone> ^
+co ^
+{ C, O\. } ^
+coat ^
+{ C, O, A, T\.\.\. coat\. } ^
+coat ^
+<courtesyTone> ^
+ai ^
+{ A, I\. } ^
+aide ^
+{ A, I, D, E\.\.\. aide\. } ^
+aide ^
+<courtesyTone> ^
+ki ^
+{ K, I\. } ^
+kick ^
+{ K, I, C, K\.\.\. kick\. } ^
+kick ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+some ^
+{ S, O, M, E\.\.\. some\. } ^
+some ^
+<courtesyTone> ^
+we ^
+{ W, E\. } ^
+weed ^
+{ W, E, E, D\.\.\. weed\. } ^
+weed ^
+<courtesyTone> ^
+mo ^
+{ M, O\. } ^
+most ^
+{ M, O, S, T\.\.\. most\. } ^
+most ^
+<courtesyTone> ^
+su ^
+{ S, U\. } ^
+such ^
+{ S, U, C, H\.\.\. such\. } ^
+such ^
+<courtesyTone> ^
+me ^
+{ M, E\. } ^
+menu ^
+{ M, E, N, U\.\.\. menu\. } ^
+menu ^
+<courtesyTone> ^
+it ^
+{ I, T\. } ^
+item ^
+{ I, T, E, M\.\.\. item\. } ^
+item ^
+<courtesyTone> ^
+se ^
+{ S, E\. } ^
+seal ^
+{ S, E, A, L\.\.\. seal\. } ^
+seal ^
+<courtesyTone> ^
+ge ^
+{ G, E\. } ^
+gene ^
+{ G, E, N, E\.\.\. gene\. } ^
+gene ^
+<courtesyTone> ^
+bu ^
+{ B, U\. } ^
+burn ^
+{ B, U, R, N\.\.\. burn\. } ^
+burn ^
+<courtesyTone> ^
+fi ^
+{ F, I\. } ^
+file ^
+{ F, I, L, E\.\.\. file\. } ^
+file ^
+<courtesyTone> ^
+mi ^
+{ M, I\. } ^
+mine ^
+{ M, I, N, E\.\.\. mine\. } ^
+mine ^
+<courtesyTone> ^
+tu ^
+{ T, U\. } ^
+turn ^
+{ T, U, R, N\.\.\. turn\. } ^
+turn ^
+<courtesyTone> ^
+si ^
+{ S, I\. } ^
+sign ^
+{ S, I, G, N\.\.\. sign\. } ^
+sign ^
+<courtesyTone> ^
+sl ^
+{ S, L\. } ^
+slam ^
+{ S, L, A, M\.\.\. slam\. } ^
+slam ^
+<courtesyTone> ^
+fa ^
+{ F, A\. } ^
+fade ^
+{ F, A, D, E\.\.\. fade\. } ^
+fade ^
+<courtesyTone> ^
+so ^
+{ S, O\. } ^
+sort ^
+{ S, O, R, T\.\.\. sort\. } ^
+sort ^
+<courtesyTone> ^
+wi ^
+{ W, I\. } ^
+wife ^
+{ W, I, F, E\.\.\. wife\. } ^
+wife ^
+<courtesyTone> ^
+un ^
+{ U, N\. } ^
+unit ^
+{ U, N, I, T\.\.\. unit\. } ^
+unit ^
+<courtesyTone> ^
+su ^
+{ S, U\. } ^
+suck ^
+{ S, U, C, K\.\.\. suck\. } ^
+suck ^
+<courtesyTone> ^
+th ^
+{ T, H\. } ^
+then ^
+{ T, H, E, N\.\.\. then\. } ^
+then ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+rise ^
+{ R, I, S, E\.\.\. rise\. } ^
+rise ^
+<courtesyTone> ^
+fo ^
+{ F, O\. } ^
+foot ^
+{ F, O, O, T\.\.\. foot\. } ^
+foot ^
+<courtesyTone> ^
+ri ^
+{ R, I\. } ^
+riot ^
+{ R, I, O, T\.\.\. riot\. } ^
+riot ^
+<courtesyTone> ^

@@ -1,0 +1,1213 @@
+{ Something used to carry groceries\. } ^ 
+Bag ^ 
+{ An item for foot comfort\. } ^ 
+Socks ^ 
+{ Something seen in the sky\. } ^
+Cloud ^
+{ Something common in a city\. } ^
+Traffic ^
+{ An animal on a farm\. } ^
+Cow ^
+{ An item in a restaurant\. } ^
+Menu ^
+{ Something at a concert\. } ^
+Music ^
+{ An item in a bathroom\. } ^
+Towel ^
+{ Something at a wedding\. } ^
+Ring ^
+{ An item in a gym\. } ^
+Weights ^
+{ Something in a library\. } ^
+Shelf ^
+{ An item at a playground\. } ^
+Swing ^
+{ Something in a bedroom\. } ^
+Pillow ^
+{ An item in a clothing store\. } ^
+Jeans ^
+{ Something in a jewelry shop\. } ^
+Necklace ^
+{ An item in a pet store\. } ^
+Aquarium ^
+{ Something in a classroom\. } ^
+Chalk ^
+{ An animal at a zoo\. } ^
+Elephant ^
+{ Something in a bakery\. } ^
+Bread ^
+{ An item in a bank\. } ^
+Vault ^
+{ Something in a garage\. } ^
+Toolbox ^
+{ An item in a park\. } ^
+Bench ^
+{ Something in a museum\. } ^
+Artifact ^
+{ An appliance in a kitchen\. } ^
+Fridge ^
+{ Furniture in a living room\. } ^
+Sofa ^
+{ An item in a dining room\. } ^
+Plate ^
+{ Something in a home office\. } ^
+Desk ^
+{ An item in a laundry room\. } ^
+Detergent ^
+{ A tool in a hardware store\. } ^
+Screwdriver ^
+{ Something at a gas station\. } ^
+Pump ^
+{ An item in a hotel\. } ^
+Keycard ^
+{ A part of a car\. } ^
+Steering ^
+{ An item in a garden\. } ^
+Hose ^
+{ Something in a sports store\. } ^
+Sneakers ^
+{ An item in a toy store\. } ^
+Doll ^
+{ Something in a candy store\. } ^
+Chocolate ^
+{ An item in a music store\. } ^
+Guitar ^
+{ Something in a pharmacy\. } ^
+Prescription ^
+{ An item in a supermarket\. } ^
+Cart ^
+{ Something in a beauty salon\. } ^
+Scissors ^
+{ An item in a furniture store\. } ^
+Chair ^
+{ Something in a shoe store\. } ^
+Boots ^
+{ An item in a stationery store\. } ^
+Notebook ^
+{ Something in a book store\. } ^
+Novel ^
+{ An item in a coffee shop\. } ^
+Espresso ^
+{ Something in an electronics store\. } ^
+Charger ^
+{ An item in a pet shop\. } ^
+Leash ^
+{ Something in a toy shop\. } ^
+Puzzle ^
+{ An item in a hardware shop\. } ^
+Nails ^
+{ Something in a sports shop\. } ^
+Helmet ^
+{ An item in a clothing shop\. } ^
+Shirt ^
+{ Something in a grocery shop\. } ^
+Milk ^
+{ An item in a bakery\. } ^
+Pastry ^
+{ Something in a butcher shop\. } ^
+Steak ^
+{ An item in a fish market\. } ^
+Salmon ^
+{ Something in a flower shop\. } ^
+Vase ^
+{ An item in a gift shop\. } ^
+Souvenir ^
+{ Something in a stationery shop\. } ^
+Pen ^
+{ An item in a bookshop\. } ^
+Author ^
+{ Something in a coffee house\. } ^
+Latte ^
+{ An item in an electronic shop\. } ^
+Tablet ^
+{ Something in a pet store\. } ^
+Cage ^
+{ An item in a toy store\. } ^
+Blocks ^
+{ Something in a hardware store\. } ^
+Ladder ^
+{ An item in a sports store\. } ^
+Ball ^
+{ Something in a clothing store\. } ^
+Coat ^
+{ An item in a grocery store\. } ^
+Cereal ^
+{ Something in a bakery\. } ^
+Cookie ^
+{ An item in a butcher shop\. } ^
+Chicken ^
+{ Something in a fish market\. } ^
+Lobster ^
+{ An item in a flower shop\. } ^
+Orchid ^
+{ Something in a gift shop\. } ^
+Card ^
+{ An item in a stationery shop\. } ^
+Eraser ^
+{ Something in a bookshop\. } ^
+Magazine ^
+{ An item in a coffee house\. } ^
+Mocha ^
+{ Something in an electronic shop\. } ^
+Speaker ^
+{ An item in a pet store\. } ^
+Fish ^
+{ Something in a toy store\. } ^
+Car ^
+{ An item in a hardware store\. } ^
+Drill ^
+{ Something in a sports store\. } ^
+Glove ^
+{ An item in a clothing store\. } ^
+Dress ^
+{ Something in a grocery store\. } ^
+Banana ^
+{ An item in a bakery\. } ^
+Tart ^
+{ Something in a butcher shop\. } ^
+Pork ^
+{ An item in a fish market\. } ^
+Tuna ^
+{ Something in a flower shop\. } ^
+Rose ^
+{ An item in a gift shop\. } ^
+Candle ^
+{ Something in a stationery shop\. } ^
+Sticker ^
+{ An item in a bookshop\. } ^
+Dictionary ^
+{ Something in a coffee house\. } ^
+Cappuccino ^
+{ An item in an electronic shop\. } ^
+Mouse ^
+{ Something in a pet store\. } ^
+Parrot ^
+{ An item in a toy store\. } ^
+Kite ^
+{ Something in a hardware store\. } ^
+Bolt ^
+{ An item in a sports store\. } ^
+Skateboard ^
+{ Something in a clothing store\. } ^
+Scarf ^
+{ An item in a grocery store\. } ^
+Tomato ^
+{ Something in a bakery\. } ^
+Croissant ^
+{ An item in a butcher shop\. } ^
+Lamb ^
+{ Something in a fish market\. } ^
+Shrimp ^
+{ An item in a flower shop\. } ^
+Tulip ^
+{ Something in a gift shop\. } ^
+Perfume ^
+{ An item in a stationery shop\. } ^
+Clipboard ^
+{ Something in a bookshop\. } ^
+Atlas ^
+{ Something in an electronic shop\. } ^
+Headphones ^
+{ An item in a pet store\. } ^
+Turtle ^
+{ Something in a toy store\. } ^
+Robot ^
+{ An item in a hardware store\. } ^
+Saw ^
+{ Something in a sports store\. } ^
+Racket ^
+{ An item in a clothing store\. } ^
+Hat ^
+{ Something in a grocery store\. } ^
+Lettuce ^
+{ An item in a bakery\. } ^
+Muffin ^
+{ Something in a butcher shop\. } ^
+Ribs ^
+{ An item in a fish market\. } ^
+Crab ^
+{ Something in a flower shop\. } ^
+Daisy ^
+{ An item in a gift shop\. } ^
+Frame ^
+{ Something in a stationery shop\. } ^
+Marker ^
+{ An item in a bookshop\. } ^
+Textbook ^
+{ An item in an electronic shop\. } ^
+Camera ^
+{ Something in a pet store\. } ^
+Hamster ^
+{ Something in a hardware store\. } ^
+Wrench ^
+{ An item in a sports store\. } ^
+Football ^
+{ Something in a clothing store\. } ^
+Socks ^
+{ An item in a grocery store\. } ^
+Eggplant ^
+{ Something in a bakery\. } ^
+Bagel ^
+{ An item in a butcher shop\. } ^
+Turkey ^
+{ Something in a fish market\. } ^
+Mackerel ^
+{ An item in a flower shop\. } ^
+Lilac ^
+{ Something in a gift shop\. } ^
+Puzzle ^
+{ An item in a stationery shop\. } ^
+Glue ^
+{ Something in a bookshop\. } ^
+Biography ^
+{ An item in a coffee house\. } ^
+Latte ^
+{ Something in an electronic shop\. } ^
+Tablet ^
+{ An item in a pet store\. } ^
+Goldfish ^
+{ Something in the kitchen\. } ^
+Spoon ^
+{ A weather condition\. } ^
+Rain ^
+{ A kind of personal belonging\. } ^
+Wallet ^
+{ A type of office equipment\. } ^
+Printer ^
+{ An outdoor activity\. } ^
+Hike ^
+{ An item found in a school\. } ^
+Book ^
+{ A mode of transportation\. } ^
+Train ^
+{ An electronic device\. } ^
+Laptop ^
+{ Something found in a grocery store\. } ^
+Apple ^
+{ An object used for timekeeping\. } ^
+Clock ^
+{ Something found at the beach\. } ^
+Sand ^
+{ An item in a garden\. } ^
+Flower ^
+{ A tool in a toolbox\. } ^
+Hammer ^
+{ An item in a hospital\. } ^
+Nurse ^
+{ Something at a birthday party\. } ^
+Cake ^
+{ Something found in a forest\. } ^
+Tree ^
+{ A popular fruit\. } ^
+Apple ^
+{ A common kitchen utensil\. } ^
+Spoon ^
+{ A household cleaning item\. } ^
+Mop ^
+{ An item found in a classroom\. } ^
+Chalk ^
+{ A piece of furniture\. } ^
+Chair ^
+{ A writing instrument\. } ^
+Pen ^
+{ A basic shape\. } ^
+Circle ^
+{ An essential clothing item\. } ^
+Shirt ^
+{ A mode of transportation\. } ^
+Bus ^
+{ A personal grooming item\. } ^
+Comb ^
+{ A common pet\. } ^
+Dog ^
+{ A beverage\. } ^
+Tea ^
+{ A type of weather\. } ^
+Rain ^
+{ A part of the house\. } ^
+Roof ^
+{ An outdoor activity\. } ^
+Hike ^
+{ A children's toy\. } ^
+Ball ^
+{ A body part\. } ^
+Hand ^
+{ A musical instrument\. } ^
+Guitar ^
+{ A day of the week\. } ^
+Monday ^
+{ An office supply\. } ^
+Stapler ^
+{ A type of flower\. } ^
+Rose ^
+{ A color\. } ^
+Blue ^
+{ An electronic device\. } ^
+Phone ^
+{ A type of book\. } ^
+Novel ^
+{ A piece of jewelry\. } ^
+Ring ^
+{ An element of a computer\. } ^
+Mouse ^
+{ A type of shoe\. } ^
+Sandal ^
+{ An item of stationery\. } ^
+Envelope ^
+{ Something found in a park\. } ^
+Bench ^
+{ A common tool\. } ^
+Hammer ^
+{ A kitchen appliance\. } ^
+Toaster ^
+{ A part of a bicycle\. } ^
+Pedal ^
+{ A wild animal\. } ^
+Tiger ^
+{ A season of the year\. } ^
+Winter ^
+{ A sport\. } ^
+Soccer ^
+{ An insect\. } ^
+Bee ^
+{ A vegetable\. } ^
+Carrot ^
+{ A type of hat\. } ^
+Cap ^
+{ A body of water\. } ^
+River ^
+{ An occupation\. } ^
+Nurse ^
+{ A breakfast food\. } ^
+Eggs ^
+{ A musical genre\. } ^
+Jazz ^
+{ A recreational facility\. } ^
+Gym ^
+{ A spice or herb\. } ^
+Basil ^
+{ A natural resource\. } ^
+Coal ^
+{ A bathroom item\. } ^
+Towel ^
+{ An art supply\. } ^
+Paint ^
+{ A fruit dessert\. } ^
+Pie ^
+{ A tree\. } ^
+Maple ^
+{ A farm animal\. } ^
+Cow ^
+{ An academic subject\. } ^
+Math ^
+{ A holiday\. } ^
+Easter ^
+{ A type of bag\. } ^
+Backpack ^
+{ A planet\. } ^
+Mars ^
+{ A sea creature\. } ^
+Shark ^
+{ A bird\. } ^
+Owl ^
+{ A landscape feature\. } ^
+Valley ^
+{ A type of dance\. } ^
+Salsa ^
+{ A construction material\. } ^
+Brick ^
+{ An everyday chore\. } ^
+Laundry ^
+{ A source of light\. } ^
+Lamp ^
+{ A type of bread\. } ^
+Bagel ^
+{ A part of a car\. } ^{
+Tire ^
+{ A type of candy\. } ^
+Chocolate ^
+{ A household appliance\. } ^
+Vacuum ^
+{ An electronic accessory\. } ^
+Charger ^
+{ A piece of playground equipment\. } ^
+Slide ^
+{ A digital file type\. } ^
+PDF ^
+{ A social media platform\. } ^
+Twitter ^
+{ A container for liquids\. } ^
+Jug ^
+{ A snack food\. } ^
+Chips ^
+{ A soft drink\. } ^
+Cola ^
+{ A personal health item\. } ^
+Bandage ^
+{ Something found at the beach\. } ^
+Shell ^
+{ A unit of measurement\. } ^
+Meter ^
+{ A part of a clock\. } ^
+Hands ^
+{ A type of sauce\. } ^
+Ketchup ^
+{ A school subject\. } ^
+History ^
+{ A personal electronic\. } ^
+Tablet ^
+{ An article of outerwear\. } ^
+Coat ^
+{ A farm crop\. } ^
+Wheat ^
+{ A place for exercise\. } ^
+Track ^
+{ A geometric figure\. } ^
+Square ^
+{ A type of fuel\. } ^
+Gasoline ^
+{ A common herb\. } ^
+Mint ^
+{ Something used for writing on a board\. } ^
+Marker ^
+{ A form of entertainment\. } ^
+Movie ^
+{ A type of nut\. } ^
+Almond ^
+{ A hand-held tool\. } ^
+Wrench ^
+{ A hot beverage\. } ^
+Coffee ^
+{ Something used in gardening\. } ^
+Hose ^
+{ A personal accessory\. } ^
+Watch ^
+{ A common condiment\. } ^
+Mayonnaise ^
+{ A cold weather garment\. } ^
+Sweater ^
+{ A cosmetic item\. } ^
+Lipstick ^
+{ An item found on a desk\. } ^
+Notepad ^
+{ A type of cheese\. } ^
+Cheddar ^
+{ A type of meat\. } ^
+Beef ^
+{ A personal electronic device\. } ^
+Headphones ^
+{ Something found in a bathroom\. } ^
+Toothbrush ^
+{ An item on a breakfast table\. } ^
+Cereal ^
+{ Something in a garden\. } ^
+Shovel ^
+{ An item in a living room\. } ^
+Sofa ^
+{ Something in a classroom\. } ^
+Eraser ^
+{ An item in a grocery store\. } ^
+Apples ^
+{ Something used in an office\. } ^
+Printer ^
+{ An item found in a kitchen\. } ^
+Microwave ^
+{ Something on a farm\. } ^
+Tractor ^
+{ An item in a gym\. } ^
+Dumbbell ^
+{ Something in a toolbox\. } ^
+Screwdriver ^
+{ An item in a music store\. } ^
+Drumsticks ^
+{ Something you'd find at a campsite\. } ^
+Tent ^
+{ An item in a baby's room\. } ^
+Crib ^
+{ Something in a laundry room\. } ^
+Detergent ^
+{ An item seen in a park\. } ^
+Swing ^
+{ Something found in a wallet\. } ^
+Cash ^
+{ An item in a pet store\. } ^
+Leash ^
+{ Something at a beach\. } ^
+Towel ^
+{ An item in a doctor's office\. } ^
+Stethoscope ^
+{ Something in a jewelry store\. } ^
+Necklace ^
+{ An item in a shoe store\. } ^
+Sneakers ^
+{ Something in a bakery\. } ^
+Bread ^
+{ An item in a hardware store\. } ^
+Nails ^
+{ Something in a toy store\. } ^
+Puzzle ^
+{ An item in a clothing store\. } ^
+Jeans ^
+{ Something used in cooking\. } ^
+Pan ^
+{ An item used in sports\. } ^
+Helmet ^
+{ Something in a stationery shop\. } ^
+Glue ^
+{ An item in a bookshop\. } ^
+Dictionary ^
+{ Something in a coffee house\. } ^
+Espresso ^
+{ An item in an electronic shop\. } ^
+Charger ^
+{ Something in a cosmetics store\. } ^
+Mascara ^
+{ An item in a vehicle\. } ^
+Seatbelt ^
+{ Something in a hotel room\. } ^
+Pillow ^
+{ An item on a playground\. } ^
+Seesaw ^
+{ Something found in an art studio\. } ^
+Canvas ^
+{ An item in a supermarket\. } ^
+Milk ^
+{ Something used during a vacation\. } ^
+Camera ^
+{ An item in a sporting goods store\. } ^
+Baseball ^
+{ Something in a school cafeteria\. } ^
+Tray ^
+{ An item in a dentist's clinic\. } ^
+Floss ^
+{ Something in a library\. } ^
+Bookmark ^
+{ An item found in luggage\. } ^
+Socks ^
+{ Something used in a backyard\. } ^
+Grill ^
+{ An item in a butcher shop\. } ^
+Steak ^
+{ Something in a fish market\. } ^
+Salmon ^
+{ An item in a flower shop\. } ^
+Vase ^
+{ Something found on a hiking trail\. } ^
+Compass ^
+{ An item in a bicycle shop\. } ^
+Lock ^
+{ Something at a bus stop\. } ^
+Sign ^
+{ An item found at a picnic\. } ^
+Basket ^
+{ An item in a DIY store\. } ^
+Paintbrush ^
+{ Something in an antique shop\. } ^
+Vase ^
+{ An item at a carnival\. } ^
+Balloon ^
+{ Something in a schoolyard\. } ^
+Fence ^
+{ An item in an airport\. } ^
+Luggage ^
+{ Something in a barbershop\. } ^
+Razor ^
+{ An item in a candy store\. } ^
+Gummies ^
+{ Something found at a gas station\. } ^
+Pump ^
+{ An item in a craft store\. } ^
+Yarn ^
+{ Something in a computer lab\. } ^
+Monitor ^
+{ An item in a fitness center\. } ^
+Treadmill ^
+{ Something for personal hygiene\. } ^
+Soap ^
+{ An item in a nursery\. } ^
+Seeds ^
+{ Something used in a meeting\. } ^
+Whiteboard ^
+{ An item at a railway station\. } ^
+Ticket ^
+{ Something found in a first aid kit\. } ^
+Bandaid ^
+{ An item in a furniture store\. } ^
+Desk ^
+{ Something in a photography studio\. } ^
+Tripod ^
+{ An item in a cafeteria\. } ^
+Spoon ^
+{ Something found at a zoo\. } ^
+Map ^
+{ An item in a home office\. } ^
+Laptop ^
+{ Something in a hospital room\. } ^
+Bed ^
+{ An item in a cocktail bar\. } ^
+Shaker ^
+{ Something in a daycare center\. } ^
+Crayons ^
+{ An item in a sporting event\. } ^
+Program ^
+{ Something from a vending machine\. } ^
+Snack ^
+{ An item at a train station\. } ^
+Timetable ^
+{ Something found in a college dorm\. } ^
+Backpack ^
+{ An item on a workbench\. } ^
+Vice ^
+{ Something in a fast food restaurant\. } ^
+Napkin ^
+{ An item in a convenience store\. } ^
+Gum ^
+{ Something used in a garage\. } ^
+Wrench ^
+{ An item in a seafood restaurant\. } ^
+Lobster Tail ^
+{ Something used for outdoor sports\. } ^
+Kayak ^
+{ An item in an electronics store\. } ^
+Speaker ^
+{ Something from a farmer's market\. } ^
+Tomatoes ^
+{ An item in a stationery shop\. } ^
+Ruler
+{ An item in a grocery store\. } ^
+Carrot ^
+{ An item in a kitchen\. } ^
+Fork ^
+{ Something found in a school\. } ^
+Blackboard ^
+{ An item used in the rain\. } ^
+Umbrella ^
+{ An item used for writing\. } ^
+Notebook ^
+{ Something with wheels\. } ^
+Bicycle ^
+{ An item found in a bedroom\. } ^
+Pillow ^
+{ Something used in a garden\. } ^
+Hose ^
+{ An item for personal organization\. } ^
+Calendar ^
+{ Something that illuminates\. } ^
+Flashlight ^
+{ An item used at a beach\. } ^
+Sunscreen ^
+{ Something found in a park\. } ^
+Fountain ^
+{ An item worn on the feet\. } ^
+Socks ^
+{ Something used for cleaning\. } ^
+Broom ^
+{ An item found in a garage\. } ^
+Shovel ^
+{ Something used by a barber\. } ^
+Scissors ^
+{ An item in a art supply store\. } ^
+Easel ^
+{ Something used for cooking\. } ^
+Spatula ^
+{ An item found in a bathroom\. } ^
+Soap ^
+{ Something used at a wedding\. } ^
+Bouquet ^
+{ An item found on a farm\. } ^
+Tractor ^
+{ Something that keeps time\. } ^
+Watch ^
+{ An item used for sleeping\. } ^
+Blanket ^
+{ Something that flies\. } ^
+Kite ^{
+An item that stores food\. } ^
+Refrigerator ^
+{ An item found at a bus station\. } ^
+Ticket ^
+{ Something found in a toolbox\. } ^
+Wrench ^
+{ An item in a cosmetics store\. } ^
+Lipstick ^
+{ Something used in baking\. } ^
+Oven ^
+{ An item used on a hike\. } ^
+Backpack ^
+{ Something found in an aquarium\. } ^
+Fish ^
+{ An item worn on the head\. } ^
+Hat ^
+{ Something used for communication\. } ^
+Telephone ^
+{ An item found at the office\. } ^
+Stapler ^
+{ Something that tells time\. } ^
+Clock ^
+{ Something used in a classroom\. } ^
+Ruler ^
+{ An item in a home gym\. } ^
+Weights ^
+{ Something found at a bakery\. } ^
+Cookies ^
+{ An item in a pet shop\. } ^
+Aquarium ^
+{ An item at a coffee shop\. } ^
+Mug ^
+{ Something used at night\. } ^
+Lamp ^ 
+{ An item in a music store\. } ^
+Violin ^
+{ Something used for cleaning floors\. } ^
+Mop ^
+{ An item in a grocery store\. } ^
+Bananas ^
+{ Something used by a painter\. } ^
+Brush ^
+{ An item in an electronic shop\. } ^
+Camera ^
+{ Something you wear\. } ^
+Jacket ^
+{ An item in an office supply store\. } ^
+Envelope ^
+{ Something found in a river\. } ^
+Fish ^
+{ An item in a shoe store\. } ^
+Boots ^
+{ Something that provides shade\. } ^
+Umbrella ^
+{ An item in a bookshop\. } ^
+Magazine ^
+{ Something found in a gym\. } ^
+Dumbbells ^
+{ An item in a convenience store\. } ^
+Chips ^
+{ Something that makes music\. } ^
+Piano ^
+{ An item in a restaurant\. } ^
+Menu ^
+{ Something found in a toolbox\. } ^
+Drill ^
+{ An item in a toy store\. } ^
+Doll ^
+{ Something that keeps you warm\. } ^
+Blanket ^
+{ An item in a furniture store\. } ^
+Couch ^
+{ Something found in a classroom\. } ^
+Desk ^
+{ An item used for travel\. } ^
+Suitcase ^
+{ Something that grows in a garden\. } ^
+Flowers ^
+{ An item in a hardware store\. } ^
+Screwdriver
+{ An item often used in the morning\. } ^
+Toothpaste ^
+{ Something found on a patio\. } ^
+Chair ^
+{ An item in a baby's room\. } ^
+Mobile ^
+{ Something that keeps you dry\. } ^
+Raincoat ^
+{ An item worn on the hands\. } ^
+Gloves ^
+{ Something used at a birthday party\. } ^
+Balloon ^
+{ An item found in a pencil case\. } ^
+Eraser ^
+{ Something you sit on\. } ^
+Stool ^
+{ An item that tells the date\. } ^
+Calendar ^
+{ Something you drink water from\. } ^
+Bottle ^
+{ An item found in a lunchbox\. } ^
+Sandwich ^
+{ Something kept in a shed\. } ^
+Rake ^
+{ An item used by a student\. } ^
+Backpack ^
+{ Something that shows images\. } ^
+Television ^
+{ Something worn on the face\. } ^
+Glasses ^
+{ An item found at a picnic\. } ^
+Basket ^
+{ Something that lights up a room\. } ^
+Lamp ^
+{ An item used for fishing\. } ^
+Rod ^
+{ Something with keys\. } ^
+Keyboard ^
+{ An item found in a science lab\. } ^
+Microscope ^
+{ Something that has a bell\. } ^
+Bicycle ^
+{ An item used in winter\. } ^
+Scarf ^
+{ Something that floats\. } ^
+Boat ^
+{ An item that makes noise\. } ^
+Drum ^
+{ Something used by a photographer\. } ^
+Camera ^
+{ An item that helps you see in the dark\. } ^
+Flashlight ^
+{ Something used in a car\. } ^
+Seatbelt ^
+{ An item that keeps food cold\. } ^
+Freezer ^
+{ Something used for writing letters\. } ^
+Paper ^
+{ An item used by a gardener\. } ^
+Trowel ^
+{ Something that flies in the sky\. } ^
+Airplane ^
+{ An item you fill with air\. } ^
+Balloon ^
+{ Something you read\. } ^
+Book ^
+{ An item used by a chef\. } ^
+Apron ^
+{ Something found in a toolbox\. } ^
+Pliers ^
+{ An item worn on the wrist\. } ^
+Bracelet ^
+{ Something found at a train station\. } ^
+Platform ^
+{ An item used for swimming\. } ^
+Goggles ^
+{ Something found in a park\. } ^
+Slide ^
+{ An item worn on the beach\. } ^
+Sunglasses ^
+{ Something you play games on\. } ^
+Computer ^
+{ An item used in a game of soccer\. } ^
+Goal ^
+{ An item found in a classroom\. } ^
+Atlas ^
+{ Something used for measuring\. } ^
+Ruler ^
+{ An item used for sewing\. } ^
+Needle ^
+{ Something used by a painter\. } ^
+Easel ^
+{ An item used in the kitchen\. } ^
+Mixer ^
+{ Something you use to clean your teeth\. } ^
+Toothbrush ^
+{ An item found in a gym\. } ^
+Towel ^
+{ Something used to hold liquids\. } ^
+Jug ^
+{ An item worn on the head\. } ^
+Cap ^
+{ Something found on a desk\. } ^
+Computer ^
+{ An item used for cleaning windows\. } ^
+Squeegee ^
+{ Something baked in an oven\. } ^
+Cake ^
+{ An item used by a mail carrier\. } ^
+Mailbag ^
+{ Something used to sweep the floor\. } ^
+Broom ^
+{ An item you wear on your legs\. } ^
+Pants ^
+{ Something used to decorate a room\. } ^
+Vase ^
+{ An item found in a stationery shop\. } ^
+Clipboard ^
+{ Something found in an art gallery\. } ^
+Painting ^
+{ An item that holds money\. } ^
+Wallet ^
+{ Something found at the dentist\. } ^
+Drill ^
+{ An item used for barbecuing\. } ^
+Grill ^
+{ Something used to cut\. } ^
+Scissors ^
+{ An item worn by cyclists\. } ^
+Helmet ^
+{ Something that rings\. } ^
+Bell ^
+{ An item in a diaper bag\. } ^
+Wipes ^
+{ Something with pedals\. } ^
+Piano ^
+{ An item used on a hot day\. } ^ 
+Fan ^ 
+{ Something that makes bubbles\. } ^ 
+Soap ^ 
+{ Something found in a toolbox\. } ^ 
+Level ^ 
+{ Something that can fly\. } ^ 
+Butterfly ^ 
+{ An item used in a school\. } ^ 
+Crayons ^ 
+{ Something you find in a bathroom\. } ^ 
+Toothpaste ^ 
+{ An item used during holidays\. } ^ 
+Candles ^ 
+{ Something that tells time\. } ^ 
+Clock ^ 
+{ An object used in games\. } ^ 
+Dice ^ 
+{ Something used for safety\. } ^ 
+Helmet ^ 
+{ An item in a grocery store\. } ^ 
+Sugar ^ 
+{ Something found on a farm\. } ^ 
+Hay ^ 
+{ Something used by a chef\. } ^ 
+Whisk ^ 
+{ An item worn by swimmers\. } ^ 
+Swimsuit ^ 
+{ Something associated with camping\. } ^ 
+Tent ^ 
+{ An item from a fruit stand\. } ^ 
+Grapes ^ 
+{ Something that makes music\. } ^ 
+Violin ^ 
+{ An item in a bathroom\. } ^ 
+Shampoo ^ 
+{ Something with buttons\. } ^ 
+Remote ^ 
+{ An item in a lunch box\. } ^ 
+Juice ^ 
+{ Something that flies in the sky\. } ^ 
+Kite ^ 
+{ Something for personal protection\. } ^ 
+Sunscreen ^ 
+{ Something used on a bed\. } ^ 
+Pillowcase ^ 
+{ An item in a child's backpack\. } ^ 
+Lunchbox ^ 
+{ Something used for home repair\. } ^ 
+Hammer ^ 
+{ An item associated with soccer\. } ^ 
+Football ^ 
+{ Something found in a cafeteria\. } ^ 
+Tray ^ 
+{ An item used for hiking\. } ^ 
+Compass ^ 
+{ Something in a doctor's office\. } ^ 
+Thermometer ^ 
+{ An item worn on the feet\. } ^ 
+Boots ^ 
+{ Something found at a bus stop\. } ^ 
+Schedule ^ 
+{ Something with a screen\. } ^ 
+Tablet ^ 
+{ An item for outdoor relaxation\. } ^ 
+Hammock ^ 
+{ Something worn on the wrist\. } ^ 
+Watch ^ 
+{ An item in a photography studio\. } ^ 
+Tripod ^ 
+{ Something used for cooking\. } ^ 
+Pot ^ 
+{ An item in a home office\. } ^ 
+Laptop ^ 
+{ Something that keeps you warm\. } ^ 
+Blanket ^ 
+{ An item in a pet shop\. } ^ 
+Collar ^ 
+{ Something that lights up\. } ^ 
+Lantern ^ 
+{ An item on a dining table\. } ^ 
+Napkins ^ 
+{ An item used in winter sports\. } ^ 
+Skis ^ 
+{ Something for making notes\. } ^ 
+Notebook ^ 
+{ An item for personal hygiene\. } ^ 
+Deodorant ^ 
+{ Something used by a gardener\. } ^ 
+Gloves ^ 
+{ An item in a school bag\. } ^ 
+Binder ^ 
+{ Something that holds water\. } ^ 
+Bucket ^ 
+{ An item worn on the head\. } ^ 
+Beanie ^ 
+{ Something used to clean dishes\. } ^ 
+Sponge ^ 
+{ Something that has pages\. } ^ 
+Magazine ^ 
+{ An item for serving food\. } ^ 
+Platter ^ 
+{ Something worn for swimming\. } ^ 
+Goggles ^ 
+{ Something that helps you read\. } ^ 
+Glasses ^ 
+{ An item in a baby nursery\. } ^ 
+Diapers ^ 
+{ Something found at a deli\. } ^ 
+Salami ^ 
+{ An item in a tool shed\. } ^ 
+Saw ^ 
+{ Something you sit on in a park\. } ^ 
+Bench ^ 
+{ An item used for drinking coffee\. } ^ 
+Mug ^ 
+{ Something to play with at the beach\. } ^ 
+Frisbee ^ 
+{ An item in a home library\. } ^ 
+Bookends ^ 
+{ Something used for cutting paper\. } ^ 
+Scissors ^ 
+{ An item on a bedside table\. } ^ 
+Lamp ^
+
+
+
+{ An item used for personal grooming\. } ^ 
+Razor ^ 
+{ Something found in a classroom\. } ^ 
+Globe ^ 
+{ An item in a stationery shop\. } ^ 
+Ruler ^ 
+{ Something for making music\. } ^ 
+Flute ^ 
+{ An item in a living room\. } ^ 
+Couch ^ 
+{ Something that can be spread on bread\. } ^ 
+Jam ^ 
+{ Something used in the rain\. } ^ 
+Boots ^ 
+{ An item that keeps time\. } ^ 
+Timer ^ 
+{ Something used for outdoor cooking\. } ^ 
+Grill ^ 
+{ An item for storing clothes\. } ^ 
+Dresser ^ 
+{ Something found on a beach\. } ^ 
+Seashell ^ 
+{ Something used for sewing\. } ^ 
+Thread ^ 
+{ Something used at night\. } ^ 
+Flashlight ^ 
+{ An item from a fast-food menu\. } ^ 
+Hamburger ^ 
+{ Something found in a garden\. } ^ 
+Trowel ^ 
+{ An item used by a mail carrier\. } ^ 
+Mailbag ^ 
+{ Something used for drinking\. } ^ 
+Glass ^ 
+{ An item for cutting hair\. } ^ 
+Scissors ^ 
+{ Something that can be checked out from a library\. } ^ 
+Book ^ 
+{ An item that floats on water\. } ^ 
+Boat ^ 
+{ Something used by a referee\. } ^ 
+Whistle ^ 
+{ An item that provides warmth\. } ^ 
+Heater ^ 
+{ Something that saves a place in a book\. } ^ 
+Bookmark ^ 
+{ An item in a tool shed\. } ^ 
+Spade ^ 
+{ Something used to tell directions\. } ^ 
+Compass ^ 
+{ An item found on a desk\. } ^ 
+Calculator ^ 
+{ Something used when it's sunny\. } ^ 
+Sunglasses ^ 
+{ An item worn on the hands in winter\. } ^ 
+Mittens ^ 
+{ Something found in a park\. } ^ 
+Swing ^ 
+{ Something to write on\. } ^ 
+Notepad ^ 
+{ Something found at a carnival\. } ^ 
+Popcorn ^ 
+{ An item for personal care\. } ^ 
+Toothbrush ^ 
+{ Something that can be climbed\. } ^ 
+Ladder ^ 
+{ An item for afternoon rest\. } ^ 
+Hammock ^ 
+{ Something used to play music\. } ^ 
+CD ^ 
+{ An item in a photographer's bag\. } ^ 
+Lens ^ 
+{ Something that keeps food hot or cold\. } ^ 
+Thermos ^ 
+{ Something you can write with\. } ^ 
+Marker ^ 
+{ An item used for cleaning floors\. } ^ 
+Mop ^ 
+{ Something used to protect the eyes\. } ^ 
+Goggles ^ 
+{ An item in a sewing kit\. } ^ 
+Needle ^ 
+{ Something that you can drink\. } ^ 
+Milk ^ 
+{ An item used for cutting\. } ^ 
+Knife ^ 
+{ Something seen in a zoo\. } ^ 
+Elephant ^ 
+{ An item used for home security\. } ^ 
+Lock ^ 
+{ Something found in a children's playground\. } ^ 
+Slide ^ 
+{ An item used in art class\. } ^ 
+Paintbrush ^ 
+{ Something found at a barbecue\. } ^ 
+Charcoal ^ 
+{ An item that helps with organization\. } ^ 
+Binder ^ 
+{ Something that can hold a beverage\. } ^ 
+Cup ^ 
+{ An item used for hair care\. } ^ 
+Comb ^ 
+{ Something used for baking\. } ^ 
+Oven Mitt ^ 
+{ An item that shows the date\. } ^ 
+Calendar ^ 
+{ Something used in sports\. } ^ 
+Ball ^ 
+{ An item found in a gym\. } ^ 
+Treadmill ^ 
+{ Something for personal entertainment\. } ^ 
+Game ^ 
+{ Something used to carry books\. } ^ 
+Bookbag ^ 
+{ An item used by a teacher\. } ^ 
+Pointer ^ 
+{ Something associated with a queen or king\. } ^ 
+Crown ^ 
+{ An item found in a salad\. } ^ 
+Lettuce ^ 
+{ Something used by a camper\. } ^ 
+Tent ^ 
+{ An item that helps you sleep\. } ^ 
+Pillow ^ 
+{ Something found in a toolbox\. } ^ 
+Screwdriver ^ 
+{ An item for making a sandwich\. } ^ 
+Bread ^ 
+{ Something seen in a courtroom\. } ^ 
+Gavel ^ 
+{ An item that provides light\. } ^ 
+Lantern ^ 
+{ Something found at a fair\. } ^ 
+Ferris Wheel ^ 
+{ An item used by a gardener\. } ^ 
+Shears ^ 
+{ Something used for personal fitness\. } ^ 
+Yoga Mat ^ 
+{ An item in a bakery\. } ^ 
+Pastry ^ 
+{ An item worn on a rainy day\. } ^ 
+Raincoat ^ 
+{ Something used to play a board game\. } ^ 
+Dice ^
+{ An item found on a farm\. } ^
+Pail ^

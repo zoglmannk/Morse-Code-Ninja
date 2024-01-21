@@ -1,0 +1,2624 @@
+{ Used for personal grooming\. } ^
+<speed2> Hair Clippers ^
+{ Handheld electrical device\. } ^
+<speed1> Hair Clippers ^
+{ Hair Clippers } ^
+<speed2> Hair Clippers ^
+<courtesyTone> ^
+{ A decorative home feature\. } ^
+<speed2> Photo Frame ^
+{ Displays captured moments\. } ^
+<speed1> Photo Frame ^
+{ Photo Frame } ^
+<speed2> Photo Frame ^
+<courtesyTone> ^
+{ Autonomous home equipment\. } ^
+<speed2> Robot Vacuum ^
+{ Uses sensors to navigate\. } ^
+<speed1> Robot Vacuum ^
+{ Robot Vacuum } ^
+<speed2> Robot Vacuum ^
+<courtesyTone> ^
+{ Worn in construction zones\. } ^
+<speed2> Safety Helmet ^
+{ Personal safety equipment\. } ^
+<speed1> Safety Helmet ^
+{ Safety Helmet } ^
+<speed2> Safety Helmet ^
+<courtesyTone> ^
+{ Outdoor structure\. } ^
+<speed2> Garden Trellis ^
+{ Made of latticework\. } ^
+<speed1> Garden Trellis ^
+{ Garden Trellis } ^
+<speed2> Garden Trellis ^
+<courtesyTone> ^
+{ Handheld outdoor tool\. } ^
+<speed2> Garden Fork ^
+{ Helps to break up soil\. } ^
+<speed1> Garden Fork ^
+{ Garden Fork } ^
+<speed2> Garden Fork ^
+<courtesyTone> ^
+{ Piece of furniture\. } ^
+<speed2> Wardrobe Closet ^
+{ Keeps things organized\. } ^
+<speed1> Wardrobe Closet ^
+{ Wardrobe Closet } ^
+<speed2> Wardrobe Closet ^
+<courtesyTone> ^
+{ Used in cooking\. } ^
+<speed2> Frying Pan ^
+{ Many have nonstick surfaces\. } ^
+<speed1> Frying Pan ^
+{ Frying Pan } ^
+<speed2> Frying Pan ^
+<courtesyTone> ^
+{ Handheld device\. } ^
+<speed2> Mobile Phone ^
+{ Digital communication device\. } ^
+<speed1> Mobile Phone ^
+{ Mobile Phone } ^
+<speed2> Mobile Phone ^
+<courtesyTone> ^
+{ A form of visual art\. } ^
+<speed2> Oil Painting ^
+{ Uses a canvas and pigments\. } ^
+<speed1> Oil Painting ^
+{ Oil Painting } ^
+<speed2> Oil Painting ^
+<courtesyTone> ^
+{ A barrier to entry\. } ^
+<speed2> Bedroom Door ^
+{ Provides privacy and security\. } ^
+<speed1> Bedroom Door ^
+{ Bedroom Door } ^
+<speed2> Bedroom Door ^
+<courtesyTone> ^
+{ A device for personal entertainment\. } ^
+<speed2> E Reader ^
+{ Display mimics paper\. } ^
+<speed1> E Reader ^
+{ E Reader } ^
+<speed2> E Reader ^
+<courtesyTone> ^
+{ Cold weather apparel\. } ^
+<speed2> Knit Beanie ^
+{ Accessory worn on the head\. } ^
+<speed1> Knit Beanie ^
+{ Knit Beanie } ^
+<speed2> Knit Beanie ^
+<courtesyTone> ^
+{ Used in maritime contexts\. } ^
+<speed2> Compass ^
+{ Navigational tool\. } ^
+<speed1> Compass ^
+{ Compass } ^
+<speed2> Compass ^
+<courtesyTone> ^
+{ Footwear specialized for a sport\. } ^
+<speed2> Golf Shoes ^
+{ Enhances grip on grass\. } ^
+<speed1> Golf Shoes ^
+{ Golf Shoes } ^
+<speed2> Golf Shoes ^
+<courtesyTone> ^
+{ Piece of jewelry\. } ^
+<speed2> Bracelet ^
+{ Features precious stones or metals\. } ^
+<speed1> Bracelet ^
+{ Bracelet } ^
+<speed2> Bracelet ^
+<courtesyTone> ^
+{ A piece of laboratory equipment\. } ^
+<speed2> Measuring Cylinder ^
+{ Used for precise measurement\. } ^
+<speed1> Measuring Cylinder ^
+{ Measuring Cylinder } ^
+<speed2> Measuring Cylinder ^
+<courtesyTone> ^
+{ A traditional pocket item\. } ^
+<speed2> Swiss Army Knife ^
+{ Holds a wide variety of tools\. } ^
+<speed1> Swiss Army Knife ^
+{ Swiss Army Knife } ^
+<speed2> Swiss Army Knife ^
+<courtesyTone> ^
+{ A workplace staple\. } ^
+<speed2> Paper Binder ^
+{ Keeps important papers together\. } ^
+<speed1> Paper Binder ^
+{ Paper Binder } ^
+<speed2> Paper Binder ^
+<courtesyTone> ^
+{ An outdoor activity accessory\. } ^
+<speed2> Polarized Sunglasses ^
+{ Worn on water or snow for comfort\. } ^
+<speed1> Polarized Sunglasses ^
+{ Polarized Sunglasses } ^
+<speed2> Polarized Sunglasses ^
+<courtesyTone> ^
+{ An artist's tool\. } ^
+<speed2> Drawing Pencil ^
+{ Used for sketching\. } ^
+<speed1> Drawing Pencil ^
+{ Drawing Pencil } ^
+<speed2> Drawing Pencil ^
+<courtesyTone> ^
+{ A writing instrument\. } ^
+<speed2> Fountain Pen ^
+{ Has a nib\. } ^
+<speed1> Fountain Pen ^
+{ Fountain Pen } ^
+<speed2> Fountain Pen ^
+<courtesyTone> ^
+{ Cold climate outerwear\. } ^
+<speed2> Down Jacket ^
+{ Insulated for warmth\. } ^
+<speed1> Down Jacket ^
+{ Down Jacket } ^
+<speed2> Down Jacket ^
+<courtesyTone> ^
+{ Precision kitchen equipment\. } ^
+<speed2> Cooking Thermometer ^
+{ Often used to prevent foodborn illnesses\. } ^
+<speed1> Cooking Thermometer ^
+{ Cooking Thermometer } ^
+<speed2> Cooking Thermometer ^
+<courtesyTone> ^
+{ Specialty footwear\. } ^
+<speed2> Dive Fins ^
+{ Worn for underwater activities\. } ^
+<speed1> Dive Fins ^
+{ Dive Fins } ^
+<speed2> Dive Fins ^
+<courtesyTone> ^
+{ Features long blades\. } ^
+<speed2> Hedge Trimmers ^
+{ A handheld gardening tool\. } ^
+<speed1> Hedge Trimmers ^
+{ Hedge Trimmers } ^
+<speed2> Hedge Trimmers ^
+<courtesyTone> ^
+{ A stationery item\. } ^
+<speed2> Diary with Lock ^
+{ Comes with a lock and key\. } ^
+<speed1> Diary with Lock ^
+{ Diary with Lock } ^
+<speed2> Diary with Lock ^
+<courtesyTone> ^
+{ Home cleaning equipment\. } ^
+<speed2> Feather Duster ^
+{ Has a handle\. } ^
+<speed1> Feather Duster ^
+{ Feather Duster } ^
+<speed2> Feather Duster ^
+<courtesyTone> ^
+{ A device for home entertainment\. } ^
+<speed2> Surround Sound Speakers ^
+{ May be part of a home theater system\. } ^
+<speed1> Surround Sound Speakers ^
+{ Surround Sound Speakers } ^
+<speed2> Surround Sound Speakers ^
+<courtesyTone> ^
+{ Waterborne recreational activity\. } ^
+<speed2> Kayaking ^
+{ Often done on rivers or lakes\. } ^
+<speed1> Kayaking ^
+{ Kayaking } ^
+<speed2> Kayaking ^
+<courtesyTone> ^
+{ A woodworking tool\. } ^
+<speed2> Hand Plane ^
+{ Used for smoothing or shaping\. } ^
+<speed1> Hand Plane ^
+{ Hand Plane } ^
+<speed2> Hand Plane ^
+<courtesyTone> ^
+{ Celebratory tableware\. } ^
+<speed2> Champagne Flute ^
+{ Specifically designed for fine dining\. } ^
+<speed1> Champagne Flute ^
+{ Champagne Flute } ^
+<speed2> Champagne Flute ^
+<courtesyTone> ^
+{ A handheld electronic device\. } ^
+<speed2> Digital SLR Camera ^
+{ Many offer interchangeable lenses\. } ^
+<speed1> Digital SLR Camera ^
+{ Digital SLR Camera } ^
+<speed2> Digital SLR Camera ^
+<courtesyTone> ^
+{ A musical tradition\. } ^
+<speed2> Bluegrass Music ^
+{ Often features harmonies and storytelling\. } ^
+<speed1> Bluegrass Music ^
+{ Bluegrass Music } ^
+<speed2> Bluegrass Music ^
+<courtesyTone> ^
+{ A tool for personal hygiene\. } ^
+<speed2> Bath Sponge ^
+{ Typically found in the shower\. } ^
+<speed1> Bath Sponge ^
+{ Bath Sponge } ^
+<speed2> Bath Sponge ^
+<courtesyTone> ^
+{ A beach accessory\. } ^
+<speed2> Beach Chair ^
+{ Used for lounging by the sea\. } ^
+<speed1> Beach Chair ^
+{ Beach Chair } ^
+<speed2> Beach Chair ^
+<courtesyTone> ^
+{ A means of personal transport\. } ^
+<speed2> Commuter Bicycle ^
+{ Environmentally friendly\. } ^
+<speed1> Commuter Bicycle ^
+{ Commuter Bicycle } ^
+<speed2> Commuter Bicycle ^
+<courtesyTone> ^
+{ A kitchen appliance\. } ^
+<speed2> Chest Freezer ^
+{ Used for food preservation\. } ^
+<speed1> Chest Freezer ^
+{ Chest Freezer } ^
+<speed2> Chest Freezer ^
+<courtesyTone> ^
+{ A modern communication platform\. } ^
+<speed2> Video Conferencing Software ^
+{ Employs visual and auditory elements\. } ^
+<speed1> Video Conferencing Software ^
+{ Video Conferencing Software } ^
+<speed2> Video Conferencing Software ^
+<courtesyTone> ^
+{ A timekeeping device\. } ^
+<speed2> Mechanical Watch ^
+{ Often adorned with jewels and gears\. } ^
+<speed1> Mechanical Watch ^
+{ Mechanical Watch } ^
+<speed2> Mechanical Watch ^
+<courtesyTone> ^
+{ A culinary preparation tool\. } ^
+<speed2> Fillet Knife ^
+{ Sharp and precise\. } ^
+<speed1> Fillet Knife ^
+{ Fillet Knife } ^
+<speed2> Fillet Knife ^
+<courtesyTone> ^
+{ Water sports equipment\. } ^
+<speed2> Bodyboard ^
+{ Inflatable or made of foam\. } ^
+<speed1> Bodyboard ^
+{ Bodyboard } ^
+<speed2> Bodyboard ^
+<courtesyTone> ^
+{ A personal grooming appliance\. } ^
+<speed2> Curling Iron ^
+{ Commonly found on a bathroom counter\. } ^
+<speed1> Curling Iron ^
+{ Curling Iron } ^
+<speed2> Curling Iron ^
+<courtesyTone> ^
+{ A handheld device for communication\. } ^
+<speed2> Corded Telephone ^
+{ Obsolete now due to smartphones\. } ^
+<speed1> Corded Telephone ^
+{ Corded Telephone } ^
+<speed2> Corded Telephone ^
+<courtesyTone> ^
+{ A craftsperson's accessory\. } ^
+<speed2> Work Apron ^
+{ Worn to protect clothes and hold tools\. } ^
+<speed1> Work Apron ^
+{ Work Apron } ^
+<speed2> Work Apron ^
+<courtesyTone> ^
+{ A musical accessory\. } ^
+<speed2> Metronome ^
+{ Required to maintain tempo\. } ^
+<speed1> Metronome ^
+{ Metronome } ^
+<speed2> Metronome ^
+<courtesyTone> ^
+{ An athletic training tool\. } ^
+<speed2> Training Bat ^
+{ Used for swinging and coordination\. } ^
+<speed1> Training Bat ^
+{ Training Bat } ^
+<speed2> Training Bat ^
+<courtesyTone> ^
+{ Usually made of glass or plastic\. } ^
+<speed2> Storage Tupperware ^
+{ Keeps leftovers airtight\. } ^
+<speed1> Storage Tupperware ^
+{ Storage Tupperware } ^
+<speed2> Storage Tupperware ^
+<courtesyTone> ^
+{ Footwear for a specific profession\. } ^
+<speed2> Operating Room Clogs ^
+{ Designed for sterile environments\. } ^
+<speed1> Operating Room Clogs ^
+{ Operating Room Clogs } ^
+<speed2> Operating Room Clogs ^
+<courtesyTone> ^
+{ A leisure activity accessory\. } ^
+<speed2> Dart Set ^
+{ Targets are set up for scoring points\. } ^
+<speed1> Dart Set ^
+{ Dart Set } ^
+<speed2> Dart Set ^
+<courtesyTone> ^
+{ A home furnishing item\. } ^
+<speed2> Extendable Dining Table ^
+{ Customarily found in a dining room\. } ^
+<speed1> Extendable Dining Table ^
+{ Extendable Dining Table } ^
+<speed2> Extendable Dining Table ^
+<courtesyTone> ^
+{ A type of winter gear\. } ^
+<speed2> Ski Gloves ^
+{ Made of insulated fabric or leather\. } ^
+<speed1> Ski Gloves ^
+{ Ski Gloves } ^
+<speed2> Ski Gloves ^
+<courtesyTone> ^
+{ Equipment for a specific sport\. } ^
+<speed2> Windsurfing Board ^
+{ Used for gliding across water propelled by wind\. } ^
+<speed1> Windsurfing Board ^
+{ Windsurfing Board } ^
+<speed2> Windsurfing Board ^
+<courtesyTone> ^
+{ A popular electronic gadget\. } ^
+<speed2> MP3 Player ^
+{ Stores and plays digital audio files\. } ^
+<speed1> MP3 Player ^
+{ MP3 Player } ^
+<speed2> MP3 Player ^
+<courtesyTone> ^
+{ An ornamental object\. } ^
+<speed2> Christmas Tree ^
+{ Often disposed of after the holidays\. } ^
+<speed1> Christmas Tree ^
+{ Christmas Tree } ^
+<speed2> Christmas Tree ^
+<courtesyTone> ^
+{ An office supply\. } ^
+<speed2> File Folder Fastener ^
+{ Secures multiple sheets of paper\. } ^
+<speed1> File Folder Fastener ^
+{ File Folder Fastener } ^
+<speed2> File Folder Fastener ^
+<courtesyTone> ^
+{ A type of specialized work attire\. } ^
+<speed2> Lab Coat ^
+{ Worn to protect against chemical exposure\. } ^
+<speed1> Lab Coat ^
+{ Lab Coat } ^
+<speed2> Lab Coat ^
+<courtesyTone> ^
+{ A professional's tool\. } ^
+<speed2> Laser Distance Meter ^
+{ Determines distances or dimensions\. } ^
+<speed1> Laser Distance Meter ^
+{ Laser Distance Meter } ^
+<speed2> Laser Distance Meter ^
+<courtesyTone> ^
+{ Accessory for stringed instrument players\. } ^
+<speed2> Pick Holder Bracelet ^
+{ Facilitates the holding of picks\. } ^
+<speed1> Pick Holder Bracelet ^
+{ Pick Holder Bracelet } ^
+<speed2> Pick Holder Bracelet ^
+<courtesyTone> ^
+{ An outdoor recreation item\. } ^
+<speed2> Snow Sled ^
+{ Riders often sit or lay on it\. } ^
+<speed1> Snow Sled ^
+{ Snow Sled } ^
+<speed2> Snow Sled ^
+<courtesyTone> ^
+{ Professional kitchen equipment\. } ^
+<speed2> Chef's Knife ^
+{ Strong and sharp for chopping\. } ^
+<speed1> Chef's Knife ^
+{ Chef's Knife } ^
+<speed2> Chef's Knife ^
+<courtesyTone> ^
+{ An office essential\. } ^
+<speed2> Overhead Projector ^
+{ Utilized for displaying presentations\. } ^
+<speed1> Overhead Projector ^
+{ Overhead Projector } ^
+<speed2> Overhead Projector ^
+<courtesyTone> ^
+{ Equipment for an upper body workout\. } ^
+<speed2> Chin up Bar ^
+{ Mounted in a doorway\. } ^
+<speed1> Chin up Bar ^
+{ Chin up Bar } ^
+<speed2> Chin up Bar ^
+<courtesyTone> ^
+{ A personal listening device\. } ^
+<speed2> Over ear Headphones ^
+{ Connected to audio sources via cable or Bluetooth\. } ^
+<speed1> Over ear Headphones ^
+{ Over ear Headphones } ^
+<speed2> Over ear Headphones ^
+<courtesyTone> ^
+{ Historical writing tool\. } ^
+<speed2> Dip Pen ^
+{ Common before the invention of ballpoint pens\. } ^
+<speed1> Dip Pen ^
+{ Dip Pen } ^
+<speed2> Dip Pen ^
+<courtesyTone> ^
+{ An indoor appliance\. } ^
+<speed2> Electric Heater ^
+{ Often freestanding and portable\. } ^
+<speed1> Electric Heater ^
+{ Electric Heater } ^
+<speed2> Electric Heater ^
+<courtesyTone> ^
+{ A digital media device\. } ^
+<speed2> Media Streaming Stick ^
+{ Streams content from the internet\. } ^
+<speed1> Media Streaming Stick ^
+{ Media Streaming Stick } ^
+<speed2> Media Streaming Stick ^
+<courtesyTone> ^
+{ A handheld device\. } ^
+<speed2> Film Camera ^
+{ Captures visual information for reproduction\. } ^
+<speed1> Film Camera ^
+{ Film Camera } ^
+<speed2> Film Camera ^
+<courtesyTone> ^
+{ A specialized marine craft\. } ^
+<speed2> Kayak ^
+{ Enclosed deck over the legs\. } ^
+<speed1> Kayak ^
+{ Kayak } ^
+<speed2> Kayak ^
+<courtesyTone> ^
+{ A maker's precision instrument\. } ^
+<speed2> Woodworking Plane ^
+{ Cut or shave wood pieces\. } ^
+<speed1> Woodworking Plane ^
+{ Woodworking Plane } ^
+<speed2> Woodworking Plane ^
+<courtesyTone> ^
+{ An outdoor night activity element\. } ^
+<speed2> Fire Pit ^
+{ Enclosed in metal or stone surroundings\. } ^
+<speed1> Fire Pit ^
+{ Fire Pit } ^
+<speed2> Fire Pit ^
+<courtesyTone> ^
+{ Offers outdoor protection\. } ^
+<speed2> Sun Hat ^
+{ Wide-brimmed for maximum protection\. } ^
+<speed1> Sun Hat ^
+{ Sun Hat } ^
+<speed2> Sun Hat ^
+<courtesyTone> ^
+{ An athlete's accessory\. } ^
+<speed2> Fitness Tracker ^
+{ Often includes GPS and heart rate monitoring\. } ^
+<speed1> Fitness Tracker ^
+{ Fitness Tracker } ^
+<speed2> Fitness Tracker ^
+<courtesyTone> ^
+{ An artisan's creation\. } ^
+<speed2> Ceramic Pottery ^
+{ Often decorative and functional, like vessels or figurines\. } ^
+<speed1> Ceramic Pottery ^
+{ Ceramic Pottery } ^
+<speed2> Ceramic Pottery ^
+<courtesyTone> ^
+{ A liquid aromatic flavoring\. } ^
+<speed2> Vanilla Extract ^
+{ Used in baking and cooking\. } ^
+<speed1> Vanilla Extract ^
+{ Vanilla Extract } ^
+<speed2> Vanilla Extract ^
+<courtesyTone> ^
+{ An item of business stationery\. } ^
+<speed2> Divider Tabs ^
+{ Organizes documents into sections\. } ^
+<speed1> Divider Tabs ^
+{ Divider Tabs } ^
+<speed2> Divider Tabs ^
+<courtesyTone> ^
+{ Utilizes a spinning bit\. } ^
+<speed2> Router Table ^
+{ Benchtop version often seen in woodshops\. } ^
+<speed1> Router Table ^
+{ Router Table } ^
+<speed2> Router Table ^
+<courtesyTone> ^
+{ A culinary vessel\. } ^
+<speed2> Stockpot ^
+{ Frequently used for making soups\. } ^
+<speed1> Stockpot ^
+{ Stockpot } ^
+<speed2> Stockpot ^
+<courtesyTone> ^
+{ A tool for winter maintenance\. } ^
+<speed2> Snow Pusher ^
+{ Often has an adjustable handle\. } ^
+<speed1> Snow Pusher ^
+{ Snow Pusher } ^
+<speed2> Snow Pusher ^
+<courtesyTone> ^
+{ Safety equipment\. } ^
+<speed2> Seat Belt ^
+{ Required by law\. } ^
+<speed1> Seat Belt ^
+{ Seat Belt } ^
+<speed2> Seat Belt ^
+<courtesyTone> ^
+{ A water vessel accessory\. } ^
+<speed2> Boat Rudder ^
+{ Used for stability and direction\. } ^
+<speed1> Boat Rudder ^
+{ Boat Rudder } ^
+<speed2> Boat Rudder ^
+<courtesyTone> ^
+{ An accessory for nighttime reading\. } ^
+<speed2> Reading Light ^
+{ Clips onto books or e-readers\. } ^
+<speed1> Reading Light ^
+{ Reading Light } ^
+<speed2> Reading Light ^
+<courtesyTone> ^
+{ Gear for adventure sports\. } ^
+<speed2> Camming Device ^
+{ Used in climbing for protection\. } ^
+<speed1> Camming Device ^
+{ Camming Device } ^
+<speed2> Camming Device ^
+<courtesyTone> ^
+{ A piece of personal safety gear\. } ^
+<speed2> Life Vest ^
+{ Can be inflatable or foam\. } ^
+<speed1> Life Vest ^
+{ Life Vest } ^
+<speed2> Life Vest ^
+<courtesyTone> ^
+{ Operates on a rechargeable battery\. } ^
+<speed2> Electric Toothbrush ^
+{ Most often used in a bathroom\. } ^
+<speed1> Electric Toothbrush ^
+{ Electric Toothbrush } ^
+<speed2> Electric Toothbrush ^
+<courtesyTone> ^
+{ Equipment for artists and architects\. } ^
+<speed2> Drawing Board ^
+{ Can be adjusted to different angles\. } ^
+<speed1> Drawing Board ^
+{ Drawing Board } ^
+<speed2> Drawing Board ^
+<courtesyTone> ^
+{ An artist's medium\. } ^
+<speed2> Acrylic Paint ^
+{ Created from pigment suspension\. } ^
+<speed1> Acrylic Paint ^
+{ Acrylic Paint } ^
+<speed2> Acrylic Paint ^
+<courtesyTone> ^
+{ A hand-operated cutting tool\. } ^
+<speed2> Scissors ^
+{ Often used for gardening or crafting\. } ^
+<speed1> Scissors ^
+{ Scissors } ^
+<speed2> Scissors ^
+<courtesyTone> ^
+{ Used for soups or beverages\. } ^
+<speed2> Insulated Flask ^
+{ Keeps its contents hot or cold\. } ^
+<speed1> Insulated Flask ^
+{ Insulated Flask } ^
+<speed2> Insulated Flask ^
+<courtesyTone> ^
+{ A playground fixture\. } ^
+<speed2> Swing Set ^
+{ Designed for children's recreation\. } ^
+<speed1> Swing Set ^
+{ Swing Set } ^
+<speed2> Swing Set ^
+<courtesyTone> ^
+{ A personal grooming tool\. } ^
+<speed2> Shaving Razor ^
+{ Operated manually or electrically\. } ^
+<speed1> Shaving Razor ^
+{ Shaving Razor } ^
+<speed2> Shaving Razor ^
+<courtesyTone> ^
+{ Accessory for function and fashion\. } ^
+<speed2> Wristwatch ^
+{ Worn around the wrist\. } ^
+<speed1> Wristwatch ^
+{ Wristwatch } ^
+<speed2> Wristwatch ^
+<courtesyTone> ^
+{ A protective sporting accessory\. } ^
+<speed2> Shin Guards ^
+{ Cushioned for impact absorption\. } ^
+<speed1> Shin Guards ^
+{ Shin Guards } ^
+<speed2> Shin Guards ^
+<courtesyTone> ^
+{ A form of physical fitness\. } ^
+<speed2> Yoga ^
+{ Originated as a spiritual discipline in India\. } ^
+<speed1> Yoga ^
+{ Yoga } ^
+<speed2> Yoga ^
+<courtesyTone> ^
+{ An Object used in a popular board game\. } ^
+<speed2> Chess Piece ^
+{ Serves as a game piece\. } ^
+<speed1> Chess Piece ^
+{ Chess Piece } ^
+<speed2> Chess Piece ^
+<courtesyTone> ^
+{ Professional attire piece\. } ^
+<speed2> Suit Jacket ^
+{ Usually part of a formal suit\. } ^
+<speed1> Suit Jacket ^
+{ Suit Jacket } ^
+<speed2> Suit Jacket ^
+<courtesyTone> ^
+{ A handheld kitchen appliance\. } ^
+<speed2> Immersion Blender ^
+{ Often comes with detachable blending wands\. } ^
+<speed1> Immersion Blender ^
+{ Immersion Blender } ^
+<speed2> Immersion Blender ^
+<courtesyTone> ^
+{ Can come in various sizes and shapes\. } ^
+<speed2> Sewing Pin ^
+{ Holds fabric in place while stitching\. } ^
+<speed1> Sewing Pin ^
+{ Sewing Pin } ^
+<speed2> Sewing Pin ^
+<courtesyTone> ^
+{ A utensil for hot beverages\. } ^
+<speed2> Teapot ^
+{ Has a handle and a spout\. } ^
+<speed1> Teapot ^
+{ Teapot } ^
+<speed2> Teapot ^
+<courtesyTone> ^
+{ An electronic communication device\. } ^
+<speed2> Pager ^
+{ Predecessor to modern mobile phones\. } ^
+<speed1> Pager ^
+{ Pager } ^
+<speed2> Pager ^
+<courtesyTone> ^
+{ A traditional carpentry tool\.\. } ^
+<speed2> Wood Chisel ^
+{ Operated with a mallet or hammer\. } ^
+<speed1> Wood Chisel ^
+{ Wood Chisel } ^
+<speed2> Wood Chisel ^
+<courtesyTone> ^
+{ A piece of safety equipment in sports\. } ^
+<speed2> Helmet ^
+{ Worn to guard against injuries\. } ^
+<speed1> Helmet ^
+{ Helmet } ^
+<speed2> Helmet ^
+<courtesyTone> ^
+{ Outdoor cooking equipment\. } ^
+<speed2> Portable Grill ^
+{ Common at picnics and tailgates\. } ^
+<speed1> Portable Grill ^
+{ Portable Grill } ^
+<speed2> Portable Grill ^
+<courtesyTone> ^
+{ A specialized camera accessory\. } ^
+<speed2> Tripod ^
+{ Stabilizes the camera for a clear shot\. } ^
+<speed1> Tripod ^
+{ Tripod } ^
+<speed2> Tripod ^
+<courtesyTone> ^
+{ Usually involves a group with a leader\. } ^
+<speed2> Guided Nature Walk ^
+{ Can involve hiking\. } ^
+<speed1> Guided Nature Walk ^
+{ Guided Nature Walk } ^
+<speed2> Guided Nature Walk ^
+<courtesyTone> ^
+{ An athletic training apparatus\. } ^
+<speed2> Weight Machine ^
+{ Strengthens muscles\. } ^
+<speed1> Weight Machine ^
+{ Weight Machine } ^
+<speed2> Weight Machine ^
+<courtesyTone> ^
+{ A precision measuring tool\. } ^
+<speed2> Graduated Pipette ^
+{ Found in many science laboratories\. } ^
+<speed1> Graduated Pipette ^
+{ Graduated Pipette } ^
+<speed2> Graduated Pipette ^
+<courtesyTone> ^
+{ An electrical kitchen device\. } ^
+<speed2> Coffee Machine ^
+{ Can be programmed to start at a set time\. } ^
+<speed1> Coffee Machine ^
+{ Coffee Machine } ^
+<speed2> Coffee Machine ^
+<courtesyTone> ^
+{ A piece of modern office equipment\. } ^
+<speed2> Photocopier ^
+{ Essential for reproducing meeting notes or memos\. } ^
+<speed1> Photocopier ^
+{ Photocopier } ^
+<speed2> Photocopier ^
+<courtesyTone> ^
+{ A portable device\. } ^
+<speed2> Digital Voice Recorder ^
+{ Can store and play various media files\. } ^
+<speed1> Digital Voice Recorder ^
+{ Digital Voice Recorder } ^
+<speed2> Digital Voice Recorder ^
+<courtesyTone> ^
+{ A device for maintaining hygiene\. } ^
+<speed2> Oral Irrigator ^
+{ Removes debris between teeth\. } ^
+<speed1> Oral Irrigator ^
+{ Oral Irrigator } ^
+<speed2> Oral Irrigator ^
+<courtesyTone> ^
+{ A furniture item typically found in a study\. } ^
+<speed2> Bookcase ^
+{ Can be floor-standing or wall-mounted\. } ^
+<speed1> Bookcase ^
+{ Bookcase } ^
+<speed2> Bookcase ^
+<courtesyTone> ^
+{ An accessory for string instruments\. } ^
+<speed2> Tuning Peg ^
+{ Tightens or loosens the strings\. } ^
+<speed1> Tuning Peg ^
+{ Tuning Peg } ^
+<speed2> Tuning Peg ^
+<courtesyTone> ^
+{ An instrument for scientific observation\. } ^
+<speed2> Telescope ^
+{ Uses lenses or mirrors to magnify distant objects\. } ^
+<speed1> Telescope ^
+{ Telescope } ^
+<speed2> Telescope ^
+<courtesyTone> ^
+{ A personal adornment piece\. } ^
+<speed2> Watch ^
+{ Can be analog or digital\. } ^
+<speed1> Watch ^
+{ Watch } ^
+<speed2> Watch ^
+<courtesyTone> ^
+{ A tool for cutting dense materials\. } ^
+<speed2> Jigsaw ^
+{ The blade moves in a rapid up and down motion\. } ^
+<speed1> Jigsaw ^
+{ Jigsaw } ^
+<speed2> Jigsaw ^
+<courtesyTone> ^
+{ An essential cooking appliance\. } ^
+<speed2> Kitchen Stove ^
+{ Can be fueled by gas or electricity\. } ^
+<speed1> Kitchen Stove ^
+{ Kitchen Stove } ^
+<speed2> Kitchen Stove ^
+<courtesyTone> ^
+{ Outdoor sports equipment\. } ^
+<speed2> Snowboard ^
+{ Prominent in winter recreational activities\. } ^
+<speed1> Snowboard ^
+{ Snowboard } ^
+<speed2> Snowboard ^
+<courtesyTone> ^
+{ Easy to carry and reposition as needed\. } ^
+<speed2> Artist's Easel ^
+{ A platform for holding a painter's supplies\. } ^
+<speed1> Artist's Easel ^
+{ Artist's Easel } ^
+<speed2> Artist's Easel ^
+<courtesyTone> ^
+{ Compact and portable, with a retractable connector\. } ^
+<speed2> Flash Drive ^
+{ A digital data storage device\. } ^
+<speed1> Flash Drive ^
+{ Flash Drive } ^
+<speed2> Flash Drive ^
+<courtesyTone> ^
+{ A fixture in homes and buildings\. } ^
+<speed2> Door ^
+{ Offers privacy and security across an entryway\. } ^
+<speed1> Door ^
+{ Door } ^
+<speed2> Door ^
+<courtesyTone> ^
+{ It represents characters as patterns of raised dots\. } ^
+<speed2> Braille System ^
+{ Allows tactile reading and writing\. } ^
+<speed1> Braille System ^
+{ Braille System } ^
+<speed2> Braille System ^
+<courtesyTone> ^
+{ A long-distance event\. } ^
+<speed2> Endurance Race ^
+{ Involves sustained running or walking\. } ^
+<speed1> Endurance Race ^
+{ Endurance Race } ^
+<speed2> Endurance Race ^
+<courtesyTone> ^
+{ A small electric appliance for fabric care\. } ^
+<speed2> Clothes Iron ^
+{ Removes creases from linens\. } ^
+<speed1> Clothes Iron ^
+{ Clothes Iron } ^
+<speed2> Clothes Iron ^
+<courtesyTone> ^
+{ A musical practice essential\. } ^
+<speed2> Tuning Fork ^
+{ Used to learn and maintain precise intonation\. } ^
+<speed1> Tuning Fork ^
+{ Tuning Fork } ^
+<speed2> Tuning Fork ^
+<courtesyTone> ^
+{ Usually grown in small indoor or outdoor spaces\. } ^
+<speed2> Herb Garden ^
+{ Can include basil, parsley, and thyme\. } ^
+<speed1> Herb Garden ^
+{ Herb Garden } ^
+<speed2> Herb Garden ^
+<courtesyTone> ^
+{ A component of a home's heating system\. } ^
+<speed2> Radiator ^
+{ Emits warmth into living spaces\. } ^
+<speed1> Radiator ^
+{ Radiator } ^
+<speed2> Radiator ^
+<courtesyTone> ^
+{ An electronic device used by students and professionals\. } ^
+<speed2> Calculator ^
+{ Comes in scientific, graphic, and financial types\. } ^
+<speed1> Calculator ^
+{ Calculator } ^
+<speed2> Calculator ^
+<courtesyTone> ^
+{ A hand-held power tool\. } ^
+<speed2> Power Drill ^
+{ Commonly found in workshops and garages\. } ^
+<speed1> Power Drill ^
+{ Power Drill } ^
+<speed2> Power Drill ^
+<courtesyTone> ^
+{ A handheld implement\. } ^
+<speed2> Garden Trowel ^
+{ Used for digging small holes or weeding\. } ^
+<speed1> Garden Trowel ^
+{ Garden Trowel } ^
+<speed2> Garden Trowel ^
+<courtesyTone> ^
+{ A mechanical fastening device\. } ^
+<speed2> Screw ^
+{ Operated by turning its head with a tool\. } ^
+<speed1> Screw ^
+{ Screw } ^
+<speed2> Screw ^
+<courtesyTone> ^
+{ A large musical instrument\. } ^
+<speed2> Grand Piano ^
+{ Associated with classical and concert music\. } ^
+<speed1> Grand Piano ^
+{ Grand Piano } ^
+<speed2> Grand Piano ^
+<courtesyTone> ^
+{ A hand-operated gardening tool\. } ^
+<speed2> Pruning Snips ^
+{ Used for clipping and maintaining foliage\. } ^
+<speed1> Pruning Snips ^
+{ Pruning Snips } ^
+<speed2> Pruning Snips ^
+<courtesyTone> ^
+{ An item often used in academia\. } ^
+<speed2> Presentation Binder ^
+{ Holds printed work for easy reading and display\. } ^
+<speed1> Presentation Binder ^
+{ Presentation Binder } ^
+<speed2> Presentation Binder ^
+<courtesyTone> ^
+{ A type of outdoor furniture\. } ^
+<speed2> Porch Bench ^
+{ Used for relaxing in the garden or on the patio\. } ^
+<speed1> Porch Bench ^
+{ Porch Bench } ^
+<speed2> Porch Bench ^
+<courtesyTone> ^
+{ A device for tracking location and distance\. } ^
+<speed2> GPS Receiver ^
+{ Often used during hiking or navigation at sea\. } ^
+<speed1> GPS Receiver ^
+{ GPS Receiver } ^
+<speed2> GPS Receiver ^
+<courtesyTone> ^
+{ Portable and carried with you at certain times of day\. } ^
+<speed2> Lantern ^
+{ Can be electric or fueled by oil or gas\. } ^
+<speed1> Lantern ^
+{ Lantern } ^
+<speed2> Lantern ^
+<courtesyTone> ^
+{ A common household appliance\. } ^
+<speed2> Refrigerator ^
+{ Often found in the kitchen\. } ^
+<speed1> Refrigerator ^
+{ Refrigerator } ^
+<speed2> Refrigerator ^
+<courtesyTone> ^
+{ A handheld stringed instrument\. } ^
+<speed2> Banjo ^
+{ Known for its distinctive sound in country music\. } ^
+<speed1> Banjo ^
+{ Banjo } ^
+<speed2> Banjo ^
+<courtesyTone> ^
+{ An artist's small, pointed tool\. } ^
+<speed2> Stylus ^
+{ Used for making fine lines and decorative dots\. } ^
+<speed1> Stylus ^
+{ Stylus } ^
+<speed2> Stylus ^
+<courtesyTone> ^
+{ A construction tool\. } ^
+<speed2> Trowel ^
+{ Used to apply and smooth plaster or cement\. } ^
+<speed1> Trowel ^
+{ Trowel } ^
+<speed2> Trowel ^
+<courtesyTone> ^
+{ A mode of transportation\. } ^
+<speed2> Snowmobile ^
+{ Often used in polar regions\. } ^
+<speed1> Snowmobile ^
+{ Snowmobile } ^
+<speed2> Snowmobile ^
+<courtesyTone> ^
+{ An item for carrying personal effects\. } ^
+<speed2> Messenger Bag ^
+{ Common among students for books and laptops\. } ^
+<speed1> Messenger Bag ^
+{ Messenger Bag } ^
+<speed2> Messenger Bag ^
+<courtesyTone> ^
+{ Can be made of silk, cotton, or flannel\. } ^
+<speed2> Pajamas ^
+{ Nighttime apparel\. } ^
+<speed1> Pajamas ^
+{ Pajamas } ^
+<speed2> Pajamas ^
+<courtesyTone> ^
+{ Long, slender, and bristled\. } ^
+<speed2> Paintbrush ^
+{ Used to apply color or create details\. } ^
+<speed1> Paintbrush ^
+{ Paintbrush } ^
+<speed2> Paintbrush ^
+<courtesyTone> ^
+{ A personal fitness device\. } ^
+<speed2> Heart Rate Monitor ^
+{ Often synchronizes data with smartphone apps\. } ^
+<speed1> Heart Rate Monitor ^
+{ Heart Rate Monitor } ^
+<speed2> Heart Rate Monitor ^
+<courtesyTone> ^
+{ Equipment for precision work\. } ^
+<speed2> Clamp ^
+{ Holds objects securely in place\. } ^
+<speed1> Clamp ^
+{ Clamp } ^
+<speed2> Clamp ^
+<courtesyTone> ^
+{ Often made of metal or heavy-duty plastic\. } ^
+<speed2> Toolbox ^
+{ Utilized by professionals like carpenters\. } ^
+<speed1> Toolbox ^
+{ Toolbox } ^
+<speed2> Toolbox ^
+<courtesyTone> ^
+{ A material for bonding surfaces together\. } ^
+<speed2> Super Glue ^
+{ Often used in small-scale model building and repairs\. } ^
+<speed1> Super Glue ^
+{ Super Glue } ^
+<speed2> Super Glue ^
+<courtesyTone> ^
+{ A functional and decorative outdoor feature\. } ^
+<speed2> Garden Light ^
+{ Can be powered by solar energy or electricity\. } ^
+<speed1> Garden Light ^
+{ Garden Light } ^
+<speed2> Garden Light ^
+<courtesyTone> ^
+{ Personal care equipment\. } ^
+<speed2> Beard Trimmer ^
+{ Often found in a grooming kit\. } ^
+<speed1> Beard Trimmer ^
+{ Beard Trimmer } ^
+<speed2> Beard Trimmer ^
+<courtesyTone> ^
+{ An instrument for audio creation\. } ^
+<speed2> Electric Guitar ^
+{ Played with fingers or a pick\. } ^
+<speed1> Electric Guitar ^
+{ Electric Guitar } ^
+<speed2> Electric Guitar ^
+<courtesyTone> ^
+{ Fabricated from various materials like wood or stone\. } ^
+<speed2> Cutting Board ^
+{ A culinary preparation surface\. } ^
+<speed1> Cutting Board ^
+{ Cutting Board } ^
+<speed2> Cutting Board ^
+<courtesyTone> ^
+{ A technique for information organization\. } ^
+<speed2> Mind Mapping ^
+{ Involves creating visual structures for ideas\. } ^
+<speed1> Mind Mapping ^
+{ Mind Mapping } ^
+<speed2> Mind Mapping ^
+<courtesyTone> ^
+{ An electronic desktop device\. } ^
+<speed2> Printing Calculator ^
+{ Essential for accounting and financial tasks\. } ^
+<speed1> Printing Calculator ^
+{ Printing Calculator } ^
+<speed2> Printing Calculator ^
+<courtesyTone> ^
+{ An item of office stationery\. } ^
+<speed2> Notepad ^
+{ Used for jotting down lists or capturing ideas\. } ^
+<speed1> Notepad ^
+{ Notepad } ^
+<speed2> Notepad ^
+<courtesyTone> ^
+{ A tool for cyber security\. } ^
+<speed2> Security Software ^
+{ Protects networks and systems from threats\. } ^
+<speed1> Security Software ^
+{ Security Software } ^
+<speed2> Security Software ^
+<courtesyTone> ^
+{ A form of alternative medicine\. } ^
+<speed2> Acupuncture ^
+{ Aims to alleviate pain and treat various conditions\. } ^
+<speed1> Acupuncture ^
+{ Acupuncture } ^
+<speed2> Acupuncture ^
+<courtesyTone> ^
+{ May use treads or wheels for locomotion\. } ^
+<speed2> Exploration Rover ^
+{ Often remote-controlled for safety\. } ^
+<speed1> Exploration Rover ^
+{ Exploration Rover } ^
+<speed2> Exploration Rover ^
+<courtesyTone> ^
+{ A personal item\. } ^
+<speed2> Necklace ^
+{ Often crafted from precious metals like gold or silver\. } ^
+<speed1> Necklace ^
+{ Necklace } ^
+<speed2> Necklace ^
+<courtesyTone> ^
+{ Equipment for travel\. } ^
+<speed2> Suitcase ^
+{ Designed to keep belongings secure and portable\. } ^
+<speed1> Suitcase ^
+{ Suitcase } ^
+<speed2> Suitcase ^
+<courtesyTone> ^
+{ An accessory for mobile devices\. } ^
+<speed2> Power Bank ^
+{ Boosts available power for charging on the go\. } ^
+<speed1> Power Bank ^
+{ Power Bank } ^
+<speed2> Power Bank ^
+<courtesyTone> ^
+{ A wearable technology device\. } ^
+<speed2> Smartwatch ^
+{ May track steps and monitor sleep\. } ^
+<speed1> Smartwatch ^
+{ Smartwatch } ^
+<speed2> Smartwatch ^
+<courtesyTone> ^
+{ An instrument for vertical ascent\. } ^
+<speed2> Ladder ^
+{ Varieties include folding, extension, and platform\. } ^
+<speed1> Ladder ^
+{ Ladder } ^
+<speed2> Ladder ^
+<courtesyTone> ^
+{ A kitchen appliance\. } ^
+<speed2> Toaster Oven ^
+{ Has a front door and multiple heating elements\. } ^
+<speed1> Toaster Oven ^
+{ Toaster Oven } ^
+<speed2> Toaster Oven ^
+<courtesyTone> ^
+{ Personal care routine\. } ^
+<speed2> Hair Removal ^
+{ Often considered cosmetic or hygienic\. } ^
+<speed1> Hair Removal ^
+{ Hair Removal } ^
+<speed2> Hair Removal ^
+<courtesyTone> ^
+{ A unit of academic or professional work\. } ^
+<speed2> Research Project ^
+{ Results in a thesis or publication\. } ^
+<speed1> Research Project ^
+{ Research Project } ^
+<speed2> Research Project ^
+<courtesyTone> ^
+{ An office device\. } ^
+<speed2> Paper Shredder ^
+{ Used for confidentiality and preventing identity theft\. } ^
+<speed1> Paper Shredder ^
+{ Paper Shredder } ^
+<speed2> Paper Shredder ^
+<courtesyTone> ^
+{ A precision craft tool\. } ^
+<speed2> Rotary Tool ^
+{ Can engrave, grind, or sand small objects\. } ^
+<speed1> Rotary Tool ^
+{ Rotary Tool } ^
+<speed2> Rotary Tool ^
+<courtesyTone> ^
+{ A piece of safety equipment in transportation\. } ^
+<speed2> Airbag ^
+{ Found in cars\. } ^
+<speed1> Airbag ^
+{ Airbag } ^
+<speed2> Airbag ^
+<courtesyTone> ^
+{ Equipment used for aquatic activities\. } ^
+<speed2> Swim Fins ^
+{ Commonly used by scuba divers and snorkelers\. } ^
+<speed1> Swim Fins ^
+{ Swim Fins } ^
+<speed2> Swim Fins ^
+<courtesyTone> ^
+{ An instrument for DIY enthusiasts and professionals\. } ^
+<speed2> Nail Gun ^
+{ Commonly used for fastening materials together\. } ^
+<speed1> Nail Gun ^
+{ Nail Gun } ^
+<speed2> Nail Gun ^
+<courtesyTone> ^
+{ Traditional media for artists\. } ^
+<speed2> Clay ^
+{ Requires heating for the hardening process\. } ^
+<speed1> Clay ^
+{ Clay } ^
+<speed2> Clay ^
+<courtesyTone> ^
+{ An item of office equipment\. } ^
+<speed2> Paper Tray ^
+{ Holds blank sheets for printing or copying\. } ^
+<speed1> Paper Tray ^
+{ Paper Tray } ^
+<speed2> Paper Tray ^
+<courtesyTone> ^
+{ A culinary tool for heating\. } ^
+<speed2> Kitchen Torch ^
+{ Often used for caramelizing sugar\. } ^
+<speed1> Kitchen Torch ^
+{ Kitchen Torch } ^
+<speed2> Kitchen Torch ^
+<courtesyTone> ^
+{ A mode of urban transportation\. } ^
+<speed2> Scooter ^
+{ Can be motorized or pedal-powered\. } ^
+<speed1> Scooter ^
+{ Scooter } ^
+<speed2> Scooter ^
+<courtesyTone> ^
+{ Often found in gardens and patios\. } ^
+<speed2> Paving Bricks ^
+{ Can be made from concrete, stone, or clay\. } ^
+<speed1> Paving Bricks ^
+{ Paving Bricks } ^
+<speed2> Paving Bricks ^
+<courtesyTone> ^
+{ A piece of climbing equipment\. } ^
+<speed2> Harness ^
+{ Worn around the waist and thighs\. } ^
+<speed1> Harness ^
+{ Harness } ^
+<speed2> Harness ^
+<courtesyTone> ^
+{ A household cleaning implement\. } ^
+<speed2> Dish Brush ^
+{ Stiff bristles attached to a handle\. } ^
+<speed1> Dish Brush ^
+{ Dish Brush } ^
+<speed2> Dish Brush ^
+<courtesyTone> ^
+{ Often comes with multiple speakers and a subwoofer\. } ^
+<speed2> Home Theater System ^
+{ Uses surround sound to enhance audio\. } ^
+<speed1> Home Theater System ^
+{ Home Theater System } ^
+<speed2> Home Theater System ^
+<courtesyTone> ^
+{ A traditional navigational instrument\. } ^
+<speed2> Sextant ^
+{ Used to determine angular distances between objects, like stars or the horizon\. } ^
+<speed1> Sextant ^
+{ Sextant } ^
+<speed2> Sextant ^
+<courtesyTone> ^
+{ A storage item often found in garages\. } ^
+<speed2> Tool Chest ^
+{ Typically made of metal with drawers and compartments\. } ^
+<speed1> Tool Chest ^
+{ Tool Chest } ^
+<speed2> Tool Chest ^
+<courtesyTone> ^
+{ A culinary process\. } ^
+<speed2> Fermentation ^
+{ Involves a chemical reaction\. } ^
+<speed1> Fermentation ^
+{ Fermentation } ^
+<speed2> Fermentation ^
+<courtesyTone> ^
+{ An appliance\. } ^
+<speed2> Blender ^
+{ Usually a countertop device\. } ^
+<speed1> Blender ^
+{ Blender } ^
+<speed2> Blender ^
+<courtesyTone> ^
+{ A safety device\. } ^
+<speed2> Bicycle Light ^
+{ Often mounted on handlebars\. } ^
+<speed1> Bicycle Light ^
+{ Bicycle Light } ^
+<speed2> Bicycle Light ^
+<courtesyTone> ^
+{ A practical item for home and travel use\. } ^
+<speed2> Garment Bag ^
+{ Designed to prevent clothes from wrinkling\. } ^
+<speed1> Garment Bag ^
+{ Garment Bag } ^
+<speed2> Garment Bag ^
+<courtesyTone> ^
+{ A competitive outdoor activity\. } ^
+<speed2> Team Sport ^
+{ Often involves strategy, exertion, and specialized gear\. } ^
+<speed1> Team Sport ^
+{ Team Sport } ^
+<speed2> Team Sport ^
+<courtesyTone> ^
+{ Typically found in bathrooms; may be manual or electric\. } ^
+<speed2> Trimmer ^
+{ Personal grooming equipment\. } ^
+<speed1> Trimmer ^
+{ Trimmer } ^
+<speed2> Trimmer ^
+<courtesyTone> ^
+{ Originated in the late 19th and early 20th centuries\. } ^
+<speed2> Tap Dancing ^
+{ Characterized by rhythm, improvisation, and special shoes\. } ^
+<speed1> Tap Dancing ^
+{ Tap Dancing } ^
+<speed2> Tap Dancing ^
+<courtesyTone> ^
+{ A high-precision hand tool\. } ^
+<speed2> Jewelers Screwdriver ^
+{ Utilized in electronics and watchmaking\. } ^
+<speed1> Jewelers Screwdriver ^
+{ Jewelers Screwdriver } ^
+<speed2> Jewelers Screwdriver ^
+<courtesyTone> ^
+{ A piece of lab equipment\. } ^
+<speed2> Erlenmeyer Flask ^
+{ Features a long, narrow neck and flat bottom\. } ^
+<speed1> Erlenmeyer Flask ^
+{ Erlenmeyer Flask } ^
+<speed2> Erlenmeyer Flask ^
+<courtesyTone> ^
+{ A food item typically served as a side dish\. } ^
+<speed2> French Fries ^
+{ Can be hand-cut or machine-sliced\. } ^
+<speed1> French Fries ^
+{ French Fries } ^
+<speed2> French Fries ^
+<courtesyTone> ^
+{ An electronic reading device\. } ^
+<speed2> E reader ^
+{ Can store hundreds or thousands of digital books\. } ^
+<speed1> E reader ^
+{ E reader } ^
+<speed2> E reader ^
+<courtesyTone> ^
+{ A form of recreational exercise\. } ^
+<speed2> Swimming ^
+{ Helps with strength, flexibility, and cardiovascular fitness\. } ^
+<speed1> Swimming ^
+{ Swimming } ^
+<speed2> Swimming ^
+<courtesyTone> ^
+{ A durable surface material\. } ^
+<speed2> Natural Stone ^
+{ Frequently used for countertops and floors\. } ^
+<speed1> Natural Stone ^
+{ Natural Stone } ^
+<speed2> Natural Stone ^
+<courtesyTone> ^
+{ A vocational activity primarily outdoors\. } ^
+<speed2> Agriculture ^
+{ Essential for producing food on a large scale\. } ^
+<speed1> Agriculture ^
+{ Agriculture } ^
+<speed2> Agriculture ^
+<courtesyTone> ^
+{ Facility for indoor sports and events\. } ^
+<speed2> Gymnasium ^
+{ Commonly found on university campuses\. } ^
+<speed1> Gymnasium ^
+{ Gymnasium } ^
+<speed2> Gymnasium ^
+<courtesyTone> ^
+{ A device used in timekeeping\. } ^
+<speed2> Chronometer ^
+{ Historically used in navigation for longitude determination\. } ^
+<speed1> Chronometer ^
+{ Chronometer } ^
+<speed2> Chronometer ^
+<courtesyTone> ^
+{ For aquatic activities\. } ^
+<speed2> Water Shoes ^
+{ Provides protection and traction on slippery surfaces\. } ^
+<speed1> Water Shoes ^
+{ Water Shoes } ^
+<speed2> Water Shoes ^
+<courtesyTone> ^
+{ An important tool for artists\. } ^
+<speed2> Art Desk ^
+{ Provides a smooth, flat surface for work\. } ^
+<speed1> Art Desk ^
+{ Art Desk } ^
+<speed2> Art Desk ^
+<courtesyTone> ^
+{ A seasonal home accessory\. } ^
+<speed2> Scented Candle ^
+{ Often used for decoration and ambiance\. } ^
+<speed1> Scented Candle ^
+{ Scented Candle } ^
+<speed2> Scented Candle ^
+<courtesyTone> ^
+{ An apparatus for capturing images\. } ^
+<speed2> Microscope Camera ^
+{ Combines optical and electronic components for detailed photographs\. } ^
+<speed1> Microscope Camera ^
+{ Microscope Camera } ^
+<speed2> Microscope Camera ^
+<courtesyTone> ^
+{ A guided outdoor activity\. } ^
+<speed2> Obstacle Course Race ^
+{ Promotes teamwork and leadership skills\. } ^
+<speed1> Obstacle Course Race ^
+{ Obstacle Course Race } ^
+<speed2> Obstacle Course Race ^
+<courtesyTone> ^
+{ A musical instrument\. } ^
+<speed2> Harp ^
+{ Associated with traditional and folk music\. } ^
+<speed1> Harp ^
+{ Harp } ^
+<speed2> Harp ^
+<courtesyTone> ^
+{ A piece of jewelry often given as a gift\. } ^
+<speed2> Charm Bracelet ^
+{ May include gems or engraving, symbolizing a special occasion\. } ^
+<speed1> Charm Bracelet ^
+{ Charm Bracelet } ^
+<speed2> Charm Bracelet ^
+<courtesyTone> ^
+{ A practical item for personal care\. } ^
+<speed2> Bathrobe ^
+{ Absorbs moisture\. } ^
+<speed1> Bathrobe ^
+{ Bathrobe } ^
+<speed2> Bathrobe ^
+<courtesyTone> ^
+{ An office supply\. } ^
+<speed2> Magnet Clip ^
+{ Used for attaching papers to a surface for display\. } ^
+<speed1> Magnet Clip ^
+{ Magnet Clip } ^
+<speed2> Magnet Clip ^
+<courtesyTone> ^
+{ Item worn for outdoor expeditions\. } ^
+<speed2> Hiking Vest ^
+{ Typically includes multiple pockets and durable materials\. } ^
+<speed1> Hiking Vest ^
+{ Hiking Vest } ^
+<speed2> Hiking Vest ^
+<courtesyTone> ^
+{ A form of artistic expression\. } ^
+<speed2> Pencil Drawing ^
+{ Often involves graphite on paper\. } ^
+<speed1> Pencil Drawing ^
+{ Pencil Drawing } ^
+<speed2> Pencil Drawing ^
+<courtesyTone> ^
+{ An essential part of a personal computing setup\. } ^
+<speed2> Mechanical Keyboard ^
+{ Specialized switches for a distinct feel and sound\. } ^
+<speed1> Mechanical Keyboard ^
+{ Mechanical Keyboard } ^
+<speed2> Mechanical Keyboard ^
+<courtesyTone> ^
+{ Handheld device for DIY projects\. } ^
+<speed2> Handheld Drill ^
+{ Employs rotation at high speeds for its operation\. } ^
+<speed1> Handheld Drill ^
+{ Handheld Drill } ^
+<speed2> Handheld Drill ^
+<courtesyTone> ^
+{ Protective gear for skaters\. } ^
+<speed2> Knee Pads ^
+{ It is made of impact-resistant materials\. } ^
+<speed1> Knee Pads ^
+{ Knee Pads } ^
+<speed2> Knee Pads ^
+<courtesyTone> ^
+{ A type of popular baked good\. } ^
+<speed2> Cupcake ^
+{ Often eaten with a cup of coffee or as a dessert\. } ^
+<speed1> Cupcake ^
+{ Cupcake } ^
+<speed2> Cupcake ^
+<courtesyTone> ^
+{ An agricultural tool\. } ^
+<speed2> Rototiller ^
+{ Used for preparing the soil\. } ^
+<speed1> Rototiller ^
+{ Rototiller } ^
+<speed2> Rototiller ^
+<courtesyTone> ^
+{ An electronic device\. } ^
+<speed2> Portable Media Player ^
+{ Often used for personal entertainment\. } ^
+<speed1> Portable Media Player ^
+{ Portable Media Player } ^
+<speed2> Portable Media Player ^
+<courtesyTone> ^
+{ A piece of outdoor equipment\. } ^
+<speed2> Hammock ^
+{ Provides comfort and rest in natural settings\. } ^
+<speed1> Hammock ^
+{ Hammock } ^
+<speed2> Hammock ^
+<courtesyTone> ^
+{ A tool used in precision metalwork\. } ^
+<speed2> Tap and Die Set ^
+{ Used to create threads within a hole\. } ^
+<speed1> Tap and Die Set ^
+{ Tap and Die Set } ^
+<speed2> Tap and Die Set ^
+<courtesyTone> ^
+{ An accessory for refined dining\. } ^
+<speed2> Lobster Bib ^
+{ Typically seen in upscale restaurants or during formal meals\. } ^
+<speed1> Lobster Bib ^
+{ Lobster Bib } ^
+<speed2> Lobster Bib ^
+<courtesyTone> ^
+{ Essential equipment for a particular sport\. } ^
+<speed2> Cross Country Skis ^
+{ Often used in pairs and requires special boots\. } ^
+<speed1> Cross Country Skis ^
+{ Cross Country Skis } ^
+<speed2> Cross Country Skis ^
+<courtesyTone> ^
+{ An electronic computing component\. } ^
+<speed2> Processor Chip ^
+{ The performance is measured in clock speeds and core counts\. } ^
+<speed1> Processor Chip ^
+{ Processor Chip } ^
+<speed2> Processor Chip ^
+<courtesyTone> ^
+{ A material used in crafting and design\. } ^
+<speed2> Mosaic Tile ^
+{ Can be found in various colors and patterns\. } ^
+<speed1> Mosaic Tile ^
+{ Mosaic Tile } ^
+<speed2> Mosaic Tile ^
+<courtesyTone> ^
+{ A tool used in horticulture\. } ^
+<speed2> Pruning Saw ^
+{ Can be particularly effective on tree branches\. } ^
+<speed1> Pruning Saw ^
+{ Pruning Saw } ^
+<speed2> Pruning Saw ^
+<courtesyTone> ^
+{ A kitchen appliance\. } ^
+<speed2> Air Fryer ^
+{ Can be used for health-conscious cooking\. } ^
+<speed1> Air Fryer ^
+{ Air Fryer } ^
+<speed2> Air Fryer ^
+<courtesyTone> ^
+{ Apparel for a specific profession\. } ^
+<speed2> Lab Apron ^
+{ Often seen worn by people working with chemicals or paint\. } ^
+<speed1> Lab Apron ^
+{ Lab Apron } ^
+<speed2> Lab Apron ^
+<courtesyTone> ^
+{ An object used in a household's sleeping area\. } ^
+<speed2> Bedroom Bench ^
+{ Can be an accent piece for interior design\. } ^
+<speed1> Bedroom Bench ^
+{ Bedroom Bench } ^
+<speed2> Bedroom Bench ^
+<courtesyTone> ^
+{ Footwear designed for an indoor sport\. } ^
+<speed2> Badminton Shoes ^
+{ Offers support and cushioning during rapid movements\. } ^
+<speed1> Badminton Shoes ^
+{ Badminton Shoes } ^
+<speed2> Badminton Shoes ^
+<courtesyTone> ^
+{ A device found in homes and hotels\. } ^
+<speed2> Humidifier ^
+{ Improves indoor air quality\. } ^
+<speed1> Humidifier ^
+{ Humidifier } ^
+<speed2> Humidifier ^
+<courtesyTone> ^
+{ An instrument for scientists\. } ^
+<speed2> Pipette ^
+{ Measures and dispenses precise volumes of liquids\. } ^
+<speed1> Pipette ^
+{ Pipette } ^
+<speed2> Pipette ^
+<courtesyTone> ^
+{ An outdoor recreational structure\. } ^
+<speed2> Playset Slide ^
+{ Usually seen in parks and backyards\. } ^
+<speed1> Playset Slide ^
+{ Playset Slide } ^
+<speed2> Playset Slide ^
+<courtesyTone> ^
+{ An electric home appliance\. } ^
+<speed2> Coffee Maker ^
+{ Used to make a popular hot beverage\. } ^
+<speed1> Coffee Maker ^
+{ Coffee Maker } ^
+<speed2> Coffee Maker ^
+<courtesyTone> ^
+{ An accessory commonly used in academia and meetings\. } ^
+<speed2> Whiteboard ^
+{ Consists of a writing surface that can be wiped clean\. } ^
+<speed1> Whiteboard ^
+{ Whiteboard } ^
+<speed2> Whiteboard ^
+<courtesyTone> ^
+{ An item used in exterior home maintenance\. } ^
+<speed2> Leaf Rake ^
+{ Helps to collect debris from the ground\. } ^
+<speed1> Leaf Rake ^
+{ Leaf Rake } ^
+<speed2> Leaf Rake ^
+<courtesyTone> ^
+{ Its use is required by law in many places\. } ^
+<speed2> Seatbelt ^
+{ A piece of safety equipment\. } ^
+<speed1> Seatbelt ^
+{ Seatbelt } ^
+<speed2> Seatbelt ^
+<courtesyTone> ^
+{ A recreational activity involving structured play\. } ^
+<speed2> Board Game ^
+{ Engages multiple players in strategic or chance encounters\. } ^
+<speed1> Board Game ^
+{ Board Game } ^
+<speed2> Board Game ^
+<courtesyTone> ^
+{ An item of personal adornment\. } ^
+<speed2> Wedding Ring ^
+{ Often made of precious metals\. } ^
+<speed1> Wedding Ring ^
+{ Wedding Ring } ^
+<speed2> Wedding Ring ^
+<courtesyTone> ^
+{ A type of footwear typically worn indoors\. } ^
+<speed2> Slippers ^
+{ Offers coziness and warmth during colder seasons\. } ^
+<speed1> Slippers ^
+{ Slippers } ^
+<speed2> Slippers ^
+<courtesyTone> ^
+{ A prominently displayed visual decoration\. } ^
+<speed2> Wall Art ^
+{ Seen in homes and offices to enhance aesthetics\. } ^
+<speed1> Wall Art ^
+{ Wall Art } ^
+<speed2> Wall Art ^
+<courtesyTone> ^
+{ A device used for content viewing\. } ^
+<speed2> Plasma TV ^
+{ Found in living rooms and entertainment spaces\. } ^
+<speed1> Plasma TV ^
+{ Plasma TV } ^
+<speed2> Plasma TV ^
+<courtesyTone> ^
+{ A two-wheeled mode of transportation\. } ^
+<speed2> Kick Scooter ^
+{ Can be categorized as a sport or leisure activity\. } ^
+<speed1> Kick Scooter ^
+{ Kick Scooter } ^
+<speed2> Kick Scooter ^
+<courtesyTone> ^
+{ An object commonly found in offices\. } ^
+<speed2> Corkboard ^
+{ Frequently paired with tacks or sticky notes\. } ^
+<speed1> Corkboard ^
+{ Corkboard } ^
+<speed2> Corkboard ^
+<courtesyTone> ^
+{ A cleaning tool for indoor spaces\. } ^
+<speed2> Vacuum Cleaner ^
+{ Often has a canister or bag\. } ^
+<speed1> Vacuum Cleaner ^
+{ Vacuum Cleaner } ^
+<speed2> Vacuum Cleaner ^
+<courtesyTone> ^
+{ A small, portable computing device\. } ^
+<speed2> Convertible Laptop ^
+{ Features a touch screen interface\. } ^
+<speed1> Convertible Laptop ^
+{ Convertible Laptop } ^
+<speed2> Convertible Laptop ^
+<courtesyTone> ^
+{ Comes in various sizes and materials\. } ^
+<speed2> Cooking Pot ^
+{ Used for making soups and stews\. } ^
+<speed1> Cooking Pot ^
+{ Cooking Pot } ^
+<speed2> Cooking Pot ^
+<courtesyTone> ^
+{ A tool used in gardening\. } ^
+<speed2> Hedge Clippers ^
+{ Motorized or manual with two long cutting blades\. } ^
+<speed1> Hedge Clippers ^
+{ Hedge Clippers } ^
+<speed2> Hedge Clippers ^
+<courtesyTone> ^
+{ A water-based recreational apparatus\. } ^
+<speed2> Diving Board ^
+{ Found in pools or water parks\. } ^
+<speed1> Diving Board ^
+{ Diving Board } ^
+<speed2> Diving Board ^
+<courtesyTone> ^
+{ Traditional ceremonial garb\. } ^
+<speed2> Graduation Gown ^
+{ Often worn during important institutional milestones\. } ^
+<speed1> Graduation Gown ^
+{ Graduation Gown } ^
+<speed2> Graduation Gown ^
+<courtesyTone> ^
+{ A modern technological device\. } ^
+<speed2> Video Doorbell ^
+{ Enhances home security with video capability\. } ^
+<speed1> Video Doorbell ^
+{ Video Doorbell } ^
+<speed2> Video Doorbell ^
+<courtesyTone> ^
+{ An instrument used for climate observation\. } ^
+<speed2> Barometer ^
+{ Meteorologists use this tool for forecasting weather\. } ^
+<speed1> Barometer ^
+{ Barometer } ^
+<speed2> Barometer ^
+<courtesyTone> ^
+{ An item of formal men's attire\. } ^
+<speed2> Electric Kettle ^
+{ Heats water quickly\. } ^
+<speed1> Electric Kettle ^
+{ Electric Kettle } ^
+<speed2> Electric Kettle ^
+<courtesyTone> ^
+{ A focus in modern interior design\. } ^
+<speed2> Home Decor ^
+{ Includes items like rugs, throw pillows, and curtains\. } ^
+<speed1> Home Decor ^
+{ Home Decor } ^
+<speed2> Home Decor ^
+<courtesyTone> ^
+{ A device for maintaining oral hygiene\. } ^
+<speed2> Water Flosser ^
+{ Often used after brushing teeth\. } ^
+<speed1> Water Flosser ^
+{ Water Flosser } ^
+<speed2> Water Flosser ^
+<courtesyTone> ^
+{ A piece of safety equipment in sports\. } ^
+<speed2> Sports Mouthguard ^
+{ Essential for certain contact games\. } ^
+<speed1> Sports Mouthguard ^
+{ Sports Mouthguard } ^
+<speed2> Sports Mouthguard ^
+<courtesyTone> ^
+{ A piece of office equipment\. } ^
+<speed2> Filing Cabinet ^
+{ Aids in managing and storing documents\. } ^
+<speed1> Filing Cabinet ^
+{ Filing Cabinet } ^
+<speed2> Filing Cabinet ^
+<courtesyTone> ^
+{ A mode of travel common in urban areas\. } ^
+<speed2> Streetcar ^
+{ Moves along predetermined routes\. } ^
+<speed1> Streetcar ^
+{ Streetcar } ^
+<speed2> Streetcar ^
+<courtesyTone> ^
+{ A musical style with cultural roots\. } ^
+<speed2> Dixieland Jazz ^
+{ Originated in the Southern United States\. } ^
+<speed1> Dixieland Jazz ^
+{ Dixieland Jazz } ^
+<speed2> Dixieland Jazz ^
+<courtesyTone> ^
+{ A form of artistic expression\. } ^
+<speed2> Ceramic Art ^
+{ Can produce items like mugs, vases, and sculptures\. } ^
+<speed1> Ceramic Art ^
+{ Ceramic Art } ^
+<speed2> Ceramic Art ^
+<courtesyTone> ^
+{ An outdoor cooking appliance\. } ^
+<speed2> BBQ Smoker ^
+{ Used for slow-cooking\. } ^
+<speed1> BBQ Smoker ^
+{ BBQ Smoker } ^
+<speed2> BBQ Smoker ^
+<courtesyTone> ^
+{ Equipment used in beverage creation\. } ^
+<speed2> Milk Frother ^
+{ Essential in many bar and cafe settings\. } ^
+<speed1> Milk Frother ^
+{ Milk Frother } ^
+<speed2> Milk Frother ^
+<courtesyTone> ^
+{ A two-word phrase for personal conveyance\. } ^
+<speed2> Portable Scooter ^
+{ Helps in covering short distances within cities or campuses\. } ^
+<speed1> Portable Scooter ^
+{ Portable Scooter } ^
+<speed2> Portable Scooter ^
+<courtesyTone> ^
+{ A hand-held crafting tool\. } ^
+<speed2> Glue Gun ^
+{ Used for adding decorations or making repairs\. } ^
+<speed1> Glue Gun ^
+{ Glue Gun } ^
+<speed2> Glue Gun ^
+<courtesyTone> ^
+{ A fitness equipment piece for the home\. } ^
+<speed2> Elliptical Machine ^
+{ Mimics the motion of climbing stairs or walking uphill\. } ^
+<speed1> Elliptical Machine ^
+{ Elliptical Machine } ^
+<speed2> Elliptical Machine ^
+<courtesyTone> ^
+{ A common stationery item in education and business\. } ^
+<speed2> Graphite Pencil ^
+{ May be mechanical or require sharpening\. } ^
+<speed1> Graphite Pencil ^
+{ Graphite Pencil } ^
+<speed2> Graphite Pencil ^
+<courtesyTone> ^
+{ An electric kitchen device\. } ^
+<speed2> Slow Cooker ^
+{ Often programmable for different cooking methods and times\. } ^
+<speed1> Slow Cooker ^
+{ Slow Cooker } ^
+<speed2> Slow Cooker ^
+<courtesyTone> ^
+{ A protective outdoor accessory\. } ^
+<speed2> Garden Fence ^
+{ Provides a barricade against small animals and pests\. } ^
+<speed1> Garden Fence ^
+{ Garden Fence } ^
+<speed2> Garden Fence ^
+<courtesyTone> ^
+{ An educational aid for visualization\. } ^
+<speed2> Teaching Model ^
+{ Presents a scaled representation of human or animal anatomy\. } ^
+<speed1> Teaching Model ^
+{ Teaching Model } ^
+<speed2> Teaching Model ^
+<courtesyTone> ^
+{ A machine used for yard maintenance\. } ^
+<speed2> Lawn Mower ^
+{ Can be operated manually powered or by gasoline and electricity\. } ^
+<speed1> Lawn Mower ^
+{ Lawn Mower } ^
+<speed2> Lawn Mower ^
+<courtesyTone> ^
+{ An accessory for carrying essentials\. } ^
+<speed2> Crossbody Bag ^
+{ Slung across the body and rests on the hip or back\. } ^
+<speed1> Crossbody Bag ^
+{ Crossbody Bag } ^
+<speed2> Crossbody Bag ^
+<courtesyTone> ^
+{ An attire piece designed for special functions\. } ^
+<speed2> Evening Gown ^
+{ Often worn with matching shoes and accessories\. } ^
+<speed1> Evening Gown ^
+{ Evening Gown } ^
+<speed2> Evening Gown ^
+<courtesyTone> ^
+{ An accessory used in home maintenance\. } ^
+<speed2> Paint Roller ^
+{ Facilitates the task of changing the color of a wall\. } ^
+<speed1> Paint Roller ^
+{ Paint Roller } ^
+<speed2> Paint Roller ^
+<courtesyTone> ^
+{ A water vessel for leisure or sport\. } ^
+<speed2> Fishing Kayak ^
+{ Often used in lakes, rivers, and coastal waters\. } ^
+<speed1> Fishing Kayak ^
+{ Fishing Kayak } ^
+<speed2> Fishing Kayak ^
+<courtesyTone> ^
+{ Used in hazardous working environments\. } ^
+<speed2> Safety Goggles ^
+{ May come with anti-fog and scratch-resistant features\. } ^
+<speed1> Safety Goggles ^
+{ Safety Goggles } ^
+<speed2> Safety Goggles ^
+<courtesyTone> ^
+{ A culinary appliance for confectionery\. } ^
+<speed2> Ice Cream Maker ^
+{ Used for creating a popular frozen dessert\. } ^
+<speed1> Ice Cream Maker ^
+{ Ice Cream Maker } ^
+<speed2> Ice Cream Maker ^
+<courtesyTone> ^
+{ A device for enhancing air quality\. } ^
+<speed2> Air Purifier ^
+{ Used to remove contaminants from the indoor environment\. } ^
+<speed1> Air Purifier ^
+{ Air Purifier } ^
+<speed2> Air Purifier ^
+<courtesyTone> ^
+{ A personal grooming item\. } ^
+<speed2> Nail File ^
+{ Comes in metal or glass varieties, sometimes with a rough surface\. } ^
+<speed1> Nail File ^
+{ Nail File } ^
+<speed2> Nail File ^
+<courtesyTone> ^
+{ A device for stationary exercise\. } ^
+<speed2> Treadmill ^
+{ Often has a digital interface to track workout metrics\. } ^
+<speed1> Treadmill ^
+{ Treadmill } ^
+<speed2> Treadmill ^
+<courtesyTone> ^
+{ An item used in outdoor maintenance\. } ^
+<speed2> Gutter Downspout ^
+{ Typically constructed from metal or plastic and attached to a structure\. } ^
+<speed1> Gutter Downspout ^
+{ Gutter Downspout } ^
+<speed2> Gutter Downspout ^
+<courtesyTone> ^
+{ Gear for underwater exploration\. } ^
+<speed2> Diving Wetsuit ^
+{ Worn to maintain warmth while submerged\. } ^
+<speed1> Diving Wetsuit ^
+{ Diving Wetsuit } ^
+<speed2> Diving Wetsuit ^
+<courtesyTone> ^
+{ An accessory for performances\. } ^
+<speed2> Music Stand ^
+{ Used by instrumentalists and conductors alike\. } ^
+<speed1> Music Stand ^
+{ Music Stand } ^
+<speed2> Music Stand ^
+<courtesyTone> ^
+{ A functional piece of outdoor equipment\. } ^
+<speed2> Security Light ^
+{ Usually powered by electricity, batteries, or solar panels\. } ^
+<speed1> Security Light ^
+{ Security Light } ^
+<speed2> Security Light ^
+<courtesyTone> ^
+{ An object commonly found in living spaces\. } ^
+<speed2> Coffee Table ^
+{ Typically placed in front of a sofa\. } ^
+<speed1> Coffee Table ^
+{ Coffee Table } ^
+<speed2> Coffee Table ^
+<courtesyTone> ^
+{ A handy item for camping trips\. } ^
+<speed2> Fire Starter ^
+{ Causes sparks when struck\. } ^
+<speed1> Fire Starter ^
+{ Fire Starter } ^
+<speed2> Fire Starter ^
+<courtesyTone> ^
+{ A personal luxury item\. } ^
+<speed2> Diamond Necklace ^
+{ A symbol of wealth or achievement\. } ^
+<speed1> Diamond Necklace ^
+{ Diamond Necklace } ^
+<speed2> Diamond Necklace ^
+<courtesyTone> ^
+{ A crucial tool for builders and architects\. } ^
+<speed2> Drafting Square ^
+{ Used for drawing straight lines and precise angles\. } ^
+<speed1> Drafting Square ^
+{ Drafting Square } ^
+<speed2> Drafting Square ^
+<courtesyTone> ^
+{ Ensures protection in hazardous environments\. } ^
+<speed2> Work Boots ^
+{ May feature slip-resistant soles\. } ^
+<speed1> Work Boots ^
+{ Work Boots } ^
+<speed2> Work Boots ^
+<courtesyTone> ^
+{ An item associated with sleep or relaxation\. } ^
+<speed2> Decorative Pillow ^
+{ Found within bedrooms or on sofas\. } ^
+<speed1> Decorative Pillow ^
+{ Decorative Pillow } ^
+<speed2> Decorative Pillow ^
+<courtesyTone> ^
+{ A kitchen gadget\. } ^
+<speed2> Citrus Juicer ^
+{ Can be manual or electric, often with a pressing mechanism\. } ^
+<speed1> Citrus Juicer ^
+{ Citrus Juicer } ^
+<speed2> Citrus Juicer ^
+<courtesyTone> ^
+{ An item found in workshops and garages\. } ^
+<speed2> Rolling Toolbox ^
+{ Holds and organizes things for easy access\. } ^
+<speed1> Rolling Toolbox ^
+{ Rolling Toolbox } ^
+<speed2> Rolling Toolbox ^
+<courtesyTone> ^
+{ Features a flat surface on top\. } ^
+<speed2> Dresser ^
+{ Usually placed in the bedroom for easy access\. } ^
+<speed1> Dresser ^
+{ Dresser } ^
+<speed2> Dresser ^
+<courtesyTone> ^
+{ A tool used by outdoor enthusiasts\. } ^
+<speed2> Hiking Pole ^
+{ Assists in navigating across various terrains\. } ^
+<speed1> Hiking Pole ^
+{ Hiking Pole } ^
+<speed2> Hiking Pole ^
+<courtesyTone> ^
+{ Equipment for a particular sport\. } ^
+<speed2> Baseball Glove ^
+{ Offers hand protection and grip enhancement\. } ^
+<speed1> Baseball Glove ^
+{ Baseball Glove } ^
+<speed2> Baseball Glove ^
+<courtesyTone> ^
+{ An artistic medium\. } ^
+<speed2> Modeling Clay ^
+{ Hardens when dried, preserving the created form\. } ^
+<speed1> Modeling Clay ^
+{ Modeling Clay } ^
+<speed2> Modeling Clay ^
+<courtesyTone> ^
+{ A device used in time management\. } ^
+<speed2> Kitchen Timer ^
+{ Commonly employed in study and work sessions\. } ^
+<speed1> Kitchen Timer ^
+{ Kitchen Timer } ^
+<speed2> Kitchen Timer ^
+<courtesyTone> ^
+{ A traditional method of handcrafting textiles\. } ^
+<speed2> Crochet ^
+{ Produces blankets, caps, and various garments\. } ^
+<speed1> Crochet ^
+{ Crochet } ^
+<speed2> Crochet ^
+<courtesyTone> ^
+{ An apparatus for a popular warm beverage\. } ^
+<speed2> Coffee Pod Machine ^
+{ Brews hot drinks one single serving at a time\. } ^
+<speed1> Coffee Pod Machine ^
+{ Coffee Pod Machine } ^
+<speed2> Coffee Pod Machine ^
+<courtesyTone> ^
+{ Used for both cardiovascular and strength training\. } ^
+<speed2> Rowing Machine ^
+{ Engages muscles in the arms, legs, and core\. } ^
+<speed1> Rowing Machine ^
+{ Rowing Machine } ^
+<speed2> Rowing Machine ^
+<courtesyTone> ^
+{ An item used for personal care routines\. } ^
+<speed2> Toiletry Bag ^
+{ Often carried when traveling to keep belongings organized\. } ^
+<speed1> Toiletry Bag ^
+{ Toiletry Bag } ^
+<speed2> Toiletry Bag ^
+<courtesyTone> ^
+{ A container used by artists\. } ^
+<speed2> Paint Palette ^
+{ Allows for easy mixing and access during use\. } ^
+<speed1> Paint Palette ^
+{ Paint Palette } ^
+<speed2> Paint Palette ^
+<courtesyTone> ^
+{ A part of personal communication devices\. } ^
+<speed2> Display Panel ^
+{ Touch-sensitive screen used in modern smartphones\. } ^
+<speed1> Display Panel ^
+{ Display Panel } ^
+<speed2> Display Panel ^
+<courtesyTone> ^
+{ An item found in many home offices\. } ^
+<speed2> Binding Machine ^
+{ Helps keep important papers securely together\. } ^
+<speed1> Binding Machine ^
+{ Binding Machine } ^
+<speed2> Binding Machine ^
+<courtesyTone> ^
+{ Accessory for cold weather or fashion\. } ^
+<speed2> Winter Hat ^
+{ Often knitted or crocheted from wool or acrylic\. } ^
+<speed1> Winter Hat ^
+{ Winter Hat } ^
+<speed2> Winter Hat ^
+<courtesyTone> ^
+{ Sportswear designed for mobility and flexibility\. } ^
+<speed2> Yoga Pants ^
+{ Preferred attire for a specific form of exercise\. } ^
+<speed1> Yoga Pants ^
+{ Yoga Pants } ^
+<speed2> Yoga Pants ^
+<courtesyTone> ^
+{ An educational tool for young learners\. } ^
+<speed2> Practice Workbook ^
+{ Used to help children practice handwriting skills\. } ^
+<speed1> Practice Workbook ^
+{ Practice Workbook } ^
+<speed2> Practice Workbook ^
+<courtesyTone> ^
+{ A standard part of desktop computing setups\. } ^
+<speed2> Keyboard ^
+{ Equipment associated with digital data input\. } ^
+<speed1> Keyboard ^
+{ Keyboard } ^
+<speed2> Keyboard ^
+<courtesyTone> ^
+{ A form of entertainment and skill development\. } ^
+<speed2> Jigsaw Puzzle ^
+{ Involves the assembly of interlocking pieces\. } ^
+<speed1> Jigsaw Puzzle ^
+{ Jigsaw Puzzle } ^
+<speed2> Jigsaw Puzzle ^
+<courtesyTone> ^
+{ A piece of jewelry\. } ^
+<speed2> Engagement Ring ^
+{ Features a precious stone set onto a metal band\. } ^
+<speed1> Engagement Ring ^
+{ Engagement Ring } ^
+<speed2> Engagement Ring ^
+<courtesyTone> ^
+{ An essential tool for mathematicians and engineers\. } ^
+<speed2> Graphing Calculator ^
+{ Aids in the calculation of complex equations and functions\. } ^
+<speed1> Graphing Calculator ^
+{ Graphing Calculator } ^
+<speed2> Graphing Calculator ^
+<courtesyTone> ^
+{ Personal care device\. } ^
+<speed2> Curling Wand ^
+{ Features a cylindrical barrel that heats up\. } ^
+<speed1> Curling Wand ^
+{ Curling Wand } ^
+<speed2> Curling Wand ^
+<courtesyTone> ^
+{ A traditional head covering\. } ^
+<speed2> Ceremonial Turban ^
+{ Often reflects cultural or religious significance\. } ^
+<speed1> Ceremonial Turban ^
+{ Ceremonial Turban } ^
+<speed2> Ceremonial Turban ^
+<courtesyTone> ^
+{ Safety equipment for maritime use\. } ^
+<speed2> Life Jacket ^
+{ Essential during boat travel or water activities\. } ^
+<speed1> Life Jacket ^
+{ Life Jacket } ^
+<speed2> Life Jacket ^
+<courtesyTone> ^
+{ An common household appliance\. } ^
+<speed2> Washing Machine ^
+{ Consumes water during operation\. } ^
+<speed1> Washing Machine ^
+{ Washing Machine } ^
+<speed2> Washing Machine ^
+<courtesyTone> ^
+{ A form of aerobic exercise\. } ^
+<speed2> Dance Fitness ^
+{ Led by an instructor who choreographs the workout\. } ^
+<speed1> Dance Fitness ^
+{ Dance Fitness } ^
+<speed2> Dance Fitness ^
+<courtesyTone> ^
+{ An essential tool in emergency preparedness\. } ^
+<speed2> Flashlight ^
+{ Often handheld and brings clarity to ones surroundings\. } ^
+<speed1> Flashlight ^
+{ Flashlight } ^
+<speed2> Flashlight ^
+<courtesyTone> ^
+{ An accessory for maintaining warmth indoors\. } ^
+<speed2> Fleece Blanket ^
+{ Layers on beds or sofas for extra comfort\. } ^
+<speed1> Fleece Blanket ^
+{ Fleece Blanket } ^
+<speed2> Fleece Blanket ^
+<courtesyTone> ^
+{ Furniture designed for storing things\. } ^
+<speed2> Bookshelf ^
+{ Ranges from simple shelves to elaborate cabinets\. } ^
+<speed1> Bookshelf ^
+{ Bookshelf } ^
+<speed2> Bookshelf ^
+<courtesyTone> ^
+{ A handheld horticultural implement\. } ^
+<speed2> Garden Hoe ^
+{ Consists of a handle with a narrow metal blade\. } ^
+<speed1> Garden Hoe ^
+{ Garden Hoe } ^
+<speed2> Garden Hoe ^
+<courtesyTone> ^
+{ Often found in conjunction with keyboards\. } ^
+<speed2> Computer Mouse ^
+{ Can be wired, wireless, or even trackball-operated\. } ^
+<speed1> Computer Mouse ^
+{ Computer Mouse } ^
+<speed2> Computer Mouse ^
+<courtesyTone> ^
+{ Essential in kitchens for a variety of recipes\. } ^
+<speed2> Skillet ^
+{ A deep cooking vessel with a long handle\. } ^
+<speed1> Skillet ^
+{ Skillet } ^
+<speed2> Skillet ^
+<courtesyTone> ^
+{ A versatile material used for craft and design\. } ^
+<speed2> Construction Paper ^
+{ Popular in schools for creative projects and presentations\. } ^
+<speed1> Construction Paper ^
+{ Construction Paper } ^
+<speed2> Construction Paper ^
+<courtesyTone> ^
+{ An item of digital technology\. } ^
+<speed2> Media Player ^
+{ Often requires an Internet connection and a subscription to services\. } ^
+<speed1> Media Player ^
+{ Media Player } ^
+<speed2> Media Player ^
+<courtesyTone> ^
+{ A device for personalized listening\. } ^
+<speed2> Earbuds ^
+{ Often connected to phones or music players via wires or Bluetooth\. } ^
+<speed1> Earbuds ^
+{ Earbuds } ^
+<speed2> Earbuds ^
+<courtesyTone> ^
+{ A quiet mode of overwater transportation\. } ^
+<speed2> Racing Kayak ^
+{ Typically propelled using a double-sided paddle\. } ^
+<speed1> Racing Kayak ^
+{ Racing Kayak } ^
+<speed2> Racing Kayak ^
+<courtesyTone> ^
+{ A fixture commonly found in parks and streets\. } ^
+<speed2> Drinking Fountain ^
+{ Usually made of metal, with a spout\. } ^
+<speed1> Drinking Fountain ^
+{ Drinking Fountain } ^
+<speed2> Drinking Fountain ^
+<courtesyTone> ^
+{ A hand-operated device for capturing images\. } ^
+<speed2> Video Camera ^
+{ Records visuals in rapid succession to create moving pictures\. } ^
+<speed1> Video Camera ^
+{ Video Camera } ^
+<speed2> Video Camera ^
+<courtesyTone> ^
+{ A kitchen device for preserving food items\. } ^
+<speed2> Vacuum Sealer ^
+{ Helps extend the shelf life of perishable goods\. } ^
+<speed1> Vacuum Sealer ^
+{ Vacuum Sealer } ^
+<speed2> Vacuum Sealer ^
+<courtesyTone> ^
+{ Worn to protect the feet and improve grip\. } ^
+<speed2> Climbing Shoes ^
+{ Made with sticky rubber soles for traction on vertical surfaces\. } ^
+<speed1> Climbing Shoes ^
+{ Climbing Shoes } ^
+<speed2> Climbing Shoes ^
+<courtesyTone> ^
+{ A sophisticated audio component\. } ^
+<speed2> Stereo Speaker ^
+{ Projects sound in home theatre systems\. } ^
+<speed1> Stereo Speaker ^
+{ Stereo Speaker } ^
+<speed2> Stereo Speaker ^
+<courtesyTone> ^
+{ A construction tool with a digital interface\. } ^
+<speed2> Laser Level ^
+{ Used by professionals for precise measurement\. } ^
+<speed1> Laser Level ^
+{ Laser Level } ^
+<speed2> Laser Level ^
+<courtesyTone> ^
+{ A garment associated with a specific type of dance\. } ^
+<speed2> Ballet Skirt ^
+{ Worn by women for its flowing movement and grace\. } ^
+<speed1> Ballet Skirt ^
+{ Ballet Skirt } ^
+<speed2> Ballet Skirt ^
+<courtesyTone> ^
+{ An office item used for paper management\. } ^
+<speed2> Document Tray ^
+{ Can be stacked or stepped to optimize space\. } ^
+<speed1> Document Tray ^
+{ Document Tray } ^
+<speed2> Document Tray ^
+<courtesyTone> ^
+{ Tableware designed for serving a specific course\. } ^
+<speed2> Salad Platter ^
+{ Usually shallower than a bowl and broader than a plate\. } ^
+<speed1> Salad Platter ^
+{ Salad Platter } ^
+<speed2> Salad Platter ^
+<courtesyTone> ^
+{ Commonly found in bakeries and home kitchens\. } ^
+<speed2> Rolling Pin ^
+{ A culinary tool used for shaping dough\. } ^
+<speed1> Rolling Pin ^
+{ Rolling Pin } ^
+<speed2> Rolling Pin ^
+<courtesyTone> ^
+{ Apparel for a professional environment\. } ^
+<speed2> Business Suit ^
+{ Standard attire for corporate settings\. } ^
+<speed1> Business Suit ^
+{ Business Suit } ^
+<speed2> Business Suit ^
+<courtesyTone> ^
+{ A small gardening implement\. } ^
+<speed2> Hand Trowel ^
+{ Used for transplanting and maintaining potted plants\. } ^
+<speed1> Hand Trowel ^
+{ Hand Trowel } ^
+<speed2> Hand Trowel ^
+<courtesyTone> ^
+{ An object used by children for recreational play\. } ^
+<speed2> Toy Wagon ^
+{ Can be pushed, ridden, or pulled along\. } ^
+<speed1> Toy Wagon ^
+{ Toy Wagon } ^
+<speed2> Toy Wagon ^
+<courtesyTone> ^
+{ A drawing tool for electronic devices\. } ^
+<speed2> Stylus Pen ^
+{ Increases precision when interacting with touchscreens\. } ^
+<speed1> Stylus Pen ^
+{ Stylus Pen } ^
+<speed2> Stylus Pen ^
+<courtesyTone> ^
+{ A feature of home aquariums\. } ^
+<speed2> Fish Tank Decor ^
+{ Can simulate underwater landscapes with plants and rocks\. } ^
+<speed1> Fish Tank Decor ^
+{ Fish Tank Decor } ^
+<speed2> Fish Tank Decor ^
+<courtesyTone> ^
+{ Personal protective gear for winter sports\. } ^
+<speed2> Ski Mask ^
+{ Guards against frostbite and wind chill\. } ^
+<speed1> Ski Mask ^
+{ Ski Mask } ^
+<speed2> Ski Mask ^
+<courtesyTone> ^
+{ A wireless device for monitoring activity\. } ^
+<speed2> Activity Tracker ^
+{ Often syncs with smartphones to track health data\. } ^
+<speed1> Activity Tracker ^
+{ Activity Tracker } ^
+<speed2> Activity Tracker ^
+<courtesyTone> ^
+{ An implement used for outdoor cleaning tasks\. } ^
+<speed2> Power Washer ^
+{ Often connected to a hose and available in electric or gas models\. } ^
+<speed1> Power Washer ^
+{ Power Washer } ^
+<speed2> Power Washer ^
+<courtesyTone> ^
+{ Apparel specifically designed for underwater use\. } ^
+<speed2> Rash Guard ^
+{ Protects against harmful marine stings and sun exposure\. } ^
+<speed1> Rash Guard ^
+{ Rash Guard } ^
+<speed2> Rash Guard ^
+<courtesyTone> ^
+{ An electic gadget used for personal care\. } ^
+<speed2> Hair Dryer ^
+{ Often found on bathroom countertops\. } ^
+<speed1> Hair Dryer ^
+{ Hair Dryer } ^
+<speed2> Hair Dryer ^
+<courtesyTone> ^
+{ A tool associated with precision cutting\. } ^
+<speed2> Craft Knife ^
+{ Features a sharp blade within a handle for detailed work\. } ^
+<speed1> Craft Knife ^
+{ Craft Knife } ^
+<speed2> Craft Knife ^
+<courtesyTone> ^
+{ Often made of wood or metal with open walls\. } ^
+<speed2> Gazebo ^
+{ Provides shelter from sun and light rain in gardens and patios\. } ^
+<speed1> Gazebo ^
+{ Gazebo } ^
+<speed2> Gazebo ^
+<courtesyTone> ^
+{ A tool used to maintain particular sporting equipment\. } ^
+<speed2> Ball Pump ^
+{ Helps ensure optimal performance during play\. } ^
+<speed1> Ball Pump ^
+{ Ball Pump } ^
+<speed2> Ball Pump ^
+<courtesyTone> ^
+{ Equipment for documenting visual information\. } ^
+<speed2> Scanner ^
+{ Commonly used in conjunction with computers and printers\. } ^
+<speed1> Scanner ^
+{ Scanner } ^
+<speed2> Scanner ^
+<courtesyTone> ^
+{ An optical device\. } ^
+<speed2> Magnifying Glass ^
+{ Can be handheld or mounted on a stand\. } ^
+<speed1> Magnifying Glass ^
+{ Magnifying Glass } ^
+<speed2> Magnifying Glass ^
+<courtesyTone> ^
+{ A home accessory for managing lighting\. } ^
+<speed2> Dimmer Switch ^
+{ Can create ambiance or save energy when used properly\. } ^
+<speed1> Dimmer Switch ^
+{ Dimmer Switch } ^
+<speed2> Dimmer Switch ^
+<courtesyTone> ^
+{ A device for landscape maintenance\. } ^
+<speed2> Lawn Sweeper ^
+{ Collects grass clippings or leaves into an enclosed space\. } ^
+<speed1> Lawn Sweeper ^
+{ Lawn Sweeper } ^
+<speed2> Lawn Sweeper ^
+<courtesyTone> ^
+{ A personal item for outdoor excursions\. } ^
+<speed2> Water Bottle ^
+{ Often made of durable materials like stainless steel or plastic\. } ^
+<speed1> Water Bottle ^
+{ Water Bottle } ^
+<speed2> Water Bottle ^
+<courtesyTone> ^
+{ Resonates sound through its body, often made of wood\. } ^
+<speed2> Lyre ^
+{ A musical instrument with ancient origins\. } ^
+<speed1> Lyre ^
+{ Lyre } ^
+<speed2> Lyre ^
+<courtesyTone> ^
+{ A container for carrying daily necessities\. } ^
+<speed2> Backpack ^
+{ Sized to hold items such as books\. } ^
+<speed1> Backpack ^
+{ Backpack } ^
+<speed2> Backpack ^
+<courtesyTone> ^
+{ A tool for indoor fitness and exercises\. } ^
+<speed2> Stair Climber ^
+{ Typically found in gyms with variable speed settings\. } ^
+<speed1> Stair Climber ^
+{ Stair Climber } ^
+<speed2> Stair Climber ^
+<courtesyTone> ^
+{ A piece of decorative tableware\. } ^
+<speed2> Vase ^
+{ Can be made from glass, pottery, or metal\. } ^
+<speed1> Vase ^
+{ Vase } ^
+<speed2> Vase ^
+<courtesyTone> ^
+{ Manipulates threads or yarn in textile crafts\. } ^
+<speed2> Sewing Needle ^
+{ Essential for projects like embroidery or repairs\. } ^
+<speed1> Sewing Needle ^
+{ Sewing Needle } ^
+<speed2> Sewing Needle ^
+<courtesyTone> ^
+{ Personal gear for aquatic sports\. } ^
+<speed2> Swim Vest ^
+{ Helps to maintain buoyancy\. } ^
+<speed1> Swim Vest ^
+{ Swim Vest } ^
+<speed2> Swim Vest ^
+<courtesyTone> ^
+{ An appliance designed for countertop use\. } ^
+<speed2> Food Processor ^
+{ Comes with interchangeable blades and attachments\. } ^
+<speed1> Food Processor ^
+{ Food Processor } ^
+<speed2> Food Processor ^
+<courtesyTone> ^
+{ A home furnishing for rest and sleep\. } ^
+<speed2> Bed Frame ^
+{ Features a headboard and sometimes a footboard\. } ^
+<speed1> Bed Frame ^
+{ Bed Frame } ^
+<speed2> Bed Frame ^
+<courtesyTone> ^
+{ A digital repository for files and documents\. } ^
+<speed2> Cloud Storage ^
+{ Accessible over a network or the internet\. } ^
+<speed1> Cloud Storage ^
+{ Cloud Storage } ^
+<speed2> Cloud Storage ^
+<courtesyTone> ^
+{ A portable device for personal grooming\. } ^
+<speed2> Electric Shaver ^
+{ Cuts with oscillating or rotating blades\. } ^
+<speed1> Electric Shaver ^
+{ Electric Shaver } ^
+<speed2> Electric Shaver ^
+<courtesyTone> ^
+{ Comes in various thicknesses and colors\. } ^
+<speed2> Knitting Yarn ^
+{ Made from wool, cotton, or synthetic fibers\. } ^
+<speed1> Knitting Yarn ^
+{ Knitting Yarn } ^
+<speed2> Knitting Yarn ^
+<courtesyTone> ^
+{ A maritime navigational aid\. } ^
+<speed2> Lighthouse ^
+{ Recognizable by its distinct, elevated structure\. } ^
+<speed1> Lighthouse ^
+{ Lighthouse } ^
+<speed2> Lighthouse ^
+<courtesyTone> ^
+{ A container designed for preserving freshness\. } ^
+<speed2> Bread Box ^
+{ Features a hinged or lift-top lid for access\. } ^
+<speed1> Bread Box ^
+{ Bread Box } ^
+<speed2> Bread Box ^
+<courtesyTone> ^
+{ A simple household fixture\. } ^
+<speed2> Desk Lamp ^
+{ Used for reading or working in dimly-lit spaces\. } ^
+<speed1> Desk Lamp ^
+{ Desk Lamp } ^
+<speed2> Desk Lamp ^
+<courtesyTone> ^
+{ A handheld tool for garden cultivation\. } ^
+<speed2> Hand Spade ^
+{ Features a flat metal blade for moving soil\. } ^
+<speed1> Hand Spade ^
+{ Hand Spade } ^
+<speed2> Hand Spade ^
+<courtesyTone> ^
+{ A transport device for manually moving heavy items\. } ^
+<speed2> Hand Truck ^
+{ Commonly seen in warehouses and storage facilities\. } ^
+<speed1> Hand Truck ^
+{ Hand Truck } ^
+<speed2> Hand Truck ^
+<courtesyTone> ^
+{ A garment usually worn by professionals\. } ^
+<speed2> Chefs Coat ^
+{ Typically double-breasted with buttons and a starched finish\. } ^
+<speed1> Chefs Coat ^
+{ Chefs Coat } ^
+<speed2> Chefs Coat ^
+<courtesyTone> ^
+{ Many sizes are available, from pocketsize to large\. } ^
+<speed2> Tablet Computer ^
+{ Used for various functions like reading, gaming, and web browsing\. } ^
+<speed1> Tablet Computer ^
+{ Tablet Computer } ^
+<speed2> Tablet Computer ^
+<courtesyTone> ^
+{ An accessory for timekeeping and home decor\. } ^
+<speed2> Pendulum Clock ^
+{ Can be mounted on a wall or placed on a mantle\. } ^
+<speed1> Pendulum Clock ^
+{ Pendulum Clock } ^
+<speed2> Pendulum Clock ^
+<courtesyTone> ^
+{ An appliance that regulates indoor climate\. } ^
+<speed2> Air Conditioner ^
+{ Provides a comfortable environment during hot weather\. } ^
+<speed1> Air Conditioner ^
+{ Air Conditioner } ^
+<speed2> Air Conditioner ^
+<courtesyTone> ^
+{ Designed for durability and providing ankle support\. } ^
+<speed2> Hiking Boots ^
+{ Often waterproof and with good traction for rough terrains\. } ^
+<speed1> Hiking Boots ^
+{ Hiking Boots } ^
+<speed2> Hiking Boots ^
+<courtesyTone> ^
+{ Absorbs moisture efficiently\. } ^
+<speed2> Bath Towel ^
+{ Generally made of soft, woven fabric or plush material\. } ^
+<speed1> Bath Towel ^
+{ Bath Towel } ^
+<speed2> Bath Towel ^
+<courtesyTone> ^
+{ A device used for digital content creation\. } ^
+<speed2> Camcorder ^
+{ Portable and often handheld for capturing life's moments\. } ^
+<speed1> Camcorder ^
+{ Camcorder } ^
+<speed2> Camcorder ^
+<courtesyTone> ^
+{ Seen often in classrooms, homes, and businesses\. } ^
+<speed2> Adhesive Tape ^
+{ A popular office supply for adhering papers\. } ^
+<speed1> Adhesive Tape ^
+{ Adhesive Tape } ^
+<speed2> Adhesive Tape ^
+<courtesyTone> ^
+{ A device used outdoors\. } ^
+<speed2> Barbecue Grill ^
+{ Typically operates with charcoal, propane, or electricity\. } ^
+<speed1> Barbecue Grill ^
+{ Barbecue Grill } ^
+<speed2> Barbecue Grill ^
+<courtesyTone> ^
+{ An item designed for a board game\. } ^
+<speed2> Chess Set ^
+{ Used on a grid with alternating light and dark squares\. } ^
+<speed1> Chess Set ^
+{ Chess Set } ^
+<speed2> Chess Set ^
