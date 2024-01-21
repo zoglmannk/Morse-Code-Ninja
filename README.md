@@ -67,6 +67,8 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
     --sm, --silencemorse  length of silence between Morse code and spoken voice. Default 1 second.
     --ss, --silencesets   length of silence between courtesy tone and next practice set. Default 1 second.
     --sv, --silencevoice  length of silence between spoken voice and repeated morse code. Default 1 second.
+    --sc, --silencecontext length of silence between spoken context and morse code. Default 1 second.
+    --st, --silencemanualcourtesytone length of silence between Morse code and manually specified courtesy tone <courtesyTone>. Default 1 second.
     -x, --extraspace      0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
     -l, --lang            language: ENGLISH or SWEDISH
 
