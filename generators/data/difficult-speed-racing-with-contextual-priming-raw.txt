@@ -1,0 +1,1503 @@
+General Context: Used for personal grooming.
+Additional General Context: Handheld electrical device.
+Answer: Hair Clippers
+
+General Context: A decorative home feature.
+More Specific Context: Displays captured moments.
+Answer: Photo Frame
+
+General Context: Autonomous home equipment.
+More Specific Context: Uses sensors to navigate.
+Answer: Robot Vacuum
+
+General Context: Worn in construction zones.
+Additional General Context: Personal safety equipment.
+Answer: Safety Helmet
+
+General Context: Outdoor structure.
+More Specific Context: Made of latticework.
+Answer: Garden Trellis
+
+General Context: Handheld outdoor tool.
+More Specific Context: Helps to break up soil.
+Answer: Garden Fork
+
+General Context: Piece of furniture.
+More Specific Context: Keeps things organized.
+Answer: Wardrobe Closet
+
+General Context: Used in cooking.
+More Specific Context: Many have nonstick surfaces.
+Answer: Frying Pan
+
+General Context: Handheld device.
+Additional General Context: Digital communication device.
+Answer: Mobile Phone
+
+General Context: A form of visual art.
+Additional General Context: Uses a canvas and pigments.
+Answer: Oil Painting
+
+General Context: A barrier to entry.
+Additional General Context: Provides privacy and security.
+Answer: Bedroom Door
+
+General Context: A device for personal entertainment.
+More Specific Context: Display mimics paper.
+Answer: E Reader
+
+General Context: Cold weather apparel.
+Additional General Context: Accessory worn on the head.
+Answer: Knit Beanie
+
+General Context: Used in maritime contexts.
+Additional General Context: Navigational tool.
+Answer: Compass
+
+General Context: Footwear specialized for a sport.
+Additional General Context: Enhances grip on grass.
+Answer: Golf Shoes
+
+General Context: Piece of jewelry.
+More Specific Context: Features precious stones or metals.
+Answer: Bracelet
+
+General Context: A piece of laboratory equipment.
+Additional General Context: Used for precise measurement.
+Answer: Measuring Cylinder
+
+General Context: A traditional pocket item.
+Additional General Context: Holds a wide variety of tools.
+Answer: Swiss Army Knife
+
+General Context: A workplace staple.
+Additional General Context: Keeps important papers together.
+Answer: Paper Binder
+
+General Context: An outdoor activity accessory.
+More Specific Context: Worn on water or snow for comfort.
+Answer: Polarized Sunglasses
+
+General Context: An artist's tool.
+Additional General Context: Used for sketching.
+Answer: Drawing Pencil
+
+General Context: A writing instrument.
+More Specific Context: Has a nib.
+Answer: Fountain Pen
+
+General Context: Cold climate outerwear.
+Additional General Context: Insulated for warmth.
+Answer: Down Jacket
+
+General Context: Precision kitchen equipment.
+More Specific Context: Often used to prevent foodborn illnesses.
+Answer: Cooking Thermometer
+
+General Context: Specialty footwear.
+Additional General Context: Worn for underwater activities.
+Answer: Dive Fins
+
+General Context: Features long blades.
+More Specific Context: A handheld gardening tool.
+Answer: Hedge Trimmers
+
+General Context: A stationery item.
+Additional General Context: Comes with a lock and key.
+Answer: Diary with Lock
+
+General Context: Home cleaning equipment.
+More Specific Context: Has a handle.
+Answer: Feather Duster
+
+General Context: A device for home entertainment.
+More Specific Context: May be part of a home theater system.
+Answer: Surround Sound Speakers
+
+General Context: Waterborne recreational activity.
+More Specific Context: Often done on rivers or lakes.
+Answer: Kayaking
+
+General Context: A woodworking tool.
+More Specific Context: Used for smoothing or shaping.
+Answer: Hand Plane
+
+General Context: Celebratory tableware.
+Additional General Context: Specifically designed for fine dining.
+Answer: Champagne Flute
+
+General Context: A handheld electronic device.
+More Specific Context: Many offer interchangeable lenses.
+Answer: Digital SLR Camera
+
+General Context: A musical tradition.
+More Specific Context: Often features harmonies and storytelling.
+Answer: Bluegrass Music
+
+General Context: A tool for personal hygiene.
+Additional General Context: Typically found in the shower.
+Answer: Bath Sponge
+
+General Context: A beach accessory.
+Additional General Context: Used for lounging by the sea.
+Answer: Beach Chair
+
+General Context: A means of personal transport.
+Additional General Context: Environmentally friendly.
+Answer: Commuter Bicycle
+
+General Context: A kitchen appliance.
+Additional General Context: Used for food preservation.
+Answer: Chest Freezer
+
+General Context: A modern communication platform.
+Additional General Context: Employs visual and auditory elements.
+Answer: Video Conferencing Software
+
+General Context: A timekeeping device.
+Additional General Context: Often adorned with jewels and gears.
+Answer: Mechanical Watch
+
+General Context: A culinary preparation tool.
+Additional General Context: Sharp and precise.
+Answer: Fillet Knife
+
+General Context: Water sports equipment.
+Additional General Context: Inflatable or made of foam.
+Answer: Bodyboard
+
+General Context: A personal grooming appliance.
+Additional General Context: Commonly found on a bathroom counter.
+Answer: Curling Iron
+
+General Context: A handheld device for communication.
+More Specific Context: Obsolete now due to smartphones.
+Answer: Corded Telephone
+
+General Context: A craftsperson's accessory.
+Additional General Context: Worn to protect clothes and hold tools.
+Answer: Work Apron
+
+General Context: A musical accessory.
+Additional General Context: Required to maintain tempo.
+Answer: Metronome
+
+General Context: An athletic training tool.
+Additional General Context: Used for swinging and coordination.
+Answer: Training Bat
+
+General Context: Usually made of glass or plastic.
+Additional General Context: Keeps leftovers airtight.
+Answer: Storage Tupperware
+
+General Context: Footwear for a specific profession.
+Additional General Context: Designed for sterile environments.
+Answer: Operating Room Clogs
+
+General Context: A leisure activity accessory.
+More Specific Context: Targets are set up for scoring points.
+Answer: Dart Set
+
+General Context: A home furnishing item.
+More Specific Context: Customarily found in a dining room.
+Answer: Extendable Dining Table
+
+General Context: A type of winter gear.
+More Specific Context: Made of insulated fabric or leather.
+Answer: Ski Gloves
+
+General Context: Equipment for a specific sport.
+Additional General Context: Used for gliding across water propelled by wind.
+Answer: Windsurfing Board
+
+General Context: A popular electronic gadget.
+Additional General Context: Stores and plays digital audio files.
+Answer: MP3 Player
+
+General Context: An ornamental object.
+Additional General Context: Often disposed of after the holidays.
+Answer: Christmas Tree
+
+General Context: An office supply.
+Additional General Context: Secures multiple sheets of paper.
+Answer: File Folder Fastener
+
+General Context: A type of specialized work attire.
+Additional General Context: Worn to protect against chemical exposure.
+Answer: Lab Coat
+
+General Context: A professional's tool.
+Additional General Context: Determines distances or dimensions.
+Answer: Laser Distance Meter
+
+General Context: Accessory for stringed instrument players.
+Additional General Context: Facilitates the holding of picks.
+Answer: Pick Holder Bracelet
+
+General Context: An outdoor recreation item.
+More Specific Context: Riders often sit or lay on it.
+Answer: Snow Sled
+
+General Context: Professional kitchen equipment.
+More Specific Context: Strong and sharp for chopping.
+Answer: Chef's Knife
+
+General Context: An office essential.
+Additional General Context: Utilized for displaying presentations.
+Answer: Overhead Projector
+
+General Context: Equipment for an upper body workout.
+Additional General Context: Mounted in a doorway.
+Answer: Chin up Bar
+
+General Context: A personal listening device.
+More Specific Context: Connected to audio sources via cable or Bluetooth.
+Answer: Over ear Headphones
+
+General Context: Historical writing tool.
+More Specific Context: Common before the invention of ballpoint pens.
+Answer: Dip Pen
+
+General Context: An indoor appliance.
+More Specific Context: Often freestanding and portable.
+Answer: Electric Heater
+
+General Context: A digital media device.
+More Specific Context: Streams content from the internet.
+Answer: Media Streaming Stick
+
+General Context: A handheld device.
+Additional General Context: Captures visual information for reproduction.
+Answer: Film Camera
+
+General Context: A specialized marine craft.
+More Specific Context: Enclosed deck over the legs.
+Answer: Kayak
+
+General Context: A maker's precision instrument.
+Additional General Context: Cut or shave wood pieces.
+Answer: Woodworking Plane
+
+General Context: An outdoor night activity element.
+More Specific Context: Enclosed in metal or stone surroundings.
+Answer: Fire Pit
+
+General Context: Offers outdoor protection.
+More Specific Context: Wide-brimmed for maximum protection.
+Answer: Sun Hat
+
+General Context: An athlete's accessory.
+More Specific Context: Often includes GPS and heart rate monitoring.
+Answer: Fitness Tracker
+
+General Context: An artisan's creation.
+More Specific Context: Often decorative and functional, like vessels or figurines.
+Answer: Ceramic Pottery
+
+General Context: A liquid aromatic flavoring.
+More Specific Context: Used in baking and cooking.
+Answer: Vanilla Extract
+
+General Context: An item of business stationery.
+Additional General Context: Organizes documents into sections.
+Answer: Divider Tabs
+
+General Context: Utilizes a spinning bit.
+More Specific Context: Benchtop version often seen in woodshops.
+Answer: Router Table
+
+General Context: A culinary vessel.
+More Specific Context: Frequently used for making soups.
+Answer: Stockpot
+
+General Context: A tool for winter maintenance.
+More Specific Context: Often has an adjustable handle.
+Answer: Snow Pusher
+
+General Context: Safety equipment.
+Additional General Context: Required by law.
+Answer: Seat Belt
+
+General Context: A water vessel accessory.
+Additional General Context: Used for stability and direction.
+Answer: Boat Rudder
+
+General Context: An accessory for nighttime reading.
+Additional General Context: Clips onto books or e-readers.
+Answer: Reading Light
+
+General Context: Gear for adventure sports.
+Additional General Context: Used in climbing for protection.
+Answer: Camming Device
+
+General Context: A piece of personal safety gear.
+Additional General Context: Can be inflatable or foam.
+Answer: Life Vest
+
+General Context: Operates on a rechargeable battery.
+Additional General Context: Most often used in a bathroom.
+Answer: Electric Toothbrush
+
+General Context: Equipment for artists and architects.
+More Specific Context: Can be adjusted to different angles.
+Answer: Drawing Board
+
+General Context: An artist's medium.
+Additional General Context: Created from pigment suspension.
+Answer: Acrylic Paint
+
+General Context: A hand-operated cutting tool.
+Additional General Context: Often used for gardening or crafting.
+Answer: Scissors
+
+General Context: Used for soups or beverages.
+Additional General Context: Keeps its contents hot or cold.
+Answer: Insulated Flask
+
+General Context: A playground fixture.
+Additional General Context: Designed for children's recreation.
+Answer: Swing Set
+
+General Context: A personal grooming tool.
+More Specific Context: Operated manually or electrically.
+Answer: Shaving Razor
+
+General Context: Accessory for function and fashion.
+Additional General Context: Worn around the wrist.
+Answer: Wristwatch
+
+General Context: A protective sporting accessory.
+Additional General Context: Cushioned for impact absorption.
+Answer: Shin Guards
+
+General Context: A form of physical fitness.
+More Specific Context: Originated as a spiritual discipline in India.
+Answer: Yoga
+
+General Context: An Object used in a popular board game.
+Additional General Context: Serves as a game piece.
+Answer: Chess Piece
+
+General Context: Professional attire piece.
+Additional General Context: Usually part of a formal suit.
+Answer: Suit Jacket
+
+General Context: A handheld kitchen appliance.
+More Specific Context: Often comes with detachable blending wands.
+Answer: Immersion Blender
+
+General Context: Can come in various sizes and shapes.
+Additional General Context: Holds fabric in place while stitching.
+Answer: Sewing Pin
+
+General Context: A utensil for hot beverages.
+Additional General Context: Has a handle and a spout.
+Answer: Teapot
+
+General Context: An electronic communication device.
+More Specific Context: Predecessor to modern mobile phones.
+Answer: Pager
+
+General Context: A traditional carpentry tool..
+More Specific Context: Operated with a mallet or hammer.
+Answer: Wood Chisel
+
+General Context: A piece of safety equipment in sports.
+Additional General Context: Worn to guard against injuries.
+Answer: Helmet
+
+General Context: Outdoor cooking equipment.
+More Specific Context: Common at picnics and tailgates.
+Answer: Portable Grill
+
+General Context: A specialized camera accessory.
+Additional General Context: Stabilizes the camera for a clear shot.
+Answer: Tripod
+
+General Context: Usually involves a group with a leader.
+More Specific Context: Can involve hiking.
+Answer: Guided Nature Walk
+
+General Context: An athletic training apparatus.
+Additional General Context: Strengthens muscles.
+Answer: Weight Machine
+
+General Context: A precision measuring tool.
+Additional General Context: Found in many science laboratories.
+Answer: Graduated Pipette
+
+General Context: An electrical kitchen device.
+More Specific Context: Can be programmed to start at a set time.
+Answer: Coffee Machine
+
+General Context: A piece of modern office equipment.
+More Specific Context: Essential for reproducing meeting notes or memos.
+Answer: Photocopier
+
+General Context: A portable device.
+More Specific Context: Can store and play various media files.
+Answer: Digital Voice Recorder
+
+General Context: A device for maintaining hygiene.
+Additional General Context: Removes debris between teeth.
+Answer: Oral Irrigator
+
+General Context: A furniture item typically found in a study.
+More Specific Context: Can be floor-standing or wall-mounted.
+Answer: Bookcase
+
+General Context: An accessory for string instruments.
+Additional General Context: Tightens or loosens the strings.
+Answer: Tuning Peg
+
+General Context: An instrument for scientific observation.
+Additional General Context: Uses lenses or mirrors to magnify distant objects.
+Answer: Telescope
+
+General Context: A personal adornment piece.
+More Specific Context: Can be analog or digital.
+Answer: Watch
+
+General Context: A tool for cutting dense materials.
+More Specific Context: The blade moves in a rapid up and down motion.
+Answer: Jigsaw
+
+General Context: An essential cooking appliance.
+More Specific Context: Can be fueled by gas or electricity.
+Answer: Kitchen Stove
+
+General Context: Outdoor sports equipment.
+Additional General Context: Prominent in winter recreational activities.
+Answer: Snowboard
+
+General Context: Easy to carry and reposition as needed.
+Additional General Context: A platform for holding a painter's supplies.
+Answer: Artist's Easel
+
+General Context: Compact and portable, with a retractable connector.
+Additional General Context: A digital data storage device.
+Answer: Flash Drive
+
+General Context: A fixture in homes and buildings.
+Additional General Context: Offers privacy and security across an entryway.
+Answer: Door
+
+General Context: It represents characters as patterns of raised dots.
+More Specific Context: Allows tactile reading and writing.
+Answer: Braille System
+
+General Context: A long-distance event.
+Additional General Context: Involves sustained running or walking.
+Answer: Endurance Race
+
+General Context: A small electric appliance for fabric care.
+Additional General Context: Removes creases from linens.
+Answer: Clothes Iron
+
+General Context: A musical practice essential.
+More Specific Context: Used to learn and maintain precise intonation.
+Answer: Tuning Fork
+
+General Context: Usually grown in small indoor or outdoor spaces.
+More Specific Context: Can include basil, parsley, and thyme.
+Answer: Herb Garden
+
+General Context: A component of a home's heating system.
+Additional General Context: Emits warmth into living spaces.
+Answer: Radiator
+
+General Context: An electronic device used by students and professionals.
+More Specific Context: Comes in scientific, graphic, and financial types.
+Answer: Calculator
+
+General Context: A hand-held power tool.
+Additional General Context: Commonly found in workshops and garages.
+Answer: Power Drill
+
+General Context: A handheld implement.
+Additional General Context: Used for digging small holes or weeding.
+Answer: Garden Trowel
+
+General Context: A mechanical fastening device.
+More Specific Context: Operated by turning its head with a tool.
+Answer: Screw
+
+General Context: A large musical instrument.
+More Specific Context: Associated with classical and concert music.
+Answer: Grand Piano
+
+General Context: A hand-operated gardening tool.
+Additional General Context: Used for clipping and maintaining foliage.
+Answer: Pruning Snips
+
+General Context: An item often used in academia.
+Additional General Context: Holds printed work for easy reading and display.
+Answer: Presentation Binder
+
+General Context: A type of outdoor furniture.
+Additional General Context: Used for relaxing in the garden or on the patio.
+Answer: Porch Bench
+
+General Context: A device for tracking location and distance.
+Additional General Context: Often used during hiking or navigation at sea.
+Answer: GPS Receiver
+
+General Context: Portable and carried with you at certain times of day.
+Additional General Context: Can be electric or fueled by oil or gas.
+Answer: Lantern
+
+General Context: A common household appliance.
+Additional General Context: Often found in the kitchen.
+Answer: Refrigerator
+
+General Context: A handheld stringed instrument.
+Additional General Context: Known for its distinctive sound in country music.
+Answer: Banjo
+
+General Context: An artist's small, pointed tool.
+Additional General Context: Used for making fine lines and decorative dots.
+Answer: Stylus
+
+General Context: A construction tool.
+Additional General Context: Used to apply and smooth plaster or cement.
+Answer: Trowel
+
+General Context: A mode of transportation.
+More Specific Context: Often used in polar regions.
+Answer: Snowmobile
+
+General Context: An item for carrying personal effects.
+More Specific Context: Common among students for books and laptops.
+Answer: Messenger Bag
+
+General Context: Can be made of silk, cotton, or flannel.
+Additional General Context: Nighttime apparel.
+Answer: Pajamas
+
+General Context: Long, slender, and bristled.
+More Specific Context: Used to apply color or create details.
+Answer: Paintbrush
+
+General Context: A personal fitness device.
+More Specific Context: Often synchronizes data with smartphone apps.
+Answer: Heart Rate Monitor
+
+General Context: Equipment for precision work.
+Additional General Context: Holds objects securely in place.
+Answer: Clamp
+
+General Context: Often made of metal or heavy-duty plastic.
+More Specific Context: Utilized by professionals like carpenters.
+Answer: Toolbox
+
+General Context: A material for bonding surfaces together.
+More Specific Context: Often used in small-scale model building and repairs.
+Answer: Super Glue
+
+General Context: A functional and decorative outdoor feature.
+More Specific Context: Can be powered by solar energy or electricity.
+Answer: Garden Light
+
+General Context: Personal care equipment.
+Additional General Context: Often found in a grooming kit.
+Answer: Beard Trimmer
+
+General Context: An instrument for audio creation.
+More Specific Context: Played with fingers or a pick.
+Answer: Electric Guitar
+
+General Context: Fabricated from various materials like wood or stone.
+Additional General Context: A culinary preparation surface.
+Answer: Cutting Board
+
+General Context: A technique for information organization.
+Additional General Context: Involves creating visual structures for ideas.
+Answer: Mind Mapping
+
+General Context: An electronic desktop device.
+More Specific Context: Essential for accounting and financial tasks.
+Answer: Printing Calculator
+
+General Context: An item of office stationery.
+More Specific Context: Used for jotting down lists or capturing ideas.
+Answer: Notepad
+
+General Context: A tool for cyber security.
+Additional General Context: Protects networks and systems from threats.
+Answer: Security Software
+
+General Context: A form of alternative medicine.
+More Specific Context: Aims to alleviate pain and treat various conditions.
+Answer: Acupuncture
+
+General Context: May use treads or wheels for locomotion.
+More Specific Context: Often remote-controlled for safety.
+Answer: Exploration Rover
+
+General Context: A personal item.
+Additional General Context: Often crafted from precious metals like gold or silver.
+Answer: Necklace
+
+General Context: Equipment for travel.
+Additional General Context: Designed to keep belongings secure and portable.
+Answer: Suitcase
+
+General Context: An accessory for mobile devices.
+Additional General Context: Boosts available power for charging on the go.
+Answer: Power Bank
+
+General Context: A wearable technology device.
+More Specific Context: May track steps and monitor sleep.
+Answer: Smartwatch
+
+General Context: An instrument for vertical ascent.
+More Specific Context: Varieties include folding, extension, and platform.
+Answer: Ladder
+
+General Context: A kitchen appliance.
+More Specific Context: Has a front door and multiple heating elements.
+Answer: Toaster Oven
+
+General Context: Personal care routine.
+More Specific Context: Often considered cosmetic or hygienic.
+Answer: Hair Removal
+
+General Context: A unit of academic or professional work.
+More Specific Context: Results in a thesis or publication.
+Answer: Research Project
+
+General Context: An office device.
+More Specific Context: Used for confidentiality and preventing identity theft.
+Answer: Paper Shredder
+
+General Context: A precision craft tool.
+More Specific Context: Can engrave, grind, or sand small objects.
+Answer: Rotary Tool
+
+General Context: A piece of safety equipment in transportation.
+More Specific Context: Found in cars.
+Answer: Airbag
+
+General Context: Equipment used for aquatic activities.
+More Specific Context: Commonly used by scuba divers and snorkelers.
+Answer: Swim Fins
+
+General Context: An instrument for DIY enthusiasts and professionals.
+Additional General Context: Commonly used for fastening materials together.
+Answer: Nail Gun
+
+General Context: Traditional media for artists.
+Additional General Context: Requires heating for the hardening process.
+Answer: Clay
+
+General Context: An item of office equipment.
+Additional General Context: Holds blank sheets for printing or copying.
+Answer: Paper Tray
+
+General Context: A culinary tool for heating.
+More Specific Context: Often used for caramelizing sugar.
+Answer: Kitchen Torch
+
+General Context: A mode of urban transportation.
+Additional General Context: Can be motorized or pedal-powered.
+Answer: Scooter
+
+General Context: Often found in gardens and patios.
+More Specific Context: Can be made from concrete, stone, or clay.
+Answer: Paving Bricks
+
+General Context: A piece of climbing equipment.
+Additional General Context: Worn around the waist and thighs.
+Answer: Harness
+
+General Context: A household cleaning implement.
+More Specific Context: Stiff bristles attached to a handle.
+Answer: Dish Brush
+
+General Context: Often comes with multiple speakers and a subwoofer.
+Additional General Context: Uses surround sound to enhance audio.
+Answer: Home Theater System
+
+General Context: A traditional navigational instrument.
+More Specific Context: Used to determine angular distances between objects, like stars or the horizon.
+Answer: Sextant
+
+General Context: A storage item often found in garages.
+More Specific Context: Typically made of metal with drawers and compartments.
+Answer: Tool Chest
+
+General Context: A culinary process.
+Additional General Context: Involves a chemical reaction.
+Answer: Fermentation
+
+General Context: An appliance.
+Additional General Context: Usually a countertop device.
+Answer: Blender
+
+General Context: A safety device.
+More Specific Context: Often mounted on handlebars.
+Answer: Bicycle Light
+
+General Context: A practical item for home and travel use.
+Additional General Context: Designed to prevent clothes from wrinkling.
+Answer: Garment Bag
+
+General Context: A competitive outdoor activity.
+More Specific Context: Often involves strategy, exertion, and specialized gear.
+Answer: Team Sport
+
+General Context: Typically found in bathrooms; may be manual or electric.
+Additional General Context: Personal grooming equipment.
+Answer: Trimmer
+
+General Context: Originated in the late 19th and early 20th centuries.
+More Specific Context: Characterized by rhythm, improvisation, and special shoes.
+Answer: Tap Dancing
+
+General Context: A high-precision hand tool.
+Additional General Context: Utilized in electronics and watchmaking.
+Answer: Jewelers Screwdriver
+
+General Context: A piece of lab equipment.
+Additional General Context: Features a long, narrow neck and flat bottom.
+Answer: Erlenmeyer Flask
+
+General Context: A food item typically served as a side dish.
+Additional General Context: Can be hand-cut or machine-sliced.
+Answer: French Fries
+
+General Context: An electronic reading device.
+Additional General Context: Can store hundreds or thousands of digital books.
+Answer: E reader
+
+General Context: A form of recreational exercise.
+More Specific Context: Helps with strength, flexibility, and cardiovascular fitness.
+Answer: Swimming
+
+General Context: A durable surface material.
+Additional General Context: Frequently used for countertops and floors.
+Answer: Natural Stone
+
+General Context: A vocational activity primarily outdoors.
+More Specific Context: Essential for producing food on a large scale.
+Answer: Agriculture
+
+General Context: Facility for indoor sports and events.
+Additional General Context: Commonly found on university campuses.
+Answer: Gymnasium
+
+General Context: A device used in timekeeping.
+More Specific Context: Historically used in navigation for longitude determination.
+Answer: Chronometer
+
+General Context: For aquatic activities.
+Additional General Context: Provides protection and traction on slippery surfaces.
+Answer: Water Shoes
+
+General Context: An important tool for artists.
+Additional General Context: Provides a smooth, flat surface for work.
+Answer: Art Desk
+
+General Context: A seasonal home accessory.
+Additional General Context: Often used for decoration and ambiance.
+Answer: Scented Candle
+
+General Context: An apparatus for capturing images.
+More Specific Context: Combines optical and electronic components for detailed photographs.
+Answer: Microscope Camera
+
+General Context: A guided outdoor activity.
+More Specific Context: Promotes teamwork and leadership skills.
+Answer: Obstacle Course Race
+
+General Context: A musical instrument.
+Additional General Context: Associated with traditional and folk music.
+Answer: Harp
+
+General Context: A piece of jewelry often given as a gift.
+More Specific Context: May include gems or engraving, symbolizing a special occasion.
+Answer: Charm Bracelet
+
+General Context: A practical item for personal care.
+More Specific Context: Absorbs moisture.
+Answer: Bathrobe
+
+General Context: An office supply.
+Additional General Context: Used for attaching papers to a surface for display.
+Answer: Magnet Clip
+
+General Context: Item worn for outdoor expeditions.
+More Specific Context: Typically includes multiple pockets and durable materials.
+Answer: Hiking Vest
+
+General Context: A form of artistic expression.
+More Specific Context: Often involves graphite on paper.
+Answer: Pencil Drawing
+
+General Context: An essential part of a personal computing setup.
+More Specific Context: Specialized switches for a distinct feel and sound.
+Answer: Mechanical Keyboard
+
+General Context: Handheld device for DIY projects.
+Additional General Context: Employs rotation at high speeds for its operation.
+Answer: Handheld Drill
+
+General Context: Protective gear for skaters.
+More Specific Context: It is made of impact-resistant materials.
+Answer: Knee Pads
+
+General Context: A type of popular baked good.
+More Specific Context: Often eaten with a cup of coffee or as a dessert.
+Answer: Cupcake
+
+General Context: An agricultural tool.
+Additional General Context: Used for preparing the soil.
+Answer: Rototiller
+
+General Context: An electronic device.
+Additional General Context: Often used for personal entertainment.
+Answer: Portable Media Player
+
+General Context: A piece of outdoor equipment.
+Additional General Context: Provides comfort and rest in natural settings.
+Answer: Hammock
+
+General Context: A tool used in precision metalwork.
+More Specific Context: Used to create threads within a hole.
+Answer: Tap and Die Set
+
+General Context: An accessory for refined dining.
+Additional General Context: Typically seen in upscale restaurants or during formal meals.
+Answer: Lobster Bib
+
+General Context: Essential equipment for a particular sport.
+More Specific Context: Often used in pairs and requires special boots.
+Answer: Cross Country Skis
+
+General Context: An electronic computing component.
+More Specific Context: The performance is measured in clock speeds and core counts.
+Answer: Processor Chip
+
+General Context: A material used in crafting and design.
+Additional General Context: Can be found in various colors and patterns.
+Answer: Mosaic Tile
+
+General Context: A tool used in horticulture.
+More Specific Context: Can be particularly effective on tree branches.
+Answer: Pruning Saw
+
+General Context: A kitchen appliance.
+Additional General Context: Can be used for health-conscious cooking.
+Answer: Air Fryer
+
+General Context: Apparel for a specific profession.
+More Specific Context: Often seen worn by people working with chemicals or paint.
+Answer: Lab Apron
+
+General Context: An object used in a household's sleeping area.
+Additional General Context: Can be an accent piece for interior design.
+Answer: Bedroom Bench
+
+General Context: Footwear designed for an indoor sport.
+Additional General Context: Offers support and cushioning during rapid movements.
+Answer: Badminton Shoes
+
+General Context: A device found in homes and hotels.
+Additional General Context: Improves indoor air quality.
+Answer: Humidifier
+
+General Context: An instrument for scientists.
+More Specific Context: Measures and dispenses precise volumes of liquids.
+Answer: Pipette
+
+General Context: An outdoor recreational structure.
+Additional General Context: Usually seen in parks and backyards.
+Answer: Playset Slide
+
+General Context: An electric home appliance.
+Additional General Context: Used to make a popular hot beverage.
+Answer: Coffee Maker
+
+General Context: An accessory commonly used in academia and meetings.
+More Specific Context: Consists of a writing surface that can be wiped clean.
+Answer: Whiteboard
+
+General Context: An item used in exterior home maintenance.
+More Specific Context: Helps to collect debris from the ground.
+Answer: Leaf Rake
+
+General Context: Its use is required by law in many places.
+Additional General Context: A piece of safety equipment.
+Answer: Seatbelt
+
+General Context: A recreational activity involving structured play.
+More Specific Context: Engages multiple players in strategic or chance encounters.
+Answer: Board Game
+
+General Context: An item of personal adornment.
+Additional General Context: Often made of precious metals.
+Answer: Wedding Ring
+
+General Context: A type of footwear typically worn indoors.
+Additional General Context: Offers coziness and warmth during colder seasons.
+Answer: Slippers
+
+General Context: A prominently displayed visual decoration.
+More Specific Context: Seen in homes and offices to enhance aesthetics.
+Answer: Wall Art
+
+General Context: A device used for content viewing.
+Additional General Context: Found in living rooms and entertainment spaces.
+Answer: Plasma TV
+
+General Context: A two-wheeled mode of transportation.
+Additional General Context: Can be categorized as a sport or leisure activity.
+Answer: Kick Scooter
+
+General Context: An object commonly found in offices.
+More Specific Context: Frequently paired with tacks or sticky notes.
+Answer: Corkboard
+
+General Context: A cleaning tool for indoor spaces.
+More Specific Context: Often has a canister or bag.
+Answer: Vacuum Cleaner
+
+General Context: A small, portable computing device.
+Additional General Context: Features a touch screen interface.
+Answer: Convertible Laptop
+
+General Context: Comes in various sizes and materials.
+More Specific Context: Used for making soups and stews.
+Answer: Cooking Pot
+
+General Context: A tool used in gardening.
+More Specific Context: Motorized or manual with two long cutting blades.
+Answer: Hedge Clippers
+
+General Context: A water-based recreational apparatus.
+Additional General Context: Found in pools or water parks.
+Answer: Diving Board
+
+General Context: Traditional ceremonial garb.
+Additional General Context: Often worn during important institutional milestones.
+Answer: Graduation Gown
+
+General Context: A modern technological device.
+Additional General Context: Enhances home security with video capability.
+Answer: Video Doorbell
+
+General Context: An instrument used for climate observation.
+More Specific Context: Meteorologists use this tool for forecasting weather.
+Answer: Barometer
+
+General Context: An item of formal men's attire.
+More Specific Context:Worn on special occasions such as weddings and galas.
+Answer: Silk Tie
+
+General Context: An appliance found in many homes.
+More Specific Context: Heats water quickly.
+Answer: Electric Kettle
+
+General Context: A focus in modern interior design.
+More Specific Context: Includes items like rugs, throw pillows, and curtains.
+Answer: Home Decor
+
+General Context: A device for maintaining oral hygiene.
+Additional General Context: Often used after brushing teeth.
+Answer: Water Flosser
+
+General Context: A piece of safety equipment in sports.
+Additional General Context: Essential for certain contact games.
+Answer: Sports Mouthguard
+
+General Context: A piece of office equipment.
+Additional General Context: Aids in managing and storing documents.
+Answer: Filing Cabinet
+
+General Context: A mode of travel common in urban areas.
+More Specific Context: Moves along predetermined routes.
+Answer: Streetcar
+
+General Context: A musical style with cultural roots.
+Additional General Context: Originated in the Southern United States.
+Answer: Dixieland Jazz
+
+General Context: A form of artistic expression.
+More Specific Context: Can produce items like mugs, vases, and sculptures.
+Answer: Ceramic Art
+
+General Context: An outdoor cooking appliance.
+More Specific Context: Used for slow-cooking.
+Answer: BBQ Smoker
+
+General Context: Equipment used in beverage creation.
+Additional General Context: Essential in many bar and cafe settings.
+Answer: Milk Frother
+
+General Context: A two-word phrase for personal conveyance.
+More Specific Context: Helps in covering short distances within cities or campuses.
+Answer: Portable Scooter
+
+General Context: A hand-held crafting tool.
+Additional General Context: Used for adding decorations or making repairs.
+Answer: Glue Gun
+
+General Context: A fitness equipment piece for the home.
+More Specific Context: Mimics the motion of climbing stairs or walking uphill.
+Answer: Elliptical Machine
+
+General Context: A common stationery item in education and business.
+More Specific Context: May be mechanical or require sharpening.
+Answer: Graphite Pencil
+
+General Context: An electric kitchen device.
+More Specific Context: Often programmable for different cooking methods and times.
+Answer: Slow Cooker
+
+General Context: A protective outdoor accessory.
+More Specific Context: Provides a barricade against small animals and pests.
+Answer: Garden Fence
+
+General Context: An educational aid for visualization.
+More Specific Context: Presents a scaled representation of human or animal anatomy.
+Answer: Teaching Model
+
+General Context: A machine used for yard maintenance.
+More Specific Context: Can be operated manually powered or by gasoline and electricity.
+Answer: Lawn Mower
+
+General Context: An accessory for carrying essentials.
+More Specific Context: Slung across the body and rests on the hip or back.
+Answer: Crossbody Bag
+
+General Context: An attire piece designed for special functions.
+More Specific Context: Often worn with matching shoes and accessories.
+Answer: Evening Gown
+
+General Context: An accessory used in home maintenance.
+Additional General Context: Facilitates the task of changing the color of a wall.
+Answer: Paint Roller
+
+General Context: A water vessel for leisure or sport.
+More Specific Context: Often used in lakes, rivers, and coastal waters.
+Answer: Fishing Kayak
+
+General Context: Used in hazardous working environments.
+More Specific Context: May come with anti-fog and scratch-resistant features.
+Answer: Safety Goggles
+
+General Context: A culinary appliance for confectionery.
+Additional General Context: Used for creating a popular frozen dessert.
+Answer: Ice Cream Maker
+
+General Context: A device for enhancing air quality.
+Additional General Context: Used to remove contaminants from the indoor environment.
+Answer: Air Purifier
+
+General Context: A personal grooming item.
+More Specific Context: Comes in metal or glass varieties, sometimes with a rough surface.
+Answer: Nail File
+
+General Context: A device for stationary exercise.
+More Specific Context: Often has a digital interface to track workout metrics.
+Answer: Treadmill
+
+General Context: An item used in outdoor maintenance.
+More Specific Context: Typically constructed from metal or plastic and attached to a structure.
+Answer: Gutter Downspout
+
+General Context: Gear for underwater exploration.
+Additional General Context: Worn to maintain warmth while submerged.
+Answer: Diving Wetsuit
+
+General Context: An accessory for performances.
+More Specific Context: Used by instrumentalists and conductors alike.
+Answer: Music Stand
+
+General Context: A functional piece of outdoor equipment.
+More Specific Context: Usually powered by electricity, batteries, or solar panels.
+Answer: Security Light
+
+General Context: An object commonly found in living spaces.
+Additional General Context: Typically placed in front of a sofa.
+Answer: Coffee Table
+
+General Context: A handy item for camping trips.
+More Specific Context: Causes sparks when struck.
+Answer: Fire Starter
+
+General Context: A personal luxury item.
+Additional General Context: A symbol of wealth or achievement.
+Answer: Diamond Necklace
+
+General Context: A crucial tool for builders and architects.
+Additional General Context: Used for drawing straight lines and precise angles.
+Answer: Drafting Square
+
+General Context: Ensures protection in hazardous environments.
+More Specific Context: May feature slip-resistant soles.
+Answer: Work Boots
+
+General Context: An item associated with sleep or relaxation.
+Additional General Context: Found within bedrooms or on sofas.
+Answer: Decorative Pillow
+
+General Context: A kitchen gadget.
+More Specific Context: Can be manual or electric, often with a pressing mechanism.
+Answer: Citrus Juicer
+
+General Context: An item found in workshops and garages.
+Additional General Context: Holds and organizes things for easy access.
+Answer: Rolling Toolbox
+
+General Context: Features a flat surface on top.
+More Specific Context: Usually placed in the bedroom for easy access.
+Answer: Dresser
+
+General Context: A tool used by outdoor enthusiasts.
+Additional General Context: Assists in navigating across various terrains.
+Answer: Hiking Pole
+
+General Context: Equipment for a particular sport.
+Additional General Context: Offers hand protection and grip enhancement.
+Answer: Baseball Glove
+
+General Context: An artistic medium.
+More Specific Context: Hardens when dried, preserving the created form.
+Answer: Modeling Clay
+
+General Context: A device used in time management.
+Additional General Context: Commonly employed in study and work sessions.
+Answer: Kitchen Timer
+
+General Context: A traditional method of handcrafting textiles.
+More Specific Context: Produces blankets, caps, and various garments.
+Answer: Crochet
+
+General Context: An apparatus for a popular warm beverage.
+More Specific Context: Brews hot drinks one single serving at a time.
+Answer: Coffee Pod Machine
+
+General Context: Used for both cardiovascular and strength training.
+More Specific Context: Engages muscles in the arms, legs, and core.
+Answer: Rowing Machine
+
+General Context: An item used for personal care routines.
+More Specific Context: Often carried when traveling to keep belongings organized.
+Answer: Toiletry Bag
+
+General Context: A container used by artists.
+More Specific Context: Allows for easy mixing and access during use.
+Answer: Paint Palette
+
+General Context: A part of personal communication devices.
+More Specific Context: Touch-sensitive screen used in modern smartphones.
+Answer: Display Panel
+
+General Context: An item found in many home offices.
+Additional General Context: Helps keep important papers securely together.
+Answer: Binding Machine
+
+General Context: Accessory for cold weather or fashion.
+More Specific Context: Often knitted or crocheted from wool or acrylic.
+Answer: Winter Hat
+
+General Context: Sportswear designed for mobility and flexibility.
+Additional General Context: Preferred attire for a specific form of exercise.
+Answer: Yoga Pants
+
+General Context: An educational tool for young learners.
+More Specific Context: Used to help children practice handwriting skills.
+Answer: Practice Workbook
+
+General Context: A standard part of desktop computing setups.
+Additional General Context: Equipment associated with digital data input.
+Answer: Keyboard
+
+General Context: A form of entertainment and skill development.
+Additional General Context: Involves the assembly of interlocking pieces.
+Answer: Jigsaw Puzzle
+
+General Context: A piece of jewelry.
+More Specific Context: Features a precious stone set onto a metal band.
+Answer: Engagement Ring
+
+General Context: An essential tool for mathematicians and engineers.
+Additional General Context: Aids in the calculation of complex equations and functions.
+Answer: Graphing Calculator
+
+General Context: Personal care device.
+More Specific Context: Features a cylindrical barrel that heats up.
+Answer: Curling Wand
+
+General Context: A traditional head covering.
+Additional General Context: Often reflects cultural or religious significance.
+Answer: Ceremonial Turban
+
+General Context: Safety equipment for maritime use.
+Additional General Context: Essential during boat travel or water activities.
+Answer: Life Jacket
+
+General Context: An common household appliance.
+More Specific Context: Consumes water during operation.
+Answer: Washing Machine
+
+General Context: A form of aerobic exercise.
+More Specific Context: Led by an instructor who choreographs the workout.
+Answer: Dance Fitness
+
+General Context: An essential tool in emergency preparedness.
+More Specific Context: Often handheld and brings clarity to ones surroundings.
+Answer: Flashlight
+
+General Context: An accessory for maintaining warmth indoors.
+More Specific Context: Layers on beds or sofas for extra comfort.
+Answer: Fleece Blanket
+
+General Context: Furniture designed for storing things.
+More Specific Context: Ranges from simple shelves to elaborate cabinets.
+Answer: Bookshelf
+
+General Context: A handheld horticultural implement.
+More Specific Context: Consists of a handle with a narrow metal blade.
+Answer: Garden Hoe
+
+General Context: Often found in conjunction with keyboards.
+More Specific Context: Can be wired, wireless, or even trackball-operated.
+Answer: Computer Mouse
+
+General Context: Essential in kitchens for a variety of recipes.
+Additional General Context: A deep cooking vessel with a long handle.
+Answer: Skillet
+
+General Context: A versatile material used for craft and design.
+More Specific Context: Popular in schools for creative projects and presentations.
+Answer: Construction Paper
+
+General Context: An item of digital technology.
+More Specific Context: Often requires an Internet connection and a subscription to services.
+Answer: Media Player
+
+General Context: A device for personalized listening.
+More Specific Context: Often connected to phones or music players via wires or Bluetooth.
+Answer: Earbuds
+
+General Context: A quiet mode of overwater transportation.
+Additional General Context: Typically propelled using a double-sided paddle.
+Answer: Racing Kayak
+
+General Context: A fixture commonly found in parks and streets.
+More Specific Context: Usually made of metal, with a spout.
+Answer: Drinking Fountain
+
+General Context: A hand-operated device for capturing images.
+Additional General Context: Records visuals in rapid succession to create moving pictures.
+Answer: Video Camera
+
+General Context: A kitchen device for preserving food items.
+More Specific Context: Helps extend the shelf life of perishable goods.
+Answer: Vacuum Sealer
+
+General Context: Worn to protect the feet and improve grip.
+More Specific Context: Made with sticky rubber soles for traction on vertical surfaces.
+Answer: Climbing Shoes
+
+General Context: A sophisticated audio component.
+Additional General Context: Projects sound in home theatre systems.
+Answer: Stereo Speaker
+
+General Context: A construction tool with a digital interface.
+Additional General Context: Used by professionals for precise measurement.
+Answer: Laser Level
+
+General Context: A garment associated with a specific type of dance.
+Additional General Context: Worn by women for its flowing movement and grace.
+Answer: Ballet Skirt
+
+General Context: An office item used for paper management.
+More Specific Context: Can be stacked or stepped to optimize space.
+Answer: Document Tray
+
+General Context: Tableware designed for serving a specific course.
+Additional General Context: Usually shallower than a bowl and broader than a plate.
+Answer: Salad Platter
+
+General Context: Commonly found in bakeries and home kitchens.
+Additional General Context: A culinary tool used for shaping dough.
+Answer: Rolling Pin
+
+General Context: Apparel for a professional environment.
+Additional General Context: Standard attire for corporate settings.
+Answer: Business Suit
+
+General Context: A small gardening implement.
+Additional General Context: Used for transplanting and maintaining potted plants.
+Answer: Hand Trowel
+
+General Context: An object used by children for recreational play.
+Additional General Context: Can be pushed, ridden, or pulled along.
+Answer: Toy Wagon
+
+General Context: A drawing tool for electronic devices.
+Additional General Context: Increases precision when interacting with touchscreens.
+Answer: Stylus Pen
+
+General Context: A feature of home aquariums.
+More Specific Context: Can simulate underwater landscapes with plants and rocks.
+Answer: Fish Tank Decor
+
+General Context: Personal protective gear for winter sports.
+More Specific Context: Guards against frostbite and wind chill.
+Answer: Ski Mask
+
+General Context: A wireless device for monitoring activity.
+Additional General Context: Often syncs with smartphones to track health data.
+Answer: Activity Tracker
+
+General Context: An implement used for outdoor cleaning tasks.
+More Specific Context: Often connected to a hose and available in electric or gas models.
+Answer: Power Washer
+
+General Context: Apparel specifically designed for underwater use.
+Additional General Context: Protects against harmful marine stings and sun exposure.
+Answer: Rash Guard
+
+General Context: An electic gadget used for personal care.
+Additional General Context: Often found on bathroom countertops.
+Answer: Hair Dryer
+
+General Context: A tool associated with precision cutting.
+More Specific Context: Features a sharp blade within a handle for detailed work.
+Answer: Craft Knife
+
+General Context: Often made of wood or metal with open walls.
+Additional General Context: Provides shelter from sun and light rain in gardens and patios.
+Answer: Gazebo
+
+General Context: A tool used to maintain particular sporting equipment.
+Additional General Context: Helps ensure optimal performance during play.
+Answer: Ball Pump
+
+General Context: Equipment for documenting visual information.
+More Specific Context: Commonly used in conjunction with computers and printers.
+Answer: Scanner
+
+General Context: An optical device.
+Additional General Context: Can be handheld or mounted on a stand.
+Answer: Magnifying Glass
+
+General Context: A home accessory for managing lighting.
+More Specific Context: Can create ambiance or save energy when used properly.
+Answer: Dimmer Switch
+
+General Context: A device for landscape maintenance.
+Additional General Context: Collects grass clippings or leaves into an enclosed space.
+Answer: Lawn Sweeper
+
+General Context: A personal item for outdoor excursions.
+More Specific Context: Often made of durable materials like stainless steel or plastic.
+Answer: Water Bottle
+
+General Context: Resonates sound through its body, often made of wood.
+More Specific Context: A musical instrument with ancient origins.
+Answer: Lyre
+
+General Context: A container for carrying daily necessities.
+Additional General Context: Sized to hold items such as books.
+Answer: Backpack
+
+General Context: A tool for indoor fitness and exercises.
+More Specific Context: Typically found in gyms with variable speed settings.
+Answer: Stair Climber
+
+General Context: A piece of decorative tableware.
+More Specific Context: Can be made from glass, pottery, or metal.
+Answer: Vase
+
+General Context: Manipulates threads or yarn in textile crafts.
+More Specific Context: Essential for projects like embroidery or repairs.
+Answer: Sewing Needle
+
+General Context: Personal gear for aquatic sports.
+Additional General Context: Helps to maintain buoyancy.
+Answer: Swim Vest
+
+General Context: An appliance designed for countertop use.
+More Specific Context: Comes with interchangeable blades and attachments.
+Answer: Food Processor
+
+General Context: A home furnishing for rest and sleep.
+More Specific Context: Features a headboard and sometimes a footboard.
+Answer: Bed Frame
+
+General Context: A digital repository for files and documents.
+Additional General Context: Accessible over a network or the internet.
+Answer: Cloud Storage
+
+General Context: A portable device for personal grooming.
+Additional General Context: Cuts with oscillating or rotating blades.
+Answer: Electric Shaver
+
+General Context: Comes in various thicknesses and colors.
+More Specific Context: Made from wool, cotton, or synthetic fibers.
+Answer: Knitting Yarn
+
+General Context: A maritime navigational aid.
+Additional General Context: Recognizable by its distinct, elevated structure.
+Answer: Lighthouse
+
+General Context: A container designed for preserving freshness.
+More Specific Context: Features a hinged or lift-top lid for access.
+Answer: Bread Box
+
+General Context: A simple household fixture.
+Additional General Context: Used for reading or working in dimly-lit spaces.
+Answer: Desk Lamp
+
+General Context: A handheld tool for garden cultivation.
+Additional General Context: Features a flat metal blade for moving soil.
+Answer: Hand Spade
+
+General Context: A transport device for manually moving heavy items.
+Additional General Context: Commonly seen in warehouses and storage facilities.
+Answer: Hand Truck
+
+General Context: A garment usually worn by professionals.
+More Specific Context: Typically double-breasted with buttons and a starched finish.
+Answer: Chefs Coat
+
+General Context: Many sizes are available, from pocketsize to large.
+More Specific Context: Used for various functions like reading, gaming, and web browsing.
+Answer: Tablet Computer
+
+General Context: An accessory for timekeeping and home decor.
+Additional General Context: Can be mounted on a wall or placed on a mantle.
+Answer: Pendulum Clock
+
+General Context: An appliance that regulates indoor climate.
+Additional General Context: Provides a comfortable environment during hot weather.
+Answer: Air Conditioner
+
+General Context: Designed for durability and providing ankle support.
+More Specific Context: Often waterproof and with good traction for rough terrains.
+Answer: Hiking Boots
+
+General Context: Absorbs moisture efficiently.
+More Specific Context: Generally made of soft, woven fabric or plush material.
+Answer: Bath Towel
+
+General Context: A device used for digital content creation.
+More Specific Context: Portable and often handheld for capturing life's moments.
+Answer: Camcorder
+
+General Context: Seen often in classrooms, homes, and businesses.
+Additional General Context: A popular office supply for adhering papers.
+Answer: Adhesive Tape
+
+General Context: A device used outdoors.
+More Specific Context: Typically operates with charcoal, propane, or electricity.
+Answer: Barbecue Grill
+
+General Context: An item designed for a board game.
+Additional General Context: Used on a grid with alternating light and dark squares.
+Answer: Chess Set

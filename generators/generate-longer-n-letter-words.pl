@@ -4,26 +4,36 @@ use strict;
 use Cwd;
 
 # Usage:
-# ./generate-n-letter-words.pl > top-500-words.txt
+# ./generate-longer-n-letter-words.pl > 8-letter-words.txt
 #
 
 my $repeat = 1; #number of times to repeat
-my $word_length = 3;
-my $num_random_words = 1500;
+my $word_length = 6;
+my $num_random_words = 99*5;
 
-open(my $fh, '<', "data/top-2000-words.txt")
-    or die "Could not open data/top-2000-words.txt";
+# Number of words
+# Words 8 .. 586
+# Words 9 .. 464
+# Words 10 .. 357
+# Words 11 .. 215
+# Words 12 .. 99
+
+open(my $fh, '<', "data/word-list.txt")
+    or die "Could not open data/word-list.txt";
 
 my @words;
 while(my $line = <$fh>) {
-    $line =~ m/^(\w+),/;
+    $line =~ m/^(\w+)$/;
     my $word = $1;
 
     if(length($word) == $word_length) {
         push @words, $word;
+        #print "word: $word\n";
     }
 
 }
+#print "number of words found: " . scalar(@words) . "\n";
+#exit 1;
 
 my %prev_picked;
 
