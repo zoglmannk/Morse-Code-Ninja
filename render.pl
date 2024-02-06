@@ -3,6 +3,7 @@
 use strict;
 use warnings;
 
+use utf8;
 use Cwd;
 use File::Basename;
 use File::Copy;
@@ -37,7 +38,7 @@ GetOptions(
   'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # typically 1 second
   'sc|silencecontext=s' => \(my $silence_between_context_and_morse_code = "1"),
   'x|extraspace=s'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
-  'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | SWEDISH
+  'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | GERMAN | SWEDISH
   'p|pitchtone=i'     => \(my $pitch_tone = 700), # tone in Hz for pitch
   'pr|pitchrandom'    => \(my $pitch_tone_random = '0'), # flag. 0 == false, random pitch tone
   'speedAdjustRegex=s'=> \(my $speedAdjustRegex = "") # format Eg., s/<speed1>/1.5/,s/<speed2>/2.5/
@@ -78,6 +79,12 @@ if($lang eq "SWEDISH") {
   $lower_lang_chars_regex = "a-zåäö";
   $upper_lang_chars_regex = "A-ZÄÅÖ";
 }
+if($lang eq "GERMAN") {
+  $lower_lang_chars_regex = "a-züäöß";
+  $upper_lang_chars_regex = "A-ZÜÄÖß";
+}
+
+binmode(STDOUT, ":encoding(UTF-8)");
 
 my $cmd;
 my @cmdLst;
@@ -96,7 +103,7 @@ my $filename_base = File::Spec->catpath("", $dirs, $file);
 print "filename base: $filename_base\n";
 my $filename_base_without_path = $file;
 
-open my $fh, '<', $filename or die "Can't open file $!";
+open my $fh, '<:encoding(UTF-8)', $filename or die "Can't open file $!";
 my $file_content = do { local $/; <$fh> };
 close $fh;
 
@@ -323,7 +330,7 @@ sub split_on_spoken_directive {
     $raw =~ s/\|(?=w\d+)/XXXWORDSPEEDXXX/g;
 
     $raw =~ s/\^//g;
-    $raw =~ s/[^A-Za-z0-9\.\?<>,'\s]//g;
+    $raw =~ s/[^${upper_lang_chars_regex}${lower_lang_chars_regex}0-9\.\?<>,'\s]//g;
 
     $raw =~ s/XXXWORDSPEEDXXX/|/g;
 
@@ -339,8 +346,8 @@ my $count = 1;
 my $is_sentence = 1;
 my $sentence;
 my %filename_map;
-open(my $fh_all, '>', "$filename_base-sentences.txt");
-open(my $fh_structure, '>', "$filename_base-structure.txt");
+open(my $fh_all, ">:encoding(UTF-8)", "$filename_base-sentences.txt");
+open(my $fh_structure, ">:encoding(UTF-8)", "$filename_base-structure.txt");
 
 my $ebookCmd;
 
@@ -414,7 +421,7 @@ foreach(@sentences) {
       if($word_limit != -1) {
         rename("$output_directory/sentence.txt", '$filename_base-$counter.txt');
       } else {
-        open(my $fh_spoken, '>', "$filename_base-$counter.txt");
+        open(my $fh_spoken, ">:encoding(UTF-8)", "$filename_base-$counter.txt");
         print $fh_spoken "$spoken_text\n";
         close $fh_spoken;
       }
@@ -592,7 +599,7 @@ foreach(@sentences) {
               return $cached_file_with_path;
             }
 
-            open(my $fh, '>', "$output_directory/sentence-${speed}.txt");
+            open(my $fh, ">:encoding(UTF-8)", "$output_directory/sentence-${speed}.txt");
             my $updated_sentence_chunk = $sentence_chunk;
             if($sentence_chunk ne "") {
               my @speed_regexes = split(/,/, $speedAdjustRegex);
@@ -668,7 +675,7 @@ foreach(@sentences) {
                 # generate repeat section if it is different than the sentence
                 if (!$no_repeat_morse && $word_limit == -1 && ($repeat_part ne $sentence_part || ($character_multiplier ne "1" && $standard_speed_repeat != 0))
                     && (!-f $cached_repeat_filename)) {
-                  open(my $fh_repeat, '>', "$output_directory/sentence-repeat.txt");
+                  open(my $fh_repeat, ">:encoding(UTF-8)", "$output_directory/sentence-repeat.txt");
                   print $fh_repeat "$repeat_part\n";
                   close $fh_repeat;
 
@@ -736,7 +743,7 @@ foreach(@sentences) {
       print "saying the whole sentence: $sentence\n";
 
       if(!$test) {
-        open(my $fh, '>', $output_directory.'/sentence.txt');
+        open(my $fh, ">:encoding(UTF-8)", $output_directory.'/sentence.txt');
         print $fh "$sentence\n";
 
         my $counter = sprintf("%05d",$count);
@@ -836,7 +843,7 @@ if(!$test) {
       unlink "$filename_base-${speed}wpm.mp3";
       my $voiced_context = 0;
 
-      open(my $fh_list, '>', "$filename_base-list-${speed}wpm.txt");
+      open(my $fh_list, ">:encoding(UTF-8)", "$filename_base-list-${speed}wpm.txt");
       for (my $i=1; $i <= $count; $i++) {
         my $counter = sprintf("%05d",$i);
         my $next_counter = sprintf("%05d",$i+1);
@@ -1051,6 +1058,6 @@ sub print_usage {
   print "    --sc, --silencecontext length of silence between spoken context and morse code. Default 1 second.\n";
   print "    --st, --silencemanualcourtesytone length of silence between Morse code and manually specified courtesy tone <courtesyTone>. Default 1 second.\n";
   print "    -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc\n";
-  print "    -l, --lang           language: ENGLISH or SWEDISH\n\n";
+  print "    -l, --lang           language: ENGLISH, GERMAN, or SWEDISH\n\n";
   die "";
 }
