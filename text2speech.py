@@ -60,7 +60,6 @@ base_filename = engine_type + '-' + hex_digest + ".mp3"
 temp_filename = cache_directory + engine_type + "-" + hex_digest + "-temp.mp3"
 cache_filename = cache_directory + hex_digest + ".mp3"
 
-
 def render(cache_filename, voice_id, text_type, text):
     if not os.path.exists(cache_filename):
         polly_client = boto3.Session(aws_access_key_id=aws_properties['aws_access_key_id'],
@@ -110,7 +109,10 @@ else:
     voice_id = "Matthew"
 
     if language == "SWEDISH":
-        voice_id = "Astrid"
+        if engine_type == "neural":
+            voice_id = "Elin"
+        else:
+            voice_id = "Astrid"
 
     if language == "GERMAN":
         voice_id = "Vicki"
