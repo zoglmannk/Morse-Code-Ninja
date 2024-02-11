@@ -1,0 +1,400 @@
+lua [l,u,a]^
+s6e [s,6,e]^
+rdt [r,d,t]^
+1rf [1,r,f]^
+2b5 [2,b,5]^
+bgh [b,g,h]^
+r2b [r,2,b]^
+5hb [5,h,b]^
+cyi [c,y,i]^
+\?nd [ question mark ,n,d]^
+67d [6, 7,d]^
+4bp [4,b,p]^
+1hd [1,h,d]^
+\?oy [ question mark ,o,y]^
+1\?o [1, question mark ,o]^
+/59 [ slash ,5, 9]^
+3bp [3,b,p]^
+gb3 [g,b,3]^
+\?f/ [ question mark ,f, slash]^
+5bd [5,b,d]^
+p6a [p,6,a]^
+63b [6, 3,b]^
+c\?2 [c, question mark ,2]^
+lop [l,o,p]^
+mtf [m,t,f]^
+tbr [t,b,r]^
+e53 [e,5, 3]^
+eia [e,i,a]^
+nb/ [n,b, slash]^
+uld [u,l,d]^
+bot [b,o,t]^
+4y9 [4,y,9]^
+f94 [f,9, 4]^
+\?/2 [ question mark , slash ,2]^
+6b1 [6,b,1]^
+cbr [c,b,r]^
+hm2 [h,m,2]^
+lni [l,n,i]^
+4yn [4,y,n]^
+blt [b,l,t]^
+uh1 [u,h,1]^
+\?hb [ question mark ,h,b]^
+f3b [f,3,b]^
+gep [g,e,p]^
+fuw [f,u,w]^
+4yg [4,y,g]^
+5m1 [5,m,1]^
+gbu [g,b,u]^
+5rh [5,r,h]^
+btf [b,t,f]^
+bw9 [b,w,9]^
+pib [p,i,b]^
+\?53 [ question mark ,5, 3]^
+lib [l,i,b]^
+27p [2, 7,p]^
+ylb [y,l,b]^
+17b [1, 7,b]^
+sco [s,c,o]^
+hob [h,o,b]^
+so5 [s,o,5]^
+4t7 [4,t,7]^
+ane [a,n,e]^
+tbt [t,b,t]^
+bre [b,r,e]^
+2ta [2,t,a]^
+cad [c,a,d]^
+5o4 [5,o,4]^
+ep9 [e,p,9]^
+nwu [n,w,u]^
+31\? [3, 1, question mark]^
+hem [h,e,m]^
+2yb [2,y,b]^
+wy\? [w,y, question mark]^
+ls/ [l,s, slash]^
+\?pt [ question mark ,p,t]^
+elb [e,l,b]^
+mbu [m,b,u]^
+obc [o,b,c]^
+bm/ [b,m, slash]^
+14a [1, 4,a]^
+6o6 [6,o,6]^
+i5b [i,5,b]^
+rml [r,m,l]^
+pan [p,a,n]^
+5gn [5,g,n]^
+\?ea [ question mark ,e,a]^
+6yb [6,y,b]^
+6yg [6,y,g]^
+134 [1, 3,4]^
+6h4 [6,h,4]^
+cih [c,i,h]^
+9c9 [9,c,9]^
+din [d,i,n]^
+\?tb [ question mark ,t,b]^
+ntb [n,t,b]^
+y3/ [y,3, slash]^
+a9/ [a,9, slash]^
+w56 [w,5, 6]^
+/39 [ slash ,3, 9]^
+bw/ [b,w, slash]^
+\?f/ [ question mark ,f, slash]^
+br9 [b,r,9]^
+2po [2,p,o]^
+6dt [6,d,t]^
+1tf [1,t,f]^
+m4c [m,4,c]^
+m\?t [m, question mark ,t]^
+lc3 [l,c,3]^
+bdb [b,d,b]^
+29o [2, 9,o]^
+tfr [t,f,r]^
+1r7 [1,r,7]^
+b\?g [b, question mark ,g]^
+w6n [w,6,n]^
+52s [5, 2,s]^
+tmn [t,m,n]^
+6/i [6, slash ,i]^
+\?o5 [ question mark ,o,5]^
+bsy [b,s,y]^
+61b [6, 1,b]^
+unb [u,n,b]^
+cmc [c,m,c]^
+dc4 [d,c,4]^
+c2d [c,2,d]^
+6pb [6,p,b]^
+g/p [g, slash ,p]^
+/fb [ slash ,f,b]^
+sgb [s,g,b]^
+wrp [w,r,p]^
+bdm [b,d,m]^
+ime [i,m,e]^
+wsy [w,s,y]^
+b1\? [b,1, question mark]^
+w/4 [w, slash ,4]^
+7\?b [7, question mark ,b]^
+9\?i [9, question mark ,i]^
+c2/ [c,2, slash]^
+3hr [3,h,r]^
+5hg [5,h,g]^
+sab [s,a,b]^
+cah [c,a,h]^
+b9r [b,9,r]^
+osd [o,s,d]^
+oef [o,e,f]^
+5ht [5,h,t]^
+ice [i,c,e]^
+bob [b,o,b]^
+rpr [r,p,r]^
+bdy [b,d,y]^
+br\? [b,r, question mark]^
+9\?n [9, question mark ,n]^
+/cl [ slash ,c,l]^
+b\?u [b, question mark ,u]^
+bd2 [b,d,2]^
+nhm [n,h,m]^
+sem [s,e,m]^
+cdb [c,d,b]^
+h17 [h,1, 7]^
+n2u [n,2,u]^
+bd3 [b,d,3]^
+yab [y,a,b]^
+cps [c,p,s]^
+a7o [a,7,o]^
+m2n [m,2,n]^
+abr [a,b,r]^
+w\?b [w, question mark ,b]^
+\?al [ question mark ,a,l]^
+on1 [o,n,1]^
+ghb [g,h,b]^
+9ed [9,e,d]^
+\?b1 [ question mark ,b,1]^
+igu [i,g,u]^
+hgy [h,g,y]^
+mpi [m,p,i]^
+by6 [b,y,6]^
+d\?m [d, question mark ,m]^
+or\? [o,r, question mark]^
+dfr [d,f,r]^
+/sm [ slash ,s,m]^
+ebu [e,b,u]^
+\?eb [ question mark ,e,b]^
+fbw [f,b,w]^
+b3t [b,3,t]^
+37e [3, 7,e]^
+yap [y,a,p]^
+d3a [d,3,a]^
+bmt [b,m,t]^
+7e3 [7,e,3]^
+r32 [r,3, 2]^
+rb6 [r,b,6]^
+1bm [1,b,m]^
+ibu [i,b,u]^
+b\?b [b, question mark ,b]^
+14u [1, 4,u]^
+wfs [w,f,s]^
+t2b [t,2,b]^
+if\? [i,f, question mark]^
+/c2 [ slash ,c,2]^
+bie [b,i,e]^
+f96 [f,9, 6]^
+wmn [w,m,n]^
+bi/ [b,i, slash]^
+\?42 [ question mark ,4, 2]^
+lby [l,b,y]^
+fba [f,b,a]^
+l\?b [l, question mark ,b]^
+wrb [w,r,b]^
+aw4 [a,w,4]^
+sbw [s,b,w]^
+19f [1, 9,f]^
+nrt [n,r,t]^
+b4\? [b,4, question mark]^
+agh [a,g,h]^
+2rb [2,r,b]^
+hel [h,e,l]^
+n1n [n,1,n]^
+bub [b,u,b]^
+i2t [i,2,t]^
+5b6 [5,b,6]^
+bdo [b,d,o]^
+lb2 [l,b,2]^
+u6h [u,6,h]^
+512 [5, 1,2]^
+/6a [ slash ,6,a]^
+ba4 [b,a,4]^
+72m [7, 2,m]^
+/b5 [ slash ,b,5]^
+1ab [1,a,b]^
+1fe [1,f,e]^
+12h [1, 2,h]^
+/19 [ slash ,1, 9]^
+s5b [s,5,b]^
+imp [i,m,p]^
+ty7 [t,y,7]^
+us3 [u,s,3]^
+1b\? [1,b, question mark]^
+5c1 [5,c,1]^
+ebh [e,b,h]^
+iyb [i,y,b]^
+cop [c,o,p]^
+5c7 [5,c,7]^
+ah6 [a,h,6]^
+w/1 [w, slash ,1]^
+afg [a,f,g]^
+bhr [b,h,r]^
+2bn [2,b,n]^
+4ut [4,u,t]^
+/9\? [ slash ,9, question mark]^
+o2b [o,2,b]^
+cts [c,t,s]^
+2b/ [2,b, slash]^
+9b9 [9,b,9]^
+b7\? [b,7, question mark]^
+i13 [i,1, 3]^
+u1b [u,1,b]^
+mb\? [m,b, question mark]^
+itg [i,t,g]^
+5y9 [5,y,9]^
+byi [b,y,i]^
+bm7 [b,m,7]^
+4ta [4,t,a]^
+bsu [b,s,u]^
+o/r [o, slash ,r]^
+sul [s,u,l]^
+nm2 [n,m,2]^
+s6i [s,6,i]^
+m3l [m,3,l]^
+pa2 [p,a,2]^
+5bg [5,b,g]^
+uob [u,o,b]^
+gan [g,a,n]^
+6ho [6,h,o]^
+gfu [g,f,u]^
+bs4 [b,s,4]^
+13c [1, 3,c]^
+m4b [m,4,b]^
+6mb [6,m,b]^
+etw [e,t,w]^
+3n\? [3,n, question mark]^
+6/a [6, slash ,a]^
+p/b [p, slash ,b]^
+n34 [n,3, 4]^
+ndt [n,d,t]^
+/bc [ slash ,b,c]^
+m64 [m,6, 4]^
+aiy [a,i,y]^
+9e4 [9,e,4]^
+ch3 [c,h,3]^
+dls [d,l,s]^
+\?b6 [ question mark ,b,6]^
+4db [4,d,b]^
+g45 [g,4, 5]^
+e\?4 [e, question mark ,4]^
+b3w [b,3,w]^
+l9/ [l,9, slash]^
+u6a [u,6,a]^
+b\?b [b, question mark ,b]^
+73a [7, 3,a]^
+byt [b,y,t]^
+\?25 [ question mark ,2, 5]^
+niy [n,i,y]^
+te\? [t,e, question mark]^
+dy3 [d,y,3]^
+bm6 [b,m,6]^
+m\?l [m, question mark ,l]^
+bf3 [b,f,3]^
+hr3 [h,r,3]^
+fmr [f,m,r]^
+bi5 [b,i,5]^
+1fp [1,f,p]^
+4p\? [4,p, question mark]^
+cy4 [c,y,4]^
+m9t [m,9,t]^
+i\?l [i, question mark ,l]^
+w9u [w,9,u]^
+wo7 [w,o,7]^
+s6a [s,6,a]^
+6ba [6,b,a]^
+gwe [g,w,e]^
+lc9 [l,c,9]^
+leh [l,e,h]^
+yb1 [y,b,1]^
+lfb [l,f,b]^
+nwi [n,w,i]^
+6\?u [6, question mark ,u]^
+i6u [i,6,u]^
+ibt [i,b,t]^
+4bp [4,b,p]^
+53r [5, 3,r]^
+e63 [e,6, 3]^
+e6t [e,6,t]^
+nyu [n,y,u]^
+4b7 [4,b,7]^
+9go [9,g,o]^
+bf4 [b,f,4]^
+7h2 [7,h,2]^
+uc\? [u,c, question mark]^
+/of [ slash ,o,f]^
+m9g [m,9,g]^
+l/l [l, slash ,l]^
+b76 [b,7, 6]^
+efb [e,f,b]^
+db7 [d,b,7]^
+g1d [g,1,d]^
+n7d [n,7,d]^
+fif [f,i,f]^
+\?9l [ question mark ,9,l]^
+bhb [b,h,b]^
+lnp [l,n,p]^
+wbe [w,b,e]^
+rb4 [r,b,4]^
+bwc [b,w,c]^
+sgy [s,g,y]^
+lsg [l,s,g]^
+bfp [b,f,p]^
+hig [h,i,g]^
+bgb [b,g,b]^
+593 [5, 9,3]^
+6db [6,d,b]^
+i91 [i,9, 1]^
+\?25 [ question mark ,2, 5]^
+c4i [c,4,i]^
+1t1 [1,t,1]^
+bl6 [b,l,6]^
+s/r [s, slash ,r]^
+ghn [g,h,n]^
+2pa [2,p,a]^
+iw/ [i,w, slash]^
+l/u [l, slash ,u]^
+snm [s,n,m]^
+fbn [f,b,n]^
+cbp [c,b,p]^
+217 [2, 1,7]^
+d5b [d,5,b]^
+fd5 [f,d,5]^
+prg [p,r,g]^
+ldr [l,d,r]^
+g5g [g,5,g]^
+4bg [4,b,g]^
+b2r [b,2,r]^
+b/b [b, slash ,b]^
+c\?f [c, question mark ,f]^
+m7b [m,7,b]^
+o7b [o,7,b]^
+4bc [4,b,c]^
+9hb [9,h,b]^
+/pw [ slash ,p,w]^
+6yl [6,y,l]^
+ns3 [n,s,3]^
+r\?l [r, question mark ,l]^
+s\?3 [s, question mark ,3]^
+97c [9, 7,c]^
+u1b [u,1,b]^
+hwt [h,w,t]^
+16/ [1, 6, slash]^
+abd [a,b,d]^
+l6i [l,6,i]^
+lb7 [l,b,7]^
+n/2 [n, slash ,2]^
+3i/ [3,i, slash]^

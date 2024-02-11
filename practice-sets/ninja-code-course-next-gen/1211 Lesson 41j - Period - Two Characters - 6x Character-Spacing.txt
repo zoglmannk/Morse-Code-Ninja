@@ -1,0 +1,600 @@
+b<BK> [b, <BK>]^
+nr [n,r]^
+f8 [f,8]^
+\.0 [ period ,0]^
+\.\? [ period , question mark]^
+/6 [ slash ,6]^
+7\. [7, period]^
+r7 [r,7]^
+8j [8,j]^
+1v [1,v]^
+\.<BK> [ period , <BK>]^
+31 [3, 1]^
+v1 [v,1]^
+c\. [c, period]^
+mk [m,k]^
+<BT>m [<BT>, m]^
+l0 [l,0]^
+6\? [6, question mark]^
+0\. [0, period]^
+kq [k,q]^
+rb [r,b]^
+\.s [ period ,s]^
+89 [8, 9]^
+rb [r,b]^
+/j [ slash ,j]^
+0q [0,q]^
+1l [1,l]^
+\.y [ period ,y]^
+\.d [ period ,d]^
+s6 [s,6]^
+m\. [m, period]^
+3d [3,d]^
+n<BT> [n, <BT>]^
+rb [r,b]^
+/3 [ slash ,3]^
+\.o [ period ,o]^
+<BK>\. [<BK>,  period]^
+x9 [x,9]^
+<BK>\. [<BK>,  period]^
+59 [5, 9]^
+o3 [o,3]^
+wf [w,f]^
+gl [g,l]^
+32 [3, 2]^
+qz [q,z]^
+uv [u,v]^
+pq [p,q]^
+lw [l,w]^
+68 [6, 8]^
+yu [y,u]^
+p\. [p, period]^
+w6 [w,6]^
+\?h [ question mark ,h]^
+/\. [ slash , period]^
+0k [0,k]^
+fu [f,u]^
+qj [q,j]^
+yq [y,q]^
+aw [a,w]^
+lu [l,u]^
+8t [8,t]^
+8w [8,w]^
+5q [5,q]^
+w\? [w, question mark]^
+ez [e,z]^
+ua [u,a]^
+6w [6,w]^
+u\. [u, period]^
+pf [p,f]^
+m8 [m,8]^
+c0 [c,0]^
+\./ [ period , slash]^
+zv [z,v]^
+<BT>\. [<BT>,  period]^
+j<BT> [j, <BT>]^
+oc [o,c]^
+mp [m,p]^
+v0 [v,0]^
+8e [8,e]^
+9r [9,r]^
+5x [5,x]^
+l6 [l,6]^
+\.f [ period ,f]^
+\.v [ period ,v]^
+<BT>f [<BT>, f]^
+\.p [ period ,p]^
+8f [8,f]^
+\?f [ question mark ,f]^
+wa [w,a]^
+6c [6,c]^
+<BK>w [<BK>, w]^
+3b [3,b]^
+2\. [2, period]^
+s9 [s,9]^
+vf [v,f]^
+kl [k,l]^
+jb [j,b]^
+n7 [n,7]^
+rl [r,l]^
+76 [7, 6]^
+7\. [7, period]^
+nh [n,h]^
+x<BT> [x, <BT>]^
+35 [3, 5]^
+bh [b,h]^
+vq [v,q]^
+6d [6,d]^
+6q [6,q]^
+1t [1,t]^
+xp [x,p]^
+q\. [q, period]^
+ou [o,u]^
+a\. [a, period]^
+a4 [a,4]^
+ks [k,s]^
+8/ [8, slash]^
+3<BT> [3, <BT>]^
+ic [i,c]^
+5n [5,n]^
+\.z [ period ,z]^
+w\. [w, period]^
+np [n,p]^
+di [d,i]^
+w3 [w,3]^
+t2 [t,2]^
+xb [x,b]^
+46 [4, 6]^
+f3 [f,3]^
+\.5 [ period ,5]^
+zl [z,l]^
+ih [i,h]^
+\?5 [ question mark ,5]^
+n6 [n,6]^
+2q [2,q]^
+xp [x,p]^
+06 [0, 6]^
+i\? [i, question mark]^
+cd [c,d]^
+f\. [f, period]^
+1u [1,u]^
+<BT>p [<BT>, p]^
+1c [1,c]^
+e1 [e,1]^
+0a [0,a]^
+jr [j,r]^
+\.\? [ period , question mark]^
+nb [n,b]^
+2r [2,r]^
+5v [5,v]^
+\.1 [ period ,1]^
+em [e,m]^
+94 [9, 4]^
+qj [q,j]^
+\./ [ period , slash]^
+jq [j,q]^
+gh [g,h]^
+m\. [m, period]^
+ag [a,g]^
+nz [n,z]^
+9q [9,q]^
+\?\. [ question mark , period]^
+4<BT> [4, <BT>]^
+y9 [y,9]^
+mj [m,j]^
+ad [a,d]^
+x\. [x, period]^
+i\. [i, period]^
+ov [o,v]^
+\?p [ question mark ,p]^
+x1 [x,1]^
+u\. [u, period]^
+yh [y,h]^
+v4 [v,4]^
+7k [7,k]^
+\.i [ period ,i]^
+fd [f,d]^
+7d [7,d]^
+c0 [c,0]^
+28 [2, 8]^
+3\. [3, period]^
+wf [w,f]^
+yc [y,c]^
+1p [1,p]^
+\?x [ question mark ,x]^
+\.g [ period ,g]^
+z\. [z, period]^
+\?i [ question mark ,i]^
+ps [p,s]^
+d4 [d,4]^
+yk [y,k]^
+na [n,a]^
+us [u,s]^
+ky [k,y]^
+\.5 [ period ,5]^
+1\. [1, period]^
+p6 [p,6]^
+9/ [9, slash]^
+9/ [9, slash]^
+p<BT> [p, <BT>]^
+\.l [ period ,l]^
+s7 [s,7]^
+p\? [p, question mark]^
+f3 [f,3]^
+qh [q,h]^
+v\. [v, period]^
+a1 [a,1]^
+34 [3, 4]^
+\.m [ period ,m]^
+3l [3,l]^
+yl [y,l]^
+qs [q,s]^
+q\. [q, period]^
+ld [l,d]^
+pr [p,r]^
+5/ [5, slash]^
+\.a [ period ,a]^
+3\? [3, question mark]^
+<BT>\? [<BT>,  question mark]^
+mq [m,q]^
+ng [n,g]^
+j\. [j, period]^
+<BK>r [<BK>, r]^
+\.n [ period ,n]^
+j7 [j,7]^
+a3 [a,3]^
+<BT>3 [<BT>, 3]^
+45 [4, 5]^
+u5 [u,5]^
+\.7 [ period ,7]^
+qn [q,n]^
+<BT>5 [<BT>, 5]^
+\.m [ period ,m]^
+gu [g,u]^
+p5 [p,5]^
+0q [0,q]^
+\.g [ period ,g]^
+<BK>\. [<BK>,  period]^
+f\. [f, period]^
+<BK>w [<BK>, w]^
+gt [g,t]^
+\.d [ period ,d]^
+fu [f,u]^
+\?x [ question mark ,x]^
+s1 [s,1]^
+h9 [h,9]^
+0v [0,v]^
+0u [0,u]^
+\.b [ period ,b]^
+<BK>a [<BK>, a]^
+n9 [n,9]^
+\.7 [ period ,7]^
+sk [s,k]^
+lb [l,b]^
+60 [6, 0]^
+3j [3,j]^
+/x [ slash ,x]^
+\.<BK> [ period , <BK>]^
+\.b [ period ,b]^
+l1 [l,1]^
+j\. [j, period]^
+<BK>l [<BK>, l]^
+<BK>t [<BK>, t]^
+p<BT> [p, <BT>]^
+u\. [u, period]^
+<BT>\. [<BT>,  period]^
+/f [ slash ,f]^
+/9 [ slash ,9]^
+10 [1, 0]^
+<BT>v [<BT>, v]^
+<BK>k [<BK>, k]^
+9p [9,p]^
+<BT>a [<BT>, a]^
+2h [2,h]^
+g3 [g,3]^
+iq [i,q]^
+0k [0,k]^
+\./ [ period , slash]^
+az [a,z]^
+gm [g,m]^
+zt [z,t]^
+ox [o,x]^
+w<BT> [w, <BT>]^
+xd [x,d]^
+\.u [ period ,u]^
+wj [w,j]^
+zx [z,x]^
+pm [p,m]^
+\.u [ period ,u]^
+q\? [q, question mark]^
+\.<BT> [ period , <BT>]^
+\.1 [ period ,1]^
+\.1 [ period ,1]^
+tf [t,f]^
+p4 [p,4]^
+n\. [n, period]^
+3m [3,m]^
+k6 [k,6]^
+7\. [7, period]^
+/r [ slash ,r]^
+ia [i,a]^
+p\. [p, period]^
+eu [e,u]^
+i\. [i, period]^
+8u [8,u]^
+09 [0, 9]^
+do [d,o]^
+fw [f,w]^
+cp [c,p]^
+f\. [f, period]^
+/<BT> [ slash , <BT>]^
+4v [4,v]^
+s6 [s,6]^
+l<BK> [l, <BK>]^
+r5 [r,5]^
+w1 [w,1]^
+2\. [2, period]^
+9u [9,u]^
+9\. [9, period]^
+o2 [o,2]^
+y<BK> [y, <BK>]^
+q\. [q, period]^
+d0 [d,0]^
+\.3 [ period ,3]^
+ef [e,f]^
+<BT>x [<BT>, x]^
+\.x [ period ,x]^
+2\. [2, period]^
+v3 [v,3]^
+k0 [k,0]^
+mi [m,i]^
+s\? [s, question mark]^
+kn [k,n]^
+<BT>0 [<BT>, 0]^
+qz [q,z]^
+pw [p,w]^
+eg [e,g]^
+\.r [ period ,r]^
+1v [1,v]^
+l\. [l, period]^
+ur [u,r]^
+ge [g,e]^
+\.1 [ period ,1]^
+n9 [n,9]^
+p\. [p, period]^
+dh [d,h]^
+5<BT> [5, <BT>]^
+al [a,l]^
+16 [1, 6]^
+lh [l,h]^
+pe [p,e]^
+2y [2,y]^
+ae [a,e]^
+9b [9,b]^
+\.j [ period ,j]^
+v5 [v,5]^
+rb [r,b]^
+9i [9,i]^
+f\? [f, question mark]^
+<BT>i [<BT>, i]^
+x6 [x,6]^
+9e [9,e]^
+\.m [ period ,m]^
+hi [h,i]^
+n\? [n, question mark]^
+gs [g,s]^
+8h [8,h]^
+t8 [t,8]^
+ni [n,i]^
+mt [m,t]^
+/5 [ slash ,5]^
+tm [t,m]^
+u8 [u,8]^
+p7 [p,7]^
+\.z [ period ,z]^
+sm [s,m]^
+2u [2,u]^
+8s [8,s]^
+i\. [i, period]^
+<BT>\? [<BT>,  question mark]^
+40 [4, 0]^
+o5 [o,5]^
+bz [b,z]^
+4a [4,a]^
+\.0 [ period ,0]^
+j\. [j, period]^
+nh [n,h]^
+\.7 [ period ,7]^
+1f [1,f]^
+x\. [x, period]^
+el [e,l]^
+47 [4, 7]^
+lp [l,p]^
+l\. [l, period]^
+10 [1, 0]^
+wm [w,m]^
+2c [2,c]^
+ec [e,c]^
+/6 [ slash ,6]^
+1b [1,b]^
+ks [k,s]^
+\.w [ period ,w]^
+7\. [7, period]^
+\?e [ question mark ,e]^
+z8 [z,8]^
+72 [7, 2]^
+de [d,e]^
+3u [3,u]^
+p/ [p, slash]^
+5o [5,o]^
+bf [b,f]^
+\.k [ period ,k]^
+d\. [d, period]^
+6b [6,b]^
+q\. [q, period]^
+bl [b,l]^
+<BK>g [<BK>, g]^
+xs [x,s]^
+/\. [ slash , period]^
+ep [e,p]^
+b\? [b, question mark]^
+aw [a,w]^
+h2 [h,2]^
+ej [e,j]^
+/7 [ slash ,7]^
+5\. [5, period]^
+i9 [i,9]^
+\.0 [ period ,0]^
+\.n [ period ,n]^
+02 [0, 2]^
+<BK>5 [<BK>, 5]^
+<BT>b [<BT>, b]^
+p1 [p,1]^
+ly [l,y]^
+8s [8,s]^
+nt [n,t]^
+8o [8,o]^
+ue [u,e]^
+fv [f,v]^
+au [a,u]^
+iv [i,v]^
+mi [m,i]^
+43 [4, 3]^
+j8 [j,8]^
+e\. [e, period]^
+jx [j,x]^
+un [u,n]^
+aw [a,w]^
+\.n [ period ,n]^
+\.3 [ period ,3]^
+rf [r,f]^
+\.z [ period ,z]^
+<BT>3 [<BT>, 3]^
+kf [k,f]^
+m\. [m, period]^
+m\. [m, period]^
+2<BK> [2, <BK>]^
+u1 [u,1]^
+g\. [g, period]^
+7g [7,g]^
+ed [e,d]^
+qk [q,k]^
+0n [0,n]^
+2d [2,d]^
+qy [q,y]^
+2\. [2, period]^
+j0 [j,0]^
+gf [g,f]^
+zy [z,y]^
+cq [c,q]^
+mb [m,b]^
+6w [6,w]^
+uy [u,y]^
+40 [4, 0]^
+cu [c,u]^
+9s [9,s]^
+6s [6,s]^
+mh [m,h]^
+83 [8, 3]^
+bq [b,q]^
+9\. [9, period]^
+/i [ slash ,i]^
+r<BK> [r, <BK>]^
+wg [w,g]^
+wr [w,r]^
+0h [0,h]^
+z\. [z, period]^
+fg [f,g]^
+d2 [d,2]^
+qv [q,v]^
+nu [n,u]^
+kx [k,x]^
+\.n [ period ,n]^
+2b [2,b]^
+wr [w,r]^
+/1 [ slash ,1]^
+t\. [t, period]^
+jq [j,q]^
+l2 [l,2]^
+3w [3,w]^
+\.3 [ period ,3]^
+lq [l,q]^
+c\. [c, period]^
+tk [t,k]^
+\.d [ period ,d]^
+qp [q,p]^
+t5 [t,5]^
+fr [f,r]^
+\.g [ period ,g]^
+85 [8, 5]^
+d3 [d,3]^
+\?f [ question mark ,f]^
+03 [0, 3]^
+p7 [p,7]^
+go [g,o]^
+rm [r,m]^
+2h [2,h]^
+\.f [ period ,f]^
+8m [8,m]^
+k/ [k, slash]^
+9x [9,x]^
+3o [3,o]^
+t\. [t, period]^
+rf [r,f]^
+sq [s,q]^
+7b [7,b]^
+dq [d,q]^
+/6 [ slash ,6]^
+fu [f,u]^
+<BT>r [<BT>, r]^
+4g [4,g]^
+kc [k,c]^
+dt [d,t]^
+\?\. [ question mark , period]^
+jy [j,y]^
+mn [m,n]^
+k6 [k,6]^
+\.8 [ period ,8]^
+5w [5,w]^
+1\. [1, period]^
+9\. [9, period]^
+9k [9,k]^
+c<BT> [c, <BT>]^
+mq [m,q]^
+z5 [z,5]^
+mc [m,c]^
+57 [5, 7]^
+ir [i,r]^
+f9 [f,9]^
+q\. [q, period]^
+sf [s,f]^
+au [a,u]^
+b\. [b, period]^
+g5 [g,5]^
+01 [0, 1]^
+yi [y,i]^
+8p [8,p]^
+3y [3,y]^
+b<BK> [b, <BK>]^
+\.p [ period ,p]^
+1\. [1, period]^
+n\. [n, period]^
+v3 [v,3]^
+6x [6,x]^
+y\. [y, period]^
+a1 [a,1]^
+e\. [e, period]^
+xu [x,u]^
+pc [p,c]^
+b5 [b,5]^
+qr [q,r]^
+z9 [z,9]^
+g4 [g,4]^
+v<BT> [v, <BT>]^
+l8 [l,8]^
+r4 [r,4]^
+xp [x,p]^
+w\. [w, period]^
+0e [0,e]^
+\?x [ question mark ,x]^
+4c [4,c]^
+lu [l,u]^
+se [s,e]^
+8\? [8, question mark]^
+q\. [q, period]^
+p<BK> [p, <BK>]^
+b<BK> [b, <BK>]^
+rp [r,p]^
+w\. [w, period]^
+ut [u,t]^
+74 [7, 4]^
+au [a,u]^
+e<BK> [e, <BK>]^
+\.r [ period ,r]^
+qo [q,o]^
+\.e [ period ,e]^
+<BK>7 [<BK>, 7]^
+8r [8,r]^
+<BK>h [<BK>, h]^
+2y [2,y]^
+\.o [ period ,o]^

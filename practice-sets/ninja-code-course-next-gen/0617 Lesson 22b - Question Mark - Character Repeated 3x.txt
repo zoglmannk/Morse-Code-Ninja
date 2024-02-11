@@ -1,0 +1,600 @@
+nnn[n|n]^
+uuu[u|u]^
+www[w|w]^
+eee[e|e]^
+ddd[d|d]^
+ttt[t|t]^
+\?\?\?[ question mark |\?]^
+666[6|6]^
+ccc[c|c]^
+eee[e|e]^
+rrr[r|r]^
+ooo[o|o]^
+mmm[m|m]^
+uuu[u|u]^
+\?\?\?[ question mark |\?]^
+666[6|6]^
+rrr[r|r]^
+sss[s|s]^
+\?\?\?[ question mark |\?]^
+sss[s|s]^
+444[4|4]^
+666[6|6]^
+rrr[r|r]^
+iii[i|i]^
+ddd[d|d]^
+rrr[r|r]^
+sss[s|s]^
+333[3|3]^
+lll[l|l]^
+www[w|w]^
+uuu[u|u]^
+\?\?\?[ question mark |\?]^
+www[w|w]^
+333[3|3]^
+aaa[a|a]^
+\?\?\?[ question mark |\?]^
+www[w|w]^
+555[5|5]^
+mmm[m|m]^
+222[2|2]^
+rrr[r|r]^
+uuu[u|u]^
+\?\?\?[ question mark |\?]^
+ooo[o|o]^
+aaa[a|a]^
+ttt[t|t]^
+555[5|5]^
+eee[e|e]^
+uuu[u|u]^
+666[6|6]^
+iii[i|i]^
+ccc[c|c]^
+lll[l|l]^
+ddd[d|d]^
+www[w|w]^
+sss[s|s]^
+\?\?\?[ question mark |\?]^
+eee[e|e]^
+\?\?\?[ question mark |\?]^
+ooo[o|o]^
+444[4|4]^
+222[2|2]^
+rrr[r|r]^
+ttt[t|t]^
+sss[s|s]^
+555[5|5]^
+aaa[a|a]^
+lll[l|l]^
+555[5|5]^
+ooo[o|o]^
+ccc[c|c]^
+sss[s|s]^
+nnn[n|n]^
+\?\?\?[ question mark |\?]^
+aaa[a|a]^
+\?\?\?[ question mark |\?]^
+iii[i|i]^
+666[6|6]^
+uuu[u|u]^
+555[5|5]^
+lll[l|l]^
+333[3|3]^
+111[1|1]^
+ccc[c|c]^
+lll[l|l]^
+uuu[u|u]^
+ooo[o|o]^
+hhh[h|h]^
+444[4|4]^
+lll[l|l]^
+555[5|5]^
+aaa[a|a]^
+444[4|4]^
+iii[i|i]^
+lll[l|l]^
+\?\?\?[ question mark |\?]^
+444[4|4]^
+hhh[h|h]^
+eee[e|e]^
+\?\?\?[ question mark |\?]^
+555[5|5]^
+uuu[u|u]^
+555[5|5]^
+nnn[n|n]^
+aaa[a|a]^
+333[3|3]^
+hhh[h|h]^
+111[1|1]^
+mmm[m|m]^
+eee[e|e]^
+lll[l|l]^
+\?\?\?[ question mark |\?]^
+hhh[h|h]^
+sss[s|s]^
+\?\?\?[ question mark |\?]^
+333[3|3]^
+555[5|5]^
+ddd[d|d]^
+555[5|5]^
+ddd[d|d]^
+uuu[u|u]^
+222[2|2]^
+\?\?\?[ question mark |\?]^
+hhh[h|h]^
+eee[e|e]^
+rrr[r|r]^
+555[5|5]^
+nnn[n|n]^
+666[6|6]^
+ddd[d|d]^
+sss[s|s]^
+aaa[a|a]^
+eee[e|e]^
+ddd[d|d]^
+uuu[u|u]^
+\?\?\?[ question mark |\?]^
+uuu[u|u]^
+\?\?\?[ question mark |\?]^
+hhh[h|h]^
+333[3|3]^
+222[2|2]^
+hhh[h|h]^
+222[2|2]^
+lll[l|l]^
+555[5|5]^
+ddd[d|d]^
+eee[e|e]^
+666[6|6]^
+444[4|4]^
+ddd[d|d]^
+iii[i|i]^
+aaa[a|a]^
+666[6|6]^
+ttt[t|t]^
+www[w|w]^
+aaa[a|a]^
+444[4|4]^
+\?\?\?[ question mark |\?]^
+222[2|2]^
+\?\?\?[ question mark |\?]^
+iii[i|i]^
+hhh[h|h]^
+www[w|w]^
+aaa[a|a]^
+\?\?\?[ question mark |\?]^
+666[6|6]^
+111[1|1]^
+333[3|3]^
+444[4|4]^
+333[3|3]^
+\?\?\?[ question mark |\?]^
+666[6|6]^
+ccc[c|c]^
+ddd[d|d]^
+ttt[t|t]^
+333[3|3]^
+aaa[a|a]^
+eee[e|e]^
+444[4|4]^
+ooo[o|o]^
+\?\?\?[ question mark |\?]^
+lll[l|l]^
+iii[i|i]^
+uuu[u|u]^
+\?\?\?[ question mark |\?]^
+aaa[a|a]^
+ttt[t|t]^
+ddd[d|d]^
+lll[l|l]^
+\?\?\?[ question mark |\?]^
+iii[i|i]^
+sss[s|s]^
+444[4|4]^
+ttt[t|t]^
+sss[s|s]^
+ooo[o|o]^
+ttt[t|t]^
+mmm[m|m]^
+666[6|6]^
+222[2|2]^
+eee[e|e]^
+444[4|4]^
+sss[s|s]^
+\?\?\?[ question mark |\?]^
+mmm[m|m]^
+111[1|1]^
+nnn[n|n]^
+\?\?\?[ question mark |\?]^
+ttt[t|t]^
+sss[s|s]^
+\?\?\?[ question mark |\?]^
+555[5|5]^
+iii[i|i]^
+rrr[r|r]^
+ttt[t|t]^
+sss[s|s]^
+ccc[c|c]^
+\?\?\?[ question mark |\?]^
+eee[e|e]^
+444[4|4]^
+uuu[u|u]^
+666[6|6]^
+444[4|4]^
+666[6|6]^
+ddd[d|d]^
+222[2|2]^
+eee[e|e]^
+\?\?\?[ question mark |\?]^
+lll[l|l]^
+uuu[u|u]^
+ddd[d|d]^
+mmm[m|m]^
+aaa[a|a]^
+333[3|3]^
+444[4|4]^
+333[3|3]^
+111[1|1]^
+lll[l|l]^
+rrr[r|r]^
+aaa[a|a]^
+111[1|1]^
+lll[l|l]^
+444[4|4]^
+ccc[c|c]^
+\?\?\?[ question mark |\?]^
+lll[l|l]^
+uuu[u|u]^
+333[3|3]^
+ooo[o|o]^
+eee[e|e]^
+lll[l|l]^
+444[4|4]^
+aaa[a|a]^
+222[2|2]^
+555[5|5]^
+sss[s|s]^
+\?\?\?[ question mark |\?]^
+aaa[a|a]^
+lll[l|l]^
+\?\?\?[ question mark |\?]^
+lll[l|l]^
+ooo[o|o]^
+aaa[a|a]^
+lll[l|l]^
+iii[i|i]^
+ddd[d|d]^
+\?\?\?[ question mark |\?]^
+444[4|4]^
+hhh[h|h]^
+nnn[n|n]^
+222[2|2]^
+555[5|5]^
+ddd[d|d]^
+www[w|w]^
+666[6|6]^
+nnn[n|n]^
+aaa[a|a]^
+666[6|6]^
+rrr[r|r]^
+nnn[n|n]^
+222[2|2]^
+ccc[c|c]^
+333[3|3]^
+555[5|5]^
+ddd[d|d]^
+nnn[n|n]^
+ooo[o|o]^
+nnn[n|n]^
+uuu[u|u]^
+\?\?\?[ question mark |\?]^
+aaa[a|a]^
+\?\?\?[ question mark |\?]^
+rrr[r|r]^
+333[3|3]^
+www[w|w]^
+uuu[u|u]^
+lll[l|l]^
+rrr[r|r]^
+uuu[u|u]^
+ddd[d|d]^
+\?\?\?[ question mark |\?]^
+hhh[h|h]^
+mmm[m|m]^
+666[6|6]^
+ddd[d|d]^
+\?\?\?[ question mark |\?]^
+ooo[o|o]^
+eee[e|e]^
+nnn[n|n]^
+333[3|3]^
+iii[i|i]^
+444[4|4]^
+111[1|1]^
+aaa[a|a]^
+www[w|w]^
+222[2|2]^
+\?\?\?[ question mark |\?]^
+ddd[d|d]^
+222[2|2]^
+rrr[r|r]^
+hhh[h|h]^
+\?\?\?[ question mark |\?]^
+eee[e|e]^
+222[2|2]^
+www[w|w]^
+444[4|4]^
+555[5|5]^
+eee[e|e]^
+ttt[t|t]^
+nnn[n|n]^
+\?\?\?[ question mark |\?]^
+sss[s|s]^
+ccc[c|c]^
+lll[l|l]^
+uuu[u|u]^
+ccc[c|c]^
+ooo[o|o]^
+ddd[d|d]^
+eee[e|e]^
+uuu[u|u]^
+555[5|5]^
+\?\?\?[ question mark |\?]^
+rrr[r|r]^
+ddd[d|d]^
+ccc[c|c]^
+333[3|3]^
+mmm[m|m]^
+\?\?\?[ question mark |\?]^
+www[w|w]^
+555[5|5]^
+iii[i|i]^
+www[w|w]^
+555[5|5]^
+\?\?\?[ question mark |\?]^
+666[6|6]^
+\?\?\?[ question mark |\?]^
+ccc[c|c]^
+sss[s|s]^
+hhh[h|h]^
+\?\?\?[ question mark |\?]^
+111[1|1]^
+eee[e|e]^
+222[2|2]^
+111[1|1]^
+mmm[m|m]^
+\?\?\?[ question mark |\?]^
+mmm[m|m]^
+ccc[c|c]^
+eee[e|e]^
+ttt[t|t]^
+lll[l|l]^
+eee[e|e]^
+ooo[o|o]^
+444[4|4]^
+ccc[c|c]^
+222[2|2]^
+sss[s|s]^
+mmm[m|m]^
+ttt[t|t]^
+666[6|6]^
+\?\?\?[ question mark |\?]^
+444[4|4]^
+\?\?\?[ question mark |\?]^
+444[4|4]^
+eee[e|e]^
+uuu[u|u]^
+\?\?\?[ question mark |\?]^
+ddd[d|d]^
+\?\?\?[ question mark |\?]^
+rrr[r|r]^
+nnn[n|n]^
+www[w|w]^
+ooo[o|o]^
+sss[s|s]^
+eee[e|e]^
+ddd[d|d]^
+rrr[r|r]^
+ddd[d|d]^
+ccc[c|c]^
+ttt[t|t]^
+lll[l|l]^
+uuu[u|u]^
+ooo[o|o]^
+nnn[n|n]^
+hhh[h|h]^
+ttt[t|t]^
+222[2|2]^
+\?\?\?[ question mark |\?]^
+111[1|1]^
+iii[i|i]^
+ddd[d|d]^
+444[4|4]^
+hhh[h|h]^
+666[6|6]^
+555[5|5]^
+uuu[u|u]^
+mmm[m|m]^
+ooo[o|o]^
+rrr[r|r]^
+\?\?\?[ question mark |\?]^
+rrr[r|r]^
+hhh[h|h]^
+666[6|6]^
+ddd[d|d]^
+eee[e|e]^
+sss[s|s]^
+222[2|2]^
+ttt[t|t]^
+\?\?\?[ question mark |\?]^
+444[4|4]^
+\?\?\?[ question mark |\?]^
+ddd[d|d]^
+ooo[o|o]^
+111[1|1]^
+333[3|3]^
+aaa[a|a]^
+uuu[u|u]^
+\?\?\?[ question mark |\?]^
+ttt[t|t]^
+eee[e|e]^
+lll[l|l]^
+333[3|3]^
+111[1|1]^
+iii[i|i]^
+sss[s|s]^
+ooo[o|o]^
+ttt[t|t]^
+lll[l|l]^
+ddd[d|d]^
+333[3|3]^
+444[4|4]^
+ccc[c|c]^
+\?\?\?[ question mark |\?]^
+ddd[d|d]^
+rrr[r|r]^
+111[1|1]^
+222[2|2]^
+uuu[u|u]^
+aaa[a|a]^
+666[6|6]^
+555[5|5]^
+uuu[u|u]^
+rrr[r|r]^
+uuu[u|u]^
+eee[e|e]^
+rrr[r|r]^
+\?\?\?[ question mark |\?]^
+uuu[u|u]^
+www[w|w]^
+eee[e|e]^
+\?\?\?[ question mark |\?]^
+mmm[m|m]^
+555[5|5]^
+sss[s|s]^
+111[1|1]^
+ccc[c|c]^
+\?\?\?[ question mark |\?]^
+222[2|2]^
+444[4|4]^
+ttt[t|t]^
+eee[e|e]^
+rrr[r|r]^
+666[6|6]^
+hhh[h|h]^
+\?\?\?[ question mark |\?]^
+mmm[m|m]^
+ooo[o|o]^
+ccc[c|c]^
+\?\?\?[ question mark |\?]^
+nnn[n|n]^
+aaa[a|a]^
+mmm[m|m]^
+www[w|w]^
+iii[i|i]^
+www[w|w]^
+444[4|4]^
+aaa[a|a]^
+lll[l|l]^
+www[w|w]^
+333[3|3]^
+rrr[r|r]^
+666[6|6]^
+\?\?\?[ question mark |\?]^
+222[2|2]^
+444[4|4]^
+ddd[d|d]^
+hhh[h|h]^
+555[5|5]^
+444[4|4]^
+rrr[r|r]^
+\?\?\?[ question mark |\?]^
+ttt[t|t]^
+555[5|5]^
+ttt[t|t]^
+\?\?\?[ question mark |\?]^
+aaa[a|a]^
+444[4|4]^
+uuu[u|u]^
+rrr[r|r]^
+iii[i|i]^
+ddd[d|d]^
+666[6|6]^
+\?\?\?[ question mark |\?]^
+ccc[c|c]^
+222[2|2]^
+111[1|1]^
+\?\?\?[ question mark |\?]^
+iii[i|i]^
+333[3|3]^
+eee[e|e]^
+sss[s|s]^
+ttt[t|t]^
+444[4|4]^
+ttt[t|t]^
+eee[e|e]^
+rrr[r|r]^
+hhh[h|h]^
+iii[i|i]^
+aaa[a|a]^
+444[4|4]^
+iii[i|i]^
+sss[s|s]^
+mmm[m|m]^
+555[5|5]^
+nnn[n|n]^
+sss[s|s]^
+www[w|w]^
+222[2|2]^
+lll[l|l]^
+rrr[r|r]^
+444[4|4]^
+333[3|3]^
+uuu[u|u]^
+sss[s|s]^
+hhh[h|h]^
+111[1|1]^
+ooo[o|o]^
+aaa[a|a]^
+555[5|5]^
+rrr[r|r]^
+sss[s|s]^
+www[w|w]^
+\?\?\?[ question mark |\?]^
+333[3|3]^
+ccc[c|c]^
+uuu[u|u]^
+666[6|6]^
+rrr[r|r]^
+uuu[u|u]^
+ooo[o|o]^
+555[5|5]^
+hhh[h|h]^
+aaa[a|a]^
+\?\?\?[ question mark |\?]^
+333[3|3]^
+222[2|2]^
+nnn[n|n]^
+ooo[o|o]^
+\?\?\?[ question mark |\?]^
+ccc[c|c]^
+ooo[o|o]^
+333[3|3]^
+nnn[n|n]^
+\?\?\?[ question mark |\?]^
+ooo[o|o]^
+sss[s|s]^
+\?\?\?[ question mark |\?]^
+rrr[r|r]^
+ooo[o|o]^
+rrr[r|r]^
+hhh[h|h]^
+ooo[o|o]^
+666[6|6]^
+aaa[a|a]^
+mmm[m|m]^
+ccc[c|c]^
+666[6|6]^
+iii[i|i]^
+ccc[c|c]^
+\?\?\?[ question mark |\?]^
