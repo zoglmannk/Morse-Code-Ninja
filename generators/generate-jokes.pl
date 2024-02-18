@@ -4,9 +4,9 @@ use strict;
 use warnings;
 
 # Usage:
-# ./generate-jokes > ../all-age-appropriate-jokes.txt
+# ./generate-jokes.pl > ../all-age-appropriate-jokes.txt
 #
-# ./render.pl -i all-age-appropriate-jokes.txt.txt -s 15 17 20 22 25 28 30 35 40 45 -ss 1.2 -sm 2
+# ./render.pl -i all-age-appropriate-jokes.txt -s 15 17 20 22 25 28 30 35 40 45 -ss 1.2 -sm 2
 
 open my $in, "<", "data/jokes-raw.txt";
 my @lines = <$in>;
