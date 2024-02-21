@@ -90,7 +90,7 @@ def render(cache_filename, voice_id, text_type, text):
 #          render.pl
 if language == "ENGLISH":
     # short individual words are easier to understand spoken more slowly
-    if re.match(r"<speak>.*?</speak>", sentence):
+    if re.match(r"\s*<speak>.*?</speak>\s*", sentence):
         print("Pronouncing exactly as specified")
         ssml = sentence
         cache_filename = cache_directory + "Mathew-exact-" + base_filename
