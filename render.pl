@@ -38,6 +38,7 @@ GetOptions(
   'sv|silencevoice=s' => \(my $silence_between_voice_and_repeat = "1"), # typically 1 second
   'sc|silencecontext=s' => \(my $silence_between_context_and_morse_code = "1"),
   'x|extraspace=s'    => \(my $extra_word_spacing = 0), # 0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
+  'precise'           => \(my $precise = ''), # flag. 1 = precise timing -- useful if using very tight times between morse code and spoken answer
   'l|lang=s'          => \(my $lang = "ENGLISH"), # ENGLISH | GERMAN | SWEDISH
   'p|pitchtone=i'     => \(my $pitch_tone = 700), # tone in Hz for pitch
   'pr|pitchrandom'    => \(my $pitch_tone_random = '0'), # flag. 0 == false, random pitch tone
@@ -53,6 +54,14 @@ if("$input_filename" eq "") {
   print("\n\n\n");
 
   print_usage();
+}
+
+# There is some overhead in the concatentation process, so we'll subtract it out
+if($precise) {
+  $silence_between_morse_code_and_spoken_voice -= "0.11";
+  if($silence_between_morse_code_and_spoken_voice <= 0) {
+    $silence_between_morse_code_and_spoken_voice = "0.03";
+  }
 }
 
 my $speed_racing_multiplier = 1.5;
@@ -435,7 +444,11 @@ foreach(@sentences) {
         while ($exit_code != 0 && (!$no_spoken || $filename_map_key =~ m/context/)) {
           my $textFile = File::Spec->rel2abs("$filename_base-${counter}");
 
-          my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory";
+          my $trim_silence = 0;
+          if($precise) {
+            $trim_silence = 1;
+          }
+          my $cmd = "./text2speech.py \"$textFile\" $text_to_speech_engine $lang $cache_directory $trim_silence";
           print "execute $cmd\n";
 
           my $output = `$cmd`;
@@ -569,7 +582,14 @@ foreach(@sentences) {
               $pitch_tone = $random_tones[ rand @random_tones ];
             }
 
-            my $ebookCmdBase = "ebook2cw $lang_option -R $rise_and_fall_time -F $rise_and_fall_time " .
+            my $ebookCmdBase = "";
+            if($precise) {
+              $ebookCmdBase = "./ebook2cw-trim.bash ";
+            } else {
+              $ebookCmdBase = "ebook2cw ";
+            }
+
+            $ebookCmdBase = $ebookCmdBase . "$lang_option -R $rise_and_fall_time -F $rise_and_fall_time " .
                 "$extra_word_spacing_option -f $pitch_tone -w $speed -s 44100 ";
             if ($farnsworth != 0) {
               $ebookCmdBase = $ebookCmdBase . "-e $farnsworth ";
@@ -750,7 +770,11 @@ foreach(@sentences) {
         rename("$output_directory/sentence.txt ", '$filename_base-$counter-full.txt');
         my $exit_code = -1;
         while($exit_code != 0 && $no_spoken != 0) {
-          my $cmd = './text2speech.py '."$filename_base-${counter}-full $text_to_speech_engine $lang $cache_directory";
+          my $trim_silence = 0;
+          if($precise) {
+            $trim_silence = 1;
+          }
+          my $cmd = './text2speech.py '."$filename_base-${counter}-full $text_to_speech_engine $lang $cache_directory $trim_silence";
           my $output = `$cmd`;
           $output =~ m/^Cached filename:(.*)\n/;
           my $full_voiced_filename = $1;
@@ -1010,7 +1034,9 @@ if(!$test) {
     else {
         $speed = $_;
     }
-    unlink "$output_directory/sentence-${speed}0000.mp3", "$output_directory/sentence-repeat-${speed}0000.mp3",  "$filename_base-list-${speed}wpm.txt", "$output_directory/silence.mp3";
+    unlink "$output_directory/sentence-${speed}0000.mp3", "$output_directory/sentence-repeat-${speed}0000.mp3",
+           "$filename_base-list-${speed}wpm.txt", "$output_directory/silence.mp3", "$output_directory/sentence-${speed}.txt",
+           "$output_directory/sentence-${speed}-orig0000.mp3";
   }
   unlink "$filename_base-structure.txt", "$filename_base-sentences.txt";
   unlink glob("$output_directory/silence*.mp3");
@@ -1052,12 +1078,14 @@ sub print_usage {
   print "    --nospoken           exclude spoken\n";
   print "    --nocourtesytone     exclude the courtesy tone\n";
   print "    -e, --engine         name of Polly speech engine to use: NEURAL or STANDARD\n";
-  print "    --sm, --silencemorse length of silence between Morse code and spoken voice. Default 1 second.\n";
-  print "    --ss, --silencesets  length of silence between courtesy tone and next practice set. Default 1 second.\n";
-  print "    --sv, --silencevoice length of silence between spoken voice and repeated morse code. Default 1 second.\n";
-  print "    --sc, --silencecontext length of silence between spoken context and morse code. Default 1 second.\n";
-  print "    --st, --silencemanualcourtesytone length of silence between Morse code and manually specified courtesy tone <courtesyTone>. Default 1 second.\n";
+  print "    -sm, --silencemorse length of silence between Morse code and spoken voice. Default 1 second.\n";
+  print "    -ss, --silencesets  length of silence between courtesy tone and next practice set. Default 1 second.\n";
+  print "    -sv, --silencevoice length of silence between spoken voice and repeated morse code. Default 1 second.\n";
+  print "    -sc, --silencecontext length of silence between spoken context and morse code. Default 1 second.\n";
+  print "    -st, --silencemanualcourtesytone length of silence between Morse code and manually specified courtesy tone <courtesyTone>. Default 1 second.\n";
   print "    -x, --extraspace     0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc\n";
+  print "    --precise            trim AWS Polly and ebook2cw audio -- useful when specifying very short time with -sm, --silencemorse length of silence between Morse code and spoken voice.\n";
+  print "                         ****Be sure*** to clear the cache directory if you are switching between precise and non-precise timing.\n";
   print "    -l, --lang           language: ENGLISH, GERMAN, or SWEDISH\n\n";
   die "";
 }

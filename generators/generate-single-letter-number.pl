@@ -11,7 +11,13 @@ use Cwd;
 #
 # Mind Melt
 # ./render.pl -i single-letter-number-mind-melt.txt -s 15 17 20 22 25 28 30 35 40 45 50 --norepeat --nocourtesytone -ss 0.2 -sm 0.2 -sv 0.2
-
+#
+# Warp -- Be sure to clear cache
+# ./render.pl -i single-letter-number-warp.txt -s 15 17 20 22 25 28 30 35 40 45 50 --norepeat --nocourtesytone -ss 0.5 -sm 0.5 -sv 0.5 --precise
+#
+# Warp -- Be sure to clear cache
+# ./render.pl -i single-letter-number-icr-territory.txt -s 15 17 20 22 25 28 30 35 40 45 50 --norepeat --nocourtesytone -ss 0.5 -sm 0.2 -sv 0.5 --precise
+#
 # Check distribution ./generate-single-letter-number.pl | sort | uniq -c
 
 my $number_of_runs = 5000;

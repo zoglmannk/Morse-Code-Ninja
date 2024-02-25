@@ -11,6 +11,12 @@ use Cwd;
 #
 # Mind Melt
 # ./render.pl -i single-letters-mind-melt.txt -s 15 17 20 22 25 28 30 35 40 45 50 --norepeat --nocourtesytone -ss 0.2 -sm 0.2 -sv 0.2
+#
+# Warp -- Be sure to clear cache
+# ./render.pl -i single-letters-warp.txt -s 15 17 20 22 25 28 30 35 40 45 50 --norepeat --nocourtesytone -ss 0.5 -sm 0.5 -sv 0.5 --precise
+#
+# ICR Territory -- Be sure to clear cache
+# ./render.pl -i single-letters-icr-territory.txt -s 15 17 20 22 25 28 30 35 40 45 50 --norepeat --nocourtesytone -ss 0.0 -sm 0.2 -sv 0.5 --precise
 
 my $number_of_runs = 5000;
 

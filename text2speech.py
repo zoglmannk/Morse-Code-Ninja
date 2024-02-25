@@ -6,7 +6,6 @@ import re
 import hashlib
 import os.path
 from os import environ
-import shutil
 import subprocess
 
 sentence_filename = sys.argv[1]
@@ -14,6 +13,7 @@ engine_type = sys.argv[2].lower()  # needs to be: standard | neural
 language = sys.argv[3]
 #cache_directory = 'cache/'
 cache_directory = sys.argv[4]
+trim_silence = sys.argv[5]
 
 # ERROR return codes (coordinate with render.pl for intelligent error handling)
 ioError = 2
@@ -57,7 +57,8 @@ with open(sentence_filename + ".txt", "r") as sentence_file:
 
 hex_digest = hashlib.sha256(sentence.encode('utf-8')).hexdigest()
 base_filename = engine_type + '-' + hex_digest + ".mp3"
-temp_filename = cache_directory + engine_type + "-" + hex_digest + "-temp.mp3"
+temp_resample_filename = cache_directory + engine_type + "-" + hex_digest + "-temp-resample.mp3"
+temp_sox_filename = cache_directory + engine_type + "-" + hex_digest + "-temp-sox.mp3"
 cache_filename = cache_directory + hex_digest + ".mp3"
 
 def render(cache_filename, voice_id, text_type, text):
@@ -71,17 +72,29 @@ def render(cache_filename, voice_id, text_type, text):
             response = polly_client.synthesize_speech(Engine=engine_type, VoiceId=voice_id, OutputFormat='mp3',
                                                       TextType=text_type, Text=text)
 
-        file = open(temp_filename, 'wb')
-        file.write(response['AudioStream'].read())
-        file.close()
+        if trim_silence == 1:
+            file = open(temp_sox_filename, 'wb')
+            file.write(response['AudioStream'].read())
+            file.close()
+
+            result = subprocess.run(['sox', temp_sox_filename, temp_resample_filename, 'silence', '1', '0.001', '1%'],
+                                    stdout=subprocess.PIPE,
+                                    universal_newlines=True)
+            os.remove(temp_sox_filename)
+        else:
+            file = open(temp_resample_filename, 'wb')
+            file.write(response['AudioStream'].read())
+            file.close()
+
 
         subprocess.run(['lame', '--resample', '44.1', '-a', '-b', '256',
-                        temp_filename,
+                        temp_resample_filename,
                         cache_filename],
                         stdout=subprocess.PIPE,
                         universal_newlines=True)
         
-        os.remove(temp_filename)
+        os.remove(temp_resample_filename)
+
 
     print("Cached filename:" + cache_filename)
 
@@ -90,7 +103,7 @@ def render(cache_filename, voice_id, text_type, text):
 #          render.pl
 if language == "ENGLISH":
     # short individual words are easier to understand spoken more slowly
-    if re.match(r"<speak>.*?</speak>", sentence):
+    if re.match(r"\s*<speak>.*?</speak>\s*", sentence):
         print("Pronouncing exactly as specified")
         ssml = sentence
         cache_filename = cache_directory + "Mathew-exact-" + base_filename

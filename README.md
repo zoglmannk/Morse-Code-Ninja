@@ -7,6 +7,7 @@ The software used to generate Morse Code Ninja practice sets as found on
 These must be installed and available in your Shell's PATH.
 * [ebook2cw](https://fkurz.net/ham/ebook2cw.html)
 * [ffmpeg](https://ffmpeg.org)
+* [sox](https://sourceforge.net/projects/sox/)
 * [lame](https://lame.sourceforge.io/)
 * [Perl 5](https://www.perl.org)
 * [Python 3](https://www.python.org)
@@ -64,12 +65,14 @@ Uses AWS Polly and requires valid credentials in the aws.properties file.<br/><b
     --nocourtesytone      exclude the courtesy tone
     --tone                include the courtesy tone
     -e, --engine          name of Polly speech engine to use: NEURAL or STANDARD
-    --sm, --silencemorse  length of silence between Morse code and spoken voice. Default 1 second.
-    --ss, --silencesets   length of silence between courtesy tone and next practice set. Default 1 second.
-    --sv, --silencevoice  length of silence between spoken voice and repeated morse code. Default 1 second.
-    --sc, --silencecontext length of silence between spoken context and morse code. Default 1 second.
-    --st, --silencemanualcourtesytone length of silence between Morse code and manually specified courtesy tone <courtesyTone>. Default 1 second.
+    -sm, --silencemorse  length of silence between Morse code and spoken voice. Default 1 second.
+    -ss, --silencesets   length of silence between courtesy tone and next practice set. Default 1 second.
+    -sv, --silencevoice  length of silence between spoken voice and repeated morse code. Default 1 second.
+    -sc, --silencecontext length of silence between spoken context and morse code. Default 1 second.
+    -st, --silencemanualcourtesytone length of silence between Morse code and manually specified courtesy tone <courtesyTone>. Default 1 second.
     -x, --extraspace      0 is no extra spacing. 0.5 is half word extra spacing. 1 is twice the word space. 1.5 is 2.5x the word space. etc
+    --precise             trim AWS Polly and ebook2cw audio -- useful when specifying very short time with -sm, --silencemorse length of silence between Morse code and spoken voice.
+                          ****Be sure*** to clear the cache directory if you are switching between precise and non-precise timing.\n";
     -l, --lang            language: ENGLISH or SWEDISH
 
 # General Notes
